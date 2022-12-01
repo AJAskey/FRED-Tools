@@ -11,6 +11,7 @@ import java.util.Set;
 import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
+import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataSeriesInfo;
 import net.ajaskey.market.tools.fred.FredUtils;
@@ -101,6 +102,8 @@ public class FredBuildInfoSeriesFile {
    */
   public static void main(String[] args) {
 
+    Utils.makeDir("debug");
+    Utils.makeDir("out");
     ApiKey.set();
 
     Debug.init("debug/FredBuildInfoSeriesFile.dbg");
@@ -108,7 +111,7 @@ public class FredBuildInfoSeriesFile {
     // buildFromDir("D:\\FRED-Data\\processed",
     // "D:\\FRED-Data\\out\\fred-series-info-fromdir.csv");
 
-    buildFromFile("D:\\FRED-Data\\input\\fred-series-info.txt", "D:\\FRED-Data\\out\\fred-series-info-fromfile.csv");
+    buildFromFile("data/fred-series-info.txt", "out/fred-series-info-fromfile.csv");
 
   }
 

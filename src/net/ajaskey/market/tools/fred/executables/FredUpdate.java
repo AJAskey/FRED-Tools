@@ -34,10 +34,12 @@ public class FredUpdate {
 
     ApiKey.set();
 
-    Debug.init("debug/FredInitLibrary.dbg");
-
     Utils.makeDir(FredUtils.fredPath + "/processed");
     Utils.makeDir(FredUtils.fredPath + "/out");
+    Utils.makeDir("debug");
+    Utils.makeDir("out");
+
+    Debug.init("debug/FredInitLibrary.dbg");
 
     final List<String> codeNames = FredUtils.readSeriesList(FredUtils.fredPath + "/input/fred-series-info.txt");
     List<FredUpdate> fuList = new ArrayList<>();
