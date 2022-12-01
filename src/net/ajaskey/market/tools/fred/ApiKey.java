@@ -21,7 +21,6 @@ package net.ajaskey.market.tools.fred;
 public class ApiKey {
 
   private static String apiKey = "";
-  int                   a;
 
   /**
    * @return the apiKey

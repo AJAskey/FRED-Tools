@@ -7,7 +7,7 @@
  
  Users will need to obtain an API Key from FRED - [API Key](https://fred.stlouisfed.org/docs/api/api_key.html) - The key is free and is used by the FRED server to monitor activity.
  
- I store my key in a Windows environment variable **FRED_APIKEY**. See class **ApiKey** for use.
+ I store my key in a Windows environment variable named **FRED_APIKEY**. See class **ApiKey** for use.
  
  ---
  
@@ -47,7 +47,7 @@
       Units             : Millions of Dollars
       Adjustment        : NSA
       Type              : LIN
-      Last Update       : 01-Nov-2022  5
+      Last Update       : 01-Nov-2022
       Last Observation  : 01-Sep-2022
       First Observation : 01-Jan-2002
       File Date         : 01-Jul-2022
