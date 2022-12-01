@@ -9,16 +9,33 @@
  
  I store my key in a Windows environment variable named **FRED_APIKEY**. See class **ApiKey** for use.
  
- ---
+---
+ 
+## Status
  
  01Dec2022 - Software is not stable in this new repository. It is good for viewing and test out on your local system. Expect issues for a while.
  I am working on it.
  
- ---
+---
  
+## Data
+
  The **data** directory contains a file named *fred-series-info.txt* which contains the series IDs I have found useful over the past 10+ years. The file is tab delimited and imports well into Excel for column width control.
  
- ---
+---
+ 
+## Executables
+
+ These are usable now but still need testing (which is ongoing).
+ 
+ **FredInitLibary** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredInitLibrary). This program will download date/value pairs for codes from input file. A CSV file of downloaded data will be in the **out** directory. 
+ 
+ Input is the *fred-series-info.txt* file from the **data** directory. A much smaller version called *fred-series-info-test.txt* is also available.
+ Output is set to go to the **out** directory.
+ Debug is set to go to the **debug** directory.
+ You can change these easily.
+ 
+---
  
  FRED API work flow:
  
