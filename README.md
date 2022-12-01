@@ -16,6 +16,10 @@
  
  ---
  
+ The **data** directory contains a file named *fred-series-info.txt* which contains the series IDs I have found useful over the past 10+ years.
+ 
+ ---
+ 
  FRED API work flow:
  
  1. Retrieve DataSeriesInfo with API call. This data provides context into the latest update available at FRED.
