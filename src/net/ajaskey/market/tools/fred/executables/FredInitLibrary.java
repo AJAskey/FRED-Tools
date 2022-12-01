@@ -26,6 +26,14 @@ public class FredInitLibrary {
   public final static int midPause  = 10;
   final static int        longPause = 15;
 
+  final static String ftLibDir  = FredUtils.fredPath + "/data";
+  final static String ftDataDir = FredUtils.fredPath + "/data";
+
+  /**
+   * For testing, point to a file with a smaller number of codes
+   */
+  final static String fsiFilename = ftDataDir + "/fred-series-info.txt";
+
   public static List<FredInitLibrary> getFilList() {
     return FredInitLibrary.filList;
   }
@@ -34,14 +42,15 @@ public class FredInitLibrary {
 
     ApiKey.set();
 
-    Utils.makeDir(FredUtils.fredPath + "/processed");
-    Utils.makeDir(FredUtils.fredPath + "/out");
+    Utils.makeDir(ftLibDir);
     Utils.makeDir("debug");
     Utils.makeDir("out");
 
     Debug.init("debug/FredInitLibrary.dbg");
 
-    final List<String> codeNames = FredUtils.readSeriesList(FredUtils.fredPath + "/input/fred-series-info.txt");
+    Debug.LOGGER.info(String.format("DataDir=%s  LibDir=%s  fsiFilename=%s", ftDataDir, ftLibDir, fsiFilename));
+
+    final List<String> codeNames = FredUtils.readSeriesList(fsiFilename);
 
     String codes = "Processing codes :" + Utils.NL;
     for (final String code : codeNames) {
@@ -55,10 +64,17 @@ public class FredInitLibrary {
     final DateTime dt = new DateTime(2000, DateTime.JANUARY, 1);
 
     int moreToDo = 1;
+    int lastMoreToDo = 0;
     while (moreToDo > 0) {
       moreToDo = FredInitLibrary.process(dt);
       Debug.LOGGER.info(String.format("%n--------------------------------%n%nReturn from Processing with moreToDo=%d.", moreToDo));
       if (moreToDo > 0) {
+        // Case where all codes are junk and will never be found at FRED.
+        if (lastMoreToDo >= moreToDo) {
+          Debug.LOGGER.info(String.format("Finished, only junk code(s) remain to be found.%n---------------------------------%n%n"));
+          break;
+        }
+        lastMoreToDo = moreToDo;
         Debug.LOGGER.info(String.format("%nPausing %d seconds.%n---------------------------------%n%n", FredInitLibrary.midPause));
         Utils.sleep(FredInitLibrary.midPause * 1000);
       }
@@ -66,15 +82,22 @@ public class FredInitLibrary {
 
     for (final FredInitLibrary fil : FredInitLibrary.filList) {
       System.out.println(fil.getName());
-      FredInitLibrary.writeToProcessed(fil);
+      FredInitLibrary.writeToLib(fil);
       FredInitLibrary.dsiList.add(fil.dsi);
     }
 
-    String fname = FredUtils.fredPath + "/out/fred-series-info.csv";
+    String fname = "out/fred-series-info.csv";
     FredUtils.writeSeriesInfoCsv(FredInitLibrary.dsiList, fname);
 
   }
 
+  /**
+   * 
+   * @param dt
+   * @return
+   * @throws FileNotFoundException
+   * @throws IOException
+   */
   public static int process(DateTime dt) throws FileNotFoundException, IOException {
 
     int unprocessed = 0;
@@ -142,7 +165,7 @@ public class FredInitLibrary {
     return unprocessed;
   }
 
-  public static void writeToProcessed(FredInitLibrary fil) {
+  public static void writeToLib(FredInitLibrary fil) {
 
     if (!fil.isComplete()) {
       return;
@@ -150,11 +173,11 @@ public class FredInitLibrary {
 
     final double scaler = FredUtils.getScaler(fil.dsi.getUnits());
 
-    final String fullFileName = FredUtils.toFullFileName(fil.dsi.getName(), fil.dsi.getTitle());
+    final String fullFileName = FredUtils.toFullFileName(ftLibDir, fil.dsi.getName(), fil.dsi.getTitle());
 
     final String ffn = fullFileName.replace(">", "greater");
     final File file = new File(ffn);
-    final File fileshort = new File(FredUtils.fredPath + "/processed/" + fil.dsi.getName() + ".csv");
+    final File fileshort = new File(ftLibDir + "/" + fil.dsi.getName() + ".csv");
 
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + fil.dsi.getFileDt());

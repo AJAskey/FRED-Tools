@@ -2,3 +2,4 @@ out/*
 bin/*
 debug/*
 tools/target/*
+data/*.csv

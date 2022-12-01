@@ -16,7 +16,7 @@ import net.ajaskey.market.tools.fred.legacy.FredCommon;
 
 public class FredUtils {
 
-  public final static String fredPath = "D:/FRED-Data";
+  public final static String fredPath = ".";
 
   final static String infoHeaderCsv = "Name,Title,Method,Frequency,Units,Type,Last Update,Last Data Observation,First Data Observation";
 
@@ -101,10 +101,10 @@ public class FredUtils {
    * @param title
    * @return
    */
-  public static String toFullFileName(final String series, final String title) {
+  public static String toFullFileName(String dir, final String series, final String title) {
 
     final String titl = FredCommon.cleanTitle(title);
-    String ret = FredCommon.fredPath + "/processed/" + "[" + series + "] - " + titl;
+    String ret = dir + "/" + "[" + series + "] - " + titl;
     final int len = ret.length();
     if (len > 250) {
       ret = ret.substring(0, 250).trim();
