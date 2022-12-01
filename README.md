@@ -16,7 +16,7 @@
  
  ---
  
- The **data** directory contains a file named *fred-series-info.txt* which contains the series IDs I have found useful over the past 10+ years.
+ The **data** directory contains a file named *fred-series-info.txt* which contains the series IDs I have found useful over the past 10+ years. The file is tab delimited and imports well into Excel for column width control.
  
  ---
  
