@@ -35,6 +35,12 @@
  Debug is set to go to the **debug** directory.
  You can change these easily.
  
+ **FredUpdate** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredUpdate). This program will download out-of-date date/value pairs for codes from input file. A CSV file of downloaded data will be in the **out** directory. 
+ 
+ Input is the *fred-series-info.txt* file from the **data** directory. A much smaller version called *fred-series-info-test.txt* is also available.
+ Debug is set to go to the **debug** directory.
+ You can change these easily.
+ 
 ---
  
  FRED API work flow:

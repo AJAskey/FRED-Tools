@@ -137,9 +137,13 @@ public class FredUpdate {
   }
 
   /**
+   * Process unprocessed DataSeriesInfo data from list. The number of entries
+   * processed is returned.
+   * 
+   * Sleeps are used to allow the FRED server to catch up.
    * 
    * @param fuList
-   * @return
+   * @return Number of unprocessed entries in list.
    */
   private static int process(List<FredUpdate> fuList) {
 
@@ -186,8 +190,14 @@ public class FredUpdate {
   }
 
   /**
+   * Process unprocessed DataSeries and DataValue data from list. The number of
+   * entries processed is returned.
    * 
-   * @return
+   * Successfully return date/value pair data is written to FRED library.
+   * 
+   * Sleeps are used to allow the FRED server to catch up.
+   * 
+   * @return Number of unprocessed entries in list.
    */
   private static int processValues() {
 
@@ -216,16 +226,17 @@ public class FredUpdate {
     return unprocessed;
   }
 
-  private final String name;
-
+  private final String   name;
   private final DateTime filedate;
-
   private DataSeriesInfo dsi;
+  private DataSeries     ds;
+  private boolean        update;
 
-  private DataSeries ds;
-
-  private boolean update;
-
+  /**
+   * Copy constructor
+   * 
+   * @param toCopy Instance to copy
+   */
   public FredUpdate(FredUpdate toCopy) {
     this.name = toCopy.name;
     this.filedate = new DateTime(toCopy.filedate);
@@ -237,8 +248,8 @@ public class FredUpdate {
   /**
    * Constructor
    *
-   * @param name
-   * @param filedate
+   * @param name     Name of code
+   * @param filedate Date of file found on system.
    */
   public FredUpdate(String name, DateTime filedate) {
     this.name = name;

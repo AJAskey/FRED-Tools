@@ -270,7 +270,7 @@ public class FredInitLibrary {
 
   private boolean isDsiValid() {
     boolean ret = false;
-    if (this.dsi != null) {
+    if (this.getDsi() != null) {
       ret = this.dsi.isValid();
     }
     return ret;
@@ -278,7 +278,7 @@ public class FredInitLibrary {
 
   private boolean isDsValid() {
     boolean ret = false;
-    if (this.ds != null) {
+    if (this.getDs() != null) {
       ret = this.ds.isValid();
     }
     return ret;

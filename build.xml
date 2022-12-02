@@ -46,5 +46,10 @@
             <classpath refid="FRED-Tools.classpath"/>
         </java>
     </target>
-              	
+    <target name="FredUpdate" depends="build">
+        <java classname="net.ajaskey.market.tools.fred.executables.FredUpdate" failonerror="true" fork="yes">
+            <classpath refid="FRED-Tools.classpath"/>
+        </java>
+    </target>
+	
 </project>
