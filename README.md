@@ -46,7 +46,7 @@
  FRED API work flow:
  
  1. Retrieve DataSeriesInfo with API call. This data provides context into the latest update available at FRED.
- 2. Retrieve a list of DataSeries and DataValues (list of dates and values) associated with the DataSeries Info.
+ 2. Retrieve a list of DataSeries and DataValues (list of date/value pairs) associated with the DataSeriesInfo.
  3. Do what you wish with the data programmatically. I write this to a file to be used by my charting software.
  
  DataSeriesInfo debug data:
