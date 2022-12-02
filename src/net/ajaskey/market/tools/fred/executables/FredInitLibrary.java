@@ -1,3 +1,21 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements. See the NOTICE file distributed with this
+ * work for additional information regarding copyright ownership. The ASF
+ * licenses this file to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ *
+ * Original author : Andy Askey (ajaskey34@gmail.com)
+ */
 package net.ajaskey.market.tools.fred.executables;
 
 import java.io.File;
@@ -16,6 +34,9 @@ import net.ajaskey.market.tools.fred.DataSeriesInfo;
 import net.ajaskey.market.tools.fred.DataValues;
 import net.ajaskey.market.tools.fred.FredUtils;
 
+/**
+ * Class uses to Initialize a new local FRED library.
+ */
 public class FredInitLibrary {
 
   public static int goodTotal = 0;
@@ -32,25 +53,47 @@ public class FredInitLibrary {
   /**
    * For testing, point to a file with a smaller number of codes
    */
-  final static String fsiFilename = ftDataDir + "/fred-series-info.txt";
+  final static String fsiFilename = FredInitLibrary.ftDataDir + "/fred-series-info.txt";
 
-  public static List<FredInitLibrary> getFilList() {
-    return FredInitLibrary.filList;
-  }
+//  public static List<FredInitLibrary> getFilList() {
+//    return FredInitLibrary.filList;
+//  }
 
+  /**
+   * Main procedure:
+   *
+   * 1. Reads data file with list of codes from FRED and creates a list of
+   * FredInitLibrary class of potential data.
+   *
+   * 2. Queries FRED for DataSeriesInfo and date/value list for each code.
+   * Continue to try until no progress is made (meaning possible bad code names
+   * from input).
+   *
+   * 3. The data for codes retrieved from FRED is written into file pairs per
+   * code. One file has the code as the file name. The other file has a longer
+   * description of what is in the file within '[]'.
+   *
+   * 4. A CSV file of those codes processed is created for review after the
+   * program end.
+   *
+   * @param args
+   * @throws FileNotFoundException
+   * @throws IOException
+   */
   public static void main(String[] args) throws FileNotFoundException, IOException {
 
     ApiKey.set();
 
-    Utils.makeDir(ftLibDir);
+    Utils.makeDir(FredInitLibrary.ftLibDir);
     Utils.makeDir("debug");
     Utils.makeDir("out");
 
     Debug.init("debug/FredInitLibrary.dbg");
 
-    Debug.LOGGER.info(String.format("DataDir=%s  LibDir=%s  fsiFilename=%s", ftDataDir, ftLibDir, fsiFilename));
+    Debug.LOGGER.info(
+        String.format("DataDir=%s  LibDir=%s  fsiFilename=%s", FredInitLibrary.ftDataDir, FredInitLibrary.ftLibDir, FredInitLibrary.fsiFilename));
 
-    final List<String> codeNames = FredUtils.readSeriesList(fsiFilename);
+    final List<String> codeNames = FredUtils.readSeriesList(FredInitLibrary.fsiFilename);
 
     String codes = "Processing codes :" + Utils.NL;
     for (final String code : codeNames) {
@@ -66,7 +109,9 @@ public class FredInitLibrary {
     int moreToDo = 1;
     int lastMoreToDo = 0;
     while (moreToDo > 0) {
+
       moreToDo = FredInitLibrary.process(dt);
+
       Debug.LOGGER.info(String.format("%n--------------------------------%n%nReturn from Processing with moreToDo=%d.", moreToDo));
       if (moreToDo > 0) {
         // Case where all codes are junk and will never be found at FRED.
@@ -86,19 +131,21 @@ public class FredInitLibrary {
       FredInitLibrary.dsiList.add(fil.dsi);
     }
 
-    String fname = "out/fred-series-info.csv";
+    final String fname = "out/fred-series-info.csv";
     FredUtils.writeSeriesInfoCsv(FredInitLibrary.dsiList, fname);
 
   }
 
   /**
-   * 
+   * Process unprocessed data from filList. The number of entries processed is
+   * returned.
+   *
    * @param dt
    * @return
    * @throws FileNotFoundException
    * @throws IOException
    */
-  public static int process(DateTime dt) throws FileNotFoundException, IOException {
+  private static int process(DateTime dt) throws FileNotFoundException, IOException {
 
     int unprocessed = 0;
     int processed = 0;
@@ -165,7 +212,14 @@ public class FredInitLibrary {
     return unprocessed;
   }
 
-  public static void writeToLib(FredInitLibrary fil) {
+  /**
+   * Write the data retrieved from FRED into file pairs per code. One file has the
+   * code as the file name. The other file has a longer description of what is in
+   * the file within '[]'.
+   *
+   * @param fil
+   */
+  private static void writeToLib(FredInitLibrary fil) {
 
     if (!fil.isComplete()) {
       return;
@@ -173,11 +227,11 @@ public class FredInitLibrary {
 
     final double scaler = FredUtils.getScaler(fil.dsi.getUnits());
 
-    final String fullFileName = FredUtils.toFullFileName(ftLibDir, fil.dsi.getName(), fil.dsi.getTitle());
+    final String fullFileName = FredUtils.toFullFileName(FredInitLibrary.ftLibDir, fil.dsi.getName(), fil.dsi.getTitle());
 
     final String ffn = fullFileName.replace(">", "greater");
     final File file = new File(ffn);
-    final File fileshort = new File(ftLibDir + "/" + fil.dsi.getName() + ".csv");
+    final File fileshort = new File(FredInitLibrary.ftLibDir + "/" + fil.dsi.getName() + ".csv");
 
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + fil.dsi.getFileDt());
@@ -198,50 +252,10 @@ public class FredInitLibrary {
   public DataSeriesInfo dsi;
   private DataSeries    ds;
 
-  public FredInitLibrary(String n) {
+  private FredInitLibrary(String n) {
     this.name = n;
     this.dsi = null;
     this.ds = null;
-  }
-
-  public DataSeries getDs() {
-    return this.ds;
-  }
-
-  public DataSeriesInfo getDsi() {
-    return this.dsi;
-  }
-
-  public String getName() {
-    return this.name;
-  }
-
-  public boolean isComplete() {
-    boolean ret = false;
-    if (this.dsi != null && this.ds != null) {
-      if (this.dsi.isValid()) {
-        if (this.ds.isValid()) {
-          ret = true;
-        }
-      }
-    }
-    return ret;
-  }
-
-  public boolean isDsiValid() {
-    boolean ret = false;
-    if (this.dsi != null) {
-      ret = this.dsi.isValid();
-    }
-    return ret;
-  }
-
-  public boolean isDsValid() {
-    boolean ret = false;
-    if (this.ds != null) {
-      ret = this.ds.isValid();
-    }
-    return ret;
   }
 
   @Override
@@ -254,6 +268,46 @@ public class FredInitLibrary {
       ret += String.format(" DS Valid  : %s%n", this.ds.isValid());
     }
     ret += String.format(" Complete  : %s", this.isComplete());
+    return ret;
+  }
+
+  private DataSeries getDs() {
+    return this.ds;
+  }
+
+  private DataSeriesInfo getDsi() {
+    return this.dsi;
+  }
+
+  private String getName() {
+    return this.name;
+  }
+
+  private boolean isComplete() {
+    boolean ret = false;
+    if (this.dsi != null && this.ds != null) {
+      if (this.dsi.isValid()) {
+        if (this.ds.isValid()) {
+          ret = true;
+        }
+      }
+    }
+    return ret;
+  }
+
+  private boolean isDsiValid() {
+    boolean ret = false;
+    if (this.dsi != null) {
+      ret = this.dsi.isValid();
+    }
+    return ret;
+  }
+
+  private boolean isDsValid() {
+    boolean ret = false;
+    if (this.ds != null) {
+      ret = this.ds.isValid();
+    }
     return ret;
   }
 
