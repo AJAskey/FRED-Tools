@@ -174,7 +174,6 @@ public class DataSeriesInfo {
   private String                  name;
   private String                  response;
   private String                  seasonalAdjustment;
-  private int                     timeOffset;
   private String                  title;
   private DataSeries.ResponseType type;
   private String                  units;
@@ -196,7 +195,6 @@ public class DataSeriesInfo {
     this.lastObservation = null;
     this.lastUpdate = null;
     this.fileDt = null;
-    this.timeOffset = 0;
     this.type = DataSeries.ResponseType.LIN;
     this.valid = false;
   }
@@ -219,7 +217,6 @@ public class DataSeriesInfo {
       this.lastUpdate = new DateTime(fld[7].trim(), "dd-MMM-yyyy");
 
       this.seasonalAdjustment = "";
-      this.timeOffset = 0;
       this.valid = true;
     }
     else {
@@ -232,7 +229,6 @@ public class DataSeriesInfo {
       this.lastObservation = null;
       this.lastUpdate = null;
       this.fileDt = null;
-      this.timeOffset = 0;
       this.type = DataSeries.ResponseType.LIN;
       this.valid = true;
     }
@@ -466,7 +462,7 @@ public class DataSeriesInfo {
     ret += "  Adjustment        : " + this.seasonalAdjustment + Utils.NL;
     ret += "  Type              : " + this.type + Utils.NL;
     if (this.lastUpdate != null) {
-      ret += "  Last Update       : " + this.lastUpdate + "  " + this.timeOffset + Utils.NL;
+      ret += "  Last Update       : " + this.lastUpdate + Utils.NL;
     }
     if (this.firstObservation != null) {
       ret += "  First Observation : " + this.firstObservation + Utils.NL;
@@ -500,9 +496,6 @@ public class DataSeriesInfo {
       final String dstr = attribute.substring(0, idx);
       final Date d = DataSeriesInfo.sdf.parse(dstr);
       this.lastUpdate = new DateTime(d);
-
-      final String os = attribute.substring(idx + 1);
-      this.timeOffset = Integer.parseInt(os);
     }
     catch (final ParseException e) {
       e.printStackTrace();

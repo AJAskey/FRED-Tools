@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Set;
 
 import net.ajaskey.common.DateTime;
+import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
 import net.ajaskey.market.tools.fred.legacy.FredCommon;
 
@@ -110,6 +111,47 @@ public class FredUtils {
       ret = ret.substring(0, 250).trim();
     }
     return ret + ".csv";
+  }
+
+  /**
+   * Write the data retrieved from FRED into file pairs per code. One file has the
+   * code as the file name. The other file has a longer description of what is in
+   * the file within '[]'.
+   *
+   * @param fil
+   */
+  public static void writeToLib(DataSeriesInfo dsi, DataSeries ds, String dir) {
+
+    if (!dsi.isValid()) {
+      return;
+    }
+    if (!ds.isValid()) {
+      return;
+    }
+
+    final double scaler = getScaler(dsi.getUnits());
+
+    final String fullFileName = toFullFileName(dir, dsi.getName(), dsi.getTitle());
+
+    final String ffn = fullFileName.replace(">", "greater");
+    final File file = new File(ffn);
+    final File fileshort = new File(dir + "/" + dsi.getName() + ".csv");
+
+    Debug.LOGGER.info(String.format("Long File=%s    ShortFile=%s", file.getAbsoluteFile(), fileshort.getAbsoluteFile()));
+
+    try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
+      pw.println("Date," + dsi.getFileDt());
+      pwShort.println("Date," + dsi.getName());
+      for (final DataValues dv : ds.getDvList()) {
+        final String date = dv.getDate().format("yyyy-MM-dd");
+        final double d = dv.getValue() * scaler;
+        pw.printf("%s,%.2f%n", date, d);
+        pwShort.printf("%s,%.2f%n", date, d);
+      }
+    }
+    catch (final FileNotFoundException e) {
+      e.printStackTrace();
+    }
   }
 
 }
