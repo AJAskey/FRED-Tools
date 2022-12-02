@@ -3,3 +3,4 @@ bin/*
 debug/*
 tools/target/*
 data/*.csv
+data/MTAPS.dat
