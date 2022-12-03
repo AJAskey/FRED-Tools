@@ -1,52 +1,50 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements. See the NOTICE file distributed with this
+ * work for additional information regarding copyright ownership. The ASF
+ * licenses this file to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ *
+ * Original author : Andy Askey (ajaskey34@gmail.com)
+ */
 package net.ajaskey.market.tools.fred.executables;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
-import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
-import net.ajaskey.common.TextUtils;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataSeriesInfo;
+import net.ajaskey.market.tools.fred.DsiQuery;
 import net.ajaskey.market.tools.fred.FredUtils;
 
+/**
+ * This class provides methods to create file <b>fred-series-info.txt</b>
+ * containing the latest data available for download from FRED
+ */
 public class FredBuildInfoSeriesFile {
 
   /**
+   * Reads a file containing FRED series id names, queries FRED for the latest
+   * info, and then writes that data.
    * 
-   * @param infilename
-   * @param outfilename
+   * @param infilename  Name of file containing series id names
+   * @param outfilename Name of file to write the output
    */
   public static void buildFromFile(String infilename, String outfilename) {
 
-    List<DataSeriesInfo> dsiList = new ArrayList<>();
-
-    DateTime dt = new DateTime(2000, DateTime.JANUARY, 1);
-
-    final Set<String> uniqCodes = new HashSet<>();
-
-    List<String> lines = TextUtils.readTextFile(infilename, true);
-    for (String line : lines) {
-      String fld[] = line.trim().split("\\s+");
-      String name = fld[0].trim().toUpperCase();
-      uniqCodes.add(name);
-
-    }
-    List<String> codes = new ArrayList<>(uniqCodes);
-    Collections.sort(codes);
-
-    for (String code : codes) {
-      DataSeriesInfo dsi = new DataSeriesInfo(code, dt);
-      if (dsi.isValid()) {
-        dsiList.add(dsi);
-      }
-    }
+    List<DataSeriesInfo> dsiList = DsiQuery.queryDataSeriesInfo(infilename);
 
     try {
       FredUtils.writeSeriesInfoCsv(dsiList, outfilename);
@@ -63,29 +61,7 @@ public class FredBuildInfoSeriesFile {
    */
   public static void buildFromDir(String fredlibdir, String outfilename) {
 
-    List<DataSeriesInfo> dsiList = new ArrayList<>();
-
-    final Set<String> uniqCodes = new HashSet<>();
-
-    final File folder = new File(fredlibdir);
-    final File[] existingFiles = folder.listFiles();
-    for (File f : existingFiles) {
-      String name = f.getName();
-      if (!name.startsWith("[")) {
-        uniqCodes.add(name.replaceAll(".csv", ""));
-      }
-    }
-    List<String> codes = new ArrayList<>(uniqCodes);
-    Collections.sort(codes);
-
-    DateTime dt = new DateTime(2000, DateTime.JANUARY, 1);
-
-    for (String code : codes) {
-      DataSeriesInfo dsi = new DataSeriesInfo(code, dt);
-      if (dsi.isValid()) {
-        dsiList.add(dsi);
-      }
-    }
+    List<DataSeriesInfo> dsiList = DsiQuery.queryDataSeriesInfo(new File(fredlibdir));
 
     try {
       FredUtils.writeSeriesInfoCsv(dsiList, outfilename);
@@ -93,6 +69,12 @@ public class FredBuildInfoSeriesFile {
     catch (FileNotFoundException e) {
       e.printStackTrace();
     }
+
+  }
+
+  public static List<DataSeriesInfo> queryDsi(String infile) {
+    return null;
+
   }
 
   /**
@@ -106,12 +88,17 @@ public class FredBuildInfoSeriesFile {
     Utils.makeDir("out");
     ApiKey.set();
 
-    Debug.init("debug/FredBuildInfoSeriesFile.dbg");
+    Debug.init("debug/FredBuildInfoSeriesFile.dbg", java.util.logging.Level.INFO);
 
-    // buildFromDir("D:\\FRED-Data\\processed",
-    // "D:\\FRED-Data\\out\\fred-series-info-fromdir.csv");
+//    List<DataSeriesInfo> dsiList = DsiQuery.queryDataSeriesInfo("data/fred-series-info-test.txt");
+//    for (DataSeriesInfo dsi : dsiList) {
+//      System.out.println(dsi);
+//    }
 
-    buildFromFile("data/fred-series-info.txt", "out/fred-series-info-fromfile.csv");
+    buildFromDir("data", "out/fred-series-info-fromdir.csv");
+
+    // buildFromFile("data/fred-series-info-test.txt",
+    // "out/fred-series-info-fromfile.csv");
 
   }
 

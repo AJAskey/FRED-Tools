@@ -35,7 +35,15 @@ public class Debug {
 
   private static boolean isInit = false;
 
+  public static boolean dolog = false;
+
   public final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+
+  public static void Log(String dbg) {
+    if (isInit) {
+      LOGGER.info(dbg);
+    }
+  }
 
   /**
    *
@@ -43,11 +51,13 @@ public class Debug {
    *
    * @param logfileName
    */
-  public static void init(final String logfileName) {
+  public static void init(final String logfileName, Level level) {
 
     if (Debug.isInit) {
       return;
     }
+
+    dolog = true;
 
     Handler fileHandler = null;
     Formatter simpleFormatter = null;
@@ -61,7 +71,7 @@ public class Debug {
       simpleFormatter = new SimpleFormatter();
       fileHandler.setFormatter(simpleFormatter);
 
-      fileHandler.setLevel(Level.ALL);
+      fileHandler.setLevel(level);
 
       Debug.LOGGER.addHandler(fileHandler);
 

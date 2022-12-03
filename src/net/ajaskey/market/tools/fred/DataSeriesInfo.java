@@ -121,7 +121,7 @@ public class DataSeriesInfo {
    */
   public static void main(final String[] args) throws FileNotFoundException {
 
-    Debug.init("out/dsi.dbg");
+    Debug.init("out/dsi.dbg", java.util.logging.Level.INFO);
 
     final DataSeriesInfo dsi = new DataSeriesInfo("CEU0500000001", new DateTime());
 
@@ -172,6 +172,7 @@ public class DataSeriesInfo {
   private DateTime                lastObservation;
   private DateTime                lastUpdate;
   private String                  name;
+  private String                  fullfilename;
   private String                  response;
   private String                  seasonalAdjustment;
   private String                  title;
@@ -187,6 +188,7 @@ public class DataSeriesInfo {
 
     this.response = "";
     this.name = "";
+    this.fullfilename = "";
     this.title = "";
     this.frequency = "";
     this.units = "";
@@ -282,6 +284,7 @@ public class DataSeriesInfo {
           this.setFileDt(fileDt);
         }
       }
+      this.fullfilename = FredUtils.toFullFileName(this.name, this.title);
       this.valid = true;
     }
     catch (final Exception e) {
@@ -299,6 +302,11 @@ public class DataSeriesInfo {
     return this.fileDt;
   }
 
+  public DateTime getFirstObservation() {
+
+    return this.firstObservation;
+  }
+
   /**
    * @return the frequency
    */
@@ -307,17 +315,16 @@ public class DataSeriesInfo {
     return this.frequency;
   }
 
+  public String getFullfilename() {
+    return this.fullfilename;
+  }
+
   /**
    * @return the lastObservation
    */
   public DateTime getLastObservation() {
 
     return this.lastObservation;
-  }
-
-  public DateTime getFirstObservation() {
-
-    return this.firstObservation;
   }
 
   /**
@@ -376,12 +383,32 @@ public class DataSeriesInfo {
     return this.units;
   }
 
+  public boolean isValid() {
+    return this.valid;
+  }
+
   /**
    * @param fileDt the fileDt to set
    */
   public void setFileDt(DateTime fileDt) {
 
     this.fileDt = fileDt;
+  }
+
+  /**
+   *
+   * @param attribute
+   */
+  public void setFirstObservation(final String attribute) {
+
+    try {
+      final Date d = DataSeriesInfo.sdf2.parse(attribute);
+      this.firstObservation = new DateTime(d);
+
+    }
+    catch (final ParseException e) {
+      e.printStackTrace();
+    }
   }
 
   /**
@@ -399,20 +426,8 @@ public class DataSeriesInfo {
     }
   }
 
-  /**
-   * 
-   * @param attribute
-   */
-  public void setFirstObservation(final String attribute) {
-
-    try {
-      final Date d = DataSeriesInfo.sdf2.parse(attribute);
-      this.firstObservation = new DateTime(d);
-
-    }
-    catch (final ParseException e) {
-      e.printStackTrace();
-    }
+  public void setLastUpdate(DateTime lastupdate) {
+    this.lastUpdate = new DateTime(lastupdate);
   }
 
   /**
@@ -461,8 +476,9 @@ public class DataSeriesInfo {
     ret += "  Units             : " + this.units + Utils.NL;
     ret += "  Adjustment        : " + this.seasonalAdjustment + Utils.NL;
     ret += "  Type              : " + this.type + Utils.NL;
+    ret += "  Full filename     : " + this.fullfilename + Utils.NL;
     if (this.lastUpdate != null) {
-      ret += "  Last Update       : " + this.lastUpdate + Utils.NL;
+      ret += "  Last Update       : " + this.lastUpdate.toFullString() + Utils.NL;
     }
     if (this.firstObservation != null) {
       ret += "  First Observation : " + this.firstObservation + Utils.NL;
@@ -471,7 +487,7 @@ public class DataSeriesInfo {
       ret += "  Last Observation  : " + this.lastObservation + Utils.NL;
     }
     if (this.fileDt != null) {
-      ret += "  File Date         : " + this.fileDt;
+      ret += "  File Date         : " + this.fileDt.toFullString();
     }
     return ret;
   }
@@ -518,10 +534,6 @@ public class DataSeriesInfo {
 
     final String filtered = title.replaceAll("[^\\x00-\\x7F]", " ");
     this.title = filtered.trim();
-  }
-
-  public boolean isValid() {
-    return valid;
   }
 
 }

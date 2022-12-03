@@ -55,7 +55,7 @@ public class FredBookkeeping {
 
     Utils.makeDir("debug");
 
-    Debug.init("debug/fred-bookkeeping.dbg");
+    Debug.init("debug/fred-bookkeeping.dbg", java.util.logging.Level.INFO);
     FredDataDownloader.tryAgainFile = new PrintWriter(FredBookkeeping.tryAgainFilename);
 
     final String folder = FredCommon.fredPath;
@@ -90,7 +90,7 @@ public class FredBookkeeping {
     FredDataDownloader.tryAgainFile.close();
 
     Utils.sleep(2500);
-    Debug.LOGGER.info("Processing retry attempts...");
+    Debug.Log("Processing retry attempts...");
 
     final List<String> retry = FredCommon.readSeriesList(FredBookkeeping.tryAgainFilename);
     FredBookkeeping.process(retry, "out/RetryCodesToAdd.txt");
@@ -132,7 +132,7 @@ public class FredBookkeeping {
           // dsi.getFileDt().toFullString(), dsi.getLastUpdate().toFullString());
           FredBookkeeping.dsiList.add(dsi);
 
-          Debug.LOGGER.info(dsi.toString());
+          Debug.Log(dsi.toString());
 
           final boolean needsUpdate = dsi.getLastUpdate().isGreaterThan(dsi.getFileDt());
           if (needsUpdate) {

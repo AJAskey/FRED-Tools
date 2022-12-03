@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -10,5 +11,7 @@
 	<classpathentry kind="lib" path="D:/github/FRED-Git/FRED-Tools/lib/commons-lang3-3.12.0.jar"/>
 	<classpathentry kind="lib" path="D:/github/FRED-Git/FRED-Tools/lib/commons-math3-3.6.1.jar"/>
 	<classpathentry kind="lib" path="D:/github/FRED-Git/FRED-Tools/lib/commons-text-1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

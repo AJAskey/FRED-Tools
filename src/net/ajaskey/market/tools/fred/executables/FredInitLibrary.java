@@ -23,6 +23,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.cli.CommandLine;
+import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.DefaultParser;
+import org.apache.commons.cli.Option;
+import org.apache.commons.cli.Options;
+import org.apache.commons.cli.ParseException;
+
 import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
@@ -43,14 +50,6 @@ public class FredInitLibrary {
 
   public final static int midPause  = 10;
   final static int        longPause = 15;
-
-  public final static String ftLibDir  = FredUtils.fredPath + "/data";
-  final static String        ftDataDir = FredUtils.fredPath + "/data";
-
-  /**
-   * For testing, point to a file with a smaller number of codes
-   */
-  final static String fsiFilename = FredInitLibrary.ftDataDir + "/fred-series-info.txt";
 
   /**
    * Main procedure:
@@ -81,20 +80,23 @@ public class FredInitLibrary {
    */
   public static void main(String[] args) {
 
+    Utils.makeDir("debug");
+    Utils.makeDir("out");
+
+    Debug.init("debug/FredInitLibrary.dbg", java.util.logging.Level.OFF);
+
+    ApiKey.set();
+    Utils.makeDir(FredUtils.getLibrary());
+    FredUtils.setDataSeriesInfoFile("data/fred-series-info-test.txt");
+    FredUtils.setLibrary("data");
+
+    setFromCli(args);
+
     try {
 
-      ApiKey.set();
+      Debug.LOGGER.info(String.format("LibDir=%s  dataSeriesInfoFile=%s", FredUtils.getLibrary(), FredUtils.getDataSeriesInfoFile()));
 
-      Utils.makeDir(FredInitLibrary.ftLibDir);
-      Utils.makeDir("debug");
-      Utils.makeDir("out");
-
-      Debug.init("debug/FredInitLibrary.dbg");
-
-      Debug.LOGGER.info(
-          String.format("DataDir=%s  LibDir=%s  fsiFilename=%s", FredInitLibrary.ftDataDir, FredInitLibrary.ftLibDir, FredInitLibrary.fsiFilename));
-
-      final List<String> codeNames = FredUtils.readSeriesList(FredInitLibrary.fsiFilename);
+      final List<String> codeNames = FredUtils.readSeriesList(FredUtils.getDataSeriesInfoFile());
 
       String codes = "Processing codes :" + Utils.NL;
       for (final String code : codeNames) {
@@ -117,6 +119,7 @@ public class FredInitLibrary {
         if (moreToDo > 0) {
           // Case where all codes are junk and will never be found at FRED.
           if (lastMoreToDo >= moreToDo) {
+
             Debug.LOGGER.info(String.format("Finished, only junk code(s) remain to be found.%n---------------------------------%n%n"));
             break;
           }
@@ -128,16 +131,42 @@ public class FredInitLibrary {
 
       for (final FredInitLibrary fil : FredInitLibrary.filList) {
         System.out.println(fil.getName());
-        FredUtils.writeToLib(fil.dsi, fil.ds, ftLibDir);
+        FredUtils.writeToLib(fil.dsi, fil.ds, FredUtils.getLibrary());
         FredInitLibrary.dsiList.add(fil.dsi);
       }
 
-      final String fname = "out/fred-series-info.csv";
-      FredUtils.writeSeriesInfoCsv(FredInitLibrary.dsiList, fname);
+      final String fname = "out/new-fred-series-info.txt";
+      FredUtils.writeSeriesInfo(FredInitLibrary.dsiList, fname);
     }
     catch (Exception e) {
       e.printStackTrace();
     }
+  }
+
+  private static void setFromCli(String[] args) {
+    /**
+     * CLI
+     */
+    final Options options = new Options();
+    Option debugfile = Option.builder().longOpt("debug").argName("dbg").hasArg().desc("debug file override").build();
+    Option datalib = Option.builder().longOpt("datalib").argName("lib").hasArg().desc("data library override").build();
+    options.addOption(debugfile);
+    options.addOption(datalib);
+
+    CommandLineParser parser = new DefaultParser();
+    try {
+      CommandLine line = parser.parse(options, args);
+      if (line.hasOption("debug")) {
+        System.out.println(line.getOptionValue(debugfile));
+      }
+      if (line.hasOption("datalib")) {
+        System.out.println(line.getOptionValue(datalib));
+      }
+    }
+    catch (ParseException e1) {
+      e1.printStackTrace();
+    }
+
   }
 
   /**
@@ -177,15 +206,18 @@ public class FredInitLibrary {
             if (ds.isValid()) {
               fil.ds = ds;
               processed++;
+
               Debug.LOGGER.info(String.format("DS Set : %s  processed=%d  unprocessed=%d%n%s", fil.getName(), processed, unprocessed, ds));
             }
             else {
+
               Debug.LOGGER.info(String.format("Failed Processing DS : %s   processed=%d  unprocessed=%d", fil.getName(), processed, unprocessed));
               unprocessed++;
               errors++;
             }
           }
           else {
+
             Debug.LOGGER.info(String.format("Failed Processing DSI : %s   processed=%d  unprocessed=%d", fil.getName(), processed, unprocessed));
             unprocessed++;
             errors++;
@@ -201,6 +233,7 @@ public class FredInitLibrary {
           else {
             unprocessed++;
             errors++;
+
             Debug.LOGGER.info(String.format("Failed Processing DS : %s   processed=%d  unprocessed=%d", fil.getName(), processed, unprocessed));
 
           }

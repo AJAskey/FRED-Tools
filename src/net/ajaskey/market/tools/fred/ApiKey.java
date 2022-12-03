@@ -18,6 +18,8 @@
  */
 package net.ajaskey.market.tools.fred;
 
+import net.ajaskey.common.Debug;
+
 public class ApiKey {
 
   private static String apiKey = "";
@@ -34,6 +36,7 @@ public class ApiKey {
    */
   public static void set() {
     ApiKey.apiKey = System.getenv("FRED_APIKEY");
+    if (Debug.dolog) Debug.LOGGER.info("ApiKey set.");
   }
 
 }

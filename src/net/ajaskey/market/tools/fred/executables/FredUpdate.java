@@ -70,7 +70,7 @@ public class FredUpdate {
       Utils.makeDir("debug");
       Utils.makeDir("out");
 
-      Debug.init("debug/FredUpdate.dbg");
+      Debug.init("debug/FredUpdate.dbg", java.util.logging.Level.INFO);
 
       final List<String> codeNames = FredUtils.readSeriesList(FredUpdate.ftDataDir + "/fred-series-info.txt");
       final List<FredUpdate> fuList = new ArrayList<>();
@@ -85,33 +85,33 @@ public class FredUpdate {
       int lastMoreToDo = 0;
       while (moreToDo > 0) {
         moreToDo = FredUpdate.process(fuList);
-        Debug.LOGGER.info(String.format("%n%n-----%nEnd Processing. moreToDo=%d", moreToDo));
+        Debug.Log(String.format("%n%n-----%nEnd Processing. moreToDo=%d", moreToDo));
         if (moreToDo > 0) {
           if (moreToDo == lastMoreToDo) {
             break;
           }
           lastMoreToDo = moreToDo;
           Utils.sleep(10000);
-          Debug.LOGGER.info(String.format("%n-----%nBeginning Nex Processing Iteration. moreToDo=%d", moreToDo));
+          Debug.Log(String.format("%n-----%nBeginning Nex Processing Iteration. moreToDo=%d", moreToDo));
         }
       }
 
       Utils.sleep(5000);
-      Debug.LOGGER.info(
+      Debug.Log(
           String.format("%n%n---------------------------------%n%nProcessing Values and Writing Output  updateList.size=%d.", updateList.size()));
 
-      Debug.LOGGER.info(String.format("Codes requiring an update: %d%n", FredUpdate.updateList.size()));
+      Debug.Log(String.format("Codes requiring an update: %d%n", FredUpdate.updateList.size()));
       String dbg = "";
       for (final FredUpdate fu : FredUpdate.updateList) {
         dbg += fu.getName() + Utils.NL;
       }
-      Debug.LOGGER.info(dbg);
+      Debug.Log(dbg);
 
       moreToDo = 1;
       lastMoreToDo = 0;
       while (moreToDo > 0) {
         moreToDo = FredUpdate.processValues();
-        Debug.LOGGER.info(String.format("%n-----%n%nEnd Processing Values. moreToDo=%d", moreToDo));
+        Debug.Log(String.format("%n-----%n%nEnd Processing Values. moreToDo=%d", moreToDo));
         if (moreToDo > 0) {
           if (moreToDo == lastMoreToDo) {
             break;
@@ -121,15 +121,15 @@ public class FredUpdate {
         }
       }
 
-      Debug.LOGGER.info(String.format("%n%n------------------------------------------------%n%n"));
+      Debug.Log(String.format("%n%n------------------------------------------------%n%n"));
 
       for (final FredUpdate fu : updateList) {
         if (fu.isUpdate()) {
-          Debug.LOGGER.info(String.format("%n---%nFredUtils : %s", fu));
+          Debug.Log(String.format("%n---%nFredUtils : %s", fu));
         }
       }
 
-      Debug.LOGGER.info(String.format("%n%n---------------Processing Complete ---------------------------------"));
+      Debug.Log(String.format("%n%n---------------Processing Complete ---------------------------------"));
     }
     catch (Exception e) {
       e.printStackTrace();
@@ -152,35 +152,35 @@ public class FredUpdate {
     for (final FredUpdate fu : fuList) {
 
       if (fu.dsi == null) {
-        Debug.LOGGER.info(String.format("Processing code=%s", fu.getName()));
+        Debug.Log(String.format("Processing code=%s", fu.getName()));
 
         final File f = new File(FredUpdate.ftDataDir + "/" + fu.getName() + ".csv");
         DateTime dt;
         if (f.exists()) {
           dt = new DateTime(f.lastModified());
           dt.add(DateTime.DATE, -3); // temp for testing
-          Debug.LOGGER.info(String.format("Code=%s file found with date=%s", fu.getName(), dt));
+          Debug.Log(String.format("Code=%s file found with date=%s", fu.getName(), dt));
         }
         else {
           dt = new DateTime(2000, DateTime.JANUARY, 1);
         }
         final DataSeriesInfo dsi = new DataSeriesInfo(fu.getName(), dt);
         if (dsi.isValid()) {
-          Debug.LOGGER.info(String.format("code=%s  DSI found.%n%s", fu.getName(), dsi));
+          Debug.Log(String.format("code=%s  DSI found.%n%s", fu.getName(), dsi));
           fu.dsi = dsi;
           if (dsi.getLastUpdate().isGreaterThan(dt)) {
             fu.update = true;
             final FredUpdate aCopy = new FredUpdate(fu);
             FredUpdate.updateList.add(aCopy);
-            Debug.LOGGER.info(String.format("Data required update.   LastUpdate=%s > dt=%s%n%s---%n", dsi.getLastUpdate(), dt, aCopy));
+            Debug.Log(String.format("Data required update.   LastUpdate=%s > dt=%s%n%s---%n", dsi.getLastUpdate(), dt, aCopy));
           }
           else {
             fu.update = false;
-            Debug.LOGGER.info(String.format("No update required.   LastUpdate=%s > dt=%s%n---%n", dsi.getLastUpdate(), dt));
+            Debug.Log(String.format("No update required.   LastUpdate=%s > dt=%s%n---%n", dsi.getLastUpdate(), dt));
           }
         }
         else {
-          Debug.LOGGER.info(String.format("code=%s  DSI not found.", fu.getName()));
+          Debug.Log(String.format("code=%s  DSI not found.", fu.getName()));
           unprocessed++;
           Utils.sleep(10000);
         }
@@ -207,18 +207,18 @@ public class FredUpdate {
 
       if (fu.isUpdate()) {
 
-        Debug.LOGGER.info(String.format("Processing code=%s", fu.getName()));
+        Debug.Log(String.format("Processing code=%s", fu.getName()));
 
         final DataSeries ds = new DataSeries(fu.dsi);
         if (ds.isValid()) {
           fu.ds = ds;
           fu.update = false;
           FredUtils.writeToLib(fu.dsi, fu.ds, FredUpdate.ftLibDir);
-          Debug.LOGGER.info(String.format("DS Set : %s  unprocessed=%d%n%s", fu.getName(), unprocessed, ds));
+          Debug.Log(String.format("DS Set : %s  unprocessed=%d%n%s", fu.getName(), unprocessed, ds));
         }
         else {
           unprocessed++;
-          Debug.LOGGER.info(String.format("code=%s  DS not found.  uprocesssed=%d", fu.getName(), unprocessed));
+          Debug.Log(String.format("code=%s  DS not found.  uprocesssed=%d", fu.getName(), unprocessed));
           Utils.sleep(10000);
         }
       }

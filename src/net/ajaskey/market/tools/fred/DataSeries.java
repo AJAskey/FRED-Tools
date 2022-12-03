@@ -115,7 +115,7 @@ public class DataSeries {
 
   /**
    * This method serves as a constructor for the class.
-   * 
+   *
    * @param dsi
    */
   public DataSeries(DataSeriesInfo dsi) {

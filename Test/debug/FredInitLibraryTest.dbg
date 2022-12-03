@@ -1,0 +1,8 @@
+Dec 03, 2022 3:37:51 PM net.ajaskey.common.Debug Log
+INFO: ApiKey set.
+Dec 03, 2022 3:37:51 PM net.ajaskey.market.tools.fred.FredUtils setDataSeriesInfoFile
+INFO: FRED DataSeriesInfoFile set : Test/input/fred-series-info-test.txt
+Dec 03, 2022 3:37:51 PM net.ajaskey.market.tools.fred.FredUtils setLibrary
+INFO: Warning : FRED Libary directory does not exist. Creating : Test/data
+Dec 03, 2022 3:37:51 PM net.ajaskey.market.tools.fred.FredUtils setLibrary
+INFO: FRED Library set : Test/data

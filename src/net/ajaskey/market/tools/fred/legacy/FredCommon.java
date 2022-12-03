@@ -43,6 +43,7 @@ import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.DataSeriesInfo;
 import net.ajaskey.market.tools.fred.DataValues;
+import net.ajaskey.market.tools.fred.FredUtils;
 
 public class FredCommon {
 
@@ -93,63 +94,6 @@ public class FredCommon {
       }
     }
 
-  }
-
-  /**
-   * net.ajaskey.market.tools.fred.cleanTitle
-   *
-   * @param title
-   * @return
-   */
-  public static String cleanTitle(final String title) {
-
-    String sn = title.trim();
-
-    sn = sn.replaceAll("[/\\)\\(:,;\"]", " ");
-    sn = sn.replaceAll("U.S.", "US");
-    sn = FredCommon.replace(sn, "-Year", "Y");
-    sn = FredCommon.replace(sn, "-Month", "M");
-    sn = FredCommon.replace(sn, " -", "");
-
-    sn = FredCommon.replace(sn, "Control", "Ctrl");
-    sn = FredCommon.replace(sn, "Value of Manufacturers'", "Value");
-    sn = FredCommon.replace(sn, "Components", "Comp");
-    sn = FredCommon.replace(sn, "Ventilation  Heating  Air-Conditioning", "HVAC");
-    sn = FredCommon.replace(sn, "Contributions to percent change in GDPNow", "");
-    sn = FredCommon.replace(sn, "Except Manufacturers' Sales Branches and Offices Sales", "");
-    sn = FredCommon.replace(sn, "Commercial Paper", "CP");
-    sn = FredCommon.replace(sn, "Durable Goods", "DG");
-    sn = FredCommon.replace(sn, "Nondurable Goods", "NDG");
-    sn = FredCommon.replace(sn, "United States", "US");
-    sn = FredCommon.replace(sn, "Real Change of", "RChg");
-    sn = FredCommon.replace(sn, "Federal Funds Rate", "FFR");
-    sn = FredCommon.replace(sn, "Personal Consumption Expenditures", "PCE");
-    sn = FredCommon.replace(sn, "Nonfinancial", "NonFin");
-    sn = FredCommon.replace(sn, "Government", "Govt");
-    sn = FredCommon.replace(sn, "London Interbank Offered Rate", "");
-    sn = FredCommon.replace(sn, "Owned and Securitized", "OwnedSecured");
-    sn = FredCommon.replace(sn, "Private Domestic", "Priv Dom");
-    sn = FredCommon.replace(sn, "Capacity Utilization", "CapUtil");
-    sn = FredCommon.replace(sn, "Transportation", "Transport");
-    sn = FredCommon.replace(sn, "Durable Manufacturing", "Dur Manufacturing");
-    sn = FredCommon.replace(sn, "Nondurable Manufacturing", "NonDur Manufacturing");
-    sn = FredCommon.replace(sn, "miscellaneous", "Misc");
-    sn = FredCommon.replace(sn, "Equipment", "Equip");
-    sn = FredCommon.replace(sn, "Corporate", "Corp");
-    sn = FredCommon.replace(sn, "Information", "Info");
-    sn = FredCommon.replace(sn, "Organizations", "Orgs");
-    sn = FredCommon.replace(sn, "Diffusion", "Diff");
-    sn = FredCommon.replace(sn, "Investment", "Invest");
-    sn = FredCommon.replace(sn, "Capital Goods", "CapGoods");
-    sn = FredCommon.replace(sn, "development", "Devel");
-    sn = FredCommon.replace(sn, "Consumer Price Index", "CPI");
-    sn = FredCommon.replace(sn, "Producer Price Index", "PPI");
-    sn = FredCommon.replace(sn, "Industries", "Ind");
-    sn = FredCommon.replace(sn, "Nondefense", "NonDef");
-
-    sn = FredCommon.toSentenceCase(sn);
-
-    return sn;
   }
 
   /**
@@ -381,14 +325,14 @@ public class FredCommon {
           if (dsi.getTitle() != null) {
             FredDataDownloader.retryCount = 0;
             final boolean needsUpdate = dsi.getLastObservation().isGreaterThan(lastUpdate);
-            Debug.LOGGER.info(String.format("%nReceived data for %s%n%s%n", dsi.getResponse(), needsUpdate));
+            Debug.Log(String.format("%nReceived data for %s%n%s%n", dsi.getResponse(), needsUpdate));
             return dsi;
           }
         }
       }
       FredDataDownloader.retryCount++;
       if (i < FredDataDownloader.maxRetries) {
-        Debug.LOGGER.info(String.format("Retrying DSI query for %s", code));
+        Debug.Log(String.format("Retrying DSI query for %s", code));
       }
       else if (i == FredDataDownloader.maxRetries) {
         FredDataDownloader.tryAgainFile.println(code);
@@ -397,8 +341,7 @@ public class FredCommon {
     }
 
     if (FredDataDownloader.retryCount > FredDataDownloader.consecutiveRetryFailures) {
-      Debug.LOGGER
-          .info(String.format("Too many retries (%d). Sleeping %d seconds.", FredDataDownloader.retryCount, FredDataDownloader.longSleep / 1000));
+      Debug.Log(String.format("Too many retries (%d). Sleeping %d seconds.", FredDataDownloader.retryCount, FredDataDownloader.longSleep / 1000));
 
       Utils.sleep(FredDataDownloader.longSleep);
       FredDataDownloader.retryCount = 0;
@@ -577,6 +520,21 @@ public class FredCommon {
       retList.clear();
     }
     return retList;
+  }
+
+  /**
+   *
+   * net.ajaskey.market.tools.fred.replace
+   *
+   * @param in
+   * @param fnd
+   * @param rep
+   * @return
+   */
+  public static String replace(final String in, final String fnd, final String rep) {
+
+    final String ret = in.replaceAll(fnd, rep).replaceAll(fnd.toUpperCase(), rep).replaceAll(fnd.toLowerCase(), rep).trim();
+    return ret;
   }
 
   /**
@@ -782,6 +740,57 @@ public class FredCommon {
     }
   }
 
+  private static String cleanTitle(final String title) {
+
+    String sn = title.trim();
+
+    sn = sn.replaceAll("[/\\)\\(:,;\"]", " ");
+    sn = sn.replaceAll("U.S.", "US");
+    sn = FredUtils.replace(sn, "-Year", "Y");
+    sn = FredUtils.replace(sn, "-Month", "M");
+    sn = FredUtils.replace(sn, " -", "");
+
+    sn = FredUtils.replace(sn, "Control", "Ctrl");
+    sn = FredUtils.replace(sn, "Value of Manufacturers'", "Value");
+    sn = FredUtils.replace(sn, "Components", "Comp");
+    sn = FredUtils.replace(sn, "Ventilation  Heating  Air-Conditioning", "HVAC");
+    sn = FredUtils.replace(sn, "Contributions to percent change in GDPNow", "");
+    sn = FredUtils.replace(sn, "Except Manufacturers' Sales Branches and Offices Sales", "");
+    sn = FredUtils.replace(sn, "Commercial Paper", "CP");
+    sn = FredUtils.replace(sn, "Durable Goods", "DG");
+    sn = FredUtils.replace(sn, "Nondurable Goods", "NDG");
+    sn = FredUtils.replace(sn, "United States", "US");
+    sn = FredUtils.replace(sn, "Real Change of", "RChg");
+    sn = FredUtils.replace(sn, "Federal Funds Rate", "FFR");
+    sn = FredUtils.replace(sn, "Personal Consumption Expenditures", "PCE");
+    sn = FredUtils.replace(sn, "Nonfinancial", "NonFin");
+    sn = FredUtils.replace(sn, "Government", "Govt");
+    sn = FredUtils.replace(sn, "London Interbank Offered Rate", "");
+    sn = FredUtils.replace(sn, "Owned and Securitized", "OwnedSecured");
+    sn = FredUtils.replace(sn, "Private Domestic", "Priv Dom");
+    sn = FredUtils.replace(sn, "Capacity Utilization", "CapUtil");
+    sn = FredUtils.replace(sn, "Transportation", "Transport");
+    sn = FredUtils.replace(sn, "Durable Manufacturing", "Dur Manufacturing");
+    sn = FredUtils.replace(sn, "Nondurable Manufacturing", "NonDur Manufacturing");
+    sn = FredUtils.replace(sn, "miscellaneous", "Misc");
+    sn = FredUtils.replace(sn, "Equipment", "Equip");
+    sn = FredUtils.replace(sn, "Corporate", "Corp");
+    sn = FredUtils.replace(sn, "Information", "Info");
+    sn = FredUtils.replace(sn, "Organizations", "Orgs");
+    sn = FredUtils.replace(sn, "Diffusion", "Diff");
+    sn = FredUtils.replace(sn, "Investment", "Invest");
+    sn = FredUtils.replace(sn, "Capital Goods", "CapGoods");
+    sn = FredUtils.replace(sn, "development", "Devel");
+    sn = FredUtils.replace(sn, "Consumer Price Index", "CPI");
+    sn = FredUtils.replace(sn, "Producer Price Index", "PPI");
+    sn = FredUtils.replace(sn, "Industries", "Ind");
+    sn = FredUtils.replace(sn, "Nondefense", "NonDef");
+
+    sn = FredCommon.toSentenceCase(sn);
+
+    return sn;
+  }
+
   /**
    * net.ajaskey.market.tools.fred.getScaler
    *
@@ -851,20 +860,5 @@ public class FredCommon {
       return true;
     }
     return false;
-  }
-
-  /**
-   *
-   * net.ajaskey.market.tools.fred.replace
-   *
-   * @param in
-   * @param fnd
-   * @param rep
-   * @return
-   */
-  private static String replace(final String in, final String fnd, final String rep) {
-
-    final String ret = in.replaceAll(fnd, rep).replaceAll(fnd.toUpperCase(), rep).replaceAll(fnd.toLowerCase(), rep).trim();
-    return ret;
   }
 }
