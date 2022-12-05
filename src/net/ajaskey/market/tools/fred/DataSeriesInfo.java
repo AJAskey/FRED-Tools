@@ -56,59 +56,60 @@ public class DataSeriesInfo {
 
     final List<DataSeriesInfo> dList = new ArrayList<>();
 
-    String url = "https://api.stlouisfed.org/fred/series/updates?offset=1000&api_key=fde45f7af492501c0b2200e7f0814540";
+    String url2 = "https://api.stlouisfed.org/fred/series/updates?offset=1000&api_key=fde45f7af492501c0b2200e7f0814540";
+    String url = "https://api.stlouisfed.org/fred/series/updates&api_key=" + ApiKey.get();
 
     int offset = 0;
-    while (offset < 52000) {
+    // while (offset < 52000) {
 
-      url = String.format("%s%d%s", "https://api.stlouisfed.org/fred/series/updates?offset=", offset, "&api_key=fde45f7af492501c0b2200e7f0814540");
+    url = String.format("%s%d%s", "https://api.stlouisfed.org/fred/series/updates?offset=", offset, "&api_key=fde45f7af492501c0b2200e7f0814540");
 
-      offset += 1000;
+    // offset += 1000;
 
-      try {
-        if (DataSeriesInfo.dBuilder == null) {
-          DataSeriesInfo.dBuilder = DataSeriesInfo.dbFactory.newDocumentBuilder();
-        }
-
-        final String resp = Utils.getFromUrl(url);
-
-        // Debug.pwDbg.println(resp + Utils.NL);
-
-        final Document doc = DataSeriesInfo.dBuilder.parse(new InputSource(new StringReader(resp)));
-
-        doc.getDocumentElement().normalize();
-
-        final NodeList nResp = doc.getElementsByTagName("series");
-
-        for (int knt = 0; knt < nResp.getLength(); knt++) {
-
-          final Node nodeResp = nResp.item(knt);
-
-          if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
-            final DataSeriesInfo dsi = new DataSeriesInfo();
-
-            final Element eElement = (Element) nodeResp;
-            final String series = eElement.getAttribute("id");
-            Debug.LOGGER.info("Series : " + series);
-
-            dsi.setName(series);
-            dsi.setTitle(eElement.getAttribute("title"));
-            dsi.setFrequency(eElement.getAttribute("frequency"));
-            dsi.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
-            dsi.setUnits(eElement.getAttribute("units"));
-            dsi.setType("LIN");
-            dsi.setFirstObservation(eElement.getAttribute("observation_start"));
-            dsi.setLastUpdate(eElement.getAttribute("last_updated"));
-            dsi.setLastObservation(eElement.getAttribute("observation_end"));
-
-            dList.add(dsi);
-          }
-        }
+    try {
+      if (DataSeriesInfo.dBuilder == null) {
+        DataSeriesInfo.dBuilder = DataSeriesInfo.dbFactory.newDocumentBuilder();
       }
-      catch (final Exception e) {
-        e.printStackTrace();
+
+      final String resp = Utils.getFromUrl(url);
+
+//      Debug.LOGGER.info(resp + Utils.NL);
+
+      final Document doc = DataSeriesInfo.dBuilder.parse(new InputSource(new StringReader(resp)));
+
+      doc.getDocumentElement().normalize();
+
+      final NodeList nResp = doc.getElementsByTagName("series");
+
+      for (int knt = 0; knt < nResp.getLength(); knt++) {
+
+        final Node nodeResp = nResp.item(knt);
+
+        if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
+          final DataSeriesInfo dsi = new DataSeriesInfo();
+
+          final Element eElement = (Element) nodeResp;
+          final String series = eElement.getAttribute("id");
+          Debug.LOGGER.info("Series : " + series);
+
+          dsi.setName(series);
+          dsi.setTitle(eElement.getAttribute("title"));
+          dsi.setFrequency(eElement.getAttribute("frequency"));
+          dsi.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
+          dsi.setUnits(eElement.getAttribute("units"));
+          dsi.setType("LIN");
+          dsi.setFirstObservation(eElement.getAttribute("observation_start"));
+          dsi.setLastUpdate(eElement.getAttribute("last_updated"));
+          dsi.setLastObservation(eElement.getAttribute("observation_end"));
+
+          dList.add(dsi);
+        }
       }
     }
+    catch (final Exception e) {
+      e.printStackTrace();
+    }
+//    }
 
     return dList;
   }

@@ -83,12 +83,12 @@ public class FredInitLibrary {
     Utils.makeDir("debug");
     Utils.makeDir("out");
 
-    Debug.init("debug/FredInitLibrary.dbg", java.util.logging.Level.OFF);
+    Debug.init("debug/FredInitLibrary.dbg", java.util.logging.Level.INFO);
 
     ApiKey.set();
     Utils.makeDir(FredUtils.getLibrary());
-    FredUtils.setDataSeriesInfoFile("data/fred-series-info-test.txt");
-    FredUtils.setLibrary("data");
+    FredUtils.setDataSeriesInfoFile("FredSeries/fred-list-small.txt");
+    FredUtils.setLibrary("FredLib");
 
     setFromCli(args);
 
@@ -117,7 +117,7 @@ public class FredInitLibrary {
 
         Debug.LOGGER.info(String.format("%n--------------------------------%n%nReturn from Processing with moreToDo=%d.", moreToDo));
         if (moreToDo > 0) {
-          // Case where all codes are junk and will never be found at FRED.
+          // Case where all input codes are junk and will never be found at FRED.
           if (lastMoreToDo >= moreToDo) {
 
             Debug.LOGGER.info(String.format("Finished, only junk code(s) remain to be found.%n---------------------------------%n%n"));
@@ -129,14 +129,21 @@ public class FredInitLibrary {
         }
       }
 
+      Debug.LOGGER.info(Utils.NL + "---------------------" + Utils.NL + "Processing Complete" + Utils.NL);
+
       for (final FredInitLibrary fil : FredInitLibrary.filList) {
         System.out.println(fil.getName());
         FredUtils.writeToLib(fil.dsi, fil.ds, FredUtils.getLibrary());
         FredInitLibrary.dsiList.add(fil.dsi);
       }
 
-      final String fname = "out/new-fred-series-info.txt";
+      Debug.LOGGER.info(Utils.NL + "---------------------" + Utils.NL + "Writing Files Complete" + Utils.NL);
+
+      final String fname = "FredLib/new-data-series-info.txt";
       FredUtils.writeSeriesInfo(FredInitLibrary.dsiList, fname);
+
+      Debug.LOGGER.info(Utils.NL + "---------------------" + Utils.NL + "Writing Data Series Info Complete" + Utils.NL);
+
     }
     catch (Exception e) {
       e.printStackTrace();
@@ -239,7 +246,7 @@ public class FredInitLibrary {
           }
         }
       }
-      if (errors == 5) {
+      if (errors == 3) {
         Debug.LOGGER
             .info(String.format("%nProcessing errors=%d. Pausing for %d seconds.  unprocessed=%d%n", errors, FredInitLibrary.longPause, unprocessed));
         errors = 0;

@@ -3,4 +3,6 @@ bin/*
 debug/*
 tools/target/*
 data/*.csv
+FredLib/*
+FredSeries/*
 data/MTAPS.dat
