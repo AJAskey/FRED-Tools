@@ -229,8 +229,15 @@ public class FredUtils {
 
     String ffn = "None";
 
-    if (!dsi.isValid() || !ds.isValid()) {
-      return;
+    if ((dsi != null) && (ds != null)) {
+      if (!dsi.isValid() || !ds.isValid()) {
+        Debug.LOGGER.info(String.format("Warning. Valid FIL incomplete. Data null %n%s%n%s", dsi, ds));
+        return;
+      }
+      else if ((dsi == null) || (ds == null)) {
+        Debug.LOGGER.info(String.format("Warning. FIL incomplete. Data null."));
+        return;
+      }
     }
 
     final double scaler = FredUtils.getScaler(dsi.getUnits());

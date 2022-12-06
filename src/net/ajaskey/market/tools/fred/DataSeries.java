@@ -281,7 +281,7 @@ public class DataSeries {
     final String url = "https://api.stlouisfed.org/fred/series/observations?series_id=" + this.name + this.getAggType() + this.getFileType()
         + this.getLimit() + this.getOffset() + this.getOrder() + this.getRespType() + "&api_key=" + ApiKey.get();
 
-    Debug.LOGGER.info(url + "\n");
+    Debug.LOGGER.info(url);
 
     String resp;
     try {
@@ -417,14 +417,19 @@ public class DataSeries {
   @Override
   public String toString() {
 
-    String ret = "";
+    String ret;
     try {
-      ret += String.format("Name=%s%n respKnt=%d values=%d%n offset=%d%n order=%s%n period=%s%n limit=%d%n respType=%s%n valid=%s", this.name,
-          this.respKnt, this.dvList.size(), this.offset, this.order, this.period, this.limit, this.respType, this.valid);
+      if (this.dvList != null) {
+        ret = String.format("Name=%s%n respKnt=%d values=%d%n offset=%d%n order=%s%n period=%s%n limit=%d%n respType=%s%n valid=%s", this.name,
+            this.respKnt, this.dvList.size(), this.offset, this.order, this.period, this.limit, this.respType, this.valid);
+      }
+      else {
+        ret = String.format("Warning. dvList is null!", this.name);
+      }
     }
     catch (final Exception e) {
+      ret = String.format("Warning. Exception converting DataSeries to String!");
       e.printStackTrace();
-      ret = "";
     }
     return ret;
   }

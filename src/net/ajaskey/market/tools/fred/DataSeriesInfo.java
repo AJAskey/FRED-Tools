@@ -264,29 +264,38 @@ public class DataSeriesInfo {
       this.response = resp.trim();
       // Debug.LOGGER.info(this.response + Utils.NL);
 
-      final Document doc = DataSeriesInfo.dBuilder.parse(new InputSource(new StringReader(resp)));
+      boolean found = false;
+      this.valid = false;
+      if (resp.length() > 0) {
 
-      doc.getDocumentElement().normalize();
+        final Document doc = DataSeriesInfo.dBuilder.parse(new InputSource(new StringReader(resp)));
 
-      final NodeList nResp = doc.getElementsByTagName("series");
-      for (int knt = 0; knt < nResp.getLength(); knt++) {
-        final Node nodeResp = nResp.item(knt);
-        if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
-          final Element eElement = (Element) nodeResp;
+        doc.getDocumentElement().normalize();
 
-          this.setTitle(eElement.getAttribute("title"));
-          this.setFrequency(eElement.getAttribute("frequency"));
-          this.setUnits(eElement.getAttribute("units"));
-          this.setType("LIN");
-          this.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
-          this.setLastUpdate(eElement.getAttribute("last_updated"));
-          this.setFirstObservation(eElement.getAttribute("observation_start"));
-          this.setLastObservation(eElement.getAttribute("observation_end"));
-          this.setFileDt(fileDt);
+        final NodeList nResp = doc.getElementsByTagName("series");
+        for (int knt = 0; knt < nResp.getLength(); knt++) {
+          final Node nodeResp = nResp.item(knt);
+          if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
+            final Element eElement = (Element) nodeResp;
+
+            this.setTitle(eElement.getAttribute("title"));
+            this.setFrequency(eElement.getAttribute("frequency"));
+            this.setUnits(eElement.getAttribute("units"));
+            this.setType("LIN");
+            this.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
+            this.setLastUpdate(eElement.getAttribute("last_updated"));
+            this.setFirstObservation(eElement.getAttribute("observation_start"));
+            this.setLastObservation(eElement.getAttribute("observation_end"));
+            this.setFileDt(fileDt);
+            if (this.title.length() > 0) {
+              found = true;
+              this.fullfilename = FredUtils.toFullFileName(this.name, this.title);
+            }
+          }
         }
+        this.valid = found;
       }
-      this.fullfilename = FredUtils.toFullFileName(this.name, this.title);
-      this.valid = true;
+
     }
     catch (final Exception e) {
       this.setName("");

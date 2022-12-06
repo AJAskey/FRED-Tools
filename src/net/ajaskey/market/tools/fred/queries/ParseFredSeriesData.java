@@ -33,20 +33,14 @@ public class ParseFredSeriesData {
       final String header = data.get(0).trim();
 
       String filename = header.replaceAll(" : ", "").replaceAll("\"", "");
-      try (PrintWriter pw = new PrintWriter("out/" + filename + ".csv")) {
+      try (PrintWriter pw = new PrintWriter("optuma/" + filename + ".csv")) {
 
         for (int i = 1; i < data.size(); i++) {
           final String s = data.get(i);
-          System.out.printf("filename : %s", filename);
 
           final ParseFredSeriesData pds = new ParseFredSeriesData(s, header);
-          System.out.println(pds.getTitle());
 
           if (pds.isValid()) {
-
-            if (pds.getTitle().equals("Retail Sales")) {
-              System.out.println(pds);
-            }
 
             if (pds.isUseful()) {
               pdsList.add(pds);
