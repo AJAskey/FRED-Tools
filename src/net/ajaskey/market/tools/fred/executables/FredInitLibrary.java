@@ -91,7 +91,7 @@ public class FredInitLibrary {
 
     ApiKey.set();
     Utils.makeDir(FredUtils.getLibrary());
-    FredUtils.setDataSeriesInfoFile("FredSeries/fred-list-small.txt");
+    FredUtils.setDataSeriesInfoFile("FredSeries/fred-list-big-2.txt");
     FredUtils.setLibrary("FredLib");
 
     FredInitLibrary.setBadCodes();

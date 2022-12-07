@@ -16,7 +16,7 @@ public class FredSeriesUpdates {
 
     ApiKey.set();
 
-    List<DataSeriesInfo> list = DataSeriesInfo.getDataSeriesNames();
+    List<DataSeriesInfo> list = null; // DataSeriesInfo.getDataSeriesNames();
 
     Collections.sort(list, new DsiAbcSorter());
     for (DataSeriesInfo dsi : list) {

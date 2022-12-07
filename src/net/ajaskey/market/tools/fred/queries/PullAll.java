@@ -62,7 +62,7 @@ public class PullAll {
         String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
         pw.println(s);
 
-        List<Series> serList = Series.querySeries(rel.getId());
+        List<Series> serList = Series.querySeriesPerRelease(rel.getId());
         System.out.println(String.format("Processed querySeries for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
         if (serList.size() > 0) {
           for (Series ser : serList) {
@@ -76,8 +76,8 @@ public class PullAll {
               t = t.substring(0, 134);
             }
 
-            String sum = String.format("%-40s%-135s %-4s %-10s %s", ser.getId(), t, ser.getSeasonal_adjustment_short(), ser.getFrequency(),
-                ser.getLast_updated());
+            String sum = String.format("%-40s%-135s %-4s %-10s %s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
+                ser.getLastUpdate());
             pw.println(sum);
             String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
             summary.add(relsum);

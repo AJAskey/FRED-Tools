@@ -52,68 +52,6 @@ public class DataSeriesInfo {
   private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder  = null;
 
-  public static List<DataSeriesInfo> getDataSeriesNames() {
-
-    final List<DataSeriesInfo> dList = new ArrayList<>();
-
-    String url2 = "https://api.stlouisfed.org/fred/series/updates?offset=1000&api_key=fde45f7af492501c0b2200e7f0814540";
-    String url = "https://api.stlouisfed.org/fred/series/updates&api_key=" + ApiKey.get();
-
-    int offset = 0;
-    // while (offset < 52000) {
-
-    url = String.format("%s%d%s", "https://api.stlouisfed.org/fred/series/updates?offset=", offset, "&api_key=fde45f7af492501c0b2200e7f0814540");
-
-    // offset += 1000;
-
-    try {
-      if (DataSeriesInfo.dBuilder == null) {
-        DataSeriesInfo.dBuilder = DataSeriesInfo.dbFactory.newDocumentBuilder();
-      }
-
-      final String resp = Utils.getFromUrl(url);
-
-//      Debug.LOGGER.info(resp + Utils.NL);
-
-      final Document doc = DataSeriesInfo.dBuilder.parse(new InputSource(new StringReader(resp)));
-
-      doc.getDocumentElement().normalize();
-
-      final NodeList nResp = doc.getElementsByTagName("series");
-
-      for (int knt = 0; knt < nResp.getLength(); knt++) {
-
-        final Node nodeResp = nResp.item(knt);
-
-        if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
-          final DataSeriesInfo dsi = new DataSeriesInfo();
-
-          final Element eElement = (Element) nodeResp;
-          final String series = eElement.getAttribute("id");
-          Debug.LOGGER.info("Series : " + series);
-
-          dsi.setName(series);
-          dsi.setTitle(eElement.getAttribute("title"));
-          dsi.setFrequency(eElement.getAttribute("frequency"));
-          dsi.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
-          dsi.setUnits(eElement.getAttribute("units"));
-          dsi.setType("LIN");
-          dsi.setFirstObservation(eElement.getAttribute("observation_start"));
-          dsi.setLastUpdate(eElement.getAttribute("last_updated"));
-          dsi.setLastObservation(eElement.getAttribute("observation_end"));
-
-          dList.add(dsi);
-        }
-      }
-    }
-    catch (final Exception e) {
-      e.printStackTrace();
-    }
-//    }
-
-    return dList;
-  }
-
   /**
    * net.ajaskey.market.tools.fred.main
    *
@@ -274,18 +212,21 @@ public class DataSeriesInfo {
 
         final NodeList nResp = doc.getElementsByTagName("series");
         for (int knt = 0; knt < nResp.getLength(); knt++) {
+
           final Node nodeResp = nResp.item(knt);
+
           if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
             final Element eElement = (Element) nodeResp;
 
-            this.setTitle(eElement.getAttribute("title"));
-            this.setFrequency(eElement.getAttribute("frequency"));
-            this.setUnits(eElement.getAttribute("units"));
+            this.setResponse(resp.trim());
+            this.setTitle(eElement.getAttribute("title").trim());
+            this.setFrequency(eElement.getAttribute("frequency").trim());
+            this.setUnits(eElement.getAttribute("units").trim());
             this.setType("LIN");
-            this.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short"));
-            this.setLastUpdate(eElement.getAttribute("last_updated"));
-            this.setFirstObservation(eElement.getAttribute("observation_start"));
-            this.setLastObservation(eElement.getAttribute("observation_end"));
+            this.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment_short").trim());
+            this.setLastUpdate(eElement.getAttribute("last_updated").trim());
+            this.setFirstObservation(eElement.getAttribute("observation_start").trim());
+            this.setLastObservation(eElement.getAttribute("observation_end").trim());
             this.setFileDt(fileDt);
             if (this.title.length() > 0) {
               found = true;
@@ -405,6 +346,10 @@ public class DataSeriesInfo {
     this.fileDt = fileDt;
   }
 
+  public void setResponse(String r) {
+    this.response = r;
+  }
+
   /**
    *
    * @param attribute
@@ -469,6 +414,14 @@ public class DataSeriesInfo {
     this.units = units;
   }
 
+  /**
+   * @param fullFilename to set
+   */
+  public void setFullFilename(final String ffn) {
+
+    this.fullfilename = ffn;
+  }
+
   public String toCsvString() {
 
     final String ret = this.name + Utils.TAB + this.title + Utils.TAB + this.frequency + Utils.TAB + this.units + Utils.TAB + this.seasonalAdjustment
@@ -505,7 +458,7 @@ public class DataSeriesInfo {
   /**
    * @param frequency the frequency to set
    */
-  private void setFrequency(final String frequency) {
+  public void setFrequency(final String frequency) {
 
     this.frequency = frequency;
   }
@@ -515,7 +468,7 @@ public class DataSeriesInfo {
    *
    * @param attribute
    */
-  private void setLastUpdate(final String attribute) {
+  public void setLastUpdate(final String attribute) {
 
     try {
       final int idx = attribute.lastIndexOf("-");
@@ -532,7 +485,7 @@ public class DataSeriesInfo {
   /**
    * @param name the name to set
    */
-  private void setName(final String name) {
+  public void setName(final String name) {
 
     this.name = name;
   }
@@ -540,7 +493,7 @@ public class DataSeriesInfo {
   /**
    * @param title the title to set
    */
-  private void setTitle(final String title) {
+  public void setTitle(final String title) {
 
     final String filtered = title.replaceAll("[^\\x00-\\x7F]", " ");
     this.title = filtered.trim();
