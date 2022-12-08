@@ -7,3 +7,6 @@ FredLib/*
 data/MTAPS.dat
 optuma/*
 tmp/*
+FredSeries/fred-list-big.txt
+FredSeries/fred-list-small.txt
+FredSeries/fred-list-tiny.txt
