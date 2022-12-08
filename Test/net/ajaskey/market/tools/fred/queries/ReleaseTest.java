@@ -12,15 +12,17 @@ class ReleaseTest {
   @Test
   void queryReleasesTest() {
 
-    Debug.init("debug/testqueryReleases.dbg", java.util.logging.Level.INFO);
+    Debug.init("debug/testQueryReleases.dbg", java.util.logging.Level.INFO);
 
     ApiKey.set();
 
     List<Release> relList = Release.queryReleases();
 
     for (Release rel : relList) {
-      System.out.println(rel);
+      Debug.LOGGER.info(rel.toString());
     }
+    System.out.println(relList.get(0).getUrl());
+    System.out.println(relList.get(0).getResponse());
   }
 
 }

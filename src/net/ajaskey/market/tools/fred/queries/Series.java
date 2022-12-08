@@ -6,7 +6,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -18,6 +20,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
 import net.ajaskey.common.DateTime;
+import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataSeries;
@@ -26,107 +29,50 @@ import net.ajaskey.market.tools.fred.FredUtils;
 
 public class Series {
 
-  public final static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-
+  public final static SimpleDateFormat        sdf       = new SimpleDateFormat("yyyy-MM-dd");
   private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+  private static DocumentBuilder              dBuilder  = null;
 
-  private static DocumentBuilder dBuilder = null;
+  private static List<Series> seriesList = new ArrayList<>();
+  private static Set<String>  uniqSeries = new HashSet<>();
+
+  public static List<Series> querySeriesPerRelease(String release_id) {
+
+    seriesList.clear();
+
+    int offset = 0;
+    boolean readmore = true;
+    while (readmore) {
+      Debug.LOGGER.info(String.format("%n---------%ncalling fredSeriesPerSeriesQuery.  release_id=%s  offset=%d", release_id, offset));
+      final int num = fredSeriesPerSeriesQuery(release_id, offset);
+      if (num < 1000) {
+        readmore = false;
+      }
+      else {
+        offset += num;
+      }
+    }
+
+    return seriesList;
+  }
 
   /**
    *
    * @param series_id
    * @return
    */
-  public static Series querySeries(String series_id) {
+  private static int fredSeriesPerSeriesQuery(String release_id, int offset) {
 
-    final Series ser = new Series();
-
-    try {
-
-      ser.setId(series_id.trim());
-
-      final String url = "https://api.stlouisfed.org/fred/series?series_id=" + ser.id + "&api_key=" + ApiKey.get();
-      ser.setUrl(url);
-
-      String resp;
-
-      if (Series.dBuilder == null) {
-        Series.dBuilder = Series.dbFactory.newDocumentBuilder();
-      }
-
-      resp = Utils.getFromUrl(url);
-
-      if (resp.length() < 1) {
-        return ser;
-      }
-
-      ser.setResponse(resp.trim());
-      // Debug.LOGGER.info(this.response + Utils.NL);
-
-      boolean found = false;
-      if (resp.length() > 0) {
-
-        final Document doc = Series.dBuilder.parse(new InputSource(new StringReader(resp)));
-
-        doc.getDocumentElement().normalize();
-
-        final NodeList nResp = doc.getElementsByTagName("series");
-        for (int knt = 0; knt < nResp.getLength(); knt++) {
-
-          final Node nodeResp = nResp.item(knt);
-
-          if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
-            final Element eElement = (Element) nodeResp;
-
-            ser.setResponse(resp.trim());
-            ser.setTitle(eElement.getAttribute("title").trim());
-            ser.setFrequency(eElement.getAttribute("frequency").trim());
-            ser.setUnits(eElement.getAttribute("units").trim());
-            ser.setType(ResponseType.LIN);
-            ser.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment").trim());
-            ser.setSeasonalAdjustmentShort(eElement.getAttribute("seasonal_adjustment_short").trim());
-            ser.setLastUpdate(eElement.getAttribute("last_updated").trim());
-            ser.setFirstObservation(eElement.getAttribute("observation_start").trim());
-            ser.setLastObservation(eElement.getAttribute("observation_end").trim());
-            ser.setFileDate(null);
-            if (ser.title.length() > 0) {
-              found = true;
-              ser.setFullfilename(FredUtils.toFullFileName(ser.id, ser.title));
-            }
-            ser.notes = eElement.getAttribute("notes").trim();
-          }
-        }
-        ser.valid = found;
-      }
-    }
-    catch (final Exception e) {
-      ser.valid = false;
-      e.printStackTrace();
-    }
-    return ser;
-
-  }
-
-  /**
-   *
-   * @param release_id
-   * @return
-   */
-  public static List<Series> querySeriesPerRelease(String release_id) {
-
-    ApiKey.set();
-
-    final List<Series> serList = new ArrayList<>();
+    int totalProcessed = 0;
 
     try {
 
-      final String url = String.format("https://api.stlouisfed.org/fred/release/series?release_id=%s&api_key=%s", release_id, ApiKey.get());
+      String url = String.format("https://api.stlouisfed.org/fred/release/series?release_id=%s&api_key=%s&offset=%d", release_id, ApiKey.get(),
+          offset);
 
-      final String resp = Utils.getFromUrl(url);
+      String resp = Utils.getFromUrl(url);
 
       if (resp.length() > 0) {
-
-        // Debug.LOGGER.info(resp + Utils.NL);
 
         if (Series.dBuilder == null) {
           Series.dBuilder = Series.dbFactory.newDocumentBuilder();
@@ -138,19 +84,19 @@ public class Series {
 
         final NodeList nResp = doc.getElementsByTagName("series");
 
+        totalProcessed = nResp.getLength();
+
         for (int knt = 0; knt < nResp.getLength(); knt++) {
 
           final Node nodeResp = nResp.item(knt);
 
           if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
-
             final Element eElement = (Element) nodeResp;
 
-            final Series ser = new Series();
-
-            ser.setResponse(resp.trim());
+            Series ser = new Series();
             ser.setUrl(url);
-            ser.setId(eElement.getAttribute("series_id").trim());
+
+            ser.setId(eElement.getAttribute("id").trim());
             ser.setTitle(eElement.getAttribute("title").trim());
             ser.setFrequency(eElement.getAttribute("frequency").trim());
             ser.setUnits(eElement.getAttribute("units").trim());
@@ -164,11 +110,19 @@ public class Series {
             if (ser.title.length() > 0) {
               ser.setFullfilename(FredUtils.toFullFileName(ser.id, ser.title));
             }
-            ser.releaseId = release_id;
             ser.notes = eElement.getAttribute("notes").trim();
-            ser.valid = true;
 
-            serList.add(ser);
+            final boolean newSer = uniqSeries.add(ser.id);
+            if (newSer) {
+              ser.setValid(true);
+              Debug.LOGGER.info(String.format("Adding series data. %s", ser.getId()));
+
+              seriesList.add(ser);
+            }
+            else {
+              Debug.LOGGER.info(String.format("Duplicate series not added!%s", ser.getId()));
+              totalProcessed--;
+            }
           }
         }
       }
@@ -177,27 +131,102 @@ public class Series {
       e.printStackTrace();
     }
 
-    return serList;
+    Debug.LOGGER.info(String.format("Returning from fredSeriesPerSeriesQuery - totalProcessed=%d", totalProcessed));
+    return totalProcessed;
   }
 
-  private String id;
+  /**
+   *
+   * @param release_id
+   * @return
+   */
+//  public static List<Series> querySeriesPerRelease(String release_id, int offset) {
+//
+//    ApiKey.set();
+//
+//    final List<Series> serList = new ArrayList<>();
+//
+//    try {
+//
+//      final String url = String.format("https://api.stlouisfed.org/fred/release/series?release_id=%s&api_key=%s&offset=%d", release_id, ApiKey.get(),
+//          offset);
+//
+//      final String resp = Utils.getFromUrl(url);
+//
+//      if (resp.length() > 0) {
+//
+//        // Debug.LOGGER.info(resp + Utils.NL);
+//
+//        if (Series.dBuilder == null) {
+//          Series.dBuilder = Series.dbFactory.newDocumentBuilder();
+//        }
+//
+//        final Document doc = Series.dBuilder.parse(new InputSource(new StringReader(resp)));
+//
+//        doc.getDocumentElement().normalize();
+//
+//        final NodeList nResp = doc.getElementsByTagName("series");
+//
+//        for (int knt = 0; knt < nResp.getLength(); knt++) {
+//
+//          final Node nodeResp = nResp.item(knt);
+//
+//          if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
+//
+//            final Element eElement = (Element) nodeResp;
+//
+//            final Series ser = new Series();
+//
+//            ser.setResponse(resp.trim());
+//            ser.setUrl(url);
+//            ser.setId(eElement.getAttribute("id").trim());
+//            ser.setTitle(eElement.getAttribute("title").trim());
+//            ser.setFrequency(eElement.getAttribute("frequency").trim());
+//            ser.setUnits(eElement.getAttribute("units").trim());
+//            ser.setType(ResponseType.LIN);
+//            ser.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment").trim());
+//            ser.setSeasonalAdjustmentShort(eElement.getAttribute("seasonal_adjustment_short").trim());
+//            ser.setLastUpdate(eElement.getAttribute("last_updated").trim());
+//            ser.setFirstObservation(eElement.getAttribute("observation_start").trim());
+//            ser.setLastObservation(eElement.getAttribute("observation_end").trim());
+//            ser.setFileDate(null);
+//            if (ser.title.length() > 0) {
+//              ser.setFullfilename(FredUtils.toFullFileName(ser.id, ser.title));
+//            }
+//            ser.releaseId = release_id;
+//            ser.notes = eElement.getAttribute("notes").trim();
+//            ser.valid = true;
+//
+//            serList.add(ser);
+//          }
+//        }
+//      }
+//    }
+//    catch (final Exception e) {
+//      e.printStackTrace();
+//    }
+//
+//    return serList;
+//  }
 
-  private String                  title;
-  private String                  url;
-  private String                  response;
-  private DateTime                fileDate;
-  private String                  frequency;
-  private DateTime                firstObservation;
-  private DateTime                lastObservation;
-  private DateTime                lastUpdate;
-  private String                  fullfilename;
-  private String                  seasonalAdjustment;
-  private String                  seasonalAdjustmentShort;
+  private String url;
+
+  private String   id;
+  private String   title;
+  private DateTime fileDate;
+  private String   frequency;
+  private DateTime firstObservation;
+  private DateTime lastObservation;
+  private DateTime lastUpdate;
+  private String   fullfilename;
+  private String   seasonalAdjustment;
+  private String   seasonalAdjustmentShort;
+  private String   units;
+  private String   notes;
+  private String   releaseId;
+  private boolean  valid;
+
   private DataSeries.ResponseType type;
-  private String                  units;
-  private String                  notes;
-  private String                  releaseId;
-  private boolean                 valid;
 
   public Series() {
     this.valid = false;
@@ -237,10 +266,6 @@ public class Series {
 
   public String getReleaseName() {
     return this.releaseId;
-  }
-
-  public String getResponse() {
-    return this.response;
   }
 
   public String getSeasonalAdjustment() {
@@ -284,8 +309,8 @@ public class Series {
 
   public String toSmallString() {
 
-    String ret = "";
-    ret += "Id                : " + this.id + Utils.NL;
+    String ret = Utils.NL;
+    ret += "Id                 : " + this.id + Utils.NL;
     ret += " Title             : " + this.title + Utils.NL;
     ret += " Frequency         : " + this.frequency + Utils.NL;
     ret += " Units             : " + this.units + Utils.NL;
@@ -337,7 +362,7 @@ public class Series {
   @Override
   public String toString() {
 
-    String ret = Utils.NL + this.response.trim() + Utils.NL;
+    String ret = Utils.NL;
     ret += "Id                : " + this.id + Utils.NL;
     ret += " Title             : " + this.title + Utils.NL;
     ret += " Frequency         : " + this.frequency + Utils.NL;
@@ -364,7 +389,6 @@ public class Series {
     }
     ret += Utils.NL;
     ret += this.url + Utils.NL;
-    ret += this.response;
     return ret;
   }
 
@@ -404,10 +428,6 @@ public class Series {
 
   void setNotes(String note) {
     this.notes = note;
-  }
-
-  void setResponse(String response) {
-    this.response = response;
   }
 
   void setSeasonalAdjustment(String seasonalAdjustment) {

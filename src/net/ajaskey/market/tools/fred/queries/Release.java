@@ -2,7 +2,9 @@ package net.ajaskey.market.tools.fred.queries;
 
 import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -18,43 +20,70 @@ import net.ajaskey.market.tools.fred.ApiKey;
 
 public class Release {
 
-  private String id;
-  private String name;
-  private String realtime_start;
-  private String realtime_end;
-  private String press_release;
-  private String link;
-
-  private static List<Release> relList = new ArrayList<>();
-
-  private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-  private static DocumentBuilder              dBuilder  = null;
+  private static List<Release>                realeaseList = new ArrayList<>();
+  private static Set<String>                  uniqReleases = new HashSet<>();
+  private final static DocumentBuilderFactory dbFactory    = DocumentBuilderFactory.newInstance();
+  private static DocumentBuilder              dBuilder     = null;
 
   public static void main(String[] args) {
   }
 
   public static List<Release> queryReleases() {
-    ApiKey.set();
+
+    Release.realeaseList.clear();
+
+    int offset = 0;
+    boolean readmore = true;
+    while (readmore) {
+      final int num = Release.fredReleaseQuery(offset);
+      if (num < 1000) {
+        readmore = false;
+      }
+      else {
+        offset += num;
+      }
+    }
+
+    return Release.realeaseList;
+  }
+
+  public Release() {
+    this.valid = false;
+  }
+
+  public Release(String relId) {
+    this.id = relId;
+    this.valid = false;
+  }
+
+  /**
+   *
+   * @param offset
+   * @return
+   */
+  private static int fredReleaseQuery(int offset) {
+
+    int totalProcessed = 0;
 
     try {
 
-      String url = String.format("https://api.stlouisfed.org/fred/releases?api_key=&api_key=&api_key=%s", ApiKey.get());
+      final String url = String.format("https://api.stlouisfed.org/fred/releases?api_key=%s&offset=%d", ApiKey.get(), offset);
 
       final String resp = Utils.getFromUrl(url);
 
       if (resp.length() > 0) {
 
-        // Debug.LOGGER.info(resp + Utils.NL);
-
-        if (dBuilder == null) {
-          dBuilder = dbFactory.newDocumentBuilder();
+        if (Release.dBuilder == null) {
+          Release.dBuilder = Release.dbFactory.newDocumentBuilder();
         }
 
-        final Document doc = dBuilder.parse(new InputSource(new StringReader(resp)));
+        final Document doc = Release.dBuilder.parse(new InputSource(new StringReader(resp)));
 
         doc.getDocumentElement().normalize();
 
         final NodeList nResp = doc.getElementsByTagName("release");
+
+        totalProcessed = nResp.getLength();
 
         for (int knt = 0; knt < nResp.getLength(); knt++) {
 
@@ -64,7 +93,7 @@ public class Release {
 
             final Element eElement = (Element) nodeResp;
 
-            Release rel = new Release();
+            final Release rel = new Release();
             rel.id = eElement.getAttribute("id");
             rel.name = eElement.getAttribute("name");
             rel.realtime_start = eElement.getAttribute("realtime_start");
@@ -72,46 +101,87 @@ public class Release {
             rel.press_release = eElement.getAttribute("press_release");
             rel.link = eElement.getAttribute("link");
 
-            relList.add(rel);
+            rel.setUrl(url);
+            rel.setResponse(resp);
+
+            final boolean newRel = Release.uniqReleases.add(rel.id);
+            if (newRel) {
+              rel.valid = true;
+              Release.realeaseList.add(rel);
+            }
+            else {
+              totalProcessed--;
+            }
           }
         }
       }
     }
-    catch (Exception e) {
+    catch (final Exception e) {
       e.printStackTrace();
     }
 
-    return relList;
+    return totalProcessed;
+  }
+
+  private String id;
+  private String name;
+  private String realtime_start;
+  private String realtime_end;
+  private String press_release;
+  private String link;
+
+  private String  url;
+  private String  response;
+  private boolean valid;
+
+  public String getId() {
+    return this.id;
+  }
+
+  public String getLink() {
+    return this.link;
+  }
+
+  public String getName() {
+    return this.name;
+  }
+
+  public String getPress_release() {
+    return this.press_release;
+  }
+
+  public String getRealtime_end() {
+    return this.realtime_end;
+  }
+
+  public String getRealtime_start() {
+    return this.realtime_start;
   }
 
   @Override
   public String toString() {
-    String ret = String.format("Release Id=%s Name=%s", id, name);
+    final String ret = String.format("Release Id=%s Name=%s    Valid=%s", this.id, this.name, this.valid);
     return ret;
   }
 
-  public String getId() {
-    return id;
+  public boolean isValid() {
+    return valid;
   }
 
-  public String getName() {
-    return name;
+  public String getUrl() {
+    return url;
   }
 
-  public String getRealtime_start() {
-    return realtime_start;
+  public String getResponse() {
+    return response;
   }
 
-  public String getRealtime_end() {
-    return realtime_end;
+  void setUrl(String url) {
+    this.url = url;
   }
 
-  public String getPress_release() {
-    return press_release;
-  }
-
-  public String getLink() {
-    return link;
+  void setResponse(String response) {
+    this.response = response;
   }
 
 }

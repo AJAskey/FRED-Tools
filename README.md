@@ -13,8 +13,8 @@
  
 ## Status
  
- 01Dec2022 - Software is not stable in this new repository. It is good for viewing and test out on your local system. Expect issues for a while.
- I am working on it.
+ 07Dec2022 - Software is not stable in this new repository. It is good for viewing and test out on your local system. Expect issues for a while.
+ I am working on it. I have found my code is mostly correct. But the FRED server needs some loving like a beautiful woman. She may be perfect but if you ask too much then she becomes upset.
  
 ---
  

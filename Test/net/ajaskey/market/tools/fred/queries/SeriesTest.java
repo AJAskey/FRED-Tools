@@ -5,6 +5,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import net.ajaskey.common.Debug;
+import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 
 class SeriesTest {
@@ -15,10 +16,10 @@ class SeriesTest {
 
     ApiKey.set();
 
-    final Series ser = Series.querySeries("CAPUTLG325212S");
-    ser.setFileDate("D:\\github\\FRED-Git\\FRED-Tools\\FredLib");
-
-    System.out.println(ser);
+//    final Series ser = Series.querySeries("CAPUTLG325212S", 0);
+//    ser.setFileDate("D:\\github\\FRED-Git\\FRED-Tools\\FredLib");
+//
+//    System.out.println(ser);
   }
 
   @Test
@@ -27,14 +28,21 @@ class SeriesTest {
 
     ApiKey.set();
 
-    final List<Series> serList = Series.querySeriesPerRelease("27");
+    final List<Series> serList = Series.querySeriesPerRelease("53");
 
-    Debug.LOGGER.info(serList.get(0).getUrl());
-    Debug.LOGGER.info(serList.get(0).getResponse());
+    System.out.println("Series knt : " + serList.size());
+
+    int knt = 0;
+    String dbg = "All Seried Ids returned : " + Utils.NL;
     for (Series s : serList) {
+
       s.setFileDate("D:\\github\\FRED-Git\\FRED-Tools\\FredLib");
-      Debug.LOGGER.info(s.toSmallString());
+
+      knt++;
+      Debug.LOGGER.info(knt + "  " + s);
+      dbg += String.format("%-30s %-4s %-20s %-10s%n", s.getId(), s.getSeasonalAdjustmentShort(), s.getFrequency(), s.getTitle());
     }
+    Debug.LOGGER.info(dbg);
   }
 
 }

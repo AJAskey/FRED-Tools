@@ -325,7 +325,7 @@ public class FredUtils {
 
     sn = FredUtils.toSentenceCase(sn);
 
-    Debug.LOGGER.info(String.format("Modified Title%nInput= %s%nMod  = %s", title, sn));
+    Debug.LOGGER.fine(String.format("Modified Title%nInput= %s%nMod  = %s", title, sn));
 
     return sn;
   }

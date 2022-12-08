@@ -8,15 +8,32 @@ import java.util.List;
 
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
-import net.ajaskey.market.tools.fred.FredUtils;
+import net.ajaskey.market.tools.fred.ApiKey;
 
 public class PullAll {
 
   static List<String> summary = new ArrayList<>();
 
+  static PrintWriter allSeriesPw = null;
+
   public static void main(String[] args) throws FileNotFoundException {
 
+    processAll();
+  }
+
+  public static void processReleaseId(String id) {
+
+    Release rel = new Release(id);
+
+  }
+
+  public static void processAll() throws FileNotFoundException {
+
     Debug.init("debug/PullAll.dbg", java.util.logging.Level.INFO);
+
+    allSeriesPw = new PrintWriter("out/allSeriesSummary.txt");
+
+    ApiKey.set();
 
     List<Release> relList = Release.queryReleases();
 
@@ -36,6 +53,8 @@ public class PullAll {
       }
     }
 
+    allSeriesPw.close();
+
     Collections.sort(summary);
     try (PrintWriter pw = new PrintWriter("out/FRED-Release-Summary.txt")) {
       pw.println("Id\tName\tSeries Count");
@@ -53,32 +72,31 @@ public class PullAll {
     for (Release rel : relList) {
 
       String cleanname = rel.getName().replaceAll("/", "").replaceAll(":", "").replaceAll("\\.", "_").replaceAll("\"", "").replaceAll("&", "_");
-      String tmp = String.format("out/Id_%s%s.txt", rel.getId(), cleanname);
+      String tmp = String.format("tmp/Id_%s%s.txt", rel.getId(), cleanname);
       String fn = tmp.replaceAll(" ", "");
       String fncsv = tmp.replaceAll(".txt", ".csv");
 
-      try (PrintWriter pw = new PrintWriter(fn); PrintWriter pwcsv = new PrintWriter(fncsv)) {
+      try (PrintWriter pw = new PrintWriter(fn)) {
 
         String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
         pw.println(s);
 
         List<Series> serList = Series.querySeriesPerRelease(rel.getId());
-        System.out.println(String.format("Processed querySeries for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
+
+        System.out.println(String.format("Processed querySeriesPerRelease for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
+
         if (serList.size() > 0) {
           for (Series ser : serList) {
-
-            final String fullFileName = FredUtils.toFullFileName(ser.getId(), ser.getTitle());
-            String ffn = fullFileName.replace(">", "greater");
-            pwcsv.println(ffn);
 
             String t = ser.getTitle().trim();
             if (t.length() > 135) {
               t = t.substring(0, 134);
             }
 
-            String sum = String.format("%-40s%-135s %-4s %-10s %s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
+            String sum = String.format("%-40s%-135s %-4s %-10s %-13s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
                 ser.getLastUpdate());
             pw.println(sum);
+            allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
             String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
             summary.add(relsum);
           }
@@ -91,6 +109,46 @@ public class PullAll {
       }
     }
     return redoList;
+  }
+
+  private static List<Series> processOne(Release rel) throws FileNotFoundException {
+
+    String cleanname = rel.getName().replaceAll("/", "").replaceAll(":", "").replaceAll("\\.", "_").replaceAll("\"", "").replaceAll("&", "_");
+    String tmp = String.format("tmp/Id_%s%s.txt", rel.getId(), cleanname);
+    String fn = tmp.replaceAll(" ", "");
+    String fncsv = tmp.replaceAll(".txt", ".csv");
+
+    try (PrintWriter pw = new PrintWriter(fn)) {
+
+      String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
+      pw.println(s);
+
+      List<Series> serList = Series.querySeriesPerRelease(rel.getId());
+
+      System.out.println(String.format("Processed querySeriesPerRelease for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
+
+      if (serList.size() > 0) {
+        for (Series ser : serList) {
+
+          String t = ser.getTitle().trim();
+          if (t.length() > 135) {
+            t = t.substring(0, 134);
+          }
+
+          String sum = String.format("%-40s%-135s %-4s %-10s %-13s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
+              ser.getLastUpdate());
+          pw.println(sum);
+          allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
+          String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
+          summary.add(relsum);
+        }
+      }
+      else {
+        pw.println("No data returned from FRED!");
+      }
+
+    }
+    return null;
   }
 
 }

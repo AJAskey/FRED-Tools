@@ -24,27 +24,40 @@ public class ParseFredSeriesData {
 
     final List<ParseFredSeriesData> pdsList = new ArrayList<>();
 
-    for (final String fname : relList) {
+    try (PrintWriter pwAll = new PrintWriter("out/filteredSeriesSummary.txt")) {
 
-      System.out.printf("release : %s%n", fname);
+      /**
+       * Process each Release from list.
+       */
+      for (final String fname : relList) {
 
-      final List<String> data = TextUtils.readTextFile("FredSeries/" + fname, false);
+        System.out.printf("release : %s%n", fname);
 
-      final String header = data.get(0).trim();
+        final List<String> data = TextUtils.readTextFile("FredSeries/" + fname, false);
 
-      String filename = header.replaceAll(" : ", "").replaceAll("\"", "");
-      try (PrintWriter pw = new PrintWriter("optuma/" + filename + ".csv")) {
+        final String header = data.get(0).trim();
 
-        for (int i = 1; i < data.size(); i++) {
-          final String s = data.get(i);
+        String filename = header.replaceAll(" : ", "").replaceAll("\"", "");
+        /**
+         * Files to be read into Optuma as a list of charts.
+         */
+        try (PrintWriter pw = new PrintWriter("optuma/" + filename + ".csv")) {
 
-          final ParseFredSeriesData pds = new ParseFredSeriesData(s, header);
+          for (int i = 1; i < data.size(); i++) {
+            final String s = data.get(i);
 
-          if (pds.isValid()) {
+            final ParseFredSeriesData pds = new ParseFredSeriesData(s, header);
 
-            if (pds.isUseful()) {
-              pdsList.add(pds);
-              pw.println(pds.getName());
+            if (pds.isValid()) {
+
+              if (pds.isUseful()) {
+                pdsList.add(pds);
+                pw.printf("%s,%s,%s,%s%n", pds.getName(), pds.getSeasonality(), pds.getFrequency(), pds.getTitle());
+
+                String sDate = pds.lastUpdate.format("yyyy-MM-dd");
+                pwAll.printf("%-30s %-4s %-10s %-12s %-120s %s%n", pds.getName(), pds.getSeasonality(), pds.getFrequency(), sDate, pds.getTitle(),
+                    data.get(0).trim());
+              }
             }
           }
         }
@@ -77,7 +90,8 @@ public class ParseFredSeriesData {
   private String   release;
   private boolean  valid;
 
-  SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+  SimpleDateFormat sdf    = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+  SimpleDateFormat sdfout = new SimpleDateFormat("yyyy-MM-dd");
 
   public ParseFredSeriesData(String data, String rel) {
     if (data.length() > 209) {
@@ -142,22 +156,24 @@ public class ParseFredSeriesData {
    */
   private boolean isUseful() {
     if (!this.seasonality.equalsIgnoreCase("SA")) {
-      if (!this.frequency.equalsIgnoreCase("Quarterly")) {
-        if (!this.frequency.equalsIgnoreCase("Annual")) {
-          if (!this.title.toLowerCase().contains("discontinued")) {
-            if (!this.title.toLowerCase().contains("northeast")) {
-              if (!this.title.toLowerCase().contains("midwest")) {
-                if (!this.title.toLowerCase().contains("south census")) {
-                  if (!this.title.toLowerCase().contains("west census")) {
-                    if (!this.title.toLowerCase().contains("central census")) {
-                      if (!this.title.toLowerCase().contains("atlantic census")) {
-                        if (!this.title.toLowerCase().contains("mountain census")) {
-                          if (!this.title.toLowerCase().contains("pacific census")) {
-                            if (!this.title.toLowerCase().contains("england census")) {
-                              if (!this.title.contains("Establishments")) {
-                                if (this.lastUpdate.isGreaterThanOrEqual(ParseFredSeriesData.usefulDate)) {
+      if (!this.seasonality.equalsIgnoreCase("SAAR")) {
+        if (!this.frequency.equalsIgnoreCase("Quarterly")) {
+          if (!this.frequency.equalsIgnoreCase("Annual")) {
+            if (!this.title.toLowerCase().contains("discontinued")) {
+              if (!this.title.toLowerCase().contains("northeast")) {
+                if (!this.title.toLowerCase().contains("midwest")) {
+                  if (!this.title.toLowerCase().contains("south census")) {
+                    if (!this.title.toLowerCase().contains("west census")) {
+                      if (!this.title.toLowerCase().contains("central census")) {
+                        if (!this.title.toLowerCase().contains("atlantic census")) {
+                          if (!this.title.toLowerCase().contains("mountain census")) {
+                            if (!this.title.toLowerCase().contains("pacific census")) {
+                              if (!this.title.toLowerCase().contains("england census")) {
+                                if (!this.title.contains("Establishments")) {
+                                  if (this.lastUpdate.isGreaterThanOrEqual(ParseFredSeriesData.usefulDate)) {
 
-                                  return true;
+                                    return true;
+                                  }
                                 }
                               }
                             }
