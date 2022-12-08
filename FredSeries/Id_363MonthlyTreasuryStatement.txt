@@ -1,0 +1,7 @@
+Id : 363  Monthly Treasury Statement
+MTSDS133FMS                             Federal Surplus or Deficit [-]                                                                                                          NSA  Monthly    10-Nov-2022  
+MTSMFBOM133FMS                          Means of Financing: by Other Means                                                                                                      NSA  Monthly    10-Nov-2022  
+MTSMFBP133FMS                           Means of Financing: Borrowing from the Public                                                                                           NSA  Monthly    10-Nov-2022  
+MTSMFROC133FMS                          Means of Financing: Reduction of Operating Cash, Increase (-)                                                                           NSA  Monthly    10-Nov-2022  
+MTSO133FMS                              Total Federal Outlays                                                                                                                   NSA  Monthly    10-Nov-2022  
+MTSR133FMS                              Total Federal Receipts                                                                                                                  NSA  Monthly    10-Nov-2022  

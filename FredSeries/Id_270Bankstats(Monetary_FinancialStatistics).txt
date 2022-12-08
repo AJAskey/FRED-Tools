@@ -1,0 +1,2 @@
+Id : 270  Bankstats (Monetary & Financial Statistics)
+UKASSETS                                Total Central Bank Assets for United Kingdom (DISCONTINUED)                                                                             NSA  Monthly, End of Period 29-Sep-2014  

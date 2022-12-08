@@ -1,0 +1,3 @@
+Id : 373  GDP-Based Recession Indicator Index
+JHDUSRGDPBR                             Dates of U.S. recessions as inferred by GDP-based recession indicator                                                                   NSA  Quarterly  27-Oct-2022  
+JHGDPBRINDX                             GDP-Based Recession Indicator Index                                                                                                     NSA  Quarterly  27-Oct-2022  

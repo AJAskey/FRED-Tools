@@ -1,0 +1,8 @@
+Id : 502  Euro Short Term Rate
+ECBESTRNUMACTBANKS                      Euro Short-Term Rate: Number of Active Banks                                                                                            NSA  Daily      07-Dec-2022  
+ECBESTRNUMTRANS                         Euro Short-Term Rate: Number of Transactions                                                                                            NSA  Daily      07-Dec-2022  
+ECBESTRRT25THPCTVOL                     Euro Short-Term Rate: Rate at 25th Percentile of Volume                                                                                 NSA  Daily      07-Dec-2022  
+ECBESTRRT75THPCTVOL                     Euro Short-Term Rate: Rate at 75th Percentile of Volume                                                                                 NSA  Daily      07-Dec-2022  
+ECBESTRSHRVOL5LRGACTBNK                 Euro Short-Term Rate: Share of Volume of the 5 Largest Active Banks                                                                     NSA  Daily      07-Dec-2022  
+ECBESTRTOTVOL                           Euro Short-Term Rate: Total Volume                                                                                                      NSA  Daily      07-Dec-2022  
+ECBESTRVOLWGTTRMDMNRT                   Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate                                                                                 NSA  Daily      07-Dec-2022  

@@ -1,0 +1,2 @@
+Id : 499  EONIA: Euro Interbank Offered Rate
+EONIARATE                               EONIA: Euro Interbank Offered Rate (DISCONTINUED)                                                                                       NSA  Daily      31-Dec-2021  

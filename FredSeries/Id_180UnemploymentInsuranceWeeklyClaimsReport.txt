@@ -1,0 +1,10 @@
+Id : 180  Unemployment Insurance Weekly Claims Report
+CC4WSA                                  4-Week Moving Average of Continued Claims (Insured Unemployment)                                                                        SA   Weekly, Ending Saturday 01-Dec-2022  
+CCNSA                                   Continued Claims (Insured Unemployment)                                                                                                 NSA  Weekly, Ending Saturday 01-Dec-2022  
+CCSA                                    Continued Claims (Insured Unemployment)                                                                                                 SA   Weekly, Ending Saturday 01-Dec-2022  
+COVEMP                                  Covered Employment                                                                                                                      NSA  Weekly, Ending Saturday 01-Dec-2022  
+IC4WSA                                  4-Week Moving Average of Initial Claims                                                                                                 SA   Weekly, Ending Saturday 01-Dec-2022  
+ICNSA                                   Initial Claims                                                                                                                          NSA  Weekly, Ending Saturday 01-Dec-2022  
+ICSA                                    Initial Claims                                                                                                                          SA   Weekly, Ending Saturday 01-Dec-2022  
+IURNSA                                  Insured Unemployment Rate                                                                                                               NSA  Weekly, Ending Saturday 01-Dec-2022  
+IURSA                                   Insured Unemployment Rate                                                                                                               SA   Weekly, Ending Saturday 01-Dec-2022  

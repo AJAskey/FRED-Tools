@@ -1,0 +1,26 @@
+Id : 379  Temporary Open Market Operations
+RPAGYD                                  Repurchase Agreements: Federal Agency Securities Purchased by the Federal Reserve in the Temporary Open Market Operations               NSA  Daily      07-Dec-2022  
+RPMBSD                                  Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations              NSA  Daily      07-Dec-2022  
+RPONAGYD                                Overnight Repurchase Agreements: Federal Agency Securities Purchased by the Federal Reserve in the Temporary Open Market Operations     NSA  Daily      07-Dec-2022  
+RPONMBSD                                Overnight Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations    NSA  Daily      07-Dec-2022  
+RPONTSYD                                Overnight Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations           NSA  Daily      07-Dec-2022  
+RPONTTLD                                Overnight Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations              NSA  Daily      07-Dec-2022  
+RPTMAGYD                                Term Repurchase Agreements: Federal Agency Securities Purchased by the Federal Reserve in the Temporary Open Market Operations          NSA  Daily      18-Feb-2022  
+RPTMMBSD                                Term Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations         NSA  Daily      18-Feb-2022  
+RPTMTSYD                                Term Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations                NSA  Daily      18-Feb-2022  
+RPTMTTLD                                Term Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations                   NSA  Daily      18-Feb-2022  
+RPTSYD                                  Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations                     NSA  Daily      07-Dec-2022  
+RPTTLD                                  Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations                        NSA  Daily      07-Dec-2022  
+RRPAGYD                                 Reverse Repurchase Agreements: Federal Agency Securities Sold by the Federal Reserve in the Temporary Open Market Operations            NSA  Daily      25-Jan-2021  
+RRPMBSD                                 Reverse Repurchase Agreements: Mortgage-Backed Securities Sold by the Federal Reserve in the Temporary Open Market Operations           NSA  Daily      26-Jan-2021  
+RRPONAGYD                               Overnight Reverse Repurchase Agreements: Federal Agency Securities Sold by the Federal Reserve in the Temporary Open Market Operations  NSA  Daily      25-Jan-2021  
+RRPONMBSD                               Overnight Reverse Repurchase Agreements: Mortgage-Backed Securities Sold by the Federal Reserve in the Temporary Open Market Operations NSA  Daily      26-Jan-2021  
+RRPONTSYAWARD                           Overnight Reverse Repurchase Agreements Award Rate: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Opera  NSA  Daily      07-Dec-2022  
+RRPONTSYD                               Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations        NSA  Daily      07-Dec-2022  
+RRPONTTLD                               Overnight Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations           NSA  Daily      07-Dec-2022  
+RRPTMAGYD                               Term Reverse Repurchase Agreements: Federal Agency Securities Sold by the Federal Reserve in the Temporary Open Market Operations       NSA  Daily      15-May-2019  
+RRPTMMBSD                               Term Reverse Repurchase Agreements: Mortgage-Backed Securities Sold by the Federal Reserve in the Temporary Open Market Operations      NSA  Daily      25-Jan-2021  
+RRPTMTSYD                               Term Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations             NSA  Daily      01-Apr-2021  
+RRPTMTTLD                               Term Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations                NSA  Daily      01-Apr-2021  
+RRPTSYD                                 Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations                  NSA  Daily      07-Dec-2022  
+RRPTTLD                                 Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations                     NSA  Daily      07-Dec-2022  

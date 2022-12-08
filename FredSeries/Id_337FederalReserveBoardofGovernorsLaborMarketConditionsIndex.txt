@@ -1,0 +1,2 @@
+Id : 337  Federal Reserve Board of Governors Labor Market Conditions Index
+FRBLMCI                                 Change in Labor Market Conditions Index (DISCONTINUED)                                                                                  SA   Monthly    10-Jul-2017  

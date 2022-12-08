@@ -1,0 +1,11 @@
+Id : 131  G.13 Selected Interest Rates
+BA3M                                    3-Month Bankers Acceptance Rate (DISCONTINUED)                                                                                          NSA  Monthly    07-Jun-2006  
+BA6M                                    6-Month Bankers Acceptance Rate (DISCONTINUED)                                                                                          NSA  Monthly    07-Jun-2006  
+CP1M                                    1-Month Commercial Paper Rate (DISCONTINUED)                                                                                            NSA  Monthly    07-Jun-2006  
+CP3M                                    3-Month Commercial Paper Rate (DISCONTINUED)                                                                                            NSA  Monthly    07-Jun-2006  
+CP6M                                    6-Month Commercial Paper Rate (DISCONTINUED)                                                                                            NSA  Monthly    07-Jun-2006  
+LTGOVTBD                                Long-Term U.S. Government Securities (DISCONTINUED)                                                                                     NSA  Monthly    07-Jun-2006  
+TB1YA                                   1-Year Treasury Bill Rate: Auction Average (DISCONTINUED)                                                                               NSA  Monthly    07-Jun-2006  
+TB1YS                                   1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)                                                                              NSA  Monthly    07-Jun-2006  
+TB3MA                                   3-Month Treasury Bill Rate: Auction Average (DISCONTINUED)                                                                              NSA  Monthly    01-Jun-2000  
+TB6MA                                   6-Month Treasury Bill Rate: Auction Average (DISCONTINUED)                                                                              NSA  Monthly    07-Jun-2006  

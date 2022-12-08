@@ -1,0 +1,9 @@
+Id : 505  Community Bank Sentiment Index
+CBSIBC                                  CSBS Community Bank Sentiment, Business Conditions Index                                                                                NSA  Quarterly  12-Oct-2022  
+CBSICO                                  CSBS Community Bank Sentiment Index                                                                                                     NSA  Quarterly  12-Oct-2022  
+CBSICS                                  CSBS Community Bank Sentiment, Capital Spending Index                                                                                   NSA  Quarterly  12-Oct-2022  
+CBSIFV                                  CSBS Community Bank Sentiment, Franchise Value Index                                                                                    NSA  Quarterly  12-Oct-2022  
+CBSIMP                                  CSBS Community Bank Sentiment, Monetary Policy Index                                                                                    NSA  Quarterly  12-Oct-2022  
+CBSIOE                                  CSBS Community Bank Sentiment, Operations Expansion Index                                                                               NSA  Quarterly  12-Oct-2022  
+CBSIPR                                  CSBS Community Bank Sentiment, Profitability Index                                                                                      NSA  Quarterly  12-Oct-2022  
+CBSIRB                                  CSBS Community Bank Sentiment, Regulatory Burden Index                                                                                  NSA  Quarterly  12-Oct-2022  

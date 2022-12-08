@@ -1,0 +1,13 @@
+Id : 264  Weekly U.S. and State Bond Prices, 1855-1865
+HSTBNDCAW052N                           Disunion Era Bond Prices for California                                                                                                 NSA  Weekly     01-Feb-2013  
+HSTBNDGAW052N                           Disunion Era Bond Prices for Georgia                                                                                                    NSA  Weekly     01-Feb-2013  
+HSTBNDINW052N                           Disunion Era Bond Prices for Indiana                                                                                                    NSA  Weekly     01-Feb-2013  
+HSTBNDKYW052N                           Disunion Era Bond Prices for Kentucky                                                                                                   NSA  Weekly     01-Feb-2013  
+HSTBNDLAW052N                           Disunion Era Bond Prices for Louisiana                                                                                                  NSA  Weekly     01-Feb-2013  
+HSTBNDMOW052N                           Disunion Era Bond Prices for Missouri                                                                                                   NSA  Weekly     01-Feb-2013  
+HSTBNDNCW052N                           Disunion Era Bond Prices for North Carolina                                                                                             NSA  Weekly     01-Feb-2013  
+HSTBNDOHW052N                           Disunion Era Bond Prices for Ohio                                                                                                       NSA  Weekly     01-Feb-2013  
+HSTBNDPAW052N                           Disunion Era Bond Prices for Pennsylvania                                                                                               NSA  Weekly     01-Feb-2013  
+HSTBNDTNW052N                           Disunion Era Bond Prices for Tennessee                                                                                                  NSA  Weekly     01-Feb-2013  
+HSTBNDVAW052N                           Disunion Era Bond Prices for Virginia                                                                                                   NSA  Weekly     01-Feb-2013  
+HSTBNDW052N                             Disunion Era Bond Prices                                                                                                                NSA  Weekly     01-Feb-2013  

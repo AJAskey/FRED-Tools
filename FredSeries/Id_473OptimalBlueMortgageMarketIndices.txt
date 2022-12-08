@@ -1,0 +1,18 @@
+Id : 473  Optimal Blue Mortgage Market Indices
+OBMMIC15YF                              15-Year Fixed Rate Conforming Mortgage Index                                                                                            NSA  Daily      07-Dec-2022  
+OBMMIC30YF                              30-Year Fixed Rate Conforming Mortgage Index                                                                                            NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVGT80FB680A699               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 680 and 699                             NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVGT80FB700A719               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 700 and 719                             NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVGT80FB720A739               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 720 and 739                             NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVGT80FGE740                  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Greater Than 740                                NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVGT80FLT680                  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Less Than 680                                   NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVLE80FB680A699               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 680 and 699                    NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVLE80FB700A719               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 700 and 719                    NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVLE80FB720A739               30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 720 and 739                    NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVLE80FGE740                  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740                       NSA  Daily      07-Dec-2022  
+OBMMIC30YFLVLE80FLT680                  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Less Than 680                          NSA  Daily      07-Dec-2022  
+OBMMIC30YFNA                            30-Year Fixed Rate Conforming Non-Adjusted Mortgage Index                                                                               NSA  Daily      07-Dec-2022  
+OBMMIFHA30YF                            30-Year Fixed Rate FHA Mortgage Index                                                                                                   NSA  Daily      07-Dec-2022  
+OBMMIJUMBO30YF                          30-Year Fixed Rate Jumbo Mortgage Index                                                                                                 NSA  Daily      07-Dec-2022  
+OBMMIUSDA30YF                           30-Year Fixed Rate USDA Mortgage Index                                                                                                  NSA  Daily      07-Dec-2022  
+OBMMIVA30YF                             30-Year Fixed Rate Veterans Affairs Mortgage Index                                                                                      NSA  Daily      07-Dec-2022  

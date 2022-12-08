@@ -1,0 +1,7 @@
+Id : 221  Chicago Fed National Financial Conditions Index
+ANFCI                                   Chicago Fed Adjusted National Financial Conditions Index                                                                                NSA  Weekly, Ending Friday 07-Dec-2022  
+NFCI                                    Chicago Fed National Financial Conditions Index                                                                                         NSA  Weekly, Ending Friday 07-Dec-2022  
+NFCICREDIT                              Chicago Fed National Financial Conditions Credit Subindex                                                                               NSA  Weekly, Ending Friday 07-Dec-2022  
+NFCILEVERAGE                            Chicago Fed National Financial Conditions Leverage Subindex                                                                             NSA  Weekly, Ending Friday 07-Dec-2022  
+NFCINONFINLEVERAGE                      Chicago Fed National Financial Conditions Index Nonfinancial Leveral Subindex                                                           NSA  Weekly, Ending Friday 07-Dec-2022  
+NFCIRISK                                Chicago Fed National Financial Conditions Risk Subindex                                                                                 NSA  Weekly, Ending Friday 07-Dec-2022  

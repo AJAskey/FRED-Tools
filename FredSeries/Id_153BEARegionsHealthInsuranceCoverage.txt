@@ -1,0 +1,46 @@
+Id : 153  BEA Regions Health Insurance Coverage
+BEAFWHICCOVER                           Health Insurance Coverage: People Covered in the Far West BEA Region (DISCONTINUED)                                                     NSA  Annual     17-Sep-2013  
+BEAFWHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Far West BEA Region (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
+BEAFWHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Far West BEA Region (DISCONTINUED)                                                     NSA  Annual     17-Sep-2013  
+BEAFWHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Far West BEA Region (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
+BEAFWHICTOTAL                           Health Insurance Coverage: Total Number of People in the Far West BEA Region (DISCONTINUED)                                             NSA  Annual     17-Sep-2013  
+BEAGLHICCOVER                           Health Insurance Coverage: People Covered in the Great Lakes BEA Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
+BEAGLHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Great Lakes BEA Region (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
+BEAGLHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Great Lakes BEA Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
+BEAGLHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Great Lakes BEA Region (DISCONTINUED)                                              NSA  Annual     17-Sep-2013  
+BEAGLHICTOTAL                           Health Insurance Coverage: Total Number of People in the Great Lakes BEA Region (DISCONTINUED)                                          NSA  Annual     17-Sep-2013  
+BEAMEHICCOVER                           Health Insurance Coverage: People Covered in the Mideast BEA Region (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
+BEAMEHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Mideast BEA Region (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
+BEAMEHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Mideast BEA Region (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
+BEAMEHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Mideast BEA Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
+BEAMEHICTOTAL                           Health Insurance Coverage: Total Number of People in the Mideast BEA Region (DISCONTINUED)                                              NSA  Annual     17-Sep-2013  
+BEANEHICCOVER                           Health Insurance Coverage: People Covered in the New England BEA Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
+BEANEHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the New England BEA Region (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
+BEANEHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the New England BEA Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
+BEANEHICNOTCOV                          Health Insurance Coverage: People Not Covered in the New England BEA Region (DISCONTINUED)                                              NSA  Annual     17-Sep-2013  
+BEANEHICTOTAL                           Health Insurance Coverage: Total Number of People in the New England BEA Region (DISCONTINUED)                                          NSA  Annual     17-Sep-2013  
+BEAPLHICCOVER                           Health Insurance Coverage: People Covered in the Plains BEA Region (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
+BEAPLHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Plains BEA Region (DISCONTINUED)                                                        NSA  Annual     17-Sep-2013  
+BEAPLHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Plains BEA Region (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
+BEAPLHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Plains BEA Region (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
+BEAPLHICTOTAL                           Health Insurance Coverage: Total Number of People in the Plains BEA Region (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
+BEARMHICCOVER                           Health Insurance Coverage: People Covered in the Rocky Mountain BEA Region (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
+BEARMHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Rocky Mountain BEA Region (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
+BEARMHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Rocky Mountain BEA Region (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
+BEARMHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Rocky Mountain BEA Region (DISCONTINUED)                                           NSA  Annual     17-Sep-2013  
+BEARMHICTOTAL                           Health Insurance Coverage: Total Number of People in the Rocky Mountain BEA Region (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  
+BEASEHICCOVER                           Health Insurance Coverage: People Covered in the Southeast BEA Region (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
+BEASEHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Southeast BEA Region (DISCONTINUED)                                                     NSA  Annual     17-Sep-2013  
+BEASEHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Southeast BEA Region (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
+BEASEHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Southeast BEA Region (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
+BEASEHICTOTAL                           Health Insurance Coverage: Total Number of People in the Southeast BEA Region (DISCONTINUED)                                            NSA  Annual     17-Sep-2013  
+BEASWHICCOVER                           Health Insurance Coverage: People Covered in the Southwest BEA Region (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
+BEASWHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the Southwest BEA Region (DISCONTINUED)                                                     NSA  Annual     17-Sep-2013  
+BEASWHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the Southwest BEA Region (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
+BEASWHICNOTCOV                          Health Insurance Coverage: People Not Covered in the Southwest BEA Region (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
+BEASWHICTOTAL                           Health Insurance Coverage: Total Number of People in the Southwest BEA Region (DISCONTINUED)                                            NSA  Annual     17-Sep-2013  
+DSHICCOVER                              Health Insurance Coverage: People Covered in FRB-St. Louis District States (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
+DSHICCOVPCT                             Health Insurance Coverage: Coverage Rate in FRB-St. Louis District States (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
+DSHICNCPCT                              Health Insurance Coverage: Uncovered Rate in FRB-St. Louis District States (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
+DSHICNOTCOV                             Health Insurance Coverage: People Not Covered in FRB-St. Louis District States (DISCONTINUED)                                           NSA  Annual     17-Sep-2013  
+DSHICTOTAL                              Health Insurance Coverage: Total Number of People in FRB-St. Louis District States (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  

@@ -1,0 +1,4 @@
+Id : 484  Key ECB Interest Rates
+ECBDFR                                  ECB Deposit Facility Rate for Euro Area                                                                                                 NSA  Daily, 7-Day 07-Dec-2022  
+ECBMLFR                                 ECB Marginal Lending Facility Rate for Euro Area                                                                                        NSA  Daily, 7-Day 07-Dec-2022  
+ECBMRRFR                                ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                                                                  NSA  Daily, 7-Day 07-Dec-2022  

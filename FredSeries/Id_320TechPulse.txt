@@ -1,0 +1,5 @@
+Id : 320  Tech Pulse
+SFTPAGRM158SFRBSF                       San Francisco Tech Pulse (DISCONTINUED)                                                                                                 SA   Monthly    13-Apr-2020  
+SFTPGR12M159SFRBSF                      San Francisco Tech Pulse (DISCONTINUED)                                                                                                 SA   Monthly    13-Apr-2020  
+SFTPGRM157SFRBSF                        San Francisco Tech Pulse (DISCONTINUED)                                                                                                 SA   Monthly    13-Apr-2020  
+SFTPINDM114SFRBSF                       San Francisco Tech Pulse (DISCONTINUED)                                                                                                 SA   Monthly    13-Apr-2020  

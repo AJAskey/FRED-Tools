@@ -1,0 +1,43 @@
+Id : 435  Advance Economic Indicators
+AITGCBN                                 Advance U.S. International Trade in Goods: Balance                                                                                      NSA  Monthly    30-Nov-2022  
+AITGCBS                                 Advance U.S. International Trade in Goods: Balance                                                                                      SA   Monthly    30-Nov-2022  
+AITGEAN                                 Advance U.S. International Trade in Goods: Exports: Automotive Vehicles, etc.                                                           NSA  Monthly    30-Nov-2022  
+AITGEAS                                 Advance U.S. International Trade in Goods: Exports: Automotive Vehicles, etc.                                                           SA   Monthly    30-Nov-2022  
+AITGECN                                 Advance U.S. International Trade in Goods: Exports: Capital Goods                                                                       NSA  Monthly    30-Nov-2022  
+AITGECS                                 Advance U.S. International Trade in Goods: Exports: Capital Goods                                                                       SA   Monthly    30-Nov-2022  
+AITGEFN                                 Advance U.S. International Trade in Goods: Exports: Foods, Feeds, & Beverages                                                           NSA  Monthly    30-Nov-2022  
+AITGEFS                                 Advance U.S. International Trade in Goods: Exports: Foods, Feeds, & Beverages                                                           SA   Monthly    30-Nov-2022  
+AITGEGN                                 Advance U.S. International Trade in Goods: Exports: Consumer Goods                                                                      NSA  Monthly    30-Nov-2022  
+AITGEGS                                 Advance U.S. International Trade in Goods: Exports: Consumer Goods                                                                      SA   Monthly    30-Nov-2022  
+AITGEIN                                 Advance U.S. International Trade in Goods: Exports: Industrial Supplies                                                                 NSA  Monthly    30-Nov-2022  
+AITGEIS                                 Advance U.S. International Trade in Goods: Exports: Industrial Supplies                                                                 SA   Monthly    30-Nov-2022  
+AITGEON                                 Advance U.S. International Trade in Goods: Exports: Other Goods                                                                         NSA  Monthly    30-Nov-2022  
+AITGEOS                                 Advance U.S. International Trade in Goods: Exports: Other Goods                                                                         SA   Monthly    30-Nov-2022  
+AITGEXN                                 Advance U.S. International Trade in Goods: Exports                                                                                      NSA  Monthly    30-Nov-2022  
+AITGEXS                                 Advance U.S. International Trade in Goods: Exports                                                                                      SA   Monthly    30-Nov-2022  
+AITGIAN                                 Advance U.S. International Trade in Goods: Imports: Automotive Vehicles, etc.                                                           NSA  Monthly    30-Nov-2022  
+AITGIAS                                 Advance U.S. International Trade in Goods: Imports: Automotive Vehicles, etc.                                                           SA   Monthly    30-Nov-2022  
+AITGICN                                 Advance U.S. International Trade in Goods: Imports: Capital Goods                                                                       NSA  Monthly    30-Nov-2022  
+AITGICS                                 Advance U.S. International Trade in Goods: Imports: Capital Goods                                                                       SA   Monthly    30-Nov-2022  
+AITGIFN                                 Advance U.S. International Trade in Goods: Imports: Foods, Feeds, & Beverages                                                           NSA  Monthly    30-Nov-2022  
+AITGIFS                                 Advance U.S. International Trade in Goods: Imports: Foods, Feeds, & Beverages                                                           SA   Monthly    30-Nov-2022  
+AITGIGN                                 Advance U.S. International Trade in Goods: Imports: Consumer Goods                                                                      NSA  Monthly    30-Nov-2022  
+AITGIGS                                 Advance U.S. International Trade in Goods: Imports: Consumer Goods                                                                      SA   Monthly    30-Nov-2022  
+AITGIIN                                 Advance U.S. International Trade in Goods: Imports: Industrial Supplies                                                                 NSA  Monthly    30-Nov-2022  
+AITGIIS                                 Advance U.S. International Trade in Goods: Imports: Industrial Supplies                                                                 SA   Monthly    30-Nov-2022  
+AITGION                                 Advance U.S. International Trade in Goods: Imports: Other Goods                                                                         NSA  Monthly    30-Nov-2022  
+AITGIOS                                 Advance U.S. International Trade in Goods: Imports: Other Goods                                                                         SA   Monthly    30-Nov-2022  
+AITGIXN                                 Advance U.S. International Trade in Goods: Imports                                                                                      NSA  Monthly    30-Nov-2022  
+AITGIXS                                 Advance U.S. International Trade in Goods: Imports                                                                                      SA   Monthly    30-Nov-2022  
+AMINDGN                                 Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods In  NSA  Monthly    30-Nov-2022  
+AMINDGS                                 Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Durable Goods In  SA   Monthly    30-Nov-2022  
+AMINNGN                                 Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods  NSA  Monthly    30-Nov-2022  
+AMINNGS                                 Advance Merchant Wholesale Inventories: Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales: Nondurable Goods  SA   Monthly    30-Nov-2022  
+AMINVTN                                 Advance Merchant Wholesale Inventories: Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories        NSA  Monthly    30-Nov-2022  
+AMINVTS                                 Advance Merchant Wholesale Inventories: Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories        SA   Monthly    30-Nov-2022  
+ARIEAPN                                 Advance Retail Inventories: Retail Trade, Excluding Auto                                                                                NSA  Monthly    30-Nov-2022  
+ARIEAPS                                 Advance Retail Inventories: Retail Trade, Excluding Auto                                                                                SA   Monthly    30-Nov-2022  
+ARIMVPN                                 Advance Retail Inventories: Motor Vehicle and Parts Dealers                                                                             NSA  Monthly    30-Nov-2022  
+ARIMVPS                                 Advance Retail Inventories: Motor Vehicle and Parts Dealers                                                                             SA   Monthly    30-Nov-2022  
+ARINVTN                                 Advance Retail Inventories: Retail (Excluding Food Services)                                                                            NSA  Monthly    30-Nov-2022  
+ARINVTS                                 Advance Retail Inventories: Retail (Excluding Food Services)                                                                            SA   Monthly    30-Nov-2022  

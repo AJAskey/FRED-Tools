@@ -1,0 +1,6 @@
+Id : 61  Money Zero Maturity (MZM)
+MZM                                     MZM Money Stock (DISCONTINUED)                                                                                                          SA   Weekly, Ending Monday 26-Oct-2022  
+MZMNS                                   MZM Money Stock (DISCONTINUED)                                                                                                          NSA  Monthly    22-Nov-2022  
+MZMOWN                                  MZM Own Rate (DISCONTINUED)                                                                                                             NSA  Monthly    12-Jul-2019  
+MZMSL                                   MZM Money Stock (DISCONTINUED)                                                                                                          SA   Monthly    22-Nov-2022  
+WMZMNS                                  MZM Money Stock (DISCONTINUED)                                                                                                          NSA  Weekly, Ending Monday 22-Nov-2022  

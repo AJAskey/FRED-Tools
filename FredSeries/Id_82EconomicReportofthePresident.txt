@@ -1,0 +1,3 @@
+Id : 82  Economic Report of the President
+FYGFD                                   Gross Federal Debt                                                                                                                      NSA  Annual, Fiscal Year 18-Apr-2022  
+FYGFDPUB                                Gross Federal Debt Held by the Public                                                                                                   NSA  Annual, Fiscal Year 18-Apr-2022  

@@ -1,0 +1,3 @@
+Id : 236  Monthly Housing Affordability Index
+COMPHAI                                 Housing Affordability Index (Composite) (DISCONTINUED)                                                                                  NSA  Monthly    14-Jun-2019  
+FIXHAI                                  Housing Affordability Index (Fixed)                                                                                                     NSA  Monthly    10-Nov-2022  

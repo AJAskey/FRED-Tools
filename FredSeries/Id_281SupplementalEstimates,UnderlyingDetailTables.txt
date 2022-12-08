@@ -1,0 +1,11 @@
+Id : 281  Supplemental Estimates, Underlying Detail Tables
+CMRMT                                   Real Manufacturing and Trade Industries Sales                                                                                           SA   Monthly    01-Dec-2022  
+CQRMT                                   Real Manufacturing and Trade Industries Sales                                                                                           SA   Quarterly  01-Dec-2022  
+DHSGRC0                                 Personal Consumption Expenditures by Type of Product: Services: Household Consumption Expenditures: Housing                             SAAR Quarterly  01-Dec-2022  
+HMRMT                                   Real Manufacturing and Trade Industries Sales                                                                                           SA   Monthly    14-Jun-2013  
+HQRMT                                   Real Manufacturing and Trade Industries Sales                                                                                           SA   Quarterly  14-Jun-2013  
+INVCMRMT                                Real Manufacturing and Trade Inventories                                                                                                SA   Monthly    01-Dec-2022  
+INVCQRMT                                Real Manufacturing and Trade Inventories                                                                                                SA   Quarterly  01-Dec-2022  
+INVHMRMT                                Real Manufacturing and Trade Inventories                                                                                                SA   Monthly    31-Jul-2018  
+INVHQRMT                                Real Manufacturing and Trade Inventories                                                                                                SA   Quarterly  31-Jul-2018  
+S210400                                 Personal Current Tax Receipts: State and Local Government: Property Taxes                                                               SAAR Quarterly  28-Oct-2022  

@@ -1,0 +1,17 @@
+Id : 488  Brave-Butters-Kelley Indexes
+BBKMCLA                                 Brave-Butters-Kelley Cycle: Lagging Subcomponent of GDP                                                                                 SA   Monthly    05-Dec-2022  
+BBKMCLE                                 Brave-Butters-Kelley Cycle: Leading Subcomponent of GDP                                                                                 SA   Monthly    05-Dec-2022  
+BBKMCOIX                                Brave-Butters-Kelley Coincident Index                                                                                                   SA   Monthly    05-Dec-2022  
+BBKMCY                                  Brave-Butters-Kelley Cycle Component of GDP                                                                                             SA   Monthly    05-Dec-2022  
+BBKMGDP                                 Brave-Butters-Kelley Real Gross Domestic Product                                                                                        SA   Monthly    05-Dec-2022  
+BBKMIR                                  Brave-Butters-Kelley Irregular Component of GDP                                                                                         SA   Monthly    05-Dec-2022  
+BBKMLEIX                                Brave-Butters-Kelley Leading Index                                                                                                      SA   Monthly    05-Dec-2022  
+BBKMTRD                                 Brave-Butters-Kelley Trend Component of GDP                                                                                             SA   Monthly    05-Dec-2022  
+BBKQCLA                                 Brave-Butters-Kelley Cycle: Lagging Subcomponent of GDP                                                                                 SA   Quarterly  05-Dec-2022  
+BBKQCLE                                 Brave-Butters-Kelley Cycle: Leading Subcomponent of GDP                                                                                 SA   Quarterly  05-Dec-2022  
+BBKQCOIX                                Brave-Butters-Kelley Coincident Index                                                                                                   SA   Quarterly  05-Dec-2022  
+BBKQCY                                  Brave-Butters-Kelley Cycle Component of GDP                                                                                             SA   Quarterly  05-Dec-2022  
+BBKQGDP                                 Brave-Butters-Kelley Real Gross Domestic Product                                                                                        SA   Quarterly  05-Dec-2022  
+BBKQIR                                  Brave-Butters-Kelley Irregular Component of GDP                                                                                         SA   Quarterly  05-Dec-2022  
+BBKQLEIX                                Brave-Butters-Kelley Leading Index                                                                                                      SA   Quarterly  05-Dec-2022  
+BBKQTRD                                 Brave-Butters-Kelley Trend Component of GDP                                                                                             SA   Quarterly  05-Dec-2022  

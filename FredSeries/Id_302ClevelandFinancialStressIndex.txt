@@ -1,0 +1,24 @@
+Id : 302  Cleveland Financial Stress Index
+ABSSD678FRBCLE                          Contributions to the Cleveland Financial Stress Index: Asset-Backed Security Spread (DISCONTINUED)                                      NSA  Daily      06-May-2016  
+BBSD678FRBCLE                           Contributions to the Cleveland Financial Stress Index: Bank Bond Spread (DISCONTINUED)                                                  NSA  Daily      06-May-2016  
+CBSD678FRBCLE                           Contributions to the Cleveland Financial Stress Index: Corporate Bond Spread (DISCONTINUED)                                             NSA  Daily      06-May-2016  
+CFSI                                    Cleveland Financial Stress Index (DISCONTINUED)                                                                                         NSA  Daily, 7-Day 06-May-2016  
+CISD678FRBCLE                           Contributions to the Cleveland Financial Stress Index: Covered Interest Spread (DISCONTINUED)                                           NSA  Daily      06-May-2016  
+CMBSSD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Commercial Mortgage-Backed Security Spread (DISCONTINUED)                        NSA  Daily      06-May-2016  
+CMRKTSD678FRBCLE                        Contributions to the Cleveland Financial Stress Index: Credit Markets (DISCONTINUED)                                                    NSA  Daily      06-May-2016  
+CPTBSD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Commercial Paper minus T-Bill Spread (DISCONTINUED)                              NSA  Daily      06-May-2016  
+CRESD678FRBCLE                          Contributions to the Cleveland Financial Stress Index: Commercial Real Estate Spread (DISCONTINUED)                                     NSA  Daily      06-May-2016  
+EQMRKTSD678FRBCLE                       Contributions to the Cleveland Financial Stress Index: Equity Markets (DISCONTINUED)                                                    NSA  Daily      06-May-2016  
+FEMRKTSD678FRBCLE                       Contributions to the Cleveland Financial Stress Index: Foreign Exchange Markets (DISCONTINUED)                                          NSA  Daily      06-May-2016  
+FINBETAD678FRBCLE                       Contributions to the Cleveland Financial Stress Index: Financial Beta (DISCONTINUED)                                                    NSA  Daily      06-May-2016  
+IBCOBD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Interbank Cost of Borrowing (DISCONTINUED)                                       NSA  Daily      06-May-2016  
+IBLSD678FRBCLE                          Contributions to the Cleveland Financial Stress Index: Interbank Liquidity Spread (DISCONTINUED)                                        NSA  Daily      06-May-2016  
+IBMRKTSD678FRBCLE                       Contributions to the Cleveland Financial Stress Index: Interbank or Funding Markets (DISCONTINUED)                                      NSA  Daily      06-May-2016  
+LQTYSD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Liquidity Spread (DISCONTINUED)                                                  NSA  Daily      06-May-2016  
+REMRKTD678FRBCLE                        Contributions to the Cleveland Financial Stress Index: Real Estate Market (DISCONTINUED)                                                NSA  Daily      06-May-2016  
+RMBSSD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Residential Mortgage-Backed Security Spread (DISCONTINUED)                       NSA  Daily      06-May-2016  
+RRESD678FRBCLE                          Contributions to the Cleveland Financial Stress Index: Residential Real Estate Spread (DISCONTINUED)                                    NSA  Daily      06-May-2016  
+SMCD678FRBCLE                           Contributions to the Cleveland Financial Stress Index: Stock Market Crashes (DISCONTINUED)                                              NSA  Daily      06-May-2016  
+SMRKTD678FRBCLE                         Contributions to the Cleveland Financial Stress Index: Securitization Market (DISCONTINUED)                                             NSA  Daily      06-May-2016  
+TYCSD678FRBCLE                          Contributions to the Cleveland Financial Stress Index: Treasury Yield Curve Spread (DISCONTINUED)                                       NSA  Daily      06-May-2016  
+WDCD678FRBCLE                           Contributions to the Cleveland Financial Stress Index: Weighted Dollar Crashes (DISCONTINUED)                                           NSA  Daily      06-May-2016  

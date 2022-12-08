@@ -1,0 +1,6 @@
+Id : 305  Swiss National Bank Monthly Statistical Bulletin
+SNBFORCURPOS                            Relevant Foreign Currency Positions of Swiss National Bank                                                                              NSA  Monthly    21-Nov-2022  
+SNBMMT                                  Money Market Transactions Conducted by Swiss National Bank                                                                              NSA  Monthly    21-Nov-2022  
+SNBMONTBASE                             Swiss Monetary Base Aggregate                                                                                                           NSA  Monthly    21-Nov-2022  
+SNBREMBALPOS                            Balance of the Remaining Balance Sheet Positions of Swiss National Bank                                                                 NSA  Monthly    21-Nov-2022  
+SNBSECRPORT                             Securities Portfolio of Swiss National Bank                                                                                             NSA  Monthly    21-Nov-2022  

@@ -1,0 +1,4 @@
+Id : 323  Trimmed Mean PCE Inflation Rate
+PCETRIM12M159SFRBDAL                    Trimmed Mean PCE Inflation Rate                                                                                                         SA   Monthly    01-Dec-2022  
+PCETRIM1M158SFRBDAL                     Trimmed Mean PCE Inflation Rate                                                                                                         SA   Monthly    01-Dec-2022  
+PCETRIM6M680SFRBDAL                     Trimmed Mean PCE Inflation Rate                                                                                                         SA   Monthly    01-Dec-2022  

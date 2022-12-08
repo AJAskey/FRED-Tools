@@ -1,0 +1,6 @@
+Id : 81  Fiscal Year Budget Data
+FYFR                                    Federal Receipts                                                                                                                        NSA  Annual, Fiscal Year 21-Oct-2022  
+FYFSD                                   Federal Surplus or Deficit [-]                                                                                                          NSA  Annual, Fiscal Year 21-Oct-2022  
+FYGDP                                   Gross Domestic Product                                                                                                                  NSA  Annual, Fiscal Year 01-Apr-2022  
+FYOINT                                  Federal Outlays: Interest                                                                                                               NSA  Annual, Fiscal Year 21-Oct-2022  
+FYONET                                  Federal Net Outlays                                                                                                                     NSA  Annual, Fiscal Year 21-Oct-2022  

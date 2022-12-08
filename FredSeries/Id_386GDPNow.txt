@@ -1,0 +1,48 @@
+Id : 386  GDPNow
+BUSFIXINVESTCONTRIBNOW                  Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment: Business                           SA   Quarterly  06-Dec-2022  
+BUSFIXINVESTNOW                         Nowcast for Real Gross Private Domestic Investment: Fixed Investment: Business                                                          SAAR Quarterly  06-Dec-2022  
+CHNGNETEXPORTSCONTRIBNOW                Contributions to percent change in GDPNow: Real Change of Net Exports of Goods and Services                                             SA   Quarterly  06-Dec-2022  
+CHNGNETEXPORTSNOW                       Nowcast for Real Change of Net Exports of Goods and Services                                                                            SAAR Quarterly  06-Dec-2022  
+CHNGNETINVENTCONTRIBNOW                 Contributions to percent change in GDPNow: Real Change of Inventory Investment                                                          SA   Quarterly  06-Dec-2022  
+CHNGNETINVENTNOW                        Nowcast for Real Change of Inventory Investment                                                                                         SAAR Quarterly  06-Dec-2022  
+EQUIPCONTRIBNOW                         Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment: Business: Equipment                SA   Quarterly  06-Dec-2022  
+EQUIPNOW                                Nowcast for Real Gross Private Domestic Investment: Fixed Investment: Business: Equipment                                               SAAR Quarterly  06-Dec-2022  
+EXPORTSCONTRIBNOW                       Contributions to percent change in GDPNow: Real Exports of Goods and Services                                                           SA   Quarterly  06-Dec-2022  
+EXPORTSGOODSCONTRIBNOW                  Contributions to percent change in GDPNow: Real Exports of Goods                                                                        SA   Quarterly  06-Dec-2022  
+EXPORTSGOODSNOW                         Nowcast for Real Exports of Goods                                                                                                       SAAR Quarterly  06-Dec-2022  
+EXPORTSNOW                              Nowcast for Real Exports of Goods and Services                                                                                          SAAR Quarterly  06-Dec-2022  
+EXPORTSSERVICESCONTRIBNOW               Contributions to percent change in GDPNow: Real Exports of Services                                                                     SA   Quarterly  06-Dec-2022  
+EXPORTSSERVICESNOW                      Nowcast for Real Exports of Services                                                                                                    SAAR Quarterly  06-Dec-2022  
+FEDGOVCONTRIBNOW                        Contributions to percent change in GDPNow: Real Gross Government Investment: Federal Government                                         SA   Quarterly  06-Dec-2022  
+FEDGOVNOW                               Nowcast for Real Gross Government Investment: Federal Government                                                                        SAAR Quarterly  06-Dec-2022  
+FINSALESCONTRIBNOW                      Contributions to percent change in GDPNow: Real Final Sales of Domestic Product                                                         SA   Quarterly  06-Dec-2022  
+FINSALESDOMPRIVPUR                      Nowcast for Real Final Sales of Private Domestic Purchasers                                                                             SAAR Quarterly  06-Dec-2022  
+FINSALESDOMPURNOW                       Nowcast for Real Final Sales of Domestic Purchasers                                                                                     SAAR Quarterly  06-Dec-2022  
+FINSALESNOW                             Nowcast for Real Final Sales of Domestic Product                                                                                        SAAR Quarterly  06-Dec-2022  
+FIXINVESTCONTRIBNOW                     Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment                                     SA   Quarterly  06-Dec-2022  
+FIXINVESTNOW                            Nowcast for Real Gross Private Domestic Investment: Fixed Investment                                                                    SAAR Quarterly  06-Dec-2022  
+GDPICONTRIBNOW                          Contributions to percent change in GDPNow: Real Gross Private Domestic Investment                                                       SA   Quarterly  06-Dec-2022  
+GDPINOW                                 Nowcast for Real Gross Private Domestic Investment                                                                                      SAAR Quarterly  06-Dec-2022  
+GDPNOW                                  GDPNow                                                                                                                                  SAAR Quarterly  06-Dec-2022  
+GOVCONTRIBNOW                           Contributions to percent change in GDPNow: Real Gross Government Investment                                                             SA   Quarterly  06-Dec-2022  
+GOVNOW                                  Nowcast for Real Gross Government Investment                                                                                            SAAR Quarterly  06-Dec-2022  
+IMPORTSCONTRIBNOW                       Contributions to percent change in GDPNow: Real Imports of Goods and Services                                                           SA   Quarterly  06-Dec-2022  
+IMPORTSERVICESCONTRIBNOW                Contributions to percent change in GDPNow: Real Imports of Services                                                                     SA   Quarterly  06-Dec-2022  
+IMPORTSERVICESNOW                       Nowcast for Real Imports of Services                                                                                                    SAAR Quarterly  06-Dec-2022  
+IMPORTSGOODSCONTRIBNOW                  Contributions to percent change in GDPNow: Real Imports of Goods                                                                        SA   Quarterly  06-Dec-2022  
+IMPORTSGOODSNOW                         Nowcast for Real Imports of Goods                                                                                                       SAAR Quarterly  06-Dec-2022  
+IMPORTSNOW                              Nowcast for Real Imports of Goods and Services                                                                                          SAAR Quarterly  06-Dec-2022  
+IPPCONTRIBNOW                           Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment: Business: Intellectual Property P  SA   Quarterly  06-Dec-2022  
+IPPNOW                                  Nowcast for Real Gross Private Domestic Investment: Fixed Investment: Business: Intellectual Property Products                          SAAR Quarterly  06-Dec-2022  
+PCECONTRIBNOW                           Contributions to percent change in GDPNow: Real Personal Consumption Expenditures                                                       SA   Quarterly  06-Dec-2022  
+PCEGOODSCONTRIBNOW                      Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Goods                                                SA   Quarterly  06-Dec-2022  
+PCEGOODSNOW                             Nowcast for Real Personal Consumption Expenditures: Goods                                                                               SAAR Quarterly  06-Dec-2022  
+PCENOW                                  Nowcast for Real Personal Consumption Expenditures                                                                                      SAAR Quarterly  06-Dec-2022  
+PCESERVICESCONTRIBNOW                   Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Services                                             SA   Quarterly  06-Dec-2022  
+PCESERVICESNOW                          Nowcast for Real Personal Consumption Expenditures: Services                                                                            SAAR Quarterly  06-Dec-2022  
+RESCONTRIBNOW                           Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment: Residential                        SA   Quarterly  06-Dec-2022  
+RESNOW                                  Nowcast for Real Gross Private Domestic Investment: Fixed Investment: Residential                                                       SAAR Quarterly  06-Dec-2022  
+SLGOVCONTRIBNOW                         Contributions to percent change in GDPNow: Real Gross Government Investment: State and Local Government                                 SA   Quarterly  06-Dec-2022  
+SLGOVNOW                                Nowcast for Real Gross Government Investment: State and Local Government                                                                SAAR Quarterly  06-Dec-2022  
+STRUCTCONTRIBNOW                        Contributions to percent change in GDPNow: Real Gross Private Domestic Investment: Fixed Investment: Business: Structures               SA   Quarterly  06-Dec-2022  
+STRUCTNOW                               Nowcast for Real Gross Private Domestic Investment: Fixed Investment: Business: Structures                                              SAAR Quarterly  06-Dec-2022  

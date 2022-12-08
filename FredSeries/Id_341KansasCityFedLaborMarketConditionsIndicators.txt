@@ -1,0 +1,3 @@
+Id : 341  Kansas City Fed Labor Market Conditions Indicators
+FRBKCLMCILA                             KC Fed Labor Market Conditions Index, Level of Activity Indicator                                                                       SA   Monthly    06-Dec-2022  
+FRBKCLMCIM                              KC Fed Labor Market Conditions Index, Momentum Indicator                                                                                SA   Monthly    06-Dec-2022  

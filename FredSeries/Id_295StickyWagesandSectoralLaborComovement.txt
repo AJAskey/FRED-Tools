@@ -1,0 +1,10 @@
+Id : 295  Sticky Wages and Sectoral Labor Comovement
+CONSDEF                                 Consumption Deflator                                                                                                                    SA   Quarterly  06-Dec-2022  
+EDEF                                    Equipment Deflator                                                                                                                      SA   Quarterly  06-Dec-2022  
+ESDEF                                   Equipment and Software Deflator (DISCONTINUED)                                                                                          SA   Quarterly  04-Jun-2018  
+INVDEF                                  Investment Deflator                                                                                                                     SA   Quarterly  06-Dec-2022  
+NINV                                    Nominal Investment                                                                                                                      SA   Quarterly  06-Dec-2022  
+PERIC                                   Relative Price of Equipment                                                                                                             SA   Quarterly  06-Dec-2022  
+PERICD                                  Relative Price of Equipment and Software (DISCONTINUED)                                                                                 SA   Quarterly  04-Jun-2018  
+PIRIC                                   Relative Price of Investment Goods                                                                                                      SA   Quarterly  06-Dec-2022  
+RINV                                    Real Investment                                                                                                                         SA   Quarterly  06-Dec-2022  

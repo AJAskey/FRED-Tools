@@ -1,0 +1,34 @@
+Id : 286  Federal Recovery Programs and BEA Statistics
+CAGRTSQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Capital Transfer Payments: Capital Grants (DISCONTIN  SAAR Quarterly  12-Aug-2013  
+CATRBUQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Capital Transfer Payments: Capital Transfers to Busi  SAAR Quarterly  12-Aug-2013  
+CONEXPQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Consumption Expenditures (DISCONTINUED)               SAAR Quarterly  12-Aug-2013  
+CTPAYMQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Capital Transfer Payments (DISCONTINUED)              SAAR Quarterly  12-Aug-2013  
+CUREXPQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Expenditures (DISCONTINUED)                   SAAR Quarterly  12-Aug-2013  
+CURRECQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Receipts (DISCONTINUED)                       SAAR Quarterly  12-Aug-2013  
+CUTAXREQ027SBEA                         Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Tax Receipts (DISCONTINUED)                   SAAR Quarterly  12-Aug-2013  
+CUTRPAQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments (DISCONTINUED)              SAAR Quarterly  12-Aug-2013  
+EDUGOVQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Grants-In-Aid to State an  SAAR Quarterly  12-Aug-2013  
+GASLGOQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Grants-In-Aid to State an  SAAR Quarterly  12-Aug-2013  
+GOSOBEQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+GROINVQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Gross Investment (DISCONTINUED)                       SAAR Quarterly  12-Aug-2013  
+GSBTPEQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+MEDICAQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Grants-In-Aid to State an  SAAR Quarterly  12-Aug-2013  
+MWTPTCQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Tax Receipts: Personal Current Taxes: Making  SAAR Quarterly  12-Aug-2013  
+NFEDGSQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Net Federal Government Saving (DISCONTINUED)                             SAAR Quarterly  12-Aug-2013  
+NLEBORQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Net Lending or Net Borrowing (-) (DISCONTINUED)       SAAR Quarterly  12-Aug-2013  
+OCTFPAQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Other Current Transfer Payments (DISCONTINUED)        SAAR Quarterly  12-Aug-2013  
+OTDLPYQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+OTHGOVQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Grants-In-Aid to State an  SAAR Quarterly  12-Aug-2013  
+OTHPRGQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+OTHPRMQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+PCTOTHQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Tax Receipts: Personal Current Taxes: Other   SAAR Quarterly  12-Aug-2013  
+PECUTAQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Tax Receipts: Personal Current Taxes (DISCON  SAAR Quarterly  12-Aug-2013  
+REFTCRQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+ROWGOVQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: to the Rest of the World   SAAR Quarterly  12-Aug-2013  
+SNUAPRQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+STFIASQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  
+SUBSIDQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Subsidies (DISCONTINUED)                              SAAR Quarterly  12-Aug-2013  
+TOCOINQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Tax Receipts: Taxes on Corporate Income (DIS  SAAR Quarterly  12-Aug-2013  
+TOTEXPQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Total Expenditures (DISCONTINUED)                     SAAR Quarterly  12-Aug-2013  
+TOTRECQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Total Receipts (DISCONTINUED)                         SAAR Quarterly  12-Aug-2013  
+UNEPROQ027SBEA                          Effect of the American Recovery and Reinvestment Act (ARRA) on Federal Government Current Transfer Payments: Government Social Benefit  SAAR Quarterly  12-Aug-2013  

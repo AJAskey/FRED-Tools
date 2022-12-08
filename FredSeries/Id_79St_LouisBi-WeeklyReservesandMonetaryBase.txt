@@ -1,0 +1,14 @@
+Id : 79  St. Louis Bi-Weekly Reserves and Monetary Base
+ADJRAM                                  Reserve Adjustment Magnitude (RAM) (DISCONTINUED)                                                                                       NSA  Biweekly, Ending Wednesday 19-Dec-2019  
+ADJRES                                  St. Louis Adjusted Reserves (DISCONTINUED)                                                                                              SA   Biweekly, Ending Wednesday 19-Dec-2019  
+ADJRESN                                 St. Louis Adjusted Reserves (DISCONTINUED)                                                                                              NSA  Biweekly, Ending Wednesday 19-Dec-2019  
+ADJSBASE                                St. Louis Source Base (DISCONTINUED)                                                                                                    NSA  Biweekly, Ending Wednesday 19-Dec-2019  
+BASE                                    St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                                         SA   Biweekly, Ending Wednesday 19-Dec-2019  
+BASENS                                  St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                                         NSA  Biweekly, Ending Wednesday 19-Dec-2019  
+DISBASE                                 St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                                         SA   Biweekly, Ending Wednesday 14-Jul-2003  
+DISBWRAM                                Reserve Adjustment Magnitude (RAM) (DISCONTINUED)                                                                                       NSA  Not Applicable 14-Jul-2003  
+DISMULT                                 M1 Money Multiplier (DISCONTINUED)                                                                                                      SA   Biweekly, Ending Monday 14-Jul-2003  
+DSADJREN                                St. Louis Adjusted Reserves (DISCONTINUED)                                                                                              NSA  Biweekly, Ending Wednesday 14-Jul-2003  
+DSADJRES                                St. Louis Adjusted Reserves (DISCONTINUED)                                                                                              SA   Biweekly, Ending Wednesday 14-Jul-2003  
+DSBASENS                                St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                                         NSA  Biweekly, Ending Wednesday 14-Jul-2003  
+MULT                                    M1 Money Multiplier (DISCONTINUED)                                                                                                      SA   Biweekly, Ending Wednesday 12-Dec-2019  

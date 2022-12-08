@@ -1,0 +1,5 @@
+Id : 494  Chicago Fed Advance Retail Trade Summary
+CARTSI                                  Chicago Fed Advance Retail Trade Summary Weekly Index of Retail Trade                                                                   SA   Weekly     11-Apr-2022  
+CARTSILPC                               Chicago Fed Advance Retail Trade Summary Weekly Index of Retail Trade                                                                   SA   Weekly     11-Apr-2022  
+CARTSILPCM                              Chicago Fed Advance Retail Trade Summary Contributions from the U.S. Census Bureau's Monthly Retail Trade Survey (MRTS) and Advance Mo  SA   Weekly     11-Apr-2022  
+CARTSILPCW                              Chicago Fed Advance Retail Trade Summary Contributions from Weekly Data on Credit & Debit Cards, Mobility, and Consumer Sentiment       SA   Weekly     11-Apr-2022  

@@ -1,0 +1,5 @@
+Id : 99  Budget and Economic Outlook
+GDPPOT                                  Real Potential Gross Domestic Product                                                                                                   NSA  Quarterly  26-May-2022  
+NGDPPOT                                 Nominal Potential Gross Domestic Product                                                                                                NSA  Quarterly  26-May-2022  
+NROU                                    Noncyclical Rate of Unemployment                                                                                                        NSA  Quarterly  26-May-2022  
+NROUST                                  Natural Rate of Unemployment (Short-Term) (DISCONTINUED)                                                                                NSA  Quarterly  01-Feb-2021  

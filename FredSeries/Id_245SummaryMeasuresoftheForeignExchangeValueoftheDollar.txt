@@ -1,0 +1,7 @@
+Id : 245  Summary Measures of the Foreign Exchange Value of the Dollar
+RTWEXAFEGS                              Real Advanced Foreign Economies Dollar Index                                                                                            NSA  Monthly    01-Dec-2022  
+RTWEXBGS                                Real Broad Dollar Index                                                                                                                 NSA  Monthly    01-Dec-2022  
+RTWEXEMEGS                              Real Emerging Market Economies Dollar Index                                                                                             NSA  Monthly    01-Dec-2022  
+TWEXBPA                                 Real Broad Dollar Index (Goods Only) (DISCONTINUED)                                                                                     NSA  Monthly    02-Jan-2020  
+TWEXMPA                                 Real Major Dollar Index (Goods Only) (DISCONTINUED)                                                                                     NSA  Monthly    02-Jan-2020  
+TWEXOPA                                 Real OITP Dollar Index (Goods Only) (DISCONTINUED)                                                                                      NSA  Monthly    02-Jan-2020  

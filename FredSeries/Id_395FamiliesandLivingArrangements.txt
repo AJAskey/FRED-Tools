@@ -1,0 +1,14 @@
+Id : 395  Families and Living Arrangements
+FHHWMC                                  Family Households with Married Couples                                                                                                  NSA  Annual     21-Nov-2022  
+FMLWCUMC                                Total Families with Children under 18 Years Old with Married Couple                                                                     NSA  Annual     21-Nov-2022  
+NFHHFH                                  Nonfamily Households with Female Householder                                                                                            NSA  Annual     21-Nov-2022  
+NFHHMH                                  Nonfamily Households with Male Householder                                                                                              NSA  Annual     21-Nov-2022  
+OFHHFH                                  Family Households with Female Householder                                                                                               NSA  Annual     21-Nov-2022  
+OFHHMH                                  Family Households with Male Householder                                                                                                 NSA  Annual     21-Nov-2022  
+OPFWCUFO                                Total One Parent Families with Children under 18 Years Old with Father                                                                  NSA  Annual     21-Nov-2022  
+OPFWCUMO                                Total One Parent Families with Children under 18 Years Old with Mother                                                                  NSA  Annual     21-Nov-2022  
+TTLFHH                                  Total Family Households                                                                                                                 NSA  Annual     21-Nov-2022  
+TTLFMCU                                 Total Families with Children under 18 Years Old                                                                                         NSA  Annual     21-Nov-2022  
+TTLHH                                   Total Households                                                                                                                        NSA  Annual     21-Nov-2022  
+TTLNHH                                  Total Nonfamily Households                                                                                                              NSA  Annual     21-Nov-2022  
+TTLOPFWCU                               Total One Parent Families with Children under 18 Years Old                                                                              NSA  Annual     21-Nov-2022  

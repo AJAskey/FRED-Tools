@@ -1,0 +1,45 @@
+Id : 291  Existing Home Sales
+EXHOSLUSM495N                           Existing Home Sales                                                                                                                     NSA  Monthly    18-Nov-2022  
+EXHOSLUSM495S                           Existing Home Sales                                                                                                                     SAAR Monthly    18-Nov-2022  
+EXHOSLUSMWM495N                         Existing Home Sales in Midwest Census Region                                                                                            NSA  Monthly    18-Nov-2022  
+EXHOSLUSMWM495S                         Existing Home Sales in Midwest Census Region                                                                                            SAAR Monthly    18-Nov-2022  
+EXHOSLUSNEM495N                         Existing Home Sales in Northeast Census Region                                                                                          NSA  Monthly    18-Nov-2022  
+EXHOSLUSNEM495S                         Existing Home Sales in Northeast Census Region                                                                                          SAAR Monthly    18-Nov-2022  
+EXHOSLUSSOM495N                         Existing Home Sales in South Census Region                                                                                              NSA  Monthly    18-Nov-2022  
+EXHOSLUSSOM495S                         Existing Home Sales in South Census Region                                                                                              SAAR Monthly    18-Nov-2022  
+EXHOSLUSWTM495N                         Existing Home Sales in West Census Region                                                                                               NSA  Monthly    18-Nov-2022  
+EXHOSLUSWTM495S                         Existing Home Sales in West Census Region                                                                                               SAAR Monthly    18-Nov-2022  
+EXSFHSUSM495N                           Existing Single-Family Home Sales                                                                                                       NSA  Monthly    18-Nov-2022  
+EXSFHSUSM495S                           Existing Single-Family Home Sales                                                                                                       SAAR Monthly    18-Nov-2022  
+EXSFHSUSMWM495N                         Existing Single-Family Home Sales in Midwest Census Region                                                                              NSA  Monthly    18-Nov-2022  
+EXSFHSUSMWM495S                         Existing Single-Family Home Sales in Midwest Census Region                                                                              SAAR Monthly    18-Nov-2022  
+EXSFHSUSNEM495N                         Existing Single-Family Home Sales in Northeast Census Region                                                                            NSA  Monthly    18-Nov-2022  
+EXSFHSUSNEM495S                         Existing Single-Family Home Sales in Northeast Census Region                                                                            SAAR Monthly    18-Nov-2022  
+EXSFHSUSSOM495N                         Existing Single-Family Home Sales in South Census Region                                                                                NSA  Monthly    18-Nov-2022  
+EXSFHSUSSOM495S                         Existing Single-Family Home Sales in South Census Region                                                                                SAAR Monthly    18-Nov-2022  
+EXSFHSUSWTM495N                         Existing Single-Family Home Sales in West Census Region                                                                                 NSA  Monthly    18-Nov-2022  
+EXSFHSUSWTM495S                         Existing Single-Family Home Sales in West Census Region                                                                                 SAAR Monthly    18-Nov-2022  
+HOSAVGUSM052N                           Mean Sales Price of Existing Homes (DISCONTINUED)                                                                                       NSA  Monthly    20-Jul-2022  
+HOSAVGUSMWM052N                         Mean Sales Price of Existing Homes in Midwest Census Region (DISCONTINUED)                                                              NSA  Monthly    20-Jul-2022  
+HOSAVGUSNEM052N                         Mean Sales Price of Existing Homes in Northeast Census Region (DISCONTINUED)                                                            NSA  Monthly    20-Jul-2022  
+HOSAVGUSSOM052N                         Mean Sales Price of Existing Homes in South Census Region (DISCONTINUED)                                                                NSA  Monthly    20-Jul-2022  
+HOSAVGUSWTM052N                         Mean Sales Price of Existing Homes in West Census Region (DISCONTINUED)                                                                 NSA  Monthly    20-Jul-2022  
+HOSINVUSM495N                           Existing Home Sales: Housing Inventory                                                                                                  NSA  Monthly    18-Nov-2022  
+HOSMEDUSM052N                           Median Sales Price of Existing Homes                                                                                                    NSA  Monthly    18-Nov-2022  
+HOSMEDUSMWM052N                         Median Sales Price of Existing Homes in Midwest Census Region                                                                           NSA  Monthly    18-Nov-2022  
+HOSMEDUSNEM052N                         Median Sales Price of Existing Homes in Northeast Census Region                                                                         NSA  Monthly    18-Nov-2022  
+HOSMEDUSSOM052N                         Median Sales Price of Existing Homes in South Census Region                                                                             NSA  Monthly    18-Nov-2022  
+HOSMEDUSWTM052N                         Median Sales Price of Existing Homes in West Census Region                                                                              NSA  Monthly    18-Nov-2022  
+HOSSUPUSM673N                           Existing Home Sales: Months Supply                                                                                                      NSA  Monthly    18-Nov-2022  
+HSFAVGUSM052N                           Mean Sales Price of Existing Single-Family Homes (DISCONTINUED)                                                                         NSA  Monthly    20-Jul-2022  
+HSFAVGUSMWM052N                         Mean Sales Price of Existing Single-Family Homes in Midwest Census Region (DISCONTINUED)                                                NSA  Monthly    20-Jul-2022  
+HSFAVGUSNEM052N                         Mean Sales Price of Existing Single-Family Homes in Northeast Census Region (DISCONTINUED)                                              NSA  Monthly    20-Jul-2022  
+HSFAVGUSSOM052N                         Mean Sales Price of Existing Single-Family Homes in South Census Region (DISCONTINUED)                                                  NSA  Monthly    20-Jul-2022  
+HSFAVGUSWTM052N                         Mean Sales Price of Existing Single-Family Homes in West Census Region (DISCONTINUED)                                                   NSA  Monthly    20-Jul-2022  
+HSFINVUSM495N                           Existing Single-Family Home Sales: Housing Inventory                                                                                    SA   Monthly    18-Nov-2022  
+HSFMEDUSM052N                           Median Sales Price of Existing Single-Family Homes                                                                                      NSA  Monthly    18-Nov-2022  
+HSFMEDUSMWM052N                         Median Sales Price of Existing Single-Family Homes in Midwest Census Region                                                             NSA  Monthly    18-Nov-2022  
+HSFMEDUSNEM052N                         Median Sales Price of Existing Single-Family Homes in Northeast Census Region                                                           NSA  Monthly    18-Nov-2022  
+HSFMEDUSSOM052N                         Median Sales Price of Existing Single-Family Homes in South Census Region                                                               NSA  Monthly    18-Nov-2022  
+HSFMEDUSWTM052N                         Median Sales Price of Existing Single-Family Homes in West Census Region                                                                NSA  Monthly    18-Nov-2022  
+HSFSUPUSM673N                           Existing Single-Family Home Sales: Months Supply                                                                                        NSA  Monthly    18-Nov-2022  
