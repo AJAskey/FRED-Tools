@@ -13,8 +13,13 @@
  
 ## Status
  
- 07Dec2022 - Software is not stable in this new repository. It is good for viewing and test out on your local system. Expect issues for a while.
- I am working on it. I have found my code is mostly correct. But the FRED server needs some loving like a beautiful woman. She may be perfect but if you ask too much then she becomes upset.
+ 08Dec2022 - Software is not stable in this new repository. It is good for viewing and test out on your local system. Expect issues for a while.
+ I am working on it. 
+ 
+ New work flow in progress to reduce time on the FRED server.
+ 
+ 1. Download all release and series data (not date/value pairs). This takes about 5 minutes.
+ 2. Retrieve add data needed for updating date/value pairs from local info gathered in step 1. Current processing requires at least 3 hits to FRED server. New processing will require only one in this step.
  
 ---
  
