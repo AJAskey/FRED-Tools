@@ -40,7 +40,7 @@ public class PullAll {
     int lastMoreToDo = 9999999;
     while (relList.size() > 0) {
 
-      List<Release> moreToDo = process(relList);
+      List<Release> moreToDo = process(relList, 3, 15);
 
       relList.clear();
 
@@ -65,7 +65,7 @@ public class PullAll {
 
   }
 
-  private static List<Release> process(List<Release> relList) throws FileNotFoundException {
+  private static List<Release> process(List<Release> relList, int retries, int delay) throws FileNotFoundException {
 
     List<Release> redoList = new ArrayList<>();
 
@@ -81,7 +81,7 @@ public class PullAll {
         String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
         pw.println(s);
 
-        List<Series> serList = Series.querySeriesPerRelease(rel.getId());
+        List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay);
 
         System.out.println(String.format("Processed querySeriesPerRelease for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
 
@@ -123,7 +123,7 @@ public class PullAll {
       String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
       pw.println(s);
 
-      List<Series> serList = Series.querySeriesPerRelease(rel.getId());
+      List<Series> serList = Series.querySeriesPerRelease(rel.getId(), 3, 15);
 
       System.out.println(String.format("Processed querySeriesPerRelease for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
 

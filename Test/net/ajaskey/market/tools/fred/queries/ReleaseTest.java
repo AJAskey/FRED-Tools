@@ -5,6 +5,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import net.ajaskey.common.Debug;
+import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 
 class ReleaseTest {
@@ -18,11 +19,12 @@ class ReleaseTest {
 
     List<Release> relList = Release.queryReleases();
 
+    String dbg = Utils.NL + "All Releases" + Utils.NL;
     for (Release rel : relList) {
       Debug.LOGGER.info(rel.toString());
+      dbg += rel.toString() + Utils.NL;
     }
-    System.out.println(relList.get(0).getUrl());
-    System.out.println(relList.get(0).getResponse());
+    Debug.LOGGER.info(dbg);
   }
 
 }

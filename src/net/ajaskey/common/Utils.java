@@ -189,6 +189,18 @@ public class Utils {
     return sb.toString();
   }
 
+  public static String getFromUrl(final String url, int retries, int delay) {
+
+    for (int i = 0; i < retries; i++) {
+      String resp = getFromUrl(url);
+      if (resp.length() > 0) {
+        return resp;
+      }
+      Utils.sleep(delay * 1000);
+    }
+    return "";
+  }
+
   /**
    * Formats an integer
    * 

@@ -36,7 +36,7 @@ public class Series {
   private static List<Series> seriesList = new ArrayList<>();
   private static Set<String>  uniqSeries = new HashSet<>();
 
-  public static List<Series> querySeriesPerRelease(String release_id) {
+  public static List<Series> querySeriesPerRelease(String release_id, int retries, int delay) {
 
     seriesList.clear();
 
@@ -44,7 +44,7 @@ public class Series {
     boolean readmore = true;
     while (readmore) {
       Debug.LOGGER.info(String.format("%n---------%ncalling fredSeriesPerSeriesQuery.  release_id=%s  offset=%d", release_id, offset));
-      final int num = fredSeriesPerSeriesQuery(release_id, offset);
+      final int num = fredSeriesPerSeriesQuery(release_id, offset, retries, delay);
       if (num < 1000) {
         readmore = false;
       }
@@ -61,7 +61,7 @@ public class Series {
    * @param series_id
    * @return
    */
-  private static int fredSeriesPerSeriesQuery(String release_id, int offset) {
+  private static int fredSeriesPerSeriesQuery(String release_id, int offset, int retries, int delay) {
 
     int totalProcessed = 0;
 
@@ -70,7 +70,7 @@ public class Series {
       String url = String.format("https://api.stlouisfed.org/fred/release/series?release_id=%s&api_key=%s&offset=%d", release_id, ApiKey.get(),
           offset);
 
-      String resp = Utils.getFromUrl(url);
+      String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
 

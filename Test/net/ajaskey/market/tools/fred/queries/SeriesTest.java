@@ -28,7 +28,7 @@ class SeriesTest {
 
     ApiKey.set();
 
-    final List<Series> serList = Series.querySeriesPerRelease("53");
+    final List<Series> serList = Series.querySeriesPerRelease("53", 2, 15);
 
     System.out.println("Series knt : " + serList.size());
 
