@@ -1,2 +1,2 @@
 Id : 178  Mexican Foreign Exchange Intervention
-MEXINTDUSD                              Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD)                                                    NSA  Daily      01-Jul-2011  
+MEXINTDUSD                              Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD)                                     NSA  01-Jul-2011  Daily

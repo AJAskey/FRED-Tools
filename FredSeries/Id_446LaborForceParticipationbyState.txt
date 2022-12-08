@@ -1,103 +1,103 @@
 Id : 446  Labor Force Participation by State
-LBSNSA01                                Labor Force Participation Rate for Alabama                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA02                                Labor Force Participation Rate for Alaska                                                                                               NSA  Monthly    18-Nov-2022  
-LBSNSA04                                Labor Force Participation Rate for Arizona                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA05                                Labor Force Participation Rate for Arkansas                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA06                                Labor Force Participation Rate for California                                                                                           NSA  Monthly    18-Nov-2022  
-LBSNSA08                                Labor Force Participation Rate for Colorado                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA09                                Labor Force Participation Rate for Connecticut                                                                                          NSA  Monthly    18-Nov-2022  
-LBSNSA10                                Labor Force Participation Rate for Delaware                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA11                                Labor Force Participation Rate for District Of Columbia                                                                                 NSA  Monthly    18-Nov-2022  
-LBSNSA12                                Labor Force Participation Rate for Florida                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA13                                Labor Force Participation Rate for Georgia                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA15                                Labor Force Participation Rate for Hawaii                                                                                               NSA  Monthly    18-Nov-2022  
-LBSNSA16                                Labor Force Participation Rate for Idaho                                                                                                NSA  Monthly    18-Nov-2022  
-LBSNSA17                                Labor Force Participation Rate for Illinois                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA18                                Labor Force Participation Rate for Indiana                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA19                                Labor Force Participation Rate for Iowa                                                                                                 NSA  Monthly    18-Nov-2022  
-LBSNSA20                                Labor Force Participation Rate for Kansas                                                                                               NSA  Monthly    18-Nov-2022  
-LBSNSA21                                Labor Force Participation Rate for Kentucky                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA22                                Labor Force Participation Rate for Louisiana                                                                                            NSA  Monthly    18-Nov-2022  
-LBSNSA23                                Labor Force Participation Rate for Maine                                                                                                NSA  Monthly    18-Nov-2022  
-LBSNSA24                                Labor Force Participation Rate for Maryland                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA25                                Labor Force Participation Rate for Massachusetts                                                                                        NSA  Monthly    18-Nov-2022  
-LBSNSA26                                Labor Force Participation Rate for Michigan                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA27                                Labor Force Participation Rate for Minnesota                                                                                            NSA  Monthly    18-Nov-2022  
-LBSNSA28                                Labor Force Participation Rate for Mississippi                                                                                          NSA  Monthly    18-Nov-2022  
-LBSNSA29                                Labor Force Participation Rate for Missouri                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA30                                Labor Force Participation Rate for Montana                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA31                                Labor Force Participation Rate for Nebraska                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA32                                Labor Force Participation Rate for Nevada                                                                                               NSA  Monthly    18-Nov-2022  
-LBSNSA33                                Labor Force Participation Rate for New Hampshire                                                                                        NSA  Monthly    18-Nov-2022  
-LBSNSA34                                Labor Force Participation Rate for New Jersey                                                                                           NSA  Monthly    18-Nov-2022  
-LBSNSA35                                Labor Force Participation Rate for New Mexico                                                                                           NSA  Monthly    18-Nov-2022  
-LBSNSA36                                Labor Force Participation Rate for New York                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA37                                Labor Force Participation Rate for North Carolina                                                                                       NSA  Monthly    18-Nov-2022  
-LBSNSA38                                Labor Force Participation Rate for North Dakota                                                                                         NSA  Monthly    18-Nov-2022  
-LBSNSA39                                Labor Force Participation Rate for Ohio                                                                                                 NSA  Monthly    18-Nov-2022  
-LBSNSA40                                Labor Force Participation Rate for Oklahoma                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA41                                Labor Force Participation Rate for Oregon                                                                                               NSA  Monthly    18-Nov-2022  
-LBSNSA42                                Labor Force Participation Rate for Pennsylvania                                                                                         NSA  Monthly    18-Nov-2022  
-LBSNSA44                                Labor Force Participation Rate for Rhode Island                                                                                         NSA  Monthly    18-Nov-2022  
-LBSNSA45                                Labor Force Participation Rate for South Carolina                                                                                       NSA  Monthly    18-Nov-2022  
-LBSNSA46                                Labor Force Participation Rate for South Dakota                                                                                         NSA  Monthly    18-Nov-2022  
-LBSNSA47                                Labor Force Participation Rate for Tennessee                                                                                            NSA  Monthly    18-Nov-2022  
-LBSNSA48                                Labor Force Participation Rate for Texas                                                                                                NSA  Monthly    18-Nov-2022  
-LBSNSA49                                Labor Force Participation Rate for Utah                                                                                                 NSA  Monthly    18-Nov-2022  
-LBSNSA50                                Labor Force Participation Rate for Vermont                                                                                              NSA  Monthly    18-Nov-2022  
-LBSNSA51                                Labor Force Participation Rate for Virginia                                                                                             NSA  Monthly    18-Nov-2022  
-LBSNSA53                                Labor Force Participation Rate for Washington                                                                                           NSA  Monthly    18-Nov-2022  
-LBSNSA54                                Labor Force Participation Rate for West Virginia                                                                                        NSA  Monthly    18-Nov-2022  
-LBSNSA55                                Labor Force Participation Rate for Wisconsin                                                                                            NSA  Monthly    18-Nov-2022  
-LBSNSA56                                Labor Force Participation Rate for Wyoming                                                                                              NSA  Monthly    18-Nov-2022  
-LBSSA01                                 Labor Force Participation Rate for Alabama                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA02                                 Labor Force Participation Rate for Alaska                                                                                               SA   Monthly    18-Nov-2022  
-LBSSA04                                 Labor Force Participation Rate for Arizona                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA05                                 Labor Force Participation Rate for Arkansas                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA06                                 Labor Force Participation Rate for California                                                                                           SA   Monthly    18-Nov-2022  
-LBSSA08                                 Labor Force Participation Rate for Colorado                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA09                                 Labor Force Participation Rate for Connecticut                                                                                          SA   Monthly    18-Nov-2022  
-LBSSA10                                 Labor Force Participation Rate for Delaware                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA11                                 Labor Force Participation Rate for District Of Columbia                                                                                 SA   Monthly    18-Nov-2022  
-LBSSA12                                 Labor Force Participation Rate for Florida                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA13                                 Labor Force Participation Rate for Georgia                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA15                                 Labor Force Participation Rate for Hawaii                                                                                               SA   Monthly    18-Nov-2022  
-LBSSA16                                 Labor Force Participation Rate for Idaho                                                                                                SA   Monthly    18-Nov-2022  
-LBSSA17                                 Labor Force Participation Rate for Illinois                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA18                                 Labor Force Participation Rate for Indiana                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA19                                 Labor Force Participation Rate for Iowa                                                                                                 SA   Monthly    18-Nov-2022  
-LBSSA20                                 Labor Force Participation Rate for Kansas                                                                                               SA   Monthly    18-Nov-2022  
-LBSSA21                                 Labor Force Participation Rate for Kentucky                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA22                                 Labor Force Participation Rate for Louisiana                                                                                            SA   Monthly    18-Nov-2022  
-LBSSA23                                 Labor Force Participation Rate for Maine                                                                                                SA   Monthly    18-Nov-2022  
-LBSSA24                                 Labor Force Participation Rate for Maryland                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA25                                 Labor Force Participation Rate for Massachusetts                                                                                        SA   Monthly    18-Nov-2022  
-LBSSA26                                 Labor Force Participation Rate for Michigan                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA27                                 Labor Force Participation Rate for Minnesota                                                                                            SA   Monthly    18-Nov-2022  
-LBSSA28                                 Labor Force Participation Rate for Mississippi                                                                                          SA   Monthly    18-Nov-2022  
-LBSSA29                                 Labor Force Participation Rate for Missouri                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA30                                 Labor Force Participation Rate for Montana                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA31                                 Labor Force Participation Rate for Nebraska                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA32                                 Labor Force Participation Rate for Nevada                                                                                               SA   Monthly    18-Nov-2022  
-LBSSA33                                 Labor Force Participation Rate for New Hampshire                                                                                        SA   Monthly    18-Nov-2022  
-LBSSA34                                 Labor Force Participation Rate for New Jersey                                                                                           SA   Monthly    18-Nov-2022  
-LBSSA35                                 Labor Force Participation Rate for New Mexico                                                                                           SA   Monthly    18-Nov-2022  
-LBSSA36                                 Labor Force Participation Rate for New York                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA37                                 Labor Force Participation Rate for North Carolina                                                                                       SA   Monthly    18-Nov-2022  
-LBSSA38                                 Labor Force Participation Rate for North Dakota                                                                                         SA   Monthly    18-Nov-2022  
-LBSSA39                                 Labor Force Participation Rate for Ohio                                                                                                 SA   Monthly    18-Nov-2022  
-LBSSA40                                 Labor Force Participation Rate for Oklahoma                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA41                                 Labor Force Participation Rate for Oregon                                                                                               SA   Monthly    18-Nov-2022  
-LBSSA42                                 Labor Force Participation Rate for Pennsylvania                                                                                         SA   Monthly    18-Nov-2022  
-LBSSA44                                 Labor Force Participation Rate for Rhode Island                                                                                         SA   Monthly    18-Nov-2022  
-LBSSA45                                 Labor Force Participation Rate for South Carolina                                                                                       SA   Monthly    18-Nov-2022  
-LBSSA46                                 Labor Force Participation Rate for South Dakota                                                                                         SA   Monthly    18-Nov-2022  
-LBSSA47                                 Labor Force Participation Rate for Tennessee                                                                                            SA   Monthly    18-Nov-2022  
-LBSSA48                                 Labor Force Participation Rate for Texas                                                                                                SA   Monthly    18-Nov-2022  
-LBSSA49                                 Labor Force Participation Rate for Utah                                                                                                 SA   Monthly    18-Nov-2022  
-LBSSA50                                 Labor Force Participation Rate for Vermont                                                                                              SA   Monthly    18-Nov-2022  
-LBSSA51                                 Labor Force Participation Rate for Virginia                                                                                             SA   Monthly    18-Nov-2022  
-LBSSA53                                 Labor Force Participation Rate for Washington                                                                                           SA   Monthly    18-Nov-2022  
-LBSSA54                                 Labor Force Participation Rate for West Virginia                                                                                        SA   Monthly    18-Nov-2022  
-LBSSA55                                 Labor Force Participation Rate for Wisconsin                                                                                            SA   Monthly    18-Nov-2022  
-LBSSA56                                 Labor Force Participation Rate for Wyoming                                                                                              SA   Monthly    18-Nov-2022  
+LBSNSA01                                Labor Force Participation Rate for Alabama                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA02                                Labor Force Participation Rate for Alaska                                                                                NSA  18-Nov-2022  Monthly
+LBSNSA04                                Labor Force Participation Rate for Arizona                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA05                                Labor Force Participation Rate for Arkansas                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA06                                Labor Force Participation Rate for California                                                                            NSA  18-Nov-2022  Monthly
+LBSNSA08                                Labor Force Participation Rate for Colorado                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA09                                Labor Force Participation Rate for Connecticut                                                                           NSA  18-Nov-2022  Monthly
+LBSNSA10                                Labor Force Participation Rate for Delaware                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA11                                Labor Force Participation Rate for District Of Columbia                                                                  NSA  18-Nov-2022  Monthly
+LBSNSA12                                Labor Force Participation Rate for Florida                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA13                                Labor Force Participation Rate for Georgia                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA15                                Labor Force Participation Rate for Hawaii                                                                                NSA  18-Nov-2022  Monthly
+LBSNSA16                                Labor Force Participation Rate for Idaho                                                                                 NSA  18-Nov-2022  Monthly
+LBSNSA17                                Labor Force Participation Rate for Illinois                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA18                                Labor Force Participation Rate for Indiana                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA19                                Labor Force Participation Rate for Iowa                                                                                  NSA  18-Nov-2022  Monthly
+LBSNSA20                                Labor Force Participation Rate for Kansas                                                                                NSA  18-Nov-2022  Monthly
+LBSNSA21                                Labor Force Participation Rate for Kentucky                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA22                                Labor Force Participation Rate for Louisiana                                                                             NSA  18-Nov-2022  Monthly
+LBSNSA23                                Labor Force Participation Rate for Maine                                                                                 NSA  18-Nov-2022  Monthly
+LBSNSA24                                Labor Force Participation Rate for Maryland                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA25                                Labor Force Participation Rate for Massachusetts                                                                         NSA  18-Nov-2022  Monthly
+LBSNSA26                                Labor Force Participation Rate for Michigan                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA27                                Labor Force Participation Rate for Minnesota                                                                             NSA  18-Nov-2022  Monthly
+LBSNSA28                                Labor Force Participation Rate for Mississippi                                                                           NSA  18-Nov-2022  Monthly
+LBSNSA29                                Labor Force Participation Rate for Missouri                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA30                                Labor Force Participation Rate for Montana                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA31                                Labor Force Participation Rate for Nebraska                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA32                                Labor Force Participation Rate for Nevada                                                                                NSA  18-Nov-2022  Monthly
+LBSNSA33                                Labor Force Participation Rate for New Hampshire                                                                         NSA  18-Nov-2022  Monthly
+LBSNSA34                                Labor Force Participation Rate for New Jersey                                                                            NSA  18-Nov-2022  Monthly
+LBSNSA35                                Labor Force Participation Rate for New Mexico                                                                            NSA  18-Nov-2022  Monthly
+LBSNSA36                                Labor Force Participation Rate for New York                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA37                                Labor Force Participation Rate for North Carolina                                                                        NSA  18-Nov-2022  Monthly
+LBSNSA38                                Labor Force Participation Rate for North Dakota                                                                          NSA  18-Nov-2022  Monthly
+LBSNSA39                                Labor Force Participation Rate for Ohio                                                                                  NSA  18-Nov-2022  Monthly
+LBSNSA40                                Labor Force Participation Rate for Oklahoma                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA41                                Labor Force Participation Rate for Oregon                                                                                NSA  18-Nov-2022  Monthly
+LBSNSA42                                Labor Force Participation Rate for Pennsylvania                                                                          NSA  18-Nov-2022  Monthly
+LBSNSA44                                Labor Force Participation Rate for Rhode Island                                                                          NSA  18-Nov-2022  Monthly
+LBSNSA45                                Labor Force Participation Rate for South Carolina                                                                        NSA  18-Nov-2022  Monthly
+LBSNSA46                                Labor Force Participation Rate for South Dakota                                                                          NSA  18-Nov-2022  Monthly
+LBSNSA47                                Labor Force Participation Rate for Tennessee                                                                             NSA  18-Nov-2022  Monthly
+LBSNSA48                                Labor Force Participation Rate for Texas                                                                                 NSA  18-Nov-2022  Monthly
+LBSNSA49                                Labor Force Participation Rate for Utah                                                                                  NSA  18-Nov-2022  Monthly
+LBSNSA50                                Labor Force Participation Rate for Vermont                                                                               NSA  18-Nov-2022  Monthly
+LBSNSA51                                Labor Force Participation Rate for Virginia                                                                              NSA  18-Nov-2022  Monthly
+LBSNSA53                                Labor Force Participation Rate for Washington                                                                            NSA  18-Nov-2022  Monthly
+LBSNSA54                                Labor Force Participation Rate for West Virginia                                                                         NSA  18-Nov-2022  Monthly
+LBSNSA55                                Labor Force Participation Rate for Wisconsin                                                                             NSA  18-Nov-2022  Monthly
+LBSNSA56                                Labor Force Participation Rate for Wyoming                                                                               NSA  18-Nov-2022  Monthly
+LBSSA01                                 Labor Force Participation Rate for Alabama                                                                               SA   18-Nov-2022  Monthly
+LBSSA02                                 Labor Force Participation Rate for Alaska                                                                                SA   18-Nov-2022  Monthly
+LBSSA04                                 Labor Force Participation Rate for Arizona                                                                               SA   18-Nov-2022  Monthly
+LBSSA05                                 Labor Force Participation Rate for Arkansas                                                                              SA   18-Nov-2022  Monthly
+LBSSA06                                 Labor Force Participation Rate for California                                                                            SA   18-Nov-2022  Monthly
+LBSSA08                                 Labor Force Participation Rate for Colorado                                                                              SA   18-Nov-2022  Monthly
+LBSSA09                                 Labor Force Participation Rate for Connecticut                                                                           SA   18-Nov-2022  Monthly
+LBSSA10                                 Labor Force Participation Rate for Delaware                                                                              SA   18-Nov-2022  Monthly
+LBSSA11                                 Labor Force Participation Rate for District Of Columbia                                                                  SA   18-Nov-2022  Monthly
+LBSSA12                                 Labor Force Participation Rate for Florida                                                                               SA   18-Nov-2022  Monthly
+LBSSA13                                 Labor Force Participation Rate for Georgia                                                                               SA   18-Nov-2022  Monthly
+LBSSA15                                 Labor Force Participation Rate for Hawaii                                                                                SA   18-Nov-2022  Monthly
+LBSSA16                                 Labor Force Participation Rate for Idaho                                                                                 SA   18-Nov-2022  Monthly
+LBSSA17                                 Labor Force Participation Rate for Illinois                                                                              SA   18-Nov-2022  Monthly
+LBSSA18                                 Labor Force Participation Rate for Indiana                                                                               SA   18-Nov-2022  Monthly
+LBSSA19                                 Labor Force Participation Rate for Iowa                                                                                  SA   18-Nov-2022  Monthly
+LBSSA20                                 Labor Force Participation Rate for Kansas                                                                                SA   18-Nov-2022  Monthly
+LBSSA21                                 Labor Force Participation Rate for Kentucky                                                                              SA   18-Nov-2022  Monthly
+LBSSA22                                 Labor Force Participation Rate for Louisiana                                                                             SA   18-Nov-2022  Monthly
+LBSSA23                                 Labor Force Participation Rate for Maine                                                                                 SA   18-Nov-2022  Monthly
+LBSSA24                                 Labor Force Participation Rate for Maryland                                                                              SA   18-Nov-2022  Monthly
+LBSSA25                                 Labor Force Participation Rate for Massachusetts                                                                         SA   18-Nov-2022  Monthly
+LBSSA26                                 Labor Force Participation Rate for Michigan                                                                              SA   18-Nov-2022  Monthly
+LBSSA27                                 Labor Force Participation Rate for Minnesota                                                                             SA   18-Nov-2022  Monthly
+LBSSA28                                 Labor Force Participation Rate for Mississippi                                                                           SA   18-Nov-2022  Monthly
+LBSSA29                                 Labor Force Participation Rate for Missouri                                                                              SA   18-Nov-2022  Monthly
+LBSSA30                                 Labor Force Participation Rate for Montana                                                                               SA   18-Nov-2022  Monthly
+LBSSA31                                 Labor Force Participation Rate for Nebraska                                                                              SA   18-Nov-2022  Monthly
+LBSSA32                                 Labor Force Participation Rate for Nevada                                                                                SA   18-Nov-2022  Monthly
+LBSSA33                                 Labor Force Participation Rate for New Hampshire                                                                         SA   18-Nov-2022  Monthly
+LBSSA34                                 Labor Force Participation Rate for New Jersey                                                                            SA   18-Nov-2022  Monthly
+LBSSA35                                 Labor Force Participation Rate for New Mexico                                                                            SA   18-Nov-2022  Monthly
+LBSSA36                                 Labor Force Participation Rate for New York                                                                              SA   18-Nov-2022  Monthly
+LBSSA37                                 Labor Force Participation Rate for North Carolina                                                                        SA   18-Nov-2022  Monthly
+LBSSA38                                 Labor Force Participation Rate for North Dakota                                                                          SA   18-Nov-2022  Monthly
+LBSSA39                                 Labor Force Participation Rate for Ohio                                                                                  SA   18-Nov-2022  Monthly
+LBSSA40                                 Labor Force Participation Rate for Oklahoma                                                                              SA   18-Nov-2022  Monthly
+LBSSA41                                 Labor Force Participation Rate for Oregon                                                                                SA   18-Nov-2022  Monthly
+LBSSA42                                 Labor Force Participation Rate for Pennsylvania                                                                          SA   18-Nov-2022  Monthly
+LBSSA44                                 Labor Force Participation Rate for Rhode Island                                                                          SA   18-Nov-2022  Monthly
+LBSSA45                                 Labor Force Participation Rate for South Carolina                                                                        SA   18-Nov-2022  Monthly
+LBSSA46                                 Labor Force Participation Rate for South Dakota                                                                          SA   18-Nov-2022  Monthly
+LBSSA47                                 Labor Force Participation Rate for Tennessee                                                                             SA   18-Nov-2022  Monthly
+LBSSA48                                 Labor Force Participation Rate for Texas                                                                                 SA   18-Nov-2022  Monthly
+LBSSA49                                 Labor Force Participation Rate for Utah                                                                                  SA   18-Nov-2022  Monthly
+LBSSA50                                 Labor Force Participation Rate for Vermont                                                                               SA   18-Nov-2022  Monthly
+LBSSA51                                 Labor Force Participation Rate for Virginia                                                                              SA   18-Nov-2022  Monthly
+LBSSA53                                 Labor Force Participation Rate for Washington                                                                            SA   18-Nov-2022  Monthly
+LBSSA54                                 Labor Force Participation Rate for West Virginia                                                                         SA   18-Nov-2022  Monthly
+LBSSA55                                 Labor Force Participation Rate for Wisconsin                                                                             SA   18-Nov-2022  Monthly
+LBSSA56                                 Labor Force Participation Rate for Wyoming                                                                               SA   18-Nov-2022  Monthly

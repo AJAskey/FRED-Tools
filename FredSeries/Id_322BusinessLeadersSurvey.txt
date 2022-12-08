@@ -1,57 +1,57 @@
 Id : 322  Business Leaders Survey
-BACDINA066MNFRBNY                       Current Business Activity; Diffusion Index for FRB - New York District                                                                  NSA  Monthly    16-Nov-2022  
-BACDNA156MNFRBNY                        Current Business Activity; Percent Reporting Decreases for FRB - New York District                                                      NSA  Monthly    16-Nov-2022  
-BACINA156MNFRBNY                        Current Business Activity; Percent Reporting Increases for FRB - New York District                                                      NSA  Monthly    16-Nov-2022  
-BACNNA156MNFRBNY                        Current Business Activity; Percent Reporting No Change for FRB - New York District                                                      NSA  Monthly    16-Nov-2022  
-BAFDINA066MNFRBNY                       Future Business Activity; Diffusion Index for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
-BAFDNA156MNFRBNY                        Future Business Activity; Percent Expecting Decreases for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-BAFINA156MNFRBNY                        Future Business Activity; Percent Expecting Increases for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-BAFNNA156MNFRBNY                        Future Business Activity; Percent Expecting No Change for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-BCCDINA066MNFRBNY                       Current Business Climate; Diffusion Index for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
-BCCDNA156MNFRBNY                        Current Business Climate; Percent Reporting Worse than Normal for FRB - New York District                                               NSA  Monthly    16-Nov-2022  
-BCCINA156MNFRBNY                        Current Business Climate; Percent Reporting Better than Normal for FRB - New York District                                              NSA  Monthly    16-Nov-2022  
-BCCNNA156MNFRBNY                        Current Business Climate; Percent Reporting Normal for FRB - New York District                                                          NSA  Monthly    16-Nov-2022  
-BCFDINA066MNFRBNY                       Future Business Climate; Diffusion Index for FRB - New York District                                                                    NSA  Monthly    16-Nov-2022  
-BCFDNA156MNFRBNY                        Future Business Climate; Percent Expecting to Worsen for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-BCFINA156MNFRBNY                        Future Business Climate; Percent Expecting to Improve for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-BCFNNA156MNFRBNY                        Future Business Climate; Percent Expecting to Not Change for FRB - New York District                                                    NSA  Monthly    16-Nov-2022  
-CSCDINA066MNFRBNY                       Current Capital Spending; Diffusion Index for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
-CSCDNA156MNFRBNY                        Current Capital Spending; Percent Reporting Decreases for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-CSCINA156MNFRBNY                        Current Capital Spending; Percent Reporting Increases for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-CSCNNA156MNFRBNY                        Current Capital Spending; Percent Reporting No Change for FRB - New York District                                                       NSA  Monthly    16-Nov-2022  
-CSFDINA066MNFRBNY                       Future Capital Spending; Diffusion Index for FRB - New York District                                                                    NSA  Monthly    16-Nov-2022  
-CSFDNA156MNFRBNY                        Future Capital Spending; Percent Expecting Decreases for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-CSFINA156MNFRBNY                        Future Capital Spending; Percent Expecting Increases for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-CSFNNA156MNFRBNY                        Future Capital Spending; Percent Expecting No Change for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-EMCDINA066MNFRBNY                       Current Employment; Diffusion Index for FRB - New York District                                                                         NSA  Monthly    16-Nov-2022  
-EMCDNA156MNFRBNY                        Current Employment; Percent Reporting Decreases for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-EMCINA156MNFRBNY                        Current Employment; Percent Reporting Increases for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-EMCNNA156MNFRBNY                        Current Employment; Percent Reporting No Change for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-EMFDINA066MNFRBNY                       Future Employment; Diffusion Index for FRB - New York District                                                                          NSA  Monthly    16-Nov-2022  
-EMFDNA156MNFRBNY                        Future Employment; Percent Expecting Decreases for FRB - New York District                                                              NSA  Monthly    16-Nov-2022  
-EMFINA156MNFRBNY                        Future Employment; Percent Expecting Increases for FRB - New York District                                                              NSA  Monthly    16-Nov-2022  
-EMFNNA156MNFRBNY                        Future Employment; Percent Expecting No Change for FRB - New York District                                                              NSA  Monthly    16-Nov-2022  
-PPCDINA066MNFRBNY                       Current Prices Paid; Diffusion Index for FRB - New York District                                                                        NSA  Monthly    16-Nov-2022  
-PPCDNA156MNFRBNY                        Current Prices Paid; Percent Reporting Decreases for FRB - New York District                                                            NSA  Monthly    16-Nov-2022  
-PPCINA156MNFRBNY                        Current Prices Paid; Percent Reporting Increases for FRB - New York District                                                            NSA  Monthly    16-Nov-2022  
-PPCNNA156MNFRBNY                        Current Prices Paid; Percent Reporting No Change for FRB - New York District                                                            NSA  Monthly    16-Nov-2022  
-PPFDINA066MNFRBNY                       Future Prices Paid; Diffusion Index for FRB - New York District                                                                         NSA  Monthly    16-Nov-2022  
-PPFDNA156MNFRBNY                        Future Prices Paid; Percent Expecting Decreases for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-PPFINA156MNFRBNY                        Future Prices Paid; Percent Expecting Increases for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-PPFNNA156MNFRBNY                        Future Prices Paid; Percent Expecting No Change for FRB - New York District                                                             NSA  Monthly    16-Nov-2022  
-PRCDINA066MNFRBNY                       Current Prices Received; Diffusion Index for FRB - New York District                                                                    NSA  Monthly    16-Nov-2022  
-PRCDNA156MNFRBNY                        Current Prices Received; Percent Reporting Decreases for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-PRCINA156MNFRBNY                        Current Prices Received; Percent Reporting Increases for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-PRCNNA156MNFRBNY                        Current Prices Received; Percent Reporting No Change for FRB - New York District                                                        NSA  Monthly    16-Nov-2022  
-PRFDINA066MNFRBNY                       Future Prices Received; Diffusion Index for FRB - New York District                                                                     NSA  Monthly    16-Nov-2022  
-PRFDNA156MNFRBNY                        Future Prices Received; Percent Expecting Decreases for FRB - New York District                                                         NSA  Monthly    16-Nov-2022  
-PRFINA156MNFRBNY                        Future Prices Received; Percent Expecting Increases for FRB - New York District                                                         NSA  Monthly    16-Nov-2022  
-PRFNNA156MNFRBNY                        Future Prices Received; Percent Expecting No Change for FRB - New York District                                                         NSA  Monthly    16-Nov-2022  
-WPCDINA066MNFRBNY                       Current Wages; Diffusion Index for FRB - New York District                                                                              NSA  Monthly    16-Nov-2022  
-WPCDNA156MNFRBNY                        Current Wages; Percent Reporting Decreases for FRB - New York District                                                                  NSA  Monthly    16-Nov-2022  
-WPCINA156MNFRBNY                        Current Wages; Percent Reporting Increases for FRB - New York District                                                                  NSA  Monthly    16-Nov-2022  
-WPCNNA156MNFRBNY                        Current Wages; Percent Reporting No Change for FRB - New York District                                                                  NSA  Monthly    16-Nov-2022  
-WPFDINA066MNFRBNY                       Future Wages; Diffusion Index for FRB - New York District                                                                               NSA  Monthly    16-Nov-2022  
-WPFDNA156MNFRBNY                        Future Wages; Percent Expecting Decreases for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
-WPFINA156MNFRBNY                        Future Wages; Percent Expecting Increases for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
-WPFNNA156MNFRBNY                        Future Wages; Percent Expecting No Change for FRB - New York District                                                                   NSA  Monthly    16-Nov-2022  
+BACDINA066MNFRBNY                       Current Business Activity; Diffusion Index for FRB - New York District                                                   NSA  16-Nov-2022  Monthly
+BACDNA156MNFRBNY                        Current Business Activity; Percent Reporting Decreases for FRB - New York District                                       NSA  16-Nov-2022  Monthly
+BACINA156MNFRBNY                        Current Business Activity; Percent Reporting Increases for FRB - New York District                                       NSA  16-Nov-2022  Monthly
+BACNNA156MNFRBNY                        Current Business Activity; Percent Reporting No Change for FRB - New York District                                       NSA  16-Nov-2022  Monthly
+BAFDINA066MNFRBNY                       Future Business Activity; Diffusion Index for FRB - New York District                                                    NSA  16-Nov-2022  Monthly
+BAFDNA156MNFRBNY                        Future Business Activity; Percent Expecting Decreases for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+BAFINA156MNFRBNY                        Future Business Activity; Percent Expecting Increases for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+BAFNNA156MNFRBNY                        Future Business Activity; Percent Expecting No Change for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+BCCDINA066MNFRBNY                       Current Business Climate; Diffusion Index for FRB - New York District                                                    NSA  16-Nov-2022  Monthly
+BCCDNA156MNFRBNY                        Current Business Climate; Percent Reporting Worse than Normal for FRB - New York District                                NSA  16-Nov-2022  Monthly
+BCCINA156MNFRBNY                        Current Business Climate; Percent Reporting Better than Normal for FRB - New York District                               NSA  16-Nov-2022  Monthly
+BCCNNA156MNFRBNY                        Current Business Climate; Percent Reporting Normal for FRB - New York District                                           NSA  16-Nov-2022  Monthly
+BCFDINA066MNFRBNY                       Future Business Climate; Diffusion Index for FRB - New York District                                                     NSA  16-Nov-2022  Monthly
+BCFDNA156MNFRBNY                        Future Business Climate; Percent Expecting to Worsen for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+BCFINA156MNFRBNY                        Future Business Climate; Percent Expecting to Improve for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+BCFNNA156MNFRBNY                        Future Business Climate; Percent Expecting to Not Change for FRB - New York District                                     NSA  16-Nov-2022  Monthly
+CSCDINA066MNFRBNY                       Current Capital Spending; Diffusion Index for FRB - New York District                                                    NSA  16-Nov-2022  Monthly
+CSCDNA156MNFRBNY                        Current Capital Spending; Percent Reporting Decreases for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+CSCINA156MNFRBNY                        Current Capital Spending; Percent Reporting Increases for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+CSCNNA156MNFRBNY                        Current Capital Spending; Percent Reporting No Change for FRB - New York District                                        NSA  16-Nov-2022  Monthly
+CSFDINA066MNFRBNY                       Future Capital Spending; Diffusion Index for FRB - New York District                                                     NSA  16-Nov-2022  Monthly
+CSFDNA156MNFRBNY                        Future Capital Spending; Percent Expecting Decreases for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+CSFINA156MNFRBNY                        Future Capital Spending; Percent Expecting Increases for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+CSFNNA156MNFRBNY                        Future Capital Spending; Percent Expecting No Change for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+EMCDINA066MNFRBNY                       Current Employment; Diffusion Index for FRB - New York District                                                          NSA  16-Nov-2022  Monthly
+EMCDNA156MNFRBNY                        Current Employment; Percent Reporting Decreases for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+EMCINA156MNFRBNY                        Current Employment; Percent Reporting Increases for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+EMCNNA156MNFRBNY                        Current Employment; Percent Reporting No Change for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+EMFDINA066MNFRBNY                       Future Employment; Diffusion Index for FRB - New York District                                                           NSA  16-Nov-2022  Monthly
+EMFDNA156MNFRBNY                        Future Employment; Percent Expecting Decreases for FRB - New York District                                               NSA  16-Nov-2022  Monthly
+EMFINA156MNFRBNY                        Future Employment; Percent Expecting Increases for FRB - New York District                                               NSA  16-Nov-2022  Monthly
+EMFNNA156MNFRBNY                        Future Employment; Percent Expecting No Change for FRB - New York District                                               NSA  16-Nov-2022  Monthly
+PPCDINA066MNFRBNY                       Current Prices Paid; Diffusion Index for FRB - New York District                                                         NSA  16-Nov-2022  Monthly
+PPCDNA156MNFRBNY                        Current Prices Paid; Percent Reporting Decreases for FRB - New York District                                             NSA  16-Nov-2022  Monthly
+PPCINA156MNFRBNY                        Current Prices Paid; Percent Reporting Increases for FRB - New York District                                             NSA  16-Nov-2022  Monthly
+PPCNNA156MNFRBNY                        Current Prices Paid; Percent Reporting No Change for FRB - New York District                                             NSA  16-Nov-2022  Monthly
+PPFDINA066MNFRBNY                       Future Prices Paid; Diffusion Index for FRB - New York District                                                          NSA  16-Nov-2022  Monthly
+PPFDNA156MNFRBNY                        Future Prices Paid; Percent Expecting Decreases for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+PPFINA156MNFRBNY                        Future Prices Paid; Percent Expecting Increases for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+PPFNNA156MNFRBNY                        Future Prices Paid; Percent Expecting No Change for FRB - New York District                                              NSA  16-Nov-2022  Monthly
+PRCDINA066MNFRBNY                       Current Prices Received; Diffusion Index for FRB - New York District                                                     NSA  16-Nov-2022  Monthly
+PRCDNA156MNFRBNY                        Current Prices Received; Percent Reporting Decreases for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+PRCINA156MNFRBNY                        Current Prices Received; Percent Reporting Increases for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+PRCNNA156MNFRBNY                        Current Prices Received; Percent Reporting No Change for FRB - New York District                                         NSA  16-Nov-2022  Monthly
+PRFDINA066MNFRBNY                       Future Prices Received; Diffusion Index for FRB - New York District                                                      NSA  16-Nov-2022  Monthly
+PRFDNA156MNFRBNY                        Future Prices Received; Percent Expecting Decreases for FRB - New York District                                          NSA  16-Nov-2022  Monthly
+PRFINA156MNFRBNY                        Future Prices Received; Percent Expecting Increases for FRB - New York District                                          NSA  16-Nov-2022  Monthly
+PRFNNA156MNFRBNY                        Future Prices Received; Percent Expecting No Change for FRB - New York District                                          NSA  16-Nov-2022  Monthly
+WPCDINA066MNFRBNY                       Current Wages; Diffusion Index for FRB - New York District                                                               NSA  16-Nov-2022  Monthly
+WPCDNA156MNFRBNY                        Current Wages; Percent Reporting Decreases for FRB - New York District                                                   NSA  16-Nov-2022  Monthly
+WPCINA156MNFRBNY                        Current Wages; Percent Reporting Increases for FRB - New York District                                                   NSA  16-Nov-2022  Monthly
+WPCNNA156MNFRBNY                        Current Wages; Percent Reporting No Change for FRB - New York District                                                   NSA  16-Nov-2022  Monthly
+WPFDINA066MNFRBNY                       Future Wages; Diffusion Index for FRB - New York District                                                                NSA  16-Nov-2022  Monthly
+WPFDNA156MNFRBNY                        Future Wages; Percent Expecting Decreases for FRB - New York District                                                    NSA  16-Nov-2022  Monthly
+WPFINA156MNFRBNY                        Future Wages; Percent Expecting Increases for FRB - New York District                                                    NSA  16-Nov-2022  Monthly
+WPFNNA156MNFRBNY                        Future Wages; Percent Expecting No Change for FRB - New York District                                                    NSA  16-Nov-2022  Monthly

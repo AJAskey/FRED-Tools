@@ -1,161 +1,161 @@
 Id : 204  International Comparisons of GDP per Capita and per Hour
-AUSAHWEP                                Average Annual Hours Worked per Employed Person in Australia (DISCONTINUED)                                                             NSA  Annual     10-Dec-2012  
-AUSEMPT                                 Employment in Australia (DISCONTINUED)                                                                                                  NSA  Annual     10-Dec-2012  
-AUSEPP                                  Employment as Percentage of Population in Australia (DISCONTINUED)                                                                      NSA  Annual     10-Dec-2012  
-AUSPOPL                                 Population in Australia (DISCONTINUED)                                                                                                  NSA  Annual     10-Dec-2012  
-AUSRGDPC                                Real GDP per Capita in Australia (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-AUSRGDPE                                Real GDP per Employed Person in Australia (DISCONTINUED)                                                                                NSA  Annual     10-Dec-2012  
-AUSRGDPH                                Real GDP per Hour Worked in Australia (DISCONTINUED)                                                                                    NSA  Annual     10-Dec-2012  
-AUSRGDPR                                Real GDP in Australia (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-AUTAHWEP                                Average Annual Hours Worked per Employed Person in Austria (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-AUTEMPT                                 Employment in Austria (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-AUTEPP                                  Employment as Percentage of Population in Austria (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-AUTPOPL                                 Population in Austria (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-AUTRGDPC                                Real GDP per Capita in Austria (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-AUTRGDPE                                Real GDP per Employed Person in Austria (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-AUTRGDPH                                Real GDP per Hour Worked in Austria (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-AUTRGDPR                                Real GDP in Austria (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-BELAHWEP                                Average Annual Hours Worked per Employed Person in Belgium (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-BELEMPT                                 Employment in Belgium (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-BELEPP                                  Employment as Percentage of Population in Belgium (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-BELPOPL                                 Population in Belgium (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-BELRGDPC                                Real GDP per Capita in Belgium (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-BELRGDPE                                Real GDP per Employed Person in Belgium (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-BELRGDPH                                Real GDP per Hour Worked in Belgium (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-BELRGDPR                                Real GDP in Belgium (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-CANAHWEP                                Average Annual Hours Worked per Employed Person in Canada (DISCONTINUED)                                                                NSA  Annual     10-Dec-2012  
-CANEMPT                                 Employment in Canada (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-CANEPP                                  Employment as Percentage of Population in Canada (DISCONTINUED)                                                                         NSA  Annual     10-Dec-2012  
-CANPOPL                                 Population in Canada (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-CANRGDPC                                Real GDP per Capita in Canada (DISCONTINUED)                                                                                            NSA  Annual     10-Dec-2012  
-CANRGDPE                                Real GDP per Employed Person in Canada (DISCONTINUED)                                                                                   NSA  Annual     10-Dec-2012  
-CANRGDPH                                Real GDP per Hour Worked in Canada (DISCONTINUED)                                                                                       NSA  Annual     10-Dec-2012  
-CANRGDPR                                Real GDP in Canada (DISCONTINUED)                                                                                                       NSA  Annual     10-Dec-2012  
-CZEAHWEP                                Average Annual Hours Worked per Employed Person in the Czech Republic (DISCONTINUED)                                                    NSA  Annual     10-Dec-2012  
-CZEEMPT                                 Employment in the Czech Republic (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-CZEEPP                                  Employment as Percentage of Population in the Czech Republic (DISCONTINUED)                                                             NSA  Annual     10-Dec-2012  
-CZEPOPL                                 Population in the Czech Republic (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-CZERGDPC                                Real GDP per Capita in the Czech Republic (DISCONTINUED)                                                                                NSA  Annual     10-Dec-2012  
-CZERGDPE                                Real GDP per Employed Person in the Czech Republic (DISCONTINUED)                                                                       NSA  Annual     10-Dec-2012  
-CZERGDPH                                Real GDP per Hour Worked in the Czech Republic (DISCONTINUED)                                                                           NSA  Annual     10-Dec-2012  
-CZERGDPR                                Real GDP in the Czech Republic (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-DEUAHWEP                                Average Annual Hours Worked per Employed Person in Germany (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-DEUEMPT                                 Employment in Germany (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-DEUEPP                                  Employment as Percentage of Population in Germany (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-DEUPOPL                                 Population in Germany (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-DEURGDPC                                Real GDP per Capita in Germany (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-DEURGDPE                                Real GDP per Employed Person in Germany (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-DEURGDPH                                Real GDP per Hour Worked in Germany (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-DEURGDPR                                Real GDP in Germany (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-DNKAHWEP                                Average Annual Hours Worked per Employed Person in Denmark (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-DNKEMPT                                 Employment in Denmark (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-DNKEPP                                  Employment as Percentage of Population in Denmark (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-DNKPOPL                                 Population in Denmark (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-DNKRGDPC                                Real GDP per Capita in Denmark (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-DNKRGDPE                                Real GDP per Employed Person in Denmark (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-DNKRGDPH                                Real GDP per Hour Worked in Denmark (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-DNKRGDPR                                Real GDP in Denmark (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ESPAHWEP                                Average Annual Hours Worked per Employed Person in Spain (DISCONTINUED)                                                                 NSA  Annual     10-Dec-2012  
-ESPEMPT                                 Employment in Spain (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ESPEPP                                  Employment as Percentage of Population in Spain (DISCONTINUED)                                                                          NSA  Annual     10-Dec-2012  
-ESPPOPL                                 Population in Spain (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ESPRGDPC                                Real GDP per Capita in Spain (DISCONTINUED)                                                                                             NSA  Annual     10-Dec-2012  
-ESPRGDPE                                Real GDP per Employed Person in Spain (DISCONTINUED)                                                                                    NSA  Annual     10-Dec-2012  
-ESPRGDPH                                Real GDP per Hour Worked in Spain (DISCONTINUED)                                                                                        NSA  Annual     10-Dec-2012  
-ESPRGDPR                                Real GDP in Spain (DISCONTINUED)                                                                                                        NSA  Annual     10-Dec-2012  
-FINAHWEP                                Average Annual Hours Worked per Employed Person in Finland (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-FINEMPT                                 Employment in Finland (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-FINEPP                                  Employment as Percentage of Population in Finland (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-FINPOPL                                 Population in Finland (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-FINRGDPC                                Real GDP per Capita in Finland (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-FINRGDPE                                Real GDP per Employed Person in Finland (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-FINRGDPH                                Real GDP per Hour Worked in Finland (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-FINRGDPR                                Real GDP in Finland (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-FRAAHWEP                                Average Annual Hours Worked per Employed Person in France (DISCONTINUED)                                                                NSA  Annual     10-Dec-2012  
-FRAEMPT                                 Employment in France (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-FRAEPP                                  Employment as Percentage of Population in France (DISCONTINUED)                                                                         NSA  Annual     10-Dec-2012  
-FRAPOPL                                 Population in France (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-FRARGDPC                                Real GDP per Capita in France (DISCONTINUED)                                                                                            NSA  Annual     10-Dec-2012  
-FRARGDPE                                Real GDP per Employed Person in France (DISCONTINUED)                                                                                   NSA  Annual     10-Dec-2012  
-FRARGDPH                                Real GDP per Hour Worked in France (DISCONTINUED)                                                                                       NSA  Annual     10-Dec-2012  
-FRARGDPR                                Real GDP in France (DISCONTINUED)                                                                                                       NSA  Annual     10-Dec-2012  
-GBRAHWEP                                Average Annual Hours Worked per Employed Person in the United Kingdom (DISCONTINUED)                                                    NSA  Annual     10-Dec-2012  
-GBREMPT                                 Employment in the United Kingdom (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-GBREPP                                  Employment as Percentage of Population in the United Kingdom (DISCONTINUED)                                                             NSA  Annual     10-Dec-2012  
-GBRPOPL                                 Population in the United Kingdom (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-GBRRGDPC                                Real GDP per Capita in the United Kingdom (DISCONTINUED)                                                                                NSA  Annual     10-Dec-2012  
-GBRRGDPE                                Real GDP per Employed Person in the United Kingdom (DISCONTINUED)                                                                       NSA  Annual     10-Dec-2012  
-GBRRGDPH                                Real GDP per Hour Worked in the United Kingdom (DISCONTINUED)                                                                           NSA  Annual     10-Dec-2012  
-GBRRGDPR                                Real GDP in the United Kingdom (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-IRLAHWEP                                Average Annual Hours Worked per Employed Person in Ireland (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-IRLEMPT                                 Employment in Ireland (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-IRLEPP                                  Employment as Percentage of Population in Ireland (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-IRLPOPL                                 Population in Ireland (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-IRLRGDPC                                Real GDP per Capita in Ireland (DISCONTINUED)                                                                                           NSA  Annual     10-Dec-2012  
-IRLRGDPE                                Real GDP per Employed Person in Ireland (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-IRLRGDPH                                Real GDP per Hour Worked in Ireland (DISCONTINUED)                                                                                      NSA  Annual     10-Dec-2012  
-IRLRGDPR                                Real GDP in Ireland (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ITAAHWEP                                Average Annual Hours Worked per Employed Person in Italy (DISCONTINUED)                                                                 NSA  Annual     10-Dec-2012  
-ITAEMPT                                 Employment in Italy (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ITAEPP                                  Employment as Percentage of Population in Italy (DISCONTINUED)                                                                          NSA  Annual     10-Dec-2012  
-ITAPOPL                                 Population in Italy (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-ITARGDPC                                Real GDP per Capita in Italy (DISCONTINUED)                                                                                             NSA  Annual     10-Dec-2012  
-ITARGDPE                                Real GDP per Employed Person in Italy (DISCONTINUED)                                                                                    NSA  Annual     10-Dec-2012  
-ITARGDPH                                Real GDP per Hour Worked in Italy (DISCONTINUED)                                                                                        NSA  Annual     10-Dec-2012  
-ITARGDPR                                Real GDP in Italy (DISCONTINUED)                                                                                                        NSA  Annual     10-Dec-2012  
-JPNAHWEP                                Average Annual Hours Worked per Employed Person in Japan (DISCONTINUED)                                                                 NSA  Annual     10-Dec-2012  
-JPNEMPT                                 Employment in Japan (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-JPNEPP                                  Employment as Percentage of Population in Japan (DISCONTINUED)                                                                          NSA  Annual     10-Dec-2012  
-JPNPOPL                                 Population in Japan (DISCONTINUED)                                                                                                      NSA  Annual     10-Dec-2012  
-JPNRGDPC                                Real GDP per Capita in Japan (DISCONTINUED)                                                                                             NSA  Annual     10-Dec-2012  
-JPNRGDPE                                Real GDP per Employed Person in Japan (DISCONTINUED)                                                                                    NSA  Annual     10-Dec-2012  
-JPNRGDPH                                Real GDP per Hour Worked in Japan (DISCONTINUED)                                                                                        NSA  Annual     10-Dec-2012  
-JPNRGDPR                                Real GDP in Japan (DISCONTINUED)                                                                                                        NSA  Annual     10-Dec-2012  
-KORAHWEP                                Average Annual Hours Worked per Employed Person in the Republic of Korea (South Korea) (DISCONTINUED)                                   NSA  Annual     10-Dec-2012  
-KOREMPT                                 Employment in the Republic of Korea (South Korea) (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-KOREPP                                  Employment as Percentage of Population in the Republic of Korea (South Korea) (DISCONTINUED)                                            NSA  Annual     10-Dec-2012  
-KORPOPL                                 Population in the Republic of Korea (South Korea) (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-KORRGDPC                                Real GDP per Capita in the Republic of Korea (South Korea) (DISCONTINUED)                                                               NSA  Annual     10-Dec-2012  
-KORRGDPE                                Real GDP per Employed Person in the Republic of Korea (South Korea) (DISCONTINUED)                                                      NSA  Annual     10-Dec-2012  
-KORRGDPH                                Real GDP per Hour Worked in the Republic of Korea (South Korea) (DISCONTINUED)                                                          NSA  Annual     10-Dec-2012  
-KORRGDPR                                Real GDP in the Republic of Korea (South Korea) (DISCONTINUED)                                                                          NSA  Annual     10-Dec-2012  
-NLDAHWEP                                Average Annual Hours Worked per Employed Person in Netherlands (DISCONTINUED)                                                           NSA  Annual     10-Dec-2012  
-NLDEMPT                                 Employment in Netherlands (DISCONTINUED)                                                                                                NSA  Annual     10-Dec-2012  
-NLDEPP                                  Employment as Percentage of Population in Netherlands (DISCONTINUED)                                                                    NSA  Annual     10-Dec-2012  
-NLDPOPL                                 Population in Netherlands (DISCONTINUED)                                                                                                NSA  Annual     10-Dec-2012  
-NLDRGDPC                                Real GDP per Capita in Netherlands (DISCONTINUED)                                                                                       NSA  Annual     10-Dec-2012  
-NLDRGDPE                                Real GDP per Employed Person in Netherlands (DISCONTINUED)                                                                              NSA  Annual     10-Dec-2012  
-NLDRGDPH                                Real GDP per Hour Worked in Netherlands (DISCONTINUED)                                                                                  NSA  Annual     10-Dec-2012  
-NLDRGDPR                                Real GDP in Netherlands (DISCONTINUED)                                                                                                  NSA  Annual     10-Dec-2012  
-NORAHWEP                                Average Annual Hours Worked per Employed Person in Norway (DISCONTINUED)                                                                NSA  Annual     10-Dec-2012  
-NOREMPT                                 Employment in Norway (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-NOREPP                                  Employment as Percentage of Population in Norway (DISCONTINUED)                                                                         NSA  Annual     10-Dec-2012  
-NORPOPL                                 Population in Norway (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-NORRGDPC                                Real GDP per Capita in Norway (DISCONTINUED)                                                                                            NSA  Annual     10-Dec-2012  
-NORRGDPE                                Real GDP per Employed Person in Norway (DISCONTINUED)                                                                                   NSA  Annual     10-Dec-2012  
-NORRGDPH                                Real GDP per Hour Worked in Norway (DISCONTINUED)                                                                                       NSA  Annual     10-Dec-2012  
-NORRGDPR                                Real GDP in Norway (DISCONTINUED)                                                                                                       NSA  Annual     10-Dec-2012  
-SGPAHWEP                                Average Annual Hours Worked per Employed Person in Singapore (DISCONTINUED)                                                             NSA  Annual     10-Dec-2012  
-SGPEMPT                                 Employment in Singapore (DISCONTINUED)                                                                                                  NSA  Annual     10-Dec-2012  
-SGPEPP                                  Employment as Percentage of Population in Singapore (DISCONTINUED)                                                                      NSA  Annual     10-Dec-2012  
-SGPPOPL                                 Population in Singapore (DISCONTINUED)                                                                                                  NSA  Annual     10-Dec-2012  
-SGPRGDPC                                Real GDP per Capita in Singapore (DISCONTINUED)                                                                                         NSA  Annual     10-Dec-2012  
-SGPRGDPE                                Real GDP per Employed Person in Singapore (DISCONTINUED)                                                                                NSA  Annual     10-Dec-2012  
-SGPRGDPH                                Real GDP per Hour Worked in Singapore (DISCONTINUED)                                                                                    NSA  Annual     10-Dec-2012  
-SGPRGDPR                                Real GDP in Singapore (DISCONTINUED)                                                                                                    NSA  Annual     10-Dec-2012  
-SWEAHWEP                                Average Annual Hours Worked per Employed Person in Sweden (DISCONTINUED)                                                                NSA  Annual     10-Dec-2012  
-SWEEMPT                                 Employment in Sweden (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-SWEEPP                                  Employment as Percentage of Population in Sweden (DISCONTINUED)                                                                         NSA  Annual     10-Dec-2012  
-SWEPOPL                                 Population in Sweden (DISCONTINUED)                                                                                                     NSA  Annual     10-Dec-2012  
-SWERGDPC                                Real GDP per Capita in Sweden (DISCONTINUED)                                                                                            NSA  Annual     10-Dec-2012  
-SWERGDPE                                Real GDP per Employed Person in Sweden (DISCONTINUED)                                                                                   NSA  Annual     10-Dec-2012  
-SWERGDPH                                Real GDP per Hour Worked in Sweden (DISCONTINUED)                                                                                       NSA  Annual     10-Dec-2012  
-SWERGDPR                                Real GDP in Sweden (DISCONTINUED)                                                                                                       NSA  Annual     10-Dec-2012  
-USAAHWEP                                Average Annual Hours Worked per Employed Person in the United States (DISCONTINUED)                                                     NSA  Annual     10-Dec-2012  
-USAEMPT                                 Employment in the United States (DISCONTINUED)                                                                                          NSA  Annual     10-Dec-2012  
-USAEPP                                  Employment as Percentage of Population in the United States (DISCONTINUED)                                                              NSA  Annual     10-Dec-2012  
-USAPOPL                                 Population in the United States (DISCONTINUED)                                                                                          NSA  Annual     10-Dec-2012  
-USARGDPC                                Real GDP per Capita in the United States (DISCONTINUED)                                                                                 NSA  Annual     10-Dec-2012  
-USARGDPE                                Real GDP per Employed Person in the United States (DISCONTINUED)                                                                        NSA  Annual     10-Dec-2012  
-USARGDPH                                Real GDP per Hour Worked in the United States (DISCONTINUED)                                                                            NSA  Annual     10-Dec-2012  
-USARGDPR                                Real GDP in the United States (DISCONTINUED)                                                                                            NSA  Annual     10-Dec-2012  
+AUSAHWEP                                Average Annual Hours Worked per Employed Person in Australia (DISCONTINUED)                                              NSA  10-Dec-2012  Annual
+AUSEMPT                                 Employment in Australia (DISCONTINUED)                                                                                   NSA  10-Dec-2012  Annual
+AUSEPP                                  Employment as Percentage of Population in Australia (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
+AUSPOPL                                 Population in Australia (DISCONTINUED)                                                                                   NSA  10-Dec-2012  Annual
+AUSRGDPC                                Real GDP per Capita in Australia (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+AUSRGDPE                                Real GDP per Employed Person in Australia (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
+AUSRGDPH                                Real GDP per Hour Worked in Australia (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
+AUSRGDPR                                Real GDP in Australia (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+AUTAHWEP                                Average Annual Hours Worked per Employed Person in Austria (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+AUTEMPT                                 Employment in Austria (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+AUTEPP                                  Employment as Percentage of Population in Austria (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+AUTPOPL                                 Population in Austria (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+AUTRGDPC                                Real GDP per Capita in Austria (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+AUTRGDPE                                Real GDP per Employed Person in Austria (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+AUTRGDPH                                Real GDP per Hour Worked in Austria (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+AUTRGDPR                                Real GDP in Austria (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+BELAHWEP                                Average Annual Hours Worked per Employed Person in Belgium (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+BELEMPT                                 Employment in Belgium (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+BELEPP                                  Employment as Percentage of Population in Belgium (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+BELPOPL                                 Population in Belgium (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+BELRGDPC                                Real GDP per Capita in Belgium (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+BELRGDPE                                Real GDP per Employed Person in Belgium (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+BELRGDPH                                Real GDP per Hour Worked in Belgium (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+BELRGDPR                                Real GDP in Belgium (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+CANAHWEP                                Average Annual Hours Worked per Employed Person in Canada (DISCONTINUED)                                                 NSA  10-Dec-2012  Annual
+CANEMPT                                 Employment in Canada (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+CANEPP                                  Employment as Percentage of Population in Canada (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
+CANPOPL                                 Population in Canada (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+CANRGDPC                                Real GDP per Capita in Canada (DISCONTINUED)                                                                             NSA  10-Dec-2012  Annual
+CANRGDPE                                Real GDP per Employed Person in Canada (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
+CANRGDPH                                Real GDP per Hour Worked in Canada (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
+CANRGDPR                                Real GDP in Canada (DISCONTINUED)                                                                                        NSA  10-Dec-2012  Annual
+CZEAHWEP                                Average Annual Hours Worked per Employed Person in the Czech Republic (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
+CZEEMPT                                 Employment in the Czech Republic (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+CZEEPP                                  Employment as Percentage of Population in the Czech Republic (DISCONTINUED)                                              NSA  10-Dec-2012  Annual
+CZEPOPL                                 Population in the Czech Republic (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+CZERGDPC                                Real GDP per Capita in the Czech Republic (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
+CZERGDPE                                Real GDP per Employed Person in the Czech Republic (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
+CZERGDPH                                Real GDP per Hour Worked in the Czech Republic (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual
+CZERGDPR                                Real GDP in the Czech Republic (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+DEUAHWEP                                Average Annual Hours Worked per Employed Person in Germany (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+DEUEMPT                                 Employment in Germany (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+DEUEPP                                  Employment as Percentage of Population in Germany (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+DEUPOPL                                 Population in Germany (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+DEURGDPC                                Real GDP per Capita in Germany (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+DEURGDPE                                Real GDP per Employed Person in Germany (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+DEURGDPH                                Real GDP per Hour Worked in Germany (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+DEURGDPR                                Real GDP in Germany (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+DNKAHWEP                                Average Annual Hours Worked per Employed Person in Denmark (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+DNKEMPT                                 Employment in Denmark (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+DNKEPP                                  Employment as Percentage of Population in Denmark (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+DNKPOPL                                 Population in Denmark (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+DNKRGDPC                                Real GDP per Capita in Denmark (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+DNKRGDPE                                Real GDP per Employed Person in Denmark (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+DNKRGDPH                                Real GDP per Hour Worked in Denmark (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+DNKRGDPR                                Real GDP in Denmark (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ESPAHWEP                                Average Annual Hours Worked per Employed Person in Spain (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
+ESPEMPT                                 Employment in Spain (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ESPEPP                                  Employment as Percentage of Population in Spain (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
+ESPPOPL                                 Population in Spain (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ESPRGDPC                                Real GDP per Capita in Spain (DISCONTINUED)                                                                              NSA  10-Dec-2012  Annual
+ESPRGDPE                                Real GDP per Employed Person in Spain (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
+ESPRGDPH                                Real GDP per Hour Worked in Spain (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
+ESPRGDPR                                Real GDP in Spain (DISCONTINUED)                                                                                         NSA  10-Dec-2012  Annual
+FINAHWEP                                Average Annual Hours Worked per Employed Person in Finland (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+FINEMPT                                 Employment in Finland (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+FINEPP                                  Employment as Percentage of Population in Finland (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+FINPOPL                                 Population in Finland (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+FINRGDPC                                Real GDP per Capita in Finland (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+FINRGDPE                                Real GDP per Employed Person in Finland (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+FINRGDPH                                Real GDP per Hour Worked in Finland (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+FINRGDPR                                Real GDP in Finland (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+FRAAHWEP                                Average Annual Hours Worked per Employed Person in France (DISCONTINUED)                                                 NSA  10-Dec-2012  Annual
+FRAEMPT                                 Employment in France (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+FRAEPP                                  Employment as Percentage of Population in France (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
+FRAPOPL                                 Population in France (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+FRARGDPC                                Real GDP per Capita in France (DISCONTINUED)                                                                             NSA  10-Dec-2012  Annual
+FRARGDPE                                Real GDP per Employed Person in France (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
+FRARGDPH                                Real GDP per Hour Worked in France (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
+FRARGDPR                                Real GDP in France (DISCONTINUED)                                                                                        NSA  10-Dec-2012  Annual
+GBRAHWEP                                Average Annual Hours Worked per Employed Person in the United Kingdom (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
+GBREMPT                                 Employment in the United Kingdom (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+GBREPP                                  Employment as Percentage of Population in the United Kingdom (DISCONTINUED)                                              NSA  10-Dec-2012  Annual
+GBRPOPL                                 Population in the United Kingdom (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+GBRRGDPC                                Real GDP per Capita in the United Kingdom (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
+GBRRGDPE                                Real GDP per Employed Person in the United Kingdom (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
+GBRRGDPH                                Real GDP per Hour Worked in the United Kingdom (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual
+GBRRGDPR                                Real GDP in the United Kingdom (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+IRLAHWEP                                Average Annual Hours Worked per Employed Person in Ireland (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+IRLEMPT                                 Employment in Ireland (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+IRLEPP                                  Employment as Percentage of Population in Ireland (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+IRLPOPL                                 Population in Ireland (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+IRLRGDPC                                Real GDP per Capita in Ireland (DISCONTINUED)                                                                            NSA  10-Dec-2012  Annual
+IRLRGDPE                                Real GDP per Employed Person in Ireland (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+IRLRGDPH                                Real GDP per Hour Worked in Ireland (DISCONTINUED)                                                                       NSA  10-Dec-2012  Annual
+IRLRGDPR                                Real GDP in Ireland (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ITAAHWEP                                Average Annual Hours Worked per Employed Person in Italy (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
+ITAEMPT                                 Employment in Italy (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ITAEPP                                  Employment as Percentage of Population in Italy (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
+ITAPOPL                                 Population in Italy (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+ITARGDPC                                Real GDP per Capita in Italy (DISCONTINUED)                                                                              NSA  10-Dec-2012  Annual
+ITARGDPE                                Real GDP per Employed Person in Italy (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
+ITARGDPH                                Real GDP per Hour Worked in Italy (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
+ITARGDPR                                Real GDP in Italy (DISCONTINUED)                                                                                         NSA  10-Dec-2012  Annual
+JPNAHWEP                                Average Annual Hours Worked per Employed Person in Japan (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
+JPNEMPT                                 Employment in Japan (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+JPNEPP                                  Employment as Percentage of Population in Japan (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
+JPNPOPL                                 Population in Japan (DISCONTINUED)                                                                                       NSA  10-Dec-2012  Annual
+JPNRGDPC                                Real GDP per Capita in Japan (DISCONTINUED)                                                                              NSA  10-Dec-2012  Annual
+JPNRGDPE                                Real GDP per Employed Person in Japan (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
+JPNRGDPH                                Real GDP per Hour Worked in Japan (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
+JPNRGDPR                                Real GDP in Japan (DISCONTINUED)                                                                                         NSA  10-Dec-2012  Annual
+KORAHWEP                                Average Annual Hours Worked per Employed Person in the Republic of Korea (South Korea) (DISCONTINUED)                    NSA  10-Dec-2012  Annual
+KOREMPT                                 Employment in the Republic of Korea (South Korea) (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+KOREPP                                  Employment as Percentage of Population in the Republic of Korea (South Korea) (DISCONTINUED)                             NSA  10-Dec-2012  Annual
+KORPOPL                                 Population in the Republic of Korea (South Korea) (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+KORRGDPC                                Real GDP per Capita in the Republic of Korea (South Korea) (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
+KORRGDPE                                Real GDP per Employed Person in the Republic of Korea (South Korea) (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
+KORRGDPH                                Real GDP per Hour Worked in the Republic of Korea (South Korea) (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
+KORRGDPR                                Real GDP in the Republic of Korea (South Korea) (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
+NLDAHWEP                                Average Annual Hours Worked per Employed Person in Netherlands (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
+NLDEMPT                                 Employment in Netherlands (DISCONTINUED)                                                                                 NSA  10-Dec-2012  Annual
+NLDEPP                                  Employment as Percentage of Population in Netherlands (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
+NLDPOPL                                 Population in Netherlands (DISCONTINUED)                                                                                 NSA  10-Dec-2012  Annual
+NLDRGDPC                                Real GDP per Capita in Netherlands (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
+NLDRGDPE                                Real GDP per Employed Person in Netherlands (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
+NLDRGDPH                                Real GDP per Hour Worked in Netherlands (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
+NLDRGDPR                                Real GDP in Netherlands (DISCONTINUED)                                                                                   NSA  10-Dec-2012  Annual
+NORAHWEP                                Average Annual Hours Worked per Employed Person in Norway (DISCONTINUED)                                                 NSA  10-Dec-2012  Annual
+NOREMPT                                 Employment in Norway (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+NOREPP                                  Employment as Percentage of Population in Norway (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
+NORPOPL                                 Population in Norway (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+NORRGDPC                                Real GDP per Capita in Norway (DISCONTINUED)                                                                             NSA  10-Dec-2012  Annual
+NORRGDPE                                Real GDP per Employed Person in Norway (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
+NORRGDPH                                Real GDP per Hour Worked in Norway (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
+NORRGDPR                                Real GDP in Norway (DISCONTINUED)                                                                                        NSA  10-Dec-2012  Annual
+SGPAHWEP                                Average Annual Hours Worked per Employed Person in Singapore (DISCONTINUED)                                              NSA  10-Dec-2012  Annual
+SGPEMPT                                 Employment in Singapore (DISCONTINUED)                                                                                   NSA  10-Dec-2012  Annual
+SGPEPP                                  Employment as Percentage of Population in Singapore (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
+SGPPOPL                                 Population in Singapore (DISCONTINUED)                                                                                   NSA  10-Dec-2012  Annual
+SGPRGDPC                                Real GDP per Capita in Singapore (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
+SGPRGDPE                                Real GDP per Employed Person in Singapore (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
+SGPRGDPH                                Real GDP per Hour Worked in Singapore (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
+SGPRGDPR                                Real GDP in Singapore (DISCONTINUED)                                                                                     NSA  10-Dec-2012  Annual
+SWEAHWEP                                Average Annual Hours Worked per Employed Person in Sweden (DISCONTINUED)                                                 NSA  10-Dec-2012  Annual
+SWEEMPT                                 Employment in Sweden (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+SWEEPP                                  Employment as Percentage of Population in Sweden (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
+SWEPOPL                                 Population in Sweden (DISCONTINUED)                                                                                      NSA  10-Dec-2012  Annual
+SWERGDPC                                Real GDP per Capita in Sweden (DISCONTINUED)                                                                             NSA  10-Dec-2012  Annual
+SWERGDPE                                Real GDP per Employed Person in Sweden (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
+SWERGDPH                                Real GDP per Hour Worked in Sweden (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
+SWERGDPR                                Real GDP in Sweden (DISCONTINUED)                                                                                        NSA  10-Dec-2012  Annual
+USAAHWEP                                Average Annual Hours Worked per Employed Person in the United States (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
+USAEMPT                                 Employment in the United States (DISCONTINUED)                                                                           NSA  10-Dec-2012  Annual
+USAEPP                                  Employment as Percentage of Population in the United States (DISCONTINUED)                                               NSA  10-Dec-2012  Annual
+USAPOPL                                 Population in the United States (DISCONTINUED)                                                                           NSA  10-Dec-2012  Annual
+USARGDPC                                Real GDP per Capita in the United States (DISCONTINUED)                                                                  NSA  10-Dec-2012  Annual
+USARGDPE                                Real GDP per Employed Person in the United States (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
+USARGDPH                                Real GDP per Hour Worked in the United States (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual
+USARGDPR                                Real GDP in the United States (DISCONTINUED)                                                                             NSA  10-Dec-2012  Annual

@@ -1,5 +1,5 @@
 Id : 441  Coinbase Cryptocurrencies
-CBBCHUSD                                Coinbase Bitcoin Cash                                                                                                                   NSA  Daily, 7-Day 07-Dec-2022  
-CBBTCUSD                                Coinbase Bitcoin                                                                                                                        NSA  Daily, 7-Day 07-Dec-2022  
-CBETHUSD                                Coinbase Ethereum                                                                                                                       NSA  Daily, 7-Day 07-Dec-2022  
-CBLTCUSD                                Coinbase Litecoin                                                                                                                       NSA  Daily, 7-Day 07-Dec-2022  
+CBBCHUSD                                Coinbase Bitcoin Cash                                                                                                    NSA  07-Dec-2022  Daily, 7-Day
+CBBTCUSD                                Coinbase Bitcoin                                                                                                         NSA  07-Dec-2022  Daily, 7-Day
+CBETHUSD                                Coinbase Ethereum                                                                                                        NSA  07-Dec-2022  Daily, 7-Day
+CBLTCUSD                                Coinbase Litecoin                                                                                                        NSA  07-Dec-2022  Daily, 7-Day

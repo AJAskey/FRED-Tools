@@ -1,5 +1,5 @@
 Id : 301  Real Money Stock Measures
-AMBSLREAL                               Real St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                                    SA   Monthly    11-Mar-2020  
-M1REAL                                  Real M1 Money Stock                                                                                                                     SA   Monthly    22-Nov-2022  
-M2REAL                                  Real M2 Money Stock                                                                                                                     SA   Monthly    22-Nov-2022  
-MZMREAL                                 Real MZM Money Stock (DISCONTINUED)                                                                                                     SA   Monthly    10-Nov-2022  
+AMBSLREAL                               Real St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                     SA   11-Mar-2020  Monthly
+M1REAL                                  Real M1 Money Stock                                                                                                      SA   22-Nov-2022  Monthly
+M2REAL                                  Real M2 Money Stock                                                                                                      SA   22-Nov-2022  Monthly
+MZMREAL                                 Real MZM Money Stock (DISCONTINUED)                                                                                      SA   10-Nov-2022  Monthly

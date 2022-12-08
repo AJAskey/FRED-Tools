@@ -16,7 +16,7 @@ import net.ajaskey.common.TextUtils;
  */
 public class ParseFredSeriesData {
 
-  private static DateTime usefulDate = new DateTime(2022, DateTime.OCTOBER, 1);
+  private static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
 
   public static void main(String[] args) throws FileNotFoundException {
 
@@ -28,12 +28,14 @@ public class ParseFredSeriesData {
 
     try (PrintWriter pwAll = new PrintWriter("out/filteredSeriesSummary.txt")) {
 
+      int processed = 0;
+
       /**
        * Process each Release from list.
        */
       for (final String fname : relList) {
 
-        System.out.printf("release : %s%n", fname);
+        System.out.printf("release : %s", fname);
 
         String fileToProcess = "FredSeries/" + fname;
         final List<String> data = TextUtils.readTextFile(fileToProcess, false);
@@ -58,13 +60,17 @@ public class ParseFredSeriesData {
                 pdsList.add(pds);
                 pw.printf("%s,%s,%s,%s%n", pds.getName(), pds.getSeasonality(), pds.getFrequency(), pds.getTitle());
 
-                String sDate = pds.lastUpdate.format("yyyy-MM-dd");
-                pwAll.printf("%-30s %-4s %-10s %-12s %-120s %s%n", pds.getName(), pds.getSeasonality(), pds.getFrequency(), sDate, pds.getTitle(),
+                String sDate = pds.lastUpdate.format("dd-MMM-yyyy");
+
+                processed++;
+                pwAll.printf("%-30s %-4s  %-11s  %-30s %-120s %s%n", pds.getName(), pds.getSeasonality(), sDate, pds.getFrequency(), pds.getTitle(),
                     data.get(0).trim());
               }
             }
           }
         }
+        System.out.printf("   %d%n", processed);
+        processed = 0;
       }
     }
 
@@ -91,6 +97,7 @@ public class ParseFredSeriesData {
   private String   seasonality;
   private String   frequency;
   private DateTime lastUpdate;
+  String           lastUpdateStr;
   private String   release;
   private boolean  valid;
 
@@ -99,17 +106,20 @@ public class ParseFredSeriesData {
 
   public ParseFredSeriesData(String data, String rel) {
     int len = data.length();
-    if (len > 204) {
+    if (len > 180) {
+
       String stmp = data.substring(0, 40);
       this.name = stmp.trim();
-      stmp = data.substring(40, 176);
+      stmp = data.substring(40, 161);
       this.title = stmp.trim();
-      stmp = data.substring(176, 180);
+      stmp = data.substring(161, 165);
       this.seasonality = stmp.trim();
-      stmp = data.substring(181, 191);
-      this.frequency = stmp.trim();
-      stmp = data.substring(192, 204);
+      stmp = data.substring(166, 177);
+      this.lastUpdateStr = stmp;
       this.lastUpdate = new DateTime(stmp.trim(), this.sdf);
+      stmp = data.substring(178);
+      this.frequency = stmp.trim();
+
       this.release = rel;
       this.valid = true;
     }
@@ -149,7 +159,7 @@ public class ParseFredSeriesData {
     ret += String.format("  Title       : %s%n", this.title);
     ret += String.format("  Seasonality : %s%n", this.seasonality);
     ret += String.format("  Frequency   : %s%n", this.frequency);
-    ret += String.format("  Last Update : %s%n", this.lastUpdate);
+    ret += String.format("  Last Update : %s     %s%n", this.lastUpdate, this.lastUpdateStr);
     ret += String.format("  Release     : %s", this.release);
 
     return ret;
@@ -161,8 +171,20 @@ public class ParseFredSeriesData {
    */
   private boolean isUseful() {
 
+//    if (!this.name.equals("xyzxcv")) {
+//      return true;
+//    }
+
     if (isInUsefulList(this.name)) {
       return true;
+    }
+
+    if (this.title.toUpperCase().contains("DISCONTINUED")) {
+      return false;
+    }
+
+    if (this.lastUpdate.isLessThan(usefulDate)) {
+      return false;
     }
 
     // Add in Industrial Production NSA Monthly
@@ -183,7 +205,9 @@ public class ParseFredSeriesData {
     // Filter Employment Situation
     if (this.release.contains("Employment Situation")) {
       if (this.title.startsWith("All Employees")) {
-        return true;
+        if (this.seasonality.equals("NSA")) {
+          return true;
+        }
       }
       return false;
     }
@@ -200,16 +224,19 @@ public class ParseFredSeriesData {
     }
 
     // Filter Id : 53 Gross Domestic Product. Desired are in useful list.
-    // Add GDPNow Release series
     if (this.release.contains("Gross Domestic Product")) {
+      return false;
+    }
+
+    // Filter Id : 20 H.4.1. Desired are in useful list.
+    if (this.release.contains("H.4.1")) {
       return false;
     }
 
     if (!this.seasonality.equalsIgnoreCase("SA")) {
       if (!this.seasonality.equalsIgnoreCase("SAAR")) {
-        // if (!this.frequency.equalsIgnoreCase("Quarterly")) {
-        if (!this.frequency.equalsIgnoreCase("Annual")) {
-          if (!this.title.toLowerCase().contains("discontinued")) {
+        if (!this.frequency.equalsIgnoreCase("Not Applicable")) {
+          if (!this.frequency.contains("Annual")) {
             if (!this.title.toLowerCase().contains("northeast")) {
               if (!this.title.toLowerCase().contains("midwest")) {
                 if (!this.title.toLowerCase().contains("south census")) {
@@ -233,10 +260,8 @@ public class ParseFredSeriesData {
                                                     if (!this.title.contains("Labor Force Participation Rate -")) {
                                                       if (!this.title.contains("Houses Sold by ")) {
                                                         if (!this.title.contains("Multiple Jobholders")) {
-                                                          if (this.lastUpdate.isGreaterThanOrEqual(ParseFredSeriesData.usefulDate)) {
 
-                                                            return true;
-                                                          }
+                                                          return true;
                                                         }
                                                       }
                                                     }

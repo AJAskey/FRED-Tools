@@ -1,245 +1,245 @@
 Id : 336  Selected Property Price Series
-Q4TN628BIS                              Residential Property Prices for Emerging Markets (aggregate)                                                                            NSA  Quarterly  24-Nov-2022  
-Q4TN771BIS                              Residential Property Prices for Emerging Markets (aggregate)                                                                            NSA  Quarterly  24-Nov-2022  
-Q4TR628BIS                              Real Residential Property Prices for Emerging Markets (aggregate)                                                                       NSA  Quarterly  24-Nov-2022  
-Q4TR771BIS                              Real Residential Property Prices for Emerging Markets (aggregate)                                                                       NSA  Quarterly  24-Nov-2022  
-Q5RN628BIS                              Residential Property Prices for Advanced Economies (aggregate)                                                                          NSA  Quarterly  24-Nov-2022  
-Q5RN771BIS                              Residential Property Prices for Advanced Economies (aggregate)                                                                          NSA  Quarterly  24-Nov-2022  
-Q5RR628BIS                              Real Residential Property Prices for Advanced Economies (aggregate)                                                                     NSA  Quarterly  24-Nov-2022  
-Q5RR771BIS                              Real Residential Property Prices for Advanced Economies (aggregate)                                                                     NSA  Quarterly  24-Nov-2022  
-QAEN628BIS                              Residential Property Prices for United Arab Emirates                                                                                    NSA  Quarterly  27-Oct-2022  
-QAEN771BIS                              Residential Property Prices for United Arab Emirates                                                                                    NSA  Quarterly  27-Oct-2022  
-QAER628BIS                              Real Residential Property Prices for United Arab Emirates                                                                               NSA  Quarterly  24-Nov-2022  
-QAER771BIS                              Real Residential Property Prices for United Arab Emirates                                                                               NSA  Quarterly  24-Nov-2022  
-QATN368BIS                              Residential Property Prices for Austria                                                                                                 NSA  Quarterly  29-Sep-2022  
-QATN628BIS                              Residential Property Prices for Austria                                                                                                 NSA  Quarterly  29-Sep-2022  
-QATR368BIS                              Real Residential Property Prices for Austria                                                                                            NSA  Quarterly  29-Sep-2022  
-QATR628BIS                              Real Residential Property Prices for Austria                                                                                            NSA  Quarterly  29-Sep-2022  
-QAUN368BIS                              Residential Property Prices for Australia                                                                                               NSA  Quarterly  24-Nov-2022  
-QAUN628BIS                              Residential Property Prices for Australia                                                                                               NSA  Quarterly  24-Nov-2022  
-QAUR368BIS                              Real Residential Property Prices for Australia                                                                                          NSA  Quarterly  24-Nov-2022  
-QAUR628BIS                              Real Residential Property Prices for Australia                                                                                          NSA  Quarterly  24-Nov-2022  
-QBEN368BIS                              Residential Property Prices for Belgium                                                                                                 NSA  Quarterly  29-Sep-2022  
-QBEN628BIS                              Residential Property Prices for Belgium                                                                                                 NSA  Quarterly  29-Sep-2022  
-QBER368BIS                              Real Residential Property Prices for Belgium                                                                                            NSA  Quarterly  29-Sep-2022  
-QBER628BIS                              Real Residential Property Prices for Belgium                                                                                            NSA  Quarterly  29-Sep-2022  
-QBGN368BIS                              Residential Property Prices for Bulgaria                                                                                                NSA  Quarterly  27-Oct-2022  
-QBGN628BIS                              Residential Property Prices for Bulgaria                                                                                                NSA  Quarterly  27-Oct-2022  
-QBGR368BIS                              Real Residential Property Prices for Bulgaria                                                                                           NSA  Quarterly  27-Oct-2022  
-QBGR628BIS                              Real Residential Property Prices for Bulgaria                                                                                           NSA  Quarterly  27-Oct-2022  
-QBRN368BIS                              Residential Property Prices for Brazil                                                                                                  NSA  Quarterly  29-Sep-2022  
-QBRN628BIS                              Residential Property Prices for Brazil                                                                                                  NSA  Quarterly  29-Sep-2022  
-QBRR368BIS                              Real Residential Property Prices for Brazil                                                                                             NSA  Quarterly  29-Sep-2022  
-QBRR628BIS                              Real Residential Property Prices for Brazil                                                                                             NSA  Quarterly  29-Sep-2022  
-QCAN368BIS                              Residential Property Prices for Canada                                                                                                  NSA  Quarterly  29-Sep-2022  
-QCAN628BIS                              Residential Property Prices for Canada                                                                                                  NSA  Quarterly  29-Sep-2022  
-QCAR368BIS                              Real Residential Property Prices for Canada                                                                                             NSA  Quarterly  29-Sep-2022  
-QCAR628BIS                              Real Residential Property Prices for Canada                                                                                             NSA  Quarterly  29-Sep-2022  
-QCHN368BIS                              Residential Property Prices for Switzerland                                                                                             NSA  Quarterly  29-Sep-2022  
-QCHN628BIS                              Residential Property Prices for Switzerland                                                                                             NSA  Quarterly  29-Sep-2022  
-QCHR368BIS                              Real Residential Property Prices for Switzerland                                                                                        NSA  Quarterly  29-Sep-2022  
-QCHR628BIS                              Real Residential Property Prices for Switzerland                                                                                        NSA  Quarterly  29-Sep-2022  
-QCLN368BIS                              Residential Property Prices for Chile                                                                                                   NSA  Quarterly  24-Nov-2022  
-QCLN628BIS                              Residential Property Prices for Chile                                                                                                   NSA  Quarterly  24-Nov-2022  
-QCLR368BIS                              Real Residential Property Prices for Chile                                                                                              NSA  Quarterly  24-Nov-2022  
-QCLR628BIS                              Real Residential Property Prices for Chile                                                                                              NSA  Quarterly  24-Nov-2022  
-QCNN368BIS                              Residential Property Prices for China                                                                                                   NSA  Quarterly  24-Nov-2022  
-QCNN628BIS                              Residential Property Prices for China                                                                                                   NSA  Quarterly  24-Nov-2022  
-QCNR368BIS                              Real Residential Property Prices for China                                                                                              NSA  Quarterly  24-Nov-2022  
-QCNR628BIS                              Real Residential Property Prices for China                                                                                              NSA  Quarterly  24-Nov-2022  
-QCON368BIS                              Residential Property Prices for Colombia                                                                                                NSA  Quarterly  27-Oct-2022  
-QCON628BIS                              Residential Property Prices for Colombia                                                                                                NSA  Quarterly  27-Oct-2022  
-QCOR368BIS                              Real Residential Property Prices for Colombia                                                                                           NSA  Quarterly  27-Oct-2022  
-QCOR628BIS                              Real Residential Property Prices for Colombia                                                                                           NSA  Quarterly  27-Oct-2022  
-QCYN368BIS                              Residential Property Prices for Cyprus                                                                                                  NSA  Quarterly  27-Oct-2022  
-QCYN628BIS                              Residential Property Prices for Cyprus                                                                                                  NSA  Quarterly  27-Oct-2022  
-QCYR368BIS                              Real Residential Property Prices for Cyprus                                                                                             NSA  Quarterly  27-Oct-2022  
-QCYR628BIS                              Real Residential Property Prices for Cyprus                                                                                             NSA  Quarterly  27-Oct-2022  
-QCZN368BIS                              Residential Property Prices for Czech Republic                                                                                          NSA  Quarterly  27-Oct-2022  
-QCZN628BIS                              Residential Property Prices for Czech Republic                                                                                          NSA  Quarterly  27-Oct-2022  
-QCZR368BIS                              Real Residential Property Prices for Czech Republic                                                                                     NSA  Quarterly  27-Oct-2022  
-QCZR628BIS                              Real Residential Property Prices for Czech Republic                                                                                     NSA  Quarterly  27-Oct-2022  
-QDEN368BIS                              Residential Property Prices for Germany                                                                                                 NSA  Quarterly  29-Sep-2022  
-QDEN628BIS                              Residential Property Prices for Germany                                                                                                 NSA  Quarterly  29-Sep-2022  
-QDER368BIS                              Real Residential Property Prices for Germany                                                                                            NSA  Quarterly  29-Sep-2022  
-QDER628BIS                              Real Residential Property Prices for Germany                                                                                            NSA  Quarterly  29-Sep-2022  
-QDKN368BIS                              Residential Property Prices for Denmark                                                                                                 NSA  Quarterly  27-Oct-2022  
-QDKN628BIS                              Residential Property Prices for Denmark                                                                                                 NSA  Quarterly  27-Oct-2022  
-QDKR368BIS                              Real Residential Property Prices for Denmark                                                                                            NSA  Quarterly  27-Oct-2022  
-QDKR628BIS                              Real Residential Property Prices for Denmark                                                                                            NSA  Quarterly  27-Oct-2022  
-QEEN368BIS                              Residential Property Prices for Estonia                                                                                                 NSA  Quarterly  27-Oct-2022  
-QEEN628BIS                              Residential Property Prices for Estonia                                                                                                 NSA  Quarterly  27-Oct-2022  
-QEER368BIS                              Real Residential Property Prices for Estonia                                                                                            NSA  Quarterly  27-Oct-2022  
-QEER628BIS                              Real Residential Property Prices for Estonia                                                                                            NSA  Quarterly  27-Oct-2022  
-QESN368BIS                              Residential Property Prices for Spain                                                                                                   NSA  Quarterly  27-Oct-2022  
-QESN628BIS                              Residential Property Prices for Spain                                                                                                   NSA  Quarterly  27-Oct-2022  
-QESR368BIS                              Real Residential Property Prices for Spain                                                                                              NSA  Quarterly  27-Oct-2022  
-QESR628BIS                              Real Residential Property Prices for Spain                                                                                              NSA  Quarterly  27-Oct-2022  
-QFIN368BIS                              Residential Property Prices for Finland                                                                                                 NSA  Quarterly  27-Oct-2022  
-QFIN628BIS                              Residential Property Prices for Finland                                                                                                 NSA  Quarterly  27-Oct-2022  
-QFIR368BIS                              Real Residential Property Prices for Finland                                                                                            NSA  Quarterly  29-Nov-2022  
-QFIR628BIS                              Real Residential Property Prices for Finland                                                                                            NSA  Quarterly  27-Oct-2022  
-QFRN368BIS                              Residential Property Prices for France                                                                                                  NSA  Quarterly  27-Oct-2022  
-QFRN628BIS                              Residential Property Prices for France                                                                                                  NSA  Quarterly  27-Oct-2022  
-QFRR368BIS                              Real Residential Property Prices for France                                                                                             NSA  Quarterly  27-Oct-2022  
-QFRR628BIS                              Real Residential Property Prices for France                                                                                             NSA  Quarterly  27-Oct-2022  
-QGBN368BIS                              Residential Property Prices for United Kingdom                                                                                          NSA  Quarterly  27-Oct-2022  
-QGBN628BIS                              Residential Property Prices for United Kingdom                                                                                          NSA  Quarterly  27-Oct-2022  
-QGBR368BIS                              Real Residential Property Prices for United Kingdom                                                                                     NSA  Quarterly  27-Oct-2022  
-QGBR628BIS                              Real Residential Property Prices for United Kingdom                                                                                     NSA  Quarterly  27-Oct-2022  
-QGRN368BIS                              Residential Property Prices for Greece                                                                                                  NSA  Quarterly  29-Sep-2022  
-QGRN628BIS                              Residential Property Prices for Greece                                                                                                  NSA  Quarterly  29-Sep-2022  
-QGRR368BIS                              Real Residential Property Prices for Greece                                                                                             NSA  Quarterly  29-Sep-2022  
-QGRR628BIS                              Real Residential Property Prices for Greece                                                                                             NSA  Quarterly  29-Sep-2022  
-QHKN368BIS                              Residential Property Prices for Hong Kong SAR                                                                                           NSA  Quarterly  27-Oct-2022  
-QHKN628BIS                              Residential Property Prices for Hong Kong SAR                                                                                           NSA  Quarterly  27-Oct-2022  
-QHKR368BIS                              Real Residential Property Prices for Hong Kong SAR                                                                                      NSA  Quarterly  27-Oct-2022  
-QHKR628BIS                              Real Residential Property Prices for Hong Kong SAR                                                                                      NSA  Quarterly  27-Oct-2022  
-QHRN368BIS                              Residential Property Prices for Croatia                                                                                                 NSA  Quarterly  27-Oct-2022  
-QHRN628BIS                              Residential Property Prices for Croatia                                                                                                 NSA  Quarterly  27-Oct-2022  
-QHRR368BIS                              Real Residential Property Prices for Croatia                                                                                            NSA  Quarterly  27-Oct-2022  
-QHRR628BIS                              Real Residential Property Prices for Croatia                                                                                            NSA  Quarterly  27-Oct-2022  
-QHUN368BIS                              Residential Property Prices for Hungary                                                                                                 NSA  Quarterly  27-Oct-2022  
-QHUN628BIS                              Residential Property Prices for Hungary                                                                                                 NSA  Quarterly  27-Oct-2022  
-QHUR368BIS                              Real Residential Property Prices for Hungary                                                                                            NSA  Quarterly  27-Oct-2022  
-QHUR628BIS                              Real Residential Property Prices for Hungary                                                                                            NSA  Quarterly  27-Oct-2022  
-QIDN368BIS                              Residential Property Prices for Indonesia                                                                                               NSA  Quarterly  29-Sep-2022  
-QIDN628BIS                              Residential Property Prices for Indonesia                                                                                               NSA  Quarterly  29-Sep-2022  
-QIDR368BIS                              Real Residential Property Prices for Indonesia                                                                                          NSA  Quarterly  29-Sep-2022  
-QIDR628BIS                              Real Residential Property Prices for Indonesia                                                                                          NSA  Quarterly  29-Sep-2022  
-QIEN368BIS                              Residential Property Prices for Ireland                                                                                                 NSA  Quarterly  24-Nov-2022  
-QIEN628BIS                              Residential Property Prices for Ireland                                                                                                 NSA  Quarterly  24-Nov-2022  
-QIER368BIS                              Real Residential Property Prices for Ireland                                                                                            NSA  Quarterly  24-Nov-2022  
-QIER628BIS                              Real Residential Property Prices for Ireland                                                                                            NSA  Quarterly  24-Nov-2022  
-QILN368BIS                              Residential Property Prices for Israel                                                                                                  NSA  Quarterly  24-Nov-2022  
-QILN628BIS                              Residential Property Prices for Israel                                                                                                  NSA  Quarterly  24-Nov-2022  
-QILR368BIS                              Real Residential Property Prices for Israel                                                                                             NSA  Quarterly  24-Nov-2022  
-QILR628BIS                              Real Residential Property Prices for Israel                                                                                             NSA  Quarterly  24-Nov-2022  
-QINN368BIS                              Residential Property Prices for India                                                                                                   NSA  Quarterly  27-Oct-2022  
-QINN628BIS                              Residential Property Prices for India                                                                                                   NSA  Quarterly  27-Oct-2022  
-QINR368BIS                              Real Residential Property Prices for India                                                                                              NSA  Quarterly  27-Oct-2022  
-QINR628BIS                              Real Residential Property Prices for India                                                                                              NSA  Quarterly  27-Oct-2022  
-QISN368BIS                              Residential Property Prices for Reykjavik, Iceland                                                                                      NSA  Quarterly  29-Sep-2022  
-QISN628BIS                              Residential Property Prices for Reykjavik, Iceland                                                                                      NSA  Quarterly  29-Sep-2022  
-QISR368BIS                              Real Residential Property Prices for Reykjavik, Iceland                                                                                 NSA  Quarterly  29-Sep-2022  
-QISR628BIS                              Real Residential Property Prices for Reykjavik, Iceland                                                                                 NSA  Quarterly  29-Sep-2022  
-QITN368BIS                              Residential Property Prices for Italy                                                                                                   NSA  Quarterly  29-Sep-2022  
-QITN628BIS                              Residential Property Prices for Italy                                                                                                   NSA  Quarterly  29-Sep-2022  
-QITR368BIS                              Real Residential Property Prices for Italy                                                                                              NSA  Quarterly  29-Sep-2022  
-QITR628BIS                              Real Residential Property Prices for Italy                                                                                              NSA  Quarterly  29-Sep-2022  
-QJPN368BIS                              Residential Property Prices for Japan                                                                                                   NSA  Quarterly  24-Nov-2022  
-QJPN628BIS                              Residential Property Prices for Japan                                                                                                   NSA  Quarterly  24-Nov-2022  
-QJPR368BIS                              Real Residential Property Prices for Japan                                                                                              NSA  Quarterly  24-Nov-2022  
-QJPR628BIS                              Real Residential Property Prices for Japan                                                                                              NSA  Quarterly  24-Nov-2022  
-QKRN368BIS                              Residential Property Prices for Republic of Korea                                                                                       NSA  Quarterly  29-Sep-2022  
-QKRN628BIS                              Residential Property Prices for Republic of Korea                                                                                       NSA  Quarterly  29-Sep-2022  
-QKRR368BIS                              Real Residential Property Prices for Republic of Korea                                                                                  NSA  Quarterly  29-Sep-2022  
-QKRR628BIS                              Real Residential Property Prices for Republic of Korea                                                                                  NSA  Quarterly  29-Sep-2022  
-QLTN368BIS                              Residential Property Prices for Lithuania                                                                                               NSA  Quarterly  29-Sep-2022  
-QLTN628BIS                              Residential Property Prices for Lithuania                                                                                               NSA  Quarterly  29-Sep-2022  
-QLTR368BIS                              Real Residential Property Prices for Lithuania                                                                                          NSA  Quarterly  29-Sep-2022  
-QLTR628BIS                              Real Residential Property Prices for Lithuania                                                                                          NSA  Quarterly  29-Sep-2022  
-QLUN368BIS                              Residential Property Prices for Luxembourg                                                                                              NSA  Quarterly  27-Oct-2022  
-QLUN628BIS                              Residential Property Prices for Luxembourg                                                                                              NSA  Quarterly  27-Oct-2022  
-QLUR368BIS                              Real Residential Property Prices for Luxembourg                                                                                         NSA  Quarterly  27-Oct-2022  
-QLUR628BIS                              Real Residential Property Prices for Luxembourg                                                                                         NSA  Quarterly  27-Oct-2022  
-QLVN368BIS                              Residential Property Prices for Latvia                                                                                                  NSA  Quarterly  29-Sep-2022  
-QLVN628BIS                              Residential Property Prices for Latvia                                                                                                  NSA  Quarterly  29-Sep-2022  
-QLVR368BIS                              Real Residential Property Prices for Latvia                                                                                             NSA  Quarterly  29-Sep-2022  
-QLVR628BIS                              Real Residential Property Prices for Latvia                                                                                             NSA  Quarterly  29-Sep-2022  
-QMAN368BIS                              Residential Property Prices for Morocco                                                                                                 NSA  Quarterly  29-Sep-2022  
-QMAN628BIS                              Residential Property Prices for Morocco                                                                                                 NSA  Quarterly  29-Sep-2022  
-QMAR368BIS                              Real Residential Property Prices for Morocco                                                                                            NSA  Quarterly  24-Nov-2022  
-QMAR628BIS                              Real Residential Property Prices for Morocco                                                                                            NSA  Quarterly  24-Nov-2022  
-QMKN368BIS                              Residential Property Prices for Skopje, Macedonia                                                                                       NSA  Quarterly  27-Oct-2022  
-QMKN628BIS                              Residential Property Prices for Skopje, Macedonia                                                                                       NSA  Quarterly  27-Oct-2022  
-QMKR368BIS                              Real Residential Property Prices for Skopje, Macedonia                                                                                  NSA  Quarterly  27-Oct-2022  
-QMKR628BIS                              Real Residential Property Prices for Skopje, Macedonia                                                                                  NSA  Quarterly  27-Oct-2022  
-QMTN368BIS                              Residential Property Prices for Malta                                                                                                   NSA  Quarterly  24-Nov-2022  
-QMTN628BIS                              Residential Property Prices for Malta                                                                                                   NSA  Quarterly  24-Nov-2022  
-QMTR368BIS                              Real Residential Property Prices for Malta                                                                                              NSA  Quarterly  24-Nov-2022  
-QMTR628BIS                              Real Residential Property Prices for Malta                                                                                              NSA  Quarterly  24-Nov-2022  
-QMXN368BIS                              Residential Property Prices for Mexico                                                                                                  NSA  Quarterly  29-Sep-2022  
-QMXN628BIS                              Residential Property Prices for Mexico                                                                                                  NSA  Quarterly  29-Sep-2022  
-QMXR368BIS                              Real Residential Property Prices for Mexico                                                                                             NSA  Quarterly  29-Sep-2022  
-QMXR628BIS                              Real Residential Property Prices for Mexico                                                                                             NSA  Quarterly  29-Sep-2022  
-QMYN368BIS                              Residential Property Prices for Malaysia                                                                                                NSA  Quarterly  29-Sep-2022  
-QMYN628BIS                              Residential Property Prices for Malaysia                                                                                                NSA  Quarterly  29-Sep-2022  
-QMYR368BIS                              Real Residential Property Prices for Malaysia                                                                                           NSA  Quarterly  29-Sep-2022  
-QMYR628BIS                              Real Residential Property Prices for Malaysia                                                                                           NSA  Quarterly  29-Sep-2022  
-QNLN368BIS                              Residential Property Prices for Netherlands                                                                                             NSA  Quarterly  27-Oct-2022  
-QNLN628BIS                              Residential Property Prices for Netherlands                                                                                             NSA  Quarterly  27-Oct-2022  
-QNLR368BIS                              Real Residential Property Prices for Netherlands                                                                                        NSA  Quarterly  27-Oct-2022  
-QNLR628BIS                              Real Residential Property Prices for Netherlands                                                                                        NSA  Quarterly  27-Oct-2022  
-QNON368BIS                              Residential Property Prices for Norway                                                                                                  NSA  Quarterly  29-Sep-2022  
-QNON628BIS                              Residential Property Prices for Norway                                                                                                  NSA  Quarterly  29-Sep-2022  
-QNOR368BIS                              Real Residential Property Prices for Norway                                                                                             NSA  Quarterly  29-Sep-2022  
-QNOR628BIS                              Real Residential Property Prices for Norway                                                                                             NSA  Quarterly  29-Sep-2022  
-QNZN368BIS                              Residential Property Prices for New Zealand                                                                                             NSA  Quarterly  24-Nov-2022  
-QNZN628BIS                              Residential Property Prices for New Zealand                                                                                             NSA  Quarterly  24-Nov-2022  
-QNZR368BIS                              Real Residential Property Prices for New Zealand                                                                                        NSA  Quarterly  24-Nov-2022  
-QNZR628BIS                              Real Residential Property Prices for New Zealand                                                                                        NSA  Quarterly  24-Nov-2022  
-QPEN368BIS                              Residential Property Prices for Peru                                                                                                    NSA  Quarterly  29-Sep-2022  
-QPEN628BIS                              Residential Property Prices for Peru                                                                                                    NSA  Quarterly  29-Sep-2022  
-QPER368BIS                              Real Residential Property Prices for Peru                                                                                               NSA  Quarterly  29-Sep-2022  
-QPER628BIS                              Real Residential Property Prices for Peru                                                                                               NSA  Quarterly  29-Sep-2022  
-QPHN368BIS                              Residential Property Prices for Makati, Philippines                                                                                     NSA  Quarterly  27-Oct-2022  
-QPHN628BIS                              Residential Property Prices for Makati, Philippines                                                                                     NSA  Quarterly  27-Oct-2022  
-QPHR368BIS                              Real Residential Property Prices for Makati, Philippines                                                                                NSA  Quarterly  27-Oct-2022  
-QPHR628BIS                              Real Residential Property Prices for Makati, Philippines                                                                                NSA  Quarterly  27-Oct-2022  
-QPLN368BIS                              Residential Property Prices for Poland                                                                                                  NSA  Quarterly  27-Oct-2022  
-QPLN628BIS                              Residential Property Prices for Poland                                                                                                  NSA  Quarterly  27-Oct-2022  
-QPLR368BIS                              Real Residential Property Prices for Poland                                                                                             NSA  Quarterly  27-Oct-2022  
-QPLR628BIS                              Real Residential Property Prices for Poland                                                                                             NSA  Quarterly  27-Oct-2022  
-QPTN368BIS                              Residential Property Prices for Portugal                                                                                                NSA  Quarterly  29-Sep-2022  
-QPTN628BIS                              Residential Property Prices for Portugal                                                                                                NSA  Quarterly  29-Sep-2022  
-QPTR368BIS                              Real Residential Property Prices for Portugal                                                                                           NSA  Quarterly  29-Sep-2022  
-QPTR628BIS                              Real Residential Property Prices for Portugal                                                                                           NSA  Quarterly  29-Sep-2022  
-QRON368BIS                              Residential Property Prices for Romania                                                                                                 NSA  Quarterly  27-Oct-2022  
-QRON628BIS                              Residential Property Prices for Romania                                                                                                 NSA  Quarterly  27-Oct-2022  
-QROR368BIS                              Real Residential Property Prices for Romania                                                                                            NSA  Quarterly  27-Oct-2022  
-QROR628BIS                              Real Residential Property Prices for Romania                                                                                            NSA  Quarterly  27-Oct-2022  
-QRSN628BIS                              Residential Property Prices for Serbia                                                                                                  NSA  Quarterly  29-Sep-2022  
-QRSN771BIS                              Residential Property Prices for Serbia                                                                                                  NSA  Quarterly  29-Sep-2022  
-QRSR628BIS                              Real Residential Property Prices for Serbia                                                                                             NSA  Quarterly  29-Sep-2022  
-QRSR771BIS                              Real Residential Property Prices for Serbia                                                                                             NSA  Quarterly  29-Sep-2022  
-QRUN368BIS                              Residential Property Prices for Russian Federation                                                                                      NSA  Quarterly  24-Nov-2022  
-QRUN628BIS                              Residential Property Prices for Russian Federation                                                                                      NSA  Quarterly  24-Nov-2022  
-QRUR368BIS                              Real Residential Property Prices for Russian Federation                                                                                 NSA  Quarterly  24-Nov-2022  
-QRUR628BIS                              Real Residential Property Prices for Russian Federation                                                                                 NSA  Quarterly  24-Nov-2022  
-QSEN368BIS                              Residential Property Prices for Sweden                                                                                                  NSA  Quarterly  29-Sep-2022  
-QSEN628BIS                              Residential Property Prices for Sweden                                                                                                  NSA  Quarterly  29-Sep-2022  
-QSER368BIS                              Real Residential Property Prices for Sweden                                                                                             NSA  Quarterly  29-Sep-2022  
-QSER628BIS                              Real Residential Property Prices for Sweden                                                                                             NSA  Quarterly  29-Sep-2022  
-QSGN368BIS                              Residential Property Prices for Singapore                                                                                               NSA  Quarterly  27-Oct-2022  
-QSGN628BIS                              Residential Property Prices for Singapore                                                                                               NSA  Quarterly  27-Oct-2022  
-QSGR368BIS                              Real Residential Property Prices for Singapore                                                                                          NSA  Quarterly  27-Oct-2022  
-QSGR628BIS                              Real Residential Property Prices for Singapore                                                                                          NSA  Quarterly  27-Oct-2022  
-QSIN368BIS                              Residential Property Prices for Slovenia                                                                                                NSA  Quarterly  29-Sep-2022  
-QSIN628BIS                              Residential Property Prices for Slovenia                                                                                                NSA  Quarterly  29-Sep-2022  
-QSIR368BIS                              Real Residential Property Prices for Slovenia                                                                                           NSA  Quarterly  29-Sep-2022  
-QSIR628BIS                              Real Residential Property Prices for Slovenia                                                                                           NSA  Quarterly  29-Sep-2022  
-QSKN368BIS                              Residential Property Prices for Slovakia                                                                                                NSA  Quarterly  29-Sep-2022  
-QSKN628BIS                              Residential Property Prices for Slovakia                                                                                                NSA  Quarterly  29-Sep-2022  
-QSKR368BIS                              Real Residential Property Prices for Slovakia                                                                                           NSA  Quarterly  29-Sep-2022  
-QSKR628BIS                              Real Residential Property Prices for Slovakia                                                                                           NSA  Quarterly  29-Sep-2022  
-QTHN368BIS                              Residential Property Prices for Bangkok, Thailand                                                                                       NSA  Quarterly  29-Sep-2022  
-QTHN628BIS                              Residential Property Prices for Bangkok, Thailand                                                                                       NSA  Quarterly  29-Sep-2022  
-QTHR368BIS                              Real Residential Property Prices for Bangkok, Thailand                                                                                  NSA  Quarterly  29-Sep-2022  
-QTHR628BIS                              Real Residential Property Prices for Bangkok, Thailand                                                                                  NSA  Quarterly  29-Sep-2022  
-QTRN368BIS                              Residential Property Prices for Turkey                                                                                                  NSA  Quarterly  29-Sep-2022  
-QTRN628BIS                              Residential Property Prices for Turkey                                                                                                  NSA  Quarterly  29-Sep-2022  
-QTRR368BIS                              Real Residential Property Prices for Turkey                                                                                             NSA  Quarterly  29-Sep-2022  
-QTRR628BIS                              Real Residential Property Prices for Turkey                                                                                             NSA  Quarterly  29-Sep-2022  
-QUSN368BIS                              Residential Property Prices for United States                                                                                           NSA  Quarterly  29-Sep-2022  
-QUSN628BIS                              Residential Property Prices for United States                                                                                           NSA  Quarterly  29-Sep-2022  
-QUSR368BIS                              Real Residential Property Prices for United States                                                                                      NSA  Quarterly  29-Sep-2022  
-QUSR628BIS                              Real Residential Property Prices for United States                                                                                      NSA  Quarterly  29-Sep-2022  
-QXMN368BIS                              Residential Property Prices for Euro area                                                                                               NSA  Quarterly  27-Oct-2022  
-QXMN628BIS                              Residential Property Prices for Euro area                                                                                               NSA  Quarterly  27-Oct-2022  
-QXMR368BIS                              Real Residential Property Prices for Euro area                                                                                          NSA  Quarterly  27-Oct-2022  
-QXMR628BIS                              Real Residential Property Prices for Euro area                                                                                          NSA  Quarterly  27-Oct-2022  
-QZAN368BIS                              Residential Property Prices for South Africa                                                                                            NSA  Quarterly  29-Sep-2022  
-QZAN628BIS                              Residential Property Prices for South Africa                                                                                            NSA  Quarterly  29-Sep-2022  
-QZAR368BIS                              Real Residential Property Prices for South Africa                                                                                       NSA  Quarterly  29-Sep-2022  
-QZAR628BIS                              Real Residential Property Prices for South Africa                                                                                       NSA  Quarterly  29-Sep-2022  
+Q4TN628BIS                              Residential Property Prices for Emerging Markets (aggregate)                                                             NSA  24-Nov-2022  Quarterly
+Q4TN771BIS                              Residential Property Prices for Emerging Markets (aggregate)                                                             NSA  24-Nov-2022  Quarterly
+Q4TR628BIS                              Real Residential Property Prices for Emerging Markets (aggregate)                                                        NSA  24-Nov-2022  Quarterly
+Q4TR771BIS                              Real Residential Property Prices for Emerging Markets (aggregate)                                                        NSA  24-Nov-2022  Quarterly
+Q5RN628BIS                              Residential Property Prices for Advanced Economies (aggregate)                                                           NSA  24-Nov-2022  Quarterly
+Q5RN771BIS                              Residential Property Prices for Advanced Economies (aggregate)                                                           NSA  24-Nov-2022  Quarterly
+Q5RR628BIS                              Real Residential Property Prices for Advanced Economies (aggregate)                                                      NSA  24-Nov-2022  Quarterly
+Q5RR771BIS                              Real Residential Property Prices for Advanced Economies (aggregate)                                                      NSA  24-Nov-2022  Quarterly
+QAEN628BIS                              Residential Property Prices for United Arab Emirates                                                                     NSA  27-Oct-2022  Quarterly
+QAEN771BIS                              Residential Property Prices for United Arab Emirates                                                                     NSA  27-Oct-2022  Quarterly
+QAER628BIS                              Real Residential Property Prices for United Arab Emirates                                                                NSA  24-Nov-2022  Quarterly
+QAER771BIS                              Real Residential Property Prices for United Arab Emirates                                                                NSA  24-Nov-2022  Quarterly
+QATN368BIS                              Residential Property Prices for Austria                                                                                  NSA  29-Sep-2022  Quarterly
+QATN628BIS                              Residential Property Prices for Austria                                                                                  NSA  29-Sep-2022  Quarterly
+QATR368BIS                              Real Residential Property Prices for Austria                                                                             NSA  29-Sep-2022  Quarterly
+QATR628BIS                              Real Residential Property Prices for Austria                                                                             NSA  29-Sep-2022  Quarterly
+QAUN368BIS                              Residential Property Prices for Australia                                                                                NSA  24-Nov-2022  Quarterly
+QAUN628BIS                              Residential Property Prices for Australia                                                                                NSA  24-Nov-2022  Quarterly
+QAUR368BIS                              Real Residential Property Prices for Australia                                                                           NSA  24-Nov-2022  Quarterly
+QAUR628BIS                              Real Residential Property Prices for Australia                                                                           NSA  24-Nov-2022  Quarterly
+QBEN368BIS                              Residential Property Prices for Belgium                                                                                  NSA  29-Sep-2022  Quarterly
+QBEN628BIS                              Residential Property Prices for Belgium                                                                                  NSA  29-Sep-2022  Quarterly
+QBER368BIS                              Real Residential Property Prices for Belgium                                                                             NSA  29-Sep-2022  Quarterly
+QBER628BIS                              Real Residential Property Prices for Belgium                                                                             NSA  29-Sep-2022  Quarterly
+QBGN368BIS                              Residential Property Prices for Bulgaria                                                                                 NSA  27-Oct-2022  Quarterly
+QBGN628BIS                              Residential Property Prices for Bulgaria                                                                                 NSA  27-Oct-2022  Quarterly
+QBGR368BIS                              Real Residential Property Prices for Bulgaria                                                                            NSA  27-Oct-2022  Quarterly
+QBGR628BIS                              Real Residential Property Prices for Bulgaria                                                                            NSA  27-Oct-2022  Quarterly
+QBRN368BIS                              Residential Property Prices for Brazil                                                                                   NSA  29-Sep-2022  Quarterly
+QBRN628BIS                              Residential Property Prices for Brazil                                                                                   NSA  29-Sep-2022  Quarterly
+QBRR368BIS                              Real Residential Property Prices for Brazil                                                                              NSA  29-Sep-2022  Quarterly
+QBRR628BIS                              Real Residential Property Prices for Brazil                                                                              NSA  29-Sep-2022  Quarterly
+QCAN368BIS                              Residential Property Prices for Canada                                                                                   NSA  29-Sep-2022  Quarterly
+QCAN628BIS                              Residential Property Prices for Canada                                                                                   NSA  29-Sep-2022  Quarterly
+QCAR368BIS                              Real Residential Property Prices for Canada                                                                              NSA  29-Sep-2022  Quarterly
+QCAR628BIS                              Real Residential Property Prices for Canada                                                                              NSA  29-Sep-2022  Quarterly
+QCHN368BIS                              Residential Property Prices for Switzerland                                                                              NSA  29-Sep-2022  Quarterly
+QCHN628BIS                              Residential Property Prices for Switzerland                                                                              NSA  29-Sep-2022  Quarterly
+QCHR368BIS                              Real Residential Property Prices for Switzerland                                                                         NSA  29-Sep-2022  Quarterly
+QCHR628BIS                              Real Residential Property Prices for Switzerland                                                                         NSA  29-Sep-2022  Quarterly
+QCLN368BIS                              Residential Property Prices for Chile                                                                                    NSA  24-Nov-2022  Quarterly
+QCLN628BIS                              Residential Property Prices for Chile                                                                                    NSA  24-Nov-2022  Quarterly
+QCLR368BIS                              Real Residential Property Prices for Chile                                                                               NSA  24-Nov-2022  Quarterly
+QCLR628BIS                              Real Residential Property Prices for Chile                                                                               NSA  24-Nov-2022  Quarterly
+QCNN368BIS                              Residential Property Prices for China                                                                                    NSA  24-Nov-2022  Quarterly
+QCNN628BIS                              Residential Property Prices for China                                                                                    NSA  24-Nov-2022  Quarterly
+QCNR368BIS                              Real Residential Property Prices for China                                                                               NSA  24-Nov-2022  Quarterly
+QCNR628BIS                              Real Residential Property Prices for China                                                                               NSA  24-Nov-2022  Quarterly
+QCON368BIS                              Residential Property Prices for Colombia                                                                                 NSA  27-Oct-2022  Quarterly
+QCON628BIS                              Residential Property Prices for Colombia                                                                                 NSA  27-Oct-2022  Quarterly
+QCOR368BIS                              Real Residential Property Prices for Colombia                                                                            NSA  27-Oct-2022  Quarterly
+QCOR628BIS                              Real Residential Property Prices for Colombia                                                                            NSA  27-Oct-2022  Quarterly
+QCYN368BIS                              Residential Property Prices for Cyprus                                                                                   NSA  27-Oct-2022  Quarterly
+QCYN628BIS                              Residential Property Prices for Cyprus                                                                                   NSA  27-Oct-2022  Quarterly
+QCYR368BIS                              Real Residential Property Prices for Cyprus                                                                              NSA  27-Oct-2022  Quarterly
+QCYR628BIS                              Real Residential Property Prices for Cyprus                                                                              NSA  27-Oct-2022  Quarterly
+QCZN368BIS                              Residential Property Prices for Czech Republic                                                                           NSA  27-Oct-2022  Quarterly
+QCZN628BIS                              Residential Property Prices for Czech Republic                                                                           NSA  27-Oct-2022  Quarterly
+QCZR368BIS                              Real Residential Property Prices for Czech Republic                                                                      NSA  27-Oct-2022  Quarterly
+QCZR628BIS                              Real Residential Property Prices for Czech Republic                                                                      NSA  27-Oct-2022  Quarterly
+QDEN368BIS                              Residential Property Prices for Germany                                                                                  NSA  29-Sep-2022  Quarterly
+QDEN628BIS                              Residential Property Prices for Germany                                                                                  NSA  29-Sep-2022  Quarterly
+QDER368BIS                              Real Residential Property Prices for Germany                                                                             NSA  29-Sep-2022  Quarterly
+QDER628BIS                              Real Residential Property Prices for Germany                                                                             NSA  29-Sep-2022  Quarterly
+QDKN368BIS                              Residential Property Prices for Denmark                                                                                  NSA  27-Oct-2022  Quarterly
+QDKN628BIS                              Residential Property Prices for Denmark                                                                                  NSA  27-Oct-2022  Quarterly
+QDKR368BIS                              Real Residential Property Prices for Denmark                                                                             NSA  27-Oct-2022  Quarterly
+QDKR628BIS                              Real Residential Property Prices for Denmark                                                                             NSA  27-Oct-2022  Quarterly
+QEEN368BIS                              Residential Property Prices for Estonia                                                                                  NSA  27-Oct-2022  Quarterly
+QEEN628BIS                              Residential Property Prices for Estonia                                                                                  NSA  27-Oct-2022  Quarterly
+QEER368BIS                              Real Residential Property Prices for Estonia                                                                             NSA  27-Oct-2022  Quarterly
+QEER628BIS                              Real Residential Property Prices for Estonia                                                                             NSA  27-Oct-2022  Quarterly
+QESN368BIS                              Residential Property Prices for Spain                                                                                    NSA  27-Oct-2022  Quarterly
+QESN628BIS                              Residential Property Prices for Spain                                                                                    NSA  27-Oct-2022  Quarterly
+QESR368BIS                              Real Residential Property Prices for Spain                                                                               NSA  27-Oct-2022  Quarterly
+QESR628BIS                              Real Residential Property Prices for Spain                                                                               NSA  27-Oct-2022  Quarterly
+QFIN368BIS                              Residential Property Prices for Finland                                                                                  NSA  27-Oct-2022  Quarterly
+QFIN628BIS                              Residential Property Prices for Finland                                                                                  NSA  27-Oct-2022  Quarterly
+QFIR368BIS                              Real Residential Property Prices for Finland                                                                             NSA  29-Nov-2022  Quarterly
+QFIR628BIS                              Real Residential Property Prices for Finland                                                                             NSA  27-Oct-2022  Quarterly
+QFRN368BIS                              Residential Property Prices for France                                                                                   NSA  27-Oct-2022  Quarterly
+QFRN628BIS                              Residential Property Prices for France                                                                                   NSA  27-Oct-2022  Quarterly
+QFRR368BIS                              Real Residential Property Prices for France                                                                              NSA  27-Oct-2022  Quarterly
+QFRR628BIS                              Real Residential Property Prices for France                                                                              NSA  27-Oct-2022  Quarterly
+QGBN368BIS                              Residential Property Prices for United Kingdom                                                                           NSA  27-Oct-2022  Quarterly
+QGBN628BIS                              Residential Property Prices for United Kingdom                                                                           NSA  27-Oct-2022  Quarterly
+QGBR368BIS                              Real Residential Property Prices for United Kingdom                                                                      NSA  27-Oct-2022  Quarterly
+QGBR628BIS                              Real Residential Property Prices for United Kingdom                                                                      NSA  27-Oct-2022  Quarterly
+QGRN368BIS                              Residential Property Prices for Greece                                                                                   NSA  29-Sep-2022  Quarterly
+QGRN628BIS                              Residential Property Prices for Greece                                                                                   NSA  29-Sep-2022  Quarterly
+QGRR368BIS                              Real Residential Property Prices for Greece                                                                              NSA  29-Sep-2022  Quarterly
+QGRR628BIS                              Real Residential Property Prices for Greece                                                                              NSA  29-Sep-2022  Quarterly
+QHKN368BIS                              Residential Property Prices for Hong Kong SAR                                                                            NSA  27-Oct-2022  Quarterly
+QHKN628BIS                              Residential Property Prices for Hong Kong SAR                                                                            NSA  27-Oct-2022  Quarterly
+QHKR368BIS                              Real Residential Property Prices for Hong Kong SAR                                                                       NSA  27-Oct-2022  Quarterly
+QHKR628BIS                              Real Residential Property Prices for Hong Kong SAR                                                                       NSA  27-Oct-2022  Quarterly
+QHRN368BIS                              Residential Property Prices for Croatia                                                                                  NSA  27-Oct-2022  Quarterly
+QHRN628BIS                              Residential Property Prices for Croatia                                                                                  NSA  27-Oct-2022  Quarterly
+QHRR368BIS                              Real Residential Property Prices for Croatia                                                                             NSA  27-Oct-2022  Quarterly
+QHRR628BIS                              Real Residential Property Prices for Croatia                                                                             NSA  27-Oct-2022  Quarterly
+QHUN368BIS                              Residential Property Prices for Hungary                                                                                  NSA  27-Oct-2022  Quarterly
+QHUN628BIS                              Residential Property Prices for Hungary                                                                                  NSA  27-Oct-2022  Quarterly
+QHUR368BIS                              Real Residential Property Prices for Hungary                                                                             NSA  27-Oct-2022  Quarterly
+QHUR628BIS                              Real Residential Property Prices for Hungary                                                                             NSA  27-Oct-2022  Quarterly
+QIDN368BIS                              Residential Property Prices for Indonesia                                                                                NSA  29-Sep-2022  Quarterly
+QIDN628BIS                              Residential Property Prices for Indonesia                                                                                NSA  29-Sep-2022  Quarterly
+QIDR368BIS                              Real Residential Property Prices for Indonesia                                                                           NSA  29-Sep-2022  Quarterly
+QIDR628BIS                              Real Residential Property Prices for Indonesia                                                                           NSA  29-Sep-2022  Quarterly
+QIEN368BIS                              Residential Property Prices for Ireland                                                                                  NSA  24-Nov-2022  Quarterly
+QIEN628BIS                              Residential Property Prices for Ireland                                                                                  NSA  24-Nov-2022  Quarterly
+QIER368BIS                              Real Residential Property Prices for Ireland                                                                             NSA  24-Nov-2022  Quarterly
+QIER628BIS                              Real Residential Property Prices for Ireland                                                                             NSA  24-Nov-2022  Quarterly
+QILN368BIS                              Residential Property Prices for Israel                                                                                   NSA  24-Nov-2022  Quarterly
+QILN628BIS                              Residential Property Prices for Israel                                                                                   NSA  24-Nov-2022  Quarterly
+QILR368BIS                              Real Residential Property Prices for Israel                                                                              NSA  24-Nov-2022  Quarterly
+QILR628BIS                              Real Residential Property Prices for Israel                                                                              NSA  24-Nov-2022  Quarterly
+QINN368BIS                              Residential Property Prices for India                                                                                    NSA  27-Oct-2022  Quarterly
+QINN628BIS                              Residential Property Prices for India                                                                                    NSA  27-Oct-2022  Quarterly
+QINR368BIS                              Real Residential Property Prices for India                                                                               NSA  27-Oct-2022  Quarterly
+QINR628BIS                              Real Residential Property Prices for India                                                                               NSA  27-Oct-2022  Quarterly
+QISN368BIS                              Residential Property Prices for Reykjavik, Iceland                                                                       NSA  29-Sep-2022  Quarterly
+QISN628BIS                              Residential Property Prices for Reykjavik, Iceland                                                                       NSA  29-Sep-2022  Quarterly
+QISR368BIS                              Real Residential Property Prices for Reykjavik, Iceland                                                                  NSA  29-Sep-2022  Quarterly
+QISR628BIS                              Real Residential Property Prices for Reykjavik, Iceland                                                                  NSA  29-Sep-2022  Quarterly
+QITN368BIS                              Residential Property Prices for Italy                                                                                    NSA  29-Sep-2022  Quarterly
+QITN628BIS                              Residential Property Prices for Italy                                                                                    NSA  29-Sep-2022  Quarterly
+QITR368BIS                              Real Residential Property Prices for Italy                                                                               NSA  29-Sep-2022  Quarterly
+QITR628BIS                              Real Residential Property Prices for Italy                                                                               NSA  29-Sep-2022  Quarterly
+QJPN368BIS                              Residential Property Prices for Japan                                                                                    NSA  24-Nov-2022  Quarterly
+QJPN628BIS                              Residential Property Prices for Japan                                                                                    NSA  24-Nov-2022  Quarterly
+QJPR368BIS                              Real Residential Property Prices for Japan                                                                               NSA  24-Nov-2022  Quarterly
+QJPR628BIS                              Real Residential Property Prices for Japan                                                                               NSA  24-Nov-2022  Quarterly
+QKRN368BIS                              Residential Property Prices for Republic of Korea                                                                        NSA  29-Sep-2022  Quarterly
+QKRN628BIS                              Residential Property Prices for Republic of Korea                                                                        NSA  29-Sep-2022  Quarterly
+QKRR368BIS                              Real Residential Property Prices for Republic of Korea                                                                   NSA  29-Sep-2022  Quarterly
+QKRR628BIS                              Real Residential Property Prices for Republic of Korea                                                                   NSA  29-Sep-2022  Quarterly
+QLTN368BIS                              Residential Property Prices for Lithuania                                                                                NSA  29-Sep-2022  Quarterly
+QLTN628BIS                              Residential Property Prices for Lithuania                                                                                NSA  29-Sep-2022  Quarterly
+QLTR368BIS                              Real Residential Property Prices for Lithuania                                                                           NSA  29-Sep-2022  Quarterly
+QLTR628BIS                              Real Residential Property Prices for Lithuania                                                                           NSA  29-Sep-2022  Quarterly
+QLUN368BIS                              Residential Property Prices for Luxembourg                                                                               NSA  27-Oct-2022  Quarterly
+QLUN628BIS                              Residential Property Prices for Luxembourg                                                                               NSA  27-Oct-2022  Quarterly
+QLUR368BIS                              Real Residential Property Prices for Luxembourg                                                                          NSA  27-Oct-2022  Quarterly
+QLUR628BIS                              Real Residential Property Prices for Luxembourg                                                                          NSA  27-Oct-2022  Quarterly
+QLVN368BIS                              Residential Property Prices for Latvia                                                                                   NSA  29-Sep-2022  Quarterly
+QLVN628BIS                              Residential Property Prices for Latvia                                                                                   NSA  29-Sep-2022  Quarterly
+QLVR368BIS                              Real Residential Property Prices for Latvia                                                                              NSA  29-Sep-2022  Quarterly
+QLVR628BIS                              Real Residential Property Prices for Latvia                                                                              NSA  29-Sep-2022  Quarterly
+QMAN368BIS                              Residential Property Prices for Morocco                                                                                  NSA  29-Sep-2022  Quarterly
+QMAN628BIS                              Residential Property Prices for Morocco                                                                                  NSA  29-Sep-2022  Quarterly
+QMAR368BIS                              Real Residential Property Prices for Morocco                                                                             NSA  24-Nov-2022  Quarterly
+QMAR628BIS                              Real Residential Property Prices for Morocco                                                                             NSA  24-Nov-2022  Quarterly
+QMKN368BIS                              Residential Property Prices for Skopje, Macedonia                                                                        NSA  27-Oct-2022  Quarterly
+QMKN628BIS                              Residential Property Prices for Skopje, Macedonia                                                                        NSA  27-Oct-2022  Quarterly
+QMKR368BIS                              Real Residential Property Prices for Skopje, Macedonia                                                                   NSA  27-Oct-2022  Quarterly
+QMKR628BIS                              Real Residential Property Prices for Skopje, Macedonia                                                                   NSA  27-Oct-2022  Quarterly
+QMTN368BIS                              Residential Property Prices for Malta                                                                                    NSA  24-Nov-2022  Quarterly
+QMTN628BIS                              Residential Property Prices for Malta                                                                                    NSA  24-Nov-2022  Quarterly
+QMTR368BIS                              Real Residential Property Prices for Malta                                                                               NSA  24-Nov-2022  Quarterly
+QMTR628BIS                              Real Residential Property Prices for Malta                                                                               NSA  24-Nov-2022  Quarterly
+QMXN368BIS                              Residential Property Prices for Mexico                                                                                   NSA  29-Sep-2022  Quarterly
+QMXN628BIS                              Residential Property Prices for Mexico                                                                                   NSA  29-Sep-2022  Quarterly
+QMXR368BIS                              Real Residential Property Prices for Mexico                                                                              NSA  29-Sep-2022  Quarterly
+QMXR628BIS                              Real Residential Property Prices for Mexico                                                                              NSA  29-Sep-2022  Quarterly
+QMYN368BIS                              Residential Property Prices for Malaysia                                                                                 NSA  29-Sep-2022  Quarterly
+QMYN628BIS                              Residential Property Prices for Malaysia                                                                                 NSA  29-Sep-2022  Quarterly
+QMYR368BIS                              Real Residential Property Prices for Malaysia                                                                            NSA  29-Sep-2022  Quarterly
+QMYR628BIS                              Real Residential Property Prices for Malaysia                                                                            NSA  29-Sep-2022  Quarterly
+QNLN368BIS                              Residential Property Prices for Netherlands                                                                              NSA  27-Oct-2022  Quarterly
+QNLN628BIS                              Residential Property Prices for Netherlands                                                                              NSA  27-Oct-2022  Quarterly
+QNLR368BIS                              Real Residential Property Prices for Netherlands                                                                         NSA  27-Oct-2022  Quarterly
+QNLR628BIS                              Real Residential Property Prices for Netherlands                                                                         NSA  27-Oct-2022  Quarterly
+QNON368BIS                              Residential Property Prices for Norway                                                                                   NSA  29-Sep-2022  Quarterly
+QNON628BIS                              Residential Property Prices for Norway                                                                                   NSA  29-Sep-2022  Quarterly
+QNOR368BIS                              Real Residential Property Prices for Norway                                                                              NSA  29-Sep-2022  Quarterly
+QNOR628BIS                              Real Residential Property Prices for Norway                                                                              NSA  29-Sep-2022  Quarterly
+QNZN368BIS                              Residential Property Prices for New Zealand                                                                              NSA  24-Nov-2022  Quarterly
+QNZN628BIS                              Residential Property Prices for New Zealand                                                                              NSA  24-Nov-2022  Quarterly
+QNZR368BIS                              Real Residential Property Prices for New Zealand                                                                         NSA  24-Nov-2022  Quarterly
+QNZR628BIS                              Real Residential Property Prices for New Zealand                                                                         NSA  24-Nov-2022  Quarterly
+QPEN368BIS                              Residential Property Prices for Peru                                                                                     NSA  29-Sep-2022  Quarterly
+QPEN628BIS                              Residential Property Prices for Peru                                                                                     NSA  29-Sep-2022  Quarterly
+QPER368BIS                              Real Residential Property Prices for Peru                                                                                NSA  29-Sep-2022  Quarterly
+QPER628BIS                              Real Residential Property Prices for Peru                                                                                NSA  29-Sep-2022  Quarterly
+QPHN368BIS                              Residential Property Prices for Makati, Philippines                                                                      NSA  27-Oct-2022  Quarterly
+QPHN628BIS                              Residential Property Prices for Makati, Philippines                                                                      NSA  27-Oct-2022  Quarterly
+QPHR368BIS                              Real Residential Property Prices for Makati, Philippines                                                                 NSA  27-Oct-2022  Quarterly
+QPHR628BIS                              Real Residential Property Prices for Makati, Philippines                                                                 NSA  27-Oct-2022  Quarterly
+QPLN368BIS                              Residential Property Prices for Poland                                                                                   NSA  27-Oct-2022  Quarterly
+QPLN628BIS                              Residential Property Prices for Poland                                                                                   NSA  27-Oct-2022  Quarterly
+QPLR368BIS                              Real Residential Property Prices for Poland                                                                              NSA  27-Oct-2022  Quarterly
+QPLR628BIS                              Real Residential Property Prices for Poland                                                                              NSA  27-Oct-2022  Quarterly
+QPTN368BIS                              Residential Property Prices for Portugal                                                                                 NSA  29-Sep-2022  Quarterly
+QPTN628BIS                              Residential Property Prices for Portugal                                                                                 NSA  29-Sep-2022  Quarterly
+QPTR368BIS                              Real Residential Property Prices for Portugal                                                                            NSA  29-Sep-2022  Quarterly
+QPTR628BIS                              Real Residential Property Prices for Portugal                                                                            NSA  29-Sep-2022  Quarterly
+QRON368BIS                              Residential Property Prices for Romania                                                                                  NSA  27-Oct-2022  Quarterly
+QRON628BIS                              Residential Property Prices for Romania                                                                                  NSA  27-Oct-2022  Quarterly
+QROR368BIS                              Real Residential Property Prices for Romania                                                                             NSA  27-Oct-2022  Quarterly
+QROR628BIS                              Real Residential Property Prices for Romania                                                                             NSA  27-Oct-2022  Quarterly
+QRSN628BIS                              Residential Property Prices for Serbia                                                                                   NSA  29-Sep-2022  Quarterly
+QRSN771BIS                              Residential Property Prices for Serbia                                                                                   NSA  29-Sep-2022  Quarterly
+QRSR628BIS                              Real Residential Property Prices for Serbia                                                                              NSA  29-Sep-2022  Quarterly
+QRSR771BIS                              Real Residential Property Prices for Serbia                                                                              NSA  29-Sep-2022  Quarterly
+QRUN368BIS                              Residential Property Prices for Russian Federation                                                                       NSA  24-Nov-2022  Quarterly
+QRUN628BIS                              Residential Property Prices for Russian Federation                                                                       NSA  24-Nov-2022  Quarterly
+QRUR368BIS                              Real Residential Property Prices for Russian Federation                                                                  NSA  24-Nov-2022  Quarterly
+QRUR628BIS                              Real Residential Property Prices for Russian Federation                                                                  NSA  24-Nov-2022  Quarterly
+QSEN368BIS                              Residential Property Prices for Sweden                                                                                   NSA  29-Sep-2022  Quarterly
+QSEN628BIS                              Residential Property Prices for Sweden                                                                                   NSA  29-Sep-2022  Quarterly
+QSER368BIS                              Real Residential Property Prices for Sweden                                                                              NSA  29-Sep-2022  Quarterly
+QSER628BIS                              Real Residential Property Prices for Sweden                                                                              NSA  29-Sep-2022  Quarterly
+QSGN368BIS                              Residential Property Prices for Singapore                                                                                NSA  27-Oct-2022  Quarterly
+QSGN628BIS                              Residential Property Prices for Singapore                                                                                NSA  27-Oct-2022  Quarterly
+QSGR368BIS                              Real Residential Property Prices for Singapore                                                                           NSA  27-Oct-2022  Quarterly
+QSGR628BIS                              Real Residential Property Prices for Singapore                                                                           NSA  27-Oct-2022  Quarterly
+QSIN368BIS                              Residential Property Prices for Slovenia                                                                                 NSA  29-Sep-2022  Quarterly
+QSIN628BIS                              Residential Property Prices for Slovenia                                                                                 NSA  29-Sep-2022  Quarterly
+QSIR368BIS                              Real Residential Property Prices for Slovenia                                                                            NSA  29-Sep-2022  Quarterly
+QSIR628BIS                              Real Residential Property Prices for Slovenia                                                                            NSA  29-Sep-2022  Quarterly
+QSKN368BIS                              Residential Property Prices for Slovakia                                                                                 NSA  29-Sep-2022  Quarterly
+QSKN628BIS                              Residential Property Prices for Slovakia                                                                                 NSA  29-Sep-2022  Quarterly
+QSKR368BIS                              Real Residential Property Prices for Slovakia                                                                            NSA  29-Sep-2022  Quarterly
+QSKR628BIS                              Real Residential Property Prices for Slovakia                                                                            NSA  29-Sep-2022  Quarterly
+QTHN368BIS                              Residential Property Prices for Bangkok, Thailand                                                                        NSA  29-Sep-2022  Quarterly
+QTHN628BIS                              Residential Property Prices for Bangkok, Thailand                                                                        NSA  29-Sep-2022  Quarterly
+QTHR368BIS                              Real Residential Property Prices for Bangkok, Thailand                                                                   NSA  29-Sep-2022  Quarterly
+QTHR628BIS                              Real Residential Property Prices for Bangkok, Thailand                                                                   NSA  29-Sep-2022  Quarterly
+QTRN368BIS                              Residential Property Prices for Turkey                                                                                   NSA  29-Sep-2022  Quarterly
+QTRN628BIS                              Residential Property Prices for Turkey                                                                                   NSA  29-Sep-2022  Quarterly
+QTRR368BIS                              Real Residential Property Prices for Turkey                                                                              NSA  29-Sep-2022  Quarterly
+QTRR628BIS                              Real Residential Property Prices for Turkey                                                                              NSA  29-Sep-2022  Quarterly
+QUSN368BIS                              Residential Property Prices for United States                                                                            NSA  29-Sep-2022  Quarterly
+QUSN628BIS                              Residential Property Prices for United States                                                                            NSA  29-Sep-2022  Quarterly
+QUSR368BIS                              Real Residential Property Prices for United States                                                                       NSA  29-Sep-2022  Quarterly
+QUSR628BIS                              Real Residential Property Prices for United States                                                                       NSA  29-Sep-2022  Quarterly
+QXMN368BIS                              Residential Property Prices for Euro area                                                                                NSA  27-Oct-2022  Quarterly
+QXMN628BIS                              Residential Property Prices for Euro area                                                                                NSA  27-Oct-2022  Quarterly
+QXMR368BIS                              Real Residential Property Prices for Euro area                                                                           NSA  27-Oct-2022  Quarterly
+QXMR628BIS                              Real Residential Property Prices for Euro area                                                                           NSA  27-Oct-2022  Quarterly
+QZAN368BIS                              Residential Property Prices for South Africa                                                                             NSA  29-Sep-2022  Quarterly
+QZAN628BIS                              Residential Property Prices for South Africa                                                                             NSA  29-Sep-2022  Quarterly
+QZAR368BIS                              Real Residential Property Prices for South Africa                                                                        NSA  29-Sep-2022  Quarterly
+QZAR628BIS                              Real Residential Property Prices for South Africa                                                                        NSA  29-Sep-2022  Quarterly

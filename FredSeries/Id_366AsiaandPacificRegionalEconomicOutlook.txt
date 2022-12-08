@@ -1,334 +1,334 @@
 Id : 366  Asia and Pacific Regional Economic Outlook
-AUSBCABP6USD                            Balance of Payments: Total Net Current Account for Australia                                                                            NSA  Annual     23-Oct-2019  
-AUSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Australia                                                                            NSA  Annual     28-Oct-2022  
-AUSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Australia                                                             NSA  Annual     28-Oct-2022  
-AUSGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Australia                                                               NSA  Annual     23-Oct-2019  
-AUSNGDPDUSD                             National Accounts: Gross Domestic Product for Australia                                                                                 NSA  Annual     23-Oct-2019  
-AUSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Australia                                                                            NSA  Annual     28-Oct-2022  
-AUSNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Australia                                                                             NSA  Annual     23-Oct-2019  
-AUSPCPIPCPPPT                           Prices: Consumer Price Index for Australia                                                                                              NSA  Annual     28-Oct-2022  
-AUSTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Australia                                                                   NSA  Annual     23-Oct-2019  
-AUSTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Australia                                                                   NSA  Annual     23-Oct-2019  
-BGDBCABP6USD                            Balance of Payments: Total Net Current Account for Bangladesh                                                                           NSA  Annual     23-Oct-2019  
-BGDBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Bangladesh                                                                           NSA  Annual     28-Oct-2022  
-BGDGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Bangladesh                                                            NSA  Annual     28-Oct-2022  
-BGDGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Bangladesh                                                              NSA  Annual     23-Oct-2019  
-BGDNGDPDUSD                             National Accounts: Gross Domestic Product for Bangladesh                                                                                NSA  Annual     23-Oct-2019  
-BGDNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Bangladesh                                                                           NSA  Annual     28-Oct-2022  
-BGDNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Bangladesh                                                                            NSA  Annual     23-Oct-2019  
-BGDPCPIPCPPPT                           Prices: Consumer Price Index for Bangladesh                                                                                             NSA  Annual     28-Oct-2022  
-BGDTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Bangladesh                                                                  NSA  Annual     23-Oct-2019  
-BGDTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Bangladesh                                                                  NSA  Annual     23-Oct-2019  
-BRNBCABP6USD                            Balance of Payments: Total Net Current Account for Brunei Darussalam                                                                    NSA  Annual     23-Oct-2019  
-BRNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Brunei Darussalam                                                                    NSA  Annual     28-Oct-2022  
-BRNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Brunei Darussalam                                                     NSA  Annual     28-Oct-2022  
-BRNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Brunei Darussalam                                                       NSA  Annual     23-Oct-2019  
-BRNNGDPDUSD                             National Accounts: Gross Domestic Product for Brunei Darussalam                                                                         NSA  Annual     23-Oct-2019  
-BRNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Brunei Darussalam                                                                    NSA  Annual     28-Oct-2022  
-BRNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Brunei Darussalam                                                                     NSA  Annual     23-Oct-2019  
-BRNPCPIPCPPPT                           Prices: Consumer Price Index for Brunei Darussalam                                                                                      NSA  Annual     28-Oct-2022  
-BRNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Brunei Darussalam                                                           NSA  Annual     23-Oct-2019  
-BRNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Brunei Darussalam                                                           NSA  Annual     23-Oct-2019  
-BTNBCABP6USD                            Balance of Payments: Total Net Current Account for Bhutan                                                                               NSA  Annual     23-Oct-2019  
-BTNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Bhutan                                                                               NSA  Annual     28-Oct-2022  
-BTNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Bhutan                                                                NSA  Annual     28-Oct-2022  
-BTNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Bhutan                                                                  NSA  Annual     23-Oct-2019  
-BTNNGDPDUSD                             National Accounts: Gross Domestic Product for Bhutan                                                                                    NSA  Annual     23-Oct-2019  
-BTNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Bhutan                                                                               NSA  Annual     28-Oct-2022  
-BTNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Bhutan                                                                                NSA  Annual     23-Oct-2019  
-BTNPCPIPCPPPT                           Prices: Consumer Price Index for Bhutan                                                                                                 NSA  Annual     28-Oct-2022  
-BTNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Bhutan                                                                      NSA  Annual     23-Oct-2019  
-BTNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Bhutan                                                                      NSA  Annual     23-Oct-2019  
-CHNBCABP6USD                            Balance of Payments: Total Net Current Account for China, P.R.: Mainland                                                                NSA  Annual     23-Oct-2019  
-CHNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for China, P.R.: Mainland                                                                NSA  Annual     28-Oct-2022  
-CHNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for China, P.R.: Mainland                                                 NSA  Annual     28-Oct-2022  
-CHNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for China, P.R.: Mainland                                                   NSA  Annual     23-Oct-2019  
-CHNNGDPDUSD                             National Accounts: Gross Domestic Product for China, P.R.: Mainland                                                                     NSA  Annual     23-Oct-2019  
-CHNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for China, P.R.: Mainland                                                                NSA  Annual     28-Oct-2022  
-CHNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for China, P.R.: Mainland                                                                 NSA  Annual     23-Oct-2019  
-CHNPCPIPCPPPT                           Prices: Consumer Price Index for China, P.R.: Mainland                                                                                  NSA  Annual     28-Oct-2022  
-CHNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for China, P.R.: Mainland                                                       NSA  Annual     23-Oct-2019  
-CHNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for China, P.R.: Mainland                                                       NSA  Annual     23-Oct-2019  
-FJIBCABP6USD                            Balance of Payments: Total Net Current Account for Fiji                                                                                 NSA  Annual     23-Oct-2019  
-FJIBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Fiji                                                                                 NSA  Annual     28-Oct-2022  
-FJIGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Fiji                                                                  NSA  Annual     28-Oct-2022  
-FJIGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Fiji                                                                    NSA  Annual     23-Oct-2019  
-FJINGDPDUSD                             National Accounts: Gross Domestic Product for Fiji                                                                                      NSA  Annual     23-Oct-2019  
-FJINGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Fiji                                                                                 NSA  Annual     28-Oct-2022  
-FJIPCPIPCPPPT                           Prices: Consumer Price Index for Fiji                                                                                                   NSA  Annual     28-Oct-2022  
-FSMBCABP6USD                            Balance of Payments: Total Net Current Account for Federated States of Micronesia                                                       NSA  Annual     23-Oct-2019  
-FSMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Federated States of Micronesia                                                       NSA  Annual     28-Oct-2022  
-FSMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Federated States of Micronesia                                        NSA  Annual     28-Oct-2022  
-FSMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Federated States of Micronesia                                          NSA  Annual     23-Oct-2019  
-FSMNGDPDUSD                             National Accounts: Gross Domestic Product for Federated States of Micronesia                                                            NSA  Annual     23-Oct-2019  
-FSMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Federated States of Micronesia                                                       NSA  Annual     28-Oct-2022  
-FSMPCPIPCPPPT                           Prices: Consumer Price Index for Federated States of Micronesia                                                                         NSA  Annual     28-Oct-2022  
-HKGBCABP6USD                            Balance of Payments: Total Net Current Account for China, P.R.: Hong Kong                                                               NSA  Annual     23-Oct-2019  
-HKGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for China, P.R.: Hong Kong                                                               NSA  Annual     28-Oct-2022  
-HKGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for China, P.R.: Hong Kong                                                NSA  Annual     28-Oct-2022  
-HKGGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for China, P.R.: Hong Kong                                                  NSA  Annual     23-Oct-2019  
-HKGNGDPDUSD                             National Accounts: Gross Domestic Product for China, P.R.: Hong Kong                                                                    NSA  Annual     23-Oct-2019  
-HKGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for China, P.R.: Hong Kong                                                               NSA  Annual     28-Oct-2022  
-HKGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for China, P.R.: Hong Kong                                                                NSA  Annual     23-Oct-2019  
-HKGPCPIPCPPPT                           Prices: Consumer Price Index for China, P.R.: Hong Kong                                                                                 NSA  Annual     28-Oct-2022  
-HKGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for China, P.R.: Hong Kong                                                      NSA  Annual     23-Oct-2019  
-HKGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for China, P.R.: Hong Kong                                                      NSA  Annual     23-Oct-2019  
-IDNBCABP6USD                            Balance of Payments: Total Net Current Account for Indonesia                                                                            NSA  Annual     23-Oct-2019  
-IDNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Indonesia                                                                            NSA  Annual     28-Oct-2022  
-IDNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Indonesia                                                             NSA  Annual     28-Oct-2022  
-IDNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Indonesia                                                               NSA  Annual     23-Oct-2019  
-IDNNGDPDUSD                             National Accounts: Gross Domestic Product for Indonesia                                                                                 NSA  Annual     23-Oct-2019  
-IDNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Indonesia                                                                            NSA  Annual     28-Oct-2022  
-IDNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Indonesia                                                                             NSA  Annual     23-Oct-2019  
-IDNPCPIPCPPPT                           Prices: Consumer Price Index for Indonesia                                                                                              NSA  Annual     28-Oct-2022  
-IDNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Indonesia                                                                   NSA  Annual     23-Oct-2019  
-IDNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Indonesia                                                                   NSA  Annual     23-Oct-2019  
-INDBCABP6USD                            Balance of Payments: Total Net Current Account for India                                                                                NSA  Annual     23-Oct-2019  
-INDBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for India                                                                                NSA  Annual     28-Oct-2022  
-INDGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for India                                                                 NSA  Annual     28-Oct-2022  
-INDGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for India                                                                   NSA  Annual     23-Oct-2019  
-INDNGDPDUSD                             National Accounts: Gross Domestic Product for India                                                                                     NSA  Annual     23-Oct-2019  
-INDNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for India                                                                                NSA  Annual     28-Oct-2022  
-INDNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for India                                                                                 NSA  Annual     23-Oct-2019  
-INDPCPIPCPPPT                           Prices: Consumer Price Index for India                                                                                                  NSA  Annual     28-Oct-2022  
-INDTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for India                                                                       NSA  Annual     23-Oct-2019  
-INDTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for India                                                                       NSA  Annual     23-Oct-2019  
-JPNBCABP6USD                            Balance of Payments: Total Net Current Account for Japan                                                                                NSA  Annual     23-Oct-2019  
-JPNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Japan                                                                                NSA  Annual     28-Oct-2022  
-JPNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Japan                                                                 NSA  Annual     28-Oct-2022  
-JPNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Japan                                                                   NSA  Annual     23-Oct-2019  
-JPNNGDPDUSD                             National Accounts: Gross Domestic Product for Japan                                                                                     NSA  Annual     23-Oct-2019  
-JPNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Japan                                                                                NSA  Annual     28-Oct-2022  
-JPNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Japan                                                                                 NSA  Annual     23-Oct-2019  
-JPNPCPIPCPPPT                           Prices: Consumer Price Index for Japan                                                                                                  NSA  Annual     28-Oct-2022  
-JPNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Japan                                                                       NSA  Annual     23-Oct-2019  
-JPNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Japan                                                                       NSA  Annual     23-Oct-2019  
-KHMBCABP6USD                            Balance of Payments: Total Net Current Account for Cambodia                                                                             NSA  Annual     23-Oct-2019  
-KHMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Cambodia                                                                             NSA  Annual     28-Oct-2022  
-KHMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Cambodia                                                              NSA  Annual     28-Oct-2022  
-KHMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Cambodia                                                                NSA  Annual     23-Oct-2019  
-KHMNGDPDUSD                             National Accounts: Gross Domestic Product for Cambodia                                                                                  NSA  Annual     23-Oct-2019  
-KHMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Cambodia                                                                             NSA  Annual     28-Oct-2022  
-KHMNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Cambodia                                                                              NSA  Annual     23-Oct-2019  
-KHMPCPIPCPPPT                           Prices: Consumer Price Index for Cambodia                                                                                               NSA  Annual     28-Oct-2022  
-KHMTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Cambodia                                                                    NSA  Annual     23-Oct-2019  
-KHMTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Cambodia                                                                    NSA  Annual     23-Oct-2019  
-KIRBCABP6USD                            Balance of Payments: Total Net Current Account for Kiribati                                                                             NSA  Annual     23-Oct-2019  
-KIRBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Kiribati                                                                             NSA  Annual     28-Oct-2022  
-KIRGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Kiribati                                                              NSA  Annual     28-Oct-2022  
-KIRGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Kiribati                                                                NSA  Annual     23-Oct-2019  
-KIRNGDPDUSD                             National Accounts: Gross Domestic Product for Kiribati                                                                                  NSA  Annual     23-Oct-2019  
-KIRNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Kiribati                                                                             NSA  Annual     28-Oct-2022  
-KIRPCPIPCPPPT                           Prices: Consumer Price Index for Kiribati                                                                                               NSA  Annual     28-Oct-2022  
-KIRTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Kiribati                                                                    NSA  Annual     23-Oct-2019  
-KIRTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Kiribati                                                                    NSA  Annual     23-Oct-2019  
-KORBCABP6USD                            Balance of Payments: Total Net Current Account for Republic of Korea                                                                    NSA  Annual     23-Oct-2019  
-KORBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Republic of Korea                                                                    NSA  Annual     28-Oct-2022  
-KORGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Republic of Korea                                                     NSA  Annual     28-Oct-2022  
-KORGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Republic of Korea                                                       NSA  Annual     23-Oct-2019  
-KORNGDPDUSD                             National Accounts: Gross Domestic Product for Republic of Korea                                                                         NSA  Annual     23-Oct-2019  
-KORNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Republic of Korea                                                                    NSA  Annual     28-Oct-2022  
-KORNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Republic of Korea                                                                     NSA  Annual     23-Oct-2019  
-KORPCPIPCPPPT                           Prices: Consumer Price Index for Republic of Korea                                                                                      NSA  Annual     28-Oct-2022  
-KORTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Republic of Korea                                                           NSA  Annual     23-Oct-2019  
-KORTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Republic of Korea                                                           NSA  Annual     23-Oct-2019  
-LAOBCABP6USD                            Balance of Payments: Total Net Current Account for Lao People's Democratic Republic                                                     NSA  Annual     23-Oct-2019  
-LAOBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Lao People's Democratic Republic                                                     NSA  Annual     28-Oct-2022  
-LAOGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Lao People's Democratic Republic                                      NSA  Annual     28-Oct-2022  
-LAOGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Lao People's Democratic Republic                                        NSA  Annual     23-Oct-2019  
-LAONGDPDUSD                             National Accounts: Gross Domestic Product for Lao People's Democratic Republic                                                          NSA  Annual     23-Oct-2019  
-LAONGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Lao People's Democratic Republic                                                     NSA  Annual     28-Oct-2022  
-LAOPCPIPCPPPT                           Prices: Consumer Price Index for Lao People's Democratic Republic                                                                       NSA  Annual     28-Oct-2022  
-LAOTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Lao People's Democratic Republic                                            NSA  Annual     23-Oct-2019  
-LAOTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Lao People's Democratic Republic                                            NSA  Annual     23-Oct-2019  
-LKABCABP6USD                            Balance of Payments: Total Net Current Account for Sri Lanka                                                                            NSA  Annual     23-Oct-2019  
-LKABCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Sri Lanka                                                                            NSA  Annual     28-Oct-2022  
-LKAGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Sri Lanka                                                             NSA  Annual     28-Oct-2022  
-LKAGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Sri Lanka                                                               NSA  Annual     23-Oct-2019  
-LKANGDPDUSD                             National Accounts: Gross Domestic Product for Sri Lanka                                                                                 NSA  Annual     23-Oct-2019  
-LKANGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Sri Lanka                                                                            NSA  Annual     28-Oct-2022  
-LKANTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Sri Lanka                                                                             NSA  Annual     07-May-2019  
-LKAPCPIPCPPPT                           Prices: Consumer Price Index for Sri Lanka                                                                                              NSA  Annual     28-Oct-2022  
-LKATMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Sri Lanka                                                                   NSA  Annual     23-Oct-2019  
-LKATXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Sri Lanka                                                                   NSA  Annual     23-Oct-2019  
-MDVBCABP6USD                            Balance of Payments: Total Net Current Account for Maldives                                                                             NSA  Annual     23-Oct-2019  
-MDVBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Maldives                                                                             NSA  Annual     28-Oct-2022  
-MDVGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Maldives                                                              NSA  Annual     28-Oct-2022  
-MDVGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Maldives                                                                NSA  Annual     23-Oct-2019  
-MDVNGDPDUSD                             National Accounts: Gross Domestic Product for Maldives                                                                                  NSA  Annual     23-Oct-2019  
-MDVNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Maldives                                                                             NSA  Annual     28-Oct-2022  
-MDVNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Maldives                                                                              NSA  Annual     23-Oct-2019  
-MDVPCPIPCPPPT                           Prices: Consumer Price Index for Maldives                                                                                               NSA  Annual     28-Oct-2022  
-MDVTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Maldives                                                                    NSA  Annual     23-Oct-2019  
-MDVTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Maldives                                                                    NSA  Annual     23-Oct-2019  
-MHLBCABP6USD                            Balance of Payments: Total Net Current Account for Marshall Islands                                                                     NSA  Annual     23-Oct-2019  
-MHLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Marshall Islands                                                                     NSA  Annual     28-Oct-2022  
-MHLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Marshall Islands                                                      NSA  Annual     28-Oct-2022  
-MHLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Marshall Islands                                                        NSA  Annual     23-Oct-2019  
-MHLNGDPDUSD                             National Accounts: Gross Domestic Product for Marshall Islands                                                                          NSA  Annual     23-Oct-2019  
-MHLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Marshall Islands                                                                     NSA  Annual     28-Oct-2022  
-MHLPCPIPCPPPT                           Prices: Consumer Price Index for Marshall Islands                                                                                       NSA  Annual     28-Oct-2022  
-MHLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Marshall Islands                                                            NSA  Annual     23-Oct-2019  
-MMRBCABP6USD                            Balance of Payments: Total Net Current Account for Myanmar                                                                              NSA  Annual     23-Oct-2019  
-MMRBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Myanmar                                                                              NSA  Annual     28-Oct-2022  
-MMRGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Myanmar                                                               NSA  Annual     28-Oct-2022  
-MMRGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Myanmar                                                                 NSA  Annual     23-Oct-2019  
-MMRNGDPDUSD                             National Accounts: Gross Domestic Product for Myanmar                                                                                   NSA  Annual     23-Oct-2019  
-MMRNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Myanmar                                                                              NSA  Annual     28-Oct-2022  
-MMRNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Myanmar                                                                               NSA  Annual     23-Oct-2019  
-MMRPCPIPCPPPT                           Prices: Consumer Price Index for Myanmar                                                                                                NSA  Annual     28-Oct-2022  
-MMRTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Myanmar                                                                     NSA  Annual     23-Oct-2019  
-MMRTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Myanmar                                                                     NSA  Annual     23-Oct-2019  
-MNGBCABP6USD                            Balance of Payments: Total Net Current Account for Mongolia                                                                             NSA  Annual     23-Oct-2019  
-MNGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Mongolia                                                                             NSA  Annual     28-Oct-2022  
-MNGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Mongolia                                                              NSA  Annual     28-Oct-2022  
-MNGNGDPDUSD                             National Accounts: Gross Domestic Product for Mongolia                                                                                  NSA  Annual     23-Oct-2019  
-MNGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Mongolia                                                                             NSA  Annual     28-Oct-2022  
-MNGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Mongolia                                                                              NSA  Annual     23-Oct-2019  
-MNGPCPIPCPPPT                           Prices: Consumer Price Index for Mongolia                                                                                               NSA  Annual     28-Oct-2022  
-MNGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Mongolia                                                                    NSA  Annual     23-Oct-2019  
-MNGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Mongolia                                                                    NSA  Annual     23-Oct-2019  
-MYSBCABP6USD                            Balance of Payments: Total Net Current Account for Malaysia                                                                             NSA  Annual     23-Oct-2019  
-MYSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Malaysia                                                                             NSA  Annual     28-Oct-2022  
-MYSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Malaysia                                                              NSA  Annual     28-Oct-2022  
-MYSGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Malaysia                                                                NSA  Annual     23-Oct-2019  
-MYSNGDPDUSD                             National Accounts: Gross Domestic Product for Malaysia                                                                                  NSA  Annual     23-Oct-2019  
-MYSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Malaysia                                                                             NSA  Annual     28-Oct-2022  
-MYSNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Malaysia                                                                              NSA  Annual     23-Oct-2019  
-MYSPCPIPCPPPT                           Prices: Consumer Price Index for Malaysia                                                                                               NSA  Annual     28-Oct-2022  
-MYSTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Malaysia                                                                    NSA  Annual     23-Oct-2019  
-MYSTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Malaysia                                                                    NSA  Annual     23-Oct-2019  
-NPLBCABP6USD                            Balance of Payments: Total Net Current Account for Nepal                                                                                NSA  Annual     23-Oct-2019  
-NPLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Nepal                                                                                NSA  Annual     28-Oct-2022  
-NPLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Nepal                                                                 NSA  Annual     28-Oct-2022  
-NPLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Nepal                                                                   NSA  Annual     23-Oct-2019  
-NPLNGDPDUSD                             National Accounts: Gross Domestic Product for Nepal                                                                                     NSA  Annual     23-Oct-2019  
-NPLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Nepal                                                                                NSA  Annual     28-Oct-2022  
-NPLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Nepal                                                                                 NSA  Annual     23-Oct-2019  
-NPLPCPIPCPPPT                           Prices: Consumer Price Index for Nepal                                                                                                  NSA  Annual     28-Oct-2022  
-NZLBCABP6USD                            Balance of Payments: Total Net Current Account for New Zealand                                                                          NSA  Annual     23-Oct-2019  
-NZLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for New Zealand                                                                          NSA  Annual     28-Oct-2022  
-NZLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for New Zealand                                                           NSA  Annual     28-Oct-2022  
-NZLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for New Zealand                                                             NSA  Annual     23-Oct-2019  
-NZLNGDPDUSD                             National Accounts: Gross Domestic Product for New Zealand                                                                               NSA  Annual     23-Oct-2019  
-NZLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for New Zealand                                                                          NSA  Annual     28-Oct-2022  
-NZLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for New Zealand                                                                           NSA  Annual     23-Oct-2019  
-NZLPCPIPCPPPT                           Prices: Consumer Price Index for New Zealand                                                                                            NSA  Annual     28-Oct-2022  
-NZLTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for New Zealand                                                                 NSA  Annual     23-Oct-2019  
-NZLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for New Zealand                                                                 NSA  Annual     23-Oct-2019  
-PHLBCABP6USD                            Balance of Payments: Total Net Current Account for Philippines                                                                          NSA  Annual     23-Oct-2019  
-PHLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Philippines                                                                          NSA  Annual     28-Oct-2022  
-PHLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Philippines                                                           NSA  Annual     28-Oct-2022  
-PHLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Philippines                                                             NSA  Annual     23-Oct-2019  
-PHLNGDPDUSD                             National Accounts: Gross Domestic Product for Philippines                                                                               NSA  Annual     23-Oct-2019  
-PHLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Philippines                                                                          NSA  Annual     28-Oct-2022  
-PHLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Philippines                                                                           NSA  Annual     23-Oct-2019  
-PHLPCPIPCPPPT                           Prices: Consumer Price Index for Philippines                                                                                            NSA  Annual     28-Oct-2022  
-PHLTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Philippines                                                                 NSA  Annual     23-Oct-2019  
-PHLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Philippines                                                                 NSA  Annual     23-Oct-2019  
-PLWBCABP6USD                            Balance of Payments: Total Net Current Account for Palau                                                                                NSA  Annual     23-Oct-2019  
-PLWBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Palau                                                                                NSA  Annual     28-Oct-2022  
-PLWGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Palau                                                                 NSA  Annual     28-Oct-2022  
-PLWNGDPDUSD                             National Accounts: Gross Domestic Product for Palau                                                                                     NSA  Annual     23-Oct-2019  
-PLWNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Palau                                                                                NSA  Annual     28-Oct-2022  
-PLWNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Palau                                                                                 NSA  Annual     23-Oct-2019  
-PLWPCPIPCPPPT                           Prices: Consumer Price Index for Palau                                                                                                  NSA  Annual     28-Oct-2022  
-PLWTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Palau                                                                       NSA  Annual     23-Oct-2019  
-PLWTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Palau                                                                       NSA  Annual     23-Oct-2019  
-PNGBCABP6USD                            Balance of Payments: Total Net Current Account for Papua New Guinea                                                                     NSA  Annual     23-Oct-2019  
-PNGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Papua New Guinea                                                                     NSA  Annual     28-Oct-2022  
-PNGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Papua New Guinea                                                      NSA  Annual     28-Oct-2022  
-PNGGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Papua New Guinea                                                        NSA  Annual     23-Oct-2019  
-PNGNGDPDUSD                             National Accounts: Gross Domestic Product for Papua New Guinea                                                                          NSA  Annual     23-Oct-2019  
-PNGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Papua New Guinea                                                                     NSA  Annual     28-Oct-2022  
-PNGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Papua New Guinea                                                                      NSA  Annual     09-May-2016  
-PNGPCPIPCPPPT                           Prices: Consumer Price Index for Papua New Guinea                                                                                       NSA  Annual     28-Oct-2022  
-PNGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Papua New Guinea                                                            NSA  Annual     23-Oct-2019  
-PNGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Papua New Guinea                                                            NSA  Annual     23-Oct-2019  
-SGPBCABP6USD                            Balance of Payments: Total Net Current Account for Singapore                                                                            NSA  Annual     23-Oct-2019  
-SGPBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Singapore                                                                            NSA  Annual     28-Oct-2022  
-SGPGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Singapore                                                             NSA  Annual     28-Oct-2022  
-SGPGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Singapore                                                               NSA  Annual     23-Oct-2019  
-SGPNGDPDUSD                             National Accounts: Gross Domestic Product for Singapore                                                                                 NSA  Annual     23-Oct-2019  
-SGPNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Singapore                                                                            NSA  Annual     28-Oct-2022  
-SGPNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Singapore                                                                             NSA  Annual     23-Oct-2019  
-SGPPCPIPCPPPT                           Prices: Consumer Price Index for Singapore                                                                                              NSA  Annual     28-Oct-2022  
-SGPTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Singapore                                                                   NSA  Annual     23-Oct-2019  
-SGPTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Singapore                                                                   NSA  Annual     23-Oct-2019  
-SLBBCABP6USD                            Balance of Payments: Total Net Current Account for Solomon Islands                                                                      NSA  Annual     23-Oct-2019  
-SLBBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Solomon Islands                                                                      NSA  Annual     28-Oct-2022  
-SLBGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Solomon Islands                                                       NSA  Annual     28-Oct-2022  
-SLBGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Solomon Islands                                                         NSA  Annual     23-Oct-2019  
-SLBNGDPDUSD                             National Accounts: Gross Domestic Product for Solomon Islands                                                                           NSA  Annual     23-Oct-2019  
-SLBNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Solomon Islands                                                                      NSA  Annual     28-Oct-2022  
-SLBNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Solomon Islands                                                                       NSA  Annual     23-Oct-2019  
-SLBPCPIPCPPPT                           Prices: Consumer Price Index for Solomon Islands                                                                                        NSA  Annual     28-Oct-2022  
-SLBTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Solomon Islands                                                             NSA  Annual     23-Oct-2019  
-SLBTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Solomon Islands                                                             NSA  Annual     23-Oct-2019  
-THABCABP6USD                            Balance of Payments: Total Net Current Account for Thailand                                                                             NSA  Annual     23-Oct-2019  
-THABCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Thailand                                                                             NSA  Annual     28-Oct-2022  
-THAGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Thailand                                                              NSA  Annual     28-Oct-2022  
-THAGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Thailand                                                                NSA  Annual     23-Oct-2019  
-THANGDPDUSD                             National Accounts: Gross Domestic Product for Thailand                                                                                  NSA  Annual     23-Oct-2019  
-THANGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Thailand                                                                             NSA  Annual     28-Oct-2022  
-THANTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Thailand                                                                              NSA  Annual     23-Oct-2019  
-THAPCPIPCPPPT                           Prices: Consumer Price Index for Thailand                                                                                               NSA  Annual     28-Oct-2022  
-THATMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Thailand                                                                    NSA  Annual     23-Oct-2019  
-THATXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Thailand                                                                    NSA  Annual     23-Oct-2019  
-TLSBCABP6USD                            Balance of Payments: Total Net Current Account for Timor-Leste                                                                          NSA  Annual     23-Oct-2019  
-TLSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Timor-Leste                                                                          NSA  Annual     28-Oct-2022  
-TLSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Timor-Leste                                                           NSA  Annual     28-Oct-2022  
-TLSNGDPDUSD                             National Accounts: Gross Domestic Product for Timor-Leste                                                                               NSA  Annual     23-Oct-2019  
-TLSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Timor-Leste                                                                          NSA  Annual     28-Oct-2022  
-TLSPCPIPCPPPT                           Prices: Consumer Price Index for Timor-Leste                                                                                            NSA  Annual     28-Oct-2022  
-TONBCABP6USD                            Balance of Payments: Total Net Current Account for Tonga                                                                                NSA  Annual     23-Oct-2019  
-TONBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Tonga                                                                                NSA  Annual     28-Oct-2022  
-TONGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Tonga                                                                 NSA  Annual     28-Oct-2022  
-TONNGDPDUSD                             National Accounts: Gross Domestic Product for Tonga                                                                                     NSA  Annual     23-Oct-2019  
-TONNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Tonga                                                                                NSA  Annual     28-Oct-2022  
-TONNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Tonga                                                                                 NSA  Annual     23-Oct-2019  
-TONPCPIPCPPPT                           Prices: Consumer Price Index for Tonga                                                                                                  NSA  Annual     28-Oct-2022  
-TONTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Tonga                                                                       NSA  Annual     23-Oct-2019  
-TONTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Tonga                                                                       NSA  Annual     23-Oct-2019  
-TUVBCABP6USD                            Balance of Payments: Total Net Current Account for Tuvalu                                                                               NSA  Annual     23-Oct-2019  
-TUVBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Tuvalu                                                                               NSA  Annual     28-Oct-2022  
-TUVGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Tuvalu                                                                NSA  Annual     28-Oct-2022  
-TUVGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Tuvalu                                                                  NSA  Annual     23-Oct-2019  
-TUVNGDPDUSD                             National Accounts: Gross Domestic Product for Tuvalu                                                                                    NSA  Annual     23-Oct-2019  
-TUVNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Tuvalu                                                                               NSA  Annual     27-Apr-2022  
-TUVPCPIPCPPPT                           Prices: Consumer Price Index for Tuvalu                                                                                                 NSA  Annual     28-Oct-2022  
-TWNBCABP6USD                            Balance of Payments: Total Net Current Account for Taiwan Province of China                                                             NSA  Annual     23-Oct-2019  
-TWNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Taiwan Province of China                                                             NSA  Annual     28-Oct-2022  
-TWNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Taiwan Province of China                                              NSA  Annual     28-Oct-2022  
-TWNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Taiwan Province of China                                                NSA  Annual     23-Oct-2019  
-TWNNGDPDUSD                             National Accounts: Gross Domestic Product for Taiwan Province of China                                                                  NSA  Annual     23-Oct-2019  
-TWNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Taiwan Province of China                                                             NSA  Annual     28-Oct-2022  
-TWNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Taiwan Province of China                                                              NSA  Annual     23-Oct-2019  
-TWNPCPIPCPPPT                           Prices: Consumer Price Index for Taiwan Province of China                                                                               NSA  Annual     28-Oct-2022  
-TWNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Taiwan Province of China                                                    NSA  Annual     23-Oct-2019  
-TWNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Taiwan Province of China                                                    NSA  Annual     23-Oct-2019  
-VNMBCABP6USD                            Balance of Payments: Total Net Current Account for Vietnam                                                                              NSA  Annual     23-Oct-2019  
-VNMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Vietnam                                                                              NSA  Annual     28-Oct-2022  
-VNMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Vietnam                                                               NSA  Annual     28-Oct-2022  
-VNMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Vietnam                                                                 NSA  Annual     23-Oct-2019  
-VNMNGDPDUSD                             National Accounts: Gross Domestic Product for Vietnam                                                                                   NSA  Annual     23-Oct-2019  
-VNMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Vietnam                                                                              NSA  Annual     28-Oct-2022  
-VNMNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Vietnam                                                                               NSA  Annual     23-Oct-2019  
-VNMPCPIPCPPPT                           Prices: Consumer Price Index for Vietnam                                                                                                NSA  Annual     28-Oct-2022  
-VNMTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Vietnam                                                                     NSA  Annual     23-Oct-2019  
-VNMTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Vietnam                                                                     NSA  Annual     23-Oct-2019  
-VUTBCABP6USD                            Balance of Payments: Total Net Current Account for Vanuatu                                                                              NSA  Annual     23-Oct-2019  
-VUTBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Vanuatu                                                                              NSA  Annual     28-Oct-2022  
-VUTGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Vanuatu                                                               NSA  Annual     28-Oct-2022  
-VUTGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Vanuatu                                                                 NSA  Annual     23-Oct-2019  
-VUTNGDPDUSD                             National Accounts: Gross Domestic Product for Vanuatu                                                                                   NSA  Annual     23-Oct-2019  
-VUTNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Vanuatu                                                                              NSA  Annual     28-Oct-2022  
-VUTNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Vanuatu                                                                               NSA  Annual     23-Oct-2019  
-VUTPCPIPCPPPT                           Prices: Consumer Price Index for Vanuatu                                                                                                NSA  Annual     28-Oct-2022  
-WSMBCABP6USD                            Balance of Payments: Total Net Current Account for Samoa                                                                                NSA  Annual     07-May-2019  
-WSMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Samoa                                                                                NSA  Annual     28-Oct-2022  
-WSMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Samoa                                                                 NSA  Annual     28-Oct-2022  
-WSMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Samoa                                                                   NSA  Annual     23-Oct-2019  
-WSMNGDPDUSD                             National Accounts: Gross Domestic Product for Samoa                                                                                     NSA  Annual     23-Oct-2019  
-WSMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Samoa                                                                                NSA  Annual     28-Oct-2022  
-WSMPCPIPCPPPT                           Prices: Consumer Price Index for Samoa                                                                                                  NSA  Annual     28-Oct-2022  
+AUSBCABP6USD                            Balance of Payments: Total Net Current Account for Australia                                                             NSA  23-Oct-2019  Annual
+AUSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Australia                                                             NSA  28-Oct-2022  Annual
+AUSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Australia                                              NSA  28-Oct-2022  Annual
+AUSGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Australia                                                NSA  23-Oct-2019  Annual
+AUSNGDPDUSD                             National Accounts: Gross Domestic Product for Australia                                                                  NSA  23-Oct-2019  Annual
+AUSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Australia                                                             NSA  28-Oct-2022  Annual
+AUSNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Australia                                                              NSA  23-Oct-2019  Annual
+AUSPCPIPCPPPT                           Prices: Consumer Price Index for Australia                                                                               NSA  28-Oct-2022  Annual
+AUSTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Australia                                                    NSA  23-Oct-2019  Annual
+AUSTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Australia                                                    NSA  23-Oct-2019  Annual
+BGDBCABP6USD                            Balance of Payments: Total Net Current Account for Bangladesh                                                            NSA  23-Oct-2019  Annual
+BGDBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Bangladesh                                                            NSA  28-Oct-2022  Annual
+BGDGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Bangladesh                                             NSA  28-Oct-2022  Annual
+BGDGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Bangladesh                                               NSA  23-Oct-2019  Annual
+BGDNGDPDUSD                             National Accounts: Gross Domestic Product for Bangladesh                                                                 NSA  23-Oct-2019  Annual
+BGDNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Bangladesh                                                            NSA  28-Oct-2022  Annual
+BGDNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Bangladesh                                                             NSA  23-Oct-2019  Annual
+BGDPCPIPCPPPT                           Prices: Consumer Price Index for Bangladesh                                                                              NSA  28-Oct-2022  Annual
+BGDTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Bangladesh                                                   NSA  23-Oct-2019  Annual
+BGDTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Bangladesh                                                   NSA  23-Oct-2019  Annual
+BRNBCABP6USD                            Balance of Payments: Total Net Current Account for Brunei Darussalam                                                     NSA  23-Oct-2019  Annual
+BRNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Brunei Darussalam                                                     NSA  28-Oct-2022  Annual
+BRNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Brunei Darussalam                                      NSA  28-Oct-2022  Annual
+BRNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Brunei Darussalam                                        NSA  23-Oct-2019  Annual
+BRNNGDPDUSD                             National Accounts: Gross Domestic Product for Brunei Darussalam                                                          NSA  23-Oct-2019  Annual
+BRNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Brunei Darussalam                                                     NSA  28-Oct-2022  Annual
+BRNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Brunei Darussalam                                                      NSA  23-Oct-2019  Annual
+BRNPCPIPCPPPT                           Prices: Consumer Price Index for Brunei Darussalam                                                                       NSA  28-Oct-2022  Annual
+BRNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Brunei Darussalam                                            NSA  23-Oct-2019  Annual
+BRNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Brunei Darussalam                                            NSA  23-Oct-2019  Annual
+BTNBCABP6USD                            Balance of Payments: Total Net Current Account for Bhutan                                                                NSA  23-Oct-2019  Annual
+BTNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Bhutan                                                                NSA  28-Oct-2022  Annual
+BTNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Bhutan                                                 NSA  28-Oct-2022  Annual
+BTNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Bhutan                                                   NSA  23-Oct-2019  Annual
+BTNNGDPDUSD                             National Accounts: Gross Domestic Product for Bhutan                                                                     NSA  23-Oct-2019  Annual
+BTNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Bhutan                                                                NSA  28-Oct-2022  Annual
+BTNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Bhutan                                                                 NSA  23-Oct-2019  Annual
+BTNPCPIPCPPPT                           Prices: Consumer Price Index for Bhutan                                                                                  NSA  28-Oct-2022  Annual
+BTNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Bhutan                                                       NSA  23-Oct-2019  Annual
+BTNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Bhutan                                                       NSA  23-Oct-2019  Annual
+CHNBCABP6USD                            Balance of Payments: Total Net Current Account for China, P.R.: Mainland                                                 NSA  23-Oct-2019  Annual
+CHNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for China, P.R.: Mainland                                                 NSA  28-Oct-2022  Annual
+CHNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for China, P.R.: Mainland                                  NSA  28-Oct-2022  Annual
+CHNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for China, P.R.: Mainland                                    NSA  23-Oct-2019  Annual
+CHNNGDPDUSD                             National Accounts: Gross Domestic Product for China, P.R.: Mainland                                                      NSA  23-Oct-2019  Annual
+CHNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for China, P.R.: Mainland                                                 NSA  28-Oct-2022  Annual
+CHNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for China, P.R.: Mainland                                                  NSA  23-Oct-2019  Annual
+CHNPCPIPCPPPT                           Prices: Consumer Price Index for China, P.R.: Mainland                                                                   NSA  28-Oct-2022  Annual
+CHNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for China, P.R.: Mainland                                        NSA  23-Oct-2019  Annual
+CHNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for China, P.R.: Mainland                                        NSA  23-Oct-2019  Annual
+FJIBCABP6USD                            Balance of Payments: Total Net Current Account for Fiji                                                                  NSA  23-Oct-2019  Annual
+FJIBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Fiji                                                                  NSA  28-Oct-2022  Annual
+FJIGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Fiji                                                   NSA  28-Oct-2022  Annual
+FJIGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Fiji                                                     NSA  23-Oct-2019  Annual
+FJINGDPDUSD                             National Accounts: Gross Domestic Product for Fiji                                                                       NSA  23-Oct-2019  Annual
+FJINGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Fiji                                                                  NSA  28-Oct-2022  Annual
+FJIPCPIPCPPPT                           Prices: Consumer Price Index for Fiji                                                                                    NSA  28-Oct-2022  Annual
+FSMBCABP6USD                            Balance of Payments: Total Net Current Account for Federated States of Micronesia                                        NSA  23-Oct-2019  Annual
+FSMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Federated States of Micronesia                                        NSA  28-Oct-2022  Annual
+FSMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Federated States of Micronesia                         NSA  28-Oct-2022  Annual
+FSMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Federated States of Micronesia                           NSA  23-Oct-2019  Annual
+FSMNGDPDUSD                             National Accounts: Gross Domestic Product for Federated States of Micronesia                                             NSA  23-Oct-2019  Annual
+FSMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Federated States of Micronesia                                        NSA  28-Oct-2022  Annual
+FSMPCPIPCPPPT                           Prices: Consumer Price Index for Federated States of Micronesia                                                          NSA  28-Oct-2022  Annual
+HKGBCABP6USD                            Balance of Payments: Total Net Current Account for China, P.R.: Hong Kong                                                NSA  23-Oct-2019  Annual
+HKGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for China, P.R.: Hong Kong                                                NSA  28-Oct-2022  Annual
+HKGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for China, P.R.: Hong Kong                                 NSA  28-Oct-2022  Annual
+HKGGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for China, P.R.: Hong Kong                                   NSA  23-Oct-2019  Annual
+HKGNGDPDUSD                             National Accounts: Gross Domestic Product for China, P.R.: Hong Kong                                                     NSA  23-Oct-2019  Annual
+HKGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for China, P.R.: Hong Kong                                                NSA  28-Oct-2022  Annual
+HKGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for China, P.R.: Hong Kong                                                 NSA  23-Oct-2019  Annual
+HKGPCPIPCPPPT                           Prices: Consumer Price Index for China, P.R.: Hong Kong                                                                  NSA  28-Oct-2022  Annual
+HKGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for China, P.R.: Hong Kong                                       NSA  23-Oct-2019  Annual
+HKGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for China, P.R.: Hong Kong                                       NSA  23-Oct-2019  Annual
+IDNBCABP6USD                            Balance of Payments: Total Net Current Account for Indonesia                                                             NSA  23-Oct-2019  Annual
+IDNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Indonesia                                                             NSA  28-Oct-2022  Annual
+IDNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Indonesia                                              NSA  28-Oct-2022  Annual
+IDNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Indonesia                                                NSA  23-Oct-2019  Annual
+IDNNGDPDUSD                             National Accounts: Gross Domestic Product for Indonesia                                                                  NSA  23-Oct-2019  Annual
+IDNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Indonesia                                                             NSA  28-Oct-2022  Annual
+IDNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Indonesia                                                              NSA  23-Oct-2019  Annual
+IDNPCPIPCPPPT                           Prices: Consumer Price Index for Indonesia                                                                               NSA  28-Oct-2022  Annual
+IDNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Indonesia                                                    NSA  23-Oct-2019  Annual
+IDNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Indonesia                                                    NSA  23-Oct-2019  Annual
+INDBCABP6USD                            Balance of Payments: Total Net Current Account for India                                                                 NSA  23-Oct-2019  Annual
+INDBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for India                                                                 NSA  28-Oct-2022  Annual
+INDGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for India                                                  NSA  28-Oct-2022  Annual
+INDGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for India                                                    NSA  23-Oct-2019  Annual
+INDNGDPDUSD                             National Accounts: Gross Domestic Product for India                                                                      NSA  23-Oct-2019  Annual
+INDNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for India                                                                 NSA  28-Oct-2022  Annual
+INDNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for India                                                                  NSA  23-Oct-2019  Annual
+INDPCPIPCPPPT                           Prices: Consumer Price Index for India                                                                                   NSA  28-Oct-2022  Annual
+INDTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for India                                                        NSA  23-Oct-2019  Annual
+INDTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for India                                                        NSA  23-Oct-2019  Annual
+JPNBCABP6USD                            Balance of Payments: Total Net Current Account for Japan                                                                 NSA  23-Oct-2019  Annual
+JPNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Japan                                                                 NSA  28-Oct-2022  Annual
+JPNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Japan                                                  NSA  28-Oct-2022  Annual
+JPNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Japan                                                    NSA  23-Oct-2019  Annual
+JPNNGDPDUSD                             National Accounts: Gross Domestic Product for Japan                                                                      NSA  23-Oct-2019  Annual
+JPNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Japan                                                                 NSA  28-Oct-2022  Annual
+JPNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Japan                                                                  NSA  23-Oct-2019  Annual
+JPNPCPIPCPPPT                           Prices: Consumer Price Index for Japan                                                                                   NSA  28-Oct-2022  Annual
+JPNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Japan                                                        NSA  23-Oct-2019  Annual
+JPNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Japan                                                        NSA  23-Oct-2019  Annual
+KHMBCABP6USD                            Balance of Payments: Total Net Current Account for Cambodia                                                              NSA  23-Oct-2019  Annual
+KHMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Cambodia                                                              NSA  28-Oct-2022  Annual
+KHMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Cambodia                                               NSA  28-Oct-2022  Annual
+KHMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Cambodia                                                 NSA  23-Oct-2019  Annual
+KHMNGDPDUSD                             National Accounts: Gross Domestic Product for Cambodia                                                                   NSA  23-Oct-2019  Annual
+KHMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Cambodia                                                              NSA  28-Oct-2022  Annual
+KHMNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Cambodia                                                               NSA  23-Oct-2019  Annual
+KHMPCPIPCPPPT                           Prices: Consumer Price Index for Cambodia                                                                                NSA  28-Oct-2022  Annual
+KHMTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Cambodia                                                     NSA  23-Oct-2019  Annual
+KHMTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Cambodia                                                     NSA  23-Oct-2019  Annual
+KIRBCABP6USD                            Balance of Payments: Total Net Current Account for Kiribati                                                              NSA  23-Oct-2019  Annual
+KIRBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Kiribati                                                              NSA  28-Oct-2022  Annual
+KIRGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Kiribati                                               NSA  28-Oct-2022  Annual
+KIRGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Kiribati                                                 NSA  23-Oct-2019  Annual
+KIRNGDPDUSD                             National Accounts: Gross Domestic Product for Kiribati                                                                   NSA  23-Oct-2019  Annual
+KIRNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Kiribati                                                              NSA  28-Oct-2022  Annual
+KIRPCPIPCPPPT                           Prices: Consumer Price Index for Kiribati                                                                                NSA  28-Oct-2022  Annual
+KIRTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Kiribati                                                     NSA  23-Oct-2019  Annual
+KIRTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Kiribati                                                     NSA  23-Oct-2019  Annual
+KORBCABP6USD                            Balance of Payments: Total Net Current Account for Republic of Korea                                                     NSA  23-Oct-2019  Annual
+KORBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Republic of Korea                                                     NSA  28-Oct-2022  Annual
+KORGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Republic of Korea                                      NSA  28-Oct-2022  Annual
+KORGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Republic of Korea                                        NSA  23-Oct-2019  Annual
+KORNGDPDUSD                             National Accounts: Gross Domestic Product for Republic of Korea                                                          NSA  23-Oct-2019  Annual
+KORNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Republic of Korea                                                     NSA  28-Oct-2022  Annual
+KORNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Republic of Korea                                                      NSA  23-Oct-2019  Annual
+KORPCPIPCPPPT                           Prices: Consumer Price Index for Republic of Korea                                                                       NSA  28-Oct-2022  Annual
+KORTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Republic of Korea                                            NSA  23-Oct-2019  Annual
+KORTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Republic of Korea                                            NSA  23-Oct-2019  Annual
+LAOBCABP6USD                            Balance of Payments: Total Net Current Account for Lao People's Democratic Republic                                      NSA  23-Oct-2019  Annual
+LAOBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Lao People's Democratic Republic                                      NSA  28-Oct-2022  Annual
+LAOGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Lao People's Democratic Republic                       NSA  28-Oct-2022  Annual
+LAOGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Lao People's Democratic Republic                         NSA  23-Oct-2019  Annual
+LAONGDPDUSD                             National Accounts: Gross Domestic Product for Lao People's Democratic Republic                                           NSA  23-Oct-2019  Annual
+LAONGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Lao People's Democratic Republic                                      NSA  28-Oct-2022  Annual
+LAOPCPIPCPPPT                           Prices: Consumer Price Index for Lao People's Democratic Republic                                                        NSA  28-Oct-2022  Annual
+LAOTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Lao People's Democratic Republic                             NSA  23-Oct-2019  Annual
+LAOTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Lao People's Democratic Republic                             NSA  23-Oct-2019  Annual
+LKABCABP6USD                            Balance of Payments: Total Net Current Account for Sri Lanka                                                             NSA  23-Oct-2019  Annual
+LKABCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Sri Lanka                                                             NSA  28-Oct-2022  Annual
+LKAGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Sri Lanka                                              NSA  28-Oct-2022  Annual
+LKAGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Sri Lanka                                                NSA  23-Oct-2019  Annual
+LKANGDPDUSD                             National Accounts: Gross Domestic Product for Sri Lanka                                                                  NSA  23-Oct-2019  Annual
+LKANGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Sri Lanka                                                             NSA  28-Oct-2022  Annual
+LKANTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Sri Lanka                                                              NSA  07-May-2019  Annual
+LKAPCPIPCPPPT                           Prices: Consumer Price Index for Sri Lanka                                                                               NSA  28-Oct-2022  Annual
+LKATMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Sri Lanka                                                    NSA  23-Oct-2019  Annual
+LKATXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Sri Lanka                                                    NSA  23-Oct-2019  Annual
+MDVBCABP6USD                            Balance of Payments: Total Net Current Account for Maldives                                                              NSA  23-Oct-2019  Annual
+MDVBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Maldives                                                              NSA  28-Oct-2022  Annual
+MDVGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Maldives                                               NSA  28-Oct-2022  Annual
+MDVGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Maldives                                                 NSA  23-Oct-2019  Annual
+MDVNGDPDUSD                             National Accounts: Gross Domestic Product for Maldives                                                                   NSA  23-Oct-2019  Annual
+MDVNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Maldives                                                              NSA  28-Oct-2022  Annual
+MDVNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Maldives                                                               NSA  23-Oct-2019  Annual
+MDVPCPIPCPPPT                           Prices: Consumer Price Index for Maldives                                                                                NSA  28-Oct-2022  Annual
+MDVTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Maldives                                                     NSA  23-Oct-2019  Annual
+MDVTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Maldives                                                     NSA  23-Oct-2019  Annual
+MHLBCABP6USD                            Balance of Payments: Total Net Current Account for Marshall Islands                                                      NSA  23-Oct-2019  Annual
+MHLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Marshall Islands                                                      NSA  28-Oct-2022  Annual
+MHLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Marshall Islands                                       NSA  28-Oct-2022  Annual
+MHLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Marshall Islands                                         NSA  23-Oct-2019  Annual
+MHLNGDPDUSD                             National Accounts: Gross Domestic Product for Marshall Islands                                                           NSA  23-Oct-2019  Annual
+MHLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Marshall Islands                                                      NSA  28-Oct-2022  Annual
+MHLPCPIPCPPPT                           Prices: Consumer Price Index for Marshall Islands                                                                        NSA  28-Oct-2022  Annual
+MHLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Marshall Islands                                             NSA  23-Oct-2019  Annual
+MMRBCABP6USD                            Balance of Payments: Total Net Current Account for Myanmar                                                               NSA  23-Oct-2019  Annual
+MMRBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Myanmar                                                               NSA  28-Oct-2022  Annual
+MMRGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Myanmar                                                NSA  28-Oct-2022  Annual
+MMRGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Myanmar                                                  NSA  23-Oct-2019  Annual
+MMRNGDPDUSD                             National Accounts: Gross Domestic Product for Myanmar                                                                    NSA  23-Oct-2019  Annual
+MMRNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Myanmar                                                               NSA  28-Oct-2022  Annual
+MMRNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Myanmar                                                                NSA  23-Oct-2019  Annual
+MMRPCPIPCPPPT                           Prices: Consumer Price Index for Myanmar                                                                                 NSA  28-Oct-2022  Annual
+MMRTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Myanmar                                                      NSA  23-Oct-2019  Annual
+MMRTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Myanmar                                                      NSA  23-Oct-2019  Annual
+MNGBCABP6USD                            Balance of Payments: Total Net Current Account for Mongolia                                                              NSA  23-Oct-2019  Annual
+MNGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Mongolia                                                              NSA  28-Oct-2022  Annual
+MNGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Mongolia                                               NSA  28-Oct-2022  Annual
+MNGNGDPDUSD                             National Accounts: Gross Domestic Product for Mongolia                                                                   NSA  23-Oct-2019  Annual
+MNGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Mongolia                                                              NSA  28-Oct-2022  Annual
+MNGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Mongolia                                                               NSA  23-Oct-2019  Annual
+MNGPCPIPCPPPT                           Prices: Consumer Price Index for Mongolia                                                                                NSA  28-Oct-2022  Annual
+MNGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Mongolia                                                     NSA  23-Oct-2019  Annual
+MNGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Mongolia                                                     NSA  23-Oct-2019  Annual
+MYSBCABP6USD                            Balance of Payments: Total Net Current Account for Malaysia                                                              NSA  23-Oct-2019  Annual
+MYSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Malaysia                                                              NSA  28-Oct-2022  Annual
+MYSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Malaysia                                               NSA  28-Oct-2022  Annual
+MYSGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Malaysia                                                 NSA  23-Oct-2019  Annual
+MYSNGDPDUSD                             National Accounts: Gross Domestic Product for Malaysia                                                                   NSA  23-Oct-2019  Annual
+MYSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Malaysia                                                              NSA  28-Oct-2022  Annual
+MYSNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Malaysia                                                               NSA  23-Oct-2019  Annual
+MYSPCPIPCPPPT                           Prices: Consumer Price Index for Malaysia                                                                                NSA  28-Oct-2022  Annual
+MYSTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Malaysia                                                     NSA  23-Oct-2019  Annual
+MYSTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Malaysia                                                     NSA  23-Oct-2019  Annual
+NPLBCABP6USD                            Balance of Payments: Total Net Current Account for Nepal                                                                 NSA  23-Oct-2019  Annual
+NPLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Nepal                                                                 NSA  28-Oct-2022  Annual
+NPLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Nepal                                                  NSA  28-Oct-2022  Annual
+NPLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Nepal                                                    NSA  23-Oct-2019  Annual
+NPLNGDPDUSD                             National Accounts: Gross Domestic Product for Nepal                                                                      NSA  23-Oct-2019  Annual
+NPLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Nepal                                                                 NSA  28-Oct-2022  Annual
+NPLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Nepal                                                                  NSA  23-Oct-2019  Annual
+NPLPCPIPCPPPT                           Prices: Consumer Price Index for Nepal                                                                                   NSA  28-Oct-2022  Annual
+NZLBCABP6USD                            Balance of Payments: Total Net Current Account for New Zealand                                                           NSA  23-Oct-2019  Annual
+NZLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for New Zealand                                                           NSA  28-Oct-2022  Annual
+NZLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for New Zealand                                            NSA  28-Oct-2022  Annual
+NZLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for New Zealand                                              NSA  23-Oct-2019  Annual
+NZLNGDPDUSD                             National Accounts: Gross Domestic Product for New Zealand                                                                NSA  23-Oct-2019  Annual
+NZLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for New Zealand                                                           NSA  28-Oct-2022  Annual
+NZLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for New Zealand                                                            NSA  23-Oct-2019  Annual
+NZLPCPIPCPPPT                           Prices: Consumer Price Index for New Zealand                                                                             NSA  28-Oct-2022  Annual
+NZLTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for New Zealand                                                  NSA  23-Oct-2019  Annual
+NZLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for New Zealand                                                  NSA  23-Oct-2019  Annual
+PHLBCABP6USD                            Balance of Payments: Total Net Current Account for Philippines                                                           NSA  23-Oct-2019  Annual
+PHLBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Philippines                                                           NSA  28-Oct-2022  Annual
+PHLGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Philippines                                            NSA  28-Oct-2022  Annual
+PHLGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Philippines                                              NSA  23-Oct-2019  Annual
+PHLNGDPDUSD                             National Accounts: Gross Domestic Product for Philippines                                                                NSA  23-Oct-2019  Annual
+PHLNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Philippines                                                           NSA  28-Oct-2022  Annual
+PHLNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Philippines                                                            NSA  23-Oct-2019  Annual
+PHLPCPIPCPPPT                           Prices: Consumer Price Index for Philippines                                                                             NSA  28-Oct-2022  Annual
+PHLTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Philippines                                                  NSA  23-Oct-2019  Annual
+PHLTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Philippines                                                  NSA  23-Oct-2019  Annual
+PLWBCABP6USD                            Balance of Payments: Total Net Current Account for Palau                                                                 NSA  23-Oct-2019  Annual
+PLWBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Palau                                                                 NSA  28-Oct-2022  Annual
+PLWGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Palau                                                  NSA  28-Oct-2022  Annual
+PLWNGDPDUSD                             National Accounts: Gross Domestic Product for Palau                                                                      NSA  23-Oct-2019  Annual
+PLWNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Palau                                                                 NSA  28-Oct-2022  Annual
+PLWNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Palau                                                                  NSA  23-Oct-2019  Annual
+PLWPCPIPCPPPT                           Prices: Consumer Price Index for Palau                                                                                   NSA  28-Oct-2022  Annual
+PLWTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Palau                                                        NSA  23-Oct-2019  Annual
+PLWTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Palau                                                        NSA  23-Oct-2019  Annual
+PNGBCABP6USD                            Balance of Payments: Total Net Current Account for Papua New Guinea                                                      NSA  23-Oct-2019  Annual
+PNGBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Papua New Guinea                                                      NSA  28-Oct-2022  Annual
+PNGGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Papua New Guinea                                       NSA  28-Oct-2022  Annual
+PNGGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Papua New Guinea                                         NSA  23-Oct-2019  Annual
+PNGNGDPDUSD                             National Accounts: Gross Domestic Product for Papua New Guinea                                                           NSA  23-Oct-2019  Annual
+PNGNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Papua New Guinea                                                      NSA  28-Oct-2022  Annual
+PNGNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Papua New Guinea                                                       NSA  09-May-2016  Annual
+PNGPCPIPCPPPT                           Prices: Consumer Price Index for Papua New Guinea                                                                        NSA  28-Oct-2022  Annual
+PNGTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Papua New Guinea                                             NSA  23-Oct-2019  Annual
+PNGTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Papua New Guinea                                             NSA  23-Oct-2019  Annual
+SGPBCABP6USD                            Balance of Payments: Total Net Current Account for Singapore                                                             NSA  23-Oct-2019  Annual
+SGPBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Singapore                                                             NSA  28-Oct-2022  Annual
+SGPGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Singapore                                              NSA  28-Oct-2022  Annual
+SGPGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Singapore                                                NSA  23-Oct-2019  Annual
+SGPNGDPDUSD                             National Accounts: Gross Domestic Product for Singapore                                                                  NSA  23-Oct-2019  Annual
+SGPNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Singapore                                                             NSA  28-Oct-2022  Annual
+SGPNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Singapore                                                              NSA  23-Oct-2019  Annual
+SGPPCPIPCPPPT                           Prices: Consumer Price Index for Singapore                                                                               NSA  28-Oct-2022  Annual
+SGPTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Singapore                                                    NSA  23-Oct-2019  Annual
+SGPTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Singapore                                                    NSA  23-Oct-2019  Annual
+SLBBCABP6USD                            Balance of Payments: Total Net Current Account for Solomon Islands                                                       NSA  23-Oct-2019  Annual
+SLBBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Solomon Islands                                                       NSA  28-Oct-2022  Annual
+SLBGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Solomon Islands                                        NSA  28-Oct-2022  Annual
+SLBGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Solomon Islands                                          NSA  23-Oct-2019  Annual
+SLBNGDPDUSD                             National Accounts: Gross Domestic Product for Solomon Islands                                                            NSA  23-Oct-2019  Annual
+SLBNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Solomon Islands                                                       NSA  28-Oct-2022  Annual
+SLBNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Solomon Islands                                                        NSA  23-Oct-2019  Annual
+SLBPCPIPCPPPT                           Prices: Consumer Price Index for Solomon Islands                                                                         NSA  28-Oct-2022  Annual
+SLBTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Solomon Islands                                              NSA  23-Oct-2019  Annual
+SLBTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Solomon Islands                                              NSA  23-Oct-2019  Annual
+THABCABP6USD                            Balance of Payments: Total Net Current Account for Thailand                                                              NSA  23-Oct-2019  Annual
+THABCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Thailand                                                              NSA  28-Oct-2022  Annual
+THAGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Thailand                                               NSA  28-Oct-2022  Annual
+THAGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Thailand                                                 NSA  23-Oct-2019  Annual
+THANGDPDUSD                             National Accounts: Gross Domestic Product for Thailand                                                                   NSA  23-Oct-2019  Annual
+THANGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Thailand                                                              NSA  28-Oct-2022  Annual
+THANTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Thailand                                                               NSA  23-Oct-2019  Annual
+THAPCPIPCPPPT                           Prices: Consumer Price Index for Thailand                                                                                NSA  28-Oct-2022  Annual
+THATMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Thailand                                                     NSA  23-Oct-2019  Annual
+THATXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Thailand                                                     NSA  23-Oct-2019  Annual
+TLSBCABP6USD                            Balance of Payments: Total Net Current Account for Timor-Leste                                                           NSA  23-Oct-2019  Annual
+TLSBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Timor-Leste                                                           NSA  28-Oct-2022  Annual
+TLSGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Timor-Leste                                            NSA  28-Oct-2022  Annual
+TLSNGDPDUSD                             National Accounts: Gross Domestic Product for Timor-Leste                                                                NSA  23-Oct-2019  Annual
+TLSNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Timor-Leste                                                           NSA  28-Oct-2022  Annual
+TLSPCPIPCPPPT                           Prices: Consumer Price Index for Timor-Leste                                                                             NSA  28-Oct-2022  Annual
+TONBCABP6USD                            Balance of Payments: Total Net Current Account for Tonga                                                                 NSA  23-Oct-2019  Annual
+TONBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Tonga                                                                 NSA  28-Oct-2022  Annual
+TONGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Tonga                                                  NSA  28-Oct-2022  Annual
+TONNGDPDUSD                             National Accounts: Gross Domestic Product for Tonga                                                                      NSA  23-Oct-2019  Annual
+TONNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Tonga                                                                 NSA  28-Oct-2022  Annual
+TONNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Tonga                                                                  NSA  23-Oct-2019  Annual
+TONPCPIPCPPPT                           Prices: Consumer Price Index for Tonga                                                                                   NSA  28-Oct-2022  Annual
+TONTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Tonga                                                        NSA  23-Oct-2019  Annual
+TONTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Tonga                                                        NSA  23-Oct-2019  Annual
+TUVBCABP6USD                            Balance of Payments: Total Net Current Account for Tuvalu                                                                NSA  23-Oct-2019  Annual
+TUVBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Tuvalu                                                                NSA  28-Oct-2022  Annual
+TUVGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Tuvalu                                                 NSA  28-Oct-2022  Annual
+TUVGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Tuvalu                                                   NSA  23-Oct-2019  Annual
+TUVNGDPDUSD                             National Accounts: Gross Domestic Product for Tuvalu                                                                     NSA  23-Oct-2019  Annual
+TUVNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Tuvalu                                                                NSA  27-Apr-2022  Annual
+TUVPCPIPCPPPT                           Prices: Consumer Price Index for Tuvalu                                                                                  NSA  28-Oct-2022  Annual
+TWNBCABP6USD                            Balance of Payments: Total Net Current Account for Taiwan Province of China                                              NSA  23-Oct-2019  Annual
+TWNBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Taiwan Province of China                                              NSA  28-Oct-2022  Annual
+TWNGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Taiwan Province of China                               NSA  28-Oct-2022  Annual
+TWNGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Taiwan Province of China                                 NSA  23-Oct-2019  Annual
+TWNNGDPDUSD                             National Accounts: Gross Domestic Product for Taiwan Province of China                                                   NSA  23-Oct-2019  Annual
+TWNNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Taiwan Province of China                                              NSA  28-Oct-2022  Annual
+TWNNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Taiwan Province of China                                               NSA  23-Oct-2019  Annual
+TWNPCPIPCPPPT                           Prices: Consumer Price Index for Taiwan Province of China                                                                NSA  28-Oct-2022  Annual
+TWNTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Taiwan Province of China                                     NSA  23-Oct-2019  Annual
+TWNTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Taiwan Province of China                                     NSA  23-Oct-2019  Annual
+VNMBCABP6USD                            Balance of Payments: Total Net Current Account for Vietnam                                                               NSA  23-Oct-2019  Annual
+VNMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Vietnam                                                               NSA  28-Oct-2022  Annual
+VNMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Vietnam                                                NSA  28-Oct-2022  Annual
+VNMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Vietnam                                                  NSA  23-Oct-2019  Annual
+VNMNGDPDUSD                             National Accounts: Gross Domestic Product for Vietnam                                                                    NSA  23-Oct-2019  Annual
+VNMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Vietnam                                                               NSA  28-Oct-2022  Annual
+VNMNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Vietnam                                                                NSA  23-Oct-2019  Annual
+VNMPCPIPCPPPT                           Prices: Consumer Price Index for Vietnam                                                                                 NSA  28-Oct-2022  Annual
+VNMTMRPCPPPT                            External Trade: Volume of Imports of Goods and Services for Vietnam                                                      NSA  23-Oct-2019  Annual
+VNMTXRPCPPPT                            External Trade: Volume of Exports of Goods and Services for Vietnam                                                      NSA  23-Oct-2019  Annual
+VUTBCABP6USD                            Balance of Payments: Total Net Current Account for Vanuatu                                                               NSA  23-Oct-2019  Annual
+VUTBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Vanuatu                                                               NSA  28-Oct-2022  Annual
+VUTGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Vanuatu                                                NSA  28-Oct-2022  Annual
+VUTGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Vanuatu                                                  NSA  23-Oct-2019  Annual
+VUTNGDPDUSD                             National Accounts: Gross Domestic Product for Vanuatu                                                                    NSA  23-Oct-2019  Annual
+VUTNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Vanuatu                                                               NSA  28-Oct-2022  Annual
+VUTNTDDRPCPPPT                          National Accounts: Real Total Domestic Demand for Vanuatu                                                                NSA  23-Oct-2019  Annual
+VUTPCPIPCPPPT                           Prices: Consumer Price Index for Vanuatu                                                                                 NSA  28-Oct-2022  Annual
+WSMBCABP6USD                            Balance of Payments: Total Net Current Account for Samoa                                                                 NSA  07-May-2019  Annual
+WSMBCAGDPBP6PT                          Balance of Payments: Total Net Current Account for Samoa                                                                 NSA  28-Oct-2022  Annual
+WSMGGXCNLG01GDPPT                       Fiscal Situation of General Government: Net Lending/borrowing for Samoa                                                  NSA  28-Oct-2022  Annual
+WSMGGXWDGG01GDPPT                       Fiscal Situation of General Government: Gross Debt Position for Samoa                                                    NSA  23-Oct-2019  Annual
+WSMNGDPDUSD                             National Accounts: Gross Domestic Product for Samoa                                                                      NSA  23-Oct-2019  Annual
+WSMNGDPRPCPPPT                          National Accounts: Real Gross Domestic Product for Samoa                                                                 NSA  28-Oct-2022  Annual
+WSMPCPIPCPPPT                           Prices: Consumer Price Index for Samoa                                                                                   NSA  28-Oct-2022  Annual

@@ -1,5 +1,5 @@
 Id : 282  Supplemental Estimates, Underlying Detail Tables, Spliced Series
-CMRMTSPL                                Real Manufacturing and Trade Industries Sales                                                                                           SA   Monthly    01-Dec-2022  
-CQRMTSPL                                Real Manufacturing and Trade Industries Sales                                                                                           SA   Quarterly  01-Dec-2022  
-INVCMRMTSPL                             Real Manufacturing and Trade Inventories                                                                                                SA   Monthly    01-Dec-2022  
-INVCQRMTSPL                             Real Manufacturing and Trade Inventories                                                                                                SA   Quarterly  01-Dec-2022  
+CMRMTSPL                                Real Manufacturing and Trade Industries Sales                                                                            SA   01-Dec-2022  Monthly
+CQRMTSPL                                Real Manufacturing and Trade Industries Sales                                                                            SA   01-Dec-2022  Quarterly
+INVCMRMTSPL                             Real Manufacturing and Trade Inventories                                                                                 SA   01-Dec-2022  Monthly
+INVCQRMTSPL                             Real Manufacturing and Trade Inventories                                                                                 SA   01-Dec-2022  Quarterly

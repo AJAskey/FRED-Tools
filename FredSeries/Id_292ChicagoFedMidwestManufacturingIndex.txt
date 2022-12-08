@@ -1,6 +1,6 @@
 Id : 292  Chicago Fed Midwest Manufacturing Index
-CFMMI                                   Chicago Fed Midwest Manufacturing Index (DISCONTINUED)                                                                                  SA   Monthly    04-Dec-2013  
-CFMMIAUTO                               Chicago Fed Midwest Manufacturing Index for the Automobile Sector Production (DISCONTINUED)                                             SA   Monthly    04-Dec-2013  
-CFMMIMACHINERY                          Chicago Fed Midwest Manufacturing Index for the Machinery Sector Production (DISCONTINUED)                                              SA   Monthly    04-Dec-2013  
-CFMMIRESOURCE                           Chicago Fed Midwest Manufacturing Index for the Resource Sector Output (DISCONTINUED)                                                   SA   Monthly    04-Dec-2013  
-CFMMISTEEL                              Chicago Fed Midwest Manufacturing Index for the Steel Sector Output (DISCONTINUED)                                                      SA   Monthly    04-Dec-2013  
+CFMMI                                   Chicago Fed Midwest Manufacturing Index (DISCONTINUED)                                                                   SA   04-Dec-2013  Monthly
+CFMMIAUTO                               Chicago Fed Midwest Manufacturing Index for the Automobile Sector Production (DISCONTINUED)                              SA   04-Dec-2013  Monthly
+CFMMIMACHINERY                          Chicago Fed Midwest Manufacturing Index for the Machinery Sector Production (DISCONTINUED)                               SA   04-Dec-2013  Monthly
+CFMMIRESOURCE                           Chicago Fed Midwest Manufacturing Index for the Resource Sector Output (DISCONTINUED)                                    SA   04-Dec-2013  Monthly
+CFMMISTEEL                              Chicago Fed Midwest Manufacturing Index for the Steel Sector Output (DISCONTINUED)                                       SA   04-Dec-2013  Monthly

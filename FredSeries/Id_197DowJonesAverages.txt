@@ -1,5 +1,5 @@
 Id : 197  Dow Jones Averages
-DJCA                                    Dow Jones Composite Average                                                                                                             NSA  Daily, Close 07-Dec-2022  
-DJIA                                    Dow Jones Industrial Average                                                                                                            NSA  Daily, Close 07-Dec-2022  
-DJTA                                    Dow Jones Transportation Average                                                                                                        NSA  Daily, Close 07-Dec-2022  
-DJUA                                    Dow Jones Utility Average                                                                                                               NSA  Daily, Close 07-Dec-2022  
+DJCA                                    Dow Jones Composite Average                                                                                              NSA  07-Dec-2022  Daily, Close
+DJIA                                    Dow Jones Industrial Average                                                                                             NSA  07-Dec-2022  Daily, Close
+DJTA                                    Dow Jones Transportation Average                                                                                         NSA  07-Dec-2022  Daily, Close
+DJUA                                    Dow Jones Utility Average                                                                                                NSA  07-Dec-2022  Daily, Close

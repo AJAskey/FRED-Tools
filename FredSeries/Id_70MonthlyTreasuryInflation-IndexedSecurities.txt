@@ -1,31 +1,31 @@
 Id : 70  Monthly Treasury Inflation-Indexed Securities
-TP10J07                                 10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2007  
-TP10J08                                 10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2008  
-TP10J09                                 10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                                            NSA  Monthly    05-Jan-2009  
-TP10J10                                 10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                                            NSA  Monthly    04-Jan-2010  
-TP10J11                                 10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                                            NSA  Monthly    03-Jan-2011  
-TP10J12                                 10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                                            NSA  Monthly    03-Jan-2012  
-TP10J14                                 10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                                NSA  Monthly    01-Jan-2014  
-TP10J15                                 10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2015  
-TP10J16                                 10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                                NSA  Monthly    04-Jan-2016  
-TP10J17                                 10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                                            NSA  Monthly    03-Jan-2017  
-TP10J18                                 10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2018  
-TP10J19                                 10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2019  
-TP10J20                                 10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                                            NSA  Monthly    02-Jan-2020  
-TP10J21                                 10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                                            NSA  Monthly    03-Aug-2020  
-TP10L12                                 10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                                NSA  Monthly    02-Jul-2012  
-TP10L13                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                                            NSA  Monthly    01-Jul-2013  
-TP10L14                                 10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                                NSA  Monthly    01-Aug-2014  
-TP10L15                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                                            NSA  Monthly    03-Aug-2015  
-TP10L16                                 10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                                            NSA  Monthly    01-Jul-2016  
-TP10L17                                 10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                                            NSA  Monthly    03-Jul-2017  
-TP10L18                                 10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                                            NSA  Monthly    02-Jul-2018  
-TP10L19                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                                            NSA  Monthly    01-Jul-2019  
-TP10L20                                 10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                                            NSA  Monthly    01-Jul-2020  
-TP30A28                                 30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028 (DISCONTINUED)                                                            NSA  Monthly    03-Aug-2020  
-TP30A29                                 30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029 (DISCONTINUED)                                                            NSA  Monthly    03-Aug-2020  
-TP30F41                                 30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041 (DISCONTINUED)                                                            NSA  Monthly    03-Aug-2020  
-TP3HA32                                 30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032 (DISCONTINUED)                                                        NSA  Monthly    03-Aug-2020  
-TP5A10                                  5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                                    NSA  Monthly    01-Apr-2010  
-TP5A11                                  5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                                             NSA  Monthly    01-Apr-2011  
-TP5L02                                  5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                                    NSA  Monthly    07-Jun-2006  
+TP10J07                                 10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                             NSA  02-Jan-2007  Monthly
+TP10J08                                 10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                             NSA  02-Jan-2008  Monthly
+TP10J09                                 10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                             NSA  05-Jan-2009  Monthly
+TP10J10                                 10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                             NSA  04-Jan-2010  Monthly
+TP10J11                                 10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                             NSA  03-Jan-2011  Monthly
+TP10J12                                 10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                             NSA  03-Jan-2012  Monthly
+TP10J14                                 10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                 NSA  01-Jan-2014  Monthly
+TP10J15                                 10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                             NSA  02-Jan-2015  Monthly
+TP10J16                                 10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                 NSA  04-Jan-2016  Monthly
+TP10J17                                 10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                             NSA  03-Jan-2017  Monthly
+TP10J18                                 10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                             NSA  02-Jan-2018  Monthly
+TP10J19                                 10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                             NSA  02-Jan-2019  Monthly
+TP10J20                                 10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                             NSA  02-Jan-2020  Monthly
+TP10J21                                 10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                             NSA  03-Aug-2020  Monthly
+TP10L12                                 10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                 NSA  02-Jul-2012  Monthly
+TP10L13                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                             NSA  01-Jul-2013  Monthly
+TP10L14                                 10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                 NSA  01-Aug-2014  Monthly
+TP10L15                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                             NSA  03-Aug-2015  Monthly
+TP10L16                                 10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                             NSA  01-Jul-2016  Monthly
+TP10L17                                 10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                             NSA  03-Jul-2017  Monthly
+TP10L18                                 10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                             NSA  02-Jul-2018  Monthly
+TP10L19                                 10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                             NSA  01-Jul-2019  Monthly
+TP10L20                                 10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                             NSA  01-Jul-2020  Monthly
+TP30A28                                 30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028 (DISCONTINUED)                                             NSA  03-Aug-2020  Monthly
+TP30A29                                 30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029 (DISCONTINUED)                                             NSA  03-Aug-2020  Monthly
+TP30F41                                 30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041 (DISCONTINUED)                                             NSA  03-Aug-2020  Monthly
+TP3HA32                                 30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032 (DISCONTINUED)                                         NSA  03-Aug-2020  Monthly
+TP5A10                                  5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                     NSA  01-Apr-2010  Monthly
+TP5A11                                  5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                              NSA  01-Apr-2011  Monthly
+TP5L02                                  5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                     NSA  07-Jun-2006  Monthly

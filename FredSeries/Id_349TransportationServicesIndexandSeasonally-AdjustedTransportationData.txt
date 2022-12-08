@@ -1,52 +1,52 @@
 Id : 349  Transportation Services Index and Seasonally-Adjusted Transportation Data
-AIRRPMTSI                               Air Revenue Passenger Miles                                                                                                             NSA  Monthly    07-Dec-2022  
-AIRRPMTSID11                            Air Revenue Passenger Miles                                                                                                             SA   Monthly    07-Dec-2022  
-AIRRTMFM                                Air Revenue Ton Miles of Freight and Mail                                                                                               NSA  Monthly    07-Dec-2022  
-AIRRTMFMD11                             Air Revenue Ton Miles of Freight and Mail                                                                                               SA   Monthly    07-Dec-2022  
-ASM                                     Available Seat Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                       NSA  Monthly    07-Dec-2022  
-ASMD                                    Domestic Available Seat Miles (ASMs), Scheduled Passenger Flights                                                                       NSA  Monthly    07-Dec-2022  
-ASMD11                                  Available Seat Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                       SA   Monthly    07-Dec-2022  
-ASMDD11                                 Available Seat Miles for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                         SA   Monthly    07-Dec-2022  
-ASMI                                    Available Seat Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                                    NSA  Monthly    07-Dec-2022  
-ASMID11                                 Available Seat Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                                    SA   Monthly    07-Dec-2022  
-ENPLANE                                 Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                               NSA  Monthly    07-Dec-2022  
-ENPLANED                                Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                                 NSA  Monthly    07-Dec-2022  
-ENPLANED11                              Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                               SA   Monthly    07-Dec-2022  
-ENPLANEDD11                             Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                                 SA   Monthly    07-Dec-2022  
-ENPLANEI                                Enplanements for U.S. Air Carrier International, Scheduled Passenger Flights                                                            NSA  Monthly    07-Dec-2022  
-ENPLANEID11                             Enplanements for U.S. Air Carrier International, Scheduled Passenger Flights                                                            SA   Monthly    07-Dec-2022  
-LOADFACTOR                              Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                                NSA  Monthly    07-Dec-2022  
-LOADFACTORD                             Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                                  NSA  Monthly    07-Dec-2022  
-LOADFACTORD11                           Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                                SA   Monthly    07-Dec-2022  
-LOADFACTORDD11                          Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                                  SA   Monthly    07-Dec-2022  
-LOADFACTORI                             Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                                                             NSA  Monthly    07-Dec-2022  
-LOADFACTORID11                          Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                                                             SA   Monthly    07-Dec-2022  
-NATURALGAS                              Natural Gas Consumption                                                                                                                 NSA  Monthly    07-Dec-2022  
-NATURALGASD11                           Natural Gas Consumption                                                                                                                 SA   Monthly    07-Dec-2022  
-PETROLEUM                               Pipeline Petroleum Movement                                                                                                             NSA  Monthly    07-Dec-2022  
-PETROLEUMD11                            Pipeline Petroleum Movement                                                                                                             SA   Monthly    07-Dec-2022  
-RAILFRTCARLOADS                         Rail Freight Carloads                                                                                                                   NSA  Monthly    07-Dec-2022  
-RAILFRTCARLOADSD11                      Rail Freight Carloads                                                                                                                   SA   Monthly    07-Dec-2022  
-RAILFRTINTERMODAL                       Rail Freight Intermodal Traffic                                                                                                         NSA  Monthly    07-Dec-2022  
-RAILFRTINTERMODALD11                    Rail Freight Intermodal Traffic                                                                                                         SA   Monthly    07-Dec-2022  
-RAILPM                                  Rail Passenger Miles                                                                                                                    NSA  Monthly    07-Dec-2022  
-RAILPMD11                               Rail Passenger Miles                                                                                                                    SA   Monthly    07-Dec-2022  
-RPM                                     Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                    NSA  Monthly    07-Dec-2022  
-RPMD                                    Domestic Revenue Passenger Miles (RPMs), Scheduled Passenger Flights                                                                    NSA  Monthly    07-Dec-2022  
-RPMD11                                  Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                    SA   Monthly    07-Dec-2022  
-RPMDD11                                 Revenue Passenger Miles for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                      SA   Monthly    07-Dec-2022  
-RPMI                                    Revenue Passenger Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                                 NSA  Monthly    07-Dec-2022  
-RPMID11                                 Revenue Passenger Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                                 SA   Monthly    07-Dec-2022  
-TRANSIT                                 Public Transit Ridership                                                                                                                NSA  Monthly    07-Dec-2022  
-TRANSITD11                              Public Transit Ridership                                                                                                                SA   Monthly    07-Dec-2022  
-TRUCKD11                                Truck Tonnage Index                                                                                                                     SA   Monthly    07-Dec-2022  
-TSIFRGHT                                Freight Transportation Services Index                                                                                                   SA   Monthly    07-Dec-2022  
-TSIFRGHTC                               Freight Transportation Services Index                                                                                                   SA   Monthly    07-Dec-2022  
-TSIPSNGR                                Passenger Transportation Services Index                                                                                                 SA   Monthly    07-Dec-2022  
-TSIPSNGRC                               Passenger Transportation Services Index                                                                                                 SA   Monthly    07-Dec-2022  
-TSITTL                                  Combined Transportation Services Index                                                                                                  SA   Monthly    07-Dec-2022  
-TSITTLC                                 Combined Transportation Services Index                                                                                                  SA   Monthly    07-Dec-2022  
-VMT                                     Vehicle Miles Traveled                                                                                                                  NSA  Monthly    07-Dec-2022  
-VMTD11                                  Vehicle Miles Traveled                                                                                                                  SA   Monthly    07-Dec-2022  
-WATERBORNE                              Tonnage for Internal U.S. Waterways                                                                                                     NSA  Monthly    07-Dec-2022  
-WATERBORNED11                           Tonnage for Internal U.S. Waterways                                                                                                     SA   Monthly    07-Dec-2022  
+AIRRPMTSI                               Air Revenue Passenger Miles                                                                                              NSA  07-Dec-2022  Monthly
+AIRRPMTSID11                            Air Revenue Passenger Miles                                                                                              SA   07-Dec-2022  Monthly
+AIRRTMFM                                Air Revenue Ton Miles of Freight and Mail                                                                                NSA  07-Dec-2022  Monthly
+AIRRTMFMD11                             Air Revenue Ton Miles of Freight and Mail                                                                                SA   07-Dec-2022  Monthly
+ASM                                     Available Seat Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                        NSA  07-Dec-2022  Monthly
+ASMD                                    Domestic Available Seat Miles (ASMs), Scheduled Passenger Flights                                                        NSA  07-Dec-2022  Monthly
+ASMD11                                  Available Seat Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                        SA   07-Dec-2022  Monthly
+ASMDD11                                 Available Seat Miles for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                          SA   07-Dec-2022  Monthly
+ASMI                                    Available Seat Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                     NSA  07-Dec-2022  Monthly
+ASMID11                                 Available Seat Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                     SA   07-Dec-2022  Monthly
+ENPLANE                                 Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                NSA  07-Dec-2022  Monthly
+ENPLANED                                Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                  NSA  07-Dec-2022  Monthly
+ENPLANED11                              Enplanements for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                SA   07-Dec-2022  Monthly
+ENPLANEDD11                             Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                  SA   07-Dec-2022  Monthly
+ENPLANEI                                Enplanements for U.S. Air Carrier International, Scheduled Passenger Flights                                             NSA  07-Dec-2022  Monthly
+ENPLANEID11                             Enplanements for U.S. Air Carrier International, Scheduled Passenger Flights                                             SA   07-Dec-2022  Monthly
+LOADFACTOR                              Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                 NSA  07-Dec-2022  Monthly
+LOADFACTORD                             Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                   NSA  07-Dec-2022  Monthly
+LOADFACTORD11                           Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                                 SA   07-Dec-2022  Monthly
+LOADFACTORDD11                          Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                                   SA   07-Dec-2022  Monthly
+LOADFACTORI                             Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                                              NSA  07-Dec-2022  Monthly
+LOADFACTORID11                          Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                                              SA   07-Dec-2022  Monthly
+NATURALGAS                              Natural Gas Consumption                                                                                                  NSA  07-Dec-2022  Monthly
+NATURALGASD11                           Natural Gas Consumption                                                                                                  SA   07-Dec-2022  Monthly
+PETROLEUM                               Pipeline Petroleum Movement                                                                                              NSA  07-Dec-2022  Monthly
+PETROLEUMD11                            Pipeline Petroleum Movement                                                                                              SA   07-Dec-2022  Monthly
+RAILFRTCARLOADS                         Rail Freight Carloads                                                                                                    NSA  07-Dec-2022  Monthly
+RAILFRTCARLOADSD11                      Rail Freight Carloads                                                                                                    SA   07-Dec-2022  Monthly
+RAILFRTINTERMODAL                       Rail Freight Intermodal Traffic                                                                                          NSA  07-Dec-2022  Monthly
+RAILFRTINTERMODALD11                    Rail Freight Intermodal Traffic                                                                                          SA   07-Dec-2022  Monthly
+RAILPM                                  Rail Passenger Miles                                                                                                     NSA  07-Dec-2022  Monthly
+RAILPMD11                               Rail Passenger Miles                                                                                                     SA   07-Dec-2022  Monthly
+RPM                                     Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                     NSA  07-Dec-2022  Monthly
+RPMD                                    Domestic Revenue Passenger Miles (RPMs), Scheduled Passenger Flights                                                     NSA  07-Dec-2022  Monthly
+RPMD11                                  Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights                     SA   07-Dec-2022  Monthly
+RPMDD11                                 Revenue Passenger Miles for U.S. Air Carrier Domestic, Scheduled Passenger Flights                                       SA   07-Dec-2022  Monthly
+RPMI                                    Revenue Passenger Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                  NSA  07-Dec-2022  Monthly
+RPMID11                                 Revenue Passenger Miles for U.S. Air Carrier International, Scheduled Passenger Flights                                  SA   07-Dec-2022  Monthly
+TRANSIT                                 Public Transit Ridership                                                                                                 NSA  07-Dec-2022  Monthly
+TRANSITD11                              Public Transit Ridership                                                                                                 SA   07-Dec-2022  Monthly
+TRUCKD11                                Truck Tonnage Index                                                                                                      SA   07-Dec-2022  Monthly
+TSIFRGHT                                Freight Transportation Services Index                                                                                    SA   07-Dec-2022  Monthly
+TSIFRGHTC                               Freight Transportation Services Index                                                                                    SA   07-Dec-2022  Monthly
+TSIPSNGR                                Passenger Transportation Services Index                                                                                  SA   07-Dec-2022  Monthly
+TSIPSNGRC                               Passenger Transportation Services Index                                                                                  SA   07-Dec-2022  Monthly
+TSITTL                                  Combined Transportation Services Index                                                                                   SA   07-Dec-2022  Monthly
+TSITTLC                                 Combined Transportation Services Index                                                                                   SA   07-Dec-2022  Monthly
+VMT                                     Vehicle Miles Traveled                                                                                                   NSA  07-Dec-2022  Monthly
+VMTD11                                  Vehicle Miles Traveled                                                                                                   SA   07-Dec-2022  Monthly
+WATERBORNE                              Tonnage for Internal U.S. Waterways                                                                                      NSA  07-Dec-2022  Monthly
+WATERBORNED11                           Tonnage for Internal U.S. Waterways                                                                                      SA   07-Dec-2022  Monthly

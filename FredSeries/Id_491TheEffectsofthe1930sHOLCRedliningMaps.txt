@@ -1,21 +1,21 @@
 Id : 491  The Effects of the 1930s HOLC "Redlining" Maps
-RLMSHAAHOLCNA                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood A                                                        NSA  10 Year    17-Jun-2021  
-RLMSHAAHOLCNB                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood B                                                        NSA  10 Year    17-Jun-2021  
-RLMSHAAHOLCNC                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood C                                                        NSA  10 Year    17-Jun-2021  
-RLMSHAAHOLCND                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood D                                                        NSA  10 Year    17-Jun-2021  
-RLMSHFBHOLCNA                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood A                                                             NSA  10 Year    17-Jun-2021  
-RLMSHFBHOLCNB                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood B                                                             NSA  10 Year    17-Jun-2021  
-RLMSHFBHOLCNC                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood C                                                             NSA  10 Year    17-Jun-2021  
-RLMSHFBHOLCND                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood D                                                             NSA  10 Year    17-Jun-2021  
-RLMSHHORHOLCNA                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood A                                                               NSA  10 Year    17-Jun-2021  
-RLMSHHORHOLCNB                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood B                                                               NSA  10 Year    17-Jun-2021  
-RLMSHHORHOLCNC                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood C                                                               NSA  10 Year    17-Jun-2021  
-RLMSHHORHOLCND                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood D                                                               NSA  10 Year    17-Jun-2021  
-RLMSHHVHOLCNA                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood A                                                                NSA  10 Year    17-Jun-2021  
-RLMSHHVHOLCNB                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood B                                                                NSA  10 Year    17-Jun-2021  
-RLMSHHVHOLCNC                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood C                                                                NSA  10 Year    17-Jun-2021  
-RLMSHHVHOLCND                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood D                                                                NSA  10 Year    17-Jun-2021  
-RLMSHRENTHOLCNA                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood A                                                             NSA  10 Year    17-Jun-2021  
-RLMSHRENTHOLCNB                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood B                                                             NSA  10 Year    17-Jun-2021  
-RLMSHRENTHOLCNC                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood C                                                             NSA  10 Year    17-Jun-2021  
-RLMSHRENTHOLCND                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood D                                                             NSA  10 Year    17-Jun-2021  
+RLMSHAAHOLCNA                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood A                                         NSA  17-Jun-2021  10 Year
+RLMSHAAHOLCNB                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood B                                         NSA  17-Jun-2021  10 Year
+RLMSHAAHOLCNC                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood C                                         NSA  17-Jun-2021  10 Year
+RLMSHAAHOLCND                           Share of African Americans in Home Owners Loan Corporation (HOLC) Neighborhood D                                         NSA  17-Jun-2021  10 Year
+RLMSHFBHOLCNA                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood A                                              NSA  17-Jun-2021  10 Year
+RLMSHFBHOLCNB                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood B                                              NSA  17-Jun-2021  10 Year
+RLMSHFBHOLCNC                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood C                                              NSA  17-Jun-2021  10 Year
+RLMSHFBHOLCND                           Share of Foreign Born in Home Owners Loan Corporation (HOLC) Neighborhood D                                              NSA  17-Jun-2021  10 Year
+RLMSHHORHOLCNA                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood A                                                NSA  17-Jun-2021  10 Year
+RLMSHHORHOLCNB                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood B                                                NSA  17-Jun-2021  10 Year
+RLMSHHORHOLCNC                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood C                                                NSA  17-Jun-2021  10 Year
+RLMSHHORHOLCND                          Home Ownership Rate in Home Owners Loan Corporation (HOLC) Neighborhood D                                                NSA  17-Jun-2021  10 Year
+RLMSHHVHOLCNA                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood A                                                 NSA  17-Jun-2021  10 Year
+RLMSHHVHOLCNB                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood B                                                 NSA  17-Jun-2021  10 Year
+RLMSHHVHOLCNC                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood C                                                 NSA  17-Jun-2021  10 Year
+RLMSHHVHOLCND                           Median Home Values in Home Owners Loan Corporation (HOLC) Neighborhood D                                                 NSA  17-Jun-2021  10 Year
+RLMSHRENTHOLCNA                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood A                                              NSA  17-Jun-2021  10 Year
+RLMSHRENTHOLCNB                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood B                                              NSA  17-Jun-2021  10 Year
+RLMSHRENTHOLCNC                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood C                                              NSA  17-Jun-2021  10 Year
+RLMSHRENTHOLCND                         Rent and Rental Costs in Home Owners Loan Corporation (HOLC) Neighborhood D                                              NSA  17-Jun-2021  10 Year

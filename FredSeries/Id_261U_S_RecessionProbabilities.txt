@@ -1,2 +1,2 @@
 Id : 261  U.S. Recession Probabilities
-RECPROUSM156N                           Smoothed U.S. Recession Probabilities                                                                                                   NSA  Monthly    01-Dec-2022  
+RECPROUSM156N                           Smoothed U.S. Recession Probabilities                                                                                    NSA  01-Dec-2022  Monthly

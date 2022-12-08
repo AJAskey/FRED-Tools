@@ -1,33 +1,33 @@
 Id : 138  BEA Regions Employment and Unemployment
-BEAFWLF                                 Civilian Labor Force in Far West BEA Region (DISCONTINUED)                                                                              SA   Monthly    26-Jan-2016  
-BEAFWLFN                                Civilian Labor Force in Far West BEA Region (DISCONTINUED)                                                                              NSA  Monthly    26-Jan-2016  
-BEAFWUR                                 Unemployment Rate in Far West BEA Region (DISCONTINUED)                                                                                 SA   Monthly    26-Jan-2016  
-BEAFWURN                                Unemployment Rate in Far West BEA Region (DISCONTINUED)                                                                                 NSA  Monthly    26-Jan-2016  
-BEAGLLF                                 Civilian Labor Force in Great Lakes BEA Region (DISCONTINUED)                                                                           SA   Monthly    26-Jan-2016  
-BEAGLLFN                                Civilian Labor Force in Great Lakes BEA Region (DISCONTINUED)                                                                           NSA  Monthly    26-Jan-2016  
-BEAGLUR                                 Unemployment Rate in Great Lakes BEA Region (DISCONTINUED)                                                                              SA   Monthly    26-Jan-2016  
-BEAGLURN                                Unemployment Rate in Great Lakes BEA Region (DISCONTINUED)                                                                              NSA  Monthly    26-Jan-2016  
-BEAMELF                                 Civilian Labor Force in Mideast BEA Region (DISCONTINUED)                                                                               SA   Monthly    26-Jan-2016  
-BEAMELFN                                Civilian Labor Force in Mideast BEA Region (DISCONTINUED)                                                                               NSA  Monthly    26-Jan-2016  
-BEAMEUR                                 Unemployment Rate in Mideast BEA Region (DISCONTINUED)                                                                                  SA   Monthly    26-Jan-2016  
-BEAMEURN                                Unemployment Rate in Mideast BEA Region (DISCONTINUED)                                                                                  NSA  Monthly    26-Jan-2016  
-BEANELF                                 Civilian Labor Force in New England BEA Region (DISCONTINUED)                                                                           SA   Monthly    26-Jan-2016  
-BEANELFN                                Civilian Labor Force in New England BEA Region (DISCONTINUED)                                                                           NSA  Monthly    26-Jan-2016  
-BEANEUR                                 Unemployment Rate in New England BEA Region (DISCONTINUED)                                                                              SA   Monthly    26-Jan-2016  
-BEANEURN                                Unemployment Rate in New England BEA Region (DISCONTINUED)                                                                              NSA  Monthly    26-Jan-2016  
-BEAPLLF                                 Civilian Labor Force in Plains BEA Region (DISCONTINUED)                                                                                SA   Monthly    26-Jan-2016  
-BEAPLLFN                                Civilian Labor Force in Plains BEA Region (DISCONTINUED)                                                                                NSA  Monthly    26-Jan-2016  
-BEAPLUR                                 Unemployment Rate in Plains BEA Region (DISCONTINUED)                                                                                   SA   Monthly    26-Jan-2016  
-BEAPLURN                                Unemployment Rate in Plains BEA Region (DISCONTINUED)                                                                                   NSA  Monthly    26-Jan-2016  
-BEARMLF                                 Civilian Labor Force in Rocky Mountain BEA Region (DISCONTINUED)                                                                        SA   Monthly    26-Jan-2016  
-BEARMLFN                                Civilian Labor Force in Rocky Mountain BEA Region (DISCONTINUED)                                                                        NSA  Monthly    26-Jan-2016  
-BEARMUR                                 Unemployment Rate in Rocky Mountain BEA Region (DISCONTINUED)                                                                           SA   Monthly    26-Jan-2016  
-BEARMURN                                Unemployment Rate in Rocky Mountain BEA Region (DISCONTINUED)                                                                           NSA  Monthly    26-Jan-2016  
-BEASELF                                 Civilian Labor Force in Southeast BEA Region (DISCONTINUED)                                                                             SA   Monthly    26-Jan-2016  
-BEASELFN                                Civilian Labor Force in Southeast BEA Region (DISCONTINUED)                                                                             NSA  Monthly    26-Jan-2016  
-BEASEUR                                 Unemployment Rate in Southeast BEA Region (DISCONTINUED)                                                                                SA   Monthly    26-Jan-2016  
-BEASEURN                                Unemployment Rate in Southeast BEA Region (DISCONTINUED)                                                                                NSA  Monthly    26-Jan-2016  
-BEASWLF                                 Civilian Labor Force in Southwest BEA Region (DISCONTINUED)                                                                             SA   Monthly    26-Jan-2016  
-BEASWLFN                                Civilian Labor Force in Southwest BEA Region (DISCONTINUED)                                                                             NSA  Monthly    26-Jan-2016  
-BEASWUR                                 Unemployment Rate in Southwest BEA Region (DISCONTINUED)                                                                                SA   Monthly    26-Jan-2016  
-BEASWURN                                Unemployment Rate in Southwest BEA Region (DISCONTINUED)                                                                                NSA  Monthly    26-Jan-2016  
+BEAFWLF                                 Civilian Labor Force in Far West BEA Region (DISCONTINUED)                                                               SA   26-Jan-2016  Monthly
+BEAFWLFN                                Civilian Labor Force in Far West BEA Region (DISCONTINUED)                                                               NSA  26-Jan-2016  Monthly
+BEAFWUR                                 Unemployment Rate in Far West BEA Region (DISCONTINUED)                                                                  SA   26-Jan-2016  Monthly
+BEAFWURN                                Unemployment Rate in Far West BEA Region (DISCONTINUED)                                                                  NSA  26-Jan-2016  Monthly
+BEAGLLF                                 Civilian Labor Force in Great Lakes BEA Region (DISCONTINUED)                                                            SA   26-Jan-2016  Monthly
+BEAGLLFN                                Civilian Labor Force in Great Lakes BEA Region (DISCONTINUED)                                                            NSA  26-Jan-2016  Monthly
+BEAGLUR                                 Unemployment Rate in Great Lakes BEA Region (DISCONTINUED)                                                               SA   26-Jan-2016  Monthly
+BEAGLURN                                Unemployment Rate in Great Lakes BEA Region (DISCONTINUED)                                                               NSA  26-Jan-2016  Monthly
+BEAMELF                                 Civilian Labor Force in Mideast BEA Region (DISCONTINUED)                                                                SA   26-Jan-2016  Monthly
+BEAMELFN                                Civilian Labor Force in Mideast BEA Region (DISCONTINUED)                                                                NSA  26-Jan-2016  Monthly
+BEAMEUR                                 Unemployment Rate in Mideast BEA Region (DISCONTINUED)                                                                   SA   26-Jan-2016  Monthly
+BEAMEURN                                Unemployment Rate in Mideast BEA Region (DISCONTINUED)                                                                   NSA  26-Jan-2016  Monthly
+BEANELF                                 Civilian Labor Force in New England BEA Region (DISCONTINUED)                                                            SA   26-Jan-2016  Monthly
+BEANELFN                                Civilian Labor Force in New England BEA Region (DISCONTINUED)                                                            NSA  26-Jan-2016  Monthly
+BEANEUR                                 Unemployment Rate in New England BEA Region (DISCONTINUED)                                                               SA   26-Jan-2016  Monthly
+BEANEURN                                Unemployment Rate in New England BEA Region (DISCONTINUED)                                                               NSA  26-Jan-2016  Monthly
+BEAPLLF                                 Civilian Labor Force in Plains BEA Region (DISCONTINUED)                                                                 SA   26-Jan-2016  Monthly
+BEAPLLFN                                Civilian Labor Force in Plains BEA Region (DISCONTINUED)                                                                 NSA  26-Jan-2016  Monthly
+BEAPLUR                                 Unemployment Rate in Plains BEA Region (DISCONTINUED)                                                                    SA   26-Jan-2016  Monthly
+BEAPLURN                                Unemployment Rate in Plains BEA Region (DISCONTINUED)                                                                    NSA  26-Jan-2016  Monthly
+BEARMLF                                 Civilian Labor Force in Rocky Mountain BEA Region (DISCONTINUED)                                                         SA   26-Jan-2016  Monthly
+BEARMLFN                                Civilian Labor Force in Rocky Mountain BEA Region (DISCONTINUED)                                                         NSA  26-Jan-2016  Monthly
+BEARMUR                                 Unemployment Rate in Rocky Mountain BEA Region (DISCONTINUED)                                                            SA   26-Jan-2016  Monthly
+BEARMURN                                Unemployment Rate in Rocky Mountain BEA Region (DISCONTINUED)                                                            NSA  26-Jan-2016  Monthly
+BEASELF                                 Civilian Labor Force in Southeast BEA Region (DISCONTINUED)                                                              SA   26-Jan-2016  Monthly
+BEASELFN                                Civilian Labor Force in Southeast BEA Region (DISCONTINUED)                                                              NSA  26-Jan-2016  Monthly
+BEASEUR                                 Unemployment Rate in Southeast BEA Region (DISCONTINUED)                                                                 SA   26-Jan-2016  Monthly
+BEASEURN                                Unemployment Rate in Southeast BEA Region (DISCONTINUED)                                                                 NSA  26-Jan-2016  Monthly
+BEASWLF                                 Civilian Labor Force in Southwest BEA Region (DISCONTINUED)                                                              SA   26-Jan-2016  Monthly
+BEASWLFN                                Civilian Labor Force in Southwest BEA Region (DISCONTINUED)                                                              NSA  26-Jan-2016  Monthly
+BEASWUR                                 Unemployment Rate in Southwest BEA Region (DISCONTINUED)                                                                 SA   26-Jan-2016  Monthly
+BEASWURN                                Unemployment Rate in Southwest BEA Region (DISCONTINUED)                                                                 NSA  26-Jan-2016  Monthly

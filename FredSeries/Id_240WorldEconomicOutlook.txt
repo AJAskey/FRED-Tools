@@ -1,100 +1,100 @@
 Id : 240  World Economic Outlook
-GGGDTAARA188N                           General government gross debt for Argentina                                                                                             NSA  Annual     14-Oct-2022  
-GGGDTAAUA188N                           General government gross debt for Australia                                                                                             NSA  Annual     14-Oct-2022  
-GGGDTABRA188N                           General government gross debt for Brazil                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTACAA188N                           General government gross debt for Canada                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTACNA188N                           General government gross debt for China                                                                                                 NSA  Annual     19-Apr-2022  
-GGGDTADEA188N                           General government gross debt for Germany                                                                                               NSA  Annual     14-Oct-2022  
-GGGDTAESA188N                           General government gross debt for Spain                                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTAEZA188N                           General government gross debt for Euro Area                                                                                             NSA  Annual     16-Nov-2011  
-GGGDTAFRA188N                           General government gross debt for France                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTAGBA188N                           General government gross debt for United Kingdom                                                                                        NSA  Annual     19-Apr-2022  
-GGGDTAGRC188N                           General government gross debt for Greece                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTAIDA188N                           General government gross debt for Indonesia                                                                                             NSA  Annual     14-Oct-2022  
-GGGDTAINA188N                           General government gross debt for India                                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTAIRA188N                           General government gross debt for Islamic Republic of Iran                                                                              NSA  Annual     14-Oct-2022  
-GGGDTAIRL188N                           General government gross debt for Ireland                                                                                               NSA  Annual     14-Oct-2022  
-GGGDTAITA188N                           General government gross debt for Italy                                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTAJPA188N                           General government gross debt for Japan                                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTAKRA188N                           General government gross debt for Korea                                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTAMXA188N                           General government gross debt for Mexico                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTAPLA188N                           General government gross debt for Poland                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTAPRT188N                           General government gross debt for Portugal                                                                                              NSA  Annual     14-Oct-2022  
-GGGDTARUA188N                           General government gross debt for Russia                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTASAA188N                           General government gross debt for Saudi Arabia                                                                                          NSA  Annual     14-Oct-2022  
-GGGDTATRA188N                           General government gross debt for Turkey                                                                                                NSA  Annual     14-Oct-2022  
-GGGDTATWA188N                           General government gross debt for Taiwan Province of China                                                                              NSA  Annual     14-Oct-2022  
-GGGDTAUSA188N                           General government gross debt for United States                                                                                         NSA  Annual     14-Oct-2022  
-GGGDTAZAA188N                           General government gross debt for South Africa                                                                                          NSA  Annual     14-Oct-2022  
-GGGDTPARA188N                           Projection of General government gross debt for Argentina                                                                               NSA  Annual     14-Oct-2022  
-GGGDTPAUA188N                           Projection of General government gross debt for Australia                                                                               NSA  Annual     14-Oct-2022  
-GGGDTPBRA188N                           Projection of General government gross debt for Brazil                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPCAA188N                           Projection of General government gross debt for Canada                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPCNA188N                           Projection of General government gross debt for China                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPDEA188N                           Projection of General government gross debt for Germany                                                                                 NSA  Annual     14-Oct-2022  
-GGGDTPESA188N                           Projection of General government gross debt for Spain                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPEZA188N                           Projection of General government gross debt for Euro Area                                                                               NSA  Annual     16-Nov-2011  
-GGGDTPFRA188N                           Projection of General government gross debt for France                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPGBA188N                           Projection of General government gross debt for United Kingdom                                                                          NSA  Annual     14-Oct-2022  
-GGGDTPIDA188N                           Projection of General government gross debt for Indonesia                                                                               NSA  Annual     14-Oct-2022  
-GGGDTPINA188N                           Projection of General government gross debt for India                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPIRA188N                           Projection of General government gross debt for Islamic Republic of Iran                                                                NSA  Annual     14-Oct-2022  
-GGGDTPITA188N                           Projection of General government gross debt for Italy                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPJPA188N                           Projection of General government gross debt for Japan                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPKRA188N                           Projection of General government gross debt for Korea                                                                                   NSA  Annual     14-Oct-2022  
-GGGDTPMXA188N                           Projection of General government gross debt for Mexico                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPPLA188N                           Projection of General government gross debt for Poland                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPRUA188N                           Projection of General government gross debt for Russia                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPSAA188N                           Projection of General government gross debt for Saudi Arabia                                                                            NSA  Annual     14-Oct-2022  
-GGGDTPTRA188N                           Projection of General government gross debt for Turkey                                                                                  NSA  Annual     14-Oct-2022  
-GGGDTPTWA188N                           Projection of General government gross debt for Taiwan Province of China                                                                NSA  Annual     14-Oct-2022  
-GGGDTPUSA188N                           Projection of General government gross debt for United States                                                                           NSA  Annual     14-Oct-2022  
-GGGDTPZAA188N                           Projection of General government gross debt for South Africa                                                                            NSA  Annual     14-Oct-2022  
-GGNLBAARA188N                           General government net lending/borrowing for Argentina                                                                                  NSA  Annual     14-Oct-2022  
-GGNLBAAUA188N                           General government net lending/borrowing for Australia                                                                                  NSA  Annual     14-Oct-2022  
-GGNLBABRA188N                           General government net lending/borrowing for Brazil                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBACAA188N                           General government net lending/borrowing for Canada                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBACNA188N                           General government net lending/borrowing for China                                                                                      NSA  Annual     14-Oct-2022  
-GGNLBADEA188N                           General government net lending/borrowing for Germany                                                                                    NSA  Annual     14-Oct-2022  
-GGNLBAESA188N                           General government net lending/borrowing for Spain                                                                                      NSA  Annual     14-Oct-2022  
-GGNLBAEZA188N                           General government net lending/borrowing for Euro Area                                                                                  NSA  Annual     16-Nov-2011  
-GGNLBAFRA188N                           General government net lending/borrowing for France                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBAGBA188N                           General government net lending/borrowing for United Kingdom                                                                             NSA  Annual     19-Apr-2022  
-GGNLBAIDA188N                           General government net lending/borrowing for Indonesia                                                                                  NSA  Annual     14-Oct-2022  
-GGNLBAINA188N                           General government net lending/borrowing for India                                                                                      NSA  Annual     19-Apr-2022  
-GGNLBAIRA188N                           General government net lending/borrowing for Islamic Republic of Iran                                                                   NSA  Annual     14-Oct-2022  
-GGNLBAITA188N                           General government net lending/borrowing for Italy                                                                                      NSA  Annual     14-Oct-2022  
-GGNLBAJPA188N                           General government net lending/borrowing for Japan                                                                                      NSA  Annual     14-Oct-2022  
-GGNLBAKRA188N                           General government net lending/borrowing for Korea                                                                                      NSA  Annual     14-Oct-2022  
-GGNLBAMXA188N                           General government net lending/borrowing for Mexico                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBAPLA188N                           General government net lending/borrowing for Poland                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBARUA188N                           General government net lending/borrowing for Russia                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBASAA188N                           General government net lending/borrowing for Saudi Arabia                                                                               NSA  Annual     14-Oct-2022  
-GGNLBATRA188N                           General government net lending/borrowing for Turkey                                                                                     NSA  Annual     14-Oct-2022  
-GGNLBATWA188N                           General government net lending/borrowing for Taiwan Province of China                                                                   NSA  Annual     14-Oct-2022  
-GGNLBAUSA188N                           General government net lending/borrowing for United States                                                                              NSA  Annual     14-Oct-2022  
-GGNLBAZAA188N                           General government net lending/borrowing for South Africa                                                                               NSA  Annual     14-Oct-2022  
-GGNLBPARA188N                           Projection of General government net lending/borrowing for Argentina                                                                    NSA  Annual     14-Oct-2022  
-GGNLBPAUA188N                           Projection of General government net lending/borrowing for Australia                                                                    NSA  Annual     14-Oct-2022  
-GGNLBPBRA188N                           Projection of General government net lending/borrowing for Brazil                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPCAA188N                           Projection of General government net lending/borrowing for Canada                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPCNA188N                           Projection of General government net lending/borrowing for China                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPDEA188N                           Projection of General government net lending/borrowing for Germany                                                                      NSA  Annual     14-Oct-2022  
-GGNLBPESA188N                           Projection of General government net lending/borrowing for Spain                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPEZA188N                           Projection of General government net lending/borrowing for Euro Area                                                                    NSA  Annual     16-Nov-2011  
-GGNLBPFRA188N                           Projection of General government net lending/borrowing for France                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPGBA188N                           Projection of General government net lending/borrowing for United Kingdom                                                               NSA  Annual     14-Oct-2022  
-GGNLBPIDA188N                           Projection of General government net lending/borrowing for Indonesia                                                                    NSA  Annual     14-Oct-2022  
-GGNLBPINA188N                           Projection of General government net lending/borrowing for India                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPIRA188N                           Projection of General government net lending/borrowing for Islamic Republic of Iran                                                     NSA  Annual     14-Oct-2022  
-GGNLBPITA188N                           Projection of General government net lending/borrowing for Italy                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPJPA188N                           Projection of General government net lending/borrowing for Japan                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPKRA188N                           Projection of General government net lending/borrowing for Korea                                                                        NSA  Annual     14-Oct-2022  
-GGNLBPMXA188N                           Projection of General government net lending/borrowing for Mexico                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPPLA188N                           Projection of General government net lending/borrowing for Poland                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPRUA188N                           Projection of General government net lending/borrowing for Russia                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPSAA188N                           Projection of General government net lending/borrowing for Saudi Arabia                                                                 NSA  Annual     14-Oct-2022  
-GGNLBPTRA188N                           Projection of General government net lending/borrowing for Turkey                                                                       NSA  Annual     14-Oct-2022  
-GGNLBPTWA188N                           Projection of General government net lending/borrowing for Taiwan Province of China                                                     NSA  Annual     14-Oct-2022  
-GGNLBPUSA188N                           Projection of General government net lending/borrowing for United States                                                                NSA  Annual     14-Oct-2022  
-GGNLBPZAA188N                           Projection of General government net lending/borrowing for South Africa                                                                 NSA  Annual     14-Oct-2022  
+GGGDTAARA188N                           General government gross debt for Argentina                                                                              NSA  14-Oct-2022  Annual
+GGGDTAAUA188N                           General government gross debt for Australia                                                                              NSA  14-Oct-2022  Annual
+GGGDTABRA188N                           General government gross debt for Brazil                                                                                 NSA  14-Oct-2022  Annual
+GGGDTACAA188N                           General government gross debt for Canada                                                                                 NSA  14-Oct-2022  Annual
+GGGDTACNA188N                           General government gross debt for China                                                                                  NSA  19-Apr-2022  Annual
+GGGDTADEA188N                           General government gross debt for Germany                                                                                NSA  14-Oct-2022  Annual
+GGGDTAESA188N                           General government gross debt for Spain                                                                                  NSA  14-Oct-2022  Annual
+GGGDTAEZA188N                           General government gross debt for Euro Area                                                                              NSA  16-Nov-2011  Annual
+GGGDTAFRA188N                           General government gross debt for France                                                                                 NSA  14-Oct-2022  Annual
+GGGDTAGBA188N                           General government gross debt for United Kingdom                                                                         NSA  19-Apr-2022  Annual
+GGGDTAGRC188N                           General government gross debt for Greece                                                                                 NSA  14-Oct-2022  Annual
+GGGDTAIDA188N                           General government gross debt for Indonesia                                                                              NSA  14-Oct-2022  Annual
+GGGDTAINA188N                           General government gross debt for India                                                                                  NSA  14-Oct-2022  Annual
+GGGDTAIRA188N                           General government gross debt for Islamic Republic of Iran                                                               NSA  14-Oct-2022  Annual
+GGGDTAIRL188N                           General government gross debt for Ireland                                                                                NSA  14-Oct-2022  Annual
+GGGDTAITA188N                           General government gross debt for Italy                                                                                  NSA  14-Oct-2022  Annual
+GGGDTAJPA188N                           General government gross debt for Japan                                                                                  NSA  14-Oct-2022  Annual
+GGGDTAKRA188N                           General government gross debt for Korea                                                                                  NSA  14-Oct-2022  Annual
+GGGDTAMXA188N                           General government gross debt for Mexico                                                                                 NSA  14-Oct-2022  Annual
+GGGDTAPLA188N                           General government gross debt for Poland                                                                                 NSA  14-Oct-2022  Annual
+GGGDTAPRT188N                           General government gross debt for Portugal                                                                               NSA  14-Oct-2022  Annual
+GGGDTARUA188N                           General government gross debt for Russia                                                                                 NSA  14-Oct-2022  Annual
+GGGDTASAA188N                           General government gross debt for Saudi Arabia                                                                           NSA  14-Oct-2022  Annual
+GGGDTATRA188N                           General government gross debt for Turkey                                                                                 NSA  14-Oct-2022  Annual
+GGGDTATWA188N                           General government gross debt for Taiwan Province of China                                                               NSA  14-Oct-2022  Annual
+GGGDTAUSA188N                           General government gross debt for United States                                                                          NSA  14-Oct-2022  Annual
+GGGDTAZAA188N                           General government gross debt for South Africa                                                                           NSA  14-Oct-2022  Annual
+GGGDTPARA188N                           Projection of General government gross debt for Argentina                                                                NSA  14-Oct-2022  Annual
+GGGDTPAUA188N                           Projection of General government gross debt for Australia                                                                NSA  14-Oct-2022  Annual
+GGGDTPBRA188N                           Projection of General government gross debt for Brazil                                                                   NSA  14-Oct-2022  Annual
+GGGDTPCAA188N                           Projection of General government gross debt for Canada                                                                   NSA  14-Oct-2022  Annual
+GGGDTPCNA188N                           Projection of General government gross debt for China                                                                    NSA  14-Oct-2022  Annual
+GGGDTPDEA188N                           Projection of General government gross debt for Germany                                                                  NSA  14-Oct-2022  Annual
+GGGDTPESA188N                           Projection of General government gross debt for Spain                                                                    NSA  14-Oct-2022  Annual
+GGGDTPEZA188N                           Projection of General government gross debt for Euro Area                                                                NSA  16-Nov-2011  Annual
+GGGDTPFRA188N                           Projection of General government gross debt for France                                                                   NSA  14-Oct-2022  Annual
+GGGDTPGBA188N                           Projection of General government gross debt for United Kingdom                                                           NSA  14-Oct-2022  Annual
+GGGDTPIDA188N                           Projection of General government gross debt for Indonesia                                                                NSA  14-Oct-2022  Annual
+GGGDTPINA188N                           Projection of General government gross debt for India                                                                    NSA  14-Oct-2022  Annual
+GGGDTPIRA188N                           Projection of General government gross debt for Islamic Republic of Iran                                                 NSA  14-Oct-2022  Annual
+GGGDTPITA188N                           Projection of General government gross debt for Italy                                                                    NSA  14-Oct-2022  Annual
+GGGDTPJPA188N                           Projection of General government gross debt for Japan                                                                    NSA  14-Oct-2022  Annual
+GGGDTPKRA188N                           Projection of General government gross debt for Korea                                                                    NSA  14-Oct-2022  Annual
+GGGDTPMXA188N                           Projection of General government gross debt for Mexico                                                                   NSA  14-Oct-2022  Annual
+GGGDTPPLA188N                           Projection of General government gross debt for Poland                                                                   NSA  14-Oct-2022  Annual
+GGGDTPRUA188N                           Projection of General government gross debt for Russia                                                                   NSA  14-Oct-2022  Annual
+GGGDTPSAA188N                           Projection of General government gross debt for Saudi Arabia                                                             NSA  14-Oct-2022  Annual
+GGGDTPTRA188N                           Projection of General government gross debt for Turkey                                                                   NSA  14-Oct-2022  Annual
+GGGDTPTWA188N                           Projection of General government gross debt for Taiwan Province of China                                                 NSA  14-Oct-2022  Annual
+GGGDTPUSA188N                           Projection of General government gross debt for United States                                                            NSA  14-Oct-2022  Annual
+GGGDTPZAA188N                           Projection of General government gross debt for South Africa                                                             NSA  14-Oct-2022  Annual
+GGNLBAARA188N                           General government net lending/borrowing for Argentina                                                                   NSA  14-Oct-2022  Annual
+GGNLBAAUA188N                           General government net lending/borrowing for Australia                                                                   NSA  14-Oct-2022  Annual
+GGNLBABRA188N                           General government net lending/borrowing for Brazil                                                                      NSA  14-Oct-2022  Annual
+GGNLBACAA188N                           General government net lending/borrowing for Canada                                                                      NSA  14-Oct-2022  Annual
+GGNLBACNA188N                           General government net lending/borrowing for China                                                                       NSA  14-Oct-2022  Annual
+GGNLBADEA188N                           General government net lending/borrowing for Germany                                                                     NSA  14-Oct-2022  Annual
+GGNLBAESA188N                           General government net lending/borrowing for Spain                                                                       NSA  14-Oct-2022  Annual
+GGNLBAEZA188N                           General government net lending/borrowing for Euro Area                                                                   NSA  16-Nov-2011  Annual
+GGNLBAFRA188N                           General government net lending/borrowing for France                                                                      NSA  14-Oct-2022  Annual
+GGNLBAGBA188N                           General government net lending/borrowing for United Kingdom                                                              NSA  19-Apr-2022  Annual
+GGNLBAIDA188N                           General government net lending/borrowing for Indonesia                                                                   NSA  14-Oct-2022  Annual
+GGNLBAINA188N                           General government net lending/borrowing for India                                                                       NSA  19-Apr-2022  Annual
+GGNLBAIRA188N                           General government net lending/borrowing for Islamic Republic of Iran                                                    NSA  14-Oct-2022  Annual
+GGNLBAITA188N                           General government net lending/borrowing for Italy                                                                       NSA  14-Oct-2022  Annual
+GGNLBAJPA188N                           General government net lending/borrowing for Japan                                                                       NSA  14-Oct-2022  Annual
+GGNLBAKRA188N                           General government net lending/borrowing for Korea                                                                       NSA  14-Oct-2022  Annual
+GGNLBAMXA188N                           General government net lending/borrowing for Mexico                                                                      NSA  14-Oct-2022  Annual
+GGNLBAPLA188N                           General government net lending/borrowing for Poland                                                                      NSA  14-Oct-2022  Annual
+GGNLBARUA188N                           General government net lending/borrowing for Russia                                                                      NSA  14-Oct-2022  Annual
+GGNLBASAA188N                           General government net lending/borrowing for Saudi Arabia                                                                NSA  14-Oct-2022  Annual
+GGNLBATRA188N                           General government net lending/borrowing for Turkey                                                                      NSA  14-Oct-2022  Annual
+GGNLBATWA188N                           General government net lending/borrowing for Taiwan Province of China                                                    NSA  14-Oct-2022  Annual
+GGNLBAUSA188N                           General government net lending/borrowing for United States                                                               NSA  14-Oct-2022  Annual
+GGNLBAZAA188N                           General government net lending/borrowing for South Africa                                                                NSA  14-Oct-2022  Annual
+GGNLBPARA188N                           Projection of General government net lending/borrowing for Argentina                                                     NSA  14-Oct-2022  Annual
+GGNLBPAUA188N                           Projection of General government net lending/borrowing for Australia                                                     NSA  14-Oct-2022  Annual
+GGNLBPBRA188N                           Projection of General government net lending/borrowing for Brazil                                                        NSA  14-Oct-2022  Annual
+GGNLBPCAA188N                           Projection of General government net lending/borrowing for Canada                                                        NSA  14-Oct-2022  Annual
+GGNLBPCNA188N                           Projection of General government net lending/borrowing for China                                                         NSA  14-Oct-2022  Annual
+GGNLBPDEA188N                           Projection of General government net lending/borrowing for Germany                                                       NSA  14-Oct-2022  Annual
+GGNLBPESA188N                           Projection of General government net lending/borrowing for Spain                                                         NSA  14-Oct-2022  Annual
+GGNLBPEZA188N                           Projection of General government net lending/borrowing for Euro Area                                                     NSA  16-Nov-2011  Annual
+GGNLBPFRA188N                           Projection of General government net lending/borrowing for France                                                        NSA  14-Oct-2022  Annual
+GGNLBPGBA188N                           Projection of General government net lending/borrowing for United Kingdom                                                NSA  14-Oct-2022  Annual
+GGNLBPIDA188N                           Projection of General government net lending/borrowing for Indonesia                                                     NSA  14-Oct-2022  Annual
+GGNLBPINA188N                           Projection of General government net lending/borrowing for India                                                         NSA  14-Oct-2022  Annual
+GGNLBPIRA188N                           Projection of General government net lending/borrowing for Islamic Republic of Iran                                      NSA  14-Oct-2022  Annual
+GGNLBPITA188N                           Projection of General government net lending/borrowing for Italy                                                         NSA  14-Oct-2022  Annual
+GGNLBPJPA188N                           Projection of General government net lending/borrowing for Japan                                                         NSA  14-Oct-2022  Annual
+GGNLBPKRA188N                           Projection of General government net lending/borrowing for Korea                                                         NSA  14-Oct-2022  Annual
+GGNLBPMXA188N                           Projection of General government net lending/borrowing for Mexico                                                        NSA  14-Oct-2022  Annual
+GGNLBPPLA188N                           Projection of General government net lending/borrowing for Poland                                                        NSA  14-Oct-2022  Annual
+GGNLBPRUA188N                           Projection of General government net lending/borrowing for Russia                                                        NSA  14-Oct-2022  Annual
+GGNLBPSAA188N                           Projection of General government net lending/borrowing for Saudi Arabia                                                  NSA  14-Oct-2022  Annual
+GGNLBPTRA188N                           Projection of General government net lending/borrowing for Turkey                                                        NSA  14-Oct-2022  Annual
+GGNLBPTWA188N                           Projection of General government net lending/borrowing for Taiwan Province of China                                      NSA  14-Oct-2022  Annual
+GGNLBPUSA188N                           Projection of General government net lending/borrowing for United States                                                 NSA  14-Oct-2022  Annual
+GGNLBPZAA188N                           Projection of General government net lending/borrowing for South Africa                                                  NSA  14-Oct-2022  Annual

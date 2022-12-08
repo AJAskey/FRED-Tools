@@ -1,190 +1,190 @@
 Id : 365  Primary Commodity Prices
-PALLFNFINDEXA                           Global Price Index of All Commodities                                                                                                   NSA  Annual     23-Nov-2022  
-PALLFNFINDEXM                           Global Price Index of All Commodities                                                                                                   NSA  Monthly    23-Nov-2022  
-PALLFNFINDEXQ                           Global Price Index of All Commodities                                                                                                   NSA  Quarterly  23-Nov-2022  
-PALUMUSDA                               Global price of Aluminum                                                                                                                NSA  Annual     24-Aug-2022  
-PALUMUSDM                               Global price of Aluminum                                                                                                                NSA  Monthly    23-Nov-2022  
-PALUMUSDQ                               Global price of Aluminum                                                                                                                NSA  Quarterly  04-Nov-2022  
-PBANSOPUSDA                             Global price of Bananas                                                                                                                 NSA  Annual     24-Aug-2022  
-PBANSOPUSDM                             Global price of Bananas                                                                                                                 NSA  Monthly    23-Nov-2022  
-PBANSOPUSDQ                             Global price of Bananas                                                                                                                 NSA  Quarterly  04-Nov-2022  
-PBARLUSDA                               Global price of Barley                                                                                                                  NSA  Annual     24-Aug-2022  
-PBARLUSDM                               Global price of Barley                                                                                                                  NSA  Monthly    23-Nov-2022  
-PBARLUSDQ                               Global price of Barley                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PBEEFUSDA                               Global price of Beef                                                                                                                    NSA  Annual     24-Aug-2022  
-PBEEFUSDM                               Global price of Beef                                                                                                                    NSA  Monthly    23-Nov-2022  
-PBEEFUSDQ                               Global price of Beef                                                                                                                    NSA  Quarterly  04-Nov-2022  
-PBEVEINDEXA                             Global price of Beverages index                                                                                                         NSA  Annual     24-Aug-2022  
-PBEVEINDEXM                             Global price of Beverages index                                                                                                         NSA  Monthly    23-Nov-2022  
-PBEVEINDEXQ                             Global price of Beverages index                                                                                                         NSA  Quarterly  04-Nov-2022  
-PCOALAUUSDA                             Global price of Coal, Australia                                                                                                         NSA  Annual     24-Aug-2022  
-PCOALAUUSDM                             Global price of Coal, Australia                                                                                                         NSA  Monthly    23-Nov-2022  
-PCOALAUUSDQ                             Global price of Coal, Australia                                                                                                         NSA  Quarterly  04-Nov-2022  
-PCOCOUSDA                               Global price of Cocoa                                                                                                                   NSA  Annual     24-Aug-2022  
-PCOCOUSDM                               Global price of Cocoa                                                                                                                   NSA  Monthly    23-Nov-2022  
-PCOCOUSDQ                               Global price of Cocoa                                                                                                                   NSA  Quarterly  04-Nov-2022  
-PCOFFOTMUSDA                            Global price of Coffee, Other Mild Arabica                                                                                              NSA  Annual     24-Aug-2022  
-PCOFFOTMUSDM                            Global price of Coffee, Other Mild Arabica                                                                                              NSA  Monthly    23-Nov-2022  
-PCOFFOTMUSDQ                            Global price of Coffee, Other Mild Arabica                                                                                              NSA  Quarterly  04-Nov-2022  
-PCOFFROBUSDA                            Global price of Coffee, Robustas                                                                                                        NSA  Annual     24-Aug-2022  
-PCOFFROBUSDM                            Global price of Coffee, Robustas                                                                                                        NSA  Monthly    23-Nov-2022  
-PCOFFROBUSDQ                            Global price of Coffee, Robustas                                                                                                        NSA  Quarterly  04-Nov-2022  
-PCOPPUSDA                               Global price of Copper                                                                                                                  NSA  Annual     24-Aug-2022  
-PCOPPUSDM                               Global price of Copper                                                                                                                  NSA  Monthly    23-Nov-2022  
-PCOPPUSDQ                               Global price of Copper                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PCOTTINDUSDA                            Global price of Cotton                                                                                                                  NSA  Annual     24-Aug-2022  
-PCOTTINDUSDM                            Global price of Cotton                                                                                                                  NSA  Monthly    23-Nov-2022  
-PCOTTINDUSDQ                            Global price of Cotton                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PFANDBINDEXA                            Global price of Food and beverage index                                                                                                 NSA  Annual     24-Aug-2022  
-PFANDBINDEXM                            Global price of Food and beverage index                                                                                                 NSA  Monthly    23-Nov-2022  
-PFANDBINDEXQ                            Global price of Food and beverage index                                                                                                 NSA  Quarterly  23-Nov-2022  
-PFISHUSDA                               Global price of Fish Meal                                                                                                               NSA  Annual     24-Aug-2022  
-PFISHUSDM                               Global price of Fish Meal                                                                                                               NSA  Monthly    23-Nov-2022  
-PFISHUSDQ                               Global price of Fish Meal                                                                                                               NSA  Quarterly  04-Nov-2022  
-PFOODINDEXA                             Global price of Food index                                                                                                              NSA  Annual     24-Aug-2022  
-PFOODINDEXM                             Global price of Food index                                                                                                              NSA  Monthly    23-Nov-2022  
-PFOODINDEXQ                             Global price of Food index                                                                                                              NSA  Quarterly  23-Nov-2022  
-PGNUTSUSDA                              Global price of Groundnuts                                                                                                              NSA  Annual     24-Aug-2022  
-PGNUTSUSDM                              Global price of Groundnuts                                                                                                              NSA  Monthly    23-Nov-2022  
-PGNUTSUSDQ                              Global price of Groundnuts                                                                                                              NSA  Quarterly  23-Nov-2022  
-PHIDEUSDA                               Global price of Hides                                                                                                                   NSA  Annual     24-Aug-2022  
-PHIDEUSDM                               Global price of Hides                                                                                                                   NSA  Monthly    23-Nov-2022  
-PHIDEUSDQ                               Global price of Hides                                                                                                                   NSA  Quarterly  04-Nov-2022  
-PINDUINDEXA                             Global price of Industrial Materials index                                                                                              NSA  Annual     29-Sep-2022  
-PINDUINDEXM                             Global price of Industrial Materials index                                                                                              NSA  Monthly    23-Nov-2022  
-PINDUINDEXQ                             Global price of Industrial Materials index                                                                                              NSA  Quarterly  23-Nov-2022  
-PIORECRUSDA                             Global price of Iron Ore                                                                                                                NSA  Annual     24-Aug-2022  
-PIORECRUSDM                             Global price of Iron Ore                                                                                                                NSA  Monthly    23-Nov-2022  
-PIORECRUSDQ                             Global price of Iron Ore                                                                                                                NSA  Quarterly  04-Nov-2022  
-PLAMBUSDA                               Global price of Lamb                                                                                                                    NSA  Annual     24-Aug-2022  
-PLAMBUSDM                               Global price of Lamb                                                                                                                    NSA  Monthly    23-Nov-2022  
-PLAMBUSDQ                               Global price of Lamb                                                                                                                    NSA  Quarterly  04-Nov-2022  
-PLEADUSDA                               Global price of Lead                                                                                                                    NSA  Annual     24-Aug-2022  
-PLEADUSDM                               Global price of Lead                                                                                                                    NSA  Monthly    23-Nov-2022  
-PLEADUSDQ                               Global price of Lead                                                                                                                    NSA  Quarterly  04-Nov-2022  
-PLOGOREUSDA                             Global price of Soft Logs                                                                                                               NSA  Annual     29-Sep-2022  
-PLOGOREUSDM                             Global price of Soft Logs                                                                                                               NSA  Monthly    23-Nov-2022  
-PLOGOREUSDQ                             Global price of Soft Logs                                                                                                               NSA  Quarterly  23-Nov-2022  
-PLOGSKUSDA                              Global price of Hard Logs, Import Price Japan                                                                                           NSA  Annual     24-Aug-2022  
-PLOGSKUSDM                              Global price of Hard Logs, Import Price Japan                                                                                           NSA  Monthly    23-Nov-2022  
-PLOGSKUSDQ                              Global price of Hard Logs, Import Price Japan                                                                                           NSA  Quarterly  04-Nov-2022  
-PMAIZMTUSDA                             Global price of Corn                                                                                                                    NSA  Annual     24-Aug-2022  
-PMAIZMTUSDM                             Global price of Corn                                                                                                                    NSA  Monthly    23-Nov-2022  
-PMAIZMTUSDQ                             Global price of Corn                                                                                                                    NSA  Quarterly  04-Nov-2022  
-PMETAINDEXA                             Global price of Metal index                                                                                                             NSA  Annual     24-Aug-2022  
-PMETAINDEXM                             Global price of Metal index                                                                                                             NSA  Monthly    23-Nov-2022  
-PMETAINDEXQ                             Global price of Metal index                                                                                                             NSA  Quarterly  04-Nov-2022  
-PNFUELINDEXA                            Global price of Non-Fuel index                                                                                                          NSA  Annual     23-Nov-2022  
-PNFUELINDEXM                            Global price of Non-Fuel index                                                                                                          NSA  Monthly    23-Nov-2022  
-PNFUELINDEXQ                            Global price of Non-Fuel index                                                                                                          NSA  Quarterly  23-Nov-2022  
-PNGASEUUSDA                             Global price of Natural gas, EU                                                                                                         NSA  Annual     24-Aug-2022  
-PNGASEUUSDM                             Global price of Natural gas, EU                                                                                                         NSA  Monthly    23-Nov-2022  
-PNGASEUUSDQ                             Global price of Natural gas, EU                                                                                                         NSA  Quarterly  04-Nov-2022  
-PNGASJPUSDA                             Global price of LNG, Asia                                                                                                               NSA  Annual     24-Aug-2022  
-PNGASJPUSDM                             Global price of LNG, Asia                                                                                                               NSA  Monthly    23-Nov-2022  
-PNGASJPUSDQ                             Global price of LNG, Asia                                                                                                               NSA  Quarterly  04-Nov-2022  
-PNGASUSUSDA                             Global price of Natural Gas, US Henry Hub Gas                                                                                           NSA  Annual     24-Aug-2022  
-PNGASUSUSDM                             Global price of Natural Gas, US Henry Hub Gas                                                                                           NSA  Monthly    23-Nov-2022  
-PNGASUSUSDQ                             Global price of Natural Gas, US Henry Hub Gas                                                                                           NSA  Quarterly  04-Nov-2022  
-PNICKUSDA                               Global price of Nickel                                                                                                                  NSA  Annual     24-Aug-2022  
-PNICKUSDM                               Global price of Nickel                                                                                                                  NSA  Monthly    23-Nov-2022  
-PNICKUSDQ                               Global price of Nickel                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PNRGINDEXA                              Global price of Energy index                                                                                                            NSA  Annual     04-Nov-2022  
-PNRGINDEXM                              Global price of Energy index                                                                                                            NSA  Monthly    23-Nov-2022  
-PNRGINDEXQ                              Global price of Energy index                                                                                                            NSA  Quarterly  04-Nov-2022  
-POILAPSPINDEXA                          Global price of APSP crude oil index                                                                                                    NSA  Annual     04-Nov-2022  
-POILAPSPINDEXM                          Global price of APSP crude oil index                                                                                                    NSA  Monthly    23-Nov-2022  
-POILAPSPINDEXQ                          Global price of APSP crude oil index                                                                                                    NSA  Quarterly  04-Nov-2022  
-POILAPSPUSDA                            Global price of APSP crude oil                                                                                                          NSA  Annual     04-Nov-2022  
-POILAPSPUSDM                            Global price of APSP crude oil                                                                                                          NSA  Monthly    23-Nov-2022  
-POILAPSPUSDQ                            Global price of APSP crude oil                                                                                                          NSA  Quarterly  04-Nov-2022  
-POILBREUSDA                             Global price of Brent Crude                                                                                                             NSA  Annual     24-Aug-2022  
-POILBREUSDM                             Global price of Brent Crude                                                                                                             NSA  Monthly    23-Nov-2022  
-POILBREUSDQ                             Global price of Brent Crude                                                                                                             NSA  Quarterly  04-Nov-2022  
-POILDUBUSDA                             Global price of Dubai Crude                                                                                                             NSA  Annual     24-Aug-2022  
-POILDUBUSDM                             Global price of Dubai Crude                                                                                                             NSA  Monthly    23-Nov-2022  
-POILDUBUSDQ                             Global price of Dubai Crude                                                                                                             NSA  Quarterly  04-Nov-2022  
-POILWTIUSDA                             Global price of WTI Crude                                                                                                               NSA  Annual     04-Nov-2022  
-POILWTIUSDM                             Global price of WTI Crude                                                                                                               NSA  Monthly    23-Nov-2022  
-POILWTIUSDQ                             Global price of WTI Crude                                                                                                               NSA  Quarterly  04-Nov-2022  
-POLVOILUSDA                             Global price of Olive Oil                                                                                                               NSA  Annual     24-Aug-2022  
-POLVOILUSDM                             Global price of Olive Oil                                                                                                               NSA  Monthly    23-Nov-2022  
-POLVOILUSDQ                             Global price of Olive Oil                                                                                                               NSA  Quarterly  04-Nov-2022  
-PORANGUSDA                              Global price of Orange                                                                                                                  NSA  Annual     24-Aug-2022  
-PORANGUSDM                              Global price of Orange                                                                                                                  NSA  Monthly    23-Nov-2022  
-PORANGUSDQ                              Global price of Orange                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PPOILUSDA                               Global price of Palm Oil                                                                                                                NSA  Annual     24-Aug-2022  
-PPOILUSDM                               Global price of Palm Oil                                                                                                                NSA  Monthly    23-Nov-2022  
-PPOILUSDQ                               Global price of Palm Oil                                                                                                                NSA  Quarterly  04-Nov-2022  
-PPORKUSDA                               Global price of Swine                                                                                                                   NSA  Annual     24-Aug-2022  
-PPORKUSDM                               Global price of Swine                                                                                                                   NSA  Monthly    23-Nov-2022  
-PPORKUSDQ                               Global price of Swine                                                                                                                   NSA  Quarterly  04-Nov-2022  
-PPOULTUSDA                              Global price of Poultry                                                                                                                 NSA  Annual     24-Aug-2022  
-PPOULTUSDM                              Global price of Poultry                                                                                                                 NSA  Monthly    23-Nov-2022  
-PPOULTUSDQ                              Global price of Poultry                                                                                                                 NSA  Quarterly  04-Nov-2022  
-PRAWMINDEXA                             Global price of Agr. Raw Material Index                                                                                                 NSA  Annual     29-Sep-2022  
-PRAWMINDEXM                             Global price of Agr. Raw Material Index                                                                                                 NSA  Monthly    23-Nov-2022  
-PRAWMINDEXQ                             Global price of Agr. Raw Material Index                                                                                                 NSA  Quarterly  23-Nov-2022  
-PRICENPQUSDA                            Global price of Rice, Thailand                                                                                                          NSA  Annual     24-Aug-2022  
-PRICENPQUSDM                            Global price of Rice, Thailand                                                                                                          NSA  Monthly    23-Nov-2022  
-PRICENPQUSDQ                            Global price of Rice, Thailand                                                                                                          NSA  Quarterly  04-Nov-2022  
-PROILUSDA                               Global price of Rapeseed Oil                                                                                                            NSA  Annual     24-Aug-2022  
-PROILUSDM                               Global price of Rapeseed Oil                                                                                                            NSA  Monthly    23-Nov-2022  
-PROILUSDQ                               Global price of Rapeseed Oil                                                                                                            NSA  Quarterly  04-Nov-2022  
-PRUBBUSDA                               Global price of Rubber                                                                                                                  NSA  Annual     24-Aug-2022  
-PRUBBUSDM                               Global price of Rubber                                                                                                                  NSA  Monthly    23-Nov-2022  
-PRUBBUSDQ                               Global price of Rubber                                                                                                                  NSA  Quarterly  04-Nov-2022  
-PSALMUSDA                               Global price of Fish                                                                                                                    NSA  Annual     24-Aug-2022  
-PSALMUSDM                               Global price of Fish                                                                                                                    NSA  Monthly    23-Nov-2022  
-PSALMUSDQ                               Global price of Fish                                                                                                                    NSA  Quarterly  04-Nov-2022  
-PSAWMALUSDA                             Global price of Hard Sawnwood, Dark Red Meranti                                                                                         NSA  Annual     24-Aug-2022  
-PSAWMALUSDM                             Global price of Hard Sawnwood, Dark Red Meranti                                                                                         NSA  Monthly    23-Nov-2022  
-PSAWMALUSDQ                             Global price of Hard Sawnwood, Dark Red Meranti                                                                                         NSA  Quarterly  04-Nov-2022  
-PSAWOREUSDA                             Global price of Soft Sawnwood, Average of Softwoods,                                                                                    NSA  Annual     29-Sep-2022  
-PSAWOREUSDM                             Global price of Soft Sawnwood, Average of Softwoods,                                                                                    NSA  Monthly    23-Nov-2022  
-PSAWOREUSDQ                             Global price of Soft Sawnwood, Average of Softwoods,                                                                                    NSA  Quarterly  23-Nov-2022  
-PSHRIUSDA                               Global price of Shrimp                                                                                                                  NSA  Annual     24-Aug-2022  
-PSHRIUSDM                               Global price of Shrimp                                                                                                                  NSA  Monthly    23-Nov-2022  
-PSHRIUSDQ                               Global price of Shrimp                                                                                                                  NSA  Quarterly  23-Nov-2022  
-PSMEAUSDA                               Global price of Soybean Meal                                                                                                            NSA  Annual     24-Aug-2022  
-PSMEAUSDM                               Global price of Soybean Meal                                                                                                            NSA  Monthly    23-Nov-2022  
-PSMEAUSDQ                               Global price of Soybean Meal                                                                                                            NSA  Quarterly  04-Nov-2022  
-PSOILUSDA                               Global price of Soybeans Oil                                                                                                            NSA  Annual     24-Aug-2022  
-PSOILUSDM                               Global price of Soybeans Oil                                                                                                            NSA  Monthly    23-Nov-2022  
-PSOILUSDQ                               Global price of Soybeans Oil                                                                                                            NSA  Quarterly  04-Nov-2022  
-PSOYBUSDA                               Global price of Soybeans                                                                                                                NSA  Annual     24-Aug-2022  
-PSOYBUSDM                               Global price of Soybeans                                                                                                                NSA  Monthly    23-Nov-2022  
-PSOYBUSDQ                               Global price of Soybeans                                                                                                                NSA  Quarterly  04-Nov-2022  
-PSUGAEECUSDA                            Global price of Sugar, EU                                                                                                               NSA  Annual     01-Feb-2017  
-PSUGAEECUSDM                            Global price of Sugar, EU                                                                                                               NSA  Monthly    12-Jul-2017  
-PSUGAEECUSDQ                            Global price of Sugar, EU                                                                                                               NSA  Quarterly  12-Jul-2017  
-PSUGAISAUSDA                            Global price of Sugar, No. 11, World                                                                                                    NSA  Annual     24-Aug-2022  
-PSUGAISAUSDM                            Global price of Sugar, No. 11, World                                                                                                    NSA  Monthly    23-Nov-2022  
-PSUGAISAUSDQ                            Global price of Sugar, No. 11, World                                                                                                    NSA  Quarterly  04-Nov-2022  
-PSUGAUSAUSDA                            Global price of Sugar, No. 16, US                                                                                                       NSA  Annual     24-Aug-2022  
-PSUGAUSAUSDM                            Global price of Sugar, No. 16, US                                                                                                       NSA  Monthly    23-Nov-2022  
-PSUGAUSAUSDQ                            Global price of Sugar, No. 16, US                                                                                                       NSA  Quarterly  04-Nov-2022  
-PSUNOUSDA                               Global price of Sunflower Oil                                                                                                           NSA  Annual     24-Aug-2022  
-PSUNOUSDM                               Global price of Sunflower Oil                                                                                                           NSA  Monthly    23-Nov-2022  
-PSUNOUSDQ                               Global price of Sunflower Oil                                                                                                           NSA  Quarterly  04-Nov-2022  
-PTEAUSDA                                Global price of Tea, Kenyan                                                                                                             NSA  Annual     24-Aug-2022  
-PTEAUSDM                                Global price of Tea, Kenyan                                                                                                             NSA  Monthly    23-Nov-2022  
-PTEAUSDQ                                Global price of Tea, Kenyan                                                                                                             NSA  Quarterly  04-Nov-2022  
-PTINUSDA                                Global price of Tin                                                                                                                     NSA  Annual     24-Aug-2022  
-PTINUSDM                                Global price of Tin                                                                                                                     NSA  Monthly    23-Nov-2022  
-PTINUSDQ                                Global price of Tin                                                                                                                     NSA  Quarterly  04-Nov-2022  
-PURANUSDA                               Global price of Uranium                                                                                                                 NSA  Annual     24-Aug-2022  
-PURANUSDM                               Global price of Uranium                                                                                                                 NSA  Monthly    23-Nov-2022  
-PURANUSDQ                               Global price of Uranium                                                                                                                 NSA  Quarterly  04-Nov-2022  
-PWHEAMTUSDA                             Global price of Wheat                                                                                                                   NSA  Annual     24-Aug-2022  
-PWHEAMTUSDM                             Global price of Wheat                                                                                                                   NSA  Monthly    23-Nov-2022  
-PWHEAMTUSDQ                             Global price of Wheat                                                                                                                   NSA  Quarterly  04-Nov-2022  
-PWOOLCUSDA                              Global price of Wool, Coarse                                                                                                            NSA  Annual     24-Aug-2022  
-PWOOLCUSDM                              Global price of Wool, Coarse                                                                                                            NSA  Monthly    23-Nov-2022  
-PWOOLCUSDQ                              Global price of Wool, Coarse                                                                                                            NSA  Quarterly  04-Nov-2022  
-PWOOLFUSDA                              Global price of Wool, Fine                                                                                                              NSA  Annual     24-Aug-2022  
-PWOOLFUSDM                              Global price of Wool, Fine                                                                                                              NSA  Monthly    23-Nov-2022  
-PWOOLFUSDQ                              Global price of Wool, Fine                                                                                                              NSA  Quarterly  04-Nov-2022  
-PZINCUSDA                               Global price of Zinc                                                                                                                    NSA  Annual     24-Aug-2022  
-PZINCUSDM                               Global price of Zinc                                                                                                                    NSA  Monthly    23-Nov-2022  
-PZINCUSDQ                               Global price of Zinc                                                                                                                    NSA  Quarterly  04-Nov-2022  
+PALLFNFINDEXA                           Global Price Index of All Commodities                                                                                    NSA  23-Nov-2022  Annual
+PALLFNFINDEXM                           Global Price Index of All Commodities                                                                                    NSA  23-Nov-2022  Monthly
+PALLFNFINDEXQ                           Global Price Index of All Commodities                                                                                    NSA  23-Nov-2022  Quarterly
+PALUMUSDA                               Global price of Aluminum                                                                                                 NSA  24-Aug-2022  Annual
+PALUMUSDM                               Global price of Aluminum                                                                                                 NSA  23-Nov-2022  Monthly
+PALUMUSDQ                               Global price of Aluminum                                                                                                 NSA  04-Nov-2022  Quarterly
+PBANSOPUSDA                             Global price of Bananas                                                                                                  NSA  24-Aug-2022  Annual
+PBANSOPUSDM                             Global price of Bananas                                                                                                  NSA  23-Nov-2022  Monthly
+PBANSOPUSDQ                             Global price of Bananas                                                                                                  NSA  04-Nov-2022  Quarterly
+PBARLUSDA                               Global price of Barley                                                                                                   NSA  24-Aug-2022  Annual
+PBARLUSDM                               Global price of Barley                                                                                                   NSA  23-Nov-2022  Monthly
+PBARLUSDQ                               Global price of Barley                                                                                                   NSA  04-Nov-2022  Quarterly
+PBEEFUSDA                               Global price of Beef                                                                                                     NSA  24-Aug-2022  Annual
+PBEEFUSDM                               Global price of Beef                                                                                                     NSA  23-Nov-2022  Monthly
+PBEEFUSDQ                               Global price of Beef                                                                                                     NSA  04-Nov-2022  Quarterly
+PBEVEINDEXA                             Global price of Beverages index                                                                                          NSA  24-Aug-2022  Annual
+PBEVEINDEXM                             Global price of Beverages index                                                                                          NSA  23-Nov-2022  Monthly
+PBEVEINDEXQ                             Global price of Beverages index                                                                                          NSA  04-Nov-2022  Quarterly
+PCOALAUUSDA                             Global price of Coal, Australia                                                                                          NSA  24-Aug-2022  Annual
+PCOALAUUSDM                             Global price of Coal, Australia                                                                                          NSA  23-Nov-2022  Monthly
+PCOALAUUSDQ                             Global price of Coal, Australia                                                                                          NSA  04-Nov-2022  Quarterly
+PCOCOUSDA                               Global price of Cocoa                                                                                                    NSA  24-Aug-2022  Annual
+PCOCOUSDM                               Global price of Cocoa                                                                                                    NSA  23-Nov-2022  Monthly
+PCOCOUSDQ                               Global price of Cocoa                                                                                                    NSA  04-Nov-2022  Quarterly
+PCOFFOTMUSDA                            Global price of Coffee, Other Mild Arabica                                                                               NSA  24-Aug-2022  Annual
+PCOFFOTMUSDM                            Global price of Coffee, Other Mild Arabica                                                                               NSA  23-Nov-2022  Monthly
+PCOFFOTMUSDQ                            Global price of Coffee, Other Mild Arabica                                                                               NSA  04-Nov-2022  Quarterly
+PCOFFROBUSDA                            Global price of Coffee, Robustas                                                                                         NSA  24-Aug-2022  Annual
+PCOFFROBUSDM                            Global price of Coffee, Robustas                                                                                         NSA  23-Nov-2022  Monthly
+PCOFFROBUSDQ                            Global price of Coffee, Robustas                                                                                         NSA  04-Nov-2022  Quarterly
+PCOPPUSDA                               Global price of Copper                                                                                                   NSA  24-Aug-2022  Annual
+PCOPPUSDM                               Global price of Copper                                                                                                   NSA  23-Nov-2022  Monthly
+PCOPPUSDQ                               Global price of Copper                                                                                                   NSA  04-Nov-2022  Quarterly
+PCOTTINDUSDA                            Global price of Cotton                                                                                                   NSA  24-Aug-2022  Annual
+PCOTTINDUSDM                            Global price of Cotton                                                                                                   NSA  23-Nov-2022  Monthly
+PCOTTINDUSDQ                            Global price of Cotton                                                                                                   NSA  04-Nov-2022  Quarterly
+PFANDBINDEXA                            Global price of Food and beverage index                                                                                  NSA  24-Aug-2022  Annual
+PFANDBINDEXM                            Global price of Food and beverage index                                                                                  NSA  23-Nov-2022  Monthly
+PFANDBINDEXQ                            Global price of Food and beverage index                                                                                  NSA  23-Nov-2022  Quarterly
+PFISHUSDA                               Global price of Fish Meal                                                                                                NSA  24-Aug-2022  Annual
+PFISHUSDM                               Global price of Fish Meal                                                                                                NSA  23-Nov-2022  Monthly
+PFISHUSDQ                               Global price of Fish Meal                                                                                                NSA  04-Nov-2022  Quarterly
+PFOODINDEXA                             Global price of Food index                                                                                               NSA  24-Aug-2022  Annual
+PFOODINDEXM                             Global price of Food index                                                                                               NSA  23-Nov-2022  Monthly
+PFOODINDEXQ                             Global price of Food index                                                                                               NSA  23-Nov-2022  Quarterly
+PGNUTSUSDA                              Global price of Groundnuts                                                                                               NSA  24-Aug-2022  Annual
+PGNUTSUSDM                              Global price of Groundnuts                                                                                               NSA  23-Nov-2022  Monthly
+PGNUTSUSDQ                              Global price of Groundnuts                                                                                               NSA  23-Nov-2022  Quarterly
+PHIDEUSDA                               Global price of Hides                                                                                                    NSA  24-Aug-2022  Annual
+PHIDEUSDM                               Global price of Hides                                                                                                    NSA  23-Nov-2022  Monthly
+PHIDEUSDQ                               Global price of Hides                                                                                                    NSA  04-Nov-2022  Quarterly
+PINDUINDEXA                             Global price of Industrial Materials index                                                                               NSA  29-Sep-2022  Annual
+PINDUINDEXM                             Global price of Industrial Materials index                                                                               NSA  23-Nov-2022  Monthly
+PINDUINDEXQ                             Global price of Industrial Materials index                                                                               NSA  23-Nov-2022  Quarterly
+PIORECRUSDA                             Global price of Iron Ore                                                                                                 NSA  24-Aug-2022  Annual
+PIORECRUSDM                             Global price of Iron Ore                                                                                                 NSA  23-Nov-2022  Monthly
+PIORECRUSDQ                             Global price of Iron Ore                                                                                                 NSA  04-Nov-2022  Quarterly
+PLAMBUSDA                               Global price of Lamb                                                                                                     NSA  24-Aug-2022  Annual
+PLAMBUSDM                               Global price of Lamb                                                                                                     NSA  23-Nov-2022  Monthly
+PLAMBUSDQ                               Global price of Lamb                                                                                                     NSA  04-Nov-2022  Quarterly
+PLEADUSDA                               Global price of Lead                                                                                                     NSA  24-Aug-2022  Annual
+PLEADUSDM                               Global price of Lead                                                                                                     NSA  23-Nov-2022  Monthly
+PLEADUSDQ                               Global price of Lead                                                                                                     NSA  04-Nov-2022  Quarterly
+PLOGOREUSDA                             Global price of Soft Logs                                                                                                NSA  29-Sep-2022  Annual
+PLOGOREUSDM                             Global price of Soft Logs                                                                                                NSA  23-Nov-2022  Monthly
+PLOGOREUSDQ                             Global price of Soft Logs                                                                                                NSA  23-Nov-2022  Quarterly
+PLOGSKUSDA                              Global price of Hard Logs, Import Price Japan                                                                            NSA  24-Aug-2022  Annual
+PLOGSKUSDM                              Global price of Hard Logs, Import Price Japan                                                                            NSA  23-Nov-2022  Monthly
+PLOGSKUSDQ                              Global price of Hard Logs, Import Price Japan                                                                            NSA  04-Nov-2022  Quarterly
+PMAIZMTUSDA                             Global price of Corn                                                                                                     NSA  24-Aug-2022  Annual
+PMAIZMTUSDM                             Global price of Corn                                                                                                     NSA  23-Nov-2022  Monthly
+PMAIZMTUSDQ                             Global price of Corn                                                                                                     NSA  04-Nov-2022  Quarterly
+PMETAINDEXA                             Global price of Metal index                                                                                              NSA  24-Aug-2022  Annual
+PMETAINDEXM                             Global price of Metal index                                                                                              NSA  23-Nov-2022  Monthly
+PMETAINDEXQ                             Global price of Metal index                                                                                              NSA  04-Nov-2022  Quarterly
+PNFUELINDEXA                            Global price of Non-Fuel index                                                                                           NSA  23-Nov-2022  Annual
+PNFUELINDEXM                            Global price of Non-Fuel index                                                                                           NSA  23-Nov-2022  Monthly
+PNFUELINDEXQ                            Global price of Non-Fuel index                                                                                           NSA  23-Nov-2022  Quarterly
+PNGASEUUSDA                             Global price of Natural gas, EU                                                                                          NSA  24-Aug-2022  Annual
+PNGASEUUSDM                             Global price of Natural gas, EU                                                                                          NSA  23-Nov-2022  Monthly
+PNGASEUUSDQ                             Global price of Natural gas, EU                                                                                          NSA  04-Nov-2022  Quarterly
+PNGASJPUSDA                             Global price of LNG, Asia                                                                                                NSA  24-Aug-2022  Annual
+PNGASJPUSDM                             Global price of LNG, Asia                                                                                                NSA  23-Nov-2022  Monthly
+PNGASJPUSDQ                             Global price of LNG, Asia                                                                                                NSA  04-Nov-2022  Quarterly
+PNGASUSUSDA                             Global price of Natural Gas, US Henry Hub Gas                                                                            NSA  24-Aug-2022  Annual
+PNGASUSUSDM                             Global price of Natural Gas, US Henry Hub Gas                                                                            NSA  23-Nov-2022  Monthly
+PNGASUSUSDQ                             Global price of Natural Gas, US Henry Hub Gas                                                                            NSA  04-Nov-2022  Quarterly
+PNICKUSDA                               Global price of Nickel                                                                                                   NSA  24-Aug-2022  Annual
+PNICKUSDM                               Global price of Nickel                                                                                                   NSA  23-Nov-2022  Monthly
+PNICKUSDQ                               Global price of Nickel                                                                                                   NSA  04-Nov-2022  Quarterly
+PNRGINDEXA                              Global price of Energy index                                                                                             NSA  04-Nov-2022  Annual
+PNRGINDEXM                              Global price of Energy index                                                                                             NSA  23-Nov-2022  Monthly
+PNRGINDEXQ                              Global price of Energy index                                                                                             NSA  04-Nov-2022  Quarterly
+POILAPSPINDEXA                          Global price of APSP crude oil index                                                                                     NSA  04-Nov-2022  Annual
+POILAPSPINDEXM                          Global price of APSP crude oil index                                                                                     NSA  23-Nov-2022  Monthly
+POILAPSPINDEXQ                          Global price of APSP crude oil index                                                                                     NSA  04-Nov-2022  Quarterly
+POILAPSPUSDA                            Global price of APSP crude oil                                                                                           NSA  04-Nov-2022  Annual
+POILAPSPUSDM                            Global price of APSP crude oil                                                                                           NSA  23-Nov-2022  Monthly
+POILAPSPUSDQ                            Global price of APSP crude oil                                                                                           NSA  04-Nov-2022  Quarterly
+POILBREUSDA                             Global price of Brent Crude                                                                                              NSA  24-Aug-2022  Annual
+POILBREUSDM                             Global price of Brent Crude                                                                                              NSA  23-Nov-2022  Monthly
+POILBREUSDQ                             Global price of Brent Crude                                                                                              NSA  04-Nov-2022  Quarterly
+POILDUBUSDA                             Global price of Dubai Crude                                                                                              NSA  24-Aug-2022  Annual
+POILDUBUSDM                             Global price of Dubai Crude                                                                                              NSA  23-Nov-2022  Monthly
+POILDUBUSDQ                             Global price of Dubai Crude                                                                                              NSA  04-Nov-2022  Quarterly
+POILWTIUSDA                             Global price of WTI Crude                                                                                                NSA  04-Nov-2022  Annual
+POILWTIUSDM                             Global price of WTI Crude                                                                                                NSA  23-Nov-2022  Monthly
+POILWTIUSDQ                             Global price of WTI Crude                                                                                                NSA  04-Nov-2022  Quarterly
+POLVOILUSDA                             Global price of Olive Oil                                                                                                NSA  24-Aug-2022  Annual
+POLVOILUSDM                             Global price of Olive Oil                                                                                                NSA  23-Nov-2022  Monthly
+POLVOILUSDQ                             Global price of Olive Oil                                                                                                NSA  04-Nov-2022  Quarterly
+PORANGUSDA                              Global price of Orange                                                                                                   NSA  24-Aug-2022  Annual
+PORANGUSDM                              Global price of Orange                                                                                                   NSA  23-Nov-2022  Monthly
+PORANGUSDQ                              Global price of Orange                                                                                                   NSA  04-Nov-2022  Quarterly
+PPOILUSDA                               Global price of Palm Oil                                                                                                 NSA  24-Aug-2022  Annual
+PPOILUSDM                               Global price of Palm Oil                                                                                                 NSA  23-Nov-2022  Monthly
+PPOILUSDQ                               Global price of Palm Oil                                                                                                 NSA  04-Nov-2022  Quarterly
+PPORKUSDA                               Global price of Swine                                                                                                    NSA  24-Aug-2022  Annual
+PPORKUSDM                               Global price of Swine                                                                                                    NSA  23-Nov-2022  Monthly
+PPORKUSDQ                               Global price of Swine                                                                                                    NSA  04-Nov-2022  Quarterly
+PPOULTUSDA                              Global price of Poultry                                                                                                  NSA  24-Aug-2022  Annual
+PPOULTUSDM                              Global price of Poultry                                                                                                  NSA  23-Nov-2022  Monthly
+PPOULTUSDQ                              Global price of Poultry                                                                                                  NSA  04-Nov-2022  Quarterly
+PRAWMINDEXA                             Global price of Agr. Raw Material Index                                                                                  NSA  29-Sep-2022  Annual
+PRAWMINDEXM                             Global price of Agr. Raw Material Index                                                                                  NSA  23-Nov-2022  Monthly
+PRAWMINDEXQ                             Global price of Agr. Raw Material Index                                                                                  NSA  23-Nov-2022  Quarterly
+PRICENPQUSDA                            Global price of Rice, Thailand                                                                                           NSA  24-Aug-2022  Annual
+PRICENPQUSDM                            Global price of Rice, Thailand                                                                                           NSA  23-Nov-2022  Monthly
+PRICENPQUSDQ                            Global price of Rice, Thailand                                                                                           NSA  04-Nov-2022  Quarterly
+PROILUSDA                               Global price of Rapeseed Oil                                                                                             NSA  24-Aug-2022  Annual
+PROILUSDM                               Global price of Rapeseed Oil                                                                                             NSA  23-Nov-2022  Monthly
+PROILUSDQ                               Global price of Rapeseed Oil                                                                                             NSA  04-Nov-2022  Quarterly
+PRUBBUSDA                               Global price of Rubber                                                                                                   NSA  24-Aug-2022  Annual
+PRUBBUSDM                               Global price of Rubber                                                                                                   NSA  23-Nov-2022  Monthly
+PRUBBUSDQ                               Global price of Rubber                                                                                                   NSA  04-Nov-2022  Quarterly
+PSALMUSDA                               Global price of Fish                                                                                                     NSA  24-Aug-2022  Annual
+PSALMUSDM                               Global price of Fish                                                                                                     NSA  23-Nov-2022  Monthly
+PSALMUSDQ                               Global price of Fish                                                                                                     NSA  04-Nov-2022  Quarterly
+PSAWMALUSDA                             Global price of Hard Sawnwood, Dark Red Meranti                                                                          NSA  24-Aug-2022  Annual
+PSAWMALUSDM                             Global price of Hard Sawnwood, Dark Red Meranti                                                                          NSA  23-Nov-2022  Monthly
+PSAWMALUSDQ                             Global price of Hard Sawnwood, Dark Red Meranti                                                                          NSA  04-Nov-2022  Quarterly
+PSAWOREUSDA                             Global price of Soft Sawnwood, Average of Softwoods,                                                                     NSA  29-Sep-2022  Annual
+PSAWOREUSDM                             Global price of Soft Sawnwood, Average of Softwoods,                                                                     NSA  23-Nov-2022  Monthly
+PSAWOREUSDQ                             Global price of Soft Sawnwood, Average of Softwoods,                                                                     NSA  23-Nov-2022  Quarterly
+PSHRIUSDA                               Global price of Shrimp                                                                                                   NSA  24-Aug-2022  Annual
+PSHRIUSDM                               Global price of Shrimp                                                                                                   NSA  23-Nov-2022  Monthly
+PSHRIUSDQ                               Global price of Shrimp                                                                                                   NSA  23-Nov-2022  Quarterly
+PSMEAUSDA                               Global price of Soybean Meal                                                                                             NSA  24-Aug-2022  Annual
+PSMEAUSDM                               Global price of Soybean Meal                                                                                             NSA  23-Nov-2022  Monthly
+PSMEAUSDQ                               Global price of Soybean Meal                                                                                             NSA  04-Nov-2022  Quarterly
+PSOILUSDA                               Global price of Soybeans Oil                                                                                             NSA  24-Aug-2022  Annual
+PSOILUSDM                               Global price of Soybeans Oil                                                                                             NSA  23-Nov-2022  Monthly
+PSOILUSDQ                               Global price of Soybeans Oil                                                                                             NSA  04-Nov-2022  Quarterly
+PSOYBUSDA                               Global price of Soybeans                                                                                                 NSA  24-Aug-2022  Annual
+PSOYBUSDM                               Global price of Soybeans                                                                                                 NSA  23-Nov-2022  Monthly
+PSOYBUSDQ                               Global price of Soybeans                                                                                                 NSA  04-Nov-2022  Quarterly
+PSUGAEECUSDA                            Global price of Sugar, EU                                                                                                NSA  01-Feb-2017  Annual
+PSUGAEECUSDM                            Global price of Sugar, EU                                                                                                NSA  12-Jul-2017  Monthly
+PSUGAEECUSDQ                            Global price of Sugar, EU                                                                                                NSA  12-Jul-2017  Quarterly
+PSUGAISAUSDA                            Global price of Sugar, No. 11, World                                                                                     NSA  24-Aug-2022  Annual
+PSUGAISAUSDM                            Global price of Sugar, No. 11, World                                                                                     NSA  23-Nov-2022  Monthly
+PSUGAISAUSDQ                            Global price of Sugar, No. 11, World                                                                                     NSA  04-Nov-2022  Quarterly
+PSUGAUSAUSDA                            Global price of Sugar, No. 16, US                                                                                        NSA  24-Aug-2022  Annual
+PSUGAUSAUSDM                            Global price of Sugar, No. 16, US                                                                                        NSA  23-Nov-2022  Monthly
+PSUGAUSAUSDQ                            Global price of Sugar, No. 16, US                                                                                        NSA  04-Nov-2022  Quarterly
+PSUNOUSDA                               Global price of Sunflower Oil                                                                                            NSA  24-Aug-2022  Annual
+PSUNOUSDM                               Global price of Sunflower Oil                                                                                            NSA  23-Nov-2022  Monthly
+PSUNOUSDQ                               Global price of Sunflower Oil                                                                                            NSA  04-Nov-2022  Quarterly
+PTEAUSDA                                Global price of Tea, Kenyan                                                                                              NSA  24-Aug-2022  Annual
+PTEAUSDM                                Global price of Tea, Kenyan                                                                                              NSA  23-Nov-2022  Monthly
+PTEAUSDQ                                Global price of Tea, Kenyan                                                                                              NSA  04-Nov-2022  Quarterly
+PTINUSDA                                Global price of Tin                                                                                                      NSA  24-Aug-2022  Annual
+PTINUSDM                                Global price of Tin                                                                                                      NSA  23-Nov-2022  Monthly
+PTINUSDQ                                Global price of Tin                                                                                                      NSA  04-Nov-2022  Quarterly
+PURANUSDA                               Global price of Uranium                                                                                                  NSA  24-Aug-2022  Annual
+PURANUSDM                               Global price of Uranium                                                                                                  NSA  23-Nov-2022  Monthly
+PURANUSDQ                               Global price of Uranium                                                                                                  NSA  04-Nov-2022  Quarterly
+PWHEAMTUSDA                             Global price of Wheat                                                                                                    NSA  24-Aug-2022  Annual
+PWHEAMTUSDM                             Global price of Wheat                                                                                                    NSA  23-Nov-2022  Monthly
+PWHEAMTUSDQ                             Global price of Wheat                                                                                                    NSA  04-Nov-2022  Quarterly
+PWOOLCUSDA                              Global price of Wool, Coarse                                                                                             NSA  24-Aug-2022  Annual
+PWOOLCUSDM                              Global price of Wool, Coarse                                                                                             NSA  23-Nov-2022  Monthly
+PWOOLCUSDQ                              Global price of Wool, Coarse                                                                                             NSA  04-Nov-2022  Quarterly
+PWOOLFUSDA                              Global price of Wool, Fine                                                                                               NSA  24-Aug-2022  Annual
+PWOOLFUSDM                              Global price of Wool, Fine                                                                                               NSA  23-Nov-2022  Monthly
+PWOOLFUSDQ                              Global price of Wool, Fine                                                                                               NSA  04-Nov-2022  Quarterly
+PZINCUSDA                               Global price of Zinc                                                                                                     NSA  24-Aug-2022  Annual
+PZINCUSDM                               Global price of Zinc                                                                                                     NSA  23-Nov-2022  Monthly
+PZINCUSDQ                               Global price of Zinc                                                                                                     NSA  04-Nov-2022  Quarterly

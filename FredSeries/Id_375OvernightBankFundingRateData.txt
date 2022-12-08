@@ -1,7 +1,7 @@
 Id : 375  Overnight Bank Funding Rate Data
-OBFR                                    Overnight Bank Funding Rate                                                                                                             NSA  Daily      07-Dec-2022  
-OBFR1                                   Overnight Bank Funding Rate: 1st Percentile                                                                                             NSA  Daily      07-Dec-2022  
-OBFR25                                  Overnight Bank Funding Rate: 25th Percentile                                                                                            NSA  Daily      07-Dec-2022  
-OBFR75                                  Overnight Bank Funding Rate: 75th Percentile                                                                                            NSA  Daily      07-Dec-2022  
-OBFR99                                  Overnight Bank Funding Rate: 99th Percentile                                                                                            NSA  Daily      07-Dec-2022  
-OBFRVOL                                 Overnight Bank Funding Volume                                                                                                           NSA  Daily      07-Dec-2022  
+OBFR                                    Overnight Bank Funding Rate                                                                                              NSA  08-Dec-2022  Daily
+OBFR1                                   Overnight Bank Funding Rate: 1st Percentile                                                                              NSA  08-Dec-2022  Daily
+OBFR25                                  Overnight Bank Funding Rate: 25th Percentile                                                                             NSA  08-Dec-2022  Daily
+OBFR75                                  Overnight Bank Funding Rate: 75th Percentile                                                                             NSA  08-Dec-2022  Daily
+OBFR99                                  Overnight Bank Funding Rate: 99th Percentile                                                                             NSA  08-Dec-2022  Daily
+OBFRVOL                                 Overnight Bank Funding Volume                                                                                            NSA  08-Dec-2022  Daily

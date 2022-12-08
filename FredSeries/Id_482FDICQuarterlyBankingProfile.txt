@@ -1,154 +1,154 @@
 Id : 482  FDIC Quarterly Banking Profile
-QBPBSASFXOFF                            Balance Sheet: Assets in Foreign Offices                                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSERAS                               Balance Sheet: Earning Assets                                                                                                           NSA  Quarterly  02-Dec-2022  
-QBPBSLEVK                               Balance Sheet: Tier 1 Leverage Capital (PCA Definition)                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPBSLN30889                            Balance Sheet: Loans and Leases 30-89 Days Past Due                                                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSLN90                               Balance Sheet: Loans and Leases 90 Days or More Past Due                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSLNFXOFF                            Balance Sheet: Loans and Leases in Foreign Offices                                                                                      NSA  Quarterly  02-Dec-2022  
-QBPBSLNHLDSAL                           Balance Sheet: Loans and Leases Held for Sale                                                                                           NSA  Quarterly  02-Dec-2022  
-QBPBSLNNAC                              Balance Sheet: Loans and Leases in Nonaccrual Status                                                                                    NSA  Quarterly  02-Dec-2022  
-QBPBSNLN                                Balance Sheet: Unused Loan Commitments - Total                                                                                          NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNCOMREAL                        Balance Sheet: Unused Loan Commitments - Total: Unused Commercial Real Estate Lines                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNCRD                            Balance Sheet: Unused Loan Commitments - Total: Unused Credit Card Lines                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNHOMEEQ                         Balance Sheet: Unused Loan Commitments - Total: Unused Home Equity Lines                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNLN                             Balance Sheet: Unused Loan Commitments - Total: All Other Unused Loan Commitments                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNLNNNSCCOM                      Balance Sheet: Unused Loan Commitments - Total: All Other Unused Loan Commitments: Unused Unsecured Commercial Real Estate Lines        NSA  Quarterly  02-Dec-2022  
-QBPBSNLNNSCUND                          Balance Sheet: Unused Loan Commitments - Total: Unused Securities Underwriting Commitments                                              NSA  Quarterly  02-Dec-2022  
-QBPBSNUMINST                            Balance Sheet: Number of Institutions Reporting                                                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSRESTLN                             Balance Sheet: Restructured and Current Loans and Leases                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSRSKK                               Balance Sheet: Tier 1 Risk Based Capital (PCA Definition)                                                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTAS                                Balance Sheet: Total Assets                                                                                                             NSA  Quarterly  02-Dec-2022  
-QBPBSTASACC                             Balance Sheet: Total Assets: Acceptances of Other Banks                                                                                 NSA  Quarterly  26-Feb-2021  
-QBPBSTASBKAS                            Balance Sheet: Total Assets: Bank Premises and Fixed Assets                                                                             NSA  Quarterly  02-Dec-2022  
-QBPBSTASCOMLN                           Balance Sheet: Total Assets: Commercial and Industrial Loans                                                                            NSA  Quarterly  02-Dec-2022  
-QBPBSTASCSHDP                           Balance Sheet: Total Assets: Cash and Due from Depository Institutions                                                                  NSA  Quarterly  02-Dec-2022  
-QBPBSTASFEDREVREPO                      Balance Sheet: Total Assets: Federal Funds Sold and Reverse Repurchase Agreements                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSTASFRMLN                           Balance Sheet: Total Assets: Farm Loans                                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPBSTASGROSSLN                         Balance Sheet: Total Assets: Gross Total Loans and Leases                                                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTASGROSSLNLESNY                    Balance Sheet: Total Assets: Gross Total Loans and Leases: Less: Unearned Income                                                        NSA  Quarterly  02-Dec-2022  
-QBPBSTASIAS                             Balance Sheet: Total Assets: Intangible Assets                                                                                          NSA  Quarterly  02-Dec-2022  
-QBPBSTASIASGDWLL                        Balance Sheet: Total Assets: Intangible Assets: Goodwill                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSTASLEASEFINREC                     Balance Sheet: Total Assets: Lease Financing Receivables                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNDPINST                        Balance Sheet: Total Assets: Loans to Depository Institutions                                                                           NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNFXGOVOFFINST                  Balance Sheet: Total Assets: Loans to Foreign Governments and Official Institutions                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNINDV                          Balance Sheet: Total Assets: Loans to Individuals                                                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNINDVCRD                       Balance Sheet: Total Assets: Loans to Individuals: Credit Cards                                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNINDVOLNIND                    Balance Sheet: Total Assets: Loans to Individuals: Other Loans to Individuals                                                           NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNINDVOLNINDCARLN               Balance Sheet: Total Assets: Loans to Individuals: Other Loans to Individuals: Auto Loans                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREAL                          Balance Sheet: Total Assets: Loans Secured by Real Estate                                                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALCONDEV                    Balance Sheet: Total Assets: Loans Secured by Real Estate: Construction and Development                                                 NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALFAMRT                     Balance Sheet: Total Assets: Loans Secured by Real Estate: 1-4 Family Residential Mortgages                                             NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALFRMLND                    Balance Sheet: Total Assets: Loans Secured by Real Estate: Farmland                                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALHOMEQ                     Balance Sheet: Total Assets: Loans Secured by Real Estate: Home Equity Lines                                                            NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALMFAMREAL                  Balance Sheet: Total Assets: Loans Secured by Real Estate: Multifamily Residential Real Estate                                          NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALNFRMRES                   Balance Sheet: Total Assets: Loans Secured by Real Estate: Nonfarm Nonresidential                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSTASLNREALREALFXOFF                 Balance Sheet: Total Assets: Loans Secured by Real Estate: Real Estate Loans in Foreign Offices                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTASNTLN                            Balance Sheet: Total Assets: Net Loans and Leases                                                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSTASOAS                             Balance Sheet: Total Assets: Other Assets                                                                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTASOBLIGPOL                        Balance Sheet: Total Assets: Obligations of States and Political Subdivisions in the U.S.                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTASOLN                             Balance Sheet: Total Assets: Other Loans                                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSTASOREAL                           Balance Sheet: Total Assets: Other Real Estate Owned                                                                                    NSA  Quarterly  02-Dec-2022  
-QBPBSTASSC                              Balance Sheet: Total Assets: Securities                                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPBSTASSCEQSC                          Balance Sheet: Total Assets: Securities: Equity Securities                                                                              NSA  Quarterly  24-May-2022  
-QBPBSTASSCHLDMAT                        Balance Sheet: Total Assets: Securities: Held to Maturity (Amortized Cost)                                                              NSA  Quarterly  02-Dec-2022  
-QBPBSTASSCMRTSEC                        Balance Sheet: Total Assets: Securities: Mortgage-Backed Securities                                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTASSCSAL                           Balance Sheet: Total Assets: Securities: Available for Sale (Fair Value)                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSTASSCSTMNSC                        Balance Sheet: Total Assets: Securities: State and Municipal Securities                                                                 NSA  Quarterly  02-Dec-2022  
-QBPBSTASSCUSTRSC                        Balance Sheet: Total Assets: Securities: U.S. Treasury Securities                                                                       NSA  Quarterly  02-Dec-2022  
-QBPBSTASTLN                             Balance Sheet: Total Assets: Total Loans and Leases                                                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTASTLNLESSRES                      Balance Sheet: Total Assets: Total Loans and Leases: Less: Reserve for Losses                                                           NSA  Quarterly  02-Dec-2022  
-QBPBSTASTRDAS                           Balance Sheet: Total Assets: Trading Account Assets                                                                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTEMP                               Balance Sheet: Total Employees (Full-Time Equivalent)                                                                                   NSA  Quarterly  02-Dec-2022  
-QBPBSTLK                                Balance Sheet: Total Liabilities and Capital                                                                                            NSA  Quarterly  02-Dec-2022  
-QBPBSTLKBKL                             Balance Sheet: Total Liabilities and Capital: Banks Liability on Acceptances                                                            NSA  Quarterly  30-Nov-2021  
-QBPBSTLKDP                              Balance Sheet: Total Liabilities and Capital: Deposits                                                                                  NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDP                        Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits                                                        NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDPBRKDP                   Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Brokered Deposits                                     NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDPESTIDP                  Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Estimated Insured Deposits                            NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDPIDP                     Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Interest-Bearing Deposits                             NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDPNIDP                    Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Noninterest-Bearing Deposits                          NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPDOFFDPTDP                     Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Time Deposits                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKDPFXOFFDP                       Balance Sheet: Total Liabilities and Capital: Deposits: Foreign Office Deposits                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKFEDREPO                         Balance Sheet: Total Liabilities and Capital: Federal Funds Purchased and Repurchase Agreements                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKFHLB                            Balance Sheet: Total Liabilities and Capital: FHLB Advances                                                                             NSA  Quarterly  02-Dec-2022  
-QBPBSTLKOBOR                            Balance Sheet: Total Liabilities and Capital: Other Borrowed Money                                                                      NSA  Quarterly  02-Dec-2022  
-QBPBSTLKOL                              Balance Sheet: Total Liabilities and Capital: Other Liabilities                                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKSUBDEBT                         Balance Sheet: Total Liabilities and Capital: Subordinated Debt                                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQK                            Balance Sheet: Total Liabilities and Capital: Total Equity Capital                                                                      NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQK                      Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital                                           NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQKCMY                   Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Cumulative Other Comprehensive Income    NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQKCMYAFS                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Cumulative Other Comprehensive Income:   NSA  Quarterly  30-Nov-2021  
-QBPBSTLKTEQKTBKEQKCOMSTK                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Common Stock                             NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQKFXCUR                 Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Foreign Currency Translation Adjustment  NSA  Quarterly  26-Feb-2021  
-QBPBSTLKTEQKTBKEQKNDIVPRO               Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Undivided Profits                        NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQKPRPSTK                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Perpetual Preferred Stock                NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTEQKTBKEQKSURP                  Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Surplus                                  NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTL                              Balance Sheet: Total Liabilities and Capital: Total Liabilities                                                                         NSA  Quarterly  02-Dec-2022  
-QBPBSTLKTRDL                            Balance Sheet: Total Liabilities and Capital: Trading Account Liabilities                                                               NSA  Quarterly  02-Dec-2022  
-QBPBSTRSKK                              Balance Sheet: Total Risk Based Capital (PCA Definition)                                                                                NSA  Quarterly  02-Dec-2022  
-QBPBSYER                                Balance Sheet: Income Earned, Not Collected on Loans                                                                                    NSA  Quarterly  02-Dec-2022  
-QBPLNTLN3089DU                          Loan Performance: Total Loans and Leases: 30-89 Days Past Due                                                                           NSA  Quarterly  02-Dec-2022  
-QBPLNTLN3089DUR                         Loan Performance: Total Loans and Leases: 30-89 Day Past Due Rate                                                                       NSA  Quarterly  02-Dec-2022  
-QBPLNTLN90DU                            Loan Performance: Total Loans and Leases: 90 Days or More Past Due                                                                      NSA  Quarterly  02-Dec-2022  
-QBPLNTLNAVGOUT                          Loan Performance: Total Loans and Leases: Average Outstanding                                                                           NSA  Quarterly  02-Dec-2022  
-QBPLNTLNNACSTAT                         Loan Performance: Total Loans and Leases: In Nonaccrual Status                                                                          NSA  Quarterly  02-Dec-2022  
-QBPLNTLNNCUR                            Loan Performance: Total Loans and Leases: Noncurrent Rate                                                                               NSA  Quarterly  02-Dec-2022  
-QBPLNTLNNTCGOFF                         Loan Performance: Total Loans and Leases: Net Charge-Offs                                                                               NSA  Quarterly  02-Dec-2022  
-QBPLNTLNNTCGOFFR                        Loan Performance: Total Loans and Leases: Net Charge-Off Rate                                                                           NSA  Quarterly  02-Dec-2022  
-QBPLNTLNTCGOFF                          Loan Performance: Total Loans and Leases: Total Charge-Offs                                                                             NSA  Quarterly  02-Dec-2022  
-QBPLNTLNTOUT                            Loan Performance: Total Loans and Leases: Total Outstanding                                                                             NSA  Quarterly  02-Dec-2022  
-QBPLNTLNTREC                            Loan Performance: Total Loans and Leases: Total Recoveries                                                                              NSA  Quarterly  02-Dec-2022  
-QBPQYCSHDIV                             Income and Expense: Cash Dividends                                                                                                      NSA  Quarterly  02-Dec-2022  
-QBPQYEXTRANT                            Income and Expense: Extraordinary Gains (Losses), Net                                                                                   NSA  Quarterly  02-Dec-2022  
-QBPQYLNLOSS                             Income and Expense: Provision for Loan and Lease Losses                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPQYNTCGOFF                            Income and Expense: Net Charge-Offs                                                                                                     NSA  Quarterly  02-Dec-2022  
-QBPQYNTIY                               Income and Expense: Net Interest Income                                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPQYNTOPY                              Income and Expense: Net Operating Income                                                                                                NSA  Quarterly  02-Dec-2022  
-QBPQYNTYBK                              Income and Expense: Net Income (Loss) Attributable to Bank                                                                              NSA  Quarterly  02-Dec-2022  
-QBPQYNTYBKNI                            Income and Expense: Net Income (Loss) Attributable to Bank and Noncontrolling Interests                                                 NSA  Quarterly  02-Dec-2022  
-QBPQYNTYNI                              Income and Expense: Net Income (Loss) Attributable to Noncontrolling Interests                                                          NSA  Quarterly  02-Dec-2022  
-QBPQYNUMINST                            Income and Expense: Number of Institutions Reporting                                                                                    NSA  Quarterly  02-Dec-2022  
-QBPQYNUMINSTUNPR                        Income and Expense: Number of Unprofitable Institutions                                                                                 NSA  Quarterly  02-Dec-2022  
-QBPQYNUMINSTYY                          Income and Expense: Number of Institutions with Year-over-Year Earnings Gains                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYRETER                              Income and Expense: Retained Earnings                                                                                                   NSA  Quarterly  02-Dec-2022  
-QBPQYSECGAIN                            Income and Expense: Securities Gains (Losses)                                                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTIEX                               Income and Expense: Total Interest Expense                                                                                              NSA  Quarterly  02-Dec-2022  
-QBPQYTIEXDOFFDP                         Income and Expense: Total Interest Expense: Domestic Office Deposits                                                                    NSA  Quarterly  02-Dec-2022  
-QBPQYTIEXFEDPUR                         Income and Expense: Total Interest Expense: Federal Funds Purchased                                                                     NSA  Quarterly  02-Dec-2022  
-QBPQYTIEXFXOFFDP                        Income and Expense: Total Interest Expense: Foreign Office Deposits                                                                     NSA  Quarterly  02-Dec-2022  
-QBPQYTIEXSUBNOTES                       Income and Expense: Total Interest Expense: Subordinated Notes and Debentures                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTIEXTRDLBOR                        Income and Expense: Total Interest Expense: Trading Liabilities and Other Borrowed Money                                                NSA  Quarterly  02-Dec-2022  
-QBPQYTIY                                Income and Expense: Total Interest Income                                                                                               NSA  Quarterly  02-Dec-2022  
-QBPQYTIYBALDPINST                       Income and Expense: Total Interest Income: Balances Due from Depository Institutions                                                    NSA  Quarterly  02-Dec-2022  
-QBPQYTIYDOFFLN                          Income and Expense: Total Interest Income: Domestic Office Loans                                                                        NSA  Quarterly  02-Dec-2022  
-QBPQYTIYFEDSLD                          Income and Expense: Total Interest Income: Federal Funds Sold                                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTIYFXOFFLN                         Income and Expense: Total Interest Income: Foreign Office Loans                                                                         NSA  Quarterly  02-Dec-2022  
-QBPQYTIYLEASEFINREC                     Income and Expense: Total Interest Income: Lease Financing Receivables                                                                  NSA  Quarterly  02-Dec-2022  
-QBPQYTIYOIY                             Income and Expense: Total Interest Income: Other Interest Income                                                                        NSA  Quarterly  02-Dec-2022  
-QBPQYTIYSC                              Income and Expense: Total Interest Income: Securities                                                                                   NSA  Quarterly  02-Dec-2022  
-QBPQYTIYTRDAC                           Income and Expense: Total Interest Income: Trading Accounts                                                                             NSA  Quarterly  02-Dec-2022  
-QBPQYTNIEX                              Income and Expense: Total Noninterest Expense                                                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTNIEXONIEX                         Income and Expense: Total Noninterest Expense: Other Noninterest Expense                                                                NSA  Quarterly  02-Dec-2022  
-QBPQYTNIEXONIEXAMORT                    Income and Expense: Total Noninterest Expense: Other Noninterest Expense: Amortization Expense and Goodwill Impairment Losses           NSA  Quarterly  02-Dec-2022  
-QBPQYTNIEXPREMEQEX                      Income and Expense: Total Noninterest Expense: Premises and Equipment Expense                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTNIEXSALMPBEN                      Income and Expense: Total Noninterest Expense: Salaries and Employee Benefits                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYTNIY                               Income and Expense: Total Noninterest Income                                                                                            NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYFIDACT                         Income and Expense: Total Noninterest Income: Fiduciary Activities                                                                      NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYINVBK                          Income and Expense: Total Noninterest Income: Investment Banking, Advisory, Brokerage and Underwriting Fees and Commissions             NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYNTSALAS                        Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Other Assets (Except Securities)                           NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYNTSALLN                        Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Loans                                                      NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYNTSALREAL                      Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Other Real Estate Owned                                    NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYNTSCY                          Income and Expense: Total Noninterest Income: Net Securitization Income                                                                 NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYNTSRVFEE                       Income and Expense: Total Noninterest Income: Net Servicing Fees                                                                        NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYONIY                           Income and Expense: Total Noninterest Income: Other Noninterest Income                                                                  NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYSRVDP                          Income and Expense: Total Noninterest Income: Service Charges on Deposit Accounts                                                       NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGN                          Income and Expense: Total Noninterest Income: Trading Account Gains and Fees                                                            NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGNCOMEX                     Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Commodity and Other Exposures                             NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGNCRDEX                     Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Credit Exposures                                          NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGNEQSCIDX                   Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Equity Security and Index Exposures                       NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGNFXEXEXP                   Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Foreign Exchange Exposures                                NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYTRDGNIREX                      Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Interest Rate Exposures                                   NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYVENTKREV                       Income and Expense: Total Noninterest Income: Venture Capital Revenue                                                                   NSA  Quarterly  02-Dec-2022  
-QBPQYTNIYYFEE                           Income and Expense: Total Noninterest Income: Insurance Commission Fees and Income                                                      NSA  Quarterly  02-Dec-2022  
-QBPQYYEXTRA                             Income and Expense: Income (Loss) Before Income Taxes and Extraordinary Items                                                           NSA  Quarterly  02-Dec-2022  
-QBPQYYTAX                               Income and Expense: Applicable Income Taxes                                                                                             NSA  Quarterly  02-Dec-2022  
+QBPBSASFXOFF                            Balance Sheet: Assets in Foreign Offices                                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSERAS                               Balance Sheet: Earning Assets                                                                                            NSA  02-Dec-2022  Quarterly
+QBPBSLEVK                               Balance Sheet: Tier 1 Leverage Capital (PCA Definition)                                                                  NSA  02-Dec-2022  Quarterly
+QBPBSLN30889                            Balance Sheet: Loans and Leases 30-89 Days Past Due                                                                      NSA  02-Dec-2022  Quarterly
+QBPBSLN90                               Balance Sheet: Loans and Leases 90 Days or More Past Due                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSLNFXOFF                            Balance Sheet: Loans and Leases in Foreign Offices                                                                       NSA  02-Dec-2022  Quarterly
+QBPBSLNHLDSAL                           Balance Sheet: Loans and Leases Held for Sale                                                                            NSA  02-Dec-2022  Quarterly
+QBPBSLNNAC                              Balance Sheet: Loans and Leases in Nonaccrual Status                                                                     NSA  02-Dec-2022  Quarterly
+QBPBSNLN                                Balance Sheet: Unused Loan Commitments - Total                                                                           NSA  02-Dec-2022  Quarterly
+QBPBSNLNNCOMREAL                        Balance Sheet: Unused Loan Commitments - Total: Unused Commercial Real Estate Lines                                      NSA  02-Dec-2022  Quarterly
+QBPBSNLNNCRD                            Balance Sheet: Unused Loan Commitments - Total: Unused Credit Card Lines                                                 NSA  02-Dec-2022  Quarterly
+QBPBSNLNNHOMEEQ                         Balance Sheet: Unused Loan Commitments - Total: Unused Home Equity Lines                                                 NSA  02-Dec-2022  Quarterly
+QBPBSNLNNLN                             Balance Sheet: Unused Loan Commitments - Total: All Other Unused Loan Commitments                                        NSA  02-Dec-2022  Quarterly
+QBPBSNLNNLNNNSCCOM                      Balance Sheet: Unused Loan Commitments - Total: All Other Unused Loan Commitments: Unused Unsecured Commercial Real Est  NSA  02-Dec-2022  Quarterly
+QBPBSNLNNSCUND                          Balance Sheet: Unused Loan Commitments - Total: Unused Securities Underwriting Commitments                               NSA  02-Dec-2022  Quarterly
+QBPBSNUMINST                            Balance Sheet: Number of Institutions Reporting                                                                          NSA  02-Dec-2022  Quarterly
+QBPBSRESTLN                             Balance Sheet: Restructured and Current Loans and Leases                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSRSKK                               Balance Sheet: Tier 1 Risk Based Capital (PCA Definition)                                                                NSA  02-Dec-2022  Quarterly
+QBPBSTAS                                Balance Sheet: Total Assets                                                                                              NSA  02-Dec-2022  Quarterly
+QBPBSTASACC                             Balance Sheet: Total Assets: Acceptances of Other Banks                                                                  NSA  26-Feb-2021  Quarterly
+QBPBSTASBKAS                            Balance Sheet: Total Assets: Bank Premises and Fixed Assets                                                              NSA  02-Dec-2022  Quarterly
+QBPBSTASCOMLN                           Balance Sheet: Total Assets: Commercial and Industrial Loans                                                             NSA  02-Dec-2022  Quarterly
+QBPBSTASCSHDP                           Balance Sheet: Total Assets: Cash and Due from Depository Institutions                                                   NSA  02-Dec-2022  Quarterly
+QBPBSTASFEDREVREPO                      Balance Sheet: Total Assets: Federal Funds Sold and Reverse Repurchase Agreements                                        NSA  02-Dec-2022  Quarterly
+QBPBSTASFRMLN                           Balance Sheet: Total Assets: Farm Loans                                                                                  NSA  02-Dec-2022  Quarterly
+QBPBSTASGROSSLN                         Balance Sheet: Total Assets: Gross Total Loans and Leases                                                                NSA  02-Dec-2022  Quarterly
+QBPBSTASGROSSLNLESNY                    Balance Sheet: Total Assets: Gross Total Loans and Leases: Less: Unearned Income                                         NSA  02-Dec-2022  Quarterly
+QBPBSTASIAS                             Balance Sheet: Total Assets: Intangible Assets                                                                           NSA  02-Dec-2022  Quarterly
+QBPBSTASIASGDWLL                        Balance Sheet: Total Assets: Intangible Assets: Goodwill                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSTASLEASEFINREC                     Balance Sheet: Total Assets: Lease Financing Receivables                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSTASLNDPINST                        Balance Sheet: Total Assets: Loans to Depository Institutions                                                            NSA  02-Dec-2022  Quarterly
+QBPBSTASLNFXGOVOFFINST                  Balance Sheet: Total Assets: Loans to Foreign Governments and Official Institutions                                      NSA  02-Dec-2022  Quarterly
+QBPBSTASLNINDV                          Balance Sheet: Total Assets: Loans to Individuals                                                                        NSA  02-Dec-2022  Quarterly
+QBPBSTASLNINDVCRD                       Balance Sheet: Total Assets: Loans to Individuals: Credit Cards                                                          NSA  02-Dec-2022  Quarterly
+QBPBSTASLNINDVOLNIND                    Balance Sheet: Total Assets: Loans to Individuals: Other Loans to Individuals                                            NSA  02-Dec-2022  Quarterly
+QBPBSTASLNINDVOLNINDCARLN               Balance Sheet: Total Assets: Loans to Individuals: Other Loans to Individuals: Auto Loans                                NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREAL                          Balance Sheet: Total Assets: Loans Secured by Real Estate                                                                NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALCONDEV                    Balance Sheet: Total Assets: Loans Secured by Real Estate: Construction and Development                                  NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALFAMRT                     Balance Sheet: Total Assets: Loans Secured by Real Estate: 1-4 Family Residential Mortgages                              NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALFRMLND                    Balance Sheet: Total Assets: Loans Secured by Real Estate: Farmland                                                      NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALHOMEQ                     Balance Sheet: Total Assets: Loans Secured by Real Estate: Home Equity Lines                                             NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALMFAMREAL                  Balance Sheet: Total Assets: Loans Secured by Real Estate: Multifamily Residential Real Estate                           NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALNFRMRES                   Balance Sheet: Total Assets: Loans Secured by Real Estate: Nonfarm Nonresidential                                        NSA  02-Dec-2022  Quarterly
+QBPBSTASLNREALREALFXOFF                 Balance Sheet: Total Assets: Loans Secured by Real Estate: Real Estate Loans in Foreign Offices                          NSA  02-Dec-2022  Quarterly
+QBPBSTASNTLN                            Balance Sheet: Total Assets: Net Loans and Leases                                                                        NSA  02-Dec-2022  Quarterly
+QBPBSTASOAS                             Balance Sheet: Total Assets: Other Assets                                                                                NSA  02-Dec-2022  Quarterly
+QBPBSTASOBLIGPOL                        Balance Sheet: Total Assets: Obligations of States and Political Subdivisions in the U.S.                                NSA  02-Dec-2022  Quarterly
+QBPBSTASOLN                             Balance Sheet: Total Assets: Other Loans                                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSTASOREAL                           Balance Sheet: Total Assets: Other Real Estate Owned                                                                     NSA  02-Dec-2022  Quarterly
+QBPBSTASSC                              Balance Sheet: Total Assets: Securities                                                                                  NSA  02-Dec-2022  Quarterly
+QBPBSTASSCEQSC                          Balance Sheet: Total Assets: Securities: Equity Securities                                                               NSA  24-May-2022  Quarterly
+QBPBSTASSCHLDMAT                        Balance Sheet: Total Assets: Securities: Held to Maturity (Amortized Cost)                                               NSA  02-Dec-2022  Quarterly
+QBPBSTASSCMRTSEC                        Balance Sheet: Total Assets: Securities: Mortgage-Backed Securities                                                      NSA  02-Dec-2022  Quarterly
+QBPBSTASSCSAL                           Balance Sheet: Total Assets: Securities: Available for Sale (Fair Value)                                                 NSA  02-Dec-2022  Quarterly
+QBPBSTASSCSTMNSC                        Balance Sheet: Total Assets: Securities: State and Municipal Securities                                                  NSA  02-Dec-2022  Quarterly
+QBPBSTASSCUSTRSC                        Balance Sheet: Total Assets: Securities: U.S. Treasury Securities                                                        NSA  02-Dec-2022  Quarterly
+QBPBSTASTLN                             Balance Sheet: Total Assets: Total Loans and Leases                                                                      NSA  02-Dec-2022  Quarterly
+QBPBSTASTLNLESSRES                      Balance Sheet: Total Assets: Total Loans and Leases: Less: Reserve for Losses                                            NSA  02-Dec-2022  Quarterly
+QBPBSTASTRDAS                           Balance Sheet: Total Assets: Trading Account Assets                                                                      NSA  02-Dec-2022  Quarterly
+QBPBSTEMP                               Balance Sheet: Total Employees (Full-Time Equivalent)                                                                    NSA  02-Dec-2022  Quarterly
+QBPBSTLK                                Balance Sheet: Total Liabilities and Capital                                                                             NSA  02-Dec-2022  Quarterly
+QBPBSTLKBKL                             Balance Sheet: Total Liabilities and Capital: Banks Liability on Acceptances                                             NSA  30-Nov-2021  Quarterly
+QBPBSTLKDP                              Balance Sheet: Total Liabilities and Capital: Deposits                                                                   NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDP                        Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits                                         NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDPBRKDP                   Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Brokered Deposits                      NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDPESTIDP                  Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Estimated Insured Deposits             NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDPIDP                     Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Interest-Bearing Deposits              NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDPNIDP                    Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Noninterest-Bearing Deposits           NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPDOFFDPTDP                     Balance Sheet: Total Liabilities and Capital: Deposits: Domestic Office Deposits: Time Deposits                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKDPFXOFFDP                       Balance Sheet: Total Liabilities and Capital: Deposits: Foreign Office Deposits                                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKFEDREPO                         Balance Sheet: Total Liabilities and Capital: Federal Funds Purchased and Repurchase Agreements                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKFHLB                            Balance Sheet: Total Liabilities and Capital: FHLB Advances                                                              NSA  02-Dec-2022  Quarterly
+QBPBSTLKOBOR                            Balance Sheet: Total Liabilities and Capital: Other Borrowed Money                                                       NSA  02-Dec-2022  Quarterly
+QBPBSTLKOL                              Balance Sheet: Total Liabilities and Capital: Other Liabilities                                                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKSUBDEBT                         Balance Sheet: Total Liabilities and Capital: Subordinated Debt                                                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQK                            Balance Sheet: Total Liabilities and Capital: Total Equity Capital                                                       NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQK                      Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital                            NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQKCMY                   Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Cumulative Other Compreh  NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQKCMYAFS                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Cumulative Other Compreh  NSA  30-Nov-2021  Quarterly
+QBPBSTLKTEQKTBKEQKCOMSTK                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Common Stock              NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQKFXCUR                 Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Foreign Currency Transla  NSA  26-Feb-2021  Quarterly
+QBPBSTLKTEQKTBKEQKNDIVPRO               Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Undivided Profits         NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQKPRPSTK                Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Perpetual Preferred Stock NSA  02-Dec-2022  Quarterly
+QBPBSTLKTEQKTBKEQKSURP                  Balance Sheet: Total Liabilities and Capital: Total Equity Capital: Total Bank Equity Capital: Surplus                   NSA  02-Dec-2022  Quarterly
+QBPBSTLKTL                              Balance Sheet: Total Liabilities and Capital: Total Liabilities                                                          NSA  02-Dec-2022  Quarterly
+QBPBSTLKTRDL                            Balance Sheet: Total Liabilities and Capital: Trading Account Liabilities                                                NSA  02-Dec-2022  Quarterly
+QBPBSTRSKK                              Balance Sheet: Total Risk Based Capital (PCA Definition)                                                                 NSA  02-Dec-2022  Quarterly
+QBPBSYER                                Balance Sheet: Income Earned, Not Collected on Loans                                                                     NSA  02-Dec-2022  Quarterly
+QBPLNTLN3089DU                          Loan Performance: Total Loans and Leases: 30-89 Days Past Due                                                            NSA  02-Dec-2022  Quarterly
+QBPLNTLN3089DUR                         Loan Performance: Total Loans and Leases: 30-89 Day Past Due Rate                                                        NSA  02-Dec-2022  Quarterly
+QBPLNTLN90DU                            Loan Performance: Total Loans and Leases: 90 Days or More Past Due                                                       NSA  02-Dec-2022  Quarterly
+QBPLNTLNAVGOUT                          Loan Performance: Total Loans and Leases: Average Outstanding                                                            NSA  02-Dec-2022  Quarterly
+QBPLNTLNNACSTAT                         Loan Performance: Total Loans and Leases: In Nonaccrual Status                                                           NSA  02-Dec-2022  Quarterly
+QBPLNTLNNCUR                            Loan Performance: Total Loans and Leases: Noncurrent Rate                                                                NSA  02-Dec-2022  Quarterly
+QBPLNTLNNTCGOFF                         Loan Performance: Total Loans and Leases: Net Charge-Offs                                                                NSA  02-Dec-2022  Quarterly
+QBPLNTLNNTCGOFFR                        Loan Performance: Total Loans and Leases: Net Charge-Off Rate                                                            NSA  02-Dec-2022  Quarterly
+QBPLNTLNTCGOFF                          Loan Performance: Total Loans and Leases: Total Charge-Offs                                                              NSA  02-Dec-2022  Quarterly
+QBPLNTLNTOUT                            Loan Performance: Total Loans and Leases: Total Outstanding                                                              NSA  02-Dec-2022  Quarterly
+QBPLNTLNTREC                            Loan Performance: Total Loans and Leases: Total Recoveries                                                               NSA  02-Dec-2022  Quarterly
+QBPQYCSHDIV                             Income and Expense: Cash Dividends                                                                                       NSA  02-Dec-2022  Quarterly
+QBPQYEXTRANT                            Income and Expense: Extraordinary Gains (Losses), Net                                                                    NSA  02-Dec-2022  Quarterly
+QBPQYLNLOSS                             Income and Expense: Provision for Loan and Lease Losses                                                                  NSA  02-Dec-2022  Quarterly
+QBPQYNTCGOFF                            Income and Expense: Net Charge-Offs                                                                                      NSA  02-Dec-2022  Quarterly
+QBPQYNTIY                               Income and Expense: Net Interest Income                                                                                  NSA  02-Dec-2022  Quarterly
+QBPQYNTOPY                              Income and Expense: Net Operating Income                                                                                 NSA  02-Dec-2022  Quarterly
+QBPQYNTYBK                              Income and Expense: Net Income (Loss) Attributable to Bank                                                               NSA  02-Dec-2022  Quarterly
+QBPQYNTYBKNI                            Income and Expense: Net Income (Loss) Attributable to Bank and Noncontrolling Interests                                  NSA  02-Dec-2022  Quarterly
+QBPQYNTYNI                              Income and Expense: Net Income (Loss) Attributable to Noncontrolling Interests                                           NSA  02-Dec-2022  Quarterly
+QBPQYNUMINST                            Income and Expense: Number of Institutions Reporting                                                                     NSA  02-Dec-2022  Quarterly
+QBPQYNUMINSTUNPR                        Income and Expense: Number of Unprofitable Institutions                                                                  NSA  02-Dec-2022  Quarterly
+QBPQYNUMINSTYY                          Income and Expense: Number of Institutions with Year-over-Year Earnings Gains                                            NSA  02-Dec-2022  Quarterly
+QBPQYRETER                              Income and Expense: Retained Earnings                                                                                    NSA  02-Dec-2022  Quarterly
+QBPQYSECGAIN                            Income and Expense: Securities Gains (Losses)                                                                            NSA  02-Dec-2022  Quarterly
+QBPQYTIEX                               Income and Expense: Total Interest Expense                                                                               NSA  02-Dec-2022  Quarterly
+QBPQYTIEXDOFFDP                         Income and Expense: Total Interest Expense: Domestic Office Deposits                                                     NSA  02-Dec-2022  Quarterly
+QBPQYTIEXFEDPUR                         Income and Expense: Total Interest Expense: Federal Funds Purchased                                                      NSA  02-Dec-2022  Quarterly
+QBPQYTIEXFXOFFDP                        Income and Expense: Total Interest Expense: Foreign Office Deposits                                                      NSA  02-Dec-2022  Quarterly
+QBPQYTIEXSUBNOTES                       Income and Expense: Total Interest Expense: Subordinated Notes and Debentures                                            NSA  02-Dec-2022  Quarterly
+QBPQYTIEXTRDLBOR                        Income and Expense: Total Interest Expense: Trading Liabilities and Other Borrowed Money                                 NSA  02-Dec-2022  Quarterly
+QBPQYTIY                                Income and Expense: Total Interest Income                                                                                NSA  02-Dec-2022  Quarterly
+QBPQYTIYBALDPINST                       Income and Expense: Total Interest Income: Balances Due from Depository Institutions                                     NSA  02-Dec-2022  Quarterly
+QBPQYTIYDOFFLN                          Income and Expense: Total Interest Income: Domestic Office Loans                                                         NSA  02-Dec-2022  Quarterly
+QBPQYTIYFEDSLD                          Income and Expense: Total Interest Income: Federal Funds Sold                                                            NSA  02-Dec-2022  Quarterly
+QBPQYTIYFXOFFLN                         Income and Expense: Total Interest Income: Foreign Office Loans                                                          NSA  02-Dec-2022  Quarterly
+QBPQYTIYLEASEFINREC                     Income and Expense: Total Interest Income: Lease Financing Receivables                                                   NSA  02-Dec-2022  Quarterly
+QBPQYTIYOIY                             Income and Expense: Total Interest Income: Other Interest Income                                                         NSA  02-Dec-2022  Quarterly
+QBPQYTIYSC                              Income and Expense: Total Interest Income: Securities                                                                    NSA  02-Dec-2022  Quarterly
+QBPQYTIYTRDAC                           Income and Expense: Total Interest Income: Trading Accounts                                                              NSA  02-Dec-2022  Quarterly
+QBPQYTNIEX                              Income and Expense: Total Noninterest Expense                                                                            NSA  02-Dec-2022  Quarterly
+QBPQYTNIEXONIEX                         Income and Expense: Total Noninterest Expense: Other Noninterest Expense                                                 NSA  02-Dec-2022  Quarterly
+QBPQYTNIEXONIEXAMORT                    Income and Expense: Total Noninterest Expense: Other Noninterest Expense: Amortization Expense and Goodwill Impairment   NSA  02-Dec-2022  Quarterly
+QBPQYTNIEXPREMEQEX                      Income and Expense: Total Noninterest Expense: Premises and Equipment Expense                                            NSA  02-Dec-2022  Quarterly
+QBPQYTNIEXSALMPBEN                      Income and Expense: Total Noninterest Expense: Salaries and Employee Benefits                                            NSA  02-Dec-2022  Quarterly
+QBPQYTNIY                               Income and Expense: Total Noninterest Income                                                                             NSA  02-Dec-2022  Quarterly
+QBPQYTNIYFIDACT                         Income and Expense: Total Noninterest Income: Fiduciary Activities                                                       NSA  02-Dec-2022  Quarterly
+QBPQYTNIYINVBK                          Income and Expense: Total Noninterest Income: Investment Banking, Advisory, Brokerage and Underwriting Fees and Commiss  NSA  02-Dec-2022  Quarterly
+QBPQYTNIYNTSALAS                        Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Other Assets (Except Securities)            NSA  02-Dec-2022  Quarterly
+QBPQYTNIYNTSALLN                        Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Loans                                       NSA  02-Dec-2022  Quarterly
+QBPQYTNIYNTSALREAL                      Income and Expense: Total Noninterest Income: Net Gains (Losses) on Sales of Other Real Estate Owned                     NSA  02-Dec-2022  Quarterly
+QBPQYTNIYNTSCY                          Income and Expense: Total Noninterest Income: Net Securitization Income                                                  NSA  02-Dec-2022  Quarterly
+QBPQYTNIYNTSRVFEE                       Income and Expense: Total Noninterest Income: Net Servicing Fees                                                         NSA  02-Dec-2022  Quarterly
+QBPQYTNIYONIY                           Income and Expense: Total Noninterest Income: Other Noninterest Income                                                   NSA  02-Dec-2022  Quarterly
+QBPQYTNIYSRVDP                          Income and Expense: Total Noninterest Income: Service Charges on Deposit Accounts                                        NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGN                          Income and Expense: Total Noninterest Income: Trading Account Gains and Fees                                             NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGNCOMEX                     Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Commodity and Other Exposures              NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGNCRDEX                     Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Credit Exposures                           NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGNEQSCIDX                   Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Equity Security and Index Exposures        NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGNFXEXEXP                   Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Foreign Exchange Exposures                 NSA  02-Dec-2022  Quarterly
+QBPQYTNIYTRDGNIREX                      Income and Expense: Total Noninterest Income: Trading Account Gains and Fees: Interest Rate Exposures                    NSA  02-Dec-2022  Quarterly
+QBPQYTNIYVENTKREV                       Income and Expense: Total Noninterest Income: Venture Capital Revenue                                                    NSA  02-Dec-2022  Quarterly
+QBPQYTNIYYFEE                           Income and Expense: Total Noninterest Income: Insurance Commission Fees and Income                                       NSA  02-Dec-2022  Quarterly
+QBPQYYEXTRA                             Income and Expense: Income (Loss) Before Income Taxes and Extraordinary Items                                            NSA  02-Dec-2022  Quarterly
+QBPQYYTAX                               Income and Expense: Applicable Income Taxes                                                                              NSA  02-Dec-2022  Quarterly

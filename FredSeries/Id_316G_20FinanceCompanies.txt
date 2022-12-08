@@ -1,214 +1,214 @@
 Id : 316  G.20 Finance Companies
-DTBNELNM                                Business Equipment Loans Securitized by Finance Companies, Level                                                                        NSA  Monthly    18-Nov-2022  
-DTBNELXDFBANA                           Business Equipment Loans Securitized by Finance Companies, Flow                                                                         NSA  Monthly    18-Nov-2022  
-DTBNELXDFBANM                           Business Equipment Loans Securitized by Finance Companies, Flow                                                                         NSA  Monthly    18-Nov-2022  
-DTBNENM                                 Business Equipment Loans and Leases Securitized by Finance Companies, Level                                                             NSA  Monthly    18-Nov-2022  
-DTBNERNM                                Business Equipment Leases Securitized by Finance Companies, Level                                                                       NSA  Monthly    18-Nov-2022  
-DTBNERXDFBANA                           Business Equipment Leases Securitized by Finance Companies, Flow                                                                        NSA  Monthly    18-Nov-2022  
-DTBNERXDFBANM                           Business Equipment Leases Securitized by Finance Companies, Flow                                                                        NSA  Monthly    18-Nov-2022  
-DTBNEXDFBANA                            Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTBNEXDFBANM                            Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTBNONM                                 Other Business Receivables Securitized by Finance Companies, Level                                                                      NSA  Monthly    18-Nov-2022  
-DTBNOXDFBANA                            Other Business Receivables Securitized by Finance Companies, Flow                                                                       NSA  Monthly    18-Nov-2022  
-DTBNOXDFBANM                            Other Business Receivables Securitized by Finance Companies, Flow                                                                       NSA  Monthly    18-Nov-2022  
-DTBNVLRNM                               Business Retail Motor Vehicle Loans Securitized by Finance Companies, Level                                                             NSA  Monthly    18-Nov-2022  
-DTBNVLRXDFBANA                          Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTBNVLRXDFBANM                          Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTBNVLWNM                               Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Level                                                          NSA  Monthly    18-Nov-2022  
-DTBNVLWXDFBANA                          Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                                           NSA  Monthly    18-Nov-2022  
-DTBNVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                                           NSA  Monthly    18-Nov-2022  
-DTBNVNM                                 Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Level                                                         NSA  Monthly    18-Nov-2022  
-DTBNVRNM                                Business Motor Vehicle Leases Securitized by Finance Companies, Level                                                                   NSA  Monthly    18-Nov-2022  
-DTBNVRXDFBANA                           Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBNVRXDFBANM                           Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBNVXDFBANA                            Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                                          NSA  Monthly    18-Nov-2022  
-DTBNVXDFBANM                            Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                                          NSA  Monthly    18-Nov-2022  
-DTBOELNM                                Business Equipment Loans Owned by Finance Companies, Level                                                                              NSA  Monthly    18-Nov-2022  
-DTBOELXDFBANA                           Business Equipment Loans Owned by Finance Companies, Flow                                                                               NSA  Monthly    22-Nov-2022  
-DTBOELXDFBANM                           Business Equipment Loans Owned by Finance Companies, Flow                                                                               NSA  Monthly    22-Nov-2022  
-DTBOENM                                 Business Equipment Loans and Leases Owned by Finance Companies, Level                                                                   NSA  Monthly    18-Nov-2022  
-DTBOERNM                                Business Equipment Leases Owned by Finance Companies, Level                                                                             NSA  Monthly    18-Nov-2022  
-DTBOERXDFBANA                           Business Equipment Leases Owned by Finance Companies, Flow                                                                              NSA  Monthly    18-Nov-2022  
-DTBOERXDFBANM                           Business Equipment Leases Owned by Finance Companies, Flow                                                                              NSA  Monthly    18-Nov-2022  
-DTBOEXDFBANA                            Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBOEXDFBANM                            Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBOONM                                 Other Business Receivables Owned by Finance Companies, Level                                                                            NSA  Monthly    18-Nov-2022  
-DTBOOXDFBANA                            Other Business Receivables Owned by Finance Companies, Flow                                                                             NSA  Monthly    18-Nov-2022  
-DTBOOXDFBANM                            Other Business Receivables Owned by Finance Companies, Flow                                                                             NSA  Monthly    18-Nov-2022  
-DTBOVLRNM                               Business Retail Motor Vehicle Loans Owned by Finance Companies, Level                                                                   NSA  Monthly    18-Nov-2022  
-DTBOVLRXDFBANA                          Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBOVLRXDFBANM                          Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTBOVLWNM                               Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Level                                                                NSA  Monthly    18-Nov-2022  
-DTBOVLWXDFBANA                          Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                                 NSA  Monthly    18-Nov-2022  
-DTBOVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                                 NSA  Monthly    18-Nov-2022  
-DTBOVNM                                 Business Motor Vehicle Loans and Leases Owned by Finance Companies, Level                                                               NSA  Monthly    18-Nov-2022  
-DTBOVRNM                                Business Motor Vehicle Leases Owned by Finance Companies, Level                                                                         NSA  Monthly    18-Nov-2022  
-DTBOVRXDFBANA                           Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTBOVRXDFBANM                           Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTBOVXDFBANA                            Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                                NSA  Monthly    18-Nov-2022  
-DTBOVXDFBANM                            Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                                NSA  Monthly    18-Nov-2022  
-DTBTABAM                                Total Business Owned and Managed Receivables Outstanding Held by Finance Companies                                                      SAAR Monthly    18-Nov-2022  
-DTBTELNM                                Business Equipment Loans Owned and Securitized by Finance Companies, Level                                                              NSA  Monthly    18-Nov-2022  
-DTBTELXDFBANM                           Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                               NSA  Monthly    22-Nov-2022  
-DTBTENM                                 Business Equipment Owned and Securitized by Finance Companies, Level                                                                    NSA  Monthly    18-Nov-2022  
-DTBTERNM                                Business Equipment Leases Owned and Securitized by Finance Companies, Level                                                             NSA  Monthly    18-Nov-2022  
-DTBTERXDFBANM                           Business Equipment Leases Owned and Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTBTEXDFBANM                            Business Equipment Owned and Securitized by Finance Companies, Flow                                                                     NSA  Monthly    18-Nov-2022  
-DTBTM                                   Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                                       SA   Monthly    18-Nov-2022  
-DTBTNM                                  Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                                       NSA  Monthly    18-Nov-2022  
-DTBTONM                                 Other Business Loans Owned and Securitized by Finance Companies, Level                                                                  NSA  Monthly    18-Nov-2022  
-DTBTOXDFBANM                            Other Business Loans Owned and Securitized by Finance Companies, Flow                                                                   NSA  Monthly    18-Nov-2022  
-DTBTVLRNM                               Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                                   NSA  Monthly    18-Nov-2022  
-DTBTVLRXDFBANM                          Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                                    NSA  Monthly    18-Nov-2022  
-DTBTVLWNM                               Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                                NSA  Monthly    18-Nov-2022  
-DTBTVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                                 NSA  Monthly    18-Nov-2022  
-DTBTVNM                                 Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Level                                               NSA  Monthly    18-Nov-2022  
-DTBTVRNM                                Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                                         NSA  Monthly    18-Nov-2022  
-DTBTVRXDFBANM                           Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                                          NSA  Monthly    18-Nov-2022  
-DTBTVXDFBANM                            Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Flow                                                NSA  Monthly    18-Nov-2022  
-DTBTXDFBAA                              Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        SA   Monthly    18-Nov-2022  
-DTBTXDFBAM                              Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        SA   Monthly    18-Nov-2022  
-DTBTXDFBANA                             Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        NSA  Monthly    18-Nov-2022  
-DTBTXDFBANM                             Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        NSA  Monthly    18-Nov-2022  
-DTCNLNOHFNM                             Other Consumer Loans Securitized by Finance Companies, Level                                                                            NSA  Monthly    18-Nov-2022  
-DTCNLNOHFXDFBANA                        Other Consumer Loans Securitized by Finance Companies, Flow                                                                             NSA  Monthly    18-Nov-2022  
-DTCNLNOHFXDFBANM                        Other Consumer Loans Securitized by Finance Companies, Flow                                                                             NSA  Monthly    18-Nov-2022  
-DTCNLNVHFNM                             Consumer Motor Vehicle Loans Securitized by Finance Companies, Level                                                                    NSA  Monthly    18-Nov-2022  
-DTCNLNVHFXDFBANA                        Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                                     NSA  Monthly    18-Nov-2022  
-DTCNLNVHFXDFBANM                        Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                                     NSA  Monthly    18-Nov-2022  
-DTCNLRHFNM                              Revolving Consumer Credit Securitized by Finance Companies, Level                                                                       NSA  Monthly    18-Nov-2022  
-DTCNLRHFXDFBANA                         Revolving Consumer Credit Securitized by Finance Companies, Flow                                                                        NSA  Monthly    18-Nov-2022  
-DTCNLRHFXDFBANM                         Revolving Consumer Credit Securitized by Finance Companies, Flow                                                                        NSA  Monthly    18-Nov-2022  
-DTCNRVHFNM                              Consumer Motor Vehicle Leases Securitized by Finance Companies, Level                                                                   NSA  Monthly    18-Nov-2022  
-DTCNRVHFXDFBANA                         Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTCNRVHFXDFBANM                         Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                                    NSA  Monthly    18-Nov-2022  
-DTCOLNOHFNM                             Other Consumer Loans Owned by Finance Companies, Level                                                                                  NSA  Monthly    18-Nov-2022  
-DTCOLNOHFXDFBANA                        Other Consumer Loans Owned by Finance Companies, Flow                                                                                   NSA  Monthly    18-Nov-2022  
-DTCOLNOHFXDFBANM                        Other Consumer Loans Owned by Finance Companies, Flow                                                                                   NSA  Monthly    18-Nov-2022  
-DTCOLNVHFNM                             Consumer Motor Vehicle Loans Owned by Finance Companies, Level                                                                          NSA  Monthly    18-Nov-2022  
-DTCOLNVHFXDFBANA                        Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                                           NSA  Monthly    18-Nov-2022  
-DTCOLNVHFXDFBANM                        Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                                           NSA  Monthly    18-Nov-2022  
-DTCOLRHFNM                              Revolving Consumer Credit Owned by Finance Companies, Level                                                                             NSA  Monthly    18-Nov-2022  
-DTCOLRHFXDFBANA                         Revolving Consumer Credit Owned by Finance Companies, Flow                                                                              NSA  Monthly    18-Nov-2022  
-DTCOLRHFXDFBANM                         Revolving Consumer Credit Owned by Finance Companies, Flow                                                                              NSA  Monthly    18-Nov-2022  
-DTCORVHFNM                              Consumer Motor Vehicle Leases Owned by Finance Companies, Level                                                                         NSA  Monthly    18-Nov-2022  
-DTCORVHFXDFBANA                         Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTCORVHFXDFBANM                         Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTCTHFABAM                              Total Consumer Owned and Managed Receivables Outstanding Held by Finance Companies                                                      SAAR Monthly    18-Nov-2022  
-DTCTHFM                                 Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                                       SA   Monthly    18-Nov-2022  
-DTCTHFNM                                Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                                       NSA  Monthly    18-Nov-2022  
-DTCTHFXDFBAA                            Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        SA   Monthly    18-Nov-2022  
-DTCTHFXDFBAM                            Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        SA   Monthly    18-Nov-2022  
-DTCTHFXDFBANA                           Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        NSA  Monthly    18-Nov-2022  
-DTCTHFXDFBANM                           Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                                        NSA  Monthly    18-Nov-2022  
-DTCTLNOHFNM                             Other Consumer Loans Owned and Securitized by Finance Companies, Level                                                                  NSA  Monthly    18-Nov-2022  
-DTCTLNOHFXDFBANM                        Other Consumer Loans Owned and Securitized by Finance Companies, Flow                                                                   NSA  Monthly    18-Nov-2022  
-DTCTLNVHFNM                             Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                                          NSA  Monthly    18-Nov-2022  
-DTCTLNVHFXDFBANM                        Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                                           NSA  Monthly    18-Nov-2022  
-DTCTLRHFNM                              Revolving Consumer Credit Owned and Securitized by Finance Companies, Level                                                             NSA  Monthly    18-Nov-2022  
-DTCTLRHFXDFBANM                         Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                              NSA  Monthly    18-Nov-2022  
-DTCTLVENANQ                             Average Amount Financed for New Car Loans at Finance Companies                                                                          NSA  Quarterly  29-Sep-2022  
-DTCTLVENMNQ                             Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                                      NSA  Quarterly  29-Sep-2022  
-DTCTLVEUANQ                             Average Amount Financed for Used Car Loans at Finance Companies                                                                         NSA  Quarterly  29-Sep-2022  
-DTCTLVEUMNQ                             Average Maturity of Used Car Loans at Finance Companies, Amount of Finance Weighted                                                     NSA  Quarterly  29-Sep-2022  
-DTCTLVNANM                              Average Amount Financed for New Car Loans at Auto Finance Companies (DISCONTINUED)                                                      NSA  Monthly    05-Mar-2014  
-DTCTLVNLNM                              Loan-to-Value Ratio of New Car Loans at Auto Finance Companies (DISCONTINUED)                                                           NSA  Monthly    05-Mar-2014  
-DTCTLVNMNM                              Weighted-Average Maturity of New Car Loans at Auto Finance Companies (DISCONTINUED)                                                     NSA  Monthly    05-Mar-2014  
-DTCTLVUANM                              Average Amount Financed for Used Car Loans at Auto Finance Companies (DISCONTINUED)                                                     NSA  Monthly    05-Mar-2014  
-DTCTLVULNM                              Loan-to-Value Ratio of Used Car Loans at Auto Finance Companies (DISCONTINUED)                                                          NSA  Monthly    05-Mar-2014  
-DTCTLVUMNM                              Weighted-Average Maturity of Used Car Loans at Auto Finance Companies (DISCONTINUED)                                                    NSA  Monthly    05-Mar-2014  
-DTCTRVHFNM                              Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                                         NSA  Monthly    18-Nov-2022  
-DTCTRVHFXDFBANM                         Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                                          NSA  Monthly    18-Nov-2022  
-DTRNONM                                 Other Real Estate Loans Securitized by Finance Companies, Level                                                                         NSA  Monthly    18-Nov-2022  
-DTRNOXDFBANA                            Other Real Estate Loans Securitized by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTRNOXDFBANM                            Other Real Estate Loans Securitized by Finance Companies, Flow                                                                          NSA  Monthly    18-Nov-2022  
-DTRNSNM                                 One to Four Family Real Estate Loans Securitized by Finance Companies, Level                                                            NSA  Monthly    18-Nov-2022  
-DTRNSXDFBANA                            One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                                             NSA  Monthly    18-Nov-2022  
-DTRNSXDFBANM                            One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                                             NSA  Monthly    18-Nov-2022  
-DTROONM                                 Other Real Estate Loans Owned by Finance Companies, Level                                                                               NSA  Monthly    18-Nov-2022  
-DTROOXDFBANA                            Other Real Estate Loans Owned by Finance Companies, Flow                                                                                NSA  Monthly    18-Nov-2022  
-DTROOXDFBANM                            Other Real Estate Loans Owned by Finance Companies, Flow                                                                                NSA  Monthly    18-Nov-2022  
-DTROSNM                                 One to Four Family Real Estate Loans Owned by Finance Companies, Level                                                                  NSA  Monthly    18-Nov-2022  
-DTROSXDFBANA                            One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                                   NSA  Monthly    18-Nov-2022  
-DTROSXDFBANM                            One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                                   NSA  Monthly    18-Nov-2022  
-DTRTABAM                                Total Real Estate Owned and Managed Receivables Outstanding Held by Finance Companies                                                   SAAR Monthly    18-Nov-2022  
-DTRTM                                   Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                               SA   Monthly    18-Nov-2022  
-DTRTNM                                  Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                               NSA  Monthly    18-Nov-2022  
-DTRTONM                                 Other Real Estate Loans Owned and Securitized by Finance Companies, Level                                                               NSA  Monthly    18-Nov-2022  
-DTRTOXDFBANM                            Other Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                                NSA  Monthly    18-Nov-2022  
-DTRTSNM                                 One to Four Family Real Estate Owned and Securitized by Finance Companies, Level                                                        NSA  Monthly    18-Nov-2022  
-DTRTSXDFBANM                            One to Four Family Real Estate Owned and Securitized by Finance Companies, Flow                                                         NSA  Monthly    18-Nov-2022  
-DTRTXDFBAA                              Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                                SA   Monthly    18-Nov-2022  
-DTRTXDFBAM                              Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                                SA   Monthly    18-Nov-2022  
-DTRTXDFBANA                             Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                                NSA  Monthly    18-Nov-2022  
-DTRTXDFBANM                             Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                                NSA  Monthly    18-Nov-2022  
-DTTHFABAM                               Total Owned and Managed Receivables Outstanding Held by Finance Companies                                                               SAAR Monthly    18-Nov-2022  
-DTTHFM                                  Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                                 SA   Monthly    18-Nov-2022  
-DTTHFNM                                 Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                                 NSA  Monthly    18-Nov-2022  
-DTTHFXDFBAA                             Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                                  SA   Monthly    18-Nov-2022  
-DTTHFXDFBAM                             Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                                  SA   Monthly    18-Nov-2022  
-DTTHFXDFBANA                            Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                                  NSA  Monthly    18-Nov-2022  
-DTTHFXDFBANM                            Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                                  NSA  Monthly    18-Nov-2022  
-RIELPCFANNQ                             Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                                  NSA  Quarterly  29-Sep-2022  
-RIELPCFAUNQ                             Average Finance Rate of Used Car Loans at Finance Companies, Amount of Finance Weighted                                                 NSA  Quarterly  29-Sep-2022  
-RIFLPCFANNM                             New Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                                   NSA  Monthly    05-Mar-2014  
-RIFLPCFAUNM                             Used Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                                  NSA  Monthly    05-Mar-2014  
-STFAFCNQ                                Domestic Finance Companies, Cash and Cash Equivalents, Level                                                                            NSA  Quarterly  29-Sep-2022  
-STFAFCXDFBANA                           Domestic Finance Companies, Cash and Cash Equivalents, Flow                                                                             NSA  Quarterly  29-Sep-2022  
-STFAFCXDFBANQ                           Domestic Finance Companies, Cash and Cash Equivalents, Flow                                                                             NSA  Quarterly  29-Sep-2022  
-STFAFGBNQ                               Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets                           NSA  Quarterly  29-Sep-2022  
-STFAFGBXDFBANA                          Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets, Flow                     NSA  Quarterly  29-Sep-2022  
-STFAFGBXDFBANQ                          Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets, Flow                     NSA  Quarterly  29-Sep-2022  
-STFAFGCNQ                               Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets                           NSA  Quarterly  29-Sep-2022  
-STFAFGCXDFBANA                          Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets, Flow                     NSA  Quarterly  29-Sep-2022  
-STFAFGCXDFBANQ                          Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets, Flow                     NSA  Quarterly  29-Sep-2022  
-STFAFGNQ                                Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets                                             NSA  Quarterly  29-Sep-2022  
-STFAFGRNQ                               Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets                     NSA  Quarterly  29-Sep-2022  
-STFAFGRXDFBANA                          Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets, Flow               NSA  Quarterly  29-Sep-2022  
-STFAFGRXDFBANQ                          Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets, Flow               NSA  Quarterly  29-Sep-2022  
-STFAFGXDFBANA                           Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets, Flow                                       NSA  Quarterly  29-Sep-2022  
-STFAFGXDFBANQ                           Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets, Flow                                       NSA  Quarterly  29-Sep-2022  
-STFAFLNQ                                Domestic Finance Companies, Reserves for Losses                                                                                         NSA  Quarterly  29-Sep-2022  
-STFAFLXDFBANA                           Domestic Finance Companies, Reserves for Losses, Flow                                                                                   NSA  Quarterly  29-Sep-2022  
-STFAFLXDFBANQ                           Domestic Finance Companies, Reserves for Losses, Flow                                                                                   NSA  Quarterly  29-Sep-2022  
-STFAFNNQ                                Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets                                               NSA  Quarterly  29-Sep-2022  
-STFAFNQ                                 Domestic Finance Companies, Total Assets                                                                                                NSA  Quarterly  29-Sep-2022  
-STFAFNXDFBANA                           Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets, Flow                                         NSA  Quarterly  29-Sep-2022  
-STFAFNXDFBANQ                           Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets, Flow                                         NSA  Quarterly  29-Sep-2022  
-STFAFONQ                                Domestic Finance Companies, All Other Assets                                                                                            NSA  Quarterly  29-Sep-2022  
-STFAFOXDFBANA                           Domestic Finance Companies, All Other Assets and Accounts and Notes Receivable, Flow                                                    NSA  Quarterly  29-Sep-2022  
-STFAFOXDFBANQ                           Domestic Finance Companies, All Other Assets and Accounts and Notes Receivable, Flow                                                    NSA  Quarterly  29-Sep-2022  
-STFAFSNQ                                Domestic Finance Companies, Securities, Level                                                                                           NSA  Quarterly  29-Sep-2022  
-STFAFSXDFBANA                           Domestic Finance Companies, Securities, Flow                                                                                            NSA  Quarterly  29-Sep-2022  
-STFAFSXDFBANQ                           Domestic Finance Companies, Securities, Flow                                                                                            NSA  Quarterly  29-Sep-2022  
-STFAFUNQ                                Domestic Finance Companies, Reserves for Unearned Income                                                                                NSA  Quarterly  29-Sep-2022  
-STFAFUXDFBANA                           Domestic Finance Companies, Reserves for Unearned Income, Flow                                                                          NSA  Quarterly  29-Sep-2022  
-STFAFUXDFBANQ                           Domestic Finance Companies, Reserves for Unearned Income, Flow                                                                          NSA  Quarterly  29-Sep-2022  
-STFAFXDFBANA                            Domestic Finance Companies, Total Assets, Flow                                                                                          NSA  Quarterly  29-Sep-2022  
-STFAFXDFBANQ                            Domestic Finance Companies, Total Assets, Flow                                                                                          NSA  Quarterly  29-Sep-2022  
-STFCFNQ                                 Domestic Finance Companies; Capital, Surplus, and Undivided Profits                                                                     NSA  Quarterly  29-Sep-2022  
-STFCFXDFBANA                            Domestic Finance Companies, Total Equity Capital, Flow                                                                                  NSA  Quarterly  29-Sep-2022  
-STFCFXDFBANQ                            Domestic Finance Companies, Total Equity Capital, Flow                                                                                  NSA  Quarterly  29-Sep-2022  
-STFLFDMNQ                               Domestic Finance Companies, Notes, Bonds, and Debentures, Level                                                                         NSA  Quarterly  29-Sep-2022  
-STFLFDMXDFBANQ                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow                                                                          NSA  Quarterly  29-Sep-2022  
-STFLFDNNQ                               Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Level                                               NSA  Quarterly  29-Sep-2022  
-STFLFDNXDFBANA                          Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Flow                                                NSA  Quarterly  29-Sep-2022  
-STFLFDNXDFBANQ                          Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Flow                                                NSA  Quarterly  29-Sep-2022  
-STFLFDONQ                               Domestic Finance Companies, Notes, Bonds, and Debentures, Outstanding (DISCONTINUED)                                                    NSA  Quarterly  21-May-2014  
-STFLFDOXDFBANA                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow (DISCONTINUED)                                                           NSA  Quarterly  21-May-2014  
-STFLFDOXDFBANQ                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow (DISCONTINUED)                                                           NSA  Quarterly  21-May-2014  
-STFLFDPNQ                               Domestic Finance Companies, Debt Due to Parent                                                                                          NSA  Quarterly  29-Sep-2022  
-STFLFDPXDFBANA                          Domestic Finance Companies, Debt Due to Parent Company, Flow                                                                            NSA  Quarterly  29-Sep-2022  
-STFLFDPXDFBANQ                          Domestic Finance Companies, Debt Due to Parent Company, Flow                                                                            NSA  Quarterly  29-Sep-2022  
-STFLFLNQ                                Domestic Finance Companies, Bank Loans                                                                                                  NSA  Quarterly  29-Sep-2022  
-STFLFLXDFBANA                           Domestic Finance Companies, Bank Loans, Flow                                                                                            NSA  Quarterly  29-Sep-2022  
-STFLFLXDFBANQ                           Domestic Finance Companies, Bank Loans, Flow                                                                                            NSA  Quarterly  29-Sep-2022  
-STFLFONQ                                Domestic Finance Companies, All Other Liabilities                                                                                       NSA  Quarterly  29-Sep-2022  
-STFLFOXDFBANA                           Domestic Finance Companies, All Other Liabilities, Flow                                                                                 NSA  Quarterly  29-Sep-2022  
-STFLFOXDFBANQ                           Domestic Finance Companies, All Other Liabilities, Flow                                                                                 NSA  Quarterly  29-Sep-2022  
-STFLFPNQ                                Domestic Finance Companies, Commercial Paper                                                                                            NSA  Quarterly  29-Sep-2022  
-STFLFPXDFBANA                           Domestic Finance Companies, Commercial Paper, Flow                                                                                      NSA  Quarterly  29-Sep-2022  
-STFLFPXDFBANQ                           Domestic Finance Companies, Commercial Paper, Flow                                                                                      NSA  Quarterly  29-Sep-2022  
-STFTFNQ                                 Domestic Finance Companies; Total Liabilities and Capital                                                                               NSA  Quarterly  29-Sep-2022  
-STFTFXDFBANA                            Domestic Finance Companies, Total Liabilities and Equity Capital, Flow                                                                  NSA  Quarterly  29-Sep-2022  
-STFTFXDFBANQ                            Domestic Finance Companies, Total Liabilities and Equity Capital, Flow                                                                  NSA  Quarterly  29-Sep-2022  
+DTBNELNM                                Business Equipment Loans Securitized by Finance Companies, Level                                                         NSA  18-Nov-2022  Monthly
+DTBNELXDFBANA                           Business Equipment Loans Securitized by Finance Companies, Flow                                                          NSA  18-Nov-2022  Monthly
+DTBNELXDFBANM                           Business Equipment Loans Securitized by Finance Companies, Flow                                                          NSA  18-Nov-2022  Monthly
+DTBNENM                                 Business Equipment Loans and Leases Securitized by Finance Companies, Level                                              NSA  18-Nov-2022  Monthly
+DTBNERNM                                Business Equipment Leases Securitized by Finance Companies, Level                                                        NSA  18-Nov-2022  Monthly
+DTBNERXDFBANA                           Business Equipment Leases Securitized by Finance Companies, Flow                                                         NSA  18-Nov-2022  Monthly
+DTBNERXDFBANM                           Business Equipment Leases Securitized by Finance Companies, Flow                                                         NSA  18-Nov-2022  Monthly
+DTBNEXDFBANA                            Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTBNEXDFBANM                            Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTBNONM                                 Other Business Receivables Securitized by Finance Companies, Level                                                       NSA  18-Nov-2022  Monthly
+DTBNOXDFBANA                            Other Business Receivables Securitized by Finance Companies, Flow                                                        NSA  18-Nov-2022  Monthly
+DTBNOXDFBANM                            Other Business Receivables Securitized by Finance Companies, Flow                                                        NSA  18-Nov-2022  Monthly
+DTBNVLRNM                               Business Retail Motor Vehicle Loans Securitized by Finance Companies, Level                                              NSA  18-Nov-2022  Monthly
+DTBNVLRXDFBANA                          Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTBNVLRXDFBANM                          Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTBNVLWNM                               Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Level                                           NSA  18-Nov-2022  Monthly
+DTBNVLWXDFBANA                          Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                            NSA  18-Nov-2022  Monthly
+DTBNVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                            NSA  18-Nov-2022  Monthly
+DTBNVNM                                 Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Level                                          NSA  18-Nov-2022  Monthly
+DTBNVRNM                                Business Motor Vehicle Leases Securitized by Finance Companies, Level                                                    NSA  18-Nov-2022  Monthly
+DTBNVRXDFBANA                           Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBNVRXDFBANM                           Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBNVXDFBANA                            Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                           NSA  18-Nov-2022  Monthly
+DTBNVXDFBANM                            Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                           NSA  18-Nov-2022  Monthly
+DTBOELNM                                Business Equipment Loans Owned by Finance Companies, Level                                                               NSA  18-Nov-2022  Monthly
+DTBOELXDFBANA                           Business Equipment Loans Owned by Finance Companies, Flow                                                                NSA  22-Nov-2022  Monthly
+DTBOELXDFBANM                           Business Equipment Loans Owned by Finance Companies, Flow                                                                NSA  22-Nov-2022  Monthly
+DTBOENM                                 Business Equipment Loans and Leases Owned by Finance Companies, Level                                                    NSA  18-Nov-2022  Monthly
+DTBOERNM                                Business Equipment Leases Owned by Finance Companies, Level                                                              NSA  18-Nov-2022  Monthly
+DTBOERXDFBANA                           Business Equipment Leases Owned by Finance Companies, Flow                                                               NSA  18-Nov-2022  Monthly
+DTBOERXDFBANM                           Business Equipment Leases Owned by Finance Companies, Flow                                                               NSA  18-Nov-2022  Monthly
+DTBOEXDFBANA                            Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBOEXDFBANM                            Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBOONM                                 Other Business Receivables Owned by Finance Companies, Level                                                             NSA  18-Nov-2022  Monthly
+DTBOOXDFBANA                            Other Business Receivables Owned by Finance Companies, Flow                                                              NSA  18-Nov-2022  Monthly
+DTBOOXDFBANM                            Other Business Receivables Owned by Finance Companies, Flow                                                              NSA  18-Nov-2022  Monthly
+DTBOVLRNM                               Business Retail Motor Vehicle Loans Owned by Finance Companies, Level                                                    NSA  18-Nov-2022  Monthly
+DTBOVLRXDFBANA                          Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBOVLRXDFBANM                          Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTBOVLWNM                               Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Level                                                 NSA  18-Nov-2022  Monthly
+DTBOVLWXDFBANA                          Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                  NSA  18-Nov-2022  Monthly
+DTBOVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                  NSA  18-Nov-2022  Monthly
+DTBOVNM                                 Business Motor Vehicle Loans and Leases Owned by Finance Companies, Level                                                NSA  18-Nov-2022  Monthly
+DTBOVRNM                                Business Motor Vehicle Leases Owned by Finance Companies, Level                                                          NSA  18-Nov-2022  Monthly
+DTBOVRXDFBANA                           Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTBOVRXDFBANM                           Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTBOVXDFBANA                            Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                 NSA  18-Nov-2022  Monthly
+DTBOVXDFBANM                            Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                 NSA  18-Nov-2022  Monthly
+DTBTABAM                                Total Business Owned and Managed Receivables Outstanding Held by Finance Companies                                       SAAR 18-Nov-2022  Monthly
+DTBTELNM                                Business Equipment Loans Owned and Securitized by Finance Companies, Level                                               NSA  18-Nov-2022  Monthly
+DTBTELXDFBANM                           Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                NSA  22-Nov-2022  Monthly
+DTBTENM                                 Business Equipment Owned and Securitized by Finance Companies, Level                                                     NSA  18-Nov-2022  Monthly
+DTBTERNM                                Business Equipment Leases Owned and Securitized by Finance Companies, Level                                              NSA  18-Nov-2022  Monthly
+DTBTERXDFBANM                           Business Equipment Leases Owned and Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTBTEXDFBANM                            Business Equipment Owned and Securitized by Finance Companies, Flow                                                      NSA  18-Nov-2022  Monthly
+DTBTM                                   Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                        SA   18-Nov-2022  Monthly
+DTBTNM                                  Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                        NSA  18-Nov-2022  Monthly
+DTBTONM                                 Other Business Loans Owned and Securitized by Finance Companies, Level                                                   NSA  18-Nov-2022  Monthly
+DTBTOXDFBANM                            Other Business Loans Owned and Securitized by Finance Companies, Flow                                                    NSA  18-Nov-2022  Monthly
+DTBTVLRNM                               Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                    NSA  18-Nov-2022  Monthly
+DTBTVLRXDFBANM                          Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                     NSA  18-Nov-2022  Monthly
+DTBTVLWNM                               Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                 NSA  18-Nov-2022  Monthly
+DTBTVLWXDFBANM                          Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                  NSA  18-Nov-2022  Monthly
+DTBTVNM                                 Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Level                                NSA  18-Nov-2022  Monthly
+DTBTVRNM                                Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                          NSA  18-Nov-2022  Monthly
+DTBTVRXDFBANM                           Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                           NSA  18-Nov-2022  Monthly
+DTBTVXDFBANM                            Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Flow                                 NSA  18-Nov-2022  Monthly
+DTBTXDFBAA                              Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                         SA   18-Nov-2022  Monthly
+DTBTXDFBAM                              Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                         SA   18-Nov-2022  Monthly
+DTBTXDFBANA                             Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                         NSA  18-Nov-2022  Monthly
+DTBTXDFBANM                             Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                         NSA  18-Nov-2022  Monthly
+DTCNLNOHFNM                             Other Consumer Loans Securitized by Finance Companies, Level                                                             NSA  18-Nov-2022  Monthly
+DTCNLNOHFXDFBANA                        Other Consumer Loans Securitized by Finance Companies, Flow                                                              NSA  18-Nov-2022  Monthly
+DTCNLNOHFXDFBANM                        Other Consumer Loans Securitized by Finance Companies, Flow                                                              NSA  18-Nov-2022  Monthly
+DTCNLNVHFNM                             Consumer Motor Vehicle Loans Securitized by Finance Companies, Level                                                     NSA  18-Nov-2022  Monthly
+DTCNLNVHFXDFBANA                        Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                      NSA  18-Nov-2022  Monthly
+DTCNLNVHFXDFBANM                        Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                      NSA  18-Nov-2022  Monthly
+DTCNLRHFNM                              Revolving Consumer Credit Securitized by Finance Companies, Level                                                        NSA  18-Nov-2022  Monthly
+DTCNLRHFXDFBANA                         Revolving Consumer Credit Securitized by Finance Companies, Flow                                                         NSA  18-Nov-2022  Monthly
+DTCNLRHFXDFBANM                         Revolving Consumer Credit Securitized by Finance Companies, Flow                                                         NSA  18-Nov-2022  Monthly
+DTCNRVHFNM                              Consumer Motor Vehicle Leases Securitized by Finance Companies, Level                                                    NSA  18-Nov-2022  Monthly
+DTCNRVHFXDFBANA                         Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTCNRVHFXDFBANM                         Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                     NSA  18-Nov-2022  Monthly
+DTCOLNOHFNM                             Other Consumer Loans Owned by Finance Companies, Level                                                                   NSA  18-Nov-2022  Monthly
+DTCOLNOHFXDFBANA                        Other Consumer Loans Owned by Finance Companies, Flow                                                                    NSA  18-Nov-2022  Monthly
+DTCOLNOHFXDFBANM                        Other Consumer Loans Owned by Finance Companies, Flow                                                                    NSA  18-Nov-2022  Monthly
+DTCOLNVHFNM                             Consumer Motor Vehicle Loans Owned by Finance Companies, Level                                                           NSA  18-Nov-2022  Monthly
+DTCOLNVHFXDFBANA                        Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                            NSA  18-Nov-2022  Monthly
+DTCOLNVHFXDFBANM                        Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                            NSA  18-Nov-2022  Monthly
+DTCOLRHFNM                              Revolving Consumer Credit Owned by Finance Companies, Level                                                              NSA  18-Nov-2022  Monthly
+DTCOLRHFXDFBANA                         Revolving Consumer Credit Owned by Finance Companies, Flow                                                               NSA  18-Nov-2022  Monthly
+DTCOLRHFXDFBANM                         Revolving Consumer Credit Owned by Finance Companies, Flow                                                               NSA  18-Nov-2022  Monthly
+DTCORVHFNM                              Consumer Motor Vehicle Leases Owned by Finance Companies, Level                                                          NSA  18-Nov-2022  Monthly
+DTCORVHFXDFBANA                         Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTCORVHFXDFBANM                         Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTCTHFABAM                              Total Consumer Owned and Managed Receivables Outstanding Held by Finance Companies                                       SAAR 18-Nov-2022  Monthly
+DTCTHFM                                 Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                        SA   18-Nov-2022  Monthly
+DTCTHFNM                                Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                        NSA  18-Nov-2022  Monthly
+DTCTHFXDFBAA                            Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                         SA   18-Nov-2022  Monthly
+DTCTHFXDFBAM                            Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                         SA   18-Nov-2022  Monthly
+DTCTHFXDFBANA                           Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                         NSA  18-Nov-2022  Monthly
+DTCTHFXDFBANM                           Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                         NSA  18-Nov-2022  Monthly
+DTCTLNOHFNM                             Other Consumer Loans Owned and Securitized by Finance Companies, Level                                                   NSA  18-Nov-2022  Monthly
+DTCTLNOHFXDFBANM                        Other Consumer Loans Owned and Securitized by Finance Companies, Flow                                                    NSA  18-Nov-2022  Monthly
+DTCTLNVHFNM                             Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                           NSA  18-Nov-2022  Monthly
+DTCTLNVHFXDFBANM                        Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                            NSA  18-Nov-2022  Monthly
+DTCTLRHFNM                              Revolving Consumer Credit Owned and Securitized by Finance Companies, Level                                              NSA  18-Nov-2022  Monthly
+DTCTLRHFXDFBANM                         Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                               NSA  18-Nov-2022  Monthly
+DTCTLVENANQ                             Average Amount Financed for New Car Loans at Finance Companies                                                           NSA  29-Sep-2022  Quarterly
+DTCTLVENMNQ                             Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                       NSA  29-Sep-2022  Quarterly
+DTCTLVEUANQ                             Average Amount Financed for Used Car Loans at Finance Companies                                                          NSA  29-Sep-2022  Quarterly
+DTCTLVEUMNQ                             Average Maturity of Used Car Loans at Finance Companies, Amount of Finance Weighted                                      NSA  29-Sep-2022  Quarterly
+DTCTLVNANM                              Average Amount Financed for New Car Loans at Auto Finance Companies (DISCONTINUED)                                       NSA  05-Mar-2014  Monthly
+DTCTLVNLNM                              Loan-to-Value Ratio of New Car Loans at Auto Finance Companies (DISCONTINUED)                                            NSA  05-Mar-2014  Monthly
+DTCTLVNMNM                              Weighted-Average Maturity of New Car Loans at Auto Finance Companies (DISCONTINUED)                                      NSA  05-Mar-2014  Monthly
+DTCTLVUANM                              Average Amount Financed for Used Car Loans at Auto Finance Companies (DISCONTINUED)                                      NSA  05-Mar-2014  Monthly
+DTCTLVULNM                              Loan-to-Value Ratio of Used Car Loans at Auto Finance Companies (DISCONTINUED)                                           NSA  05-Mar-2014  Monthly
+DTCTLVUMNM                              Weighted-Average Maturity of Used Car Loans at Auto Finance Companies (DISCONTINUED)                                     NSA  05-Mar-2014  Monthly
+DTCTRVHFNM                              Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                          NSA  18-Nov-2022  Monthly
+DTCTRVHFXDFBANM                         Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                           NSA  18-Nov-2022  Monthly
+DTRNONM                                 Other Real Estate Loans Securitized by Finance Companies, Level                                                          NSA  18-Nov-2022  Monthly
+DTRNOXDFBANA                            Other Real Estate Loans Securitized by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTRNOXDFBANM                            Other Real Estate Loans Securitized by Finance Companies, Flow                                                           NSA  18-Nov-2022  Monthly
+DTRNSNM                                 One to Four Family Real Estate Loans Securitized by Finance Companies, Level                                             NSA  18-Nov-2022  Monthly
+DTRNSXDFBANA                            One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                              NSA  18-Nov-2022  Monthly
+DTRNSXDFBANM                            One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                              NSA  18-Nov-2022  Monthly
+DTROONM                                 Other Real Estate Loans Owned by Finance Companies, Level                                                                NSA  18-Nov-2022  Monthly
+DTROOXDFBANA                            Other Real Estate Loans Owned by Finance Companies, Flow                                                                 NSA  18-Nov-2022  Monthly
+DTROOXDFBANM                            Other Real Estate Loans Owned by Finance Companies, Flow                                                                 NSA  18-Nov-2022  Monthly
+DTROSNM                                 One to Four Family Real Estate Loans Owned by Finance Companies, Level                                                   NSA  18-Nov-2022  Monthly
+DTROSXDFBANA                            One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                    NSA  18-Nov-2022  Monthly
+DTROSXDFBANM                            One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                    NSA  18-Nov-2022  Monthly
+DTRTABAM                                Total Real Estate Owned and Managed Receivables Outstanding Held by Finance Companies                                    SAAR 18-Nov-2022  Monthly
+DTRTM                                   Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                SA   18-Nov-2022  Monthly
+DTRTNM                                  Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                NSA  18-Nov-2022  Monthly
+DTRTONM                                 Other Real Estate Loans Owned and Securitized by Finance Companies, Level                                                NSA  18-Nov-2022  Monthly
+DTRTOXDFBANM                            Other Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                 NSA  18-Nov-2022  Monthly
+DTRTSNM                                 One to Four Family Real Estate Owned and Securitized by Finance Companies, Level                                         NSA  18-Nov-2022  Monthly
+DTRTSXDFBANM                            One to Four Family Real Estate Owned and Securitized by Finance Companies, Flow                                          NSA  18-Nov-2022  Monthly
+DTRTXDFBAA                              Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                 SA   18-Nov-2022  Monthly
+DTRTXDFBAM                              Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                 SA   18-Nov-2022  Monthly
+DTRTXDFBANA                             Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                 NSA  18-Nov-2022  Monthly
+DTRTXDFBANM                             Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                 NSA  18-Nov-2022  Monthly
+DTTHFABAM                               Total Owned and Managed Receivables Outstanding Held by Finance Companies                                                SAAR 18-Nov-2022  Monthly
+DTTHFM                                  Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                  SA   18-Nov-2022  Monthly
+DTTHFNM                                 Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                  NSA  18-Nov-2022  Monthly
+DTTHFXDFBAA                             Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                   SA   18-Nov-2022  Monthly
+DTTHFXDFBAM                             Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                   SA   18-Nov-2022  Monthly
+DTTHFXDFBANA                            Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                   NSA  18-Nov-2022  Monthly
+DTTHFXDFBANM                            Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                   NSA  18-Nov-2022  Monthly
+RIELPCFANNQ                             Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                   NSA  29-Sep-2022  Quarterly
+RIELPCFAUNQ                             Average Finance Rate of Used Car Loans at Finance Companies, Amount of Finance Weighted                                  NSA  29-Sep-2022  Quarterly
+RIFLPCFANNM                             New Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                    NSA  05-Mar-2014  Monthly
+RIFLPCFAUNM                             Used Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                   NSA  05-Mar-2014  Monthly
+STFAFCNQ                                Domestic Finance Companies, Cash and Cash Equivalents, Level                                                             NSA  29-Sep-2022  Quarterly
+STFAFCXDFBANA                           Domestic Finance Companies, Cash and Cash Equivalents, Flow                                                              NSA  29-Sep-2022  Quarterly
+STFAFCXDFBANQ                           Domestic Finance Companies, Cash and Cash Equivalents, Flow                                                              NSA  29-Sep-2022  Quarterly
+STFAFGBNQ                               Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets            NSA  29-Sep-2022  Quarterly
+STFAFGBXDFBANA                          Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets, Flow      NSA  29-Sep-2022  Quarterly
+STFAFGBXDFBANQ                          Domestic Finance Companies, Gross Business Accounts Receivable Excluding Pools of Securitized Business Assets, Flow      NSA  29-Sep-2022  Quarterly
+STFAFGCNQ                               Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets            NSA  29-Sep-2022  Quarterly
+STFAFGCXDFBANA                          Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets, Flow      NSA  29-Sep-2022  Quarterly
+STFAFGCXDFBANQ                          Domestic Finance Companies, Gross Consumer Accounts Receivable Excluding Pools of Securitized Consumer Assets, Flow      NSA  29-Sep-2022  Quarterly
+STFAFGNQ                                Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets                              NSA  29-Sep-2022  Quarterly
+STFAFGRNQ                               Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets      NSA  29-Sep-2022  Quarterly
+STFAFGRXDFBANA                          Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets, Fl  NSA  29-Sep-2022  Quarterly
+STFAFGRXDFBANQ                          Domestic Finance Companies, Gross Real Estate Accounts Receivable Excluding Pools of Securitized Real Estate Assets, Fl  NSA  29-Sep-2022  Quarterly
+STFAFGXDFBANA                           Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets, Flow                        NSA  29-Sep-2022  Quarterly
+STFAFGXDFBANQ                           Domestic Finance Companies, Gross Accounts Receivable Excluding Pools of Securitized Assets, Flow                        NSA  29-Sep-2022  Quarterly
+STFAFLNQ                                Domestic Finance Companies, Reserves for Losses                                                                          NSA  29-Sep-2022  Quarterly
+STFAFLXDFBANA                           Domestic Finance Companies, Reserves for Losses, Flow                                                                    NSA  29-Sep-2022  Quarterly
+STFAFLXDFBANQ                           Domestic Finance Companies, Reserves for Losses, Flow                                                                    NSA  29-Sep-2022  Quarterly
+STFAFNNQ                                Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets                                NSA  29-Sep-2022  Quarterly
+STFAFNQ                                 Domestic Finance Companies, Total Assets                                                                                 NSA  29-Sep-2022  Quarterly
+STFAFNXDFBANA                           Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets, Flow                          NSA  29-Sep-2022  Quarterly
+STFAFNXDFBANQ                           Domestic Finance Companies, Net Accounts Receivable Excluding Pools of Securitized Assets, Flow                          NSA  29-Sep-2022  Quarterly
+STFAFONQ                                Domestic Finance Companies, All Other Assets                                                                             NSA  29-Sep-2022  Quarterly
+STFAFOXDFBANA                           Domestic Finance Companies, All Other Assets and Accounts and Notes Receivable, Flow                                     NSA  29-Sep-2022  Quarterly
+STFAFOXDFBANQ                           Domestic Finance Companies, All Other Assets and Accounts and Notes Receivable, Flow                                     NSA  29-Sep-2022  Quarterly
+STFAFSNQ                                Domestic Finance Companies, Securities, Level                                                                            NSA  29-Sep-2022  Quarterly
+STFAFSXDFBANA                           Domestic Finance Companies, Securities, Flow                                                                             NSA  29-Sep-2022  Quarterly
+STFAFSXDFBANQ                           Domestic Finance Companies, Securities, Flow                                                                             NSA  29-Sep-2022  Quarterly
+STFAFUNQ                                Domestic Finance Companies, Reserves for Unearned Income                                                                 NSA  29-Sep-2022  Quarterly
+STFAFUXDFBANA                           Domestic Finance Companies, Reserves for Unearned Income, Flow                                                           NSA  29-Sep-2022  Quarterly
+STFAFUXDFBANQ                           Domestic Finance Companies, Reserves for Unearned Income, Flow                                                           NSA  29-Sep-2022  Quarterly
+STFAFXDFBANA                            Domestic Finance Companies, Total Assets, Flow                                                                           NSA  29-Sep-2022  Quarterly
+STFAFXDFBANQ                            Domestic Finance Companies, Total Assets, Flow                                                                           NSA  29-Sep-2022  Quarterly
+STFCFNQ                                 Domestic Finance Companies; Capital, Surplus, and Undivided Profits                                                      NSA  29-Sep-2022  Quarterly
+STFCFXDFBANA                            Domestic Finance Companies, Total Equity Capital, Flow                                                                   NSA  29-Sep-2022  Quarterly
+STFCFXDFBANQ                            Domestic Finance Companies, Total Equity Capital, Flow                                                                   NSA  29-Sep-2022  Quarterly
+STFLFDMNQ                               Domestic Finance Companies, Notes, Bonds, and Debentures, Level                                                          NSA  29-Sep-2022  Quarterly
+STFLFDMXDFBANQ                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow                                                           NSA  29-Sep-2022  Quarterly
+STFLFDNNQ                               Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Level                                NSA  29-Sep-2022  Quarterly
+STFLFDNXDFBANA                          Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Flow                                 NSA  29-Sep-2022  Quarterly
+STFLFDNXDFBANQ                          Domestic Finance Companies, Non-Recourse Debt Associated with Financing Activities, Flow                                 NSA  29-Sep-2022  Quarterly
+STFLFDONQ                               Domestic Finance Companies, Notes, Bonds, and Debentures, Outstanding (DISCONTINUED)                                     NSA  21-May-2014  Quarterly
+STFLFDOXDFBANA                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow (DISCONTINUED)                                            NSA  21-May-2014  Quarterly
+STFLFDOXDFBANQ                          Domestic Finance Companies, Notes, Bonds, and Debentures, Flow (DISCONTINUED)                                            NSA  21-May-2014  Quarterly
+STFLFDPNQ                               Domestic Finance Companies, Debt Due to Parent                                                                           NSA  29-Sep-2022  Quarterly
+STFLFDPXDFBANA                          Domestic Finance Companies, Debt Due to Parent Company, Flow                                                             NSA  29-Sep-2022  Quarterly
+STFLFDPXDFBANQ                          Domestic Finance Companies, Debt Due to Parent Company, Flow                                                             NSA  29-Sep-2022  Quarterly
+STFLFLNQ                                Domestic Finance Companies, Bank Loans                                                                                   NSA  29-Sep-2022  Quarterly
+STFLFLXDFBANA                           Domestic Finance Companies, Bank Loans, Flow                                                                             NSA  29-Sep-2022  Quarterly
+STFLFLXDFBANQ                           Domestic Finance Companies, Bank Loans, Flow                                                                             NSA  29-Sep-2022  Quarterly
+STFLFONQ                                Domestic Finance Companies, All Other Liabilities                                                                        NSA  29-Sep-2022  Quarterly
+STFLFOXDFBANA                           Domestic Finance Companies, All Other Liabilities, Flow                                                                  NSA  29-Sep-2022  Quarterly
+STFLFOXDFBANQ                           Domestic Finance Companies, All Other Liabilities, Flow                                                                  NSA  29-Sep-2022  Quarterly
+STFLFPNQ                                Domestic Finance Companies, Commercial Paper                                                                             NSA  29-Sep-2022  Quarterly
+STFLFPXDFBANA                           Domestic Finance Companies, Commercial Paper, Flow                                                                       NSA  29-Sep-2022  Quarterly
+STFLFPXDFBANQ                           Domestic Finance Companies, Commercial Paper, Flow                                                                       NSA  29-Sep-2022  Quarterly
+STFTFNQ                                 Domestic Finance Companies; Total Liabilities and Capital                                                                NSA  29-Sep-2022  Quarterly
+STFTFXDFBANA                            Domestic Finance Companies, Total Liabilities and Equity Capital, Flow                                                   NSA  29-Sep-2022  Quarterly
+STFTFXDFBANQ                            Domestic Finance Companies, Total Liabilities and Equity Capital, Flow                                                   NSA  29-Sep-2022  Quarterly

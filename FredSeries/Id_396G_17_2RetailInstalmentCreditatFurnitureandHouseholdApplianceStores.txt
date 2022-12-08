@@ -1,7 +1,7 @@
 Id : 396  G.17.2 Retail Instalment Credit at Furniture and Household Appliance Stores
-G172CRFUN02                             Collection Ratios on Instalment Accounts, Furniture Stores (DISCONTINUED)                                                               NSA  Monthly, Beginning of Month 03-Nov-2016  
-G172CRHA02                              Collection Ratios on Instalment Accounts, Household Appliance Stores (DISCONTINUED)                                                     NSA  Monthly, Beginning of Month 03-Nov-2016  
-G172CRJA02                              Collection Ratios on Instalment Accounts, Jewelry Stores (DISCONTINUED)                                                                 NSA  Monthly, Beginning of Month 03-Nov-2016  
-G172IIFUN01                             Instalment Accounts Outstanding, Furniture Stores (DISCONTINUED)                                                                        NSA  Monthly    03-Nov-2016  
-G172IIHA01                              Instalment Accounts Outstanding, Household Appliance Stores (DISCONTINUED)                                                              NSA  Monthly    03-Nov-2016  
-G172IIJA01                              Instalment Accounts Outstanding, Jewelry Stores (DISCONTINUED)                                                                          NSA  Monthly    03-Nov-2016  
+G172CRFUN02                             Collection Ratios on Instalment Accounts, Furniture Stores (DISCONTINUED)                                                NSA  03-Nov-2016  Monthly, Beginning of Month
+G172CRHA02                              Collection Ratios on Instalment Accounts, Household Appliance Stores (DISCONTINUED)                                      NSA  03-Nov-2016  Monthly, Beginning of Month
+G172CRJA02                              Collection Ratios on Instalment Accounts, Jewelry Stores (DISCONTINUED)                                                  NSA  03-Nov-2016  Monthly, Beginning of Month
+G172IIFUN01                             Instalment Accounts Outstanding, Furniture Stores (DISCONTINUED)                                                         NSA  03-Nov-2016  Monthly
+G172IIHA01                              Instalment Accounts Outstanding, Household Appliance Stores (DISCONTINUED)                                               NSA  03-Nov-2016  Monthly
+G172IIJA01                              Instalment Accounts Outstanding, Jewelry Stores (DISCONTINUED)                                                           NSA  03-Nov-2016  Monthly

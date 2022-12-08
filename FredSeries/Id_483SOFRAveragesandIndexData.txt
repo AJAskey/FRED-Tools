@@ -1,5 +1,5 @@
 Id : 483  SOFR Averages and Index Data
-SOFR180DAYAVG                           180-Day Average SOFR                                                                                                                    NSA  Daily      07-Dec-2022  
-SOFR30DAYAVG                            30-Day Average SOFR                                                                                                                     NSA  Daily      07-Dec-2022  
-SOFR90DAYAVG                            90-Day Average SOFR                                                                                                                     NSA  Daily      07-Dec-2022  
-SOFRINDEX                               SOFR Index                                                                                                                              NSA  Daily      07-Dec-2022  
+SOFR180DAYAVG                           180-Day Average SOFR                                                                                                     NSA  08-Dec-2022  Daily
+SOFR30DAYAVG                            30-Day Average SOFR                                                                                                      NSA  08-Dec-2022  Daily
+SOFR90DAYAVG                            90-Day Average SOFR                                                                                                      NSA  08-Dec-2022  Daily
+SOFRINDEX                               SOFR Index                                                                                                               NSA  08-Dec-2022  Daily

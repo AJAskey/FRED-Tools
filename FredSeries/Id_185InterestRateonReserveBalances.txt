@@ -1,8 +1,8 @@
 Id : 185  Interest Rate on Reserve Balances
-INTEXC1                                 Interest Rate Paid on Excess Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED)                              NSA  Weekly, Ending Wednesday 26-Jun-2013  
-INTEXC2                                 Interest Rate Paid on Excess Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED)                              NSA  Biweekly, Ending Wednesday 26-Jun-2013  
-INTREQ1                                 Interest Rate Paid on Required Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED)                            NSA  Weekly, Ending Wednesday 26-Jun-2013  
-INTREQ2                                 Interest Rate Paid on Required Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED)                            NSA  Biweekly, Ending Wednesday 26-Jun-2013  
-IOER                                    Interest Rate on Excess Reserves (DISCONTINUED)                                                                                         NSA  Daily, 7-Day 27-Jul-2021  
-IORB                                    Interest Rate on Reserve Balances                                                                                                       NSA  Daily, 7-Day 07-Dec-2022  
-IORR                                    Interest Rate on Required Reserves (DISCONTINUED)                                                                                       NSA  Daily, 7-Day 27-Jul-2021  
+INTEXC1                                 Interest Rate Paid on Excess Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED)               NSA  26-Jun-2013  Weekly, Ending Wednesday
+INTEXC2                                 Interest Rate Paid on Excess Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED)               NSA  26-Jun-2013  Biweekly, Ending Wednesday
+INTREQ1                                 Interest Rate Paid on Required Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED)             NSA  26-Jun-2013  Weekly, Ending Wednesday
+INTREQ2                                 Interest Rate Paid on Required Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED)             NSA  26-Jun-2013  Biweekly, Ending Wednesday
+IOER                                    Interest Rate on Excess Reserves (DISCONTINUED)                                                                          NSA  27-Jul-2021  Daily, 7-Day
+IORB                                    Interest Rate on Reserve Balances                                                                                        NSA  07-Dec-2022  Daily, 7-Day
+IORR                                    Interest Rate on Required Reserves (DISCONTINUED)                                                                        NSA  27-Jul-2021  Daily, 7-Day

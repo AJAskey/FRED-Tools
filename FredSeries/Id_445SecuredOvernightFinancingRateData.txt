@@ -1,7 +1,7 @@
 Id : 445  Secured Overnight Financing Rate Data
-SOFR                                    Secured Overnight Financing Rate                                                                                                        NSA  Daily      07-Dec-2022  
-SOFR1                                   Secured Overnight Financing Rate: 1st Percentile                                                                                        NSA  Daily      07-Dec-2022  
-SOFR25                                  Secured Overnight Financing Rate: 25th Percentile                                                                                       NSA  Daily      07-Dec-2022  
-SOFR75                                  Secured Overnight Financing Rate: 75th Percentile                                                                                       NSA  Daily      07-Dec-2022  
-SOFR99                                  Secured Overnight Financing Rate: 99th Percentile                                                                                       NSA  Daily      07-Dec-2022  
-SOFRVOL                                 Secured Overnight Financing Volume                                                                                                      NSA  Daily      07-Dec-2022  
+SOFR                                    Secured Overnight Financing Rate                                                                                         NSA  08-Dec-2022  Daily
+SOFR1                                   Secured Overnight Financing Rate: 1st Percentile                                                                         NSA  08-Dec-2022  Daily
+SOFR25                                  Secured Overnight Financing Rate: 25th Percentile                                                                        NSA  08-Dec-2022  Daily
+SOFR75                                  Secured Overnight Financing Rate: 75th Percentile                                                                        NSA  08-Dec-2022  Daily
+SOFR99                                  Secured Overnight Financing Rate: 99th Percentile                                                                        NSA  08-Dec-2022  Daily
+SOFRVOL                                 Secured Overnight Financing Volume                                                                                       NSA  08-Dec-2022  Daily

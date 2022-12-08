@@ -1,31 +1,31 @@
 Id : 357  Hours of Wage and Salary Workers on Nonfarm Payrolls by Sector
-CNSTA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction (DISCONTINUED)                                                       NSA  Annual     20-May-2022  
-CNSTQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction (DISCONTINUED)                                                       SAAR Quarterly  21-Oct-2022  
-DRMGA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing (DISCONTINUED)                               NSA  Annual     20-May-2022  
-DRMGQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing (DISCONTINUED)                               SAAR Quarterly  21-Oct-2022  
-EHSCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services (DISCONTINUED)                                      NSA  Annual     20-May-2022  
-EHSCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services (DISCONTINUED)                                      SAAR Quarterly  21-Oct-2022  
-FNATA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities (DISCONTINUED)                                               NSA  Annual     20-May-2022  
-FNATQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities (DISCONTINUED)                                               SAAR Quarterly  21-Oct-2022  
-GVRTA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Government (DISCONTINUED)                                                         NSA  Annual     18-Mar-2022  
-GVRTQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Government (DISCONTINUED)                                                         SAAR Quarterly  21-Oct-2022  
-INFRA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Information (DISCONTINUED)                                                        NSA  Annual     20-May-2022  
-INFRQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Information (DISCONTINUED)                                                        SAAR Quarterly  21-Oct-2022  
-LSHSA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Leisure and Hospitality (DISCONTINUED)                                            NSA  Annual     20-May-2022  
-LSHSQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Leisure and Hospitality (DISCONTINUED)                                            SAAR Quarterly  21-Oct-2022  
-MNFCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing (DISCONTINUED)                                                      NSA  Annual     20-May-2022  
-MNFCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing (DISCONTINUED)                                                      SAAR Quarterly  21-Oct-2022  
-NDMGA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Nondurable Manufacturing (DISCONTINUED)                            NSA  Annual     20-May-2022  
-NDMGQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Nondurable Manufacturing (DISCONTINUED)                            SAAR Quarterly  21-Oct-2022  
-NRMIA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Natural Resources and Mining (DISCONTINUED)                                       NSA  Annual     20-May-2022  
-NRMIQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Natural Resources and Mining (DISCONTINUED)                                       SAAR Quarterly  21-Oct-2022  
-OSVCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Other Services (DISCONTINUED)                                                     NSA  Annual     20-May-2022  
-OSVCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Other Services (DISCONTINUED)                                                     SAAR Quarterly  21-Oct-2022  
-PBSVA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Professional and Business Services (DISCONTINUED)                                 NSA  Annual     20-May-2022  
-PBSVQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Professional and Business Services (DISCONTINUED)                                 SAAR Quarterly  21-Oct-2022  
-PRSCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Private Sector (DISCONTINUED)                                                     NSA  Annual     20-May-2022  
-PRSCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Private Sector (DISCONTINUED)                                                     SAAR Quarterly  21-Oct-2022  
-TOTLA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Total (DISCONTINUED)                                                              NSA  Annual     20-May-2022  
-TOTLQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Total (DISCONTINUED)                                                              SAAR Quarterly  21-Oct-2022  
-TTULA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Trade, Transportation and Utilities (DISCONTINUED)                                NSA  Annual     20-May-2022  
-TTULQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Trade, Transportation and Utilities (DISCONTINUED)                                SAAR Quarterly  21-Oct-2022  
+CNSTA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction (DISCONTINUED)                                        NSA  20-May-2022  Annual
+CNSTQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction (DISCONTINUED)                                        SAAR 21-Oct-2022  Quarterly
+DRMGA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing (DISCONTINUED)                NSA  20-May-2022  Annual
+DRMGQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing (DISCONTINUED)                SAAR 21-Oct-2022  Quarterly
+EHSCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services (DISCONTINUED)                       NSA  20-May-2022  Annual
+EHSCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services (DISCONTINUED)                       SAAR 21-Oct-2022  Quarterly
+FNATA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities (DISCONTINUED)                                NSA  20-May-2022  Annual
+FNATQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities (DISCONTINUED)                                SAAR 21-Oct-2022  Quarterly
+GVRTA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Government (DISCONTINUED)                                          NSA  18-Mar-2022  Annual
+GVRTQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Government (DISCONTINUED)                                          SAAR 21-Oct-2022  Quarterly
+INFRA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Information (DISCONTINUED)                                         NSA  20-May-2022  Annual
+INFRQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Information (DISCONTINUED)                                         SAAR 21-Oct-2022  Quarterly
+LSHSA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Leisure and Hospitality (DISCONTINUED)                             NSA  20-May-2022  Annual
+LSHSQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Leisure and Hospitality (DISCONTINUED)                             SAAR 21-Oct-2022  Quarterly
+MNFCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing (DISCONTINUED)                                       NSA  20-May-2022  Annual
+MNFCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing (DISCONTINUED)                                       SAAR 21-Oct-2022  Quarterly
+NDMGA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Nondurable Manufacturing (DISCONTINUED)             NSA  20-May-2022  Annual
+NDMGQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Nondurable Manufacturing (DISCONTINUED)             SAAR 21-Oct-2022  Quarterly
+NRMIA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Natural Resources and Mining (DISCONTINUED)                        NSA  20-May-2022  Annual
+NRMIQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Natural Resources and Mining (DISCONTINUED)                        SAAR 21-Oct-2022  Quarterly
+OSVCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Other Services (DISCONTINUED)                                      NSA  20-May-2022  Annual
+OSVCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Other Services (DISCONTINUED)                                      SAAR 21-Oct-2022  Quarterly
+PBSVA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Professional and Business Services (DISCONTINUED)                  NSA  20-May-2022  Annual
+PBSVQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Professional and Business Services (DISCONTINUED)                  SAAR 21-Oct-2022  Quarterly
+PRSCA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Private Sector (DISCONTINUED)                                      NSA  20-May-2022  Annual
+PRSCQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Private Sector (DISCONTINUED)                                      SAAR 21-Oct-2022  Quarterly
+TOTLA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Total (DISCONTINUED)                                               NSA  20-May-2022  Annual
+TOTLQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Total (DISCONTINUED)                                               SAAR 21-Oct-2022  Quarterly
+TTULA                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Trade, Transportation and Utilities (DISCONTINUED)                 NSA  20-May-2022  Annual
+TTULQ                                   Hours of Wage and Salary Workers on Nonfarm Payrolls: Trade, Transportation and Utilities (DISCONTINUED)                 SAAR 21-Oct-2022  Quarterly

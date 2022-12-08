@@ -1,37 +1,37 @@
 Id : 304  Interest Rate Spreads
-AAA10Y                                  Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                                       NSA  Daily      07-Dec-2022  
-AAA10YM                                 Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                                       NSA  Monthly    01-Dec-2022  
-AAAFF                                   Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate                                                                            NSA  Daily      07-Dec-2022  
-AAAFFM                                  Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate                                                                            NSA  Monthly    01-Dec-2022  
-BAA10Y                                  Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                                       NSA  Daily      07-Dec-2022  
-BAA10YM                                 Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                                       NSA  Monthly    01-Dec-2022  
-BAAFF                                   Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate                                                                            NSA  Daily      07-Dec-2022  
-BAAFFM                                  Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate                                                                            NSA  Monthly    01-Dec-2022  
-CPFF                                    3-Month Commercial Paper Minus Federal Funds Rate                                                                                       NSA  Daily      07-Dec-2022  
-CPFFM                                   3-Month Commercial Paper Minus Federal Funds Rate                                                                                       NSA  Monthly    01-Dec-2022  
-T10Y2Y                                  10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity                                                              NSA  Daily      07-Dec-2022  
-T10Y2YM                                 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity                                                              NSA  Monthly    01-Dec-2022  
-T10Y3M                                  10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity                                                             NSA  Daily      07-Dec-2022  
-T10Y3MM                                 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity                                                             NSA  Monthly    01-Dec-2022  
-T10YFF                                  10-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Daily      07-Dec-2022  
-T10YFFM                                 10-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Monthly    01-Dec-2022  
-T10YIE                                  10-Year Breakeven Inflation Rate                                                                                                        NSA  Daily      07-Dec-2022  
-T10YIEM                                 10-Year Breakeven Inflation Rate                                                                                                        NSA  Monthly    01-Dec-2022  
-T1YFF                                   1-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                              NSA  Daily      07-Dec-2022  
-T1YFFM                                  1-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                              NSA  Monthly    01-Dec-2022  
-T20YIEM                                 20-year Breakeven Inflation Rate                                                                                                        NSA  Monthly    01-Dec-2022  
-T30YIEM                                 30-year Breakeven Inflation Rate                                                                                                        NSA  Monthly    01-Dec-2022  
-T3MFF                                   3-Month Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Daily      07-Dec-2022  
-T3MFFM                                  3-Month Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Monthly    01-Dec-2022  
-T5YFF                                   5-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                              NSA  Daily      07-Dec-2022  
-T5YFFM                                  5-Year Treasury Constant Maturity Minus Federal Funds Rate                                                                              NSA  Monthly    01-Dec-2022  
-T5YIE                                   5-Year Breakeven Inflation Rate                                                                                                         NSA  Daily      07-Dec-2022  
-T5YIEM                                  5-Year Breakeven Inflation Rate                                                                                                         NSA  Monthly    01-Dec-2022  
-T5YIFR                                  5-Year, 5-Year Forward Inflation Expectation Rate                                                                                       NSA  Daily      07-Dec-2022  
-T5YIFRM                                 5-Year, 5-Year Forward Inflation Expectation Rate                                                                                       NSA  Monthly    01-Dec-2022  
-T6MFF                                   6-Month Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Daily      07-Dec-2022  
-T6MFFM                                  6-Month Treasury Constant Maturity Minus Federal Funds Rate                                                                             NSA  Monthly    01-Dec-2022  
-T7YIEM                                  7-year Breakeven Inflation Rate                                                                                                         NSA  Monthly    01-Dec-2022  
-TB3SMFFM                                3-Month Treasury Bill Minus Federal Funds Rate                                                                                          NSA  Monthly    01-Dec-2022  
-TB6SMFFM                                6-Month Treasury Bill Minus Federal Funds Rate                                                                                          NSA  Monthly    01-Dec-2022  
-TEDRATE                                 TED Spread (DISCONTINUED)                                                                                                               NSA  Daily      28-Jan-2022  
+AAA10Y                                  Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                        NSA  07-Dec-2022  Daily
+AAA10YM                                 Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                        NSA  01-Dec-2022  Monthly
+AAAFF                                   Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate                                                             NSA  07-Dec-2022  Daily
+AAAFFM                                  Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate                                                             NSA  01-Dec-2022  Monthly
+BAA10Y                                  Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                        NSA  07-Dec-2022  Daily
+BAA10YM                                 Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity                        NSA  01-Dec-2022  Monthly
+BAAFF                                   Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate                                                             NSA  07-Dec-2022  Daily
+BAAFFM                                  Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate                                                             NSA  01-Dec-2022  Monthly
+CPFF                                    3-Month Commercial Paper Minus Federal Funds Rate                                                                        NSA  07-Dec-2022  Daily
+CPFFM                                   3-Month Commercial Paper Minus Federal Funds Rate                                                                        NSA  01-Dec-2022  Monthly
+T10Y2Y                                  10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity                                               NSA  07-Dec-2022  Daily
+T10Y2YM                                 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity                                               NSA  01-Dec-2022  Monthly
+T10Y3M                                  10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity                                              NSA  07-Dec-2022  Daily
+T10Y3MM                                 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity                                              NSA  01-Dec-2022  Monthly
+T10YFF                                  10-Year Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  07-Dec-2022  Daily
+T10YFFM                                 10-Year Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  01-Dec-2022  Monthly
+T10YIE                                  10-Year Breakeven Inflation Rate                                                                                         NSA  07-Dec-2022  Daily
+T10YIEM                                 10-Year Breakeven Inflation Rate                                                                                         NSA  01-Dec-2022  Monthly
+T1YFF                                   1-Year Treasury Constant Maturity Minus Federal Funds Rate                                                               NSA  07-Dec-2022  Daily
+T1YFFM                                  1-Year Treasury Constant Maturity Minus Federal Funds Rate                                                               NSA  01-Dec-2022  Monthly
+T20YIEM                                 20-year Breakeven Inflation Rate                                                                                         NSA  01-Dec-2022  Monthly
+T30YIEM                                 30-year Breakeven Inflation Rate                                                                                         NSA  01-Dec-2022  Monthly
+T3MFF                                   3-Month Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  07-Dec-2022  Daily
+T3MFFM                                  3-Month Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  01-Dec-2022  Monthly
+T5YFF                                   5-Year Treasury Constant Maturity Minus Federal Funds Rate                                                               NSA  07-Dec-2022  Daily
+T5YFFM                                  5-Year Treasury Constant Maturity Minus Federal Funds Rate                                                               NSA  01-Dec-2022  Monthly
+T5YIE                                   5-Year Breakeven Inflation Rate                                                                                          NSA  07-Dec-2022  Daily
+T5YIEM                                  5-Year Breakeven Inflation Rate                                                                                          NSA  01-Dec-2022  Monthly
+T5YIFR                                  5-Year, 5-Year Forward Inflation Expectation Rate                                                                        NSA  07-Dec-2022  Daily
+T5YIFRM                                 5-Year, 5-Year Forward Inflation Expectation Rate                                                                        NSA  01-Dec-2022  Monthly
+T6MFF                                   6-Month Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  07-Dec-2022  Daily
+T6MFFM                                  6-Month Treasury Constant Maturity Minus Federal Funds Rate                                                              NSA  01-Dec-2022  Monthly
+T7YIEM                                  7-year Breakeven Inflation Rate                                                                                          NSA  01-Dec-2022  Monthly
+TB3SMFFM                                3-Month Treasury Bill Minus Federal Funds Rate                                                                           NSA  01-Dec-2022  Monthly
+TB6SMFFM                                6-Month Treasury Bill Minus Federal Funds Rate                                                                           NSA  01-Dec-2022  Monthly
+TEDRATE                                 TED Spread (DISCONTINUED)                                                                                                NSA  28-Jan-2022  Daily

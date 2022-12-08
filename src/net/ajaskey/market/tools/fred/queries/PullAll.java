@@ -12,6 +12,8 @@ import net.ajaskey.market.tools.fred.ApiKey;
 
 public class PullAll {
 
+  static public String seriesOutputFormat = "%-40s%-120s %-4s %-12s %s";
+
   static List<String> summary = new ArrayList<>();
 
   static PrintWriter allSeriesPw = null;
@@ -89,13 +91,13 @@ public class PullAll {
           for (Series ser : serList) {
 
             String t = ser.getTitle().trim();
-            if (t.length() > 135) {
-              t = t.substring(0, 134);
+            if (t.length() > 120) {
+              t = t.substring(0, 119);
             }
 
-            String sum = String.format("%-40s%-135s %-4s %-10s %-13s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
-                ser.getLastUpdate());
+            String sum = String.format(seriesOutputFormat, ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getLastUpdate(), ser.getFrequency());
             pw.println(sum);
+
             allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
             String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
             summary.add(relsum);
@@ -135,8 +137,7 @@ public class PullAll {
             t = t.substring(0, 134);
           }
 
-          String sum = String.format("%-40s%-135s %-4s %-10s %-13s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getFrequency(),
-              ser.getLastUpdate());
+          String sum = String.format(seriesOutputFormat, ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getLastUpdate(), ser.getFrequency());
           pw.println(sum);
           allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
           String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());

@@ -52,4 +52,9 @@
         </java>
     </target>
 	
+    <target name="makejar" depends="build">
+    	<jar destfile="out/fredtools.jar"
+    	     basedir="bin" />
+    </target>	
+	
 </project>

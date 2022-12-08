@@ -1,321 +1,321 @@
 Id : 152  Health Insurance Coverage
-AKHICCOVER                              Health Insurance Coverage: People Covered in Alaska (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-AKHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Alaska (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-AKHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Alaska (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-AKHICNOTCOV                             Health Insurance Coverage: People Not Covered in Alaska (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-AKHICTOTAL                              Health Insurance Coverage: Total Number of People in Alaska (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-ALHICCOVER                              Health Insurance Coverage: People Covered in Alabama (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-ALHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Alabama (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-ALHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Alabama (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-ALHICNOTCOV                             Health Insurance Coverage: People Not Covered in Alabama (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-ALHICTOTAL                              Health Insurance Coverage: Total Number of People in Alabama (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-ARHICCOVER                              Health Insurance Coverage: People Covered in Arkansas (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-ARHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Arkansas (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-ARHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Arkansas (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-ARHICNOTCOV                             Health Insurance Coverage: People Not Covered in Arkansas (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-ARHICTOTAL                              Health Insurance Coverage: Total Number of People in Arkansas (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-AZHICCOVER                              Health Insurance Coverage: People Covered in Arizona (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-AZHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Arizona (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-AZHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Arizona (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-AZHICNOTCOV                             Health Insurance Coverage: People Not Covered in Arizona (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-AZHICTOTAL                              Health Insurance Coverage: Total Number of People in Arizona (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-CAHICCOVER                              Health Insurance Coverage: People Covered in California (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-CAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in California (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-CAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in California (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-CAHICNOTCOV                             Health Insurance Coverage: People Not Covered in California (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-CAHICTOTAL                              Health Insurance Coverage: Total Number of People in California (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-CENCHICCOVER                            Health Insurance Coverage: People Covered in the East North Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CENCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the East North Central Census Division (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  
-CENCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the East North Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CENCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the East North Central Census Division (DISCONTINUED)                                  NSA  Annual     17-Sep-2013  
-CENCHICTOTAL                            Health Insurance Coverage: Total Number of People in the East North Central Census Division (DISCONTINUED)                              NSA  Annual     17-Sep-2013  
-CESCHICCOVER                            Health Insurance Coverage: People Covered in the East South Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CESCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the East South Central Census Division (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  
-CESCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the East South Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CESCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the East South Central Census Division (DISCONTINUED)                                  NSA  Annual     17-Sep-2013  
-CESCHICTOTAL                            Health Insurance Coverage: Total Number of People in the East South Central Census Division (DISCONTINUED)                              NSA  Annual     17-Sep-2013  
-CMATHICCOVER                            Health Insurance Coverage: People Covered in the Middle Atlantic Census Division (DISCONTINUED)                                         NSA  Annual     17-Sep-2013  
-CMATHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Middle Atlantic Census Division (DISCONTINUED)                                          NSA  Annual     17-Sep-2013  
-CMATHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Middle Atlantic Census Division (DISCONTINUED)                                         NSA  Annual     17-Sep-2013  
-CMATHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Middle Atlantic Census Division (DISCONTINUED)                                     NSA  Annual     17-Sep-2013  
-CMATHICTOTAL                            Health Insurance Coverage: Total Number of People in the Middle Atlantic Census Division (DISCONTINUED)                                 NSA  Annual     17-Sep-2013  
-CMTNHICCOVER                            Health Insurance Coverage: People Covered in the Mountain Census Division (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
-CMTNHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Mountain Census Division (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
-CMTNHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Mountain Census Division (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
-CMTNHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Mountain Census Division (DISCONTINUED)                                            NSA  Annual     17-Sep-2013  
-CMTNHICTOTAL                            Health Insurance Coverage: Total Number of People in the Mountain Census Division (DISCONTINUED)                                        NSA  Annual     17-Sep-2013  
-CMWRHICCOVER                            Health Insurance Coverage: People Covered in the Midwest Census Region (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
-CMWRHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Midwest Census Region (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
-CMWRHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Midwest Census Region (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
-CMWRHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Midwest Census Region (DISCONTINUED)                                               NSA  Annual     17-Sep-2013  
-CMWRHICTOTAL                            Health Insurance Coverage: Total Number of People in the Midwest Census Region (DISCONTINUED)                                           NSA  Annual     17-Sep-2013  
-CNERHICCOVER                            Health Insurance Coverage: People Covered in the Northeast Census Region (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
-CNERHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Northeast Census Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
-CNERHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Northeast Census Region (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
-CNERHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Northeast Census Region (DISCONTINUED)                                             NSA  Annual     17-Sep-2013  
-CNERHICTOTAL                            Health Insurance Coverage: Total Number of People in the Northeast Census Region (DISCONTINUED)                                         NSA  Annual     17-Sep-2013  
-CNEWHICCOVER                            Health Insurance Coverage: People Covered in the New England Census Division (DISCONTINUED)                                             NSA  Annual     17-Sep-2013  
-CNEWHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the New England Census Division (DISCONTINUED)                                              NSA  Annual     17-Sep-2013  
-CNEWHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the New England Census Division (DISCONTINUED)                                             NSA  Annual     17-Sep-2013  
-CNEWHICNOTCOV                           Health Insurance Coverage: People Not Covered in the New England Census Division (DISCONTINUED)                                         NSA  Annual     17-Sep-2013  
-CNEWHICTOTAL                            Health Insurance Coverage: Total Number of People in the New England Census Division (DISCONTINUED)                                     NSA  Annual     17-Sep-2013  
-COHICCOVER                              Health Insurance Coverage: People Covered in Colorado (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-COHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Colorado (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-COHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Colorado (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-COHICNOTCOV                             Health Insurance Coverage: People Not Covered in Colorado (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-COHICTOTAL                              Health Insurance Coverage: Total Number of People in Colorado (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-CPACHICCOVER                            Health Insurance Coverage: People Covered in the Pacific Census Division (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
-CPACHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Pacific Census Division (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
-CPACHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Pacific Census Division (DISCONTINUED)                                                 NSA  Annual     17-Sep-2013  
-CPACHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Pacific Census Division (DISCONTINUED)                                             NSA  Annual     17-Sep-2013  
-CPACHICTOTAL                            Health Insurance Coverage: Total Number of People in the Pacific Census Division (DISCONTINUED)                                         NSA  Annual     17-Sep-2013  
-CSATLHICCOVER                           Health Insurance Coverage: People Covered in the South Atlantic Census Division (DISCONTINUED)                                          NSA  Annual     17-Sep-2013  
-CSATLHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the South Atlantic Census Division (DISCONTINUED)                                           NSA  Annual     17-Sep-2013  
-CSATLHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the South Atlantic Census Division (DISCONTINUED)                                          NSA  Annual     17-Sep-2013  
-CSATLHICNOTCOV                          Health Insurance Coverage: People Not Covered in the South Atlantic Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CSATLHICTOTAL                           Health Insurance Coverage: Total Number of People in the South Atlantic Census Division (DISCONTINUED)                                  NSA  Annual     17-Sep-2013  
-CTHICCOVER                              Health Insurance Coverage: People Covered in Connecticut (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-CTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Connecticut (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-CTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Connecticut (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-CTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Connecticut (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-CTHICTOTAL                              Health Insurance Coverage: Total Number of People in Connecticut (DISCONTINUED)                                                         NSA  Annual     17-Sep-2013  
-CWNCHICCOVER                            Health Insurance Coverage: People Covered in the West North Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CWNCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West North Central Census Division (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  
-CWNCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West North Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CWNCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West North Central Census Division (DISCONTINUED)                                  NSA  Annual     17-Sep-2013  
-CWNCHICTOTAL                            Health Insurance Coverage: Total Number of People in the West North Central Census Division (DISCONTINUED)                              NSA  Annual     17-Sep-2013  
-CWSCHICCOVER                            Health Insurance Coverage: People Covered in the West South Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CWSCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West South Central Census Division (DISCONTINUED)                                       NSA  Annual     17-Sep-2013  
-CWSCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West South Central Census Division (DISCONTINUED)                                      NSA  Annual     17-Sep-2013  
-CWSCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West South Central Census Division (DISCONTINUED)                                  NSA  Annual     17-Sep-2013  
-CWSCHICTOTAL                            Health Insurance Coverage: Total Number of People in the West South Central Census Division (DISCONTINUED)                              NSA  Annual     17-Sep-2013  
-CWSTHICCOVER                            Health Insurance Coverage: People Covered in the West Census Region (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
-CWSTHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West Census Region (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
-CWSTHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West Census Region (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
-CWSTHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West Census Region (DISCONTINUED)                                                  NSA  Annual     17-Sep-2013  
-CWSTHICTOTAL                            Health Insurance Coverage: Total Number of People in the West Census Region (DISCONTINUED)                                              NSA  Annual     17-Sep-2013  
-DCHICCOVER                              Health Insurance Coverage: People Covered in the District of Columbia (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
-DCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in the District of Columbia (DISCONTINUED)                                                     NSA  Annual     17-Sep-2013  
-DCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in the District of Columbia (DISCONTINUED)                                                    NSA  Annual     17-Sep-2013  
-DCHICNOTCOV                             Health Insurance Coverage: People Not Covered in the District of Columbia (DISCONTINUED)                                                NSA  Annual     17-Sep-2013  
-DCHICTOTAL                              Health Insurance Coverage: Total Number of People in the District of Columbia (DISCONTINUED)                                            NSA  Annual     17-Sep-2013  
-DEHICCOVER                              Health Insurance Coverage: People Covered in Delaware (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-DEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Delaware (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-DEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Delaware (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-DEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Delaware (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-DEHICTOTAL                              Health Insurance Coverage: Total Number of People in Delaware (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-FLHICCOVER                              Health Insurance Coverage: People Covered in Florida (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-FLHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Florida (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-FLHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Florida (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-FLHICNOTCOV                             Health Insurance Coverage: People Not Covered in Florida (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-FLHICTOTAL                              Health Insurance Coverage: Total Number of People in Florida (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-GAHICCOVER                              Health Insurance Coverage: People Covered in Georgia (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-GAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Georgia (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-GAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Georgia (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-GAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Georgia (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-GAHICTOTAL                              Health Insurance Coverage: Total Number of People in Georgia (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-HIHICCOVER                              Health Insurance Coverage: People Covered in Hawaii (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-HIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Hawaii (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-HIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Hawaii (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-HIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Hawaii (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-HIHICTOTAL                              Health Insurance Coverage: Total Number of People in Hawaii (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-IAHICCOVER                              Health Insurance Coverage: People Covered in Iowa (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-IAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Iowa (DISCONTINUED)                                                                         NSA  Annual     17-Sep-2013  
-IAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Iowa (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-IAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Iowa (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-IAHICTOTAL                              Health Insurance Coverage: Total Number of People in Iowa (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-IDHICCOVER                              Health Insurance Coverage: People Covered in Idaho (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-IDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Idaho (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-IDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Idaho (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-IDHICNOTCOV                             Health Insurance Coverage: People Not Covered in Idaho (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-IDHICTOTAL                              Health Insurance Coverage: Total Number of People in Idaho (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-ILHICCOVER                              Health Insurance Coverage: People Covered in Illinois (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-ILHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Illinois (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-ILHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Illinois (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-ILHICNOTCOV                             Health Insurance Coverage: People Not Covered in Illinois (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-ILHICTOTAL                              Health Insurance Coverage: Total Number of People in Illinois (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-INHICCOVER                              Health Insurance Coverage: People Covered in Indiana (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-INHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Indiana (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-INHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Indiana (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-INHICNOTCOV                             Health Insurance Coverage: People Not Covered in Indiana (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-INHICTOTAL                              Health Insurance Coverage: Total Number of People in Indiana (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-KSHICCOVER                              Health Insurance Coverage: People Covered in Kansas (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-KSHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Kansas (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-KSHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Kansas (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-KSHICNOTCOV                             Health Insurance Coverage: People Not Covered in Kansas (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-KSHICTOTAL                              Health Insurance Coverage: Total Number of People in Kansas (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-KYHICCOVER                              Health Insurance Coverage: People Covered in Kentucky (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-KYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Kentucky (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-KYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Kentucky (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-KYHICNOTCOV                             Health Insurance Coverage: People Not Covered in Kentucky (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-KYHICTOTAL                              Health Insurance Coverage: Total Number of People in Kentucky (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-LAHICCOVER                              Health Insurance Coverage: People Covered in Louisiana (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-LAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Louisiana (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-LAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Louisiana (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-LAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Louisiana (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-LAHICTOTAL                              Health Insurance Coverage: Total Number of People in Louisiana (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-MAHICCOVER                              Health Insurance Coverage: People Covered in Massachusetts (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-MAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Massachusetts (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-MAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Massachusetts (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-MAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Massachusetts (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-MAHICTOTAL                              Health Insurance Coverage: Total Number of People in Massachusetts (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
-MDHICCOVER                              Health Insurance Coverage: People Covered in Maryland (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Maryland (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-MDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Maryland (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MDHICNOTCOV                             Health Insurance Coverage: People Not Covered in Maryland (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-MDHICTOTAL                              Health Insurance Coverage: Total Number of People in Maryland (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-MEHICCOVER                              Health Insurance Coverage: People Covered in Maine (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-MEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Maine (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-MEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Maine (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-MEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Maine (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-MEHICTOTAL                              Health Insurance Coverage: Total Number of People in Maine (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-MIHICCOVER                              Health Insurance Coverage: People Covered in Michigan (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Michigan (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-MIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Michigan (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Michigan (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-MIHICTOTAL                              Health Insurance Coverage: Total Number of People in Michigan (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-MNHICCOVER                              Health Insurance Coverage: People Covered in Minnesota (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-MNHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Minnesota (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MNHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Minnesota (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-MNHICNOTCOV                             Health Insurance Coverage: People Not Covered in Minnesota (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-MNHICTOTAL                              Health Insurance Coverage: Total Number of People in Minnesota (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-MOHICCOVER                              Health Insurance Coverage: People Covered in Missouri (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MOHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Missouri (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-MOHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Missouri (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-MOHICNOTCOV                             Health Insurance Coverage: People Not Covered in Missouri (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-MOHICTOTAL                              Health Insurance Coverage: Total Number of People in Missouri (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-MSHICCOVER                              Health Insurance Coverage: People Covered in Mississippi (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-MSHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Mississippi (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-MSHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Mississippi (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-MSHICNOTCOV                             Health Insurance Coverage: People Not Covered in Mississippi (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-MSHICTOTAL                              Health Insurance Coverage: Total Number of People in Mississippi (DISCONTINUED)                                                         NSA  Annual     17-Sep-2013  
-MTHICCOVER                              Health Insurance Coverage: People Covered in Montana (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-MTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Montana (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-MTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Montana (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-MTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Montana (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-MTHICTOTAL                              Health Insurance Coverage: Total Number of People in Montana (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-NCHICCOVER                              Health Insurance Coverage: People Covered in North Carolina (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-NCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in North Carolina (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-NCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in North Carolina (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-NCHICNOTCOV                             Health Insurance Coverage: People Not Covered in North Carolina (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-NCHICTOTAL                              Health Insurance Coverage: Total Number of People in North Carolina (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
-NDHICCOVER                              Health Insurance Coverage: People Covered in North Dakota (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-NDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in North Dakota (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-NDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in North Dakota (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-NDHICNOTCOV                             Health Insurance Coverage: People Not Covered in North Dakota (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-NDHICTOTAL                              Health Insurance Coverage: Total Number of People in North Dakota (DISCONTINUED)                                                        NSA  Annual     17-Sep-2013  
-NEHICCOVER                              Health Insurance Coverage: People Covered in Nebraska (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-NEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Nebraska (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-NEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Nebraska (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-NEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Nebraska (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-NEHICTOTAL                              Health Insurance Coverage: Total Number of People in Nebraska (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-NHHICCOVER                              Health Insurance Coverage: People Covered in New Hampshire (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-NHHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Hampshire (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-NHHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Hampshire (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-NHHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Hampshire (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-NHHICTOTAL                              Health Insurance Coverage: Total Number of People in New Hampshire (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
-NJHICCOVER                              Health Insurance Coverage: People Covered in New Jersey (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-NJHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Jersey (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-NJHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Jersey (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-NJHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Jersey (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-NJHICTOTAL                              Health Insurance Coverage: Total Number of People in New Jersey (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-NMHICCOVER                              Health Insurance Coverage: People Covered in New Mexico (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-NMHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Mexico (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-NMHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Mexico (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-NMHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Mexico (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-NMHICTOTAL                              Health Insurance Coverage: Total Number of People in New Mexico (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-NVHICCOVER                              Health Insurance Coverage: People Covered in Nevada (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-NVHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Nevada (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-NVHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Nevada (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-NVHICNOTCOV                             Health Insurance Coverage: People Not Covered in Nevada (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-NVHICTOTAL                              Health Insurance Coverage: Total Number of People in Nevada (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-NYHICCOVER                              Health Insurance Coverage: People Covered in New York (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-NYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New York (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-NYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New York (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-NYHICNOTCOV                             Health Insurance Coverage: People Not Covered in New York (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-NYHICTOTAL                              Health Insurance Coverage: Total Number of People in New York (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-OHHICCOVER                              Health Insurance Coverage: People Covered in Ohio (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-OHHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Ohio (DISCONTINUED)                                                                         NSA  Annual     17-Sep-2013  
-OHHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Ohio (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-OHHICNOTCOV                             Health Insurance Coverage: People Not Covered in Ohio (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-OHHICTOTAL                              Health Insurance Coverage: Total Number of People in Ohio (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-OKHICCOVER                              Health Insurance Coverage: People Covered in Oklahoma (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-OKHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Oklahoma (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-OKHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Oklahoma (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-OKHICNOTCOV                             Health Insurance Coverage: People Not Covered in Oklahoma (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-OKHICTOTAL                              Health Insurance Coverage: Total Number of People in Oklahoma (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-ORHICCOVER                              Health Insurance Coverage: People Covered in Oregon (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-ORHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Oregon (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-ORHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Oregon (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-ORHICNOTCOV                             Health Insurance Coverage: People Not Covered in Oregon (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-ORHICTOTAL                              Health Insurance Coverage: Total Number of People in Oregon (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-PAHICCOVER                              Health Insurance Coverage: People Covered in Pennsylvania (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-PAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Pennsylvania (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-PAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Pennsylvania (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-PAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Pennsylvania (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-PAHICTOTAL                              Health Insurance Coverage: Total Number of People in Pennsylvania (DISCONTINUED)                                                        NSA  Annual     17-Sep-2013  
-RIHICCOVER                              Health Insurance Coverage: People Covered in Rhode Island (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-RIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Rhode Island (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-RIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Rhode Island (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-RIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Rhode Island (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-RIHICTOTAL                              Health Insurance Coverage: Total Number of People in Rhode Island (DISCONTINUED)                                                        NSA  Annual     17-Sep-2013  
-SCHICCOVER                              Health Insurance Coverage: People Covered in South Carolina (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-SCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in South Carolina (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-SCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in South Carolina (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-SCHICNOTCOV                             Health Insurance Coverage: People Not Covered in South Carolina (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-SCHICTOTAL                              Health Insurance Coverage: Total Number of People in South Carolina (DISCONTINUED)                                                      NSA  Annual     17-Sep-2013  
-SDHICCOVER                              Health Insurance Coverage: People Covered in South Dakota (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-SDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in South Dakota (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-SDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in South Dakota (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-SDHICNOTCOV                             Health Insurance Coverage: People Not Covered in South Dakota (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-SDHICTOTAL                              Health Insurance Coverage: Total Number of People in South Dakota (DISCONTINUED)                                                        NSA  Annual     17-Sep-2013  
-TNHICCOVER                              Health Insurance Coverage: People Covered in Tennessee (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-TNHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Tennessee (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-TNHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Tennessee (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-TNHICNOTCOV                             Health Insurance Coverage: People Not Covered in Tennessee (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-TNHICTOTAL                              Health Insurance Coverage: Total Number of People in Tennessee (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-TXHICCOVER                              Health Insurance Coverage: People Covered in Texas (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-TXHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Texas (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-TXHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Texas (DISCONTINUED)                                                                       NSA  Annual     17-Sep-2013  
-TXHICNOTCOV                             Health Insurance Coverage: People Not Covered in Texas (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-TXHICTOTAL                              Health Insurance Coverage: Total Number of People in Texas (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-USHICCOVER                              Health Insurance Coverage: People Covered in the United States (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-USHICCOVPCT                             Health Insurance Coverage: Coverage Rate in the United States (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-USHICNCPCT                              Health Insurance Coverage: Uncovered Rate in the United States (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-USHICNOTCOV                             Health Insurance Coverage: People Not Covered in the United States (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
-USHICTOTAL                              Health Insurance Coverage: Total Number of People in the United States (DISCONTINUED)                                                   NSA  Annual     17-Sep-2013  
-UTHICCOVER                              Health Insurance Coverage: People Covered in Utah (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-UTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Utah (DISCONTINUED)                                                                         NSA  Annual     17-Sep-2013  
-UTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Utah (DISCONTINUED)                                                                        NSA  Annual     17-Sep-2013  
-UTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Utah (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-UTHICTOTAL                              Health Insurance Coverage: Total Number of People in Utah (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-VAHICCOVER                              Health Insurance Coverage: People Covered in Virginia (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-VAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Virginia (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-VAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Virginia (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-VAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Virginia (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-VAHICTOTAL                              Health Insurance Coverage: Total Number of People in Virginia (DISCONTINUED)                                                            NSA  Annual     17-Sep-2013  
-VTHICCOVER                              Health Insurance Coverage: People Covered in Vermont (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-VTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Vermont (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-VTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Vermont (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-VTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Vermont (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-VTHICTOTAL                              Health Insurance Coverage: Total Number of People in Vermont (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
-WAHICCOVER                              Health Insurance Coverage: People Covered in Washington (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-WAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Washington (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-WAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Washington (DISCONTINUED)                                                                  NSA  Annual     17-Sep-2013  
-WAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Washington (DISCONTINUED)                                                              NSA  Annual     17-Sep-2013  
-WAHICTOTAL                              Health Insurance Coverage: Total Number of People in Washington (DISCONTINUED)                                                          NSA  Annual     17-Sep-2013  
-WIHICCOVER                              Health Insurance Coverage: People Covered in Wisconsin (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-WIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Wisconsin (DISCONTINUED)                                                                    NSA  Annual     17-Sep-2013  
-WIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Wisconsin (DISCONTINUED)                                                                   NSA  Annual     17-Sep-2013  
-WIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Wisconsin (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-WIHICTOTAL                              Health Insurance Coverage: Total Number of People in Wisconsin (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-WVHICCOVER                              Health Insurance Coverage: People Covered in West Virginia (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-WVHICCOVPCT                             Health Insurance Coverage: Coverage Rate in West Virginia (DISCONTINUED)                                                                NSA  Annual     17-Sep-2013  
-WVHICNCPCT                              Health Insurance Coverage: Uncovered Rate in West Virginia (DISCONTINUED)                                                               NSA  Annual     17-Sep-2013  
-WVHICNOTCOV                             Health Insurance Coverage: People Not Covered in West Virginia (DISCONTINUED)                                                           NSA  Annual     17-Sep-2013  
-WVHICTOTAL                              Health Insurance Coverage: Total Number of People in West Virginia (DISCONTINUED)                                                       NSA  Annual     17-Sep-2013  
-WYHICCOVER                              Health Insurance Coverage: People Covered in Wyoming (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-WYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Wyoming (DISCONTINUED)                                                                      NSA  Annual     17-Sep-2013  
-WYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Wyoming (DISCONTINUED)                                                                     NSA  Annual     17-Sep-2013  
-WYHICNOTCOV                             Health Insurance Coverage: People Not Covered in Wyoming (DISCONTINUED)                                                                 NSA  Annual     17-Sep-2013  
-WYHICTOTAL                              Health Insurance Coverage: Total Number of People in Wyoming (DISCONTINUED)                                                             NSA  Annual     17-Sep-2013  
+AKHICCOVER                              Health Insurance Coverage: People Covered in Alaska (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+AKHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Alaska (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+AKHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Alaska (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+AKHICNOTCOV                             Health Insurance Coverage: People Not Covered in Alaska (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+AKHICTOTAL                              Health Insurance Coverage: Total Number of People in Alaska (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+ALHICCOVER                              Health Insurance Coverage: People Covered in Alabama (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+ALHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Alabama (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+ALHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Alabama (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+ALHICNOTCOV                             Health Insurance Coverage: People Not Covered in Alabama (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+ALHICTOTAL                              Health Insurance Coverage: Total Number of People in Alabama (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+ARHICCOVER                              Health Insurance Coverage: People Covered in Arkansas (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+ARHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Arkansas (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+ARHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Arkansas (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+ARHICNOTCOV                             Health Insurance Coverage: People Not Covered in Arkansas (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+ARHICTOTAL                              Health Insurance Coverage: Total Number of People in Arkansas (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+AZHICCOVER                              Health Insurance Coverage: People Covered in Arizona (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+AZHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Arizona (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+AZHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Arizona (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+AZHICNOTCOV                             Health Insurance Coverage: People Not Covered in Arizona (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+AZHICTOTAL                              Health Insurance Coverage: Total Number of People in Arizona (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+CAHICCOVER                              Health Insurance Coverage: People Covered in California (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+CAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in California (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+CAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in California (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+CAHICNOTCOV                             Health Insurance Coverage: People Not Covered in California (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+CAHICTOTAL                              Health Insurance Coverage: Total Number of People in California (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+CENCHICCOVER                            Health Insurance Coverage: People Covered in the East North Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CENCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the East North Central Census Division (DISCONTINUED)                        NSA  17-Sep-2013  Annual
+CENCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the East North Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CENCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the East North Central Census Division (DISCONTINUED)                   NSA  17-Sep-2013  Annual
+CENCHICTOTAL                            Health Insurance Coverage: Total Number of People in the East North Central Census Division (DISCONTINUED)               NSA  17-Sep-2013  Annual
+CESCHICCOVER                            Health Insurance Coverage: People Covered in the East South Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CESCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the East South Central Census Division (DISCONTINUED)                        NSA  17-Sep-2013  Annual
+CESCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the East South Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CESCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the East South Central Census Division (DISCONTINUED)                   NSA  17-Sep-2013  Annual
+CESCHICTOTAL                            Health Insurance Coverage: Total Number of People in the East South Central Census Division (DISCONTINUED)               NSA  17-Sep-2013  Annual
+CMATHICCOVER                            Health Insurance Coverage: People Covered in the Middle Atlantic Census Division (DISCONTINUED)                          NSA  17-Sep-2013  Annual
+CMATHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Middle Atlantic Census Division (DISCONTINUED)                           NSA  17-Sep-2013  Annual
+CMATHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Middle Atlantic Census Division (DISCONTINUED)                          NSA  17-Sep-2013  Annual
+CMATHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Middle Atlantic Census Division (DISCONTINUED)                      NSA  17-Sep-2013  Annual
+CMATHICTOTAL                            Health Insurance Coverage: Total Number of People in the Middle Atlantic Census Division (DISCONTINUED)                  NSA  17-Sep-2013  Annual
+CMTNHICCOVER                            Health Insurance Coverage: People Covered in the Mountain Census Division (DISCONTINUED)                                 NSA  17-Sep-2013  Annual
+CMTNHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Mountain Census Division (DISCONTINUED)                                  NSA  17-Sep-2013  Annual
+CMTNHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Mountain Census Division (DISCONTINUED)                                 NSA  17-Sep-2013  Annual
+CMTNHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Mountain Census Division (DISCONTINUED)                             NSA  17-Sep-2013  Annual
+CMTNHICTOTAL                            Health Insurance Coverage: Total Number of People in the Mountain Census Division (DISCONTINUED)                         NSA  17-Sep-2013  Annual
+CMWRHICCOVER                            Health Insurance Coverage: People Covered in the Midwest Census Region (DISCONTINUED)                                    NSA  17-Sep-2013  Annual
+CMWRHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Midwest Census Region (DISCONTINUED)                                     NSA  17-Sep-2013  Annual
+CMWRHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Midwest Census Region (DISCONTINUED)                                    NSA  17-Sep-2013  Annual
+CMWRHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Midwest Census Region (DISCONTINUED)                                NSA  17-Sep-2013  Annual
+CMWRHICTOTAL                            Health Insurance Coverage: Total Number of People in the Midwest Census Region (DISCONTINUED)                            NSA  17-Sep-2013  Annual
+CNERHICCOVER                            Health Insurance Coverage: People Covered in the Northeast Census Region (DISCONTINUED)                                  NSA  17-Sep-2013  Annual
+CNERHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Northeast Census Region (DISCONTINUED)                                   NSA  17-Sep-2013  Annual
+CNERHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Northeast Census Region (DISCONTINUED)                                  NSA  17-Sep-2013  Annual
+CNERHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Northeast Census Region (DISCONTINUED)                              NSA  17-Sep-2013  Annual
+CNERHICTOTAL                            Health Insurance Coverage: Total Number of People in the Northeast Census Region (DISCONTINUED)                          NSA  17-Sep-2013  Annual
+CNEWHICCOVER                            Health Insurance Coverage: People Covered in the New England Census Division (DISCONTINUED)                              NSA  17-Sep-2013  Annual
+CNEWHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the New England Census Division (DISCONTINUED)                               NSA  17-Sep-2013  Annual
+CNEWHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the New England Census Division (DISCONTINUED)                              NSA  17-Sep-2013  Annual
+CNEWHICNOTCOV                           Health Insurance Coverage: People Not Covered in the New England Census Division (DISCONTINUED)                          NSA  17-Sep-2013  Annual
+CNEWHICTOTAL                            Health Insurance Coverage: Total Number of People in the New England Census Division (DISCONTINUED)                      NSA  17-Sep-2013  Annual
+COHICCOVER                              Health Insurance Coverage: People Covered in Colorado (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+COHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Colorado (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+COHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Colorado (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+COHICNOTCOV                             Health Insurance Coverage: People Not Covered in Colorado (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+COHICTOTAL                              Health Insurance Coverage: Total Number of People in Colorado (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+CPACHICCOVER                            Health Insurance Coverage: People Covered in the Pacific Census Division (DISCONTINUED)                                  NSA  17-Sep-2013  Annual
+CPACHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the Pacific Census Division (DISCONTINUED)                                   NSA  17-Sep-2013  Annual
+CPACHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the Pacific Census Division (DISCONTINUED)                                  NSA  17-Sep-2013  Annual
+CPACHICNOTCOV                           Health Insurance Coverage: People Not Covered in the Pacific Census Division (DISCONTINUED)                              NSA  17-Sep-2013  Annual
+CPACHICTOTAL                            Health Insurance Coverage: Total Number of People in the Pacific Census Division (DISCONTINUED)                          NSA  17-Sep-2013  Annual
+CSATLHICCOVER                           Health Insurance Coverage: People Covered in the South Atlantic Census Division (DISCONTINUED)                           NSA  17-Sep-2013  Annual
+CSATLHICCOVPCT                          Health Insurance Coverage: Coverage Rate in the South Atlantic Census Division (DISCONTINUED)                            NSA  17-Sep-2013  Annual
+CSATLHICNCPCT                           Health Insurance Coverage: Uncovered Rate in the South Atlantic Census Division (DISCONTINUED)                           NSA  17-Sep-2013  Annual
+CSATLHICNOTCOV                          Health Insurance Coverage: People Not Covered in the South Atlantic Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CSATLHICTOTAL                           Health Insurance Coverage: Total Number of People in the South Atlantic Census Division (DISCONTINUED)                   NSA  17-Sep-2013  Annual
+CTHICCOVER                              Health Insurance Coverage: People Covered in Connecticut (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+CTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Connecticut (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+CTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Connecticut (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+CTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Connecticut (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+CTHICTOTAL                              Health Insurance Coverage: Total Number of People in Connecticut (DISCONTINUED)                                          NSA  17-Sep-2013  Annual
+CWNCHICCOVER                            Health Insurance Coverage: People Covered in the West North Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CWNCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West North Central Census Division (DISCONTINUED)                        NSA  17-Sep-2013  Annual
+CWNCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West North Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CWNCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West North Central Census Division (DISCONTINUED)                   NSA  17-Sep-2013  Annual
+CWNCHICTOTAL                            Health Insurance Coverage: Total Number of People in the West North Central Census Division (DISCONTINUED)               NSA  17-Sep-2013  Annual
+CWSCHICCOVER                            Health Insurance Coverage: People Covered in the West South Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CWSCHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West South Central Census Division (DISCONTINUED)                        NSA  17-Sep-2013  Annual
+CWSCHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West South Central Census Division (DISCONTINUED)                       NSA  17-Sep-2013  Annual
+CWSCHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West South Central Census Division (DISCONTINUED)                   NSA  17-Sep-2013  Annual
+CWSCHICTOTAL                            Health Insurance Coverage: Total Number of People in the West South Central Census Division (DISCONTINUED)               NSA  17-Sep-2013  Annual
+CWSTHICCOVER                            Health Insurance Coverage: People Covered in the West Census Region (DISCONTINUED)                                       NSA  17-Sep-2013  Annual
+CWSTHICCOVPCT                           Health Insurance Coverage: Coverage Rate in the West Census Region (DISCONTINUED)                                        NSA  17-Sep-2013  Annual
+CWSTHICNCPCT                            Health Insurance Coverage: Uncovered Rate in the West Census Region (DISCONTINUED)                                       NSA  17-Sep-2013  Annual
+CWSTHICNOTCOV                           Health Insurance Coverage: People Not Covered in the West Census Region (DISCONTINUED)                                   NSA  17-Sep-2013  Annual
+CWSTHICTOTAL                            Health Insurance Coverage: Total Number of People in the West Census Region (DISCONTINUED)                               NSA  17-Sep-2013  Annual
+DCHICCOVER                              Health Insurance Coverage: People Covered in the District of Columbia (DISCONTINUED)                                     NSA  17-Sep-2013  Annual
+DCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in the District of Columbia (DISCONTINUED)                                      NSA  17-Sep-2013  Annual
+DCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in the District of Columbia (DISCONTINUED)                                     NSA  17-Sep-2013  Annual
+DCHICNOTCOV                             Health Insurance Coverage: People Not Covered in the District of Columbia (DISCONTINUED)                                 NSA  17-Sep-2013  Annual
+DCHICTOTAL                              Health Insurance Coverage: Total Number of People in the District of Columbia (DISCONTINUED)                             NSA  17-Sep-2013  Annual
+DEHICCOVER                              Health Insurance Coverage: People Covered in Delaware (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+DEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Delaware (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+DEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Delaware (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+DEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Delaware (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+DEHICTOTAL                              Health Insurance Coverage: Total Number of People in Delaware (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+FLHICCOVER                              Health Insurance Coverage: People Covered in Florida (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+FLHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Florida (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+FLHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Florida (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+FLHICNOTCOV                             Health Insurance Coverage: People Not Covered in Florida (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+FLHICTOTAL                              Health Insurance Coverage: Total Number of People in Florida (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+GAHICCOVER                              Health Insurance Coverage: People Covered in Georgia (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+GAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Georgia (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+GAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Georgia (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+GAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Georgia (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+GAHICTOTAL                              Health Insurance Coverage: Total Number of People in Georgia (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+HIHICCOVER                              Health Insurance Coverage: People Covered in Hawaii (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+HIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Hawaii (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+HIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Hawaii (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+HIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Hawaii (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+HIHICTOTAL                              Health Insurance Coverage: Total Number of People in Hawaii (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+IAHICCOVER                              Health Insurance Coverage: People Covered in Iowa (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+IAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Iowa (DISCONTINUED)                                                          NSA  17-Sep-2013  Annual
+IAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Iowa (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+IAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Iowa (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+IAHICTOTAL                              Health Insurance Coverage: Total Number of People in Iowa (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+IDHICCOVER                              Health Insurance Coverage: People Covered in Idaho (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+IDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Idaho (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+IDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Idaho (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+IDHICNOTCOV                             Health Insurance Coverage: People Not Covered in Idaho (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+IDHICTOTAL                              Health Insurance Coverage: Total Number of People in Idaho (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+ILHICCOVER                              Health Insurance Coverage: People Covered in Illinois (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+ILHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Illinois (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+ILHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Illinois (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+ILHICNOTCOV                             Health Insurance Coverage: People Not Covered in Illinois (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+ILHICTOTAL                              Health Insurance Coverage: Total Number of People in Illinois (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+INHICCOVER                              Health Insurance Coverage: People Covered in Indiana (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+INHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Indiana (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+INHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Indiana (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+INHICNOTCOV                             Health Insurance Coverage: People Not Covered in Indiana (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+INHICTOTAL                              Health Insurance Coverage: Total Number of People in Indiana (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+KSHICCOVER                              Health Insurance Coverage: People Covered in Kansas (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+KSHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Kansas (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+KSHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Kansas (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+KSHICNOTCOV                             Health Insurance Coverage: People Not Covered in Kansas (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+KSHICTOTAL                              Health Insurance Coverage: Total Number of People in Kansas (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+KYHICCOVER                              Health Insurance Coverage: People Covered in Kentucky (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+KYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Kentucky (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+KYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Kentucky (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+KYHICNOTCOV                             Health Insurance Coverage: People Not Covered in Kentucky (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+KYHICTOTAL                              Health Insurance Coverage: Total Number of People in Kentucky (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+LAHICCOVER                              Health Insurance Coverage: People Covered in Louisiana (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+LAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Louisiana (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+LAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Louisiana (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+LAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Louisiana (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+LAHICTOTAL                              Health Insurance Coverage: Total Number of People in Louisiana (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+MAHICCOVER                              Health Insurance Coverage: People Covered in Massachusetts (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+MAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Massachusetts (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+MAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Massachusetts (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+MAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Massachusetts (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+MAHICTOTAL                              Health Insurance Coverage: Total Number of People in Massachusetts (DISCONTINUED)                                        NSA  17-Sep-2013  Annual
+MDHICCOVER                              Health Insurance Coverage: People Covered in Maryland (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Maryland (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+MDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Maryland (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MDHICNOTCOV                             Health Insurance Coverage: People Not Covered in Maryland (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+MDHICTOTAL                              Health Insurance Coverage: Total Number of People in Maryland (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+MEHICCOVER                              Health Insurance Coverage: People Covered in Maine (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+MEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Maine (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+MEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Maine (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+MEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Maine (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+MEHICTOTAL                              Health Insurance Coverage: Total Number of People in Maine (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+MIHICCOVER                              Health Insurance Coverage: People Covered in Michigan (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Michigan (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+MIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Michigan (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Michigan (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+MIHICTOTAL                              Health Insurance Coverage: Total Number of People in Michigan (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+MNHICCOVER                              Health Insurance Coverage: People Covered in Minnesota (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+MNHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Minnesota (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MNHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Minnesota (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+MNHICNOTCOV                             Health Insurance Coverage: People Not Covered in Minnesota (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+MNHICTOTAL                              Health Insurance Coverage: Total Number of People in Minnesota (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+MOHICCOVER                              Health Insurance Coverage: People Covered in Missouri (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MOHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Missouri (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+MOHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Missouri (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+MOHICNOTCOV                             Health Insurance Coverage: People Not Covered in Missouri (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+MOHICTOTAL                              Health Insurance Coverage: Total Number of People in Missouri (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+MSHICCOVER                              Health Insurance Coverage: People Covered in Mississippi (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+MSHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Mississippi (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+MSHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Mississippi (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+MSHICNOTCOV                             Health Insurance Coverage: People Not Covered in Mississippi (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+MSHICTOTAL                              Health Insurance Coverage: Total Number of People in Mississippi (DISCONTINUED)                                          NSA  17-Sep-2013  Annual
+MTHICCOVER                              Health Insurance Coverage: People Covered in Montana (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+MTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Montana (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+MTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Montana (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+MTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Montana (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+MTHICTOTAL                              Health Insurance Coverage: Total Number of People in Montana (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+NCHICCOVER                              Health Insurance Coverage: People Covered in North Carolina (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+NCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in North Carolina (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+NCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in North Carolina (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+NCHICNOTCOV                             Health Insurance Coverage: People Not Covered in North Carolina (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+NCHICTOTAL                              Health Insurance Coverage: Total Number of People in North Carolina (DISCONTINUED)                                       NSA  17-Sep-2013  Annual
+NDHICCOVER                              Health Insurance Coverage: People Covered in North Dakota (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+NDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in North Dakota (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+NDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in North Dakota (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+NDHICNOTCOV                             Health Insurance Coverage: People Not Covered in North Dakota (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+NDHICTOTAL                              Health Insurance Coverage: Total Number of People in North Dakota (DISCONTINUED)                                         NSA  17-Sep-2013  Annual
+NEHICCOVER                              Health Insurance Coverage: People Covered in Nebraska (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+NEHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Nebraska (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+NEHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Nebraska (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+NEHICNOTCOV                             Health Insurance Coverage: People Not Covered in Nebraska (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+NEHICTOTAL                              Health Insurance Coverage: Total Number of People in Nebraska (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+NHHICCOVER                              Health Insurance Coverage: People Covered in New Hampshire (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+NHHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Hampshire (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+NHHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Hampshire (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+NHHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Hampshire (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+NHHICTOTAL                              Health Insurance Coverage: Total Number of People in New Hampshire (DISCONTINUED)                                        NSA  17-Sep-2013  Annual
+NJHICCOVER                              Health Insurance Coverage: People Covered in New Jersey (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+NJHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Jersey (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+NJHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Jersey (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+NJHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Jersey (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+NJHICTOTAL                              Health Insurance Coverage: Total Number of People in New Jersey (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+NMHICCOVER                              Health Insurance Coverage: People Covered in New Mexico (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+NMHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New Mexico (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+NMHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New Mexico (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+NMHICNOTCOV                             Health Insurance Coverage: People Not Covered in New Mexico (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+NMHICTOTAL                              Health Insurance Coverage: Total Number of People in New Mexico (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+NVHICCOVER                              Health Insurance Coverage: People Covered in Nevada (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+NVHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Nevada (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+NVHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Nevada (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+NVHICNOTCOV                             Health Insurance Coverage: People Not Covered in Nevada (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+NVHICTOTAL                              Health Insurance Coverage: Total Number of People in Nevada (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+NYHICCOVER                              Health Insurance Coverage: People Covered in New York (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+NYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in New York (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+NYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in New York (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+NYHICNOTCOV                             Health Insurance Coverage: People Not Covered in New York (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+NYHICTOTAL                              Health Insurance Coverage: Total Number of People in New York (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+OHHICCOVER                              Health Insurance Coverage: People Covered in Ohio (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+OHHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Ohio (DISCONTINUED)                                                          NSA  17-Sep-2013  Annual
+OHHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Ohio (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+OHHICNOTCOV                             Health Insurance Coverage: People Not Covered in Ohio (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+OHHICTOTAL                              Health Insurance Coverage: Total Number of People in Ohio (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+OKHICCOVER                              Health Insurance Coverage: People Covered in Oklahoma (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+OKHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Oklahoma (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+OKHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Oklahoma (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+OKHICNOTCOV                             Health Insurance Coverage: People Not Covered in Oklahoma (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+OKHICTOTAL                              Health Insurance Coverage: Total Number of People in Oklahoma (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+ORHICCOVER                              Health Insurance Coverage: People Covered in Oregon (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+ORHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Oregon (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+ORHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Oregon (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+ORHICNOTCOV                             Health Insurance Coverage: People Not Covered in Oregon (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+ORHICTOTAL                              Health Insurance Coverage: Total Number of People in Oregon (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+PAHICCOVER                              Health Insurance Coverage: People Covered in Pennsylvania (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+PAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Pennsylvania (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+PAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Pennsylvania (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+PAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Pennsylvania (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+PAHICTOTAL                              Health Insurance Coverage: Total Number of People in Pennsylvania (DISCONTINUED)                                         NSA  17-Sep-2013  Annual
+RIHICCOVER                              Health Insurance Coverage: People Covered in Rhode Island (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+RIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Rhode Island (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+RIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Rhode Island (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+RIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Rhode Island (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+RIHICTOTAL                              Health Insurance Coverage: Total Number of People in Rhode Island (DISCONTINUED)                                         NSA  17-Sep-2013  Annual
+SCHICCOVER                              Health Insurance Coverage: People Covered in South Carolina (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+SCHICCOVPCT                             Health Insurance Coverage: Coverage Rate in South Carolina (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+SCHICNCPCT                              Health Insurance Coverage: Uncovered Rate in South Carolina (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+SCHICNOTCOV                             Health Insurance Coverage: People Not Covered in South Carolina (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+SCHICTOTAL                              Health Insurance Coverage: Total Number of People in South Carolina (DISCONTINUED)                                       NSA  17-Sep-2013  Annual
+SDHICCOVER                              Health Insurance Coverage: People Covered in South Dakota (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+SDHICCOVPCT                             Health Insurance Coverage: Coverage Rate in South Dakota (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+SDHICNCPCT                              Health Insurance Coverage: Uncovered Rate in South Dakota (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+SDHICNOTCOV                             Health Insurance Coverage: People Not Covered in South Dakota (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+SDHICTOTAL                              Health Insurance Coverage: Total Number of People in South Dakota (DISCONTINUED)                                         NSA  17-Sep-2013  Annual
+TNHICCOVER                              Health Insurance Coverage: People Covered in Tennessee (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+TNHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Tennessee (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+TNHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Tennessee (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+TNHICNOTCOV                             Health Insurance Coverage: People Not Covered in Tennessee (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+TNHICTOTAL                              Health Insurance Coverage: Total Number of People in Tennessee (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+TXHICCOVER                              Health Insurance Coverage: People Covered in Texas (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+TXHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Texas (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+TXHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Texas (DISCONTINUED)                                                        NSA  17-Sep-2013  Annual
+TXHICNOTCOV                             Health Insurance Coverage: People Not Covered in Texas (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+TXHICTOTAL                              Health Insurance Coverage: Total Number of People in Texas (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+USHICCOVER                              Health Insurance Coverage: People Covered in the United States (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+USHICCOVPCT                             Health Insurance Coverage: Coverage Rate in the United States (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+USHICNCPCT                              Health Insurance Coverage: Uncovered Rate in the United States (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+USHICNOTCOV                             Health Insurance Coverage: People Not Covered in the United States (DISCONTINUED)                                        NSA  17-Sep-2013  Annual
+USHICTOTAL                              Health Insurance Coverage: Total Number of People in the United States (DISCONTINUED)                                    NSA  17-Sep-2013  Annual
+UTHICCOVER                              Health Insurance Coverage: People Covered in Utah (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+UTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Utah (DISCONTINUED)                                                          NSA  17-Sep-2013  Annual
+UTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Utah (DISCONTINUED)                                                         NSA  17-Sep-2013  Annual
+UTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Utah (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+UTHICTOTAL                              Health Insurance Coverage: Total Number of People in Utah (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+VAHICCOVER                              Health Insurance Coverage: People Covered in Virginia (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+VAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Virginia (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+VAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Virginia (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+VAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Virginia (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+VAHICTOTAL                              Health Insurance Coverage: Total Number of People in Virginia (DISCONTINUED)                                             NSA  17-Sep-2013  Annual
+VTHICCOVER                              Health Insurance Coverage: People Covered in Vermont (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+VTHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Vermont (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+VTHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Vermont (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+VTHICNOTCOV                             Health Insurance Coverage: People Not Covered in Vermont (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+VTHICTOTAL                              Health Insurance Coverage: Total Number of People in Vermont (DISCONTINUED)                                              NSA  17-Sep-2013  Annual
+WAHICCOVER                              Health Insurance Coverage: People Covered in Washington (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+WAHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Washington (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+WAHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Washington (DISCONTINUED)                                                   NSA  17-Sep-2013  Annual
+WAHICNOTCOV                             Health Insurance Coverage: People Not Covered in Washington (DISCONTINUED)                                               NSA  17-Sep-2013  Annual
+WAHICTOTAL                              Health Insurance Coverage: Total Number of People in Washington (DISCONTINUED)                                           NSA  17-Sep-2013  Annual
+WIHICCOVER                              Health Insurance Coverage: People Covered in Wisconsin (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+WIHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Wisconsin (DISCONTINUED)                                                     NSA  17-Sep-2013  Annual
+WIHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Wisconsin (DISCONTINUED)                                                    NSA  17-Sep-2013  Annual
+WIHICNOTCOV                             Health Insurance Coverage: People Not Covered in Wisconsin (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+WIHICTOTAL                              Health Insurance Coverage: Total Number of People in Wisconsin (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+WVHICCOVER                              Health Insurance Coverage: People Covered in West Virginia (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+WVHICCOVPCT                             Health Insurance Coverage: Coverage Rate in West Virginia (DISCONTINUED)                                                 NSA  17-Sep-2013  Annual
+WVHICNCPCT                              Health Insurance Coverage: Uncovered Rate in West Virginia (DISCONTINUED)                                                NSA  17-Sep-2013  Annual
+WVHICNOTCOV                             Health Insurance Coverage: People Not Covered in West Virginia (DISCONTINUED)                                            NSA  17-Sep-2013  Annual
+WVHICTOTAL                              Health Insurance Coverage: Total Number of People in West Virginia (DISCONTINUED)                                        NSA  17-Sep-2013  Annual
+WYHICCOVER                              Health Insurance Coverage: People Covered in Wyoming (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+WYHICCOVPCT                             Health Insurance Coverage: Coverage Rate in Wyoming (DISCONTINUED)                                                       NSA  17-Sep-2013  Annual
+WYHICNCPCT                              Health Insurance Coverage: Uncovered Rate in Wyoming (DISCONTINUED)                                                      NSA  17-Sep-2013  Annual
+WYHICNOTCOV                             Health Insurance Coverage: People Not Covered in Wyoming (DISCONTINUED)                                                  NSA  17-Sep-2013  Annual
+WYHICTOTAL                              Health Insurance Coverage: Total Number of People in Wyoming (DISCONTINUED)                                              NSA  17-Sep-2013  Annual

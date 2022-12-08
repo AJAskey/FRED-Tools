@@ -44,8 +44,6 @@ import net.ajaskey.market.tools.fred.FredUtils;
  */
 public class FredInitLibrary {
 
-  private static int goodTotal = 0;
-
   private static List<FredInitLibrary> filList = new ArrayList<>();
   private static List<DataSeriesInfo>  dsiList = new ArrayList<>();
 

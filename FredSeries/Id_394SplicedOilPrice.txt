@@ -1,2 +1,2 @@
 Id : 394  Spliced Oil Price
-WTISPLC                                 Spot Crude Oil Price: West Texas Intermediate (WTI)                                                                                     NSA  Monthly    07-Dec-2022  
+WTISPLC                                 Spot Crude Oil Price: West Texas Intermediate (WTI)                                                                      NSA  07-Dec-2022  Monthly

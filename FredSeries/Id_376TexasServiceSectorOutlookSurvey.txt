@@ -1,161 +1,161 @@
 Id : 376  Texas Service Sector Outlook Survey
-TSSOSAVGWKDSAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Decreases for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSAVGWKDUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Decreases for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSAVGWKISAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Increases for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSAVGWKIUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Increases for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSAVGWKNSAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting No Change for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSAVGWKNUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting No Change for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSAVGWKSAMFRBDAL                     TSSOS Current Hours Worked; Diffusion Index for Texas                                                                                   SA   Monthly    29-Nov-2022  
-TSSOSAVGWKUAMFRBDAL                     TSSOS Current Hours Worked; Diffusion Index for Texas                                                                                   NSA  Monthly    29-Nov-2022  
-TSSOSBACTDSAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Decreases for Texas                                                          SA   Monthly    29-Nov-2022  
-TSSOSBACTDUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Decreases for Texas                                                          NSA  Monthly    29-Nov-2022  
-TSSOSBACTISAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Increases for Texas                                                          SA   Monthly    29-Nov-2022  
-TSSOSBACTIUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Increases for Texas                                                          NSA  Monthly    29-Nov-2022  
-TSSOSBACTNSAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting No Change for Texas                                                          SA   Monthly    29-Nov-2022  
-TSSOSBACTNUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting No Change for Texas                                                          NSA  Monthly    29-Nov-2022  
-TSSOSBACTSAMFRBDAL                      TSSOS Current General Business Activity; Diffusion Index for Texas                                                                      SA   Monthly    29-Nov-2022  
-TSSOSBACTUAMFRBDAL                      TSSOS Current General Business Activity; Diffusion Index for Texas                                                                      NSA  Monthly    29-Nov-2022  
-TSSOSCEXPDSAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSCEXPDUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSCEXPISAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Increases for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSCEXPIUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Increases for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSCEXPNSAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting No Change for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSCEXPNUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting No Change for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSCEXPSAMFRBDAL                      TSSOS Current Capital Expenditures; Diffusion Index for Texas                                                                           SA   Monthly    29-Nov-2022  
-TSSOSCEXPUAMFRBDAL                      TSSOS Current Capital Expenditures; Diffusion Index for Texas                                                                           NSA  Monthly    29-Nov-2022  
-TSSOSCOLKDSAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Decreases for Texas                                                                    SA   Monthly    29-Nov-2022  
-TSSOSCOLKDUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Decreases for Texas                                                                    NSA  Monthly    29-Nov-2022  
-TSSOSCOLKISAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Increases for Texas                                                                    SA   Monthly    29-Nov-2022  
-TSSOSCOLKIUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Increases for Texas                                                                    NSA  Monthly    29-Nov-2022  
-TSSOSCOLKNSAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting No Change for Texas                                                                    SA   Monthly    29-Nov-2022  
-TSSOSCOLKNUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting No Change for Texas                                                                    NSA  Monthly    29-Nov-2022  
-TSSOSCOLKSAMFRBDAL                      TSSOS Current Company Outlook; Diffusion Index for Texas                                                                                SA   Monthly    29-Nov-2022  
-TSSOSCOLKUAMFRBDAL                      TSSOS Current Company Outlook; Diffusion Index for Texas                                                                                NSA  Monthly    29-Nov-2022  
-TSSOSEMPDSAMFRBDAL                      TSSOS Current Employment; Percent Reporting Decreases for Texas                                                                         SA   Monthly    29-Nov-2022  
-TSSOSEMPDUAMFRBDAL                      TSSOS Current Employment; Percent Reporting Decreases for Texas                                                                         NSA  Monthly    29-Nov-2022  
-TSSOSEMPISAMFRBDAL                      TSSOS Current Employment; Percent Reporting Increases for Texas                                                                         SA   Monthly    29-Nov-2022  
-TSSOSEMPIUAMFRBDAL                      TSSOS Current Employment; Percent Reporting Increases for Texas                                                                         NSA  Monthly    29-Nov-2022  
-TSSOSEMPNSAMFRBDAL                      TSSOS Current Employment; Percent Reporting No Change for Texas                                                                         SA   Monthly    29-Nov-2022  
-TSSOSEMPNUAMFRBDAL                      TSSOS Current Employment; Percent Reporting No Change for Texas                                                                         NSA  Monthly    29-Nov-2022  
-TSSOSEMPSAMFRBDAL                       TSSOS Current Employment; Diffusion Index for Texas                                                                                     SA   Monthly    29-Nov-2022  
-TSSOSEMPUAMFRBDAL                       TSSOS Current Employment; Diffusion Index for Texas                                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSFAVGWKDSAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Decreases for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFAVGWKDUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Decreases for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFAVGWKISAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Increases for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFAVGWKIUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Increases for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFAVGWKNSAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting No Change for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFAVGWKNUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting No Change for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFAVGWKSAMFRBDAL                    TSSOS Future Hours Worked; Diffusion Index for Texas                                                                                    SA   Monthly    29-Nov-2022  
-TSSOSFAVGWKUAMFRBDAL                    TSSOS Future Hours Worked; Diffusion Index for Texas                                                                                    NSA  Monthly    29-Nov-2022  
-TSSOSFBACTDSAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Decreases for Texas                                                           SA   Monthly    29-Nov-2022  
-TSSOSFBACTDUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Decreases for Texas                                                           NSA  Monthly    29-Nov-2022  
-TSSOSFBACTISAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Increases for Texas                                                           SA   Monthly    29-Nov-2022  
-TSSOSFBACTIUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Increases for Texas                                                           NSA  Monthly    29-Nov-2022  
-TSSOSFBACTNSAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting No Change for Texas                                                           SA   Monthly    29-Nov-2022  
-TSSOSFBACTNUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting No Change for Texas                                                           NSA  Monthly    29-Nov-2022  
-TSSOSFBACTSAMFRBDAL                     TSSOS Future General Business Activity; Diffusion Index for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSFBACTUAMFRBDAL                     TSSOS Future General Business Activity; Diffusion Index for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSFCEXPDSAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFCEXPDUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFCEXPISAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Increases for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFCEXPIUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Increases for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFCEXPNSAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting No Change for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFCEXPNUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting No Change for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFCEXPSAMFRBDAL                     TSSOS Future Capital Expenditures; Diffusion Index for Texas                                                                            SA   Monthly    29-Nov-2022  
-TSSOSFCEXPUAMFRBDAL                     TSSOS Future Capital Expenditures; Diffusion Index for Texas                                                                            NSA  Monthly    29-Nov-2022  
-TSSOSFCOLKDSAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Decreases for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSFCOLKDUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Decreases for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSFCOLKISAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Increases for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSFCOLKIUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Increases for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSFCOLKNSAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting No Change for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSFCOLKNUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting No Change for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSFCOLKSAMFRBDAL                     TSSOS Future Company Outlook; Diffusion Index for Texas                                                                                 SA   Monthly    29-Nov-2022  
-TSSOSFCOLKUAMFRBDAL                     TSSOS Future Company Outlook; Diffusion Index for Texas                                                                                 NSA  Monthly    29-Nov-2022  
-TSSOSFEMPDSAMFRBDAL                     TSSOS Future Employment; Percent Reporting Decreases for Texas                                                                          SA   Monthly    29-Nov-2022  
-TSSOSFEMPDUAMFRBDAL                     TSSOS Future Employment; Percent Reporting Decreases for Texas                                                                          NSA  Monthly    29-Nov-2022  
-TSSOSFEMPISAMFRBDAL                     TSSOS Future Employment; Percent Reporting Increases for Texas                                                                          SA   Monthly    29-Nov-2022  
-TSSOSFEMPIUAMFRBDAL                     TSSOS Future Employment; Percent Reporting Increases for Texas                                                                          NSA  Monthly    29-Nov-2022  
-TSSOSFEMPNSAMFRBDAL                     TSSOS Future Employment; Percent Reporting No Change for Texas                                                                          SA   Monthly    29-Nov-2022  
-TSSOSFEMPNUAMFRBDAL                     TSSOS Future Employment; Percent Reporting No Change for Texas                                                                          NSA  Monthly    29-Nov-2022  
-TSSOSFEMPSAMFRBDAL                      TSSOS Future Employment; Diffusion Index for Texas                                                                                      SA   Monthly    29-Nov-2022  
-TSSOSFEMPUAMFRBDAL                      TSSOS Future Employment; Diffusion Index for Texas                                                                                      NSA  Monthly    29-Nov-2022  
-TSSOSFINPDSAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Decreases for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFINPDUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Decreases for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFINPISAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Increases for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFINPIUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Increases for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFINPNSAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting No Change for Texas                                                                        SA   Monthly    29-Nov-2022  
-TSSOSFINPNUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting No Change for Texas                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSFINPSAMFRBDAL                      TSSOS Future Input Prices; Diffusion Index for Texas                                                                                    SA   Monthly    29-Nov-2022  
-TSSOSFINPUAMFRBDAL                      TSSOS Future Input Prices; Diffusion Index for Texas                                                                                    NSA  Monthly    29-Nov-2022  
-TSSOSFPEMPDSAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFPEMPDUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFPEMPISAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Increases for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFPEMPIUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Increases for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFPEMPNSAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting No Change for Texas                                                                SA   Monthly    29-Nov-2022  
-TSSOSFPEMPNUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting No Change for Texas                                                                NSA  Monthly    29-Nov-2022  
-TSSOSFPEMPSAMFRBDAL                     TSSOS Future Part-Time Employment; Diffusion Index for Texas                                                                            SA   Monthly    29-Nov-2022  
-TSSOSFPEMPUAMFRBDAL                     TSSOS Future Part-Time Employment; Diffusion Index for Texas                                                                            NSA  Monthly    29-Nov-2022  
-TSSOSFREVDSAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Decreases for Texas                                                                             SA   Monthly    29-Nov-2022  
-TSSOSFREVDUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Decreases for Texas                                                                             NSA  Monthly    29-Nov-2022  
-TSSOSFREVISAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Increases for Texas                                                                             SA   Monthly    29-Nov-2022  
-TSSOSFREVIUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Increases for Texas                                                                             NSA  Monthly    29-Nov-2022  
-TSSOSFREVNSAMFRBDAL                     TSSOS Future Revenue; Percent Reporting No Change for Texas                                                                             SA   Monthly    29-Nov-2022  
-TSSOSFREVNUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting No Change for Texas                                                                             NSA  Monthly    29-Nov-2022  
-TSSOSFREVSAMFRBDAL                      TSSOS Future Revenue; Diffusion Index for Texas                                                                                         SA   Monthly    29-Nov-2022  
-TSSOSFREVUAMFRBDAL                      TSSOS Future Revenue; Diffusion Index for Texas                                                                                         NSA  Monthly    29-Nov-2022  
-TSSOSFSELLDSAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Decreases for Texas                                                                      SA   Monthly    29-Nov-2022  
-TSSOSFSELLDUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Decreases for Texas                                                                      NSA  Monthly    29-Nov-2022  
-TSSOSFSELLISAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Increases for Texas                                                                      SA   Monthly    29-Nov-2022  
-TSSOSFSELLIUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Increases for Texas                                                                      NSA  Monthly    29-Nov-2022  
-TSSOSFSELLNSAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting No Change for Texas                                                                      SA   Monthly    29-Nov-2022  
-TSSOSFSELLNUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting No Change for Texas                                                                      NSA  Monthly    29-Nov-2022  
-TSSOSFSELLSAMFRBDAL                     TSSOS Future Selling Prices; Diffusion Index for Texas                                                                                  SA   Monthly    29-Nov-2022  
-TSSOSFSELLUAMFRBDAL                     TSSOS Future Selling Prices; Diffusion Index for Texas                                                                                  NSA  Monthly    29-Nov-2022  
-TSSOSFWGSDSAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                                  SA   Monthly    29-Nov-2022  
-TSSOSFWGSDUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                                  NSA  Monthly    29-Nov-2022  
-TSSOSFWGSISAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Increases for Texas                                                                  SA   Monthly    29-Nov-2022  
-TSSOSFWGSIUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Increases for Texas                                                                  NSA  Monthly    29-Nov-2022  
-TSSOSFWGSNSAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting No Change for Texas                                                                  SA   Monthly    29-Nov-2022  
-TSSOSFWGSNUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting No Change for Texas                                                                  NSA  Monthly    29-Nov-2022  
-TSSOSFWGSSAMFRBDAL                      TSSOS Future Wages and Benefits; Diffusion Index for Texas                                                                              SA   Monthly    29-Nov-2022  
-TSSOSFWGSUAMFRBDAL                      TSSOS Future Wages and Benefits; Diffusion Index for Texas                                                                              NSA  Monthly    29-Nov-2022  
-TSSOSINPDSAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Decreases for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSINPDUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Decreases for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSINPISAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Increases for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSINPIUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Increases for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSINPNSAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting No Change for Texas                                                                       SA   Monthly    29-Nov-2022  
-TSSOSINPNUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting No Change for Texas                                                                       NSA  Monthly    29-Nov-2022  
-TSSOSINPSAMFRBDAL                       TSSOS Current Input Prices; Diffusion Index for Texas                                                                                   SA   Monthly    29-Nov-2022  
-TSSOSINPUAMFRBDAL                       TSSOS Current Input Prices; Diffusion Index for Texas                                                                                   NSA  Monthly    29-Nov-2022  
-TSSOSPEMPDSAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSPEMPDUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSPEMPISAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Increases for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSPEMPIUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Increases for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSPEMPNSAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting No Change for Texas                                                               SA   Monthly    29-Nov-2022  
-TSSOSPEMPNUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting No Change for Texas                                                               NSA  Monthly    29-Nov-2022  
-TSSOSPEMPSAMFRBDAL                      TSSOS Current Part-Time Employment; Diffusion Index for Texas                                                                           SA   Monthly    29-Nov-2022  
-TSSOSPEMPUAMFRBDAL                      TSSOS Current Part-Time Employment; Diffusion Index for Texas                                                                           NSA  Monthly    29-Nov-2022  
-TSSOSREVDSAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Decreases for Texas                                                                            SA   Monthly    29-Nov-2022  
-TSSOSREVDUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Decreases for Texas                                                                            NSA  Monthly    29-Nov-2022  
-TSSOSREVISAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Increases for Texas                                                                            SA   Monthly    29-Nov-2022  
-TSSOSREVIUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Increases for Texas                                                                            NSA  Monthly    29-Nov-2022  
-TSSOSREVNSAMFRBDAL                      TSSOS Current Revenue; Percent Reporting No Change for Texas                                                                            SA   Monthly    29-Nov-2022  
-TSSOSREVNUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting No Change for Texas                                                                            NSA  Monthly    29-Nov-2022  
-TSSOSREVSAMFRBDAL                       TSSOS Current Revenue; Diffusion Index for Texas                                                                                        SA   Monthly    29-Nov-2022  
-TSSOSREVUAMFRBDAL                       TSSOS Current Revenue; Diffusion Index for Texas                                                                                        NSA  Monthly    29-Nov-2022  
-TSSOSSELLDSAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Decreases for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSSELLDUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Decreases for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSSELLISAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Increases for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSSELLIUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Increases for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSSELLNSAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting No Change for Texas                                                                     SA   Monthly    29-Nov-2022  
-TSSOSSELLNUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting No Change for Texas                                                                     NSA  Monthly    29-Nov-2022  
-TSSOSSELLSAMFRBDAL                      TSSOS Current Selling Prices; Diffusion Index for Texas                                                                                 SA   Monthly    29-Nov-2022  
-TSSOSSELLUAMFRBDAL                      TSSOS Current Selling Prices; Diffusion Index for Texas                                                                                 NSA  Monthly    29-Nov-2022  
-TSSOSWGSDSAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                                 SA   Monthly    29-Nov-2022  
-TSSOSWGSDUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                                 NSA  Monthly    29-Nov-2022  
-TSSOSWGSISAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Increases for Texas                                                                 SA   Monthly    29-Nov-2022  
-TSSOSWGSIUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Increases for Texas                                                                 NSA  Monthly    29-Nov-2022  
-TSSOSWGSNSAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting No Change for Texas                                                                 SA   Monthly    29-Nov-2022  
-TSSOSWGSNUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting No Change for Texas                                                                 NSA  Monthly    29-Nov-2022  
-TSSOSWGSSAMFRBDAL                       TSSOS Current Wages and Benefits; Diffusion Index for Texas                                                                             SA   Monthly    29-Nov-2022  
-TSSOSWGSUAMFRBDAL                       TSSOS Current Wages and Benefits; Diffusion Index for Texas                                                                             NSA  Monthly    29-Nov-2022  
+TSSOSAVGWKDSAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Decreases for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSAVGWKDUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Decreases for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSAVGWKISAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Increases for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSAVGWKIUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting Increases for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSAVGWKNSAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting No Change for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSAVGWKNUAMFRBDAL                    TSSOS Current Hours Worked; Percent Reporting No Change for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSAVGWKSAMFRBDAL                     TSSOS Current Hours Worked; Diffusion Index for Texas                                                                    SA   29-Nov-2022  Monthly
+TSSOSAVGWKUAMFRBDAL                     TSSOS Current Hours Worked; Diffusion Index for Texas                                                                    NSA  29-Nov-2022  Monthly
+TSSOSBACTDSAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Decreases for Texas                                           SA   29-Nov-2022  Monthly
+TSSOSBACTDUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Decreases for Texas                                           NSA  29-Nov-2022  Monthly
+TSSOSBACTISAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Increases for Texas                                           SA   29-Nov-2022  Monthly
+TSSOSBACTIUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting Increases for Texas                                           NSA  29-Nov-2022  Monthly
+TSSOSBACTNSAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting No Change for Texas                                           SA   29-Nov-2022  Monthly
+TSSOSBACTNUAMFRBDAL                     TSSOS Current General Business Activity; Percent Reporting No Change for Texas                                           NSA  29-Nov-2022  Monthly
+TSSOSBACTSAMFRBDAL                      TSSOS Current General Business Activity; Diffusion Index for Texas                                                       SA   29-Nov-2022  Monthly
+TSSOSBACTUAMFRBDAL                      TSSOS Current General Business Activity; Diffusion Index for Texas                                                       NSA  29-Nov-2022  Monthly
+TSSOSCEXPDSAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSCEXPDUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSCEXPISAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Increases for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSCEXPIUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting Increases for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSCEXPNSAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting No Change for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSCEXPNUAMFRBDAL                     TSSOS Current Capital Expenditures; Percent Reporting No Change for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSCEXPSAMFRBDAL                      TSSOS Current Capital Expenditures; Diffusion Index for Texas                                                            SA   29-Nov-2022  Monthly
+TSSOSCEXPUAMFRBDAL                      TSSOS Current Capital Expenditures; Diffusion Index for Texas                                                            NSA  29-Nov-2022  Monthly
+TSSOSCOLKDSAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Decreases for Texas                                                     SA   29-Nov-2022  Monthly
+TSSOSCOLKDUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Decreases for Texas                                                     NSA  29-Nov-2022  Monthly
+TSSOSCOLKISAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Increases for Texas                                                     SA   29-Nov-2022  Monthly
+TSSOSCOLKIUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting Increases for Texas                                                     NSA  29-Nov-2022  Monthly
+TSSOSCOLKNSAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting No Change for Texas                                                     SA   29-Nov-2022  Monthly
+TSSOSCOLKNUAMFRBDAL                     TSSOS Current Company Outlook; Percent Reporting No Change for Texas                                                     NSA  29-Nov-2022  Monthly
+TSSOSCOLKSAMFRBDAL                      TSSOS Current Company Outlook; Diffusion Index for Texas                                                                 SA   29-Nov-2022  Monthly
+TSSOSCOLKUAMFRBDAL                      TSSOS Current Company Outlook; Diffusion Index for Texas                                                                 NSA  29-Nov-2022  Monthly
+TSSOSEMPDSAMFRBDAL                      TSSOS Current Employment; Percent Reporting Decreases for Texas                                                          SA   29-Nov-2022  Monthly
+TSSOSEMPDUAMFRBDAL                      TSSOS Current Employment; Percent Reporting Decreases for Texas                                                          NSA  29-Nov-2022  Monthly
+TSSOSEMPISAMFRBDAL                      TSSOS Current Employment; Percent Reporting Increases for Texas                                                          SA   29-Nov-2022  Monthly
+TSSOSEMPIUAMFRBDAL                      TSSOS Current Employment; Percent Reporting Increases for Texas                                                          NSA  29-Nov-2022  Monthly
+TSSOSEMPNSAMFRBDAL                      TSSOS Current Employment; Percent Reporting No Change for Texas                                                          SA   29-Nov-2022  Monthly
+TSSOSEMPNUAMFRBDAL                      TSSOS Current Employment; Percent Reporting No Change for Texas                                                          NSA  29-Nov-2022  Monthly
+TSSOSEMPSAMFRBDAL                       TSSOS Current Employment; Diffusion Index for Texas                                                                      SA   29-Nov-2022  Monthly
+TSSOSEMPUAMFRBDAL                       TSSOS Current Employment; Diffusion Index for Texas                                                                      NSA  29-Nov-2022  Monthly
+TSSOSFAVGWKDSAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Decreases for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFAVGWKDUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Decreases for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFAVGWKISAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Increases for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFAVGWKIUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting Increases for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFAVGWKNSAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting No Change for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFAVGWKNUAMFRBDAL                   TSSOS Future Hours Worked; Percent Reporting No Change for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFAVGWKSAMFRBDAL                    TSSOS Future Hours Worked; Diffusion Index for Texas                                                                     SA   29-Nov-2022  Monthly
+TSSOSFAVGWKUAMFRBDAL                    TSSOS Future Hours Worked; Diffusion Index for Texas                                                                     NSA  29-Nov-2022  Monthly
+TSSOSFBACTDSAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Decreases for Texas                                            SA   29-Nov-2022  Monthly
+TSSOSFBACTDUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Decreases for Texas                                            NSA  29-Nov-2022  Monthly
+TSSOSFBACTISAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Increases for Texas                                            SA   29-Nov-2022  Monthly
+TSSOSFBACTIUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting Increases for Texas                                            NSA  29-Nov-2022  Monthly
+TSSOSFBACTNSAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting No Change for Texas                                            SA   29-Nov-2022  Monthly
+TSSOSFBACTNUAMFRBDAL                    TSSOS Future General Business Activity; Percent Reporting No Change for Texas                                            NSA  29-Nov-2022  Monthly
+TSSOSFBACTSAMFRBDAL                     TSSOS Future General Business Activity; Diffusion Index for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSFBACTUAMFRBDAL                     TSSOS Future General Business Activity; Diffusion Index for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSFCEXPDSAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFCEXPDUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFCEXPISAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Increases for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFCEXPIUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting Increases for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFCEXPNSAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting No Change for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFCEXPNUAMFRBDAL                    TSSOS Future Capital Expenditures; Percent Reporting No Change for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFCEXPSAMFRBDAL                     TSSOS Future Capital Expenditures; Diffusion Index for Texas                                                             SA   29-Nov-2022  Monthly
+TSSOSFCEXPUAMFRBDAL                     TSSOS Future Capital Expenditures; Diffusion Index for Texas                                                             NSA  29-Nov-2022  Monthly
+TSSOSFCOLKDSAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Decreases for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSFCOLKDUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Decreases for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSFCOLKISAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Increases for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSFCOLKIUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting Increases for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSFCOLKNSAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting No Change for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSFCOLKNUAMFRBDAL                    TSSOS Future Company Outlook; Percent Reporting No Change for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSFCOLKSAMFRBDAL                     TSSOS Future Company Outlook; Diffusion Index for Texas                                                                  SA   29-Nov-2022  Monthly
+TSSOSFCOLKUAMFRBDAL                     TSSOS Future Company Outlook; Diffusion Index for Texas                                                                  NSA  29-Nov-2022  Monthly
+TSSOSFEMPDSAMFRBDAL                     TSSOS Future Employment; Percent Reporting Decreases for Texas                                                           SA   29-Nov-2022  Monthly
+TSSOSFEMPDUAMFRBDAL                     TSSOS Future Employment; Percent Reporting Decreases for Texas                                                           NSA  29-Nov-2022  Monthly
+TSSOSFEMPISAMFRBDAL                     TSSOS Future Employment; Percent Reporting Increases for Texas                                                           SA   29-Nov-2022  Monthly
+TSSOSFEMPIUAMFRBDAL                     TSSOS Future Employment; Percent Reporting Increases for Texas                                                           NSA  29-Nov-2022  Monthly
+TSSOSFEMPNSAMFRBDAL                     TSSOS Future Employment; Percent Reporting No Change for Texas                                                           SA   29-Nov-2022  Monthly
+TSSOSFEMPNUAMFRBDAL                     TSSOS Future Employment; Percent Reporting No Change for Texas                                                           NSA  29-Nov-2022  Monthly
+TSSOSFEMPSAMFRBDAL                      TSSOS Future Employment; Diffusion Index for Texas                                                                       SA   29-Nov-2022  Monthly
+TSSOSFEMPUAMFRBDAL                      TSSOS Future Employment; Diffusion Index for Texas                                                                       NSA  29-Nov-2022  Monthly
+TSSOSFINPDSAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Decreases for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFINPDUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Decreases for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFINPISAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Increases for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFINPIUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting Increases for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFINPNSAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting No Change for Texas                                                         SA   29-Nov-2022  Monthly
+TSSOSFINPNUAMFRBDAL                     TSSOS Future Input Prices; Percent Reporting No Change for Texas                                                         NSA  29-Nov-2022  Monthly
+TSSOSFINPSAMFRBDAL                      TSSOS Future Input Prices; Diffusion Index for Texas                                                                     SA   29-Nov-2022  Monthly
+TSSOSFINPUAMFRBDAL                      TSSOS Future Input Prices; Diffusion Index for Texas                                                                     NSA  29-Nov-2022  Monthly
+TSSOSFPEMPDSAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFPEMPDUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFPEMPISAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Increases for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFPEMPIUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting Increases for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFPEMPNSAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting No Change for Texas                                                 SA   29-Nov-2022  Monthly
+TSSOSFPEMPNUAMFRBDAL                    TSSOS Future Part-Time Employment; Percent Reporting No Change for Texas                                                 NSA  29-Nov-2022  Monthly
+TSSOSFPEMPSAMFRBDAL                     TSSOS Future Part-Time Employment; Diffusion Index for Texas                                                             SA   29-Nov-2022  Monthly
+TSSOSFPEMPUAMFRBDAL                     TSSOS Future Part-Time Employment; Diffusion Index for Texas                                                             NSA  29-Nov-2022  Monthly
+TSSOSFREVDSAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Decreases for Texas                                                              SA   29-Nov-2022  Monthly
+TSSOSFREVDUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Decreases for Texas                                                              NSA  29-Nov-2022  Monthly
+TSSOSFREVISAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Increases for Texas                                                              SA   29-Nov-2022  Monthly
+TSSOSFREVIUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting Increases for Texas                                                              NSA  29-Nov-2022  Monthly
+TSSOSFREVNSAMFRBDAL                     TSSOS Future Revenue; Percent Reporting No Change for Texas                                                              SA   29-Nov-2022  Monthly
+TSSOSFREVNUAMFRBDAL                     TSSOS Future Revenue; Percent Reporting No Change for Texas                                                              NSA  29-Nov-2022  Monthly
+TSSOSFREVSAMFRBDAL                      TSSOS Future Revenue; Diffusion Index for Texas                                                                          SA   29-Nov-2022  Monthly
+TSSOSFREVUAMFRBDAL                      TSSOS Future Revenue; Diffusion Index for Texas                                                                          NSA  29-Nov-2022  Monthly
+TSSOSFSELLDSAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Decreases for Texas                                                       SA   29-Nov-2022  Monthly
+TSSOSFSELLDUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Decreases for Texas                                                       NSA  29-Nov-2022  Monthly
+TSSOSFSELLISAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Increases for Texas                                                       SA   29-Nov-2022  Monthly
+TSSOSFSELLIUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting Increases for Texas                                                       NSA  29-Nov-2022  Monthly
+TSSOSFSELLNSAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting No Change for Texas                                                       SA   29-Nov-2022  Monthly
+TSSOSFSELLNUAMFRBDAL                    TSSOS Future Selling Prices; Percent Reporting No Change for Texas                                                       NSA  29-Nov-2022  Monthly
+TSSOSFSELLSAMFRBDAL                     TSSOS Future Selling Prices; Diffusion Index for Texas                                                                   SA   29-Nov-2022  Monthly
+TSSOSFSELLUAMFRBDAL                     TSSOS Future Selling Prices; Diffusion Index for Texas                                                                   NSA  29-Nov-2022  Monthly
+TSSOSFWGSDSAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                   SA   29-Nov-2022  Monthly
+TSSOSFWGSDUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                   NSA  29-Nov-2022  Monthly
+TSSOSFWGSISAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Increases for Texas                                                   SA   29-Nov-2022  Monthly
+TSSOSFWGSIUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting Increases for Texas                                                   NSA  29-Nov-2022  Monthly
+TSSOSFWGSNSAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting No Change for Texas                                                   SA   29-Nov-2022  Monthly
+TSSOSFWGSNUAMFRBDAL                     TSSOS Future Wages and Benefits; Percent Reporting No Change for Texas                                                   NSA  29-Nov-2022  Monthly
+TSSOSFWGSSAMFRBDAL                      TSSOS Future Wages and Benefits; Diffusion Index for Texas                                                               SA   29-Nov-2022  Monthly
+TSSOSFWGSUAMFRBDAL                      TSSOS Future Wages and Benefits; Diffusion Index for Texas                                                               NSA  29-Nov-2022  Monthly
+TSSOSINPDSAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Decreases for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSINPDUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Decreases for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSINPISAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Increases for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSINPIUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting Increases for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSINPNSAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting No Change for Texas                                                        SA   29-Nov-2022  Monthly
+TSSOSINPNUAMFRBDAL                      TSSOS Current Input Prices; Percent Reporting No Change for Texas                                                        NSA  29-Nov-2022  Monthly
+TSSOSINPSAMFRBDAL                       TSSOS Current Input Prices; Diffusion Index for Texas                                                                    SA   29-Nov-2022  Monthly
+TSSOSINPUAMFRBDAL                       TSSOS Current Input Prices; Diffusion Index for Texas                                                                    NSA  29-Nov-2022  Monthly
+TSSOSPEMPDSAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSPEMPDUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSPEMPISAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Increases for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSPEMPIUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting Increases for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSPEMPNSAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting No Change for Texas                                                SA   29-Nov-2022  Monthly
+TSSOSPEMPNUAMFRBDAL                     TSSOS Current Part-Time Employment; Percent Reporting No Change for Texas                                                NSA  29-Nov-2022  Monthly
+TSSOSPEMPSAMFRBDAL                      TSSOS Current Part-Time Employment; Diffusion Index for Texas                                                            SA   29-Nov-2022  Monthly
+TSSOSPEMPUAMFRBDAL                      TSSOS Current Part-Time Employment; Diffusion Index for Texas                                                            NSA  29-Nov-2022  Monthly
+TSSOSREVDSAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Decreases for Texas                                                             SA   29-Nov-2022  Monthly
+TSSOSREVDUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Decreases for Texas                                                             NSA  29-Nov-2022  Monthly
+TSSOSREVISAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Increases for Texas                                                             SA   29-Nov-2022  Monthly
+TSSOSREVIUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting Increases for Texas                                                             NSA  29-Nov-2022  Monthly
+TSSOSREVNSAMFRBDAL                      TSSOS Current Revenue; Percent Reporting No Change for Texas                                                             SA   29-Nov-2022  Monthly
+TSSOSREVNUAMFRBDAL                      TSSOS Current Revenue; Percent Reporting No Change for Texas                                                             NSA  29-Nov-2022  Monthly
+TSSOSREVSAMFRBDAL                       TSSOS Current Revenue; Diffusion Index for Texas                                                                         SA   29-Nov-2022  Monthly
+TSSOSREVUAMFRBDAL                       TSSOS Current Revenue; Diffusion Index for Texas                                                                         NSA  29-Nov-2022  Monthly
+TSSOSSELLDSAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Decreases for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSSELLDUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Decreases for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSSELLISAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Increases for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSSELLIUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting Increases for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSSELLNSAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting No Change for Texas                                                      SA   29-Nov-2022  Monthly
+TSSOSSELLNUAMFRBDAL                     TSSOS Current Selling Prices; Percent Reporting No Change for Texas                                                      NSA  29-Nov-2022  Monthly
+TSSOSSELLSAMFRBDAL                      TSSOS Current Selling Prices; Diffusion Index for Texas                                                                  SA   29-Nov-2022  Monthly
+TSSOSSELLUAMFRBDAL                      TSSOS Current Selling Prices; Diffusion Index for Texas                                                                  NSA  29-Nov-2022  Monthly
+TSSOSWGSDSAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                  SA   29-Nov-2022  Monthly
+TSSOSWGSDUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                  NSA  29-Nov-2022  Monthly
+TSSOSWGSISAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Increases for Texas                                                  SA   29-Nov-2022  Monthly
+TSSOSWGSIUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting Increases for Texas                                                  NSA  29-Nov-2022  Monthly
+TSSOSWGSNSAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting No Change for Texas                                                  SA   29-Nov-2022  Monthly
+TSSOSWGSNUAMFRBDAL                      TSSOS Current Wages and Benefits; Percent Reporting No Change for Texas                                                  NSA  29-Nov-2022  Monthly
+TSSOSWGSSAMFRBDAL                       TSSOS Current Wages and Benefits; Diffusion Index for Texas                                                              SA   29-Nov-2022  Monthly
+TSSOSWGSUAMFRBDAL                       TSSOS Current Wages and Benefits; Diffusion Index for Texas                                                              NSA  29-Nov-2022  Monthly

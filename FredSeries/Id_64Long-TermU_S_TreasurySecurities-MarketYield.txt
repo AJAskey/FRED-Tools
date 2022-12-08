@@ -1,2 +1,2 @@
 Id : 64  Long-Term U.S. Treasury Securities - Market Yield
-LTGS                                    Long-Term U.S. Treasury Securities - Market Yield (DISCONTINUED)                                                                        NSA  Weekly, Ending Friday 27-Jul-2006  
+LTGS                                    Long-Term U.S. Treasury Securities - Market Yield (DISCONTINUED)                                                         NSA  27-Jul-2006  Weekly, Ending Friday

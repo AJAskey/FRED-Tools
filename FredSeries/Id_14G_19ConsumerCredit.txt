@@ -1,156 +1,156 @@
 Id : 14  G.19 Consumer Credit
-AUTONS                                  Total Automobile Credit Outstanding (DISCONTINUED)                                                                                      NSA  Monthly, End of Period 22-Sep-2006  
-AUTOSL                                  Total Automobile Credit Outstanding (DISCONTINUED)                                                                                      SA   Monthly, End of Period 22-Sep-2006  
-DTCNLHDNM                               Total Consumer Credit Securitized by Depository Institutions                                                                            NSA  Monthly    07-Dec-2022  
-DTCNLHDXDFBANM                          Total Consumer Credit Securitized by Depository Institutions, Flow                                                                      NSA  Monthly    07-Dec-2022  
-DTCNLHFNM                               Total Consumer Credit Securitized by Finance Companies                                                                                  NSA  Monthly    07-Dec-2022  
-DTCNLHFXDFBANM                          Total Consumer Credit Securitized by Finance Companies, Flow                                                                            NSA  Monthly    07-Dec-2022  
-DTCNLHNNM                               Total Consumer Credit Securitized by Nonfinancial Business                                                                              NSA  Monthly    07-Dec-2022  
-DTCNLHNXDFBANM                          Total Consumer Credit Securitized by Nonfinancial Business, Flow                                                                        NSA  Monthly    07-Dec-2022  
-DTCNLNHDNM                              Nonrevolving Consumer Credit Securitized by Depository Institutions                                                                     NSA  Monthly    07-Dec-2022  
-DTCNLNHDXDFBANM                         Nonrevolving Consumer Credit Securitized by Depository Institutions, Flow                                                               NSA  Monthly    07-Dec-2022  
-DTCNLNHFNM                              Nonrevolving Consumer Credit Securitized by Finance Companies                                                                           NSA  Monthly    07-Dec-2022  
-DTCNLNHFXDFBANM                         Nonrevolving Consumer Credit Securitized by Finance Companies, Flow                                                                     NSA  Monthly    07-Dec-2022  
-DTCNLNHNNM                              Nonrevolving Consumer Credit Securitized by Nonfinancial Business                                                                       NSA  Monthly    07-Dec-2022  
-DTCNLNHNXDFBANM                         Nonrevolving Consumer Credit Securitized by Nonfinancial Business, Flow                                                                 NSA  Monthly    07-Dec-2022  
-DTCNLRHDNM                              Revolving Consumer Credit Securitized by Depository Institutions                                                                        NSA  Monthly    07-Dec-2022  
-DTCNLRHDXDFBANM                         Revolving Consumer Credit Securitized by Depository Institutions, Flow                                                                  NSA  Monthly    07-Dec-2022  
-DTCNLRHNNM                              Revolving Consumer Credit Securitized by Nonfinancial Business                                                                          NSA  Monthly    07-Dec-2022  
-DTCNLRHNXDFBANM                         Revolving Consumer Credit Securitized by Nonfinancial Business, Flow                                                                    NSA  Monthly    07-Dec-2022  
-DTCTLHDNM                               Total Consumer Credit Owned and Securitized by Depository Institutions                                                                  NSA  Monthly    07-Dec-2022  
-DTCTLHDXDFBANM                          Total Consumer Credit Owned and Securitized by Depository Institutions, Flow                                                            NSA  Monthly    07-Dec-2022  
-DTCTLHFNM                               Total Consumer Credit Owned and Securitized by Finance Companies                                                                        NSA  Monthly    07-Dec-2022  
-DTCTLHFXDFBANM                          Total Consumer Credit Owned and Securitized by Finance Companies, Flow                                                                  NSA  Monthly    07-Dec-2022  
-DTCTLHNNM                               Total Consumer Credit Owned and Securitized by Nonfinancial Business                                                                    NSA  Monthly    07-Dec-2022  
-DTCTLHNXDFBANM                          Total Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                                              NSA  Monthly    07-Dec-2022  
-DTCTLNHDNM                              Nonrevolving Consumer Credit Owned and Securitized by Depository Institutions                                                           NSA  Monthly    07-Dec-2022  
-DTCTLNHDXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Depository Institutions, Flow                                                     NSA  Monthly    07-Dec-2022  
-DTCTLNHFNM                              Nonrevolving Consumer Credit Owned and Securitized by Finance Companies                                                                 NSA  Monthly    07-Dec-2022  
-DTCTLNHFXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                           NSA  Monthly    07-Dec-2022  
-DTCTLNHNNM                              Nonrevolving Consumer Credit Owned and Securitized by Nonfinancial Business                                                             NSA  Monthly    07-Dec-2022  
-DTCTLNHNXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                                       NSA  Monthly    07-Dec-2022  
-DTCTLRHDNM                              Revolving Consumer Credit Owned and Securitized by Depository Institutions                                                              NSA  Monthly    07-Dec-2022  
-DTCTLRHDXDFBANM                         Revolving Consumer Credit Owned and Securitized by Depository Institutions, Flow                                                        NSA  Monthly    07-Dec-2022  
-DTCTLRHNNM                              Revolving Consumer Credit Owned and Securitized by Nonfinancial Business                                                                NSA  Monthly    07-Dec-2022  
-DTCTLRHNXDFBANM                         Revolving Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                                          NSA  Monthly    07-Dec-2022  
-DTCTLVENANM                             Average Amount Financed for New Car Loans at Finance Companies                                                                          NSA  Monthly    07-Dec-2022  
-DTCTLVENMNM                             Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                                      NSA  Monthly    07-Dec-2022  
-FLMVLOAS                                Motor Vehicle Loans Owned and Securitized, Flow                                                                                         NSA  Quarterly, End of Period 07-Dec-2022  
-FLMVLOASA                               Motor Vehicle Loans Owned and Securitized, Flow                                                                                         NSA  Quarterly, End of Period 07-Dec-2022  
-FLNONREVNS                              Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                                NSA  Monthly    07-Dec-2022  
-FLNONREVNSA                             Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                                NSA  Monthly    07-Dec-2022  
-FLNONREVSL                              Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                                SA   Monthly    07-Dec-2022  
-FLNONREVSLA                             Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                                SA   Monthly    07-Dec-2022  
-FLNREVNCB                               Nonrevolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                             NSA  Monthly    07-Jun-2022  
-FLNREVNCBA                              Nonrevolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                             NSA  Monthly    07-Jun-2022  
-FLNREVNCU                               Nonrevolving Consumer Credit Owned by Credit Unions, Flow                                                                               NSA  Monthly    07-Dec-2022  
-FLNREVNCUA                              Nonrevolving Consumer Credit Owned by Credit Unions, Flow                                                                               NSA  Monthly    07-Dec-2022  
-FLNREVNDI                               Nonrevolving Consumer Credit Owned by Depository Institutions, Flow                                                                     NSA  Monthly    07-Dec-2022  
-FLNREVNDIA                              Nonrevolving Consumer Credit Owned by Depository Institutions, Flow                                                                     NSA  Monthly    07-Dec-2022  
-FLNREVNEI                               Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                                      NSA  Monthly    07-Dec-2022  
-FLNREVNEIA                              Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                                      NSA  Monthly    07-Dec-2022  
-FLNREVNFC                               Nonrevolving Consumer Credit Owned by Finance Companies, Flow                                                                           NSA  Monthly    07-Dec-2022  
-FLNREVNFCA                              Nonrevolving Consumer Credit Owned by Finance Companies, Flow                                                                           NSA  Monthly    07-Dec-2022  
-FLNREVNGOV                              Nonrevolving Consumer Credit Owned by Federal Government, Flow                                                                          NSA  Monthly    07-Dec-2022  
-FLNREVNGOVA                             Nonrevolving Consumer Credit Owned by Federal Government, Flow                                                                          NSA  Monthly    07-Dec-2022  
-FLNREVNNFC                              Nonrevolving Consumer Credit Owned by Nonfinancial Business, Flow                                                                       NSA  Monthly    07-Dec-2022  
-FLNREVNNFCA                             Nonrevolving Consumer Credit Owned by Nonfinancial Business, Flow                                                                       NSA  Monthly    07-Dec-2022  
-FLNREVNSAV                              Nonrevolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                         NSA  Monthly    07-Jun-2022  
-FLNREVNSAVA                             Nonrevolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                         NSA  Monthly    07-Jun-2022  
-FLNREVNSEC                              Nonrevolving Securitized Consumer Credit, Flow                                                                                          NSA  Monthly    07-Dec-2022  
-FLNREVNSECA                             Nonrevolving Securitized Consumer Credit, Flow                                                                                          NSA  Monthly    07-Dec-2022  
-FLREVOLNCB                              Revolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                                NSA  Monthly    07-Jun-2022  
-FLREVOLNCBA                             Revolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                                NSA  Monthly    07-Jun-2022  
-FLREVOLNCU                              Revolving Consumer Credit Owned by Credit Unions, Flow                                                                                  NSA  Monthly    07-Dec-2022  
-FLREVOLNCUA                             Revolving Consumer Credit Owned by Credit Unions, Flow                                                                                  NSA  Monthly    07-Dec-2022  
-FLREVOLNDI                              Revolving Consumer Credit Owned by Depository Institutions, Flow                                                                        NSA  Monthly    07-Dec-2022  
-FLREVOLNDIA                             Revolving Consumer Credit Owned by Depository Institutions, Flow                                                                        NSA  Monthly    07-Dec-2022  
-FLREVOLNFC                              Revolving Consumer Credit Owned by Finance Companies, Flow                                                                              NSA  Monthly    07-Dec-2022  
-FLREVOLNFCA                             Revolving Consumer Credit Owned by Finance Companies, Flow                                                                              NSA  Monthly    07-Dec-2022  
-FLREVOLNNFC                             Revolving Consumer Credit Owned by Nonfinancial Business, Flow                                                                          NSA  Monthly    07-Dec-2022  
-FLREVOLNNFCA                            Revolving Consumer Credit Owned by Nonfinancial Business, Flow                                                                          NSA  Monthly    07-Dec-2022  
-FLREVOLNS                               Revolving Consumer Credit Owned and Securitized, Flow                                                                                   NSA  Monthly    07-Dec-2022  
-FLREVOLNSA                              Revolving Consumer Credit Owned and Securitized, Flow                                                                                   NSA  Monthly    07-Dec-2022  
-FLREVOLNSAV                             Revolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                            NSA  Monthly    07-Jun-2022  
-FLREVOLNSAVA                            Revolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                            NSA  Monthly    07-Jun-2022  
-FLREVOLNSEC                             Revolving Securitized Consumer Credit, Flow                                                                                             NSA  Monthly    07-Dec-2022  
-FLREVOLNSECA                            Revolving Securitized Consumer Credit, Flow                                                                                             NSA  Monthly    07-Dec-2022  
-FLREVOLSL                               Revolving Consumer Credit Owned and Securitized, Flow                                                                                   SA   Monthly    07-Dec-2022  
-FLREVOLSLA                              Revolving Consumer Credit Owned and Securitized, Flow                                                                                   SA   Monthly    07-Dec-2022  
-FLSLOAS                                 Student Loans Owned and Securitized, Flow                                                                                               NSA  Quarterly, End of Period 07-Dec-2022  
-FLSLOASA                                Student Loans Owned and Securitized, Flow                                                                                               NSA  Quarterly, End of Period 07-Dec-2022  
-FLTOTALCB                               Total Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                                    NSA  Monthly    07-Jun-2022  
-FLTOTALCBA                              Total Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                                    NSA  Monthly    07-Jun-2022  
-FLTOTALDI                               Total Consumer Credit Owned by Depository Institutions, Flow                                                                            NSA  Monthly    07-Dec-2022  
-FLTOTALDIA                              Total Consumer Credit Owned by Depository Institutions, Flow                                                                            NSA  Monthly    07-Dec-2022  
-FLTOTALFC                               Total Consumer Credit Owned by Finance Companies, Flow                                                                                  NSA  Monthly    07-Dec-2022  
-FLTOTALFCA                              Total Consumer Credit Owned by Finance Companies, Flow                                                                                  NSA  Monthly    07-Dec-2022  
-FLTOTALGOV                              Total Consumer Credit Owned by Federal Government, Flow                                                                                 NSA  Monthly    07-Dec-2022  
-FLTOTALGOVA                             Total Consumer Credit Owned by Federal Government, Flow                                                                                 NSA  Monthly    07-Dec-2022  
-FLTOTALNEI                              Total Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                                             NSA  Monthly    07-Dec-2022  
-FLTOTALNEIA                             Total Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                                             NSA  Monthly    07-Dec-2022  
-FLTOTALNFC                              Total Consumer Credit Owned by Nonfinancial Business, Flow                                                                              NSA  Monthly    07-Dec-2022  
-FLTOTALNFCA                             Total Consumer Credit Owned by Nonfinancial Business, Flow                                                                              NSA  Monthly    07-Dec-2022  
-FLTOTALNS                               Total Consumer Credit Owned and Securitized, Flow                                                                                       NSA  Monthly    07-Dec-2022  
-FLTOTALNSA                              Total Consumer Credit Owned and Securitized, Flow                                                                                       NSA  Monthly    07-Dec-2022  
-FLTOTALSAV                              Total Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                                NSA  Monthly    07-Jun-2022  
-FLTOTALSAVA                             Total Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                                NSA  Monthly    07-Jun-2022  
-FLTOTALSEC                              Total Securitized Consumer Credit, Flow                                                                                                 NSA  Monthly    07-Dec-2022  
-FLTOTALSECA                             Total Securitized Consumer Credit, Flow                                                                                                 NSA  Monthly    07-Dec-2022  
-FLTOTALSL                               Total Consumer Credit Owned and Securitized, Flow                                                                                       SA   Monthly    07-Dec-2022  
-FLTOTALSLA                              Total Consumer Credit Owned and Securitized, Flow                                                                                       SA   Monthly    07-Dec-2022  
-FLTOTALTCU                              Total Consumer Credit Owned by Credit Unions, Flow                                                                                      NSA  Monthly    07-Dec-2022  
-FLTOTALTCUA                             Total Consumer Credit Owned by Credit Unions, Flow                                                                                      NSA  Monthly    07-Dec-2022  
-G19DTCNLRHFNM                           Revolving Consumer Credit Securitized by Finance Companies                                                                              NSA  Monthly    07-Dec-2022  
-G19DTCNLRHFXDFBANM                      Revolving Consumer Credit Securitized by Finance Companies, Flow                                                                        NSA  Monthly    07-Dec-2022  
-G19DTCTLRHFNM                           Revolving Consumer Credit Owned and Securitized by Finance Companies                                                                    NSA  Monthly    07-Dec-2022  
-G19DTCTLRHFXDFBANM                      Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                              NSA  Monthly    07-Dec-2022  
-MVLOAS                                  Motor Vehicle Loans Owned and Securitized                                                                                               NSA  Quarterly, End of Period 07-Dec-2022  
-NONREVNS                                Nonrevolving Consumer Credit Owned and Securitized                                                                                      NSA  Monthly    07-Dec-2022  
-NONREVSL                                Nonrevolving Consumer Credit Owned and Securitized                                                                                      SA   Monthly    07-Dec-2022  
-NONREVSLAR                              Percent Change of Total Nonrevolving Consumer Credit                                                                                    SAAR Monthly    07-Dec-2022  
-NREVNCB                                 Nonrevolving Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                                   NSA  Monthly    07-Jun-2022  
-NREVNCU                                 Nonrevolving Consumer Credit Owned by Credit Unions                                                                                     NSA  Monthly    07-Dec-2022  
-NREVNDI                                 Nonrevolving Consumer Credit Owned by Depository Institutions                                                                           NSA  Monthly    07-Dec-2022  
-NREVNEI                                 Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions                                                            NSA  Monthly    07-Dec-2022  
-NREVNFC                                 Nonrevolving Consumer Credit Owned by Finance Companies                                                                                 NSA  Monthly    07-Dec-2022  
-NREVNGOV                                Nonrevolving Consumer Credit Owned by Federal Government                                                                                NSA  Monthly    07-Dec-2022  
-NREVNNFC                                Nonrevolving Consumer Credit Owned by Nonfinancial Business                                                                             NSA  Monthly    07-Dec-2022  
-NREVNSAV                                Nonrevolving Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                               NSA  Monthly    07-Jun-2022  
-NREVNSEC                                Nonrevolving Securitized Consumer Credit                                                                                                NSA  Monthly    07-Dec-2022  
-OTHERNS                                 Total Other Credit Outstanding (DISCONTINUED)                                                                                           NSA  Monthly, End of Period 22-Sep-2006  
-OTHERSL                                 Total Other Credit Outstanding (DISCONTINUED)                                                                                           SA   Monthly, End of Period 22-Sep-2006  
-REVOLNCB                                Revolving Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                                      NSA  Monthly    07-Jun-2022  
-REVOLNCU                                Revolving Consumer Credit Owned by Credit Unions                                                                                        NSA  Monthly    07-Dec-2022  
-REVOLNDI                                Revolving Consumer Credit Owned by Depository Institutions                                                                              NSA  Monthly    07-Dec-2022  
-REVOLNFC                                Revolving Consumer Credit Owned by Finance Companies                                                                                    NSA  Monthly    07-Dec-2022  
-REVOLNNFC                               Revolving Consumer Credit Owned by Nonfinancial Business                                                                                NSA  Monthly    07-Dec-2022  
-REVOLNS                                 Revolving Consumer Credit Owned and Securitized                                                                                         NSA  Monthly    07-Dec-2022  
-REVOLNSAV                               Revolving Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                                  NSA  Monthly    07-Jun-2022  
-REVOLNSEC                               Revolving Securitized Consumer Credit                                                                                                   NSA  Monthly    07-Dec-2022  
-REVOLSL                                 Revolving Consumer Credit Owned and Securitized                                                                                         SA   Monthly    07-Dec-2022  
-REVOLSLAR                               Percent Change of Total Revolving Consumer Credit                                                                                       SAAR Monthly    07-Dec-2022  
-RIELPCFANNM                             Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                                  NSA  Monthly    07-Dec-2022  
-RIFLPBCIANM60NM                         Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan                                                 NSA  Monthly    07-Oct-2022  
-RIFLPBCIANM72NM                         Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 72 Month Loan                                                 NSA  Monthly    07-Oct-2022  
-SLOAS                                   Student Loans Owned and Securitized                                                                                                     NSA  Quarterly, End of Period 07-Dec-2022  
-TERMAFCNCNSA                            New Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                                   NSA  Monthly    26-Jun-2012  
-TERMCBAUTO48NS                          Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan                                                 NSA  Monthly    07-Oct-2022  
-TERMCBCCALLNS                           Commercial Bank Interest Rate on Credit Card Plans, All Accounts                                                                        NSA  Monthly    07-Oct-2022  
-TERMCBCCINTNS                           Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest                                                          NSA  Monthly    07-Oct-2022  
-TERMCBPER24NS                           Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan                                                                       NSA  Monthly    07-Oct-2022  
-TERMFCAAFNCNS                           Average Amount Financed for New Car Loans at Auto Finance Companies (DISCONTINUED)                                                      NSA  Monthly    26-Jun-2012  
-TERMFCLVRNCNS                           Loan-to-Value Ratio of New Car Loans at Auto Finance Companies (DISCONTINUED)                                                           NSA  Monthly    26-Jun-2012  
-TERMFCWAMNCLNS                          Weighted-Average Maturity of New Car Loans at Auto Finance Companies (DISCONTINUED)                                                     NSA  Monthly    26-Jun-2012  
-TOTALCB                                 Total Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                                          NSA  Monthly    07-Jun-2022  
-TOTALDI                                 Total Consumer Credit Owned by Depository Institutions                                                                                  NSA  Monthly    07-Dec-2022  
-TOTALFC                                 Total Consumer Credit Owned by Finance Companies                                                                                        NSA  Monthly    07-Dec-2022  
-TOTALGOV                                Total Consumer Credit Owned by Federal Government                                                                                       NSA  Monthly    07-Dec-2022  
-TOTALNEI                                Total Consumer Credit Owned by Nonprofit and Educational Institutions                                                                   NSA  Monthly    07-Dec-2022  
-TOTALNFC                                Total Consumer Credit Owned by Nonfinancial Business                                                                                    NSA  Monthly    07-Dec-2022  
-TOTALNS                                 Total Consumer Credit Owned and Securitized                                                                                             NSA  Monthly    07-Dec-2022  
-TOTALSAV                                Total Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                                      NSA  Monthly    07-Jun-2022  
-TOTALSEC                                Total Securitized Consumer Credit                                                                                                       NSA  Monthly    07-Dec-2022  
-TOTALSL                                 Total Consumer Credit Owned and Securitized                                                                                             SA   Monthly    07-Dec-2022  
-TOTALSLAR                               Percent Change of Total Consumer Credit                                                                                                 SAAR Monthly    07-Dec-2022  
-TOTALTCU                                Total Consumer Credit Owned by Credit Unions                                                                                            NSA  Monthly    07-Dec-2022  
+AUTONS                                  Total Automobile Credit Outstanding (DISCONTINUED)                                                                       NSA  22-Sep-2006  Monthly, End of Period
+AUTOSL                                  Total Automobile Credit Outstanding (DISCONTINUED)                                                                       SA   22-Sep-2006  Monthly, End of Period
+DTCNLHDNM                               Total Consumer Credit Securitized by Depository Institutions                                                             NSA  07-Dec-2022  Monthly
+DTCNLHDXDFBANM                          Total Consumer Credit Securitized by Depository Institutions, Flow                                                       NSA  07-Dec-2022  Monthly
+DTCNLHFNM                               Total Consumer Credit Securitized by Finance Companies                                                                   NSA  07-Dec-2022  Monthly
+DTCNLHFXDFBANM                          Total Consumer Credit Securitized by Finance Companies, Flow                                                             NSA  07-Dec-2022  Monthly
+DTCNLHNNM                               Total Consumer Credit Securitized by Nonfinancial Business                                                               NSA  07-Dec-2022  Monthly
+DTCNLHNXDFBANM                          Total Consumer Credit Securitized by Nonfinancial Business, Flow                                                         NSA  07-Dec-2022  Monthly
+DTCNLNHDNM                              Nonrevolving Consumer Credit Securitized by Depository Institutions                                                      NSA  07-Dec-2022  Monthly
+DTCNLNHDXDFBANM                         Nonrevolving Consumer Credit Securitized by Depository Institutions, Flow                                                NSA  07-Dec-2022  Monthly
+DTCNLNHFNM                              Nonrevolving Consumer Credit Securitized by Finance Companies                                                            NSA  07-Dec-2022  Monthly
+DTCNLNHFXDFBANM                         Nonrevolving Consumer Credit Securitized by Finance Companies, Flow                                                      NSA  07-Dec-2022  Monthly
+DTCNLNHNNM                              Nonrevolving Consumer Credit Securitized by Nonfinancial Business                                                        NSA  07-Dec-2022  Monthly
+DTCNLNHNXDFBANM                         Nonrevolving Consumer Credit Securitized by Nonfinancial Business, Flow                                                  NSA  07-Dec-2022  Monthly
+DTCNLRHDNM                              Revolving Consumer Credit Securitized by Depository Institutions                                                         NSA  07-Dec-2022  Monthly
+DTCNLRHDXDFBANM                         Revolving Consumer Credit Securitized by Depository Institutions, Flow                                                   NSA  07-Dec-2022  Monthly
+DTCNLRHNNM                              Revolving Consumer Credit Securitized by Nonfinancial Business                                                           NSA  07-Dec-2022  Monthly
+DTCNLRHNXDFBANM                         Revolving Consumer Credit Securitized by Nonfinancial Business, Flow                                                     NSA  07-Dec-2022  Monthly
+DTCTLHDNM                               Total Consumer Credit Owned and Securitized by Depository Institutions                                                   NSA  07-Dec-2022  Monthly
+DTCTLHDXDFBANM                          Total Consumer Credit Owned and Securitized by Depository Institutions, Flow                                             NSA  07-Dec-2022  Monthly
+DTCTLHFNM                               Total Consumer Credit Owned and Securitized by Finance Companies                                                         NSA  07-Dec-2022  Monthly
+DTCTLHFXDFBANM                          Total Consumer Credit Owned and Securitized by Finance Companies, Flow                                                   NSA  07-Dec-2022  Monthly
+DTCTLHNNM                               Total Consumer Credit Owned and Securitized by Nonfinancial Business                                                     NSA  07-Dec-2022  Monthly
+DTCTLHNXDFBANM                          Total Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                               NSA  07-Dec-2022  Monthly
+DTCTLNHDNM                              Nonrevolving Consumer Credit Owned and Securitized by Depository Institutions                                            NSA  07-Dec-2022  Monthly
+DTCTLNHDXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Depository Institutions, Flow                                      NSA  07-Dec-2022  Monthly
+DTCTLNHFNM                              Nonrevolving Consumer Credit Owned and Securitized by Finance Companies                                                  NSA  07-Dec-2022  Monthly
+DTCTLNHFXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                            NSA  07-Dec-2022  Monthly
+DTCTLNHNNM                              Nonrevolving Consumer Credit Owned and Securitized by Nonfinancial Business                                              NSA  07-Dec-2022  Monthly
+DTCTLNHNXDFBANM                         Nonrevolving Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                        NSA  07-Dec-2022  Monthly
+DTCTLRHDNM                              Revolving Consumer Credit Owned and Securitized by Depository Institutions                                               NSA  07-Dec-2022  Monthly
+DTCTLRHDXDFBANM                         Revolving Consumer Credit Owned and Securitized by Depository Institutions, Flow                                         NSA  07-Dec-2022  Monthly
+DTCTLRHNNM                              Revolving Consumer Credit Owned and Securitized by Nonfinancial Business                                                 NSA  07-Dec-2022  Monthly
+DTCTLRHNXDFBANM                         Revolving Consumer Credit Owned and Securitized by Nonfinancial Business, Flow                                           NSA  07-Dec-2022  Monthly
+DTCTLVENANM                             Average Amount Financed for New Car Loans at Finance Companies                                                           NSA  07-Dec-2022  Monthly
+DTCTLVENMNM                             Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                       NSA  07-Dec-2022  Monthly
+FLMVLOAS                                Motor Vehicle Loans Owned and Securitized, Flow                                                                          NSA  07-Dec-2022  Quarterly, End of Period
+FLMVLOASA                               Motor Vehicle Loans Owned and Securitized, Flow                                                                          NSA  07-Dec-2022  Quarterly, End of Period
+FLNONREVNS                              Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                 NSA  07-Dec-2022  Monthly
+FLNONREVNSA                             Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                 NSA  07-Dec-2022  Monthly
+FLNONREVSL                              Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                 SA   07-Dec-2022  Monthly
+FLNONREVSLA                             Nonrevolving Consumer Credit Owned and Securitized, Flow                                                                 SA   07-Dec-2022  Monthly
+FLNREVNCB                               Nonrevolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                              NSA  07-Jun-2022  Monthly
+FLNREVNCBA                              Nonrevolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                              NSA  07-Jun-2022  Monthly
+FLNREVNCU                               Nonrevolving Consumer Credit Owned by Credit Unions, Flow                                                                NSA  07-Dec-2022  Monthly
+FLNREVNCUA                              Nonrevolving Consumer Credit Owned by Credit Unions, Flow                                                                NSA  07-Dec-2022  Monthly
+FLNREVNDI                               Nonrevolving Consumer Credit Owned by Depository Institutions, Flow                                                      NSA  07-Dec-2022  Monthly
+FLNREVNDIA                              Nonrevolving Consumer Credit Owned by Depository Institutions, Flow                                                      NSA  07-Dec-2022  Monthly
+FLNREVNEI                               Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                       NSA  07-Dec-2022  Monthly
+FLNREVNEIA                              Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                       NSA  07-Dec-2022  Monthly
+FLNREVNFC                               Nonrevolving Consumer Credit Owned by Finance Companies, Flow                                                            NSA  07-Dec-2022  Monthly
+FLNREVNFCA                              Nonrevolving Consumer Credit Owned by Finance Companies, Flow                                                            NSA  07-Dec-2022  Monthly
+FLNREVNGOV                              Nonrevolving Consumer Credit Owned by Federal Government, Flow                                                           NSA  07-Dec-2022  Monthly
+FLNREVNGOVA                             Nonrevolving Consumer Credit Owned by Federal Government, Flow                                                           NSA  07-Dec-2022  Monthly
+FLNREVNNFC                              Nonrevolving Consumer Credit Owned by Nonfinancial Business, Flow                                                        NSA  07-Dec-2022  Monthly
+FLNREVNNFCA                             Nonrevolving Consumer Credit Owned by Nonfinancial Business, Flow                                                        NSA  07-Dec-2022  Monthly
+FLNREVNSAV                              Nonrevolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                          NSA  07-Jun-2022  Monthly
+FLNREVNSAVA                             Nonrevolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                          NSA  07-Jun-2022  Monthly
+FLNREVNSEC                              Nonrevolving Securitized Consumer Credit, Flow                                                                           NSA  07-Dec-2022  Monthly
+FLNREVNSECA                             Nonrevolving Securitized Consumer Credit, Flow                                                                           NSA  07-Dec-2022  Monthly
+FLREVOLNCB                              Revolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                 NSA  07-Jun-2022  Monthly
+FLREVOLNCBA                             Revolving Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                 NSA  07-Jun-2022  Monthly
+FLREVOLNCU                              Revolving Consumer Credit Owned by Credit Unions, Flow                                                                   NSA  07-Dec-2022  Monthly
+FLREVOLNCUA                             Revolving Consumer Credit Owned by Credit Unions, Flow                                                                   NSA  07-Dec-2022  Monthly
+FLREVOLNDI                              Revolving Consumer Credit Owned by Depository Institutions, Flow                                                         NSA  07-Dec-2022  Monthly
+FLREVOLNDIA                             Revolving Consumer Credit Owned by Depository Institutions, Flow                                                         NSA  07-Dec-2022  Monthly
+FLREVOLNFC                              Revolving Consumer Credit Owned by Finance Companies, Flow                                                               NSA  07-Dec-2022  Monthly
+FLREVOLNFCA                             Revolving Consumer Credit Owned by Finance Companies, Flow                                                               NSA  07-Dec-2022  Monthly
+FLREVOLNNFC                             Revolving Consumer Credit Owned by Nonfinancial Business, Flow                                                           NSA  07-Dec-2022  Monthly
+FLREVOLNNFCA                            Revolving Consumer Credit Owned by Nonfinancial Business, Flow                                                           NSA  07-Dec-2022  Monthly
+FLREVOLNS                               Revolving Consumer Credit Owned and Securitized, Flow                                                                    NSA  07-Dec-2022  Monthly
+FLREVOLNSA                              Revolving Consumer Credit Owned and Securitized, Flow                                                                    NSA  07-Dec-2022  Monthly
+FLREVOLNSAV                             Revolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                             NSA  07-Jun-2022  Monthly
+FLREVOLNSAVA                            Revolving Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                             NSA  07-Jun-2022  Monthly
+FLREVOLNSEC                             Revolving Securitized Consumer Credit, Flow                                                                              NSA  07-Dec-2022  Monthly
+FLREVOLNSECA                            Revolving Securitized Consumer Credit, Flow                                                                              NSA  07-Dec-2022  Monthly
+FLREVOLSL                               Revolving Consumer Credit Owned and Securitized, Flow                                                                    SA   07-Dec-2022  Monthly
+FLREVOLSLA                              Revolving Consumer Credit Owned and Securitized, Flow                                                                    SA   07-Dec-2022  Monthly
+FLSLOAS                                 Student Loans Owned and Securitized, Flow                                                                                NSA  07-Dec-2022  Quarterly, End of Period
+FLSLOASA                                Student Loans Owned and Securitized, Flow                                                                                NSA  07-Dec-2022  Quarterly, End of Period
+FLTOTALCB                               Total Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                     NSA  07-Jun-2022  Monthly
+FLTOTALCBA                              Total Consumer Credit Owned by Commercial Banks, Flow (DISCONTINUED)                                                     NSA  07-Jun-2022  Monthly
+FLTOTALDI                               Total Consumer Credit Owned by Depository Institutions, Flow                                                             NSA  07-Dec-2022  Monthly
+FLTOTALDIA                              Total Consumer Credit Owned by Depository Institutions, Flow                                                             NSA  07-Dec-2022  Monthly
+FLTOTALFC                               Total Consumer Credit Owned by Finance Companies, Flow                                                                   NSA  07-Dec-2022  Monthly
+FLTOTALFCA                              Total Consumer Credit Owned by Finance Companies, Flow                                                                   NSA  07-Dec-2022  Monthly
+FLTOTALGOV                              Total Consumer Credit Owned by Federal Government, Flow                                                                  NSA  07-Dec-2022  Monthly
+FLTOTALGOVA                             Total Consumer Credit Owned by Federal Government, Flow                                                                  NSA  07-Dec-2022  Monthly
+FLTOTALNEI                              Total Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                              NSA  07-Dec-2022  Monthly
+FLTOTALNEIA                             Total Consumer Credit Owned by Nonprofit and Educational Institutions, Flow                                              NSA  07-Dec-2022  Monthly
+FLTOTALNFC                              Total Consumer Credit Owned by Nonfinancial Business, Flow                                                               NSA  07-Dec-2022  Monthly
+FLTOTALNFCA                             Total Consumer Credit Owned by Nonfinancial Business, Flow                                                               NSA  07-Dec-2022  Monthly
+FLTOTALNS                               Total Consumer Credit Owned and Securitized, Flow                                                                        NSA  07-Dec-2022  Monthly
+FLTOTALNSA                              Total Consumer Credit Owned and Securitized, Flow                                                                        NSA  07-Dec-2022  Monthly
+FLTOTALSAV                              Total Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                 NSA  07-Jun-2022  Monthly
+FLTOTALSAVA                             Total Consumer Credit Owned by Savings Institutions, Flow (DISCONTINUED)                                                 NSA  07-Jun-2022  Monthly
+FLTOTALSEC                              Total Securitized Consumer Credit, Flow                                                                                  NSA  07-Dec-2022  Monthly
+FLTOTALSECA                             Total Securitized Consumer Credit, Flow                                                                                  NSA  07-Dec-2022  Monthly
+FLTOTALSL                               Total Consumer Credit Owned and Securitized, Flow                                                                        SA   07-Dec-2022  Monthly
+FLTOTALSLA                              Total Consumer Credit Owned and Securitized, Flow                                                                        SA   07-Dec-2022  Monthly
+FLTOTALTCU                              Total Consumer Credit Owned by Credit Unions, Flow                                                                       NSA  07-Dec-2022  Monthly
+FLTOTALTCUA                             Total Consumer Credit Owned by Credit Unions, Flow                                                                       NSA  07-Dec-2022  Monthly
+G19DTCNLRHFNM                           Revolving Consumer Credit Securitized by Finance Companies                                                               NSA  07-Dec-2022  Monthly
+G19DTCNLRHFXDFBANM                      Revolving Consumer Credit Securitized by Finance Companies, Flow                                                         NSA  07-Dec-2022  Monthly
+G19DTCTLRHFNM                           Revolving Consumer Credit Owned and Securitized by Finance Companies                                                     NSA  07-Dec-2022  Monthly
+G19DTCTLRHFXDFBANM                      Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                               NSA  07-Dec-2022  Monthly
+MVLOAS                                  Motor Vehicle Loans Owned and Securitized                                                                                NSA  07-Dec-2022  Quarterly, End of Period
+NONREVNS                                Nonrevolving Consumer Credit Owned and Securitized                                                                       NSA  07-Dec-2022  Monthly
+NONREVSL                                Nonrevolving Consumer Credit Owned and Securitized                                                                       SA   07-Dec-2022  Monthly
+NONREVSLAR                              Percent Change of Total Nonrevolving Consumer Credit                                                                     SAAR 07-Dec-2022  Monthly
+NREVNCB                                 Nonrevolving Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                    NSA  07-Jun-2022  Monthly
+NREVNCU                                 Nonrevolving Consumer Credit Owned by Credit Unions                                                                      NSA  07-Dec-2022  Monthly
+NREVNDI                                 Nonrevolving Consumer Credit Owned by Depository Institutions                                                            NSA  07-Dec-2022  Monthly
+NREVNEI                                 Nonrevolving Consumer Credit Owned by Nonprofit and Educational Institutions                                             NSA  07-Dec-2022  Monthly
+NREVNFC                                 Nonrevolving Consumer Credit Owned by Finance Companies                                                                  NSA  07-Dec-2022  Monthly
+NREVNGOV                                Nonrevolving Consumer Credit Owned by Federal Government                                                                 NSA  07-Dec-2022  Monthly
+NREVNNFC                                Nonrevolving Consumer Credit Owned by Nonfinancial Business                                                              NSA  07-Dec-2022  Monthly
+NREVNSAV                                Nonrevolving Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                NSA  07-Jun-2022  Monthly
+NREVNSEC                                Nonrevolving Securitized Consumer Credit                                                                                 NSA  07-Dec-2022  Monthly
+OTHERNS                                 Total Other Credit Outstanding (DISCONTINUED)                                                                            NSA  22-Sep-2006  Monthly, End of Period
+OTHERSL                                 Total Other Credit Outstanding (DISCONTINUED)                                                                            SA   22-Sep-2006  Monthly, End of Period
+REVOLNCB                                Revolving Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                       NSA  07-Jun-2022  Monthly
+REVOLNCU                                Revolving Consumer Credit Owned by Credit Unions                                                                         NSA  07-Dec-2022  Monthly
+REVOLNDI                                Revolving Consumer Credit Owned by Depository Institutions                                                               NSA  07-Dec-2022  Monthly
+REVOLNFC                                Revolving Consumer Credit Owned by Finance Companies                                                                     NSA  07-Dec-2022  Monthly
+REVOLNNFC                               Revolving Consumer Credit Owned by Nonfinancial Business                                                                 NSA  07-Dec-2022  Monthly
+REVOLNS                                 Revolving Consumer Credit Owned and Securitized                                                                          NSA  07-Dec-2022  Monthly
+REVOLNSAV                               Revolving Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                   NSA  07-Jun-2022  Monthly
+REVOLNSEC                               Revolving Securitized Consumer Credit                                                                                    NSA  07-Dec-2022  Monthly
+REVOLSL                                 Revolving Consumer Credit Owned and Securitized                                                                          SA   07-Dec-2022  Monthly
+REVOLSLAR                               Percent Change of Total Revolving Consumer Credit                                                                        SAAR 07-Dec-2022  Monthly
+RIELPCFANNM                             Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                   NSA  07-Dec-2022  Monthly
+RIFLPBCIANM60NM                         Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan                                  NSA  07-Oct-2022  Monthly
+RIFLPBCIANM72NM                         Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 72 Month Loan                                  NSA  07-Oct-2022  Monthly
+SLOAS                                   Student Loans Owned and Securitized                                                                                      NSA  07-Dec-2022  Quarterly, End of Period
+TERMAFCNCNSA                            New Car Average Finance Rate at Auto Finance Companies (DISCONTINUED)                                                    NSA  26-Jun-2012  Monthly
+TERMCBAUTO48NS                          Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan                                  NSA  07-Oct-2022  Monthly
+TERMCBCCALLNS                           Commercial Bank Interest Rate on Credit Card Plans, All Accounts                                                         NSA  07-Oct-2022  Monthly
+TERMCBCCINTNS                           Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest                                           NSA  07-Oct-2022  Monthly
+TERMCBPER24NS                           Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan                                                        NSA  07-Oct-2022  Monthly
+TERMFCAAFNCNS                           Average Amount Financed for New Car Loans at Auto Finance Companies (DISCONTINUED)                                       NSA  26-Jun-2012  Monthly
+TERMFCLVRNCNS                           Loan-to-Value Ratio of New Car Loans at Auto Finance Companies (DISCONTINUED)                                            NSA  26-Jun-2012  Monthly
+TERMFCWAMNCLNS                          Weighted-Average Maturity of New Car Loans at Auto Finance Companies (DISCONTINUED)                                      NSA  26-Jun-2012  Monthly
+TOTALCB                                 Total Consumer Credit Owned by Commercial Banks (DISCONTINUED)                                                           NSA  07-Jun-2022  Monthly
+TOTALDI                                 Total Consumer Credit Owned by Depository Institutions                                                                   NSA  07-Dec-2022  Monthly
+TOTALFC                                 Total Consumer Credit Owned by Finance Companies                                                                         NSA  07-Dec-2022  Monthly
+TOTALGOV                                Total Consumer Credit Owned by Federal Government                                                                        NSA  07-Dec-2022  Monthly
+TOTALNEI                                Total Consumer Credit Owned by Nonprofit and Educational Institutions                                                    NSA  07-Dec-2022  Monthly
+TOTALNFC                                Total Consumer Credit Owned by Nonfinancial Business                                                                     NSA  07-Dec-2022  Monthly
+TOTALNS                                 Total Consumer Credit Owned and Securitized                                                                              NSA  07-Dec-2022  Monthly
+TOTALSAV                                Total Consumer Credit Owned by Savings Institutions (DISCONTINUED)                                                       NSA  07-Jun-2022  Monthly
+TOTALSEC                                Total Securitized Consumer Credit                                                                                        NSA  07-Dec-2022  Monthly
+TOTALSL                                 Total Consumer Credit Owned and Securitized                                                                              SA   07-Dec-2022  Monthly
+TOTALSLAR                               Percent Change of Total Consumer Credit                                                                                  SAAR 07-Dec-2022  Monthly
+TOTALTCU                                Total Consumer Credit Owned by Credit Unions                                                                             NSA  07-Dec-2022  Monthly

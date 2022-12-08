@@ -1,188 +1,188 @@
 Id : 401  SOI Tax Stats - Historical Data Tables
-AGICM                                   Individual Income Tax Filing: Adjusted Gross Income (AGI)                                                                               NSA  Annual     14-Jan-2021  
-AGISAW                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Salaries and Wages                                                           NSA  Annual     19-Dec-2018  
-AGISAWA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Salaries and Wages                                                           NSA  Annual     19-Dec-2018  
-AMTXCT                                  Individual Income Tax Filing: Total Income Tax: Alternative Minimum Tax                                                                 NSA  Annual     19-Dec-2018  
-AMTXCTA                                 Individual Income Tax Filing: Total Income Tax: Alternative Minimum Tax                                                                 NSA  Annual     19-Dec-2018  
-BOPNIC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Income                                            NSA  Annual     19-Dec-2018  
-BOPNICA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Income                                            NSA  Annual     19-Dec-2018  
-BOPNLS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Loss                                              NSA  Annual     19-Dec-2018  
-BOPNLSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Loss                                              NSA  Annual     19-Dec-2018  
-CBERAGO                                 Individual Income Tax Filing: Statutory Adjustments: Certain Business Expenses of Reservists, Performing Artists, and Fee-basis Govern  NSA  Annual     19-Dec-2018  
-CBERAGOA                                Individual Income Tax Filing: Statutory Adjustments: Certain Business Expenses of Reservists, Performing Artists, and Fee-basis Govern  NSA  Annual     19-Dec-2018  
-CCDTXCT                                 Individual Income Tax Filing: Tax Credits: Child Care Credit                                                                            NSA  Annual     19-Dec-2018  
-CCDTXCTA                                Individual Income Tax Filing: Tax Credits: Child Care Credit                                                                            NSA  Annual     19-Dec-2018  
-CDTXCT                                  Individual Income Tax Filing: Tax Credits: Child Tax Credit                                                                             NSA  Annual     19-Dec-2018  
-CDTXCTA                                 Individual Income Tax Filing: Tax Credits: Child Tax Credit                                                                             NSA  Annual     19-Dec-2018  
-CFEAD                                   Individual Income Tax Filing: Tax Credits: Credit for the Elderly or Disabled                                                           NSA  Annual     19-Dec-2018  
-CFEADA                                  Individual Income Tax Filing: Tax Credits: Credit for the Elderly or Disabled                                                           NSA  Annual     19-Dec-2018  
-CGDTROFR                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Capital Gain Distributions Reported on Form 1040                             NSA  Annual     19-Dec-2018  
-CGDTROFRA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Capital Gain Distributions Reported on Form 1040                             NSA  Annual     19-Dec-2018  
-DDMT                                    Individual Income Tax Filing: Total Deductions                                                                                          NSA  Annual     19-Dec-2018  
-DDNOR                                   Individual Income Tax Filing: Total Deductions                                                                                          NSA  Annual     19-Dec-2018  
-DDSET                                   Individual Income Tax Filing: Statutory Adjustments: Deduction for Self-Employment Tax                                                  NSA  Annual     19-Dec-2018  
-DDSETA                                  Individual Income Tax Filing: Statutory Adjustments: Deduction for Self-Employment Tax                                                  NSA  Annual     19-Dec-2018  
-DDSTR                                   Individual Income Tax Filing: Standard Deductions                                                                                       NSA  Annual     19-Dec-2018  
-DDSTRA                                  Individual Income Tax Filing: Standard Deductions                                                                                       NSA  Annual     19-Dec-2018  
-DMPACDD                                 Individual Income Tax Filing: Statutory Adjustments: Domestic Production Activities Deduction                                           NSA  Annual     19-Dec-2018  
-DMPACDDA                                Individual Income Tax Filing: Statutory Adjustments: Domestic Production Activities Deduction                                           NSA  Annual     19-Dec-2018  
-EAPMTC                                  Individual Income Tax Filing: Excess Advance Premium Tax Credit                                                                         NSA  Annual     19-Dec-2018  
-EAPMTCA                                 Individual Income Tax Filing: Excess Advance Premium Tax Credit                                                                         NSA  Annual     19-Dec-2018  
-EDEXPADJ                                Individual Income Tax Filing: Statutory Adjustments: Educator Expenses                                                                  NSA  Annual     19-Dec-2018  
-EDEXPADJA                               Individual Income Tax Filing: Statutory Adjustments: Educator Expenses                                                                  NSA  Annual     19-Dec-2018  
-ENINCCT                                 Individual Income Tax Filing: Earned Income Credit                                                                                      NSA  Annual     19-Dec-2018  
-ENINCCTA                                Individual Income Tax Filing: Earned Income Credit                                                                                      NSA  Annual     19-Dec-2018  
-ENINCCTEEI                              Individual Income Tax Filing: Excess Earned Income Credit (Refundable)                                                                  NSA  Annual     19-Dec-2018  
-ENINCCTEEIA                             Individual Income Tax Filing: Excess Earned Income Credit (Refundable)                                                                  NSA  Annual     19-Dec-2018  
-ENINCCTOAT                              Individual Income Tax Filing: Earned Income Credit Used to Offset Other Taxes                                                           NSA  Annual     19-Dec-2018  
-ENINCCTOATA                             Individual Income Tax Filing: Earned Income Credit Used to Offset Other Taxes                                                           NSA  Annual     19-Dec-2018  
-ENINCCTOIN                              Individual Income Tax Filing: Earned Income Credit Used to Offset Income Tax Before Credits                                             NSA  Annual     19-Dec-2018  
-ENINCCTOINA                             Individual Income Tax Filing: Earned Income Credit Used to Offset Income Tax Before Credits                                             NSA  Annual     19-Dec-2018  
-ESTNINC                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Income                                                   NSA  Annual     19-Dec-2018  
-ESTNINCA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Income                                                   NSA  Annual     19-Dec-2018  
-ETTNLS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Loss                                                     NSA  Annual     19-Dec-2018  
-ETTNLSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Loss                                                     NSA  Annual     19-Dec-2018  
-EXMTS                                   Individual Income Tax Filing: Exemptions                                                                                                NSA  Annual     19-Dec-2018  
-EXMTSA                                  Individual Income Tax Filing: Exemptions                                                                                                NSA  Annual     19-Dec-2018  
-FMNINC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Income                                                              NSA  Annual     19-Dec-2018  
-FMNINCA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Income                                                              NSA  Annual     19-Dec-2018  
-FMNLS                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Loss                                                                NSA  Annual     19-Dec-2018  
-FMNLSA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Loss                                                                NSA  Annual     19-Dec-2018  
-FTXCT                                   Individual Income Tax Filing: Tax Credits: Foreign Tax Credit                                                                           NSA  Annual     19-Dec-2018  
-FTXCTA                                  Individual Income Tax Filing: Tax Credits: Foreign Tax Credit                                                                           NSA  Annual     19-Dec-2018  
-GRBSCT                                  Individual Income Tax Filing: Tax Credits: General Business Credit                                                                      NSA  Annual     19-Dec-2018  
-GRBSCTA                                 Individual Income Tax Filing: Tax Credits: General Business Credit                                                                      NSA  Annual     19-Dec-2018  
-HCIRPT                                  Individual Income Tax Filing: Health Care Individual Responsibility Payment                                                             NSA  Annual     19-Dec-2018  
-HCIRPTA                                 Individual Income Tax Filing: Health Care Individual Responsibility Payment                                                             NSA  Annual     19-Dec-2018  
-HSADD                                   Individual Income Tax Filing: Statutory Adjustments: Health Savings Account Deduction                                                   NSA  Annual     19-Dec-2018  
-HSADDA                                  Individual Income Tax Filing: Statutory Adjustments: Health Savings Account Deduction                                                   NSA  Annual     19-Dec-2018  
-IIPPEDD                                 U.S Individual Income Tax: Personal Exemptions: Dependents                                                                              NSA  Annual     14-Jan-2021  
-IITPEMC                                 U.S Individual Income Tax: Personal Exemptions: Married Couples                                                                         NSA  Annual     14-Jan-2021  
-IITPESP                                 U.S Individual Income Tax: Personal Exemptions: Single Persons                                                                          NSA  Annual     14-Jan-2021  
-IITTIHB                                 U.S Individual Income Tax: Taxable Income Boundary Over which the Highest Tax Rate Bracket Applies                                      NSA  Annual     14-Jan-2021  
-IITTILB                                 U.S Individual Income Tax: Taxable Income Boundary Under which the Lowest Tax Rate Bracket Applies                                      NSA  Annual     14-Jan-2021  
-IITTRHB                                 U.S Individual Income Tax: Tax Rates for Regular Tax: Highest Bracket                                                                   NSA  Annual     14-Jan-2021  
-IITTRLB                                 U.S Individual Income Tax: Tax Rates for Regular Tax: Lowest Bracket                                                                    NSA  Annual     14-Jan-2021  
-IMZDCTC                                 Individual Income Tax Filing: Itemized Deductions: Charitable Contributions                                                             NSA  Annual     19-Dec-2018  
-IMZDCTCA                                Individual Income Tax Filing: Itemized Deductions: Charitable Contributions                                                             NSA  Annual     19-Dec-2018  
-IMZDD                                   Individual Income Tax Filing: Itemized Deductions                                                                                       NSA  Annual     19-Dec-2018  
-IMZDDA                                  Individual Income Tax Filing: Itemized Deductions                                                                                       NSA  Annual     19-Dec-2018  
-IMZDDMDE                                Individual Income Tax Filing: Itemized Deductions: Medical and Dental Expense                                                           NSA  Annual     19-Dec-2018  
-IMZDDMDEA                               Individual Income Tax Filing: Itemized Deductions: Medical and Dental Expense                                                           NSA  Annual     19-Dec-2018  
-IMZDIP                                  Individual Income Tax Filing: Itemized Deductions: Interest Paid                                                                        NSA  Annual     19-Dec-2018  
-IMZDIPA                                 Individual Income Tax Filing: Itemized Deductions: Interest Paid                                                                        NSA  Annual     19-Dec-2018  
-IMZDTP                                  Individual Income Tax Filing: Itemized Deductions: Taxes Paid                                                                           NSA  Annual     19-Dec-2018  
-IMZDTPA                                 Individual Income Tax Filing: Itemized Deductions: Taxes Paid                                                                           NSA  Annual     19-Dec-2018  
-IMZIPHMIP                               Individual Income Tax Filing: Itemized Deductions: Home Mortgage Interest Paid                                                          NSA  Annual     19-Dec-2018  
-IMZIPHMIPA                              Individual Income Tax Filing: Itemized Deductions: Home Mortgage Interest Paid                                                          NSA  Annual     19-Dec-2018  
-INCTACDT                                Individual Income Tax Filing: Income Tax After Credits                                                                                  NSA  Annual     19-Dec-2018  
-INCTACDTA                               Individual Income Tax Filing: Income Tax After Credits                                                                                  NSA  Annual     19-Dec-2018  
-INCTXBCT                                Individual Income Tax Filing: Income Tax Before Credits                                                                                 NSA  Annual     19-Dec-2018  
-INCTXBCTA                               Individual Income Tax Filing: Income Tax Before Credits                                                                                 NSA  Annual     19-Dec-2018  
-IRAADJ                                  Individual Income Tax Filing: Statutory Adjustments: Individual Retirement Arrangements Deduction                                       NSA  Annual     19-Dec-2018  
-IRAADJA                                 Individual Income Tax Filing: Statutory Adjustments: Individual Retirement Arrangements Deduction                                       NSA  Annual     19-Dec-2018  
-KSERP                                   Individual Income Tax Filing: Statutory Adjustments: Keogh and Self-Employed Retirement Plans                                           NSA  Annual     19-Dec-2018  
-KSERPA                                  Individual Income Tax Filing: Statutory Adjustments: Keogh and Self-Employed Retirement Plans                                           NSA  Annual     19-Dec-2018  
-MSADD                                   Individual Income Tax Filing: Statutory Adjustments: Medical Savings Account Deduction                                                  NSA  Annual     19-Dec-2018  
-MSADDA                                  Individual Income Tax Filing: Statutory Adjustments: Medical Savings Account Deduction                                                  NSA  Annual     19-Dec-2018  
-NBCFTOAT                                Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Total                                                           NSA  Annual     19-Dec-2018  
-NBCFTOATPT                              Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Primary Taxpayer                                                NSA  Annual     19-Dec-2018  
-NBCFTOATSP                              Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Spouse                                                          NSA  Annual     19-Dec-2018  
-NCGAGI                                  Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI)                                                           NSA  Annual     19-Dec-2018  
-NCGAGIA                                 Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI)                                                           NSA  Annual     19-Dec-2018  
-NCLIAGI                                 Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI)                                                           NSA  Annual     19-Dec-2018  
-NCLIAGIA                                Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI)                                                           NSA  Annual     19-Dec-2018  
-NPMTCT                                  Individual Income Tax Filing: Net Premium Tax Credit                                                                                    NSA  Annual     19-Dec-2018  
-NPMTCTA                                 Individual Income Tax Filing: Net Premium Tax Credit                                                                                    NSA  Annual     19-Dec-2018  
-NRDEDC                                  Individual Income Tax Filing: Tax Credits: Nonrefundable Education Credits                                                              NSA  Annual     19-Dec-2018  
-NRDEDCA                                 Individual Income Tax Filing: Tax Credits: Nonrefundable Education Credits                                                              NSA  Annual     19-Dec-2018  
-ODNDIV                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Ordinary Dividends                                                           NSA  Annual     19-Dec-2018  
-ODNDIVA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Ordinary Dividends                                                           NSA  Annual     19-Dec-2018  
-PATSIAGI                                Individual Income Tax Filing: Taxable Pensions and Annuities                                                                            NSA  Annual     19-Dec-2018  
-PATSIAGIA                               Individual Income Tax Filing: Taxable Pensions and Annuities                                                                            NSA  Annual     19-Dec-2018  
-PMTWREXFL                               Individual Income Tax Filing: Tax Payments: Payments With Requests for Extension of Filing Time                                         NSA  Annual     19-Dec-2018  
-PMTWREXFLA                              Individual Income Tax Filing: Tax Payments: Payments With Requests for Extension of Filing Time                                         NSA  Annual     19-Dec-2018  
-PSSCNINC                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Income                                     NSA  Annual     19-Dec-2018  
-PSSCNINCA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Income                                     NSA  Annual     19-Dec-2018  
-PSSCNLS                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Loss                                       NSA  Annual     19-Dec-2018  
-PSSCNLSA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Loss                                       NSA  Annual     19-Dec-2018  
-QLFDIV                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Qualified Dividends                                                          NSA  Annual     19-Dec-2018  
-QLFDIVA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Qualified Dividends                                                          NSA  Annual     19-Dec-2018  
-RDEGCT                                  Individual Income Tax Filing: Tax Credits: Residential Energy Credit                                                                    NSA  Annual     19-Dec-2018  
-RDEGCTA                                 Individual Income Tax Filing: Tax Credits: Residential Energy Credit                                                                    NSA  Annual     19-Dec-2018  
-RFAOCT                                  Individual Income Tax Filing: Refundable American Opportunity Credit                                                                    NSA  Annual     19-Dec-2018  
-RFAOCTA                                 Individual Income Tax Filing: Refundable American Opportunity Credit                                                                    NSA  Annual     19-Dec-2018  
-RFAOCTEAOC                              Individual Income Tax Filing: Excess American Opportunity Credit (Refundable)                                                           NSA  Annual     19-Dec-2018  
-RFAOCTEAOCA                             Individual Income Tax Filing: Excess American Opportunity Credit (Refundable)                                                           NSA  Annual     19-Dec-2018  
-RFAOCTOAT                               Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Other Taxes                                         NSA  Annual     19-Dec-2018  
-RFAOCTOATA                              Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Other Taxes                                         NSA  Annual     19-Dec-2018  
-RFAOCTOITBC                             Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Income Tax Before Credits                           NSA  Annual     19-Dec-2018  
-RFAOCTOITBCA                            Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Income Tax Before Credits                           NSA  Annual     19-Dec-2018  
-RLTNINC                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Income                                                           NSA  Annual     19-Dec-2018  
-RLTNINCA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Income                                                           NSA  Annual     19-Dec-2018  
-RLTNL                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Loss                                                             NSA  Annual     19-Dec-2018  
-RLTNLA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Loss                                                             NSA  Annual     19-Dec-2018  
-RNTLS                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Loss                                                                NSA  Annual     19-Dec-2018  
-RNTLSA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Loss                                                                NSA  Annual     19-Dec-2018  
-RT1040AFRM                              Individual Income Tax Filing: Form 1040A Returns                                                                                        NSA  Annual     19-Dec-2018  
-RT1040EZFRM                             Individual Income Tax Filing: Form 1040EZ Returns                                                                                       NSA  Annual     19-Dec-2018  
-RT1040FRM                               Individual Income Tax Filing: Form 1040 Returns                                                                                         NSA  Annual     19-Dec-2018  
-RT1040PCFRM                             Individual Income Tax Filing: Form 1040PC Returns (DISCONTINUED)                                                                        NSA  Annual     02-Dec-2016  
-RTALFRM                                 Individual Income Tax Filing: All Returns                                                                                               NSA  Annual     19-Dec-2018  
-RTEFRTN                                 Individual Income Tax Filing: Electronically-filed Returns                                                                              NSA  Annual     19-Dec-2018  
-RTHOHH                                  Individual Income Tax Filing: Returns of Heads of Households                                                                            NSA  Annual     19-Dec-2018  
-RTNBPECFC                               Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                                NSA  Annual     19-Dec-2018  
-RTNINC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Income                                                              NSA  Annual     19-Dec-2018  
-RTNINCA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Income                                                              NSA  Annual     19-Dec-2018  
-RTNJNT                                  Individual Income Tax Filing: Joint Returns                                                                                             NSA  Annual     19-Dec-2018  
-RTNPECFC                                Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                                NSA  Annual     19-Dec-2018  
-RTNPECFCA                               Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                                NSA  Annual     14-Jan-2021  
-RTSCBCT                                 Individual Income Tax Filing: Tax Credits: Retirement Savings Contributions Credit                                                      NSA  Annual     19-Dec-2018  
-RTSCBCTA                                Individual Income Tax Filing: Tax Credits: Retirement Savings Contributions Credit                                                      NSA  Annual     19-Dec-2018  
-RTSMPFS                                 Individual Income Tax Filing: Returns of Married Persons Filing Separately                                                              NSA  Annual     19-Dec-2018  
-RTSPRS                                  Individual Income Tax Filing: Returns of Single Persons                                                                                 NSA  Annual     19-Dec-2018  
-RTSVSS                                  Individual Income Tax Filing: Returns of Surviving Spouses                                                                              NSA  Annual     19-Dec-2018  
-SDRASDOB                                Individual Income Tax Filing: Returns with Additional Standard Deductions for Age 65 or Over or Blindness                               NSA  Annual     19-Dec-2018  
-SDRASDOBA                               Individual Income Tax Filing: Returns with Additional Standard Deductions for Age 65 or Over or Blindness                               NSA  Annual     19-Dec-2018  
-SEHTIS                                  Individual Income Tax Filing: Statutory Adjustments: Self-Employed Health Insurance                                                     NSA  Annual     19-Dec-2018  
-SEHTISA                                 Individual Income Tax Filing: Statutory Adjustments: Self-Employed Health Insurance                                                     NSA  Annual     19-Dec-2018  
-SLITDD                                  Individual Income Tax Filing: Statutory Adjustments: Student Loan Interest Deduction                                                    NSA  Annual     19-Dec-2018  
-SLITDDA                                 Individual Income Tax Filing: Statutory Adjustments: Student Loan Interest Deduction                                                    NSA  Annual     19-Dec-2018  
-SPOCANG                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Gain                        NSA  Annual     19-Dec-2018  
-SPOCANGA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Gain                        NSA  Annual     19-Dec-2018  
-SPOTCANL                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Loss                        NSA  Annual     19-Dec-2018  
-SPOTCANLA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Loss                        NSA  Annual     19-Dec-2018  
-SSBAGI                                  Individual Income Tax Filing: Taxable Social Security Benefits                                                                          NSA  Annual     19-Dec-2018  
-SSBAGIA                                 Individual Income Tax Filing: Taxable Social Security Benefits                                                                          NSA  Annual     19-Dec-2018  
-TEXINT                                  Individual Income Tax Filing: Tax-exempt Interest                                                                                       NSA  Annual     19-Dec-2018  
-TEXINTA                                 Individual Income Tax Filing: Tax-exempt Interest                                                                                       NSA  Annual     19-Dec-2018  
-TIRADTS                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable IRA Distributions                                                    NSA  Annual     19-Dec-2018  
-TIRADTSA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable IRA Distributions                                                    NSA  Annual     19-Dec-2018  
-TLINCTX                                 Individual Income Tax Filing: Total Income Tax                                                                                          NSA  Annual     19-Dec-2018  
-TLINCTXA                                Individual Income Tax Filing: Total Income Tax                                                                                          NSA  Annual     19-Dec-2018  
-TLSTRYADJ                               Individual Income Tax Filing: Total Statutory Adjustments                                                                               NSA  Annual     19-Dec-2018  
-TLSTRYADJA                              Individual Income Tax Filing: Total Statutory Adjustments                                                                               NSA  Annual     19-Dec-2018  
-TLTXINC                                 Individual Income Tax Filing: Taxable Income                                                                                            NSA  Annual     19-Dec-2018  
-TLTXINCA                                Individual Income Tax Filing: Taxable Income                                                                                            NSA  Annual     19-Dec-2018  
-TNFDDC                                  Individual Income Tax Filing: Statutory Adjustments: Tuition and Fees Deduction                                                         NSA  Annual     19-Dec-2018  
-TNFDDCA                                 Individual Income Tax Filing: Statutory Adjustments: Tuition and Fees Deduction                                                         NSA  Annual     19-Dec-2018  
-TXBINT                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable Interest                                                             NSA  Annual     19-Dec-2018  
-TXBINTA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable Interest                                                             NSA  Annual     19-Dec-2018  
-TXCDTNR                                 Individual Income Tax Filing: Tax Credits                                                                                               NSA  Annual     19-Dec-2018  
-TXCDTNRA                                Individual Income Tax Filing: Tax Credits                                                                                               NSA  Annual     19-Dec-2018  
-TXDATFL                                 Individual Income Tax Filing: Tax Due at Time of Filing                                                                                 NSA  Annual     19-Dec-2018  
-TXDATFLA                                Individual Income Tax Filing: Tax Due at Time of Filing                                                                                 NSA  Annual     19-Dec-2018  
-TXOPMTRF                                Individual Income Tax Filing: Tax Overpayment Refunds                                                                                   NSA  Annual     19-Dec-2018  
-TXOPMTRFA                               Individual Income Tax Filing: Tax Overpayment Refunds                                                                                   NSA  Annual     19-Dec-2018  
-TXOPTTL                                 Individual Income Tax Filing: Tax Overpayments, Total                                                                                   NSA  Annual     19-Dec-2018  
-TXOPTTLA                                Individual Income Tax Filing: Tax Overpayments, Total                                                                                   NSA  Annual     19-Dec-2018  
-TXPMTEST                                Individual Income Tax Filing: Tax Payments: Estimated Tax Payments                                                                      NSA  Annual     19-Dec-2018  
-TXPMTESTA                               Individual Income Tax Filing: Tax Payments: Estimated Tax Payments                                                                      NSA  Annual     19-Dec-2018  
-TXPMTEXSSTW                             Individual Income Tax Filing: Tax Payments: Excess Social Security Tax Withheld                                                         NSA  Annual     19-Dec-2018  
-TXPMTEXSSTWA                            Individual Income Tax Filing: Tax Payments: Excess Social Security Tax Withheld                                                         NSA  Annual     19-Dec-2018  
-TXPMTITW                                Individual Income Tax Filing: Tax Payments: Income Tax Withheld                                                                         NSA  Annual     19-Dec-2018  
-TXPMTITWA                               Individual Income Tax Filing: Tax Payments: Income Tax Withheld                                                                         NSA  Annual     19-Dec-2018  
-TXPMTTL                                 Individual Income Tax Filing: Tax Payments, Total                                                                                       NSA  Annual     19-Dec-2018  
-TXPMTTLA                                Individual Income Tax Filing: Tax Payments, Total                                                                                       NSA  Annual     19-Dec-2018  
-UMPCPS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Unemployment Compensation                                                    NSA  Annual     19-Dec-2018  
-UMPCPSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Unemployment Compensation                                                    NSA  Annual     19-Dec-2018  
+AGICM                                   Individual Income Tax Filing: Adjusted Gross Income (AGI)                                                                NSA  14-Jan-2021  Annual
+AGISAW                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Salaries and Wages                                            NSA  19-Dec-2018  Annual
+AGISAWA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Salaries and Wages                                            NSA  19-Dec-2018  Annual
+AMTXCT                                  Individual Income Tax Filing: Total Income Tax: Alternative Minimum Tax                                                  NSA  19-Dec-2018  Annual
+AMTXCTA                                 Individual Income Tax Filing: Total Income Tax: Alternative Minimum Tax                                                  NSA  19-Dec-2018  Annual
+BOPNIC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Income                             NSA  19-Dec-2018  Annual
+BOPNICA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Income                             NSA  19-Dec-2018  Annual
+BOPNLS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Loss                               NSA  19-Dec-2018  Annual
+BOPNLSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Business or Profession Net Loss                               NSA  19-Dec-2018  Annual
+CBERAGO                                 Individual Income Tax Filing: Statutory Adjustments: Certain Business Expenses of Reservists, Performing Artists, and F  NSA  19-Dec-2018  Annual
+CBERAGOA                                Individual Income Tax Filing: Statutory Adjustments: Certain Business Expenses of Reservists, Performing Artists, and F  NSA  19-Dec-2018  Annual
+CCDTXCT                                 Individual Income Tax Filing: Tax Credits: Child Care Credit                                                             NSA  19-Dec-2018  Annual
+CCDTXCTA                                Individual Income Tax Filing: Tax Credits: Child Care Credit                                                             NSA  19-Dec-2018  Annual
+CDTXCT                                  Individual Income Tax Filing: Tax Credits: Child Tax Credit                                                              NSA  19-Dec-2018  Annual
+CDTXCTA                                 Individual Income Tax Filing: Tax Credits: Child Tax Credit                                                              NSA  19-Dec-2018  Annual
+CFEAD                                   Individual Income Tax Filing: Tax Credits: Credit for the Elderly or Disabled                                            NSA  19-Dec-2018  Annual
+CFEADA                                  Individual Income Tax Filing: Tax Credits: Credit for the Elderly or Disabled                                            NSA  19-Dec-2018  Annual
+CGDTROFR                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Capital Gain Distributions Reported on Form 1040              NSA  19-Dec-2018  Annual
+CGDTROFRA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Capital Gain Distributions Reported on Form 1040              NSA  19-Dec-2018  Annual
+DDMT                                    Individual Income Tax Filing: Total Deductions                                                                           NSA  19-Dec-2018  Annual
+DDNOR                                   Individual Income Tax Filing: Total Deductions                                                                           NSA  19-Dec-2018  Annual
+DDSET                                   Individual Income Tax Filing: Statutory Adjustments: Deduction for Self-Employment Tax                                   NSA  19-Dec-2018  Annual
+DDSETA                                  Individual Income Tax Filing: Statutory Adjustments: Deduction for Self-Employment Tax                                   NSA  19-Dec-2018  Annual
+DDSTR                                   Individual Income Tax Filing: Standard Deductions                                                                        NSA  19-Dec-2018  Annual
+DDSTRA                                  Individual Income Tax Filing: Standard Deductions                                                                        NSA  19-Dec-2018  Annual
+DMPACDD                                 Individual Income Tax Filing: Statutory Adjustments: Domestic Production Activities Deduction                            NSA  19-Dec-2018  Annual
+DMPACDDA                                Individual Income Tax Filing: Statutory Adjustments: Domestic Production Activities Deduction                            NSA  19-Dec-2018  Annual
+EAPMTC                                  Individual Income Tax Filing: Excess Advance Premium Tax Credit                                                          NSA  19-Dec-2018  Annual
+EAPMTCA                                 Individual Income Tax Filing: Excess Advance Premium Tax Credit                                                          NSA  19-Dec-2018  Annual
+EDEXPADJ                                Individual Income Tax Filing: Statutory Adjustments: Educator Expenses                                                   NSA  19-Dec-2018  Annual
+EDEXPADJA                               Individual Income Tax Filing: Statutory Adjustments: Educator Expenses                                                   NSA  19-Dec-2018  Annual
+ENINCCT                                 Individual Income Tax Filing: Earned Income Credit                                                                       NSA  19-Dec-2018  Annual
+ENINCCTA                                Individual Income Tax Filing: Earned Income Credit                                                                       NSA  19-Dec-2018  Annual
+ENINCCTEEI                              Individual Income Tax Filing: Excess Earned Income Credit (Refundable)                                                   NSA  19-Dec-2018  Annual
+ENINCCTEEIA                             Individual Income Tax Filing: Excess Earned Income Credit (Refundable)                                                   NSA  19-Dec-2018  Annual
+ENINCCTOAT                              Individual Income Tax Filing: Earned Income Credit Used to Offset Other Taxes                                            NSA  19-Dec-2018  Annual
+ENINCCTOATA                             Individual Income Tax Filing: Earned Income Credit Used to Offset Other Taxes                                            NSA  19-Dec-2018  Annual
+ENINCCTOIN                              Individual Income Tax Filing: Earned Income Credit Used to Offset Income Tax Before Credits                              NSA  19-Dec-2018  Annual
+ENINCCTOINA                             Individual Income Tax Filing: Earned Income Credit Used to Offset Income Tax Before Credits                              NSA  19-Dec-2018  Annual
+ESTNINC                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Income                                    NSA  19-Dec-2018  Annual
+ESTNINCA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Income                                    NSA  19-Dec-2018  Annual
+ETTNLS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Loss                                      NSA  19-Dec-2018  Annual
+ETTNLSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Estate or Trust Net Loss                                      NSA  19-Dec-2018  Annual
+EXMTS                                   Individual Income Tax Filing: Exemptions                                                                                 NSA  19-Dec-2018  Annual
+EXMTSA                                  Individual Income Tax Filing: Exemptions                                                                                 NSA  19-Dec-2018  Annual
+FMNINC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Income                                               NSA  19-Dec-2018  Annual
+FMNINCA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Income                                               NSA  19-Dec-2018  Annual
+FMNLS                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Loss                                                 NSA  19-Dec-2018  Annual
+FMNLSA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Farm Net Loss                                                 NSA  19-Dec-2018  Annual
+FTXCT                                   Individual Income Tax Filing: Tax Credits: Foreign Tax Credit                                                            NSA  19-Dec-2018  Annual
+FTXCTA                                  Individual Income Tax Filing: Tax Credits: Foreign Tax Credit                                                            NSA  19-Dec-2018  Annual
+GRBSCT                                  Individual Income Tax Filing: Tax Credits: General Business Credit                                                       NSA  19-Dec-2018  Annual
+GRBSCTA                                 Individual Income Tax Filing: Tax Credits: General Business Credit                                                       NSA  19-Dec-2018  Annual
+HCIRPT                                  Individual Income Tax Filing: Health Care Individual Responsibility Payment                                              NSA  19-Dec-2018  Annual
+HCIRPTA                                 Individual Income Tax Filing: Health Care Individual Responsibility Payment                                              NSA  19-Dec-2018  Annual
+HSADD                                   Individual Income Tax Filing: Statutory Adjustments: Health Savings Account Deduction                                    NSA  19-Dec-2018  Annual
+HSADDA                                  Individual Income Tax Filing: Statutory Adjustments: Health Savings Account Deduction                                    NSA  19-Dec-2018  Annual
+IIPPEDD                                 U.S Individual Income Tax: Personal Exemptions: Dependents                                                               NSA  14-Jan-2021  Annual
+IITPEMC                                 U.S Individual Income Tax: Personal Exemptions: Married Couples                                                          NSA  14-Jan-2021  Annual
+IITPESP                                 U.S Individual Income Tax: Personal Exemptions: Single Persons                                                           NSA  14-Jan-2021  Annual
+IITTIHB                                 U.S Individual Income Tax: Taxable Income Boundary Over which the Highest Tax Rate Bracket Applies                       NSA  14-Jan-2021  Annual
+IITTILB                                 U.S Individual Income Tax: Taxable Income Boundary Under which the Lowest Tax Rate Bracket Applies                       NSA  14-Jan-2021  Annual
+IITTRHB                                 U.S Individual Income Tax: Tax Rates for Regular Tax: Highest Bracket                                                    NSA  14-Jan-2021  Annual
+IITTRLB                                 U.S Individual Income Tax: Tax Rates for Regular Tax: Lowest Bracket                                                     NSA  14-Jan-2021  Annual
+IMZDCTC                                 Individual Income Tax Filing: Itemized Deductions: Charitable Contributions                                              NSA  19-Dec-2018  Annual
+IMZDCTCA                                Individual Income Tax Filing: Itemized Deductions: Charitable Contributions                                              NSA  19-Dec-2018  Annual
+IMZDD                                   Individual Income Tax Filing: Itemized Deductions                                                                        NSA  19-Dec-2018  Annual
+IMZDDA                                  Individual Income Tax Filing: Itemized Deductions                                                                        NSA  19-Dec-2018  Annual
+IMZDDMDE                                Individual Income Tax Filing: Itemized Deductions: Medical and Dental Expense                                            NSA  19-Dec-2018  Annual
+IMZDDMDEA                               Individual Income Tax Filing: Itemized Deductions: Medical and Dental Expense                                            NSA  19-Dec-2018  Annual
+IMZDIP                                  Individual Income Tax Filing: Itemized Deductions: Interest Paid                                                         NSA  19-Dec-2018  Annual
+IMZDIPA                                 Individual Income Tax Filing: Itemized Deductions: Interest Paid                                                         NSA  19-Dec-2018  Annual
+IMZDTP                                  Individual Income Tax Filing: Itemized Deductions: Taxes Paid                                                            NSA  19-Dec-2018  Annual
+IMZDTPA                                 Individual Income Tax Filing: Itemized Deductions: Taxes Paid                                                            NSA  19-Dec-2018  Annual
+IMZIPHMIP                               Individual Income Tax Filing: Itemized Deductions: Home Mortgage Interest Paid                                           NSA  19-Dec-2018  Annual
+IMZIPHMIPA                              Individual Income Tax Filing: Itemized Deductions: Home Mortgage Interest Paid                                           NSA  19-Dec-2018  Annual
+INCTACDT                                Individual Income Tax Filing: Income Tax After Credits                                                                   NSA  19-Dec-2018  Annual
+INCTACDTA                               Individual Income Tax Filing: Income Tax After Credits                                                                   NSA  19-Dec-2018  Annual
+INCTXBCT                                Individual Income Tax Filing: Income Tax Before Credits                                                                  NSA  19-Dec-2018  Annual
+INCTXBCTA                               Individual Income Tax Filing: Income Tax Before Credits                                                                  NSA  19-Dec-2018  Annual
+IRAADJ                                  Individual Income Tax Filing: Statutory Adjustments: Individual Retirement Arrangements Deduction                        NSA  19-Dec-2018  Annual
+IRAADJA                                 Individual Income Tax Filing: Statutory Adjustments: Individual Retirement Arrangements Deduction                        NSA  19-Dec-2018  Annual
+KSERP                                   Individual Income Tax Filing: Statutory Adjustments: Keogh and Self-Employed Retirement Plans                            NSA  19-Dec-2018  Annual
+KSERPA                                  Individual Income Tax Filing: Statutory Adjustments: Keogh and Self-Employed Retirement Plans                            NSA  19-Dec-2018  Annual
+MSADD                                   Individual Income Tax Filing: Statutory Adjustments: Medical Savings Account Deduction                                   NSA  19-Dec-2018  Annual
+MSADDA                                  Individual Income Tax Filing: Statutory Adjustments: Medical Savings Account Deduction                                   NSA  19-Dec-2018  Annual
+NBCFTOAT                                Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Total                                            NSA  19-Dec-2018  Annual
+NBCFTOATPT                              Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Primary Taxpayer                                 NSA  19-Dec-2018  Annual
+NBCFTOATSP                              Individual Income Tax Filing: Exemptions for Taxpayer's age 65 or Over: Spouse                                           NSA  19-Dec-2018  Annual
+NCGAGI                                  Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI)                                            NSA  19-Dec-2018  Annual
+NCGAGIA                                 Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI)                                            NSA  19-Dec-2018  Annual
+NCLIAGI                                 Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI)                                            NSA  19-Dec-2018  Annual
+NCLIAGIA                                Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI)                                            NSA  19-Dec-2018  Annual
+NPMTCT                                  Individual Income Tax Filing: Net Premium Tax Credit                                                                     NSA  19-Dec-2018  Annual
+NPMTCTA                                 Individual Income Tax Filing: Net Premium Tax Credit                                                                     NSA  19-Dec-2018  Annual
+NRDEDC                                  Individual Income Tax Filing: Tax Credits: Nonrefundable Education Credits                                               NSA  19-Dec-2018  Annual
+NRDEDCA                                 Individual Income Tax Filing: Tax Credits: Nonrefundable Education Credits                                               NSA  19-Dec-2018  Annual
+ODNDIV                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Ordinary Dividends                                            NSA  19-Dec-2018  Annual
+ODNDIVA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Ordinary Dividends                                            NSA  19-Dec-2018  Annual
+PATSIAGI                                Individual Income Tax Filing: Taxable Pensions and Annuities                                                             NSA  19-Dec-2018  Annual
+PATSIAGIA                               Individual Income Tax Filing: Taxable Pensions and Annuities                                                             NSA  19-Dec-2018  Annual
+PMTWREXFL                               Individual Income Tax Filing: Tax Payments: Payments With Requests for Extension of Filing Time                          NSA  19-Dec-2018  Annual
+PMTWREXFLA                              Individual Income Tax Filing: Tax Payments: Payments With Requests for Extension of Filing Time                          NSA  19-Dec-2018  Annual
+PSSCNINC                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Income                      NSA  19-Dec-2018  Annual
+PSSCNINCA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Income                      NSA  19-Dec-2018  Annual
+PSSCNLS                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Loss                        NSA  19-Dec-2018  Annual
+PSSCNLSA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Partnership and S Corporation Net Loss                        NSA  19-Dec-2018  Annual
+QLFDIV                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Qualified Dividends                                           NSA  19-Dec-2018  Annual
+QLFDIVA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Qualified Dividends                                           NSA  19-Dec-2018  Annual
+RDEGCT                                  Individual Income Tax Filing: Tax Credits: Residential Energy Credit                                                     NSA  19-Dec-2018  Annual
+RDEGCTA                                 Individual Income Tax Filing: Tax Credits: Residential Energy Credit                                                     NSA  19-Dec-2018  Annual
+RFAOCT                                  Individual Income Tax Filing: Refundable American Opportunity Credit                                                     NSA  19-Dec-2018  Annual
+RFAOCTA                                 Individual Income Tax Filing: Refundable American Opportunity Credit                                                     NSA  19-Dec-2018  Annual
+RFAOCTEAOC                              Individual Income Tax Filing: Excess American Opportunity Credit (Refundable)                                            NSA  19-Dec-2018  Annual
+RFAOCTEAOCA                             Individual Income Tax Filing: Excess American Opportunity Credit (Refundable)                                            NSA  19-Dec-2018  Annual
+RFAOCTOAT                               Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Other Taxes                          NSA  19-Dec-2018  Annual
+RFAOCTOATA                              Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Other Taxes                          NSA  19-Dec-2018  Annual
+RFAOCTOITBC                             Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Income Tax Before Credits            NSA  19-Dec-2018  Annual
+RFAOCTOITBCA                            Individual Income Tax Filing: Refundable American Opportunity Credit Used to Offset Income Tax Before Credits            NSA  19-Dec-2018  Annual
+RLTNINC                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Income                                            NSA  19-Dec-2018  Annual
+RLTNINCA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Income                                            NSA  19-Dec-2018  Annual
+RLTNL                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Loss                                              NSA  19-Dec-2018  Annual
+RLTNLA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Royalty Net Loss                                              NSA  19-Dec-2018  Annual
+RNTLS                                   Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Loss                                                 NSA  19-Dec-2018  Annual
+RNTLSA                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Loss                                                 NSA  19-Dec-2018  Annual
+RT1040AFRM                              Individual Income Tax Filing: Form 1040A Returns                                                                         NSA  19-Dec-2018  Annual
+RT1040EZFRM                             Individual Income Tax Filing: Form 1040EZ Returns                                                                        NSA  19-Dec-2018  Annual
+RT1040FRM                               Individual Income Tax Filing: Form 1040 Returns                                                                          NSA  19-Dec-2018  Annual
+RT1040PCFRM                             Individual Income Tax Filing: Form 1040PC Returns (DISCONTINUED)                                                         NSA  02-Dec-2016  Annual
+RTALFRM                                 Individual Income Tax Filing: All Returns                                                                                NSA  19-Dec-2018  Annual
+RTEFRTN                                 Individual Income Tax Filing: Electronically-filed Returns                                                               NSA  19-Dec-2018  Annual
+RTHOHH                                  Individual Income Tax Filing: Returns of Heads of Households                                                             NSA  19-Dec-2018  Annual
+RTNBPECFC                               Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                 NSA  19-Dec-2018  Annual
+RTNINC                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Income                                               NSA  19-Dec-2018  Annual
+RTNINCA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Rent Net Income                                               NSA  19-Dec-2018  Annual
+RTNJNT                                  Individual Income Tax Filing: Joint Returns                                                                              NSA  19-Dec-2018  Annual
+RTNPECFC                                Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                 NSA  19-Dec-2018  Annual
+RTNPECFCA                               Individual Income Tax Filing: Returns with Presidential Election Campaign Fund Check off                                 NSA  14-Jan-2021  Annual
+RTSCBCT                                 Individual Income Tax Filing: Tax Credits: Retirement Savings Contributions Credit                                       NSA  19-Dec-2018  Annual
+RTSCBCTA                                Individual Income Tax Filing: Tax Credits: Retirement Savings Contributions Credit                                       NSA  19-Dec-2018  Annual
+RTSMPFS                                 Individual Income Tax Filing: Returns of Married Persons Filing Separately                                               NSA  19-Dec-2018  Annual
+RTSPRS                                  Individual Income Tax Filing: Returns of Single Persons                                                                  NSA  19-Dec-2018  Annual
+RTSVSS                                  Individual Income Tax Filing: Returns of Surviving Spouses                                                               NSA  19-Dec-2018  Annual
+SDRASDOB                                Individual Income Tax Filing: Returns with Additional Standard Deductions for Age 65 or Over or Blindness                NSA  19-Dec-2018  Annual
+SDRASDOBA                               Individual Income Tax Filing: Returns with Additional Standard Deductions for Age 65 or Over or Blindness                NSA  19-Dec-2018  Annual
+SEHTIS                                  Individual Income Tax Filing: Statutory Adjustments: Self-Employed Health Insurance                                      NSA  19-Dec-2018  Annual
+SEHTISA                                 Individual Income Tax Filing: Statutory Adjustments: Self-Employed Health Insurance                                      NSA  19-Dec-2018  Annual
+SLITDD                                  Individual Income Tax Filing: Statutory Adjustments: Student Loan Interest Deduction                                     NSA  19-Dec-2018  Annual
+SLITDDA                                 Individual Income Tax Filing: Statutory Adjustments: Student Loan Interest Deduction                                     NSA  19-Dec-2018  Annual
+SPOCANG                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Gain         NSA  19-Dec-2018  Annual
+SPOCANGA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Gain         NSA  19-Dec-2018  Annual
+SPOTCANL                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Loss         NSA  19-Dec-2018  Annual
+SPOTCANLA                               Individual Income Tax Filing: Adjusted Gross Income (AGI): Sales of Property Other Than Capital Assets, Net Loss         NSA  19-Dec-2018  Annual
+SSBAGI                                  Individual Income Tax Filing: Taxable Social Security Benefits                                                           NSA  19-Dec-2018  Annual
+SSBAGIA                                 Individual Income Tax Filing: Taxable Social Security Benefits                                                           NSA  19-Dec-2018  Annual
+TEXINT                                  Individual Income Tax Filing: Tax-exempt Interest                                                                        NSA  19-Dec-2018  Annual
+TEXINTA                                 Individual Income Tax Filing: Tax-exempt Interest                                                                        NSA  19-Dec-2018  Annual
+TIRADTS                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable IRA Distributions                                     NSA  19-Dec-2018  Annual
+TIRADTSA                                Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable IRA Distributions                                     NSA  19-Dec-2018  Annual
+TLINCTX                                 Individual Income Tax Filing: Total Income Tax                                                                           NSA  19-Dec-2018  Annual
+TLINCTXA                                Individual Income Tax Filing: Total Income Tax                                                                           NSA  19-Dec-2018  Annual
+TLSTRYADJ                               Individual Income Tax Filing: Total Statutory Adjustments                                                                NSA  19-Dec-2018  Annual
+TLSTRYADJA                              Individual Income Tax Filing: Total Statutory Adjustments                                                                NSA  19-Dec-2018  Annual
+TLTXINC                                 Individual Income Tax Filing: Taxable Income                                                                             NSA  19-Dec-2018  Annual
+TLTXINCA                                Individual Income Tax Filing: Taxable Income                                                                             NSA  19-Dec-2018  Annual
+TNFDDC                                  Individual Income Tax Filing: Statutory Adjustments: Tuition and Fees Deduction                                          NSA  19-Dec-2018  Annual
+TNFDDCA                                 Individual Income Tax Filing: Statutory Adjustments: Tuition and Fees Deduction                                          NSA  19-Dec-2018  Annual
+TXBINT                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable Interest                                              NSA  19-Dec-2018  Annual
+TXBINTA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Taxable Interest                                              NSA  19-Dec-2018  Annual
+TXCDTNR                                 Individual Income Tax Filing: Tax Credits                                                                                NSA  19-Dec-2018  Annual
+TXCDTNRA                                Individual Income Tax Filing: Tax Credits                                                                                NSA  19-Dec-2018  Annual
+TXDATFL                                 Individual Income Tax Filing: Tax Due at Time of Filing                                                                  NSA  19-Dec-2018  Annual
+TXDATFLA                                Individual Income Tax Filing: Tax Due at Time of Filing                                                                  NSA  19-Dec-2018  Annual
+TXOPMTRF                                Individual Income Tax Filing: Tax Overpayment Refunds                                                                    NSA  19-Dec-2018  Annual
+TXOPMTRFA                               Individual Income Tax Filing: Tax Overpayment Refunds                                                                    NSA  19-Dec-2018  Annual
+TXOPTTL                                 Individual Income Tax Filing: Tax Overpayments, Total                                                                    NSA  19-Dec-2018  Annual
+TXOPTTLA                                Individual Income Tax Filing: Tax Overpayments, Total                                                                    NSA  19-Dec-2018  Annual
+TXPMTEST                                Individual Income Tax Filing: Tax Payments: Estimated Tax Payments                                                       NSA  19-Dec-2018  Annual
+TXPMTESTA                               Individual Income Tax Filing: Tax Payments: Estimated Tax Payments                                                       NSA  19-Dec-2018  Annual
+TXPMTEXSSTW                             Individual Income Tax Filing: Tax Payments: Excess Social Security Tax Withheld                                          NSA  19-Dec-2018  Annual
+TXPMTEXSSTWA                            Individual Income Tax Filing: Tax Payments: Excess Social Security Tax Withheld                                          NSA  19-Dec-2018  Annual
+TXPMTITW                                Individual Income Tax Filing: Tax Payments: Income Tax Withheld                                                          NSA  19-Dec-2018  Annual
+TXPMTITWA                               Individual Income Tax Filing: Tax Payments: Income Tax Withheld                                                          NSA  19-Dec-2018  Annual
+TXPMTTL                                 Individual Income Tax Filing: Tax Payments, Total                                                                        NSA  19-Dec-2018  Annual
+TXPMTTLA                                Individual Income Tax Filing: Tax Payments, Total                                                                        NSA  19-Dec-2018  Annual
+UMPCPS                                  Individual Income Tax Filing: Adjusted Gross Income (AGI): Unemployment Compensation                                     NSA  19-Dec-2018  Annual
+UMPCPSA                                 Individual Income Tax Filing: Adjusted Gross Income (AGI): Unemployment Compensation                                     NSA  19-Dec-2018  Annual

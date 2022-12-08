@@ -1,3 +1,3 @@
 Id : 280  Cass Freight Index Report
-FRGEXPUSM649NCIS                        Cass Freight Index: Expenditures                                                                                                        NSA  Monthly    14-Nov-2022  
-FRGSHPUSM649NCIS                        Cass Freight Index: Shipments                                                                                                           NSA  Monthly    14-Nov-2022  
+FRGEXPUSM649NCIS                        Cass Freight Index: Expenditures                                                                                         NSA  14-Nov-2022  Monthly
+FRGSHPUSM649NCIS                        Cass Freight Index: Shipments                                                                                            NSA  14-Nov-2022  Monthly

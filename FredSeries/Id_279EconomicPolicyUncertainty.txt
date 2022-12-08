@@ -1,87 +1,87 @@
 Id : 279  Economic Policy Uncertainty
-CANEPUINDXM                             Economic Policy Uncertainty Index for Canada                                                                                            NSA  Monthly    30-Nov-2022  
-CATEPUINDXM                             Economic Policy Uncertainty Index: Categorical Index: Overall                                                                           NSA  Monthly    30-Nov-2022  
-CHIEPUINDXM                             Economic Policy Uncertainty Index for China                                                                                             NSA  Monthly    02-May-2019  
-CHNMAINLANDEPU                          Economic Policy Uncertainty Index: Mainland Papers for China                                                                            NSA  Monthly    07-Nov-2022  
-CHNMAINLANDTPU                          Trade Policy Uncertainty Index: Mainland Papers for China                                                                               NSA  Monthly    07-Nov-2022  
-DEEPUFEARINDX                           Migration Fear Index for Germany                                                                                                        NSA  Quarterly  01-Nov-2022  
-DEEPUINDXM                              Economic Policy Uncertainty Index for Germany                                                                                           NSA  Monthly    30-Nov-2022  
-DEEPUMIGINDX                            Migration Policy Uncertainty Index for Germany                                                                                          NSA  Quarterly  01-Nov-2022  
-EMNLABORREG                             Equity Market Volatility Tracker: Labor Regulations                                                                                     NSA  Monthly    07-Nov-2022  
-EMVAGRPOLICY                            Equity Market Volatility Tracker: Agricultural Policy                                                                                   NSA  Monthly    07-Nov-2022  
-EMVCOMMMKT                              Equity Market Volatility Tracker: Commodity Markets                                                                                     NSA  Monthly    07-Nov-2022  
-EMVCOMPMAT                              Equity Market Volatility Tracker: Competition Matters                                                                                   NSA  Monthly    07-Nov-2022  
-EMVCOMPPOL                              Equity Market Volatility Tracker: Competition Policy                                                                                    NSA  Monthly    07-Nov-2022  
-EMVELECTGOVRN                           Equity Market Volatility Tracker: Elections And Political Governance                                                                    NSA  Monthly    07-Nov-2022  
-EMVENRGYENVREG                          Equity Market Volatility Tracker: Energy And Environmental Regulation                                                                   NSA  Monthly    07-Nov-2022  
-EMVEXRATES                              Equity Market Volatility Tracker: Exchange Rates                                                                                        NSA  Monthly    07-Nov-2022  
-EMVFINCRISES                            Equity Market Volatility Tracker: Financial Crises                                                                                      NSA  Monthly    07-Nov-2022  
-EMVFINREG                               Equity Market Volatility Tracker: Financial Regulation                                                                                  NSA  Monthly    07-Nov-2022  
-EMVFISCALPOL                            Equity Market Volatility Tracker: Fiscal Policy                                                                                         NSA  Monthly    07-Nov-2022  
-EMVFOODDRUG                             Equity Market Volatility Tracker: Food And Drug Policy                                                                                  NSA  Monthly    07-Nov-2022  
-EMVGOVTSPEND                            Equity Market Volatility Tracker: Government Spending Deficits And Debt                                                                 NSA  Monthly    07-Nov-2022  
-EMVGOVTSPENT                            Equity Market Volatility Tracker: Government Sponsored Enterprises                                                                      NSA  Monthly    07-Nov-2022  
-EMVHEALTHCAREMAT                        Equity Market Volatility Tracker: Healthcare Matters                                                                                    NSA  Monthly    07-Nov-2022  
-EMVHEALTHCAREPOL                        Equity Market Volatility Tracker: Healthcare Policy                                                                                     NSA  Monthly    07-Nov-2022  
-EMVHOUSELANDMGMT                        Equity Market Volatility Tracker: Housing And Land Management                                                                           NSA  Monthly    07-Nov-2022  
-EMVIMMIGRATION                          Equity Market Volatility Tracker: Immigration                                                                                           NSA  Monthly    07-Nov-2022  
-EMVIPMAT                                Equity Market Volatility Tracker: Intellectual Property Matters                                                                         NSA  Monthly    07-Nov-2022  
-EMVIPPOL                                Equity Market Volatility Tracker: Intellectual Property Policy                                                                          NSA  Monthly    07-Nov-2022  
-EMVLABORDISPUTES                        Equity Market Volatility Tracker: Labor Disputes                                                                                        NSA  Monthly    07-Nov-2022  
-EMVLAWTORT                              Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions                                                       NSA  Monthly    07-Nov-2022  
-EMVLITGMAT                              Equity Market Volatility Tracker: Litigation Matters                                                                                    NSA  Monthly    07-Nov-2022  
-EMVMACROBROAD                           Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators                                             NSA  Monthly    07-Nov-2022  
-EMVMACROBUS                             Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment                                     NSA  Monthly    07-Nov-2022  
-EMVMACROCONSUME                         Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment                                       NSA  Monthly    07-Nov-2022  
-EMVMACROFININD                          Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators                                            NSA  Monthly    07-Nov-2022  
-EMVMACROINFLATION                       Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation                                                             NSA  Monthly    07-Nov-2022  
-EMVMACROINTEREST                        Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates                                                        NSA  Monthly    07-Nov-2022  
-EMVMACROLABORMKT                        Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets                                                         NSA  Monthly    07-Nov-2022  
-EMVMACRONEWS                            Equity Market Volatility Tracker: Macroeconomic News And Outlook                                                                        NSA  Monthly    07-Nov-2022  
-EMVMACRORE                              Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets                                                   NSA  Monthly    07-Nov-2022  
-EMVMACROTRADE                           Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade                                                                 NSA  Monthly    07-Nov-2022  
-EMVMONETARYPOL                          Equity Market Volatility Tracker: Monetary Policy                                                                                       NSA  Monthly    07-Nov-2022  
-EMVNATSEC                               Equity Market Volatility Tracker: National Security Policy                                                                              NSA  Monthly    07-Nov-2022  
-EMVOTHERREG                             Equity Market Volatility Tracker: Other Regulation                                                                                      NSA  Monthly    07-Nov-2022  
-EMVOVERALLEMV                           Equity Market Volatility Tracker: Overall                                                                                               NSA  Monthly    07-Nov-2022  
-EMVPOLRLTDEMV                           Equity Market Volatility Tracker: Policy Related                                                                                        NSA  Monthly    07-Nov-2022  
-EMVREGEMV                               Equity Market Volatility Tracker: Regulation                                                                                            NSA  Monthly    07-Nov-2022  
-EMVTAXESEMV                             Equity Market Volatility Tracker: Taxes                                                                                                 NSA  Monthly    07-Nov-2022  
-EMVTRADEPOLEMV                          Equity Market Volatility Tracker: Trade Policy                                                                                          NSA  Monthly    07-Nov-2022  
-EMVTRADEPUBUTEMV                        Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities                                                  NSA  Monthly    07-Nov-2022  
-EMVWELFARE                              Equity Market Volatility Tracker: Entitlement And Welfare Programs                                                                      NSA  Monthly    07-Nov-2022  
-EPUENTITLE                              Economic Policy Uncertainty Index: Categorical Index: Entitlement programs                                                              NSA  Monthly    30-Nov-2022  
-EPUFINREG                               Economic Policy Uncertainty Index: Categorical Index: Financial Regulation                                                              NSA  Monthly    30-Nov-2022  
-EPUFISCAL                               Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)                                                 NSA  Monthly    30-Nov-2022  
-EPUGOVTSPEND                            Economic Policy Uncertainty Index: Categorical Index: Government spending                                                               NSA  Monthly    30-Nov-2022  
-EPUHEALTHCARE                           Economic Policy Uncertainty Index: Categorical Index: Health care                                                                       NSA  Monthly    30-Nov-2022  
-EPUMONETARY                             Economic Policy Uncertainty Index: Categorical Index: Monetary policy                                                                   NSA  Monthly    30-Nov-2022  
-EPUNATSEC                               Economic Policy Uncertainty Index: Categorical Index: National security                                                                 NSA  Monthly    30-Nov-2022  
-EPUREG                                  Economic Policy Uncertainty Index: Categorical Index: Regulation                                                                        NSA  Monthly    30-Nov-2022  
-EPUSOVDEBT                              Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises                                                   NSA  Monthly    30-Nov-2022  
-EPUTAXES                                Economic Policy Uncertainty Index: Categorical Index: Taxes                                                                             NSA  Monthly    30-Nov-2022  
-EPUTRADE                                Economic Policy Uncertainty Index: Categorical Index: Trade policy                                                                      NSA  Monthly    30-Nov-2022  
-EUEPUINDXM                              Economic Policy Uncertainty Index for Europe                                                                                            NSA  Monthly    30-Nov-2022  
-FREEPUFEARINDX                          Migration Fear Index for France                                                                                                         NSA  Quarterly  02-Dec-2019  
-FREEPUMIGINDX                           Migration Policy Uncertainty Index for France                                                                                           NSA  Quarterly  02-Dec-2019  
-FREUINDXM                               Economic Policy Uncertainty Index for France                                                                                            NSA  Monthly    30-Nov-2022  
-GEPUCURRENT                             Global Economic Policy Uncertainty Index: Current Price Adjusted GDP                                                                    NSA  Monthly    02-Dec-2022  
-GEPUPPP                                 Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                                                              NSA  Monthly    02-Dec-2022  
-INDEPUINDXM                             Economic Policy Uncertainty Index for India                                                                                             NSA  Monthly    30-Nov-2022  
-INFECTDISEMVTRACK                       Equity Market Volatility: Infectious Disease Tracker                                                                                    NSA  Monthly    07-Nov-2022  
-INFECTDISEMVTRACKD                      Equity Market Volatility: Infectious Disease Tracker                                                                                    NSA  Daily, 7-Day 07-Dec-2022  
-ITEPUINDXM                              Economic Policy Uncertainty Index for Italy                                                                                             NSA  Monthly    30-Nov-2022  
-JPNEPUINDXM                             Economic Policy Uncertainty Index for Japan (DISCONTINUED)                                                                              NSA  Monthly    16-May-2016  
-KOREAEPUINDXM                           Economic Policy Uncertainty Index for South Korea                                                                                       NSA  Monthly    18-Feb-2021  
-KOREPUINDXM                             Economic Policy Uncertainty Index for South Korea (DISCONTINUED)                                                                        NSA  Monthly    11-Feb-2016  
-RUSEPUINDXM                             Economic Policy Uncertainty Index for Russia                                                                                            NSA  Monthly    06-May-2022  
-SPEPUINDXM                              Economic Policy Uncertainty Index for Spain                                                                                             NSA  Monthly    30-Nov-2022  
-UKEPUFEARINDX                           Migration Fear Index for the United Kingdom                                                                                             NSA  Quarterly  01-Nov-2022  
-UKEPUINDXM                              Economic Policy Uncertainty Index for United Kingdom                                                                                    NSA  Monthly    30-Nov-2022  
-UKEPUMIGINDX                            Migration Policy Uncertainty Index for the United Kingdom                                                                               NSA  Quarterly  01-Nov-2022  
-USEPUFEARINDX                           Migration Fear Index for the United States                                                                                              NSA  Quarterly  01-Nov-2022  
-USEPUINDXD                              Economic Policy Uncertainty Index for United States                                                                                     NSA  Daily, 7-Day 07-Dec-2022  
-USEPUINDXM                              Economic Policy Uncertainty Index for United States                                                                                     NSA  Monthly    30-Nov-2022  
-USEPUMIGINDX                            Migration Policy Uncertainty Index for the United States                                                                                NSA  Quarterly  01-Nov-2022  
-USEPUNEWSINDXM                          Economic Policy Uncertainty Index: News-Based Index for the United States                                                               NSA  Monthly    30-Nov-2022  
-WLEMUINDXD                              Equity Market-related Economic Uncertainty Index                                                                                        NSA  Daily, 7-Day 07-Dec-2022  
+CANEPUINDXM                             Economic Policy Uncertainty Index for Canada                                                                             NSA  30-Nov-2022  Monthly
+CATEPUINDXM                             Economic Policy Uncertainty Index: Categorical Index: Overall                                                            NSA  30-Nov-2022  Monthly
+CHIEPUINDXM                             Economic Policy Uncertainty Index for China                                                                              NSA  02-May-2019  Monthly
+CHNMAINLANDEPU                          Economic Policy Uncertainty Index: Mainland Papers for China                                                             NSA  07-Nov-2022  Monthly
+CHNMAINLANDTPU                          Trade Policy Uncertainty Index: Mainland Papers for China                                                                NSA  07-Nov-2022  Monthly
+DEEPUFEARINDX                           Migration Fear Index for Germany                                                                                         NSA  01-Nov-2022  Quarterly
+DEEPUINDXM                              Economic Policy Uncertainty Index for Germany                                                                            NSA  30-Nov-2022  Monthly
+DEEPUMIGINDX                            Migration Policy Uncertainty Index for Germany                                                                           NSA  01-Nov-2022  Quarterly
+EMNLABORREG                             Equity Market Volatility Tracker: Labor Regulations                                                                      NSA  07-Nov-2022  Monthly
+EMVAGRPOLICY                            Equity Market Volatility Tracker: Agricultural Policy                                                                    NSA  07-Nov-2022  Monthly
+EMVCOMMMKT                              Equity Market Volatility Tracker: Commodity Markets                                                                      NSA  07-Nov-2022  Monthly
+EMVCOMPMAT                              Equity Market Volatility Tracker: Competition Matters                                                                    NSA  07-Nov-2022  Monthly
+EMVCOMPPOL                              Equity Market Volatility Tracker: Competition Policy                                                                     NSA  07-Nov-2022  Monthly
+EMVELECTGOVRN                           Equity Market Volatility Tracker: Elections And Political Governance                                                     NSA  07-Nov-2022  Monthly
+EMVENRGYENVREG                          Equity Market Volatility Tracker: Energy And Environmental Regulation                                                    NSA  07-Nov-2022  Monthly
+EMVEXRATES                              Equity Market Volatility Tracker: Exchange Rates                                                                         NSA  07-Nov-2022  Monthly
+EMVFINCRISES                            Equity Market Volatility Tracker: Financial Crises                                                                       NSA  07-Nov-2022  Monthly
+EMVFINREG                               Equity Market Volatility Tracker: Financial Regulation                                                                   NSA  07-Nov-2022  Monthly
+EMVFISCALPOL                            Equity Market Volatility Tracker: Fiscal Policy                                                                          NSA  07-Nov-2022  Monthly
+EMVFOODDRUG                             Equity Market Volatility Tracker: Food And Drug Policy                                                                   NSA  07-Nov-2022  Monthly
+EMVGOVTSPEND                            Equity Market Volatility Tracker: Government Spending Deficits And Debt                                                  NSA  07-Nov-2022  Monthly
+EMVGOVTSPENT                            Equity Market Volatility Tracker: Government Sponsored Enterprises                                                       NSA  07-Nov-2022  Monthly
+EMVHEALTHCAREMAT                        Equity Market Volatility Tracker: Healthcare Matters                                                                     NSA  07-Nov-2022  Monthly
+EMVHEALTHCAREPOL                        Equity Market Volatility Tracker: Healthcare Policy                                                                      NSA  07-Nov-2022  Monthly
+EMVHOUSELANDMGMT                        Equity Market Volatility Tracker: Housing And Land Management                                                            NSA  07-Nov-2022  Monthly
+EMVIMMIGRATION                          Equity Market Volatility Tracker: Immigration                                                                            NSA  07-Nov-2022  Monthly
+EMVIPMAT                                Equity Market Volatility Tracker: Intellectual Property Matters                                                          NSA  07-Nov-2022  Monthly
+EMVIPPOL                                Equity Market Volatility Tracker: Intellectual Property Policy                                                           NSA  07-Nov-2022  Monthly
+EMVLABORDISPUTES                        Equity Market Volatility Tracker: Labor Disputes                                                                         NSA  07-Nov-2022  Monthly
+EMVLAWTORT                              Equity Market Volatility Tracker: Lawsuit And Tort Reform Supreme Court Decisions                                        NSA  07-Nov-2022  Monthly
+EMVLITGMAT                              Equity Market Volatility Tracker: Litigation Matters                                                                     NSA  07-Nov-2022  Monthly
+EMVMACROBROAD                           Equity Market Volatility Tracker: Macroeconomic News and Outlook: Broad Quantity Indicators                              NSA  07-Nov-2022  Monthly
+EMVMACROBUS                             Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment                      NSA  07-Nov-2022  Monthly
+EMVMACROCONSUME                         Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment                        NSA  07-Nov-2022  Monthly
+EMVMACROFININD                          Equity Market Volatility Tracker: Macroeconomic News and Outlook: Other Financial Indicators                             NSA  07-Nov-2022  Monthly
+EMVMACROINFLATION                       Equity Market Volatility Tracker: Macroeconomic News and Outlook: Inflation                                              NSA  07-Nov-2022  Monthly
+EMVMACROINTEREST                        Equity Market Volatility Tracker: Macroeconomic News and Outlook: Interest Rates                                         NSA  07-Nov-2022  Monthly
+EMVMACROLABORMKT                        Equity Market Volatility Tracker: Macroeconomic News and Outlook: Labor Markets                                          NSA  07-Nov-2022  Monthly
+EMVMACRONEWS                            Equity Market Volatility Tracker: Macroeconomic News And Outlook                                                         NSA  07-Nov-2022  Monthly
+EMVMACRORE                              Equity Market Volatility Tracker: Macroeconomic News and Outlook: Real Estate Markets                                    NSA  07-Nov-2022  Monthly
+EMVMACROTRADE                           Equity Market Volatility Tracker: Macroeconomic News and Outlook: Trade                                                  NSA  07-Nov-2022  Monthly
+EMVMONETARYPOL                          Equity Market Volatility Tracker: Monetary Policy                                                                        NSA  07-Nov-2022  Monthly
+EMVNATSEC                               Equity Market Volatility Tracker: National Security Policy                                                               NSA  07-Nov-2022  Monthly
+EMVOTHERREG                             Equity Market Volatility Tracker: Other Regulation                                                                       NSA  07-Nov-2022  Monthly
+EMVOVERALLEMV                           Equity Market Volatility Tracker: Overall                                                                                NSA  07-Nov-2022  Monthly
+EMVPOLRLTDEMV                           Equity Market Volatility Tracker: Policy Related                                                                         NSA  07-Nov-2022  Monthly
+EMVREGEMV                               Equity Market Volatility Tracker: Regulation                                                                             NSA  07-Nov-2022  Monthly
+EMVTAXESEMV                             Equity Market Volatility Tracker: Taxes                                                                                  NSA  07-Nov-2022  Monthly
+EMVTRADEPOLEMV                          Equity Market Volatility Tracker: Trade Policy                                                                           NSA  07-Nov-2022  Monthly
+EMVTRADEPUBUTEMV                        Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities                                   NSA  07-Nov-2022  Monthly
+EMVWELFARE                              Equity Market Volatility Tracker: Entitlement And Welfare Programs                                                       NSA  07-Nov-2022  Monthly
+EPUENTITLE                              Economic Policy Uncertainty Index: Categorical Index: Entitlement programs                                               NSA  30-Nov-2022  Monthly
+EPUFINREG                               Economic Policy Uncertainty Index: Categorical Index: Financial Regulation                                               NSA  30-Nov-2022  Monthly
+EPUFISCAL                               Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)                                  NSA  30-Nov-2022  Monthly
+EPUGOVTSPEND                            Economic Policy Uncertainty Index: Categorical Index: Government spending                                                NSA  30-Nov-2022  Monthly
+EPUHEALTHCARE                           Economic Policy Uncertainty Index: Categorical Index: Health care                                                        NSA  30-Nov-2022  Monthly
+EPUMONETARY                             Economic Policy Uncertainty Index: Categorical Index: Monetary policy                                                    NSA  30-Nov-2022  Monthly
+EPUNATSEC                               Economic Policy Uncertainty Index: Categorical Index: National security                                                  NSA  30-Nov-2022  Monthly
+EPUREG                                  Economic Policy Uncertainty Index: Categorical Index: Regulation                                                         NSA  30-Nov-2022  Monthly
+EPUSOVDEBT                              Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises                                    NSA  30-Nov-2022  Monthly
+EPUTAXES                                Economic Policy Uncertainty Index: Categorical Index: Taxes                                                              NSA  30-Nov-2022  Monthly
+EPUTRADE                                Economic Policy Uncertainty Index: Categorical Index: Trade policy                                                       NSA  30-Nov-2022  Monthly
+EUEPUINDXM                              Economic Policy Uncertainty Index for Europe                                                                             NSA  30-Nov-2022  Monthly
+FREEPUFEARINDX                          Migration Fear Index for France                                                                                          NSA  02-Dec-2019  Quarterly
+FREEPUMIGINDX                           Migration Policy Uncertainty Index for France                                                                            NSA  02-Dec-2019  Quarterly
+FREUINDXM                               Economic Policy Uncertainty Index for France                                                                             NSA  30-Nov-2022  Monthly
+GEPUCURRENT                             Global Economic Policy Uncertainty Index: Current Price Adjusted GDP                                                     NSA  02-Dec-2022  Monthly
+GEPUPPP                                 Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                                               NSA  02-Dec-2022  Monthly
+INDEPUINDXM                             Economic Policy Uncertainty Index for India                                                                              NSA  30-Nov-2022  Monthly
+INFECTDISEMVTRACK                       Equity Market Volatility: Infectious Disease Tracker                                                                     NSA  07-Nov-2022  Monthly
+INFECTDISEMVTRACKD                      Equity Market Volatility: Infectious Disease Tracker                                                                     NSA  08-Dec-2022  Daily, 7-Day
+ITEPUINDXM                              Economic Policy Uncertainty Index for Italy                                                                              NSA  30-Nov-2022  Monthly
+JPNEPUINDXM                             Economic Policy Uncertainty Index for Japan (DISCONTINUED)                                                               NSA  16-May-2016  Monthly
+KOREAEPUINDXM                           Economic Policy Uncertainty Index for South Korea                                                                        NSA  18-Feb-2021  Monthly
+KOREPUINDXM                             Economic Policy Uncertainty Index for South Korea (DISCONTINUED)                                                         NSA  11-Feb-2016  Monthly
+RUSEPUINDXM                             Economic Policy Uncertainty Index for Russia                                                                             NSA  06-May-2022  Monthly
+SPEPUINDXM                              Economic Policy Uncertainty Index for Spain                                                                              NSA  30-Nov-2022  Monthly
+UKEPUFEARINDX                           Migration Fear Index for the United Kingdom                                                                              NSA  01-Nov-2022  Quarterly
+UKEPUINDXM                              Economic Policy Uncertainty Index for United Kingdom                                                                     NSA  30-Nov-2022  Monthly
+UKEPUMIGINDX                            Migration Policy Uncertainty Index for the United Kingdom                                                                NSA  01-Nov-2022  Quarterly
+USEPUFEARINDX                           Migration Fear Index for the United States                                                                               NSA  01-Nov-2022  Quarterly
+USEPUINDXD                              Economic Policy Uncertainty Index for United States                                                                      NSA  08-Dec-2022  Daily, 7-Day
+USEPUINDXM                              Economic Policy Uncertainty Index for United States                                                                      NSA  30-Nov-2022  Monthly
+USEPUMIGINDX                            Migration Policy Uncertainty Index for the United States                                                                 NSA  01-Nov-2022  Quarterly
+USEPUNEWSINDXM                          Economic Policy Uncertainty Index: News-Based Index for the United States                                                NSA  30-Nov-2022  Monthly
+WLEMUINDXD                              Equity Market-related Economic Uncertainty Index                                                                         NSA  08-Dec-2022  Daily, 7-Day

@@ -1,29 +1,29 @@
 Id : 471  Manufactured Housing Survey
-ISRMNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Multi-Section Homes in the United States                         NSA  Monthly    08-Nov-2022  
-ISRSNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Single Homes in the United States                                NSA  Monthly    08-Nov-2022  
-ISRTNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Total Homes in the United States                                 NSA  Monthly    08-Nov-2022  
-NRMNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Multi-Section Homes in the United States                                       NSA  Monthly    08-Nov-2022  
-NRSNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Single Homes in the United States                                              NSA  Monthly    08-Nov-2022  
-NRTNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Total Homes in the United States                                               NSA  Monthly    08-Nov-2022  
-SHMNSAUS                                Total Shipments of New Manufactured Homes: Multi-Section Homes in the United States                                                     NSA  Monthly    08-Nov-2022  
-SHSNSAUS                                Total Shipments of New Manufactured Homes: Single Homes in the United States                                                            NSA  Monthly    08-Nov-2022  
-SHTNSAUS                                Total Shipments of New Manufactured Homes: Total Homes in the United States                                                             NSA  Monthly    08-Nov-2022  
-SHTSAUS                                 Total Shipments of New Manufactured Homes: Total Homes in the United States                                                             SA   Monthly    08-Nov-2022  
-SPDNSAMW                                Average Sales Price of New Manufactured Homes: Double Homes in Midwest Census Region                                                    NSA  Monthly    08-Nov-2022  
-SPDNSANE                                Average Sales Price of New Manufactured Homes: Double Homes in Northeast Census Region                                                  NSA  Monthly    08-Nov-2022  
-SPDNSASO                                Average Sales Price of New Manufactured Homes: Double Homes in South Census Region                                                      NSA  Monthly    08-Nov-2022  
-SPDNSAUS                                Average Sales Price of New Manufactured Homes: Double Homes in the United States                                                        NSA  Monthly    08-Nov-2022  
-SPDNSAWE                                Average Sales Price of New Manufactured Homes: Double Homes in West Census Region                                                       NSA  Monthly    08-Nov-2022  
-SPRMNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Multi-Section Homes in the United States                                     NSA  Monthly    08-Nov-2022  
-SPRSNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Single Homes in the United States                                            NSA  Monthly    08-Nov-2022  
-SPRTNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Total Homes in the United States                                             NSA  Monthly    08-Nov-2022  
-SPSNSAMW                                Average Sales Price of New Manufactured Homes: Single Homes in Midwest Census Region                                                    NSA  Monthly    08-Nov-2022  
-SPSNSANE                                Average Sales Price of New Manufactured Homes: Single Homes in Northeast Census Region                                                  NSA  Monthly    08-Nov-2022  
-SPSNSASO                                Average Sales Price of New Manufactured Homes: Single Homes in South Census Region                                                      NSA  Monthly    08-Nov-2022  
-SPSNSAUS                                Average Sales Price of New Manufactured Homes: Single Homes in the United States                                                        NSA  Monthly    08-Nov-2022  
-SPSNSAWE                                Average Sales Price of New Manufactured Homes: Single Homes in West Census Region                                                       NSA  Monthly    08-Nov-2022  
-SPTNSAMW                                Average Sales Price of New Manufactured Homes: Total Homes in Midwest Census Region                                                     NSA  Monthly    08-Nov-2022  
-SPTNSANE                                Average Sales Price of New Manufactured Homes: Total Homes in Northeast Census Region                                                   NSA  Monthly    08-Nov-2022  
-SPTNSASO                                Average Sales Price of New Manufactured Homes: Total Homes in South Census Region                                                       NSA  Monthly    08-Nov-2022  
-SPTNSAUS                                Average Sales Price of New Manufactured Homes: Total Homes in the United States                                                         NSA  Monthly    08-Nov-2022  
-SPTNSAWE                                Average Sales Price of New Manufactured Homes: Total Homes in West Census Region                                                        NSA  Monthly    08-Nov-2022  
+ISRMNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Multi-Section Homes in the United States          NSA  08-Nov-2022  Monthly
+ISRSNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Single Homes in the United States                 NSA  08-Nov-2022  Monthly
+ISRTNSAUS                               New Manufactured Homes Intended for Sale or Lease for Residential Use: Total Homes in the United States                  NSA  08-Nov-2022  Monthly
+NRMNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Multi-Section Homes in the United States                        NSA  08-Nov-2022  Monthly
+NRSNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Single Homes in the United States                               NSA  08-Nov-2022  Monthly
+NRTNSAUS                                New Manufactured Homes for Non-Residential or Other Use: Total Homes in the United States                                NSA  08-Nov-2022  Monthly
+SHMNSAUS                                Total Shipments of New Manufactured Homes: Multi-Section Homes in the United States                                      NSA  08-Nov-2022  Monthly
+SHSNSAUS                                Total Shipments of New Manufactured Homes: Single Homes in the United States                                             NSA  08-Nov-2022  Monthly
+SHTNSAUS                                Total Shipments of New Manufactured Homes: Total Homes in the United States                                              NSA  08-Nov-2022  Monthly
+SHTSAUS                                 Total Shipments of New Manufactured Homes: Total Homes in the United States                                              SA   08-Nov-2022  Monthly
+SPDNSAMW                                Average Sales Price of New Manufactured Homes: Double Homes in Midwest Census Region                                     NSA  08-Nov-2022  Monthly
+SPDNSANE                                Average Sales Price of New Manufactured Homes: Double Homes in Northeast Census Region                                   NSA  08-Nov-2022  Monthly
+SPDNSASO                                Average Sales Price of New Manufactured Homes: Double Homes in South Census Region                                       NSA  08-Nov-2022  Monthly
+SPDNSAUS                                Average Sales Price of New Manufactured Homes: Double Homes in the United States                                         NSA  08-Nov-2022  Monthly
+SPDNSAWE                                Average Sales Price of New Manufactured Homes: Double Homes in West Census Region                                        NSA  08-Nov-2022  Monthly
+SPRMNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Multi-Section Homes in the United States                      NSA  08-Nov-2022  Monthly
+SPRSNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Single Homes in the United States                             NSA  08-Nov-2022  Monthly
+SPRTNSAUS                               New Manufactured Homes Sold or Leased for Residential Use: Total Homes in the United States                              NSA  08-Nov-2022  Monthly
+SPSNSAMW                                Average Sales Price of New Manufactured Homes: Single Homes in Midwest Census Region                                     NSA  08-Nov-2022  Monthly
+SPSNSANE                                Average Sales Price of New Manufactured Homes: Single Homes in Northeast Census Region                                   NSA  08-Nov-2022  Monthly
+SPSNSASO                                Average Sales Price of New Manufactured Homes: Single Homes in South Census Region                                       NSA  08-Nov-2022  Monthly
+SPSNSAUS                                Average Sales Price of New Manufactured Homes: Single Homes in the United States                                         NSA  08-Nov-2022  Monthly
+SPSNSAWE                                Average Sales Price of New Manufactured Homes: Single Homes in West Census Region                                        NSA  08-Nov-2022  Monthly
+SPTNSAMW                                Average Sales Price of New Manufactured Homes: Total Homes in Midwest Census Region                                      NSA  08-Nov-2022  Monthly
+SPTNSANE                                Average Sales Price of New Manufactured Homes: Total Homes in Northeast Census Region                                    NSA  08-Nov-2022  Monthly
+SPTNSASO                                Average Sales Price of New Manufactured Homes: Total Homes in South Census Region                                        NSA  08-Nov-2022  Monthly
+SPTNSAUS                                Average Sales Price of New Manufactured Homes: Total Homes in the United States                                          NSA  08-Nov-2022  Monthly
+SPTNSAWE                                Average Sales Price of New Manufactured Homes: Total Homes in West Census Region                                         NSA  08-Nov-2022  Monthly

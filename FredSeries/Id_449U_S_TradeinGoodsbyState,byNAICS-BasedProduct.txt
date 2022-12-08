@@ -1,325 +1,325 @@
 Id : 449  U.S. Trade in Goods by State, by NAICS-Based Product
-EXPMANAK                                Exports of Goods: Manufactured Commodities for Alaska                                                                                   NSA  Monthly    06-Dec-2022  
-EXPMANAL                                Exports of Goods: Manufactured Commodities for Alabama                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANAR                                Exports of Goods: Manufactured Commodities for Arkansas                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANAZ                                Exports of Goods: Manufactured Commodities for Arizona                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANCA                                Exports of Goods: Manufactured Commodities for California                                                                               NSA  Monthly    06-Dec-2022  
-EXPMANCO                                Exports of Goods: Manufactured Commodities for Colorado                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANCT                                Exports of Goods: Manufactured Commodities for Connecticut                                                                              NSA  Monthly    06-Dec-2022  
-EXPMANDC                                Exports of Goods: Manufactured Commodities for District of Columbia                                                                     NSA  Monthly    06-Dec-2022  
-EXPMANDE                                Exports of Goods: Manufactured Commodities for Delaware                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANFL                                Exports of Goods: Manufactured Commodities for Florida                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANGA                                Exports of Goods: Manufactured Commodities for Georgia                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANHI                                Exports of Goods: Manufactured Commodities for Hawaii                                                                                   NSA  Monthly    06-Dec-2022  
-EXPMANIA                                Exports of Goods: Manufactured Commodities for Iowa                                                                                     NSA  Monthly    06-Dec-2022  
-EXPMANID                                Exports of Goods: Manufactured Commodities for Idaho                                                                                    NSA  Monthly    06-Dec-2022  
-EXPMANIL                                Exports of Goods: Manufactured Commodities for Illinois                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANIN                                Exports of Goods: Manufactured Commodities for Indiana                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANKS                                Exports of Goods: Manufactured Commodities for Kansas                                                                                   NSA  Monthly    06-Dec-2022  
-EXPMANKY                                Exports of Goods: Manufactured Commodities for Kentucky                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANLA                                Exports of Goods: Manufactured Commodities for Louisiana                                                                                NSA  Monthly    06-Dec-2022  
-EXPMANMA                                Exports of Goods: Manufactured Commodities for Massachusetts                                                                            NSA  Monthly    06-Dec-2022  
-EXPMANMD                                Exports of Goods: Manufactured Commodities for Maryland                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANME                                Exports of Goods: Manufactured Commodities for Maine                                                                                    NSA  Monthly    06-Dec-2022  
-EXPMANMI                                Exports of Goods: Manufactured Commodities for Michigan                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANMN                                Exports of Goods: Manufactured Commodities for Minnesota                                                                                NSA  Monthly    06-Dec-2022  
-EXPMANMO                                Exports of Goods: Manufactured Commodities for Missouri                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANMS                                Exports of Goods: Manufactured Commodities for Mississippi                                                                              NSA  Monthly    06-Dec-2022  
-EXPMANMT                                Exports of Goods: Manufactured Commodities for Montana                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANNC                                Exports of Goods: Manufactured Commodities for North Carolina                                                                           NSA  Monthly    06-Dec-2022  
-EXPMANND                                Exports of Goods: Manufactured Commodities for North Dakota                                                                             NSA  Monthly    06-Dec-2022  
-EXPMANNE                                Exports of Goods: Manufactured Commodities for Nebraska                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANNH                                Exports of Goods: Manufactured Commodities for New Hampshire                                                                            NSA  Monthly    06-Dec-2022  
-EXPMANNJ                                Exports of Goods: Manufactured Commodities for New Jersey                                                                               NSA  Monthly    06-Dec-2022  
-EXPMANNM                                Exports of Goods: Manufactured Commodities for New Mexico                                                                               NSA  Monthly    06-Dec-2022  
-EXPMANNV                                Exports of Goods: Manufactured Commodities for Nevada                                                                                   NSA  Monthly    06-Dec-2022  
-EXPMANNY                                Exports of Goods: Manufactured Commodities for New York                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANOH                                Exports of Goods: Manufactured Commodities for Ohio                                                                                     NSA  Monthly    06-Dec-2022  
-EXPMANOK                                Exports of Goods: Manufactured Commodities for Oklahoma                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANOR                                Exports of Goods: Manufactured Commodities for Oregon                                                                                   NSA  Monthly    06-Dec-2022  
-EXPMANPA                                Exports of Goods: Manufactured Commodities for Pennsylvania                                                                             NSA  Monthly    06-Dec-2022  
-EXPMANPR                                Exports of Goods: Manufactured Commodities for Puerto Rico                                                                              NSA  Monthly    06-Dec-2022  
-EXPMANRI                                Exports of Goods: Manufactured Commodities for Rhode Island                                                                             NSA  Monthly    06-Dec-2022  
-EXPMANSC                                Exports of Goods: Manufactured Commodities for South Carolina                                                                           NSA  Monthly    06-Dec-2022  
-EXPMANSD                                Exports of Goods: Manufactured Commodities for South Dakota                                                                             NSA  Monthly    06-Dec-2022  
-EXPMANTN                                Exports of Goods: Manufactured Commodities for Tennessee                                                                                NSA  Monthly    06-Dec-2022  
-EXPMANTX                                Exports of Goods: Manufactured Commodities for Texas                                                                                    NSA  Monthly    06-Dec-2022  
-EXPMANUS                                Exports of Goods: Manufactured Commodities for United States                                                                            NSA  Monthly    06-Dec-2022  
-EXPMANUT                                Exports of Goods: Manufactured Commodities for Utah                                                                                     NSA  Monthly    06-Dec-2022  
-EXPMANVA                                Exports of Goods: Manufactured Commodities for Virginia                                                                                 NSA  Monthly    06-Dec-2022  
-EXPMANVI                                Exports of Goods: Manufactured Commodities for U.S. Virgin Islands                                                                      NSA  Monthly    06-Dec-2022  
-EXPMANVT                                Exports of Goods: Manufactured Commodities for Vermont                                                                                  NSA  Monthly    06-Dec-2022  
-EXPMANWA                                Exports of Goods: Manufactured Commodities for Washington                                                                               NSA  Monthly    06-Dec-2022  
-EXPMANWI                                Exports of Goods: Manufactured Commodities for Wisconsin                                                                                NSA  Monthly    06-Dec-2022  
-EXPMANWV                                Exports of Goods: Manufactured Commodities for West Virginia                                                                            NSA  Monthly    06-Dec-2022  
-EXPMANWY                                Exports of Goods: Manufactured Commodities for Wyoming                                                                                  NSA  Monthly    06-Dec-2022  
-EXPNONAK                                Exports of Goods: Non-Manufactured Commodities for Alaska                                                                               NSA  Monthly    06-Dec-2022  
-EXPNONAL                                Exports of Goods: Non-Manufactured Commodities for Alabama                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONAR                                Exports of Goods: Non-Manufactured Commodities for Arkansas                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONAZ                                Exports of Goods: Non-Manufactured Commodities for Arizona                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONCA                                Exports of Goods: Non-Manufactured Commodities for California                                                                           NSA  Monthly    06-Dec-2022  
-EXPNONCO                                Exports of Goods: Non-Manufactured Commodities for Colorado                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONCT                                Exports of Goods: Non-Manufactured Commodities for Connecticut                                                                          NSA  Monthly    06-Dec-2022  
-EXPNONDC                                Exports of Goods: Non-Manufactured Commodities for District of Columbia                                                                 NSA  Monthly    06-Dec-2022  
-EXPNONDE                                Exports of Goods: Non-Manufactured Commodities for Delaware                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONFL                                Exports of Goods: Non-Manufactured Commodities for Florida                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONGA                                Exports of Goods: Non-Manufactured Commodities for Georgia                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONHI                                Exports of Goods: Non-Manufactured Commodities for Hawaii                                                                               NSA  Monthly    06-Dec-2022  
-EXPNONIA                                Exports of Goods: Non-Manufactured Commodities for Iowa                                                                                 NSA  Monthly    06-Dec-2022  
-EXPNONID                                Exports of Goods: Non-Manufactured Commodities for Idaho                                                                                NSA  Monthly    06-Dec-2022  
-EXPNONIL                                Exports of Goods: Non-Manufactured Commodities for Illinois                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONIN                                Exports of Goods: Non-Manufactured Commodities for Indiana                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONKS                                Exports of Goods: Non-Manufactured Commodities for Kansas                                                                               NSA  Monthly    06-Dec-2022  
-EXPNONKY                                Exports of Goods: Non-Manufactured Commodities for Kentucky                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONLA                                Exports of Goods: Non-Manufactured Commodities for Louisiana                                                                            NSA  Monthly    06-Dec-2022  
-EXPNONMA                                Exports of Goods: Non-Manufactured Commodities for Massachusetts                                                                        NSA  Monthly    06-Dec-2022  
-EXPNONMD                                Exports of Goods: Non-Manufactured Commodities for Maryland                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONME                                Exports of Goods: Non-Manufactured Commodities for Maine                                                                                NSA  Monthly    06-Dec-2022  
-EXPNONMI                                Exports of Goods: Non-Manufactured Commodities for Michigan                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONMN                                Exports of Goods: Non-Manufactured Commodities for Minnesota                                                                            NSA  Monthly    06-Dec-2022  
-EXPNONMO                                Exports of Goods: Non-Manufactured Commodities for Missouri                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONMS                                Exports of Goods: Non-Manufactured Commodities for Mississippi                                                                          NSA  Monthly    06-Dec-2022  
-EXPNONMT                                Exports of Goods: Non-Manufactured Commodities for Montana                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONNC                                Exports of Goods: Non-Manufactured Commodities for North Carolina                                                                       NSA  Monthly    06-Dec-2022  
-EXPNONND                                Exports of Goods: Non-Manufactured Commodities for North Dakota                                                                         NSA  Monthly    06-Dec-2022  
-EXPNONNE                                Exports of Goods: Non-Manufactured Commodities for Nebraska                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONNH                                Exports of Goods: Non-Manufactured Commodities for New Hampshire                                                                        NSA  Monthly    06-Dec-2022  
-EXPNONNJ                                Exports of Goods: Non-Manufactured Commodities for New Jersey                                                                           NSA  Monthly    06-Dec-2022  
-EXPNONNM                                Exports of Goods: Non-Manufactured Commodities for New Mexico                                                                           NSA  Monthly    06-Dec-2022  
-EXPNONNV                                Exports of Goods: Non-Manufactured Commodities for Nevada                                                                               NSA  Monthly    06-Dec-2022  
-EXPNONNY                                Exports of Goods: Non-Manufactured Commodities for New York                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONOH                                Exports of Goods: Non-Manufactured Commodities for Ohio                                                                                 NSA  Monthly    06-Dec-2022  
-EXPNONOK                                Exports of Goods: Non-Manufactured Commodities for Oklahoma                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONOR                                Exports of Goods: Non-Manufactured Commodities for Oregon                                                                               NSA  Monthly    06-Dec-2022  
-EXPNONPA                                Exports of Goods: Non-Manufactured Commodities for Pennsylvania                                                                         NSA  Monthly    06-Dec-2022  
-EXPNONPR                                Exports of Goods: Non-Manufactured Commodities for Puerto Rico                                                                          NSA  Monthly    06-Dec-2022  
-EXPNONRI                                Exports of Goods: Non-Manufactured Commodities for Rhode Island                                                                         NSA  Monthly    06-Dec-2022  
-EXPNONSC                                Exports of Goods: Non-Manufactured Commodities for South Carolina                                                                       NSA  Monthly    06-Dec-2022  
-EXPNONSD                                Exports of Goods: Non-Manufactured Commodities for South Dakota                                                                         NSA  Monthly    06-Dec-2022  
-EXPNONTN                                Exports of Goods: Non-Manufactured Commodities for Tennessee                                                                            NSA  Monthly    06-Dec-2022  
-EXPNONTX                                Exports of Goods: Non-Manufactured Commodities for Texas                                                                                NSA  Monthly    06-Dec-2022  
-EXPNONUS                                Exports of Goods: Non-Manufactured Commodities for United States                                                                        NSA  Monthly    06-Dec-2022  
-EXPNONUT                                Exports of Goods: Non-Manufactured Commodities for Utah                                                                                 NSA  Monthly    06-Dec-2022  
-EXPNONVA                                Exports of Goods: Non-Manufactured Commodities for Virginia                                                                             NSA  Monthly    06-Dec-2022  
-EXPNONVI                                Exports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                                                                  NSA  Monthly    06-Dec-2022  
-EXPNONVT                                Exports of Goods: Non-Manufactured Commodities for Vermont                                                                              NSA  Monthly    06-Dec-2022  
-EXPNONWA                                Exports of Goods: Non-Manufactured Commodities for Washington                                                                           NSA  Monthly    06-Dec-2022  
-EXPNONWI                                Exports of Goods: Non-Manufactured Commodities for Wisconsin                                                                            NSA  Monthly    06-Dec-2022  
-EXPNONWV                                Exports of Goods: Non-Manufactured Commodities for West Virginia                                                                        NSA  Monthly    06-Dec-2022  
-EXPNONWY                                Exports of Goods: Non-Manufactured Commodities for Wyoming                                                                              NSA  Monthly    06-Dec-2022  
-EXPTOTAK                                Exports of Goods for Alaska                                                                                                             NSA  Monthly    06-Dec-2022  
-EXPTOTAL                                Exports of Goods for Alabama                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTAR                                Exports of Goods for Arkansas                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTAZ                                Exports of Goods for Arizona                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTCA                                Exports of Goods for California                                                                                                         NSA  Monthly    06-Dec-2022  
-EXPTOTCO                                Exports of Goods for Colorado                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTCT                                Exports of Goods for Connecticut                                                                                                        NSA  Monthly    06-Dec-2022  
-EXPTOTDC                                Exports of Goods for District of Columbia                                                                                               NSA  Monthly    06-Dec-2022  
-EXPTOTDE                                Exports of Goods for Delaware                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTFL                                Exports of Goods for Florida                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTGA                                Exports of Goods for Georgia                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTHI                                Exports of Goods for Hawaii                                                                                                             NSA  Monthly    06-Dec-2022  
-EXPTOTIA                                Exports of Goods for Iowa                                                                                                               NSA  Monthly    06-Dec-2022  
-EXPTOTID                                Exports of Goods for Idaho                                                                                                              NSA  Monthly    06-Dec-2022  
-EXPTOTIL                                Exports of Goods for Illinois                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTIN                                Exports of Goods for Indiana                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTKS                                Exports of Goods for Kansas                                                                                                             NSA  Monthly    06-Dec-2022  
-EXPTOTKY                                Exports of Goods for Kentucky                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTLA                                Exports of Goods for Louisiana                                                                                                          NSA  Monthly    06-Dec-2022  
-EXPTOTMA                                Exports of Goods for Massachusetts                                                                                                      NSA  Monthly    06-Dec-2022  
-EXPTOTMD                                Exports of Goods for Maryland                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTME                                Exports of Goods for Maine                                                                                                              NSA  Monthly    06-Dec-2022  
-EXPTOTMI                                Exports of Goods for Michigan                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTMN                                Exports of Goods for Minnesota                                                                                                          NSA  Monthly    06-Dec-2022  
-EXPTOTMO                                Exports of Goods for Missouri                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTMS                                Exports of Goods for Mississippi                                                                                                        NSA  Monthly    06-Dec-2022  
-EXPTOTMT                                Exports of Goods for Montana                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTNC                                Exports of Goods for North Carolina                                                                                                     NSA  Monthly    06-Dec-2022  
-EXPTOTND                                Exports of Goods for North Dakota                                                                                                       NSA  Monthly    06-Dec-2022  
-EXPTOTNE                                Exports of Goods for Nebraska                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTNH                                Exports of Goods for New Hampshire                                                                                                      NSA  Monthly    06-Dec-2022  
-EXPTOTNJ                                Exports of Goods for New Jersey                                                                                                         NSA  Monthly    06-Dec-2022  
-EXPTOTNM                                Exports of Goods for New Mexico                                                                                                         NSA  Monthly    06-Dec-2022  
-EXPTOTNV                                Exports of Goods for Nevada                                                                                                             NSA  Monthly    06-Dec-2022  
-EXPTOTNY                                Exports of Goods for New York                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTOH                                Exports of Goods for Ohio                                                                                                               NSA  Monthly    06-Dec-2022  
-EXPTOTOK                                Exports of Goods for Oklahoma                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTOR                                Exports of Goods for Oregon                                                                                                             NSA  Monthly    06-Dec-2022  
-EXPTOTPA                                Exports of Goods for Pennsylvania                                                                                                       NSA  Monthly    06-Dec-2022  
-EXPTOTPR                                Exports of Goods for Puerto Rico                                                                                                        NSA  Monthly    06-Dec-2022  
-EXPTOTRI                                Exports of Goods for Rhode Island                                                                                                       NSA  Monthly    06-Dec-2022  
-EXPTOTSC                                Exports of Goods for South Carolina                                                                                                     NSA  Monthly    06-Dec-2022  
-EXPTOTSD                                Exports of Goods for South Dakota                                                                                                       NSA  Monthly    06-Dec-2022  
-EXPTOTTN                                Exports of Goods for Tennessee                                                                                                          NSA  Monthly    06-Dec-2022  
-EXPTOTTX                                Exports of Goods for Texas                                                                                                              NSA  Monthly    06-Dec-2022  
-EXPTOTUS                                Exports of Goods for United States                                                                                                      NSA  Monthly    06-Dec-2022  
-EXPTOTUT                                Exports of Goods for Utah                                                                                                               NSA  Monthly    06-Dec-2022  
-EXPTOTVA                                Exports of Goods for Virginia                                                                                                           NSA  Monthly    06-Dec-2022  
-EXPTOTVI                                Exports of Goods for U.S. Virgin Islands                                                                                                NSA  Monthly    06-Dec-2022  
-EXPTOTVT                                Exports of Goods for Vermont                                                                                                            NSA  Monthly    06-Dec-2022  
-EXPTOTWA                                Exports of Goods for Washington                                                                                                         NSA  Monthly    06-Dec-2022  
-EXPTOTWI                                Exports of Goods for Wisconsin                                                                                                          NSA  Monthly    06-Dec-2022  
-EXPTOTWV                                Exports of Goods for West Virginia                                                                                                      NSA  Monthly    06-Dec-2022  
-EXPTOTWY                                Exports of Goods for Wyoming                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPMANAK                                Imports of Goods: Manufactured Commodities for Alaska                                                                                   NSA  Monthly    06-Dec-2022  
-IMPMANAL                                Imports of Goods: Manufactured Commodities for Alabama                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANAR                                Imports of Goods: Manufactured Commodities for Arkansas                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANAZ                                Imports of Goods: Manufactured Commodities for Arizona                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANCA                                Imports of Goods: Manufactured Commodities for California                                                                               NSA  Monthly    06-Dec-2022  
-IMPMANCO                                Imports of Goods: Manufactured Commodities for Colorado                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANCT                                Imports of Goods: Manufactured Commodities for Connecticut                                                                              NSA  Monthly    06-Dec-2022  
-IMPMANDC                                Imports of Goods: Manufactured Commodities for District of Columbia                                                                     NSA  Monthly    06-Dec-2022  
-IMPMANDE                                Imports of Goods: Manufactured Commodities for Delaware                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANFL                                Imports of Goods: Manufactured Commodities for Florida                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANGA                                Imports of Goods: Manufactured Commodities for Georgia                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANHI                                Imports of Goods: Manufactured Commodities for Hawaii                                                                                   NSA  Monthly    06-Dec-2022  
-IMPMANIA                                Imports of Goods: Manufactured Commodities for Iowa                                                                                     NSA  Monthly    06-Dec-2022  
-IMPMANID                                Imports of Goods: Manufactured Commodities for Idaho                                                                                    NSA  Monthly    06-Dec-2022  
-IMPMANIL                                Imports of Goods: Manufactured Commodities for Illinois                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANIN                                Imports of Goods: Manufactured Commodities for Indiana                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANKS                                Imports of Goods: Manufactured Commodities for Kansas                                                                                   NSA  Monthly    06-Dec-2022  
-IMPMANKY                                Imports of Goods: Manufactured Commodities for Kentucky                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANLA                                Imports of Goods: Manufactured Commodities for Louisiana                                                                                NSA  Monthly    06-Dec-2022  
-IMPMANMA                                Imports of Goods: Manufactured Commodities for Massachusetts                                                                            NSA  Monthly    06-Dec-2022  
-IMPMANMD                                Imports of Goods: Manufactured Commodities for Maryland                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANME                                Imports of Goods: Manufactured Commodities for Maine                                                                                    NSA  Monthly    06-Dec-2022  
-IMPMANMI                                Imports of Goods: Manufactured Commodities for Michigan                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANMN                                Imports of Goods: Manufactured Commodities for Minnesota                                                                                NSA  Monthly    06-Dec-2022  
-IMPMANMO                                Imports of Goods: Manufactured Commodities for Missouri                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANMS                                Imports of Goods: Manufactured Commodities for Mississippi                                                                              NSA  Monthly    06-Dec-2022  
-IMPMANMT                                Imports of Goods: Manufactured Commodities for Montana                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANNC                                Imports of Goods: Manufactured Commodities for North Carolina                                                                           NSA  Monthly    06-Dec-2022  
-IMPMANND                                Imports of Goods: Manufactured Commodities for North Dakota                                                                             NSA  Monthly    06-Dec-2022  
-IMPMANNE                                Imports of Goods: Manufactured Commodities for Nebraska                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANNH                                Imports of Goods: Manufactured Commodities for New Hampshire                                                                            NSA  Monthly    06-Dec-2022  
-IMPMANNJ                                Imports of Goods: Manufactured Commodities for New Jersey                                                                               NSA  Monthly    06-Dec-2022  
-IMPMANNM                                Imports of Goods: Manufactured Commodities for New Mexico                                                                               NSA  Monthly    06-Dec-2022  
-IMPMANNV                                Imports of Goods: Manufactured Commodities for Nevada                                                                                   NSA  Monthly    06-Dec-2022  
-IMPMANNY                                Imports of Goods: Manufactured Commodities for New York                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANOH                                Imports of Goods: Manufactured Commodities for Ohio                                                                                     NSA  Monthly    06-Dec-2022  
-IMPMANOK                                Imports of Goods: Manufactured Commodities for Oklahoma                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANOR                                Imports of Goods: Manufactured Commodities for Oregon                                                                                   NSA  Monthly    06-Dec-2022  
-IMPMANPA                                Imports of Goods: Manufactured Commodities for Pennsylvania                                                                             NSA  Monthly    06-Dec-2022  
-IMPMANPR                                Imports of Goods: Manufactured Commodities for Puerto Rico                                                                              NSA  Monthly    06-Dec-2022  
-IMPMANRI                                Imports of Goods: Manufactured Commodities for Rhode Island                                                                             NSA  Monthly    06-Dec-2022  
-IMPMANSC                                Imports of Goods: Manufactured Commodities for South Carolina                                                                           NSA  Monthly    06-Dec-2022  
-IMPMANSD                                Imports of Goods: Manufactured Commodities for South Dakota                                                                             NSA  Monthly    06-Dec-2022  
-IMPMANTN                                Imports of Goods: Manufactured Commodities for Tennessee                                                                                NSA  Monthly    06-Dec-2022  
-IMPMANTX                                Imports of Goods: Manufactured Commodities for Texas                                                                                    NSA  Monthly    06-Dec-2022  
-IMPMANUS                                Imports of Goods: Manufactured Commodities for United States                                                                            NSA  Monthly    06-Dec-2022  
-IMPMANUT                                Imports of Goods: Manufactured Commodities for Utah                                                                                     NSA  Monthly    06-Dec-2022  
-IMPMANVA                                Imports of Goods: Manufactured Commodities for Virginia                                                                                 NSA  Monthly    06-Dec-2022  
-IMPMANVI                                Imports of Goods: Manufactured Commodities for U.S. Virgin Islands                                                                      NSA  Monthly    06-Dec-2022  
-IMPMANVT                                Imports of Goods: Manufactured Commodities for Vermont                                                                                  NSA  Monthly    06-Dec-2022  
-IMPMANWA                                Imports of Goods: Manufactured Commodities for Washington                                                                               NSA  Monthly    06-Dec-2022  
-IMPMANWI                                Imports of Goods: Manufactured Commodities for Wisconsin                                                                                NSA  Monthly    06-Dec-2022  
-IMPMANWV                                Imports of Goods: Manufactured Commodities for West Virginia                                                                            NSA  Monthly    06-Dec-2022  
-IMPMANWY                                Imports of Goods: Manufactured Commodities for Wyoming                                                                                  NSA  Monthly    06-Dec-2022  
-IMPNONAK                                Imports of Goods: Non-Manufactured Commodities for Alaska                                                                               NSA  Monthly    06-Dec-2022  
-IMPNONAL                                Imports of Goods: Non-Manufactured Commodities for Alabama                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONAR                                Imports of Goods: Non-Manufactured Commodities for Arkansas                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONAZ                                Imports of Goods: Non-Manufactured Commodities for Arizona                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONCA                                Imports of Goods: Non-Manufactured Commodities for California                                                                           NSA  Monthly    06-Dec-2022  
-IMPNONCO                                Imports of Goods: Non-Manufactured Commodities for Colorado                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONCT                                Imports of Goods: Non-Manufactured Commodities for Connecticut                                                                          NSA  Monthly    06-Dec-2022  
-IMPNONDC                                Imports of Goods: Non-Manufactured Commodities for District of Columbia                                                                 NSA  Monthly    06-Dec-2022  
-IMPNONDE                                Imports of Goods: Non-Manufactured Commodities for Delaware                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONFL                                Imports of Goods: Non-Manufactured Commodities for Florida                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONGA                                Imports of Goods: Non-Manufactured Commodities for Georgia                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONHI                                Imports of Goods: Non-Manufactured Commodities for Hawaii                                                                               NSA  Monthly    06-Dec-2022  
-IMPNONIA                                Imports of Goods: Non-Manufactured Commodities for Iowa                                                                                 NSA  Monthly    06-Dec-2022  
-IMPNONID                                Imports of Goods: Non-Manufactured Commodities for Idaho                                                                                NSA  Monthly    06-Dec-2022  
-IMPNONIL                                Imports of Goods: Non-Manufactured Commodities for Illinois                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONIN                                Imports of Goods: Non-Manufactured Commodities for Indiana                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONKS                                Imports of Goods: Non-Manufactured Commodities for Kansas                                                                               NSA  Monthly    06-Dec-2022  
-IMPNONKY                                Imports of Goods: Non-Manufactured Commodities for Kentucky                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONLA                                Imports of Goods: Non-Manufactured Commodities for Louisiana                                                                            NSA  Monthly    06-Dec-2022  
-IMPNONMA                                Imports of Goods: Non-Manufactured Commodities for Massachusetts                                                                        NSA  Monthly    06-Dec-2022  
-IMPNONMD                                Imports of Goods: Non-Manufactured Commodities for Maryland                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONME                                Imports of Goods: Non-Manufactured Commodities for Maine                                                                                NSA  Monthly    06-Dec-2022  
-IMPNONMI                                Imports of Goods: Non-Manufactured Commodities for Michigan                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONMN                                Imports of Goods: Non-Manufactured Commodities for Minnesota                                                                            NSA  Monthly    06-Dec-2022  
-IMPNONMO                                Imports of Goods: Non-Manufactured Commodities for Missouri                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONMS                                Imports of Goods: Non-Manufactured Commodities for Mississippi                                                                          NSA  Monthly    06-Dec-2022  
-IMPNONMT                                Imports of Goods: Non-Manufactured Commodities for Montana                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONNC                                Imports of Goods: Non-Manufactured Commodities for North Carolina                                                                       NSA  Monthly    06-Dec-2022  
-IMPNONND                                Imports of Goods: Non-Manufactured Commodities for North Dakota                                                                         NSA  Monthly    06-Dec-2022  
-IMPNONNE                                Imports of Goods: Non-Manufactured Commodities for Nebraska                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONNH                                Imports of Goods: Non-Manufactured Commodities for New Hampshire                                                                        NSA  Monthly    06-Dec-2022  
-IMPNONNJ                                Imports of Goods: Non-Manufactured Commodities for New Jersey                                                                           NSA  Monthly    06-Dec-2022  
-IMPNONNM                                Imports of Goods: Non-Manufactured Commodities for New Mexico                                                                           NSA  Monthly    06-Dec-2022  
-IMPNONNV                                Imports of Goods: Non-Manufactured Commodities for Nevada                                                                               NSA  Monthly    06-Dec-2022  
-IMPNONNY                                Imports of Goods: Non-Manufactured Commodities for New York                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONOH                                Imports of Goods: Non-Manufactured Commodities for Ohio                                                                                 NSA  Monthly    06-Dec-2022  
-IMPNONOK                                Imports of Goods: Non-Manufactured Commodities for Oklahoma                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONOR                                Imports of Goods: Non-Manufactured Commodities for Oregon                                                                               NSA  Monthly    06-Dec-2022  
-IMPNONPA                                Imports of Goods: Non-Manufactured Commodities for Pennsylvania                                                                         NSA  Monthly    06-Dec-2022  
-IMPNONPR                                Imports of Goods: Non-Manufactured Commodities for Puerto Rico                                                                          NSA  Monthly    06-Dec-2022  
-IMPNONRI                                Imports of Goods: Non-Manufactured Commodities for Rhode Island                                                                         NSA  Monthly    06-Dec-2022  
-IMPNONSC                                Imports of Goods: Non-Manufactured Commodities for South Carolina                                                                       NSA  Monthly    06-Dec-2022  
-IMPNONSD                                Imports of Goods: Non-Manufactured Commodities for South Dakota                                                                         NSA  Monthly    06-Dec-2022  
-IMPNONTN                                Imports of Goods: Non-Manufactured Commodities for Tennessee                                                                            NSA  Monthly    06-Dec-2022  
-IMPNONTX                                Imports of Goods: Non-Manufactured Commodities for Texas                                                                                NSA  Monthly    06-Dec-2022  
-IMPNONUS                                Imports of Goods: Non-Manufactured Commodities for United States                                                                        NSA  Monthly    06-Dec-2022  
-IMPNONUT                                Imports of Goods: Non-Manufactured Commodities for Utah                                                                                 NSA  Monthly    06-Dec-2022  
-IMPNONVA                                Imports of Goods: Non-Manufactured Commodities for Virginia                                                                             NSA  Monthly    06-Dec-2022  
-IMPNONVI                                Imports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                                                                  NSA  Monthly    06-Dec-2022  
-IMPNONVT                                Imports of Goods: Non-Manufactured Commodities for Vermont                                                                              NSA  Monthly    06-Dec-2022  
-IMPNONWA                                Imports of Goods: Non-Manufactured Commodities for Washington                                                                           NSA  Monthly    06-Dec-2022  
-IMPNONWI                                Imports of Goods: Non-Manufactured Commodities for Wisconsin                                                                            NSA  Monthly    06-Dec-2022  
-IMPNONWV                                Imports of Goods: Non-Manufactured Commodities for West Virginia                                                                        NSA  Monthly    06-Dec-2022  
-IMPNONWY                                Imports of Goods: Non-Manufactured Commodities for Wyoming                                                                              NSA  Monthly    06-Dec-2022  
-IMPTOTAK                                Imports of Goods for Alaska                                                                                                             NSA  Monthly    06-Dec-2022  
-IMPTOTAL                                Imports of Goods for Alabama                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTAR                                Imports of Goods for Arkansas                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTAZ                                Imports of Goods for Arizona                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTCA                                Imports of Goods for California                                                                                                         NSA  Monthly    06-Dec-2022  
-IMPTOTCO                                Imports of Goods for Colorado                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTCT                                Imports of Goods for Connecticut                                                                                                        NSA  Monthly    06-Dec-2022  
-IMPTOTDC                                Imports of Goods for District of Columbia                                                                                               NSA  Monthly    06-Dec-2022  
-IMPTOTDE                                Imports of Goods for Delaware                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTFL                                Imports of Goods for Florida                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTGA                                Imports of Goods for Georgia                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTHI                                Imports of Goods for Hawaii                                                                                                             NSA  Monthly    06-Dec-2022  
-IMPTOTIA                                Imports of Goods for Iowa                                                                                                               NSA  Monthly    06-Dec-2022  
-IMPTOTID                                Imports of Goods for Idaho                                                                                                              NSA  Monthly    06-Dec-2022  
-IMPTOTIL                                Imports of Goods for Illinois                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTIN                                Imports of Goods for Indiana                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTKS                                Imports of Goods for Kansas                                                                                                             NSA  Monthly    06-Dec-2022  
-IMPTOTKY                                Imports of Goods for Kentucky                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTLA                                Imports of Goods for Louisiana                                                                                                          NSA  Monthly    06-Dec-2022  
-IMPTOTMA                                Imports of Goods for Massachusetts                                                                                                      NSA  Monthly    06-Dec-2022  
-IMPTOTMD                                Imports of Goods for Maryland                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTME                                Imports of Goods for Maine                                                                                                              NSA  Monthly    06-Dec-2022  
-IMPTOTMI                                Imports of Goods for Michigan                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTMN                                Imports of Goods for Minnesota                                                                                                          NSA  Monthly    06-Dec-2022  
-IMPTOTMO                                Imports of Goods for Missouri                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTMS                                Imports of Goods for Mississippi                                                                                                        NSA  Monthly    06-Dec-2022  
-IMPTOTMT                                Imports of Goods for Montana                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTNC                                Imports of Goods for North Carolina                                                                                                     NSA  Monthly    06-Dec-2022  
-IMPTOTND                                Imports of Goods for North Dakota                                                                                                       NSA  Monthly    06-Dec-2022  
-IMPTOTNE                                Imports of Goods for Nebraska                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTNH                                Imports of Goods for New Hampshire                                                                                                      NSA  Monthly    06-Dec-2022  
-IMPTOTNJ                                Imports of Goods for New Jersey                                                                                                         NSA  Monthly    06-Dec-2022  
-IMPTOTNM                                Imports of Goods for New Mexico                                                                                                         NSA  Monthly    06-Dec-2022  
-IMPTOTNV                                Imports of Goods for Nevada                                                                                                             NSA  Monthly    06-Dec-2022  
-IMPTOTNY                                Imports of Goods for New York                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTOH                                Imports of Goods for Ohio                                                                                                               NSA  Monthly    06-Dec-2022  
-IMPTOTOK                                Imports of Goods for Oklahoma                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTOR                                Imports of Goods for Oregon                                                                                                             NSA  Monthly    06-Dec-2022  
-IMPTOTPA                                Imports of Goods for Pennsylvania                                                                                                       NSA  Monthly    06-Dec-2022  
-IMPTOTPR                                Imports of Goods for Puerto Rico                                                                                                        NSA  Monthly    06-Dec-2022  
-IMPTOTRI                                Imports of Goods for Rhode Island                                                                                                       NSA  Monthly    06-Dec-2022  
-IMPTOTSC                                Imports of Goods for South Carolina                                                                                                     NSA  Monthly    06-Dec-2022  
-IMPTOTSD                                Imports of Goods for South Dakota                                                                                                       NSA  Monthly    06-Dec-2022  
-IMPTOTTN                                Imports of Goods for Tennessee                                                                                                          NSA  Monthly    06-Dec-2022  
-IMPTOTTX                                Imports of Goods for Texas                                                                                                              NSA  Monthly    06-Dec-2022  
-IMPTOTUS                                Imports of Goods for United States                                                                                                      NSA  Monthly    06-Dec-2022  
-IMPTOTUT                                Imports of Goods for Utah                                                                                                               NSA  Monthly    06-Dec-2022  
-IMPTOTVA                                Imports of Goods for Virginia                                                                                                           NSA  Monthly    06-Dec-2022  
-IMPTOTVI                                Imports of Goods for U.S. Virgin Islands                                                                                                NSA  Monthly    06-Dec-2022  
-IMPTOTVT                                Imports of Goods for Vermont                                                                                                            NSA  Monthly    06-Dec-2022  
-IMPTOTWA                                Imports of Goods for Washington                                                                                                         NSA  Monthly    06-Dec-2022  
-IMPTOTWI                                Imports of Goods for Wisconsin                                                                                                          NSA  Monthly    06-Dec-2022  
-IMPTOTWV                                Imports of Goods for West Virginia                                                                                                      NSA  Monthly    06-Dec-2022  
-IMPTOTWY                                Imports of Goods for Wyoming                                                                                                            NSA  Monthly    06-Dec-2022  
+EXPMANAK                                Exports of Goods: Manufactured Commodities for Alaska                                                                    NSA  06-Dec-2022  Monthly
+EXPMANAL                                Exports of Goods: Manufactured Commodities for Alabama                                                                   NSA  06-Dec-2022  Monthly
+EXPMANAR                                Exports of Goods: Manufactured Commodities for Arkansas                                                                  NSA  06-Dec-2022  Monthly
+EXPMANAZ                                Exports of Goods: Manufactured Commodities for Arizona                                                                   NSA  06-Dec-2022  Monthly
+EXPMANCA                                Exports of Goods: Manufactured Commodities for California                                                                NSA  06-Dec-2022  Monthly
+EXPMANCO                                Exports of Goods: Manufactured Commodities for Colorado                                                                  NSA  06-Dec-2022  Monthly
+EXPMANCT                                Exports of Goods: Manufactured Commodities for Connecticut                                                               NSA  06-Dec-2022  Monthly
+EXPMANDC                                Exports of Goods: Manufactured Commodities for District of Columbia                                                      NSA  06-Dec-2022  Monthly
+EXPMANDE                                Exports of Goods: Manufactured Commodities for Delaware                                                                  NSA  06-Dec-2022  Monthly
+EXPMANFL                                Exports of Goods: Manufactured Commodities for Florida                                                                   NSA  06-Dec-2022  Monthly
+EXPMANGA                                Exports of Goods: Manufactured Commodities for Georgia                                                                   NSA  06-Dec-2022  Monthly
+EXPMANHI                                Exports of Goods: Manufactured Commodities for Hawaii                                                                    NSA  06-Dec-2022  Monthly
+EXPMANIA                                Exports of Goods: Manufactured Commodities for Iowa                                                                      NSA  06-Dec-2022  Monthly
+EXPMANID                                Exports of Goods: Manufactured Commodities for Idaho                                                                     NSA  06-Dec-2022  Monthly
+EXPMANIL                                Exports of Goods: Manufactured Commodities for Illinois                                                                  NSA  06-Dec-2022  Monthly
+EXPMANIN                                Exports of Goods: Manufactured Commodities for Indiana                                                                   NSA  06-Dec-2022  Monthly
+EXPMANKS                                Exports of Goods: Manufactured Commodities for Kansas                                                                    NSA  06-Dec-2022  Monthly
+EXPMANKY                                Exports of Goods: Manufactured Commodities for Kentucky                                                                  NSA  06-Dec-2022  Monthly
+EXPMANLA                                Exports of Goods: Manufactured Commodities for Louisiana                                                                 NSA  06-Dec-2022  Monthly
+EXPMANMA                                Exports of Goods: Manufactured Commodities for Massachusetts                                                             NSA  06-Dec-2022  Monthly
+EXPMANMD                                Exports of Goods: Manufactured Commodities for Maryland                                                                  NSA  06-Dec-2022  Monthly
+EXPMANME                                Exports of Goods: Manufactured Commodities for Maine                                                                     NSA  06-Dec-2022  Monthly
+EXPMANMI                                Exports of Goods: Manufactured Commodities for Michigan                                                                  NSA  06-Dec-2022  Monthly
+EXPMANMN                                Exports of Goods: Manufactured Commodities for Minnesota                                                                 NSA  06-Dec-2022  Monthly
+EXPMANMO                                Exports of Goods: Manufactured Commodities for Missouri                                                                  NSA  06-Dec-2022  Monthly
+EXPMANMS                                Exports of Goods: Manufactured Commodities for Mississippi                                                               NSA  06-Dec-2022  Monthly
+EXPMANMT                                Exports of Goods: Manufactured Commodities for Montana                                                                   NSA  06-Dec-2022  Monthly
+EXPMANNC                                Exports of Goods: Manufactured Commodities for North Carolina                                                            NSA  06-Dec-2022  Monthly
+EXPMANND                                Exports of Goods: Manufactured Commodities for North Dakota                                                              NSA  06-Dec-2022  Monthly
+EXPMANNE                                Exports of Goods: Manufactured Commodities for Nebraska                                                                  NSA  06-Dec-2022  Monthly
+EXPMANNH                                Exports of Goods: Manufactured Commodities for New Hampshire                                                             NSA  06-Dec-2022  Monthly
+EXPMANNJ                                Exports of Goods: Manufactured Commodities for New Jersey                                                                NSA  06-Dec-2022  Monthly
+EXPMANNM                                Exports of Goods: Manufactured Commodities for New Mexico                                                                NSA  06-Dec-2022  Monthly
+EXPMANNV                                Exports of Goods: Manufactured Commodities for Nevada                                                                    NSA  06-Dec-2022  Monthly
+EXPMANNY                                Exports of Goods: Manufactured Commodities for New York                                                                  NSA  06-Dec-2022  Monthly
+EXPMANOH                                Exports of Goods: Manufactured Commodities for Ohio                                                                      NSA  06-Dec-2022  Monthly
+EXPMANOK                                Exports of Goods: Manufactured Commodities for Oklahoma                                                                  NSA  06-Dec-2022  Monthly
+EXPMANOR                                Exports of Goods: Manufactured Commodities for Oregon                                                                    NSA  06-Dec-2022  Monthly
+EXPMANPA                                Exports of Goods: Manufactured Commodities for Pennsylvania                                                              NSA  06-Dec-2022  Monthly
+EXPMANPR                                Exports of Goods: Manufactured Commodities for Puerto Rico                                                               NSA  06-Dec-2022  Monthly
+EXPMANRI                                Exports of Goods: Manufactured Commodities for Rhode Island                                                              NSA  06-Dec-2022  Monthly
+EXPMANSC                                Exports of Goods: Manufactured Commodities for South Carolina                                                            NSA  06-Dec-2022  Monthly
+EXPMANSD                                Exports of Goods: Manufactured Commodities for South Dakota                                                              NSA  06-Dec-2022  Monthly
+EXPMANTN                                Exports of Goods: Manufactured Commodities for Tennessee                                                                 NSA  06-Dec-2022  Monthly
+EXPMANTX                                Exports of Goods: Manufactured Commodities for Texas                                                                     NSA  06-Dec-2022  Monthly
+EXPMANUS                                Exports of Goods: Manufactured Commodities for United States                                                             NSA  06-Dec-2022  Monthly
+EXPMANUT                                Exports of Goods: Manufactured Commodities for Utah                                                                      NSA  06-Dec-2022  Monthly
+EXPMANVA                                Exports of Goods: Manufactured Commodities for Virginia                                                                  NSA  06-Dec-2022  Monthly
+EXPMANVI                                Exports of Goods: Manufactured Commodities for U.S. Virgin Islands                                                       NSA  06-Dec-2022  Monthly
+EXPMANVT                                Exports of Goods: Manufactured Commodities for Vermont                                                                   NSA  06-Dec-2022  Monthly
+EXPMANWA                                Exports of Goods: Manufactured Commodities for Washington                                                                NSA  06-Dec-2022  Monthly
+EXPMANWI                                Exports of Goods: Manufactured Commodities for Wisconsin                                                                 NSA  06-Dec-2022  Monthly
+EXPMANWV                                Exports of Goods: Manufactured Commodities for West Virginia                                                             NSA  06-Dec-2022  Monthly
+EXPMANWY                                Exports of Goods: Manufactured Commodities for Wyoming                                                                   NSA  06-Dec-2022  Monthly
+EXPNONAK                                Exports of Goods: Non-Manufactured Commodities for Alaska                                                                NSA  06-Dec-2022  Monthly
+EXPNONAL                                Exports of Goods: Non-Manufactured Commodities for Alabama                                                               NSA  06-Dec-2022  Monthly
+EXPNONAR                                Exports of Goods: Non-Manufactured Commodities for Arkansas                                                              NSA  06-Dec-2022  Monthly
+EXPNONAZ                                Exports of Goods: Non-Manufactured Commodities for Arizona                                                               NSA  06-Dec-2022  Monthly
+EXPNONCA                                Exports of Goods: Non-Manufactured Commodities for California                                                            NSA  06-Dec-2022  Monthly
+EXPNONCO                                Exports of Goods: Non-Manufactured Commodities for Colorado                                                              NSA  06-Dec-2022  Monthly
+EXPNONCT                                Exports of Goods: Non-Manufactured Commodities for Connecticut                                                           NSA  06-Dec-2022  Monthly
+EXPNONDC                                Exports of Goods: Non-Manufactured Commodities for District of Columbia                                                  NSA  06-Dec-2022  Monthly
+EXPNONDE                                Exports of Goods: Non-Manufactured Commodities for Delaware                                                              NSA  06-Dec-2022  Monthly
+EXPNONFL                                Exports of Goods: Non-Manufactured Commodities for Florida                                                               NSA  06-Dec-2022  Monthly
+EXPNONGA                                Exports of Goods: Non-Manufactured Commodities for Georgia                                                               NSA  06-Dec-2022  Monthly
+EXPNONHI                                Exports of Goods: Non-Manufactured Commodities for Hawaii                                                                NSA  06-Dec-2022  Monthly
+EXPNONIA                                Exports of Goods: Non-Manufactured Commodities for Iowa                                                                  NSA  06-Dec-2022  Monthly
+EXPNONID                                Exports of Goods: Non-Manufactured Commodities for Idaho                                                                 NSA  06-Dec-2022  Monthly
+EXPNONIL                                Exports of Goods: Non-Manufactured Commodities for Illinois                                                              NSA  06-Dec-2022  Monthly
+EXPNONIN                                Exports of Goods: Non-Manufactured Commodities for Indiana                                                               NSA  06-Dec-2022  Monthly
+EXPNONKS                                Exports of Goods: Non-Manufactured Commodities for Kansas                                                                NSA  06-Dec-2022  Monthly
+EXPNONKY                                Exports of Goods: Non-Manufactured Commodities for Kentucky                                                              NSA  06-Dec-2022  Monthly
+EXPNONLA                                Exports of Goods: Non-Manufactured Commodities for Louisiana                                                             NSA  06-Dec-2022  Monthly
+EXPNONMA                                Exports of Goods: Non-Manufactured Commodities for Massachusetts                                                         NSA  06-Dec-2022  Monthly
+EXPNONMD                                Exports of Goods: Non-Manufactured Commodities for Maryland                                                              NSA  06-Dec-2022  Monthly
+EXPNONME                                Exports of Goods: Non-Manufactured Commodities for Maine                                                                 NSA  06-Dec-2022  Monthly
+EXPNONMI                                Exports of Goods: Non-Manufactured Commodities for Michigan                                                              NSA  06-Dec-2022  Monthly
+EXPNONMN                                Exports of Goods: Non-Manufactured Commodities for Minnesota                                                             NSA  06-Dec-2022  Monthly
+EXPNONMO                                Exports of Goods: Non-Manufactured Commodities for Missouri                                                              NSA  06-Dec-2022  Monthly
+EXPNONMS                                Exports of Goods: Non-Manufactured Commodities for Mississippi                                                           NSA  06-Dec-2022  Monthly
+EXPNONMT                                Exports of Goods: Non-Manufactured Commodities for Montana                                                               NSA  06-Dec-2022  Monthly
+EXPNONNC                                Exports of Goods: Non-Manufactured Commodities for North Carolina                                                        NSA  06-Dec-2022  Monthly
+EXPNONND                                Exports of Goods: Non-Manufactured Commodities for North Dakota                                                          NSA  06-Dec-2022  Monthly
+EXPNONNE                                Exports of Goods: Non-Manufactured Commodities for Nebraska                                                              NSA  06-Dec-2022  Monthly
+EXPNONNH                                Exports of Goods: Non-Manufactured Commodities for New Hampshire                                                         NSA  06-Dec-2022  Monthly
+EXPNONNJ                                Exports of Goods: Non-Manufactured Commodities for New Jersey                                                            NSA  06-Dec-2022  Monthly
+EXPNONNM                                Exports of Goods: Non-Manufactured Commodities for New Mexico                                                            NSA  06-Dec-2022  Monthly
+EXPNONNV                                Exports of Goods: Non-Manufactured Commodities for Nevada                                                                NSA  06-Dec-2022  Monthly
+EXPNONNY                                Exports of Goods: Non-Manufactured Commodities for New York                                                              NSA  06-Dec-2022  Monthly
+EXPNONOH                                Exports of Goods: Non-Manufactured Commodities for Ohio                                                                  NSA  06-Dec-2022  Monthly
+EXPNONOK                                Exports of Goods: Non-Manufactured Commodities for Oklahoma                                                              NSA  06-Dec-2022  Monthly
+EXPNONOR                                Exports of Goods: Non-Manufactured Commodities for Oregon                                                                NSA  06-Dec-2022  Monthly
+EXPNONPA                                Exports of Goods: Non-Manufactured Commodities for Pennsylvania                                                          NSA  06-Dec-2022  Monthly
+EXPNONPR                                Exports of Goods: Non-Manufactured Commodities for Puerto Rico                                                           NSA  06-Dec-2022  Monthly
+EXPNONRI                                Exports of Goods: Non-Manufactured Commodities for Rhode Island                                                          NSA  06-Dec-2022  Monthly
+EXPNONSC                                Exports of Goods: Non-Manufactured Commodities for South Carolina                                                        NSA  06-Dec-2022  Monthly
+EXPNONSD                                Exports of Goods: Non-Manufactured Commodities for South Dakota                                                          NSA  06-Dec-2022  Monthly
+EXPNONTN                                Exports of Goods: Non-Manufactured Commodities for Tennessee                                                             NSA  06-Dec-2022  Monthly
+EXPNONTX                                Exports of Goods: Non-Manufactured Commodities for Texas                                                                 NSA  06-Dec-2022  Monthly
+EXPNONUS                                Exports of Goods: Non-Manufactured Commodities for United States                                                         NSA  06-Dec-2022  Monthly
+EXPNONUT                                Exports of Goods: Non-Manufactured Commodities for Utah                                                                  NSA  06-Dec-2022  Monthly
+EXPNONVA                                Exports of Goods: Non-Manufactured Commodities for Virginia                                                              NSA  06-Dec-2022  Monthly
+EXPNONVI                                Exports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                                                   NSA  06-Dec-2022  Monthly
+EXPNONVT                                Exports of Goods: Non-Manufactured Commodities for Vermont                                                               NSA  06-Dec-2022  Monthly
+EXPNONWA                                Exports of Goods: Non-Manufactured Commodities for Washington                                                            NSA  06-Dec-2022  Monthly
+EXPNONWI                                Exports of Goods: Non-Manufactured Commodities for Wisconsin                                                             NSA  06-Dec-2022  Monthly
+EXPNONWV                                Exports of Goods: Non-Manufactured Commodities for West Virginia                                                         NSA  06-Dec-2022  Monthly
+EXPNONWY                                Exports of Goods: Non-Manufactured Commodities for Wyoming                                                               NSA  06-Dec-2022  Monthly
+EXPTOTAK                                Exports of Goods for Alaska                                                                                              NSA  06-Dec-2022  Monthly
+EXPTOTAL                                Exports of Goods for Alabama                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTAR                                Exports of Goods for Arkansas                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTAZ                                Exports of Goods for Arizona                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTCA                                Exports of Goods for California                                                                                          NSA  06-Dec-2022  Monthly
+EXPTOTCO                                Exports of Goods for Colorado                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTCT                                Exports of Goods for Connecticut                                                                                         NSA  06-Dec-2022  Monthly
+EXPTOTDC                                Exports of Goods for District of Columbia                                                                                NSA  06-Dec-2022  Monthly
+EXPTOTDE                                Exports of Goods for Delaware                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTFL                                Exports of Goods for Florida                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTGA                                Exports of Goods for Georgia                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTHI                                Exports of Goods for Hawaii                                                                                              NSA  06-Dec-2022  Monthly
+EXPTOTIA                                Exports of Goods for Iowa                                                                                                NSA  06-Dec-2022  Monthly
+EXPTOTID                                Exports of Goods for Idaho                                                                                               NSA  06-Dec-2022  Monthly
+EXPTOTIL                                Exports of Goods for Illinois                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTIN                                Exports of Goods for Indiana                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTKS                                Exports of Goods for Kansas                                                                                              NSA  06-Dec-2022  Monthly
+EXPTOTKY                                Exports of Goods for Kentucky                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTLA                                Exports of Goods for Louisiana                                                                                           NSA  06-Dec-2022  Monthly
+EXPTOTMA                                Exports of Goods for Massachusetts                                                                                       NSA  06-Dec-2022  Monthly
+EXPTOTMD                                Exports of Goods for Maryland                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTME                                Exports of Goods for Maine                                                                                               NSA  06-Dec-2022  Monthly
+EXPTOTMI                                Exports of Goods for Michigan                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTMN                                Exports of Goods for Minnesota                                                                                           NSA  06-Dec-2022  Monthly
+EXPTOTMO                                Exports of Goods for Missouri                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTMS                                Exports of Goods for Mississippi                                                                                         NSA  06-Dec-2022  Monthly
+EXPTOTMT                                Exports of Goods for Montana                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTNC                                Exports of Goods for North Carolina                                                                                      NSA  06-Dec-2022  Monthly
+EXPTOTND                                Exports of Goods for North Dakota                                                                                        NSA  06-Dec-2022  Monthly
+EXPTOTNE                                Exports of Goods for Nebraska                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTNH                                Exports of Goods for New Hampshire                                                                                       NSA  06-Dec-2022  Monthly
+EXPTOTNJ                                Exports of Goods for New Jersey                                                                                          NSA  06-Dec-2022  Monthly
+EXPTOTNM                                Exports of Goods for New Mexico                                                                                          NSA  06-Dec-2022  Monthly
+EXPTOTNV                                Exports of Goods for Nevada                                                                                              NSA  06-Dec-2022  Monthly
+EXPTOTNY                                Exports of Goods for New York                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTOH                                Exports of Goods for Ohio                                                                                                NSA  06-Dec-2022  Monthly
+EXPTOTOK                                Exports of Goods for Oklahoma                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTOR                                Exports of Goods for Oregon                                                                                              NSA  06-Dec-2022  Monthly
+EXPTOTPA                                Exports of Goods for Pennsylvania                                                                                        NSA  06-Dec-2022  Monthly
+EXPTOTPR                                Exports of Goods for Puerto Rico                                                                                         NSA  06-Dec-2022  Monthly
+EXPTOTRI                                Exports of Goods for Rhode Island                                                                                        NSA  06-Dec-2022  Monthly
+EXPTOTSC                                Exports of Goods for South Carolina                                                                                      NSA  06-Dec-2022  Monthly
+EXPTOTSD                                Exports of Goods for South Dakota                                                                                        NSA  06-Dec-2022  Monthly
+EXPTOTTN                                Exports of Goods for Tennessee                                                                                           NSA  06-Dec-2022  Monthly
+EXPTOTTX                                Exports of Goods for Texas                                                                                               NSA  06-Dec-2022  Monthly
+EXPTOTUS                                Exports of Goods for United States                                                                                       NSA  06-Dec-2022  Monthly
+EXPTOTUT                                Exports of Goods for Utah                                                                                                NSA  06-Dec-2022  Monthly
+EXPTOTVA                                Exports of Goods for Virginia                                                                                            NSA  06-Dec-2022  Monthly
+EXPTOTVI                                Exports of Goods for U.S. Virgin Islands                                                                                 NSA  06-Dec-2022  Monthly
+EXPTOTVT                                Exports of Goods for Vermont                                                                                             NSA  06-Dec-2022  Monthly
+EXPTOTWA                                Exports of Goods for Washington                                                                                          NSA  06-Dec-2022  Monthly
+EXPTOTWI                                Exports of Goods for Wisconsin                                                                                           NSA  06-Dec-2022  Monthly
+EXPTOTWV                                Exports of Goods for West Virginia                                                                                       NSA  06-Dec-2022  Monthly
+EXPTOTWY                                Exports of Goods for Wyoming                                                                                             NSA  06-Dec-2022  Monthly
+IMPMANAK                                Imports of Goods: Manufactured Commodities for Alaska                                                                    NSA  06-Dec-2022  Monthly
+IMPMANAL                                Imports of Goods: Manufactured Commodities for Alabama                                                                   NSA  06-Dec-2022  Monthly
+IMPMANAR                                Imports of Goods: Manufactured Commodities for Arkansas                                                                  NSA  06-Dec-2022  Monthly
+IMPMANAZ                                Imports of Goods: Manufactured Commodities for Arizona                                                                   NSA  06-Dec-2022  Monthly
+IMPMANCA                                Imports of Goods: Manufactured Commodities for California                                                                NSA  06-Dec-2022  Monthly
+IMPMANCO                                Imports of Goods: Manufactured Commodities for Colorado                                                                  NSA  06-Dec-2022  Monthly
+IMPMANCT                                Imports of Goods: Manufactured Commodities for Connecticut                                                               NSA  06-Dec-2022  Monthly
+IMPMANDC                                Imports of Goods: Manufactured Commodities for District of Columbia                                                      NSA  06-Dec-2022  Monthly
+IMPMANDE                                Imports of Goods: Manufactured Commodities for Delaware                                                                  NSA  06-Dec-2022  Monthly
+IMPMANFL                                Imports of Goods: Manufactured Commodities for Florida                                                                   NSA  06-Dec-2022  Monthly
+IMPMANGA                                Imports of Goods: Manufactured Commodities for Georgia                                                                   NSA  06-Dec-2022  Monthly
+IMPMANHI                                Imports of Goods: Manufactured Commodities for Hawaii                                                                    NSA  06-Dec-2022  Monthly
+IMPMANIA                                Imports of Goods: Manufactured Commodities for Iowa                                                                      NSA  06-Dec-2022  Monthly
+IMPMANID                                Imports of Goods: Manufactured Commodities for Idaho                                                                     NSA  06-Dec-2022  Monthly
+IMPMANIL                                Imports of Goods: Manufactured Commodities for Illinois                                                                  NSA  06-Dec-2022  Monthly
+IMPMANIN                                Imports of Goods: Manufactured Commodities for Indiana                                                                   NSA  06-Dec-2022  Monthly
+IMPMANKS                                Imports of Goods: Manufactured Commodities for Kansas                                                                    NSA  06-Dec-2022  Monthly
+IMPMANKY                                Imports of Goods: Manufactured Commodities for Kentucky                                                                  NSA  06-Dec-2022  Monthly
+IMPMANLA                                Imports of Goods: Manufactured Commodities for Louisiana                                                                 NSA  06-Dec-2022  Monthly
+IMPMANMA                                Imports of Goods: Manufactured Commodities for Massachusetts                                                             NSA  06-Dec-2022  Monthly
+IMPMANMD                                Imports of Goods: Manufactured Commodities for Maryland                                                                  NSA  06-Dec-2022  Monthly
+IMPMANME                                Imports of Goods: Manufactured Commodities for Maine                                                                     NSA  06-Dec-2022  Monthly
+IMPMANMI                                Imports of Goods: Manufactured Commodities for Michigan                                                                  NSA  06-Dec-2022  Monthly
+IMPMANMN                                Imports of Goods: Manufactured Commodities for Minnesota                                                                 NSA  06-Dec-2022  Monthly
+IMPMANMO                                Imports of Goods: Manufactured Commodities for Missouri                                                                  NSA  06-Dec-2022  Monthly
+IMPMANMS                                Imports of Goods: Manufactured Commodities for Mississippi                                                               NSA  06-Dec-2022  Monthly
+IMPMANMT                                Imports of Goods: Manufactured Commodities for Montana                                                                   NSA  06-Dec-2022  Monthly
+IMPMANNC                                Imports of Goods: Manufactured Commodities for North Carolina                                                            NSA  06-Dec-2022  Monthly
+IMPMANND                                Imports of Goods: Manufactured Commodities for North Dakota                                                              NSA  06-Dec-2022  Monthly
+IMPMANNE                                Imports of Goods: Manufactured Commodities for Nebraska                                                                  NSA  06-Dec-2022  Monthly
+IMPMANNH                                Imports of Goods: Manufactured Commodities for New Hampshire                                                             NSA  06-Dec-2022  Monthly
+IMPMANNJ                                Imports of Goods: Manufactured Commodities for New Jersey                                                                NSA  06-Dec-2022  Monthly
+IMPMANNM                                Imports of Goods: Manufactured Commodities for New Mexico                                                                NSA  06-Dec-2022  Monthly
+IMPMANNV                                Imports of Goods: Manufactured Commodities for Nevada                                                                    NSA  06-Dec-2022  Monthly
+IMPMANNY                                Imports of Goods: Manufactured Commodities for New York                                                                  NSA  06-Dec-2022  Monthly
+IMPMANOH                                Imports of Goods: Manufactured Commodities for Ohio                                                                      NSA  06-Dec-2022  Monthly
+IMPMANOK                                Imports of Goods: Manufactured Commodities for Oklahoma                                                                  NSA  06-Dec-2022  Monthly
+IMPMANOR                                Imports of Goods: Manufactured Commodities for Oregon                                                                    NSA  06-Dec-2022  Monthly
+IMPMANPA                                Imports of Goods: Manufactured Commodities for Pennsylvania                                                              NSA  06-Dec-2022  Monthly
+IMPMANPR                                Imports of Goods: Manufactured Commodities for Puerto Rico                                                               NSA  06-Dec-2022  Monthly
+IMPMANRI                                Imports of Goods: Manufactured Commodities for Rhode Island                                                              NSA  06-Dec-2022  Monthly
+IMPMANSC                                Imports of Goods: Manufactured Commodities for South Carolina                                                            NSA  06-Dec-2022  Monthly
+IMPMANSD                                Imports of Goods: Manufactured Commodities for South Dakota                                                              NSA  06-Dec-2022  Monthly
+IMPMANTN                                Imports of Goods: Manufactured Commodities for Tennessee                                                                 NSA  06-Dec-2022  Monthly
+IMPMANTX                                Imports of Goods: Manufactured Commodities for Texas                                                                     NSA  06-Dec-2022  Monthly
+IMPMANUS                                Imports of Goods: Manufactured Commodities for United States                                                             NSA  06-Dec-2022  Monthly
+IMPMANUT                                Imports of Goods: Manufactured Commodities for Utah                                                                      NSA  06-Dec-2022  Monthly
+IMPMANVA                                Imports of Goods: Manufactured Commodities for Virginia                                                                  NSA  06-Dec-2022  Monthly
+IMPMANVI                                Imports of Goods: Manufactured Commodities for U.S. Virgin Islands                                                       NSA  06-Dec-2022  Monthly
+IMPMANVT                                Imports of Goods: Manufactured Commodities for Vermont                                                                   NSA  06-Dec-2022  Monthly
+IMPMANWA                                Imports of Goods: Manufactured Commodities for Washington                                                                NSA  06-Dec-2022  Monthly
+IMPMANWI                                Imports of Goods: Manufactured Commodities for Wisconsin                                                                 NSA  06-Dec-2022  Monthly
+IMPMANWV                                Imports of Goods: Manufactured Commodities for West Virginia                                                             NSA  06-Dec-2022  Monthly
+IMPMANWY                                Imports of Goods: Manufactured Commodities for Wyoming                                                                   NSA  06-Dec-2022  Monthly
+IMPNONAK                                Imports of Goods: Non-Manufactured Commodities for Alaska                                                                NSA  06-Dec-2022  Monthly
+IMPNONAL                                Imports of Goods: Non-Manufactured Commodities for Alabama                                                               NSA  06-Dec-2022  Monthly
+IMPNONAR                                Imports of Goods: Non-Manufactured Commodities for Arkansas                                                              NSA  06-Dec-2022  Monthly
+IMPNONAZ                                Imports of Goods: Non-Manufactured Commodities for Arizona                                                               NSA  06-Dec-2022  Monthly
+IMPNONCA                                Imports of Goods: Non-Manufactured Commodities for California                                                            NSA  06-Dec-2022  Monthly
+IMPNONCO                                Imports of Goods: Non-Manufactured Commodities for Colorado                                                              NSA  06-Dec-2022  Monthly
+IMPNONCT                                Imports of Goods: Non-Manufactured Commodities for Connecticut                                                           NSA  06-Dec-2022  Monthly
+IMPNONDC                                Imports of Goods: Non-Manufactured Commodities for District of Columbia                                                  NSA  06-Dec-2022  Monthly
+IMPNONDE                                Imports of Goods: Non-Manufactured Commodities for Delaware                                                              NSA  06-Dec-2022  Monthly
+IMPNONFL                                Imports of Goods: Non-Manufactured Commodities for Florida                                                               NSA  06-Dec-2022  Monthly
+IMPNONGA                                Imports of Goods: Non-Manufactured Commodities for Georgia                                                               NSA  06-Dec-2022  Monthly
+IMPNONHI                                Imports of Goods: Non-Manufactured Commodities for Hawaii                                                                NSA  06-Dec-2022  Monthly
+IMPNONIA                                Imports of Goods: Non-Manufactured Commodities for Iowa                                                                  NSA  06-Dec-2022  Monthly
+IMPNONID                                Imports of Goods: Non-Manufactured Commodities for Idaho                                                                 NSA  06-Dec-2022  Monthly
+IMPNONIL                                Imports of Goods: Non-Manufactured Commodities for Illinois                                                              NSA  06-Dec-2022  Monthly
+IMPNONIN                                Imports of Goods: Non-Manufactured Commodities for Indiana                                                               NSA  06-Dec-2022  Monthly
+IMPNONKS                                Imports of Goods: Non-Manufactured Commodities for Kansas                                                                NSA  06-Dec-2022  Monthly
+IMPNONKY                                Imports of Goods: Non-Manufactured Commodities for Kentucky                                                              NSA  06-Dec-2022  Monthly
+IMPNONLA                                Imports of Goods: Non-Manufactured Commodities for Louisiana                                                             NSA  06-Dec-2022  Monthly
+IMPNONMA                                Imports of Goods: Non-Manufactured Commodities for Massachusetts                                                         NSA  06-Dec-2022  Monthly
+IMPNONMD                                Imports of Goods: Non-Manufactured Commodities for Maryland                                                              NSA  06-Dec-2022  Monthly
+IMPNONME                                Imports of Goods: Non-Manufactured Commodities for Maine                                                                 NSA  06-Dec-2022  Monthly
+IMPNONMI                                Imports of Goods: Non-Manufactured Commodities for Michigan                                                              NSA  06-Dec-2022  Monthly
+IMPNONMN                                Imports of Goods: Non-Manufactured Commodities for Minnesota                                                             NSA  06-Dec-2022  Monthly
+IMPNONMO                                Imports of Goods: Non-Manufactured Commodities for Missouri                                                              NSA  06-Dec-2022  Monthly
+IMPNONMS                                Imports of Goods: Non-Manufactured Commodities for Mississippi                                                           NSA  06-Dec-2022  Monthly
+IMPNONMT                                Imports of Goods: Non-Manufactured Commodities for Montana                                                               NSA  06-Dec-2022  Monthly
+IMPNONNC                                Imports of Goods: Non-Manufactured Commodities for North Carolina                                                        NSA  06-Dec-2022  Monthly
+IMPNONND                                Imports of Goods: Non-Manufactured Commodities for North Dakota                                                          NSA  06-Dec-2022  Monthly
+IMPNONNE                                Imports of Goods: Non-Manufactured Commodities for Nebraska                                                              NSA  06-Dec-2022  Monthly
+IMPNONNH                                Imports of Goods: Non-Manufactured Commodities for New Hampshire                                                         NSA  06-Dec-2022  Monthly
+IMPNONNJ                                Imports of Goods: Non-Manufactured Commodities for New Jersey                                                            NSA  06-Dec-2022  Monthly
+IMPNONNM                                Imports of Goods: Non-Manufactured Commodities for New Mexico                                                            NSA  06-Dec-2022  Monthly
+IMPNONNV                                Imports of Goods: Non-Manufactured Commodities for Nevada                                                                NSA  06-Dec-2022  Monthly
+IMPNONNY                                Imports of Goods: Non-Manufactured Commodities for New York                                                              NSA  06-Dec-2022  Monthly
+IMPNONOH                                Imports of Goods: Non-Manufactured Commodities for Ohio                                                                  NSA  06-Dec-2022  Monthly
+IMPNONOK                                Imports of Goods: Non-Manufactured Commodities for Oklahoma                                                              NSA  06-Dec-2022  Monthly
+IMPNONOR                                Imports of Goods: Non-Manufactured Commodities for Oregon                                                                NSA  06-Dec-2022  Monthly
+IMPNONPA                                Imports of Goods: Non-Manufactured Commodities for Pennsylvania                                                          NSA  06-Dec-2022  Monthly
+IMPNONPR                                Imports of Goods: Non-Manufactured Commodities for Puerto Rico                                                           NSA  06-Dec-2022  Monthly
+IMPNONRI                                Imports of Goods: Non-Manufactured Commodities for Rhode Island                                                          NSA  06-Dec-2022  Monthly
+IMPNONSC                                Imports of Goods: Non-Manufactured Commodities for South Carolina                                                        NSA  06-Dec-2022  Monthly
+IMPNONSD                                Imports of Goods: Non-Manufactured Commodities for South Dakota                                                          NSA  06-Dec-2022  Monthly
+IMPNONTN                                Imports of Goods: Non-Manufactured Commodities for Tennessee                                                             NSA  06-Dec-2022  Monthly
+IMPNONTX                                Imports of Goods: Non-Manufactured Commodities for Texas                                                                 NSA  06-Dec-2022  Monthly
+IMPNONUS                                Imports of Goods: Non-Manufactured Commodities for United States                                                         NSA  06-Dec-2022  Monthly
+IMPNONUT                                Imports of Goods: Non-Manufactured Commodities for Utah                                                                  NSA  06-Dec-2022  Monthly
+IMPNONVA                                Imports of Goods: Non-Manufactured Commodities for Virginia                                                              NSA  06-Dec-2022  Monthly
+IMPNONVI                                Imports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                                                   NSA  06-Dec-2022  Monthly
+IMPNONVT                                Imports of Goods: Non-Manufactured Commodities for Vermont                                                               NSA  06-Dec-2022  Monthly
+IMPNONWA                                Imports of Goods: Non-Manufactured Commodities for Washington                                                            NSA  06-Dec-2022  Monthly
+IMPNONWI                                Imports of Goods: Non-Manufactured Commodities for Wisconsin                                                             NSA  06-Dec-2022  Monthly
+IMPNONWV                                Imports of Goods: Non-Manufactured Commodities for West Virginia                                                         NSA  06-Dec-2022  Monthly
+IMPNONWY                                Imports of Goods: Non-Manufactured Commodities for Wyoming                                                               NSA  06-Dec-2022  Monthly
+IMPTOTAK                                Imports of Goods for Alaska                                                                                              NSA  06-Dec-2022  Monthly
+IMPTOTAL                                Imports of Goods for Alabama                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTAR                                Imports of Goods for Arkansas                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTAZ                                Imports of Goods for Arizona                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTCA                                Imports of Goods for California                                                                                          NSA  06-Dec-2022  Monthly
+IMPTOTCO                                Imports of Goods for Colorado                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTCT                                Imports of Goods for Connecticut                                                                                         NSA  06-Dec-2022  Monthly
+IMPTOTDC                                Imports of Goods for District of Columbia                                                                                NSA  06-Dec-2022  Monthly
+IMPTOTDE                                Imports of Goods for Delaware                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTFL                                Imports of Goods for Florida                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTGA                                Imports of Goods for Georgia                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTHI                                Imports of Goods for Hawaii                                                                                              NSA  06-Dec-2022  Monthly
+IMPTOTIA                                Imports of Goods for Iowa                                                                                                NSA  06-Dec-2022  Monthly
+IMPTOTID                                Imports of Goods for Idaho                                                                                               NSA  06-Dec-2022  Monthly
+IMPTOTIL                                Imports of Goods for Illinois                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTIN                                Imports of Goods for Indiana                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTKS                                Imports of Goods for Kansas                                                                                              NSA  06-Dec-2022  Monthly
+IMPTOTKY                                Imports of Goods for Kentucky                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTLA                                Imports of Goods for Louisiana                                                                                           NSA  06-Dec-2022  Monthly
+IMPTOTMA                                Imports of Goods for Massachusetts                                                                                       NSA  06-Dec-2022  Monthly
+IMPTOTMD                                Imports of Goods for Maryland                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTME                                Imports of Goods for Maine                                                                                               NSA  06-Dec-2022  Monthly
+IMPTOTMI                                Imports of Goods for Michigan                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTMN                                Imports of Goods for Minnesota                                                                                           NSA  06-Dec-2022  Monthly
+IMPTOTMO                                Imports of Goods for Missouri                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTMS                                Imports of Goods for Mississippi                                                                                         NSA  06-Dec-2022  Monthly
+IMPTOTMT                                Imports of Goods for Montana                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTNC                                Imports of Goods for North Carolina                                                                                      NSA  06-Dec-2022  Monthly
+IMPTOTND                                Imports of Goods for North Dakota                                                                                        NSA  06-Dec-2022  Monthly
+IMPTOTNE                                Imports of Goods for Nebraska                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTNH                                Imports of Goods for New Hampshire                                                                                       NSA  06-Dec-2022  Monthly
+IMPTOTNJ                                Imports of Goods for New Jersey                                                                                          NSA  06-Dec-2022  Monthly
+IMPTOTNM                                Imports of Goods for New Mexico                                                                                          NSA  06-Dec-2022  Monthly
+IMPTOTNV                                Imports of Goods for Nevada                                                                                              NSA  06-Dec-2022  Monthly
+IMPTOTNY                                Imports of Goods for New York                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTOH                                Imports of Goods for Ohio                                                                                                NSA  06-Dec-2022  Monthly
+IMPTOTOK                                Imports of Goods for Oklahoma                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTOR                                Imports of Goods for Oregon                                                                                              NSA  06-Dec-2022  Monthly
+IMPTOTPA                                Imports of Goods for Pennsylvania                                                                                        NSA  06-Dec-2022  Monthly
+IMPTOTPR                                Imports of Goods for Puerto Rico                                                                                         NSA  06-Dec-2022  Monthly
+IMPTOTRI                                Imports of Goods for Rhode Island                                                                                        NSA  06-Dec-2022  Monthly
+IMPTOTSC                                Imports of Goods for South Carolina                                                                                      NSA  06-Dec-2022  Monthly
+IMPTOTSD                                Imports of Goods for South Dakota                                                                                        NSA  06-Dec-2022  Monthly
+IMPTOTTN                                Imports of Goods for Tennessee                                                                                           NSA  06-Dec-2022  Monthly
+IMPTOTTX                                Imports of Goods for Texas                                                                                               NSA  06-Dec-2022  Monthly
+IMPTOTUS                                Imports of Goods for United States                                                                                       NSA  06-Dec-2022  Monthly
+IMPTOTUT                                Imports of Goods for Utah                                                                                                NSA  06-Dec-2022  Monthly
+IMPTOTVA                                Imports of Goods for Virginia                                                                                            NSA  06-Dec-2022  Monthly
+IMPTOTVI                                Imports of Goods for U.S. Virgin Islands                                                                                 NSA  06-Dec-2022  Monthly
+IMPTOTVT                                Imports of Goods for Vermont                                                                                             NSA  06-Dec-2022  Monthly
+IMPTOTWA                                Imports of Goods for Washington                                                                                          NSA  06-Dec-2022  Monthly
+IMPTOTWI                                Imports of Goods for Wisconsin                                                                                           NSA  06-Dec-2022  Monthly
+IMPTOTWV                                Imports of Goods for West Virginia                                                                                       NSA  06-Dec-2022  Monthly
+IMPTOTWY                                Imports of Goods for Wyoming                                                                                             NSA  06-Dec-2022  Monthly

@@ -1,281 +1,281 @@
 Id : 203  International Comparisons of Annual Labor Force Statistics
-AUSEAGRNA                               Adjusted Employment in Agriculture in Australia (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-AUSEIDNA                                Adjusted Employment in Industry in Australia (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-AUSEMFGNA                               Adjusted Employment in Manufacturing in Australia (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-AUSEMPNAA                               Adjusted Employment in Australia (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-AUSEPRMNA                               Employment-Population Ratio for Men in Australia (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-AUSEPRNA                                Employment-Population Ratio in Australia (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-AUSEPRWNA                               Employment-Population Ratio for Women in Australia (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-AUSESRVNA                               Adjusted Employment in Services in Australia (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-AUSLFNA                                 Adjusted Labor Force in Australia (DISCONTINUED)                                                                                        NSA  Annual     10-Jun-2013  
-AUSLFPMNA                               Labor Force Participation Rate for Men in Australia (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-AUSLFPRNA                               Labor Force Participation Rate in Australia (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-AUSLFPWNA                               Labor Force Participation Rate for Women in Australia (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-AUSLFWNA                                Women's Share of the Labor Force in Australia (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-AUSPEDANA                               Percent of Employment in Industry in Australia (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-AUSPEFANA                               Percent of Employment in Manufacturing in Australia (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-AUSPEMANA                               Percent of Employment in Agriculture in Australia (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-AUSPESANA                               Percent of Employment in Services in Australia (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-AUSUEMPNA                               Adjusted Unemployment in Australia (DISCONTINUED)                                                                                       NSA  Annual     10-Jun-2013  
-AUSUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Australia (DISCONTINUED)                                                        NSA  Annual     10-Jun-2013  
-AUSURANAA                               Adjusted Unemployment Rate for Adults in Australia (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-AUSURMNAA                               Adjusted Unemployment Rate for Men in Australia (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-AUSURNAA                                Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                                  NSA  Annual     10-Jun-2013  
-AUSURTNAA                               Adjusted Unemployment Rate for Teenagers in Australia (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-AUSURWNAA                               Adjusted Unemployment Rate for Women in Australia (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-AUSURYNAA                               Adjusted Unemployment Rate for Youth in Australia (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-AUSWFPMNA                               Working-age Population for Men in Australia (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-AUSWFPNA                                Working-age Population in Australia (DISCONTINUED)                                                                                      NSA  Annual     10-Jun-2013  
-AUSWFPWNA                               Working-age Population for Women in Australia (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-CANEAGRNA                               Adjusted Employment in Agriculture in Canada (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-CANEIDNA                                Adjusted Employment in Industry in Canada (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-CANEMFGNA                               Adjusted Employment in Manufacturing in Canada (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-CANEMPNAA                               Adjusted Employment in Canada (DISCONTINUED)                                                                                            NSA  Annual     10-Jun-2013  
-CANEPRMNA                               Employment-Population Ratio for Men in Canada (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-CANEPRNA                                Employment-Population Ratio in Canada (DISCONTINUED)                                                                                    NSA  Annual     10-Jun-2013  
-CANEPRWNA                               Employment-Population Ratio for Women in Canada (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-CANESRVNA                               Adjusted Employment in Services in Canada (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-CANLFNA                                 Adjusted Labor Force in Canada (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-CANLFPMNA                               Labor Force Participation Rate for Men in Canada (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-CANLFPRNA                               Labor Force Participation Rate in Canada (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-CANLFPWNA                               Labor Force Participation Rate for Women in Canada (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-CANLFWNA                                Women's Share of the Labor Force in Canada (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-CANPEDANA                               Percent of Employment in Industry in Canada (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-CANPEFANA                               Percent of Employment in Manufacturing in Canada (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-CANPEMANA                               Percent of Employment in Agriculture in Canada (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-CANPESANA                               Percent of Employment in Services in Canada (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-CANUEMPNA                               Adjusted Unemployment in Canada (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-CANUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Canada (DISCONTINUED)                                                           NSA  Annual     10-Jun-2013  
-CANURANAA                               Adjusted Unemployment Rate for Adults in Canada (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-CANURMNAA                               Adjusted Unemployment Rate for Men in Canada (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-CANURNAA                                Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-CANURTNAA                               Adjusted Unemployment Rate for Teenagers in Canada (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-CANURWNAA                               Adjusted Unemployment Rate for Women in Canada (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-CANURYNAA                               Adjusted Unemployment Rate for Youth in Canada (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-CANWFPMNA                               Working-age Population for Men in Canada (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-CANWFPNA                                Working-age Population in Canada (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-CANWFPWNA                               Working-age Population for Women in Canada (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-DEUEAGRNA                               Adjusted Employment in Agriculture in Germany (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-DEUEIDNA                                Adjusted Employment in Industry in Germany (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-DEUEMFGNA                               Adjusted Employment in Manufacturing in Germany (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-DEUEMPNAA                               Adjusted Employment in Germany (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-DEUEPRMNA                               Employment-Population Ratio for Men in Germany (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-DEUEPRNA                                Employment-Population Ratio in Germany (DISCONTINUED)                                                                                   NSA  Annual     10-Jun-2013  
-DEUEPRWNA                               Employment-Population Ratio for Women in Germany (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-DEUESRVNA                               Adjusted Employment in Services in Germany (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-DEULFNA                                 Adjusted Labor Force in Germany (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-DEULFPMNA                               Labor Force Participation Rate for Men in Germany (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-DEULFPRNA                               Labor Force Participation Rate in Germany (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-DEULFPWNA                               Labor Force Participation Rate for Women in Germany (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-DEULFWNA                                Women's Share of the Labor Force in Germany (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-DEUPEDANA                               Percent of Employment in Industry in Germany (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-DEUPEFANA                               Percent of Employment in Manufacturing in Germany (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-DEUPEMANA                               Percent of Employment in Agriculture in Germany (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-DEUPESANA                               Percent of Employment in Services in Germany (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-DEUUEMPNA                               Adjusted Unemployment in Germany (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-DEUUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Germany (DISCONTINUED)                                                          NSA  Annual     10-Jun-2013  
-DEUURANAA                               Adjusted Unemployment Rate for Adults in Germany (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-DEUURMNAA                               Adjusted Unemployment Rate for Men in Germany (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-DEUURNAA                                Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                                    NSA  Annual     10-Jun-2013  
-DEUURTNAA                               Adjusted Unemployment Rate for Teenagers in Germany (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-DEUURWNAA                               Adjusted Unemployment Rate for Women in Germany (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-DEUURYNAA                               Adjusted Unemployment Rate for Youth in Germany (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-DEUWFPMNA                               Working-age Population for Men in Germany (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-DEUWFPNA                                Working-age Population in Germany (DISCONTINUED)                                                                                        NSA  Annual     10-Jun-2013  
-DEUWFPWNA                               Working-age Population for Women in Germany (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-FRAEAGRNA                               Adjusted Employment in Agriculture in France (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-FRAEIDNA                                Adjusted Employment in Industry in France (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-FRAEMFGNA                               Adjusted Employment in Manufacturing in France (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-FRAEMPNAA                               Adjusted Employment in France (DISCONTINUED)                                                                                            NSA  Annual     10-Jun-2013  
-FRAEPRMNA                               Employment-Population Ratio for Men in France (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-FRAEPRNA                                Employment-Population Ratio in France (DISCONTINUED)                                                                                    NSA  Annual     10-Jun-2013  
-FRAEPRWNA                               Employment-Population Ratio for Women in France (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-FRAESRVNA                               Adjusted Employment in Services in France (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-FRALFNA                                 Adjusted Labor Force in France (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-FRALFPMNA                               Labor Force Participation Rate for Men in France (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-FRALFPRNA                               Labor Force Participation Rate in France (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-FRALFPWNA                               Labor Force Participation Rate for Women in France (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-FRALFWNA                                Women's Share of the Labor Force in France (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-FRAPEDANA                               Percent of Employment in Industry in France (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-FRAPEFANA                               Percent of Employment in Manufacturing in France (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-FRAPEMANA                               Percent of Employment in Agriculture in France (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-FRAPESANA                               Percent of Employment in Services in France (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-FRAUEMPNA                               Adjusted Unemployment in France (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-FRAUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in France (DISCONTINUED)                                                           NSA  Annual     10-Jun-2013  
-FRAURANAA                               Adjusted Unemployment Rate for Adults in France (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-FRAURMNAA                               Adjusted Unemployment Rate for Men in France (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-FRAURNAA                                Adjusted Unemployment Rate in France (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-FRAURTNAA                               Adjusted Unemployment Rate for Teenagers in France (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-FRAURWNAA                               Adjusted Unemployment Rate for Women in France (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-FRAURYNAA                               Adjusted Unemployment Rate for Youth in France (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-FRAWFPMNA                               Working-age Population for Men in France (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-FRAWFPNA                                Working-age Population in France (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-FRAWFPWNA                               Working-age Population for Women in France (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-GBREAGRNA                               Adjusted Employment in Agriculture in the United Kingdom (DISCONTINUED)                                                                 NSA  Annual     10-Jun-2013  
-GBREIDNA                                Adjusted Employment in Industry in the United Kingdom (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-GBREMFGNA                               Adjusted Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                                               NSA  Annual     10-Jun-2013  
-GBREMPNAA                               Adjusted Employment in the United Kingdom (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-GBREPRMNA                               Employment-Population Ratio for Men in the United Kingdom (DISCONTINUED)                                                                NSA  Annual     10-Jun-2013  
-GBREPRNA                                Employment-Population Ratio in the United Kingdom (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-GBREPRWNA                               Employment-Population Ratio for Women in the United Kingdom (DISCONTINUED)                                                              NSA  Annual     10-Jun-2013  
-GBRESRVNA                               Adjusted Employment in Services in the United Kingdom (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-GBRLFNA                                 Adjusted Labor Force in the United Kingdom (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-GBRLFPMNA                               Labor Force Participation Rate for Men in the United Kingdom (DISCONTINUED)                                                             NSA  Annual     10-Jun-2013  
-GBRLFPRNA                               Labor Force Participation Rate in the United Kingdom (DISCONTINUED)                                                                     NSA  Annual     10-Jun-2013  
-GBRLFPWNA                               Labor Force Participation Rate for Women in the United Kingdom (DISCONTINUED)                                                           NSA  Annual     10-Jun-2013  
-GBRLFWNA                                Women's Share of the Labor Force in the United Kingdom (DISCONTINUED)                                                                   NSA  Annual     10-Jun-2013  
-GBRPEDANA                               Percent of Employment in Industry in the United Kingdom (DISCONTINUED)                                                                  NSA  Annual     10-Jun-2013  
-GBRPEFANA                               Percent of Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                                             NSA  Annual     10-Jun-2013  
-GBRPEMANA                               Percent of Employment in Agriculture in the United Kingdom (DISCONTINUED)                                                               NSA  Annual     10-Jun-2013  
-GBRPESANA                               Percent of Employment in Services in the United Kingdom (DISCONTINUED)                                                                  NSA  Annual     10-Jun-2013  
-GBRUEMPNA                               Adjusted Unemployment in the United Kingdom (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-GBRUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in the United Kingdom (DISCONTINUED)                                               NSA  Annual     10-Jun-2013  
-GBRURANAA                               Adjusted Unemployment Rate for Adults in the United Kingdom (DISCONTINUED)                                                              NSA  Annual     10-Jun-2013  
-GBRURMNAA                               Adjusted Unemployment Rate for Men in the United Kingdom (DISCONTINUED)                                                                 NSA  Annual     10-Jun-2013  
-GBRURNAA                                Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-GBRURTNAA                               Adjusted Unemployment Rate for Teenagers in the United Kingdom (DISCONTINUED)                                                           NSA  Annual     10-Jun-2013  
-GBRURWNAA                               Adjusted Unemployment Rate for Women in the United Kingdom (DISCONTINUED)                                                               NSA  Annual     10-Jun-2013  
-GBRURYNAA                               Adjusted Unemployment Rate for Youth in the United Kingdom (DISCONTINUED)                                                               NSA  Annual     10-Jun-2013  
-GBRWFPMNA                               Working-age Population for Men in the United Kingdom (DISCONTINUED)                                                                     NSA  Annual     10-Jun-2013  
-GBRWFPNA                                Working-age Population in the United Kingdom (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-GBRWFPWNA                               Working-age Population for Women in the United Kingdom (DISCONTINUED)                                                                   NSA  Annual     10-Jun-2013  
-ITAEAGRNA                               Adjusted Employment in Agriculture in Italy (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-ITAEIDNA                                Adjusted Employment in Industry in Italy (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-ITAEMFGNA                               Adjusted Employment in Manufacturing in Italy (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-ITAEMPNAA                               Adjusted Employment in Italy (DISCONTINUED)                                                                                             NSA  Annual     10-Jun-2013  
-ITAEPRMNA                               Employment-Population Ratio for Men in Italy (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-ITAEPRNA                                Employment-Population Ratio in Italy (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-ITAEPRWNA                               Employment-Population Ratio for Women in Italy (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-ITAESRVNA                               Adjusted Employment in Services in Italy (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-ITALFNA                                 Adjusted Labor Force in Italy (DISCONTINUED)                                                                                            NSA  Annual     10-Jun-2013  
-ITALFPMNA                               Labor Force Participation Rate for Men in Italy (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-ITALFPRNA                               Labor Force Participation Rate in Italy (DISCONTINUED)                                                                                  NSA  Annual     10-Jun-2013  
-ITALFPWNA                               Labor Force Participation Rate for Women in Italy (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-ITALFWNA                                Women's Share of the Labor Force in Italy (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-ITAPEDANA                               Percent of Employment in Industry in Italy (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-ITAPEFANA                               Percent of Employment in Manufacturing in Italy (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-ITAPEMANA                               Percent of Employment in Agriculture in Italy (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-ITAPESANA                               Percent of Employment in Services in Italy (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-ITAUEMPNA                               Adjusted Unemployment in Italy (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-ITAUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Italy (DISCONTINUED)                                                            NSA  Annual     10-Jun-2013  
-ITAURANAA                               Adjusted Unemployment Rate for Adults in Italy (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-ITAURMNAA                               Adjusted Unemployment Rate for Men in Italy (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-ITAURNAA                                Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                                      NSA  Annual     10-Jun-2013  
-ITAURTNAA                               Adjusted Unemployment Rate for Teenagers in Italy (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-ITAURWNAA                               Adjusted Unemployment Rate for Women in Italy (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-ITAURYNAA                               Adjusted Unemployment Rate for Youth in Italy (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-ITAWFPMNA                               Working-age Population for Men in Italy (DISCONTINUED)                                                                                  NSA  Annual     10-Jun-2013  
-ITAWFPNA                                Working-age Population in Italy (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-ITAWFPWNA                               Working-age Population for Women in Italy (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-JPNEAGRNA                               Adjusted Employment in Agriculture in Japan (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-JPNEIDNA                                Adjusted Employment in Industry in Japan (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-JPNEMFGNA                               Adjusted Employment in Manufacturing in Japan (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-JPNEMPNAA                               Adjusted Employment in Japan (DISCONTINUED)                                                                                             NSA  Annual     10-Jun-2013  
-JPNEPRMNA                               Employment-Population Ratio for Men in Japan (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-JPNEPRNA                                Employment-Population Ratio in Japan (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-JPNEPRWNA                               Employment-Population Ratio for Women in Japan (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-JPNESRVNA                               Adjusted Employment in Services in Japan (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-JPNLFNA                                 Adjusted Labor Force in Japan (DISCONTINUED)                                                                                            NSA  Annual     10-Jun-2013  
-JPNLFPMNA                               Labor Force Participation Rate for Men in Japan (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-JPNLFPRNA                               Labor Force Participation Rate in Japan (DISCONTINUED)                                                                                  NSA  Annual     10-Jun-2013  
-JPNLFPWNA                               Labor Force Participation Rate for Women in Japan (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-JPNLFWNA                                Women's Share of the Labor Force in Japan (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-JPNPEDANA                               Percent of Employment in Industry in Japan (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-JPNPEFANA                               Percent of Employment in Manufacturing in Japan (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-JPNPEMANA                               Percent of Employment in Agriculture in Japan (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-JPNPESANA                               Percent of Employment in Services in Japan (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-JPNUEMPNA                               Adjusted Unemployment in Japan (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-JPNUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Japan (DISCONTINUED)                                                            NSA  Annual     10-Jun-2013  
-JPNURANAA                               Adjusted Unemployment Rate for Adults in Japan (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-JPNURMNAA                               Adjusted Unemployment Rate for Men in Japan (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-JPNURNAA                                Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                                      NSA  Annual     10-Jun-2013  
-JPNURTNAA                               Adjusted Unemployment Rate for Teenagers in Japan (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-JPNURWNAA                               Adjusted Unemployment Rate for Women in Japan (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-JPNURYNAA                               Adjusted Unemployment Rate for Youth in Japan (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-JPNWFPMNA                               Working-age Population for Men in Japan (DISCONTINUED)                                                                                  NSA  Annual     10-Jun-2013  
-JPNWFPNA                                Working-age Population in Japan (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-JPNWFPWNA                               Working-age Population for Women in Japan (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-NLDEAGRNA                               Adjusted Employment in Agriculture in Netherlands (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-NLDEIDNA                                Adjusted Employment in Industry in Netherlands (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-NLDEMFGNA                               Adjusted Employment in Manufacturing in Netherlands (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-NLDEMPNAA                               Adjusted Employment in Netherlands (DISCONTINUED)                                                                                       NSA  Annual     10-Jun-2013  
-NLDEPRMNA                               Employment-Population Ratio for Men in Netherlands (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-NLDEPRNA                                Employment-Population Ratio in Netherlands (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-NLDEPRWNA                               Employment-Population Ratio for Women in Netherlands (DISCONTINUED)                                                                     NSA  Annual     10-Jun-2013  
-NLDESRVNA                               Adjusted Employment in Services in Netherlands (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-NLDLFNA                                 Adjusted Labor Force in Netherlands (DISCONTINUED)                                                                                      NSA  Annual     10-Jun-2013  
-NLDLFPMNA                               Labor Force Participation Rate for Men in Netherlands (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-NLDLFPRNA                               Labor Force Participation Rate in Netherlands (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-NLDLFPWNA                               Labor Force Participation Rate for Women in Netherlands (DISCONTINUED)                                                                  NSA  Annual     10-Jun-2013  
-NLDLFWNA                                Women's Share of the Labor Force in Netherlands (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-NLDPEDANA                               Percent of Employment in Industry in Netherlands (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-NLDPEFANA                               Percent of Employment in Manufacturing in Netherlands (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-NLDPEMANA                               Percent of Employment in Agriculture in Netherlands (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-NLDPESANA                               Percent of Employment in Services in Netherlands (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-NLDUEMPNA                               Adjusted Unemployment in Netherlands (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-NLDUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Netherlands (DISCONTINUED)                                                      NSA  Annual     10-Jun-2013  
-NLDURANAA                               Adjusted Unemployment Rate for Adults in Netherlands (DISCONTINUED)                                                                     NSA  Annual     10-Jun-2013  
-NLDURMNAA                               Adjusted Unemployment Rate for Men in Netherlands (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-NLDURNAA                                Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-NLDURTNAA                               Adjusted Unemployment Rate for Teenagers in Netherlands (DISCONTINUED)                                                                  NSA  Annual     10-Jun-2013  
-NLDURWNAA                               Adjusted Unemployment Rate for Women in Netherlands (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-NLDURYNAA                               Adjusted Unemployment Rate for Youth in Netherlands (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-NLDWFPMNA                               Working-age Population for Men in Netherlands (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-NLDWFPNA                                Working-age Population in Netherlands (DISCONTINUED)                                                                                    NSA  Annual     10-Jun-2013  
-NLDWFPWNA                               Working-age Population for Women in Netherlands (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-SWEEAGRNA                               Adjusted Employment in Agriculture in Sweden (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-SWEEIDNA                                Adjusted Employment in Industry in Sweden (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-SWEEMFGNA                               Adjusted Employment in Manufacturing in Sweden (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-SWEEMPNAA                               Adjusted Employment in Sweden (DISCONTINUED)                                                                                            NSA  Annual     10-Jun-2013  
-SWEEPRMNA                               Employment-Population Ratio for Men in Sweden (DISCONTINUED)                                                                            NSA  Annual     10-Jun-2013  
-SWEEPRNA                                Employment-Population Ratio in Sweden (DISCONTINUED)                                                                                    NSA  Annual     10-Jun-2013  
-SWEEPRWNA                               Employment-Population Ratio for Women in Sweden (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-SWEESRVNA                               Adjusted Employment in Services in Sweden (DISCONTINUED)                                                                                NSA  Annual     10-Jun-2013  
-SWELFNA                                 Adjusted Labor Force in Sweden (DISCONTINUED)                                                                                           NSA  Annual     10-Jun-2013  
-SWELFPMNA                               Labor Force Participation Rate for Men in Sweden (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-SWELFPRNA                               Labor Force Participation Rate in Sweden (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-SWELFPWNA                               Labor Force Participation Rate for Women in Sweden (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-SWELFWNA                                Women's Share of the Labor Force in Sweden (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-SWEPEDANA                               Percent of Employment in Industry in Sweden (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-SWEPEFANA                               Percent of Employment in Manufacturing in Sweden (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-SWEPEMANA                               Percent of Employment in Agriculture in Sweden (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-SWEPESANA                               Percent of Employment in Services in Sweden (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-SWEUEMPNA                               Adjusted Unemployment in Sweden (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-SWEUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Sweden (DISCONTINUED)                                                           NSA  Annual     10-Jun-2013  
-SWEURANAA                               Adjusted Unemployment Rate for Adults in Sweden (DISCONTINUED)                                                                          NSA  Annual     10-Jun-2013  
-SWEURMNAA                               Adjusted Unemployment Rate for Men in Sweden (DISCONTINUED)                                                                             NSA  Annual     10-Jun-2013  
-SWEURNAA                                Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                                     NSA  Annual     10-Jun-2013  
-SWEURTNAA                               Adjusted Unemployment Rate for Teenagers in Sweden (DISCONTINUED)                                                                       NSA  Annual     10-Jun-2013  
-SWEURWNAA                               Adjusted Unemployment Rate for Women in Sweden (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-SWEURYNAA                               Adjusted Unemployment Rate for Youth in Sweden (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-SWEWFPMNA                               Working-age Population for Men in Sweden (DISCONTINUED)                                                                                 NSA  Annual     10-Jun-2013  
-SWEWFPNA                                Working-age Population in Sweden (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-SWEWFPWNA                               Working-age Population for Women in Sweden (DISCONTINUED)                                                                               NSA  Annual     10-Jun-2013  
-USAEAGRNA                               Employment in Agriculture in the United States (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-USAEIDNA                                Employment in Industry in the United States (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-USAEMFGNA                               Employment in Manufacturing in the United States (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-USAEMPNAA                               Employment in the United States (DISCONTINUED)                                                                                          NSA  Annual     10-Jun-2013  
-USAEPRMNA                               Employment-Population Ratio for Men in the United States (DISCONTINUED)                                                                 NSA  Annual     10-Jun-2013  
-USAEPRNA                                Employment-Population Ratio in the United States (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-USAEPRWNA                               Employment-Population Ratio for Women in the United States (DISCONTINUED)                                                               NSA  Annual     10-Jun-2013  
-USAESRVNA                               Employment in Services in the United States (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-USALFNA                                 Labor Force in the United States (DISCONTINUED)                                                                                         NSA  Annual     10-Jun-2013  
-USALFPMNA                               Labor Force Participation Rate for Men in the United States (DISCONTINUED)                                                              NSA  Annual     10-Jun-2013  
-USALFPRNA                               Labor Force Participation Rate in the United States (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-USALFPWNA                               Labor Force Participation Rate for Women in the United States (DISCONTINUED)                                                            NSA  Annual     10-Jun-2013  
-USALFWNA                                Women's Share of the Labor Force in the United States (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
-USAPEDANA                               Percent of Employment in Industry in the United States (DISCONTINUED)                                                                   NSA  Annual     10-Jun-2013  
-USAPEFANA                               Percent of Employment in Manufacturing in the United States (DISCONTINUED)                                                              NSA  Annual     10-Jun-2013  
-USAPEMANA                               Percent of Employment in Agriculture in the United States (DISCONTINUED)                                                                NSA  Annual     10-Jun-2013  
-USAPESANA                               Percent of Employment in Services in the United States (DISCONTINUED)                                                                   NSA  Annual     10-Jun-2013  
-USAUEMPNA                               Unemployment in the United States (DISCONTINUED)                                                                                        NSA  Annual     10-Jun-2013  
-USAUR24NAA                              Unemployment Rate for Persons Ages 20 to 24 in the United States (DISCONTINUED)                                                         NSA  Annual     10-Jun-2013  
-USAURANAA                               Unemployment Rate for Adults in the United States (DISCONTINUED)                                                                        NSA  Annual     10-Jun-2013  
-USAURMNAA                               Unemployment Rate for Men in the United States (DISCONTINUED)                                                                           NSA  Annual     10-Jun-2013  
-USAURNAA                                Unemployment Rate in the United States (DISCONTINUED)                                                                                   NSA  Annual     10-Jun-2013  
-USAURTNAA                               Unemployment Rate for Teenagers in the United States (DISCONTINUED)                                                                     NSA  Annual     10-Jun-2013  
-USAURWNAA                               Unemployment Rate for Women in the United States (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-USAURYNAA                               Unemployment Rate for Youth in the United States (DISCONTINUED)                                                                         NSA  Annual     10-Jun-2013  
-USAWFPMNA                               Working-age Population for Men in the United States (DISCONTINUED)                                                                      NSA  Annual     10-Jun-2013  
-USAWFPNA                                Working-age Population in the United States (DISCONTINUED)                                                                              NSA  Annual     10-Jun-2013  
-USAWFPWNA                               Working-age Population for Women in the United States (DISCONTINUED)                                                                    NSA  Annual     10-Jun-2013  
+AUSEAGRNA                               Adjusted Employment in Agriculture in Australia (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+AUSEIDNA                                Adjusted Employment in Industry in Australia (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+AUSEMFGNA                               Adjusted Employment in Manufacturing in Australia (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+AUSEMPNAA                               Adjusted Employment in Australia (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+AUSEPRMNA                               Employment-Population Ratio for Men in Australia (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+AUSEPRNA                                Employment-Population Ratio in Australia (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+AUSEPRWNA                               Employment-Population Ratio for Women in Australia (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+AUSESRVNA                               Adjusted Employment in Services in Australia (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+AUSLFNA                                 Adjusted Labor Force in Australia (DISCONTINUED)                                                                         NSA  10-Jun-2013  Annual
+AUSLFPMNA                               Labor Force Participation Rate for Men in Australia (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+AUSLFPRNA                               Labor Force Participation Rate in Australia (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+AUSLFPWNA                               Labor Force Participation Rate for Women in Australia (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+AUSLFWNA                                Women's Share of the Labor Force in Australia (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+AUSPEDANA                               Percent of Employment in Industry in Australia (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+AUSPEFANA                               Percent of Employment in Manufacturing in Australia (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+AUSPEMANA                               Percent of Employment in Agriculture in Australia (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+AUSPESANA                               Percent of Employment in Services in Australia (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+AUSUEMPNA                               Adjusted Unemployment in Australia (DISCONTINUED)                                                                        NSA  10-Jun-2013  Annual
+AUSUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Australia (DISCONTINUED)                                         NSA  10-Jun-2013  Annual
+AUSURANAA                               Adjusted Unemployment Rate for Adults in Australia (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+AUSURMNAA                               Adjusted Unemployment Rate for Men in Australia (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+AUSURNAA                                Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                   NSA  10-Jun-2013  Annual
+AUSURTNAA                               Adjusted Unemployment Rate for Teenagers in Australia (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+AUSURWNAA                               Adjusted Unemployment Rate for Women in Australia (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+AUSURYNAA                               Adjusted Unemployment Rate for Youth in Australia (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+AUSWFPMNA                               Working-age Population for Men in Australia (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+AUSWFPNA                                Working-age Population in Australia (DISCONTINUED)                                                                       NSA  10-Jun-2013  Annual
+AUSWFPWNA                               Working-age Population for Women in Australia (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+CANEAGRNA                               Adjusted Employment in Agriculture in Canada (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+CANEIDNA                                Adjusted Employment in Industry in Canada (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+CANEMFGNA                               Adjusted Employment in Manufacturing in Canada (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+CANEMPNAA                               Adjusted Employment in Canada (DISCONTINUED)                                                                             NSA  10-Jun-2013  Annual
+CANEPRMNA                               Employment-Population Ratio for Men in Canada (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+CANEPRNA                                Employment-Population Ratio in Canada (DISCONTINUED)                                                                     NSA  10-Jun-2013  Annual
+CANEPRWNA                               Employment-Population Ratio for Women in Canada (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+CANESRVNA                               Adjusted Employment in Services in Canada (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+CANLFNA                                 Adjusted Labor Force in Canada (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+CANLFPMNA                               Labor Force Participation Rate for Men in Canada (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+CANLFPRNA                               Labor Force Participation Rate in Canada (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+CANLFPWNA                               Labor Force Participation Rate for Women in Canada (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+CANLFWNA                                Women's Share of the Labor Force in Canada (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+CANPEDANA                               Percent of Employment in Industry in Canada (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+CANPEFANA                               Percent of Employment in Manufacturing in Canada (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+CANPEMANA                               Percent of Employment in Agriculture in Canada (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+CANPESANA                               Percent of Employment in Services in Canada (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+CANUEMPNA                               Adjusted Unemployment in Canada (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+CANUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Canada (DISCONTINUED)                                            NSA  10-Jun-2013  Annual
+CANURANAA                               Adjusted Unemployment Rate for Adults in Canada (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+CANURMNAA                               Adjusted Unemployment Rate for Men in Canada (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+CANURNAA                                Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+CANURTNAA                               Adjusted Unemployment Rate for Teenagers in Canada (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+CANURWNAA                               Adjusted Unemployment Rate for Women in Canada (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+CANURYNAA                               Adjusted Unemployment Rate for Youth in Canada (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+CANWFPMNA                               Working-age Population for Men in Canada (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+CANWFPNA                                Working-age Population in Canada (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+CANWFPWNA                               Working-age Population for Women in Canada (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+DEUEAGRNA                               Adjusted Employment in Agriculture in Germany (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+DEUEIDNA                                Adjusted Employment in Industry in Germany (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+DEUEMFGNA                               Adjusted Employment in Manufacturing in Germany (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+DEUEMPNAA                               Adjusted Employment in Germany (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+DEUEPRMNA                               Employment-Population Ratio for Men in Germany (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+DEUEPRNA                                Employment-Population Ratio in Germany (DISCONTINUED)                                                                    NSA  10-Jun-2013  Annual
+DEUEPRWNA                               Employment-Population Ratio for Women in Germany (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+DEUESRVNA                               Adjusted Employment in Services in Germany (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+DEULFNA                                 Adjusted Labor Force in Germany (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+DEULFPMNA                               Labor Force Participation Rate for Men in Germany (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+DEULFPRNA                               Labor Force Participation Rate in Germany (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+DEULFPWNA                               Labor Force Participation Rate for Women in Germany (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+DEULFWNA                                Women's Share of the Labor Force in Germany (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+DEUPEDANA                               Percent of Employment in Industry in Germany (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+DEUPEFANA                               Percent of Employment in Manufacturing in Germany (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+DEUPEMANA                               Percent of Employment in Agriculture in Germany (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+DEUPESANA                               Percent of Employment in Services in Germany (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+DEUUEMPNA                               Adjusted Unemployment in Germany (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+DEUUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Germany (DISCONTINUED)                                           NSA  10-Jun-2013  Annual
+DEUURANAA                               Adjusted Unemployment Rate for Adults in Germany (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+DEUURMNAA                               Adjusted Unemployment Rate for Men in Germany (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+DEUURNAA                                Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                     NSA  10-Jun-2013  Annual
+DEUURTNAA                               Adjusted Unemployment Rate for Teenagers in Germany (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+DEUURWNAA                               Adjusted Unemployment Rate for Women in Germany (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+DEUURYNAA                               Adjusted Unemployment Rate for Youth in Germany (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+DEUWFPMNA                               Working-age Population for Men in Germany (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+DEUWFPNA                                Working-age Population in Germany (DISCONTINUED)                                                                         NSA  10-Jun-2013  Annual
+DEUWFPWNA                               Working-age Population for Women in Germany (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+FRAEAGRNA                               Adjusted Employment in Agriculture in France (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+FRAEIDNA                                Adjusted Employment in Industry in France (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+FRAEMFGNA                               Adjusted Employment in Manufacturing in France (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+FRAEMPNAA                               Adjusted Employment in France (DISCONTINUED)                                                                             NSA  10-Jun-2013  Annual
+FRAEPRMNA                               Employment-Population Ratio for Men in France (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+FRAEPRNA                                Employment-Population Ratio in France (DISCONTINUED)                                                                     NSA  10-Jun-2013  Annual
+FRAEPRWNA                               Employment-Population Ratio for Women in France (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+FRAESRVNA                               Adjusted Employment in Services in France (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+FRALFNA                                 Adjusted Labor Force in France (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+FRALFPMNA                               Labor Force Participation Rate for Men in France (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+FRALFPRNA                               Labor Force Participation Rate in France (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+FRALFPWNA                               Labor Force Participation Rate for Women in France (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+FRALFWNA                                Women's Share of the Labor Force in France (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+FRAPEDANA                               Percent of Employment in Industry in France (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+FRAPEFANA                               Percent of Employment in Manufacturing in France (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+FRAPEMANA                               Percent of Employment in Agriculture in France (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+FRAPESANA                               Percent of Employment in Services in France (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+FRAUEMPNA                               Adjusted Unemployment in France (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+FRAUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in France (DISCONTINUED)                                            NSA  10-Jun-2013  Annual
+FRAURANAA                               Adjusted Unemployment Rate for Adults in France (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+FRAURMNAA                               Adjusted Unemployment Rate for Men in France (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+FRAURNAA                                Adjusted Unemployment Rate in France (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+FRAURTNAA                               Adjusted Unemployment Rate for Teenagers in France (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+FRAURWNAA                               Adjusted Unemployment Rate for Women in France (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+FRAURYNAA                               Adjusted Unemployment Rate for Youth in France (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+FRAWFPMNA                               Working-age Population for Men in France (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+FRAWFPNA                                Working-age Population in France (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+FRAWFPWNA                               Working-age Population for Women in France (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+GBREAGRNA                               Adjusted Employment in Agriculture in the United Kingdom (DISCONTINUED)                                                  NSA  10-Jun-2013  Annual
+GBREIDNA                                Adjusted Employment in Industry in the United Kingdom (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+GBREMFGNA                               Adjusted Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                                NSA  10-Jun-2013  Annual
+GBREMPNAA                               Adjusted Employment in the United Kingdom (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+GBREPRMNA                               Employment-Population Ratio for Men in the United Kingdom (DISCONTINUED)                                                 NSA  10-Jun-2013  Annual
+GBREPRNA                                Employment-Population Ratio in the United Kingdom (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+GBREPRWNA                               Employment-Population Ratio for Women in the United Kingdom (DISCONTINUED)                                               NSA  10-Jun-2013  Annual
+GBRESRVNA                               Adjusted Employment in Services in the United Kingdom (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+GBRLFNA                                 Adjusted Labor Force in the United Kingdom (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+GBRLFPMNA                               Labor Force Participation Rate for Men in the United Kingdom (DISCONTINUED)                                              NSA  10-Jun-2013  Annual
+GBRLFPRNA                               Labor Force Participation Rate in the United Kingdom (DISCONTINUED)                                                      NSA  10-Jun-2013  Annual
+GBRLFPWNA                               Labor Force Participation Rate for Women in the United Kingdom (DISCONTINUED)                                            NSA  10-Jun-2013  Annual
+GBRLFWNA                                Women's Share of the Labor Force in the United Kingdom (DISCONTINUED)                                                    NSA  10-Jun-2013  Annual
+GBRPEDANA                               Percent of Employment in Industry in the United Kingdom (DISCONTINUED)                                                   NSA  10-Jun-2013  Annual
+GBRPEFANA                               Percent of Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                              NSA  10-Jun-2013  Annual
+GBRPEMANA                               Percent of Employment in Agriculture in the United Kingdom (DISCONTINUED)                                                NSA  10-Jun-2013  Annual
+GBRPESANA                               Percent of Employment in Services in the United Kingdom (DISCONTINUED)                                                   NSA  10-Jun-2013  Annual
+GBRUEMPNA                               Adjusted Unemployment in the United Kingdom (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+GBRUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in the United Kingdom (DISCONTINUED)                                NSA  10-Jun-2013  Annual
+GBRURANAA                               Adjusted Unemployment Rate for Adults in the United Kingdom (DISCONTINUED)                                               NSA  10-Jun-2013  Annual
+GBRURMNAA                               Adjusted Unemployment Rate for Men in the United Kingdom (DISCONTINUED)                                                  NSA  10-Jun-2013  Annual
+GBRURNAA                                Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+GBRURTNAA                               Adjusted Unemployment Rate for Teenagers in the United Kingdom (DISCONTINUED)                                            NSA  10-Jun-2013  Annual
+GBRURWNAA                               Adjusted Unemployment Rate for Women in the United Kingdom (DISCONTINUED)                                                NSA  10-Jun-2013  Annual
+GBRURYNAA                               Adjusted Unemployment Rate for Youth in the United Kingdom (DISCONTINUED)                                                NSA  10-Jun-2013  Annual
+GBRWFPMNA                               Working-age Population for Men in the United Kingdom (DISCONTINUED)                                                      NSA  10-Jun-2013  Annual
+GBRWFPNA                                Working-age Population in the United Kingdom (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+GBRWFPWNA                               Working-age Population for Women in the United Kingdom (DISCONTINUED)                                                    NSA  10-Jun-2013  Annual
+ITAEAGRNA                               Adjusted Employment in Agriculture in Italy (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+ITAEIDNA                                Adjusted Employment in Industry in Italy (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+ITAEMFGNA                               Adjusted Employment in Manufacturing in Italy (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+ITAEMPNAA                               Adjusted Employment in Italy (DISCONTINUED)                                                                              NSA  10-Jun-2013  Annual
+ITAEPRMNA                               Employment-Population Ratio for Men in Italy (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+ITAEPRNA                                Employment-Population Ratio in Italy (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+ITAEPRWNA                               Employment-Population Ratio for Women in Italy (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+ITAESRVNA                               Adjusted Employment in Services in Italy (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+ITALFNA                                 Adjusted Labor Force in Italy (DISCONTINUED)                                                                             NSA  10-Jun-2013  Annual
+ITALFPMNA                               Labor Force Participation Rate for Men in Italy (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+ITALFPRNA                               Labor Force Participation Rate in Italy (DISCONTINUED)                                                                   NSA  10-Jun-2013  Annual
+ITALFPWNA                               Labor Force Participation Rate for Women in Italy (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+ITALFWNA                                Women's Share of the Labor Force in Italy (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+ITAPEDANA                               Percent of Employment in Industry in Italy (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+ITAPEFANA                               Percent of Employment in Manufacturing in Italy (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+ITAPEMANA                               Percent of Employment in Agriculture in Italy (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+ITAPESANA                               Percent of Employment in Services in Italy (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+ITAUEMPNA                               Adjusted Unemployment in Italy (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+ITAUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Italy (DISCONTINUED)                                             NSA  10-Jun-2013  Annual
+ITAURANAA                               Adjusted Unemployment Rate for Adults in Italy (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+ITAURMNAA                               Adjusted Unemployment Rate for Men in Italy (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+ITAURNAA                                Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                       NSA  10-Jun-2013  Annual
+ITAURTNAA                               Adjusted Unemployment Rate for Teenagers in Italy (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+ITAURWNAA                               Adjusted Unemployment Rate for Women in Italy (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+ITAURYNAA                               Adjusted Unemployment Rate for Youth in Italy (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+ITAWFPMNA                               Working-age Population for Men in Italy (DISCONTINUED)                                                                   NSA  10-Jun-2013  Annual
+ITAWFPNA                                Working-age Population in Italy (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+ITAWFPWNA                               Working-age Population for Women in Italy (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+JPNEAGRNA                               Adjusted Employment in Agriculture in Japan (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+JPNEIDNA                                Adjusted Employment in Industry in Japan (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+JPNEMFGNA                               Adjusted Employment in Manufacturing in Japan (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+JPNEMPNAA                               Adjusted Employment in Japan (DISCONTINUED)                                                                              NSA  10-Jun-2013  Annual
+JPNEPRMNA                               Employment-Population Ratio for Men in Japan (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+JPNEPRNA                                Employment-Population Ratio in Japan (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+JPNEPRWNA                               Employment-Population Ratio for Women in Japan (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+JPNESRVNA                               Adjusted Employment in Services in Japan (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+JPNLFNA                                 Adjusted Labor Force in Japan (DISCONTINUED)                                                                             NSA  10-Jun-2013  Annual
+JPNLFPMNA                               Labor Force Participation Rate for Men in Japan (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+JPNLFPRNA                               Labor Force Participation Rate in Japan (DISCONTINUED)                                                                   NSA  10-Jun-2013  Annual
+JPNLFPWNA                               Labor Force Participation Rate for Women in Japan (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+JPNLFWNA                                Women's Share of the Labor Force in Japan (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+JPNPEDANA                               Percent of Employment in Industry in Japan (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+JPNPEFANA                               Percent of Employment in Manufacturing in Japan (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+JPNPEMANA                               Percent of Employment in Agriculture in Japan (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+JPNPESANA                               Percent of Employment in Services in Japan (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+JPNUEMPNA                               Adjusted Unemployment in Japan (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+JPNUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Japan (DISCONTINUED)                                             NSA  10-Jun-2013  Annual
+JPNURANAA                               Adjusted Unemployment Rate for Adults in Japan (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+JPNURMNAA                               Adjusted Unemployment Rate for Men in Japan (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+JPNURNAA                                Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                       NSA  10-Jun-2013  Annual
+JPNURTNAA                               Adjusted Unemployment Rate for Teenagers in Japan (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+JPNURWNAA                               Adjusted Unemployment Rate for Women in Japan (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+JPNURYNAA                               Adjusted Unemployment Rate for Youth in Japan (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+JPNWFPMNA                               Working-age Population for Men in Japan (DISCONTINUED)                                                                   NSA  10-Jun-2013  Annual
+JPNWFPNA                                Working-age Population in Japan (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+JPNWFPWNA                               Working-age Population for Women in Japan (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+NLDEAGRNA                               Adjusted Employment in Agriculture in Netherlands (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+NLDEIDNA                                Adjusted Employment in Industry in Netherlands (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+NLDEMFGNA                               Adjusted Employment in Manufacturing in Netherlands (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+NLDEMPNAA                               Adjusted Employment in Netherlands (DISCONTINUED)                                                                        NSA  10-Jun-2013  Annual
+NLDEPRMNA                               Employment-Population Ratio for Men in Netherlands (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+NLDEPRNA                                Employment-Population Ratio in Netherlands (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+NLDEPRWNA                               Employment-Population Ratio for Women in Netherlands (DISCONTINUED)                                                      NSA  10-Jun-2013  Annual
+NLDESRVNA                               Adjusted Employment in Services in Netherlands (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+NLDLFNA                                 Adjusted Labor Force in Netherlands (DISCONTINUED)                                                                       NSA  10-Jun-2013  Annual
+NLDLFPMNA                               Labor Force Participation Rate for Men in Netherlands (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+NLDLFPRNA                               Labor Force Participation Rate in Netherlands (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+NLDLFPWNA                               Labor Force Participation Rate for Women in Netherlands (DISCONTINUED)                                                   NSA  10-Jun-2013  Annual
+NLDLFWNA                                Women's Share of the Labor Force in Netherlands (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+NLDPEDANA                               Percent of Employment in Industry in Netherlands (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+NLDPEFANA                               Percent of Employment in Manufacturing in Netherlands (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+NLDPEMANA                               Percent of Employment in Agriculture in Netherlands (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+NLDPESANA                               Percent of Employment in Services in Netherlands (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+NLDUEMPNA                               Adjusted Unemployment in Netherlands (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+NLDUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Netherlands (DISCONTINUED)                                       NSA  10-Jun-2013  Annual
+NLDURANAA                               Adjusted Unemployment Rate for Adults in Netherlands (DISCONTINUED)                                                      NSA  10-Jun-2013  Annual
+NLDURMNAA                               Adjusted Unemployment Rate for Men in Netherlands (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+NLDURNAA                                Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+NLDURTNAA                               Adjusted Unemployment Rate for Teenagers in Netherlands (DISCONTINUED)                                                   NSA  10-Jun-2013  Annual
+NLDURWNAA                               Adjusted Unemployment Rate for Women in Netherlands (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+NLDURYNAA                               Adjusted Unemployment Rate for Youth in Netherlands (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+NLDWFPMNA                               Working-age Population for Men in Netherlands (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+NLDWFPNA                                Working-age Population in Netherlands (DISCONTINUED)                                                                     NSA  10-Jun-2013  Annual
+NLDWFPWNA                               Working-age Population for Women in Netherlands (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+SWEEAGRNA                               Adjusted Employment in Agriculture in Sweden (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+SWEEIDNA                                Adjusted Employment in Industry in Sweden (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+SWEEMFGNA                               Adjusted Employment in Manufacturing in Sweden (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+SWEEMPNAA                               Adjusted Employment in Sweden (DISCONTINUED)                                                                             NSA  10-Jun-2013  Annual
+SWEEPRMNA                               Employment-Population Ratio for Men in Sweden (DISCONTINUED)                                                             NSA  10-Jun-2013  Annual
+SWEEPRNA                                Employment-Population Ratio in Sweden (DISCONTINUED)                                                                     NSA  10-Jun-2013  Annual
+SWEEPRWNA                               Employment-Population Ratio for Women in Sweden (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+SWEESRVNA                               Adjusted Employment in Services in Sweden (DISCONTINUED)                                                                 NSA  10-Jun-2013  Annual
+SWELFNA                                 Adjusted Labor Force in Sweden (DISCONTINUED)                                                                            NSA  10-Jun-2013  Annual
+SWELFPMNA                               Labor Force Participation Rate for Men in Sweden (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+SWELFPRNA                               Labor Force Participation Rate in Sweden (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+SWELFPWNA                               Labor Force Participation Rate for Women in Sweden (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+SWELFWNA                                Women's Share of the Labor Force in Sweden (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+SWEPEDANA                               Percent of Employment in Industry in Sweden (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+SWEPEFANA                               Percent of Employment in Manufacturing in Sweden (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+SWEPEMANA                               Percent of Employment in Agriculture in Sweden (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+SWEPESANA                               Percent of Employment in Services in Sweden (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+SWEUEMPNA                               Adjusted Unemployment in Sweden (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+SWEUR24NAA                              Adjusted Unemployment Rate for Persons Ages 20 to 24 in Sweden (DISCONTINUED)                                            NSA  10-Jun-2013  Annual
+SWEURANAA                               Adjusted Unemployment Rate for Adults in Sweden (DISCONTINUED)                                                           NSA  10-Jun-2013  Annual
+SWEURMNAA                               Adjusted Unemployment Rate for Men in Sweden (DISCONTINUED)                                                              NSA  10-Jun-2013  Annual
+SWEURNAA                                Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                      NSA  10-Jun-2013  Annual
+SWEURTNAA                               Adjusted Unemployment Rate for Teenagers in Sweden (DISCONTINUED)                                                        NSA  10-Jun-2013  Annual
+SWEURWNAA                               Adjusted Unemployment Rate for Women in Sweden (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+SWEURYNAA                               Adjusted Unemployment Rate for Youth in Sweden (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+SWEWFPMNA                               Working-age Population for Men in Sweden (DISCONTINUED)                                                                  NSA  10-Jun-2013  Annual
+SWEWFPNA                                Working-age Population in Sweden (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+SWEWFPWNA                               Working-age Population for Women in Sweden (DISCONTINUED)                                                                NSA  10-Jun-2013  Annual
+USAEAGRNA                               Employment in Agriculture in the United States (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+USAEIDNA                                Employment in Industry in the United States (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+USAEMFGNA                               Employment in Manufacturing in the United States (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+USAEMPNAA                               Employment in the United States (DISCONTINUED)                                                                           NSA  10-Jun-2013  Annual
+USAEPRMNA                               Employment-Population Ratio for Men in the United States (DISCONTINUED)                                                  NSA  10-Jun-2013  Annual
+USAEPRNA                                Employment-Population Ratio in the United States (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+USAEPRWNA                               Employment-Population Ratio for Women in the United States (DISCONTINUED)                                                NSA  10-Jun-2013  Annual
+USAESRVNA                               Employment in Services in the United States (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+USALFNA                                 Labor Force in the United States (DISCONTINUED)                                                                          NSA  10-Jun-2013  Annual
+USALFPMNA                               Labor Force Participation Rate for Men in the United States (DISCONTINUED)                                               NSA  10-Jun-2013  Annual
+USALFPRNA                               Labor Force Participation Rate in the United States (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+USALFPWNA                               Labor Force Participation Rate for Women in the United States (DISCONTINUED)                                             NSA  10-Jun-2013  Annual
+USALFWNA                                Women's Share of the Labor Force in the United States (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual
+USAPEDANA                               Percent of Employment in Industry in the United States (DISCONTINUED)                                                    NSA  10-Jun-2013  Annual
+USAPEFANA                               Percent of Employment in Manufacturing in the United States (DISCONTINUED)                                               NSA  10-Jun-2013  Annual
+USAPEMANA                               Percent of Employment in Agriculture in the United States (DISCONTINUED)                                                 NSA  10-Jun-2013  Annual
+USAPESANA                               Percent of Employment in Services in the United States (DISCONTINUED)                                                    NSA  10-Jun-2013  Annual
+USAUEMPNA                               Unemployment in the United States (DISCONTINUED)                                                                         NSA  10-Jun-2013  Annual
+USAUR24NAA                              Unemployment Rate for Persons Ages 20 to 24 in the United States (DISCONTINUED)                                          NSA  10-Jun-2013  Annual
+USAURANAA                               Unemployment Rate for Adults in the United States (DISCONTINUED)                                                         NSA  10-Jun-2013  Annual
+USAURMNAA                               Unemployment Rate for Men in the United States (DISCONTINUED)                                                            NSA  10-Jun-2013  Annual
+USAURNAA                                Unemployment Rate in the United States (DISCONTINUED)                                                                    NSA  10-Jun-2013  Annual
+USAURTNAA                               Unemployment Rate for Teenagers in the United States (DISCONTINUED)                                                      NSA  10-Jun-2013  Annual
+USAURWNAA                               Unemployment Rate for Women in the United States (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+USAURYNAA                               Unemployment Rate for Youth in the United States (DISCONTINUED)                                                          NSA  10-Jun-2013  Annual
+USAWFPMNA                               Working-age Population for Men in the United States (DISCONTINUED)                                                       NSA  10-Jun-2013  Annual
+USAWFPNA                                Working-age Population in the United States (DISCONTINUED)                                                               NSA  10-Jun-2013  Annual
+USAWFPWNA                               Working-age Population for Women in the United States (DISCONTINUED)                                                     NSA  10-Jun-2013  Annual

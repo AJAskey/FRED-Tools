@@ -1,122 +1,122 @@
 Id : 27  New Residential Construction
-AUTHNOT1U                               New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units                                                       NSA  Monthly    17-Nov-2022  
-AUTHNOT1USA                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units                                                       SA   Monthly    17-Nov-2022  
-AUTHNOT24U                              New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 2-4 Units                                         NSA  Monthly    17-Nov-2022  
-AUTHNOT24USA                            New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 2-4 Units                                         SA   Monthly    17-Nov-2022  
-AUTHNOT5MU                              New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 5 Units or More                                   NSA  Monthly    17-Nov-2022  
-AUTHNOT5MUSA                            New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 5 Units or More                                   SA   Monthly    17-Nov-2022  
-AUTHNOTMW1U                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Midwest Census Region                          NSA  Monthly    17-Nov-2022  
-AUTHNOTMW1USA                           New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Midwest Census Region                          SA   Monthly    17-Nov-2022  
-AUTHNOTMWT                              New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Midwest Census Region                                  NSA  Monthly    17-Nov-2022  
-AUTHNOTMWTSA                            New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Midwest Census Region                                  SA   Monthly    17-Nov-2022  
-AUTHNOTNE1U                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Northeast Census Region                        NSA  Monthly    17-Nov-2022  
-AUTHNOTNE1USA                           New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Northeast Census Region                        SA   Monthly    17-Nov-2022  
-AUTHNOTNET                              New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Northeast Census Region                                NSA  Monthly    17-Nov-2022  
-AUTHNOTNETSA                            New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Northeast Census Region                                SA   Monthly    17-Nov-2022  
-AUTHNOTS1U                              New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the South Census Region                            NSA  Monthly    17-Nov-2022  
-AUTHNOTS1USA                            New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the South Census Region                            SA   Monthly    17-Nov-2022  
-AUTHNOTST                               New Privately-Owned Housing Units Authorized but Not Started: Total Units in the South Census Region                                    NSA  Monthly    17-Nov-2022  
-AUTHNOTSTSA                             New Privately-Owned Housing Units Authorized but Not Started: Total Units in the South Census Region                                    SA   Monthly    17-Nov-2022  
-AUTHNOTT                                New Privately-Owned Housing Units Authorized but Not Started: Total Units                                                               NSA  Monthly    17-Nov-2022  
-AUTHNOTTSA                              New Privately-Owned Housing Units Authorized but Not Started: Total Units                                                               SA   Monthly    17-Nov-2022  
-AUTHNOTW1U                              New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the West Census Region                             NSA  Monthly    17-Nov-2022  
-AUTHNOTW1USA                            New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the West Census Region                             SA   Monthly    17-Nov-2022  
-AUTHNOTWT                               New Privately-Owned Housing Units Authorized but Not Started: Total Units in the West Census Region                                     NSA  Monthly    17-Nov-2022  
-AUTHNOTWTSA                             New Privately-Owned Housing Units Authorized but Not Started: Total Units in the West Census Region                                     SA   Monthly    17-Nov-2022  
-COMPU1UNSA                              New Privately-Owned Housing Units Completed: Single-Family Units                                                                        NSA  Monthly    17-Nov-2022  
-COMPU1USA                               New Privately-Owned Housing Units Completed: Single-Family Units                                                                        SAAR Monthly    17-Nov-2022  
-COMPU24UNSA                             New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                          NSA  Monthly    17-Nov-2022  
-COMPU24USA                              New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                          SAAR Monthly    17-Nov-2022  
-COMPU5MUNSA                             New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                    NSA  Monthly    17-Nov-2022  
-COMPU5MUSA                              New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                    SAAR Monthly    17-Nov-2022  
-COMPUMW1UNSA                            New Privately-Owned Housing Units Completed: Single-Family Units in the Midwest Census Region                                           NSA  Monthly    17-Nov-2022  
-COMPUMW1USA                             New Privately-Owned Housing Units Completed: Single-Family Units in the Midwest Census Region                                           SAAR Monthly    17-Nov-2022  
-COMPUMWTNSA                             New Privately-Owned Housing Units Completed: Total Units in the Midwest Census Region                                                   NSA  Monthly    17-Nov-2022  
-COMPUMWTSA                              New Privately-Owned Housing Units Completed: Total Units in the Midwest Census Region                                                   SAAR Monthly    17-Nov-2022  
-COMPUNE1UNSA                            New Privately-Owned Housing Units Completed: Single-Family Units in the Northeast Census Region                                         NSA  Monthly    17-Nov-2022  
-COMPUNE1USA                             New Privately-Owned Housing Units Completed: Single-Family Units in the Northeast Census Region                                         SAAR Monthly    17-Nov-2022  
-COMPUNETNSA                             New Privately-Owned Housing Units Completed: Total Units in the Northeast Census Region                                                 NSA  Monthly    17-Nov-2022  
-COMPUNETSA                              New Privately-Owned Housing Units Completed: Total Units in the Northeast Census Region                                                 SAAR Monthly    17-Nov-2022  
-COMPUS1UNSA                             New Privately-Owned Housing Units Completed: Single-Family Units in the South Census Region                                             NSA  Monthly    17-Nov-2022  
-COMPUS1USA                              New Privately-Owned Housing Units Completed: Single-Family Units in the South Census Region                                             SAAR Monthly    17-Nov-2022  
-COMPUSTNSA                              New Privately-Owned Housing Units Completed: Total Units in the South Census Region                                                     NSA  Monthly    17-Nov-2022  
-COMPUSTSA                               New Privately-Owned Housing Units Completed: Total Units in the South Census Region                                                     SAAR Monthly    17-Nov-2022  
-COMPUTNSA                               New Privately-Owned Housing Units Completed: Total Units                                                                                NSA  Monthly    17-Nov-2022  
-COMPUTSA                                New Privately-Owned Housing Units Completed: Total Units                                                                                SAAR Monthly    17-Nov-2022  
-COMPUW1UNSA                             New Privately-Owned Housing Units Completed: Single-Family Units in the West Census Region                                              NSA  Monthly    17-Nov-2022  
-COMPUW1USA                              New Privately-Owned Housing Units Completed: Single-Family Units in the West Census Region                                              SAAR Monthly    17-Nov-2022  
-COMPUWTNSA                              New Privately-Owned Housing Units Completed: Total Units in the West Census Region                                                      NSA  Monthly    17-Nov-2022  
-COMPUWTSA                               New Privately-Owned Housing Units Completed: Total Units in the West Census Region                                                      SAAR Monthly    17-Nov-2022  
-HOUST                                   New Privately-Owned Housing Units Started: Total Units                                                                                  SAAR Monthly    17-Nov-2022  
-HOUST1F                                 New Privately-Owned Housing Units Started: Single-Family Units                                                                          SAAR Monthly    17-Nov-2022  
-HOUST1FNSA                              New Privately-Owned Housing Units Started: Single-Family Units                                                                          NSA  Monthly    17-Nov-2022  
-HOUST2F                                 New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units                                                            SAAR Monthly    17-Nov-2022  
-HOUST2FNSA                              New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units                                                            NSA  Monthly    17-Nov-2022  
-HOUST5F                                 New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More                                                      SAAR Monthly    17-Nov-2022  
-HOUST5FNSA                              New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More                                                      NSA  Monthly    17-Nov-2022  
-HOUSTMW                                 New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region                                                     SAAR Monthly    17-Nov-2022  
-HOUSTMW1F                               New Privately-Owned Housing Units Started: Single-Family Units in the Midwest Census Region                                             SAAR Monthly    17-Nov-2022  
-HOUSTMW1FNSA                            New Privately-Owned Housing Units Started: Single-Family Units in the Midwest Census Region                                             NSA  Monthly    17-Nov-2022  
-HOUSTMWNSA                              New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region                                                     NSA  Monthly    17-Nov-2022  
-HOUSTNE                                 New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region                                                   SAAR Monthly    17-Nov-2022  
-HOUSTNE1F                               New Privately-Owned Housing Units Started: Single-Family Units in the Northeast Census Region                                           SAAR Monthly    17-Nov-2022  
-HOUSTNE1FNSA                            New Privately-Owned Housing Units Started: Single-Family Units in the Northeast Census Region                                           NSA  Monthly    17-Nov-2022  
-HOUSTNENSA                              New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region                                                   NSA  Monthly    17-Nov-2022  
-HOUSTNF                                 Nonfarm Housing Starts (DISCONTINUED)                                                                                                   SAAR Monthly    27-Nov-2006  
-HOUSTNSA                                New Privately-Owned Housing Units Started: Total Units                                                                                  NSA  Monthly    17-Nov-2022  
-HOUSTS                                  New Privately-Owned Housing Units Started: Total Units in the South Census Region                                                       SAAR Monthly    17-Nov-2022  
-HOUSTS1F                                New Privately-Owned Housing Units Started: Single-Family Units in the South Census Region                                               SAAR Monthly    17-Nov-2022  
-HOUSTS1FNSA                             New Privately-Owned Housing Units Started: Single-Family Units in the South Census Region                                               NSA  Monthly    17-Nov-2022  
-HOUSTSNSA                               New Privately-Owned Housing Units Started: Total Units in the South Census Region                                                       NSA  Monthly    17-Nov-2022  
-HOUSTW                                  New Privately-Owned Housing Units Started: Total Units in the West Census Region                                                        SAAR Monthly    17-Nov-2022  
-HOUSTW1F                                New Privately-Owned Housing Units Started: Single-Family Units in the West Census Region                                                SAAR Monthly    17-Nov-2022  
-HOUSTW1FNSA                             New Privately-Owned Housing Units Started: Single-Family Units in the West Census Region                                                NSA  Monthly    17-Nov-2022  
-HOUSTWNSA                               New Privately-Owned Housing Units Started: Total Units in the West Census Region                                                        NSA  Monthly    17-Nov-2022  
-PERMIT                                  New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units                                                      SAAR Monthly    23-Nov-2022  
-PERMIT1                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units                                              SAAR Monthly    23-Nov-2022  
-PERMIT1NSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units                                              NSA  Monthly    23-Nov-2022  
-PERMIT24                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units                                SAAR Monthly    23-Nov-2022  
-PERMIT24NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units                                NSA  Monthly    23-Nov-2022  
-PERMIT5                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More                          SAAR Monthly    23-Nov-2022  
-PERMIT5NSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More                          NSA  Monthly    23-Nov-2022  
-PERMITMW                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region                         SAAR Monthly    23-Nov-2022  
-PERMITMW1                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Midwest Census Region                 SAAR Monthly    23-Nov-2022  
-PERMITMW1NSA                            New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Midwest Census Region                 NSA  Monthly    17-Nov-2022  
-PERMITMWNSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region                         NSA  Monthly    23-Nov-2022  
-PERMITNE                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region                       SAAR Monthly    23-Nov-2022  
-PERMITNE1                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Northeast Census Region               SAAR Monthly    17-Nov-2022  
-PERMITNE1NSA                            New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Northeast Census Region               NSA  Monthly    17-Nov-2022  
-PERMITNENSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region                       NSA  Monthly    23-Nov-2022  
-PERMITNSA                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units                                                      NSA  Monthly    23-Nov-2022  
-PERMITS                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the South Census Region                           SAAR Monthly    23-Nov-2022  
-PERMITS1                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the South Census Region                   SAAR Monthly    23-Nov-2022  
-PERMITS1NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the South Census Region                   NSA  Monthly    23-Nov-2022  
-PERMITSNSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the South Census Region                           NSA  Monthly    23-Nov-2022  
-PERMITW                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region                            SAAR Monthly    17-Nov-2022  
-PERMITW1                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the West Census Region                    SAAR Monthly    17-Nov-2022  
-PERMITW1NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the West Census Region                    NSA  Monthly    17-Nov-2022  
-PERMITWNSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region                            NSA  Monthly    17-Nov-2022  
-UNDCON1UNSA                             New Privately-Owned Housing Units Under Construction: Single-Family Units                                                               NSA  Monthly    17-Nov-2022  
-UNDCON1USA                              New Privately-Owned Housing Units Under Construction: Single-Family Units                                                               SA   Monthly    17-Nov-2022  
-UNDCON24UNSA                            New Privately-Owned Housing Units Under Construction: Units in Buildings with 2-4 Units                                                 NSA  Monthly    17-Nov-2022  
-UNDCON24USA                             New Privately-Owned Housing Units Under Construction: Units in Buildings with 2-4 Units                                                 SA   Monthly    17-Nov-2022  
-UNDCON5MUNSA                            New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More                                           NSA  Monthly    17-Nov-2022  
-UNDCON5MUSA                             New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More                                           SA   Monthly    17-Nov-2022  
-UNDCONMW1UNSA                           New Privately-Owned Housing Units Under Construction: Single-Family Units in the Midwest Census Region                                  NSA  Monthly    17-Nov-2022  
-UNDCONMW1USA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the Midwest Census Region                                  SA   Monthly    17-Nov-2022  
-UNDCONMWTNSA                            New Privately-Owned Housing Units Under Construction: Total Units in the Midwest Census Region                                          NSA  Monthly    17-Nov-2022  
-UNDCONMWTSA                             New Privately-Owned Housing Units Under Construction: Total Units in the Midwest Census Region                                          SA   Monthly    17-Nov-2022  
-UNDCONNE1UNSA                           New Privately-Owned Housing Units Under Construction: Single-Family Units in the Northeast Census Region                                NSA  Monthly    17-Nov-2022  
-UNDCONNE1USA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the Northeast Census Region                                SA   Monthly    17-Nov-2022  
-UNDCONNETNSA                            New Privately-Owned Housing Units Under Construction: Total Units in the Northeast Census Region                                        NSA  Monthly    17-Nov-2022  
-UNDCONNETSA                             New Privately-Owned Housing Units Under Construction: Total Units in the Northeast Census Region                                        SA   Monthly    17-Nov-2022  
-UNDCONS1UNSA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the South Census Region                                    NSA  Monthly    17-Nov-2022  
-UNDCONS1USA                             New Privately-Owned Housing Units Under Construction: Single-Family Units in the South Census Region                                    SA   Monthly    17-Nov-2022  
-UNDCONSTNSA                             New Privately-Owned Housing Units Under Construction: Total Units in the South Census Region                                            NSA  Monthly    17-Nov-2022  
-UNDCONSTSA                              New Privately-Owned Housing Units Under Construction: Total Units in the South Census Region                                            SA   Monthly    17-Nov-2022  
-UNDCONTNSA                              New Privately-Owned Housing Units Under Construction: Total Units                                                                       NSA  Monthly    17-Nov-2022  
-UNDCONTSA                               New Privately-Owned Housing Units Under Construction: Total Units                                                                       SA   Monthly    17-Nov-2022  
-UNDCONW1UNSA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the West Census Region                                     NSA  Monthly    17-Nov-2022  
-UNDCONW1USA                             New Privately-Owned Housing Units Under Construction: Single-Family Units in the West Census Region                                     SA   Monthly    17-Nov-2022  
-UNDCONWTNSA                             New Privately-Owned Housing Units Under Construction: Total Units in the West Census Region                                             NSA  Monthly    17-Nov-2022  
-UNDCONWTSA                              New Privately-Owned Housing Units Under Construction: Total Units in the West Census Region                                             SA   Monthly    17-Nov-2022  
+AUTHNOT1U                               New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units                                        NSA  17-Nov-2022  Monthly
+AUTHNOT1USA                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units                                        SA   17-Nov-2022  Monthly
+AUTHNOT24U                              New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 2-4 Units                          NSA  17-Nov-2022  Monthly
+AUTHNOT24USA                            New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 2-4 Units                          SA   17-Nov-2022  Monthly
+AUTHNOT5MU                              New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 5 Units or More                    NSA  17-Nov-2022  Monthly
+AUTHNOT5MUSA                            New Privately-Owned Housing Units Authorized but Not Started: Units in Buildings with 5 Units or More                    SA   17-Nov-2022  Monthly
+AUTHNOTMW1U                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Midwest Census Region           NSA  17-Nov-2022  Monthly
+AUTHNOTMW1USA                           New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Midwest Census Region           SA   17-Nov-2022  Monthly
+AUTHNOTMWT                              New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Midwest Census Region                   NSA  17-Nov-2022  Monthly
+AUTHNOTMWTSA                            New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Midwest Census Region                   SA   17-Nov-2022  Monthly
+AUTHNOTNE1U                             New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Northeast Census Region         NSA  17-Nov-2022  Monthly
+AUTHNOTNE1USA                           New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the Northeast Census Region         SA   17-Nov-2022  Monthly
+AUTHNOTNET                              New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Northeast Census Region                 NSA  17-Nov-2022  Monthly
+AUTHNOTNETSA                            New Privately-Owned Housing Units Authorized but Not Started: Total Units in the Northeast Census Region                 SA   17-Nov-2022  Monthly
+AUTHNOTS1U                              New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the South Census Region             NSA  17-Nov-2022  Monthly
+AUTHNOTS1USA                            New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the South Census Region             SA   17-Nov-2022  Monthly
+AUTHNOTST                               New Privately-Owned Housing Units Authorized but Not Started: Total Units in the South Census Region                     NSA  17-Nov-2022  Monthly
+AUTHNOTSTSA                             New Privately-Owned Housing Units Authorized but Not Started: Total Units in the South Census Region                     SA   17-Nov-2022  Monthly
+AUTHNOTT                                New Privately-Owned Housing Units Authorized but Not Started: Total Units                                                NSA  17-Nov-2022  Monthly
+AUTHNOTTSA                              New Privately-Owned Housing Units Authorized but Not Started: Total Units                                                SA   17-Nov-2022  Monthly
+AUTHNOTW1U                              New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the West Census Region              NSA  17-Nov-2022  Monthly
+AUTHNOTW1USA                            New Privately-Owned Housing Units Authorized but Not Started: Single-Family Units in the West Census Region              SA   17-Nov-2022  Monthly
+AUTHNOTWT                               New Privately-Owned Housing Units Authorized but Not Started: Total Units in the West Census Region                      NSA  17-Nov-2022  Monthly
+AUTHNOTWTSA                             New Privately-Owned Housing Units Authorized but Not Started: Total Units in the West Census Region                      SA   17-Nov-2022  Monthly
+COMPU1UNSA                              New Privately-Owned Housing Units Completed: Single-Family Units                                                         NSA  17-Nov-2022  Monthly
+COMPU1USA                               New Privately-Owned Housing Units Completed: Single-Family Units                                                         SAAR 17-Nov-2022  Monthly
+COMPU24UNSA                             New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                           NSA  17-Nov-2022  Monthly
+COMPU24USA                              New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                           SAAR 17-Nov-2022  Monthly
+COMPU5MUNSA                             New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                     NSA  17-Nov-2022  Monthly
+COMPU5MUSA                              New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                     SAAR 17-Nov-2022  Monthly
+COMPUMW1UNSA                            New Privately-Owned Housing Units Completed: Single-Family Units in the Midwest Census Region                            NSA  17-Nov-2022  Monthly
+COMPUMW1USA                             New Privately-Owned Housing Units Completed: Single-Family Units in the Midwest Census Region                            SAAR 17-Nov-2022  Monthly
+COMPUMWTNSA                             New Privately-Owned Housing Units Completed: Total Units in the Midwest Census Region                                    NSA  17-Nov-2022  Monthly
+COMPUMWTSA                              New Privately-Owned Housing Units Completed: Total Units in the Midwest Census Region                                    SAAR 17-Nov-2022  Monthly
+COMPUNE1UNSA                            New Privately-Owned Housing Units Completed: Single-Family Units in the Northeast Census Region                          NSA  17-Nov-2022  Monthly
+COMPUNE1USA                             New Privately-Owned Housing Units Completed: Single-Family Units in the Northeast Census Region                          SAAR 17-Nov-2022  Monthly
+COMPUNETNSA                             New Privately-Owned Housing Units Completed: Total Units in the Northeast Census Region                                  NSA  17-Nov-2022  Monthly
+COMPUNETSA                              New Privately-Owned Housing Units Completed: Total Units in the Northeast Census Region                                  SAAR 17-Nov-2022  Monthly
+COMPUS1UNSA                             New Privately-Owned Housing Units Completed: Single-Family Units in the South Census Region                              NSA  17-Nov-2022  Monthly
+COMPUS1USA                              New Privately-Owned Housing Units Completed: Single-Family Units in the South Census Region                              SAAR 17-Nov-2022  Monthly
+COMPUSTNSA                              New Privately-Owned Housing Units Completed: Total Units in the South Census Region                                      NSA  17-Nov-2022  Monthly
+COMPUSTSA                               New Privately-Owned Housing Units Completed: Total Units in the South Census Region                                      SAAR 17-Nov-2022  Monthly
+COMPUTNSA                               New Privately-Owned Housing Units Completed: Total Units                                                                 NSA  17-Nov-2022  Monthly
+COMPUTSA                                New Privately-Owned Housing Units Completed: Total Units                                                                 SAAR 17-Nov-2022  Monthly
+COMPUW1UNSA                             New Privately-Owned Housing Units Completed: Single-Family Units in the West Census Region                               NSA  17-Nov-2022  Monthly
+COMPUW1USA                              New Privately-Owned Housing Units Completed: Single-Family Units in the West Census Region                               SAAR 17-Nov-2022  Monthly
+COMPUWTNSA                              New Privately-Owned Housing Units Completed: Total Units in the West Census Region                                       NSA  17-Nov-2022  Monthly
+COMPUWTSA                               New Privately-Owned Housing Units Completed: Total Units in the West Census Region                                       SAAR 17-Nov-2022  Monthly
+HOUST                                   New Privately-Owned Housing Units Started: Total Units                                                                   SAAR 17-Nov-2022  Monthly
+HOUST1F                                 New Privately-Owned Housing Units Started: Single-Family Units                                                           SAAR 17-Nov-2022  Monthly
+HOUST1FNSA                              New Privately-Owned Housing Units Started: Single-Family Units                                                           NSA  17-Nov-2022  Monthly
+HOUST2F                                 New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units                                             SAAR 17-Nov-2022  Monthly
+HOUST2FNSA                              New Privately-Owned Housing Units Started: Units in Buildings with 2-4 Units                                             NSA  17-Nov-2022  Monthly
+HOUST5F                                 New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More                                       SAAR 17-Nov-2022  Monthly
+HOUST5FNSA                              New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More                                       NSA  17-Nov-2022  Monthly
+HOUSTMW                                 New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region                                      SAAR 17-Nov-2022  Monthly
+HOUSTMW1F                               New Privately-Owned Housing Units Started: Single-Family Units in the Midwest Census Region                              SAAR 17-Nov-2022  Monthly
+HOUSTMW1FNSA                            New Privately-Owned Housing Units Started: Single-Family Units in the Midwest Census Region                              NSA  17-Nov-2022  Monthly
+HOUSTMWNSA                              New Privately-Owned Housing Units Started: Total Units in the Midwest Census Region                                      NSA  17-Nov-2022  Monthly
+HOUSTNE                                 New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region                                    SAAR 17-Nov-2022  Monthly
+HOUSTNE1F                               New Privately-Owned Housing Units Started: Single-Family Units in the Northeast Census Region                            SAAR 17-Nov-2022  Monthly
+HOUSTNE1FNSA                            New Privately-Owned Housing Units Started: Single-Family Units in the Northeast Census Region                            NSA  17-Nov-2022  Monthly
+HOUSTNENSA                              New Privately-Owned Housing Units Started: Total Units in the Northeast Census Region                                    NSA  17-Nov-2022  Monthly
+HOUSTNF                                 Nonfarm Housing Starts (DISCONTINUED)                                                                                    SAAR 27-Nov-2006  Monthly
+HOUSTNSA                                New Privately-Owned Housing Units Started: Total Units                                                                   NSA  17-Nov-2022  Monthly
+HOUSTS                                  New Privately-Owned Housing Units Started: Total Units in the South Census Region                                        SAAR 17-Nov-2022  Monthly
+HOUSTS1F                                New Privately-Owned Housing Units Started: Single-Family Units in the South Census Region                                SAAR 17-Nov-2022  Monthly
+HOUSTS1FNSA                             New Privately-Owned Housing Units Started: Single-Family Units in the South Census Region                                NSA  17-Nov-2022  Monthly
+HOUSTSNSA                               New Privately-Owned Housing Units Started: Total Units in the South Census Region                                        NSA  17-Nov-2022  Monthly
+HOUSTW                                  New Privately-Owned Housing Units Started: Total Units in the West Census Region                                         SAAR 17-Nov-2022  Monthly
+HOUSTW1F                                New Privately-Owned Housing Units Started: Single-Family Units in the West Census Region                                 SAAR 17-Nov-2022  Monthly
+HOUSTW1FNSA                             New Privately-Owned Housing Units Started: Single-Family Units in the West Census Region                                 NSA  17-Nov-2022  Monthly
+HOUSTWNSA                               New Privately-Owned Housing Units Started: Total Units in the West Census Region                                         NSA  17-Nov-2022  Monthly
+PERMIT                                  New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units                                       SAAR 23-Nov-2022  Monthly
+PERMIT1                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units                               SAAR 23-Nov-2022  Monthly
+PERMIT1NSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units                               NSA  23-Nov-2022  Monthly
+PERMIT24                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units                 SAAR 23-Nov-2022  Monthly
+PERMIT24NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 2-4 Units                 NSA  23-Nov-2022  Monthly
+PERMIT5                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More           SAAR 23-Nov-2022  Monthly
+PERMIT5NSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Units in Buildings with 5 Units or More           NSA  23-Nov-2022  Monthly
+PERMITMW                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region          SAAR 23-Nov-2022  Monthly
+PERMITMW1                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Midwest Census Region  SAAR 23-Nov-2022  Monthly
+PERMITMW1NSA                            New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Midwest Census Region  NSA  17-Nov-2022  Monthly
+PERMITMWNSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region          NSA  23-Nov-2022  Monthly
+PERMITNE                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region        SAAR 23-Nov-2022  Monthly
+PERMITNE1                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Northeast Census Regi  SAAR 17-Nov-2022  Monthly
+PERMITNE1NSA                            New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the Northeast Census Regi  NSA  17-Nov-2022  Monthly
+PERMITNENSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region        NSA  23-Nov-2022  Monthly
+PERMITNSA                               New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units                                       NSA  23-Nov-2022  Monthly
+PERMITS                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the South Census Region            SAAR 23-Nov-2022  Monthly
+PERMITS1                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the South Census Region    SAAR 23-Nov-2022  Monthly
+PERMITS1NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the South Census Region    NSA  23-Nov-2022  Monthly
+PERMITSNSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the South Census Region            NSA  23-Nov-2022  Monthly
+PERMITW                                 New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region             SAAR 17-Nov-2022  Monthly
+PERMITW1                                New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the West Census Region     SAAR 17-Nov-2022  Monthly
+PERMITW1NSA                             New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units in the West Census Region     NSA  17-Nov-2022  Monthly
+PERMITWNSA                              New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the West Census Region             NSA  17-Nov-2022  Monthly
+UNDCON1UNSA                             New Privately-Owned Housing Units Under Construction: Single-Family Units                                                NSA  17-Nov-2022  Monthly
+UNDCON1USA                              New Privately-Owned Housing Units Under Construction: Single-Family Units                                                SA   17-Nov-2022  Monthly
+UNDCON24UNSA                            New Privately-Owned Housing Units Under Construction: Units in Buildings with 2-4 Units                                  NSA  17-Nov-2022  Monthly
+UNDCON24USA                             New Privately-Owned Housing Units Under Construction: Units in Buildings with 2-4 Units                                  SA   17-Nov-2022  Monthly
+UNDCON5MUNSA                            New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More                            NSA  17-Nov-2022  Monthly
+UNDCON5MUSA                             New Privately-Owned Housing Units Under Construction: Units in Buildings with 5 Units or More                            SA   17-Nov-2022  Monthly
+UNDCONMW1UNSA                           New Privately-Owned Housing Units Under Construction: Single-Family Units in the Midwest Census Region                   NSA  17-Nov-2022  Monthly
+UNDCONMW1USA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the Midwest Census Region                   SA   17-Nov-2022  Monthly
+UNDCONMWTNSA                            New Privately-Owned Housing Units Under Construction: Total Units in the Midwest Census Region                           NSA  17-Nov-2022  Monthly
+UNDCONMWTSA                             New Privately-Owned Housing Units Under Construction: Total Units in the Midwest Census Region                           SA   17-Nov-2022  Monthly
+UNDCONNE1UNSA                           New Privately-Owned Housing Units Under Construction: Single-Family Units in the Northeast Census Region                 NSA  17-Nov-2022  Monthly
+UNDCONNE1USA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the Northeast Census Region                 SA   17-Nov-2022  Monthly
+UNDCONNETNSA                            New Privately-Owned Housing Units Under Construction: Total Units in the Northeast Census Region                         NSA  17-Nov-2022  Monthly
+UNDCONNETSA                             New Privately-Owned Housing Units Under Construction: Total Units in the Northeast Census Region                         SA   17-Nov-2022  Monthly
+UNDCONS1UNSA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the South Census Region                     NSA  17-Nov-2022  Monthly
+UNDCONS1USA                             New Privately-Owned Housing Units Under Construction: Single-Family Units in the South Census Region                     SA   17-Nov-2022  Monthly
+UNDCONSTNSA                             New Privately-Owned Housing Units Under Construction: Total Units in the South Census Region                             NSA  17-Nov-2022  Monthly
+UNDCONSTSA                              New Privately-Owned Housing Units Under Construction: Total Units in the South Census Region                             SA   17-Nov-2022  Monthly
+UNDCONTNSA                              New Privately-Owned Housing Units Under Construction: Total Units                                                        NSA  17-Nov-2022  Monthly
+UNDCONTSA                               New Privately-Owned Housing Units Under Construction: Total Units                                                        SA   17-Nov-2022  Monthly
+UNDCONW1UNSA                            New Privately-Owned Housing Units Under Construction: Single-Family Units in the West Census Region                      NSA  17-Nov-2022  Monthly
+UNDCONW1USA                             New Privately-Owned Housing Units Under Construction: Single-Family Units in the West Census Region                      SA   17-Nov-2022  Monthly
+UNDCONWTNSA                             New Privately-Owned Housing Units Under Construction: Total Units in the West Census Region                              NSA  17-Nov-2022  Monthly
+UNDCONWTSA                              New Privately-Owned Housing Units Under Construction: Total Units in the West Census Region                              SA   17-Nov-2022  Monthly

@@ -1,17 +1,17 @@
 Id : 426  U.S. Treasury-Owned Gold
-DNVCOGBV                                Book Value of U.S. Mint Held Gold Deep Storage: Denver, CO                                                                              NSA  Monthly    01-Dec-2022  
-DNVCOGTA                                U.S. Mint Held Gold Deep Storage: Denver, CO                                                                                            NSA  Monthly    01-Dec-2022  
-FKKYGBV                                 Book Value of U.S. Mint Held Gold Deep Storage: Fort Knox, KY                                                                           NSA  Monthly    01-Dec-2022  
-FKKYGTA                                 U.S. Mint Held Gold Deep Storage: Fort Knox, KY                                                                                         NSA  Monthly    01-Dec-2022  
-FRDGBSAM                                Federal Reserve Bank Held Gold Bullion: On Display                                                                                      NSA  Monthly    01-Dec-2022  
-FRDGBSV                                 Book Value of Federal Reserve Bank Held Gold Bullion: On Display                                                                        NSA  Monthly    01-Dec-2022  
-FRDGCSAM                                Federal Reserve Bank Held Gold Coins On Display                                                                                         NSA  Monthly    01-Dec-2022  
-FRDGCSV                                 Book Value of Federal Reserve Bank Held Gold Coins On Display                                                                           NSA  Monthly    01-Dec-2022  
-FRVGBSAM                                Federal Reserve Bank Held Gold Bullion: NY Vault                                                                                        NSA  Monthly    01-Dec-2022  
-FRVGBSV                                 Book Value of Federal Reserve Bank Held Gold Bullion: NY Vault                                                                          NSA  Monthly    01-Dec-2022  
-FRVGCSAM                                Federal Reserve Bank Held Gold Coins: NY Vault                                                                                          NSA  Monthly    01-Dec-2022  
-FRVGCSV                                 Book Value of Federal Reserve Bank Held Gold Coins: NY Vault                                                                            NSA  Monthly    01-Dec-2022  
-MHTGWSALQ                               U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                                                 NSA  Monthly    01-Dec-2022  
-MHTGWSALV                               Book Value of U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                                   NSA  Monthly    01-Dec-2022  
-WPNYGBV                                 Book Value of U.S. Mint Held Gold Deep Storage: West Point, NY                                                                          NSA  Monthly    01-Dec-2022  
-WPNYGTA                                 U.S. Mint Held Gold Deep Storage: West Point, NY                                                                                        NSA  Monthly    01-Dec-2022  
+DNVCOGBV                                Book Value of U.S. Mint Held Gold Deep Storage: Denver, CO                                                               NSA  01-Dec-2022  Monthly
+DNVCOGTA                                U.S. Mint Held Gold Deep Storage: Denver, CO                                                                             NSA  01-Dec-2022  Monthly
+FKKYGBV                                 Book Value of U.S. Mint Held Gold Deep Storage: Fort Knox, KY                                                            NSA  01-Dec-2022  Monthly
+FKKYGTA                                 U.S. Mint Held Gold Deep Storage: Fort Knox, KY                                                                          NSA  01-Dec-2022  Monthly
+FRDGBSAM                                Federal Reserve Bank Held Gold Bullion: On Display                                                                       NSA  01-Dec-2022  Monthly
+FRDGBSV                                 Book Value of Federal Reserve Bank Held Gold Bullion: On Display                                                         NSA  01-Dec-2022  Monthly
+FRDGCSAM                                Federal Reserve Bank Held Gold Coins On Display                                                                          NSA  01-Dec-2022  Monthly
+FRDGCSV                                 Book Value of Federal Reserve Bank Held Gold Coins On Display                                                            NSA  01-Dec-2022  Monthly
+FRVGBSAM                                Federal Reserve Bank Held Gold Bullion: NY Vault                                                                         NSA  01-Dec-2022  Monthly
+FRVGBSV                                 Book Value of Federal Reserve Bank Held Gold Bullion: NY Vault                                                           NSA  01-Dec-2022  Monthly
+FRVGCSAM                                Federal Reserve Bank Held Gold Coins: NY Vault                                                                           NSA  01-Dec-2022  Monthly
+FRVGCSV                                 Book Value of Federal Reserve Bank Held Gold Coins: NY Vault                                                             NSA  01-Dec-2022  Monthly
+MHTGWSALQ                               U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                                  NSA  01-Dec-2022  Monthly
+MHTGWSALV                               Book Value of U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous                    NSA  01-Dec-2022  Monthly
+WPNYGBV                                 Book Value of U.S. Mint Held Gold Deep Storage: West Point, NY                                                           NSA  01-Dec-2022  Monthly
+WPNYGTA                                 U.S. Mint Held Gold Deep Storage: West Point, NY                                                                         NSA  01-Dec-2022  Monthly

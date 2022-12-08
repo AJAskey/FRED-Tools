@@ -1,14 +1,14 @@
 Id : 263  Debt to Gross Domestic Product Ratios
-FYFRGDA188S                             Federal Receipts as Percent of Gross Domestic Product                                                                                   NSA  Annual     21-Oct-2022  
-FYFSDFYGDP                              Federal Surplus or Deficit [-] as Percent of Gross Domestic Product                                                                     NSA  Annual, Fiscal Year 21-Oct-2022  
-FYFSGDA188S                             Federal Surplus or Deficit [-] as Percent of Gross Domestic Product                                                                     NSA  Annual     21-Oct-2022  
-FYGFGDQ188S                             Federal Debt Held by the Public as Percent of Gross Domestic Product                                                                    SA   Quarterly  02-Dec-2022  
-FYOIGDA188S                             Federal Outlays: Interest as Percent of Gross Domestic Product                                                                          NSA  Annual     21-Oct-2022  
-FYONGDA188S                             Federal Net Outlays as Percent of Gross Domestic Product                                                                                NSA  Annual     21-Oct-2022  
-FYPUGDA188S                             Gross Federal Debt Held by the Public as Percent of Gross Domestic Product                                                              NSA  Annual     29-Sep-2022  
-GFDEGDQ188S                             Federal Debt: Total Public Debt as Percent of Gross Domestic Product                                                                    SA   Quarterly  02-Dec-2022  
-GFDGDPA188S                             Gross Federal Debt as Percent of Gross Domestic Product                                                                                 NSA  Annual     29-Sep-2022  
-HBATGDQ188S                             Federal Debt Held by Agencies and Trusts as Percent of Gross Domestic Product                                                           SA   Quarterly  02-Dec-2022  
-HBFIGDQ188S                             Federal Debt Held by Foreign and International Investors as Percent of Gross Domestic Product                                           SA   Quarterly  02-Dec-2022  
-HBFRGDQ188S                             Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product                                                         SA   Quarterly  02-Dec-2022  
-HBPIGDQ188S                             Federal Debt Held by Private Investors as Percent of Gross Domestic Product                                                             SA   Quarterly  02-Dec-2022  
+FYFRGDA188S                             Federal Receipts as Percent of Gross Domestic Product                                                                    NSA  21-Oct-2022  Annual
+FYFSDFYGDP                              Federal Surplus or Deficit [-] as Percent of Gross Domestic Product                                                      NSA  21-Oct-2022  Annual, Fiscal Year
+FYFSGDA188S                             Federal Surplus or Deficit [-] as Percent of Gross Domestic Product                                                      NSA  21-Oct-2022  Annual
+FYGFGDQ188S                             Federal Debt Held by the Public as Percent of Gross Domestic Product                                                     SA   02-Dec-2022  Quarterly
+FYOIGDA188S                             Federal Outlays: Interest as Percent of Gross Domestic Product                                                           NSA  21-Oct-2022  Annual
+FYONGDA188S                             Federal Net Outlays as Percent of Gross Domestic Product                                                                 NSA  21-Oct-2022  Annual
+FYPUGDA188S                             Gross Federal Debt Held by the Public as Percent of Gross Domestic Product                                               NSA  29-Sep-2022  Annual
+GFDEGDQ188S                             Federal Debt: Total Public Debt as Percent of Gross Domestic Product                                                     SA   02-Dec-2022  Quarterly
+GFDGDPA188S                             Gross Federal Debt as Percent of Gross Domestic Product                                                                  NSA  29-Sep-2022  Annual
+HBATGDQ188S                             Federal Debt Held by Agencies and Trusts as Percent of Gross Domestic Product                                            SA   02-Dec-2022  Quarterly
+HBFIGDQ188S                             Federal Debt Held by Foreign and International Investors as Percent of Gross Domestic Product                            SA   02-Dec-2022  Quarterly
+HBFRGDQ188S                             Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product                                          SA   02-Dec-2022  Quarterly
+HBPIGDQ188S                             Federal Debt Held by Private Investors as Percent of Gross Domestic Product                                              SA   02-Dec-2022  Quarterly

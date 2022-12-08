@@ -1,40 +1,40 @@
 Id : 196  Wilshire Indexes
-WILL2500IND                             Wilshire 2500 Total Market Index                                                                                                        NSA  Daily, Close 07-Dec-2022  
-WILL2500INDGR                           Wilshire 2500 Growth Total Market Index                                                                                                 NSA  Daily, Close 07-Dec-2022  
-WILL2500INDVAL                          Wilshire 2500 Value Total Market Index                                                                                                  NSA  Daily, Close 07-Dec-2022  
-WILL2500PR                              Wilshire 2500 Price Index                                                                                                               NSA  Daily, Close 07-Dec-2022  
-WILL2500PRGR                            Wilshire 2500 Growth Price Index                                                                                                        NSA  Daily, Close 07-Dec-2022  
-WILL2500PRVAL                           Wilshire 2500 Value Price Index                                                                                                         NSA  Daily, Close 07-Dec-2022  
-WILL4500IND                             Wilshire 4500 Total Market Index                                                                                                        NSA  Daily, Close 07-Dec-2022  
-WILL4500PR                              Wilshire 4500 Price Index                                                                                                               NSA  Daily, Close 07-Dec-2022  
-WILL5000IND                             Wilshire 5000 Total Market Index                                                                                                        NSA  Daily, Close 07-Dec-2022  
-WILL5000INDFC                           Wilshire 5000 Total Market Full Cap Index                                                                                               NSA  Daily, Close 07-Dec-2022  
-WILL5000PR                              Wilshire 5000 Price Index                                                                                                               NSA  Daily, Close 07-Dec-2022  
-WILL5000PRFC                            Wilshire 5000 Full Cap Price Index                                                                                                      NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAP                              Wilshire US Large-Cap Total Market Index                                                                                                NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAPGR                            Wilshire US Large-Cap Growth Total Market Index                                                                                         NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAPGRPR                          Wilshire US Large-Cap Growth Price Index                                                                                                NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAPPR                            Wilshire US Large-Cap Price Index                                                                                                       NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAPVAL                           Wilshire US Large-Cap Value Total Market Index                                                                                          NSA  Daily, Close 07-Dec-2022  
-WILLLRGCAPVALPR                         Wilshire US Large-Cap Value Price Index                                                                                                 NSA  Daily, Close 07-Dec-2022  
-WILLMICROCAP                            Wilshire US Micro-Cap Total Market Index                                                                                                NSA  Daily, Close 07-Dec-2022  
-WILLMICROCAPPR                          Wilshire US Micro-Cap Price Index                                                                                                       NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAP                              Wilshire US Mid-Cap Total Market Index                                                                                                  NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAPGR                            Wilshire US Mid-Cap Growth Total Market Index                                                                                           NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAPGRPR                          Wilshire US Mid-Cap Growth Price Index                                                                                                  NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAPPR                            Wilshire US Mid-Cap Price Index                                                                                                         NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAPVAL                           Wilshire US Mid-Cap Value Total Market Index                                                                                            NSA  Daily, Close 07-Dec-2022  
-WILLMIDCAPVALPR                         Wilshire US Mid-Cap Value Price Index                                                                                                   NSA  Daily, Close 07-Dec-2022  
-WILLREITIND                             Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT)                                                          NSA  Daily, Close 07-Dec-2022  
-WILLREITPR                              Wilshire US Real Estate Investment Trust Price Index (Wilshire US REIT)                                                                 NSA  Daily, Close 07-Dec-2022  
-WILLRESIND                              Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI)                                                                NSA  Daily, Close 07-Dec-2022  
-WILLRESIPR                              Wilshire US Real Estate Securities Price Index (Wilshire US RESI)                                                                       NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAP                              Wilshire US Small-Cap Total Market Index                                                                                                NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAP250                           Wilshire Small Cap 250 Total Market Index (DISCONTINUED)                                                                                NSA  Daily, Close 16-Dec-2014  
-WILLSMLCAP250PR                         Wilshire Small Cap 250 Price Index (DISCONTINUED)                                                                                       NSA  Daily, Close 16-Dec-2014  
-WILLSMLCAPGR                            Wilshire US Small-Cap Growth Total Market Index                                                                                         NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAPGRPR                          Wilshire US Small-Cap Growth Price Index                                                                                                NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAPPR                            Wilshire US Small-Cap Price Index                                                                                                       NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAPVAL                           Wilshire US Small-Cap Value Total Market Index                                                                                          NSA  Daily, Close 07-Dec-2022  
-WILLSMLCAPVALPR                         Wilshire US Small-Cap Value Price Index                                                                                                 NSA  Daily, Close 07-Dec-2022  
-WILLWWW                                 Wilshire Internet Total Market Index (DISCONTINUED)                                                                                     NSA  Daily, Close 16-Dec-2014  
+WILL2500IND                             Wilshire 2500 Total Market Index                                                                                         NSA  08-Dec-2022  Daily, Close
+WILL2500INDGR                           Wilshire 2500 Growth Total Market Index                                                                                  NSA  08-Dec-2022  Daily, Close
+WILL2500INDVAL                          Wilshire 2500 Value Total Market Index                                                                                   NSA  08-Dec-2022  Daily, Close
+WILL2500PR                              Wilshire 2500 Price Index                                                                                                NSA  08-Dec-2022  Daily, Close
+WILL2500PRGR                            Wilshire 2500 Growth Price Index                                                                                         NSA  08-Dec-2022  Daily, Close
+WILL2500PRVAL                           Wilshire 2500 Value Price Index                                                                                          NSA  08-Dec-2022  Daily, Close
+WILL4500IND                             Wilshire 4500 Total Market Index                                                                                         NSA  08-Dec-2022  Daily, Close
+WILL4500PR                              Wilshire 4500 Price Index                                                                                                NSA  08-Dec-2022  Daily, Close
+WILL5000IND                             Wilshire 5000 Total Market Index                                                                                         NSA  08-Dec-2022  Daily, Close
+WILL5000INDFC                           Wilshire 5000 Total Market Full Cap Index                                                                                NSA  08-Dec-2022  Daily, Close
+WILL5000PR                              Wilshire 5000 Price Index                                                                                                NSA  08-Dec-2022  Daily, Close
+WILL5000PRFC                            Wilshire 5000 Full Cap Price Index                                                                                       NSA  08-Dec-2022  Daily, Close
+WILLLRGCAP                              Wilshire US Large-Cap Total Market Index                                                                                 NSA  08-Dec-2022  Daily, Close
+WILLLRGCAPGR                            Wilshire US Large-Cap Growth Total Market Index                                                                          NSA  08-Dec-2022  Daily, Close
+WILLLRGCAPGRPR                          Wilshire US Large-Cap Growth Price Index                                                                                 NSA  08-Dec-2022  Daily, Close
+WILLLRGCAPPR                            Wilshire US Large-Cap Price Index                                                                                        NSA  08-Dec-2022  Daily, Close
+WILLLRGCAPVAL                           Wilshire US Large-Cap Value Total Market Index                                                                           NSA  08-Dec-2022  Daily, Close
+WILLLRGCAPVALPR                         Wilshire US Large-Cap Value Price Index                                                                                  NSA  08-Dec-2022  Daily, Close
+WILLMICROCAP                            Wilshire US Micro-Cap Total Market Index                                                                                 NSA  08-Dec-2022  Daily, Close
+WILLMICROCAPPR                          Wilshire US Micro-Cap Price Index                                                                                        NSA  08-Dec-2022  Daily, Close
+WILLMIDCAP                              Wilshire US Mid-Cap Total Market Index                                                                                   NSA  08-Dec-2022  Daily, Close
+WILLMIDCAPGR                            Wilshire US Mid-Cap Growth Total Market Index                                                                            NSA  08-Dec-2022  Daily, Close
+WILLMIDCAPGRPR                          Wilshire US Mid-Cap Growth Price Index                                                                                   NSA  08-Dec-2022  Daily, Close
+WILLMIDCAPPR                            Wilshire US Mid-Cap Price Index                                                                                          NSA  08-Dec-2022  Daily, Close
+WILLMIDCAPVAL                           Wilshire US Mid-Cap Value Total Market Index                                                                             NSA  08-Dec-2022  Daily, Close
+WILLMIDCAPVALPR                         Wilshire US Mid-Cap Value Price Index                                                                                    NSA  08-Dec-2022  Daily, Close
+WILLREITIND                             Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT)                                           NSA  08-Dec-2022  Daily, Close
+WILLREITPR                              Wilshire US Real Estate Investment Trust Price Index (Wilshire US REIT)                                                  NSA  08-Dec-2022  Daily, Close
+WILLRESIND                              Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI)                                                 NSA  08-Dec-2022  Daily, Close
+WILLRESIPR                              Wilshire US Real Estate Securities Price Index (Wilshire US RESI)                                                        NSA  08-Dec-2022  Daily, Close
+WILLSMLCAP                              Wilshire US Small-Cap Total Market Index                                                                                 NSA  08-Dec-2022  Daily, Close
+WILLSMLCAP250                           Wilshire Small Cap 250 Total Market Index (DISCONTINUED)                                                                 NSA  16-Dec-2014  Daily, Close
+WILLSMLCAP250PR                         Wilshire Small Cap 250 Price Index (DISCONTINUED)                                                                        NSA  16-Dec-2014  Daily, Close
+WILLSMLCAPGR                            Wilshire US Small-Cap Growth Total Market Index                                                                          NSA  08-Dec-2022  Daily, Close
+WILLSMLCAPGRPR                          Wilshire US Small-Cap Growth Price Index                                                                                 NSA  08-Dec-2022  Daily, Close
+WILLSMLCAPPR                            Wilshire US Small-Cap Price Index                                                                                        NSA  08-Dec-2022  Daily, Close
+WILLSMLCAPVAL                           Wilshire US Small-Cap Value Total Market Index                                                                           NSA  08-Dec-2022  Daily, Close
+WILLSMLCAPVALPR                         Wilshire US Small-Cap Value Price Index                                                                                  NSA  08-Dec-2022  Daily, Close
+WILLWWW                                 Wilshire Internet Total Market Index (DISCONTINUED)                                                                      NSA  16-Dec-2014  Daily, Close

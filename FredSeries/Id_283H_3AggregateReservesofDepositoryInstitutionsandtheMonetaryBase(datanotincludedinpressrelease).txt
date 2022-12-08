@@ -1,3 +1,3 @@
 Id : 283  H.3 Aggregate Reserves of Depository Institutions and the Monetary Base  (data not included in press release)
-EXCSRESNS                               Excess Reserves of Depository Institutions (DISCONTINUED)                                                                               NSA  Monthly    10-Sep-2020  
-EXCSRESNW                               Excess Reserves of Depository Institutions (DISCONTINUED)                                                                               NSA  Weekly, Ending Wednesday 10-Sep-2020  
+EXCSRESNS                               Excess Reserves of Depository Institutions (DISCONTINUED)                                                                NSA  10-Sep-2020  Monthly
+EXCSRESNW                               Excess Reserves of Depository Institutions (DISCONTINUED)                                                                NSA  10-Sep-2020  Weekly, Ending Wednesday

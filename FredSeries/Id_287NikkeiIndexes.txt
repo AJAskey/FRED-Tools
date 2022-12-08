@@ -1,2 +1,2 @@
 Id : 287  Nikkei Indexes
-NIKKEI225                               Nikkei Stock Average, Nikkei 225                                                                                                        NSA  Daily, Close 07-Dec-2022  
+NIKKEI225                               Nikkei Stock Average, Nikkei 225                                                                                         NSA  08-Dec-2022  Daily, Close

@@ -1,2 +1,2 @@
 Id : 169  Turkish Foreign Exchange Intervention
-TRINTDEXR                               Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD)                                                         NSA  Daily, 7-Day 01-Dec-2022  
+TRINTDEXR                               Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD)                                          NSA  01-Dec-2022  Daily, 7-Day

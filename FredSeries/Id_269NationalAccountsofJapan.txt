@@ -1,16 +1,16 @@
 Id : 269  National Accounts of Japan
-JPNNGDP                                 Gross Domestic Product for Japan                                                                                                        SA   Quarterly  07-Dec-2022  
-JPNRGDPCH                               Real Consumption of Households for Japan                                                                                                SA   Quarterly  07-Dec-2022  
-JPNRGDPCII                              Change in Real Private Inventories for Japan                                                                                            SA   Quarterly  14-Nov-2022  
-JPNRGDPCPI                              Change in Real Public Inventories for Japan                                                                                             SA   Quarterly  07-Dec-2022  
-JPNRGDPEGS                              Real Exports of Goods and Services for Japan                                                                                            SA   Quarterly  07-Dec-2022  
-JPNRGDPEIR                              Real Private Consumption Excluding Imputed Rent for Japan                                                                               SA   Quarterly  07-Dec-2022  
-JPNRGDPEXP                              Real Gross Domestic Product for Japan                                                                                                   SA   Quarterly  07-Dec-2022  
-JPNRGDPGC                               Real Government Consumption for Japan                                                                                                   SA   Quarterly  07-Dec-2022  
-JPNRGDPIGS                              Real Imports of Goods and Services for Japan                                                                                            SA   Quarterly  07-Dec-2022  
-JPNRGDPNGS                              Real Net Exports of Good and Services for Japan                                                                                         SA   Quarterly  07-Dec-2022  
-JPNRGDPPC                               Real Private Consumption for Japan                                                                                                      SA   Quarterly  07-Dec-2022  
-JPNRGDPPIN                              Real Public Investment for Japan                                                                                                        SA   Quarterly  07-Dec-2022  
-JPNRGDPPNI                              Real Private Nonresidential Investment for Japan                                                                                        SA   Quarterly  07-Dec-2022  
-JPNRGDPPRI                              Real Private Residential Investment for Japan                                                                                           SA   Quarterly  07-Dec-2022  
-JPNRGDPRDL                              Real Gross Domestic Product: Residual for Japan                                                                                         SA   Quarterly  07-Dec-2022  
+JPNNGDP                                 Gross Domestic Product for Japan                                                                                         SA   07-Dec-2022  Quarterly
+JPNRGDPCH                               Real Consumption of Households for Japan                                                                                 SA   07-Dec-2022  Quarterly
+JPNRGDPCII                              Change in Real Private Inventories for Japan                                                                             SA   08-Dec-2022  Quarterly
+JPNRGDPCPI                              Change in Real Public Inventories for Japan                                                                              SA   07-Dec-2022  Quarterly
+JPNRGDPEGS                              Real Exports of Goods and Services for Japan                                                                             SA   07-Dec-2022  Quarterly
+JPNRGDPEIR                              Real Private Consumption Excluding Imputed Rent for Japan                                                                SA   07-Dec-2022  Quarterly
+JPNRGDPEXP                              Real Gross Domestic Product for Japan                                                                                    SA   07-Dec-2022  Quarterly
+JPNRGDPGC                               Real Government Consumption for Japan                                                                                    SA   07-Dec-2022  Quarterly
+JPNRGDPIGS                              Real Imports of Goods and Services for Japan                                                                             SA   07-Dec-2022  Quarterly
+JPNRGDPNGS                              Real Net Exports of Good and Services for Japan                                                                          SA   07-Dec-2022  Quarterly
+JPNRGDPPC                               Real Private Consumption for Japan                                                                                       SA   07-Dec-2022  Quarterly
+JPNRGDPPIN                              Real Public Investment for Japan                                                                                         SA   07-Dec-2022  Quarterly
+JPNRGDPPNI                              Real Private Nonresidential Investment for Japan                                                                         SA   07-Dec-2022  Quarterly
+JPNRGDPPRI                              Real Private Residential Investment for Japan                                                                            SA   07-Dec-2022  Quarterly
+JPNRGDPRDL                              Real Gross Domestic Product: Residual for Japan                                                                          SA   07-Dec-2022  Quarterly
