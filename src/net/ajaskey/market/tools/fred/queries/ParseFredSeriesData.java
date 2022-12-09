@@ -1,5 +1,6 @@
 package net.ajaskey.market.tools.fred.queries;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
@@ -10,7 +11,7 @@ import net.ajaskey.common.DateTime;
 import net.ajaskey.common.TextUtils;
 
 /**
- * 
+ *
  * @author Computer
  *
  */
@@ -18,11 +19,17 @@ public class ParseFredSeriesData {
 
   private static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
 
+  private static List<String> usefulList = new ArrayList<>();
+
+  private static String fredlib = "FredLib";
+
+  private static SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy");
+
   public static void main(String[] args) throws FileNotFoundException {
 
     final List<String> relList = ParseFredSeriesData.getReleasesToProcess("FredSeries/release-list.txt");
 
-    setUsefulList();
+    ParseFredSeriesData.setUsefulList();
 
     final List<ParseFredSeriesData> pdsList = new ArrayList<>();
 
@@ -37,12 +44,12 @@ public class ParseFredSeriesData {
 
         System.out.printf("release : %s", fname);
 
-        String fileToProcess = "FredSeries/" + fname;
+        final String fileToProcess = "FredSeries/" + fname;
         final List<String> data = TextUtils.readTextFile(fileToProcess, false);
 
         final String header = data.get(0).trim();
 
-        String filename = header.replaceAll(" : ", "").replaceAll("\"", "");
+        final String filename = header.replaceAll(" : ", "").replaceAll("\"", "");
         /**
          * Files to be read into Optuma as a list of charts.
          */
@@ -60,7 +67,7 @@ public class ParseFredSeriesData {
                 pdsList.add(pds);
                 pw.printf("%s,%s,%s,%s%n", pds.getName(), pds.getSeasonality(), pds.getFrequency(), pds.getTitle());
 
-                String sDate = pds.lastUpdate.format("dd-MMM-yyyy");
+                final String sDate = pds.lastUpdate.format("dd-MMM-yyyy");
 
                 processed++;
                 pwAll.printf("%-30s %-4s  %-11s  %-30s %-120s %s%n", pds.getName(), pds.getSeasonality(), sDate, pds.getFrequency(), pds.getTitle(),
@@ -92,6 +99,14 @@ public class ParseFredSeriesData {
     return list;
   }
 
+  private static void setUsefulList() {
+
+    final List<String> useThese = TextUtils.readTextFile("FredSeries/SeriesIdAdditions.txt", false);
+    for (final String s : useThese) {
+      ParseFredSeriesData.usefulList.add(s.trim());
+    }
+  }
+
   private String   name;
   private String   title;
   private String   seasonality;
@@ -99,13 +114,12 @@ public class ParseFredSeriesData {
   private DateTime lastUpdate;
   String           lastUpdateStr;
   private String   release;
+  private File     localFile;
+  private DateTime localFileDate;
   private boolean  valid;
 
-  SimpleDateFormat sdf    = new SimpleDateFormat("dd-MMM-yyyy");
-  SimpleDateFormat sdfout = new SimpleDateFormat("dd-MMM-yyyy");
-
   public ParseFredSeriesData(String data, String rel) {
-    int len = data.length();
+    final int len = data.length();
     if (len > 180) {
 
       String stmp = data.substring(0, 40);
@@ -119,8 +133,18 @@ public class ParseFredSeriesData {
       this.lastUpdate = new DateTime(stmp.trim(), this.sdf);
       stmp = data.substring(178);
       this.frequency = stmp.trim();
-
       this.release = rel;
+
+      this.localFile = new File(String.format("%s/%s.csv", fredlib, this.name));
+
+      if (this.localFile.exists()) {
+        this.localFileDate = new DateTime(this.localFile.lastModified());
+      }
+      else {
+        this.localFile = null;
+        this.localFileDate = null;
+      }
+
       this.valid = true;
     }
     else {
@@ -160,9 +184,21 @@ public class ParseFredSeriesData {
     ret += String.format("  Seasonality : %s%n", this.seasonality);
     ret += String.format("  Frequency   : %s%n", this.frequency);
     ret += String.format("  Last Update : %s     %s%n", this.lastUpdate, this.lastUpdateStr);
-    ret += String.format("  Release     : %s", this.release);
+    ret += String.format("  Release     : %s%n", this.release);
+    if (this.localFile != null) {
+      ret += String.format("  Local File  : %s   %s", this.localFile.getAbsoluteFile(), this.localFileDate);
+    }
 
     return ret;
+  }
+
+  private boolean isInUsefulList(String n) {
+    for (final String s : ParseFredSeriesData.usefulList) {
+      if (s.equalsIgnoreCase(n)) {
+        return true;
+      }
+    }
+    return false;
   }
 
   /**
@@ -171,19 +207,11 @@ public class ParseFredSeriesData {
    */
   private boolean isUseful() {
 
-//    if (!this.name.equals("xyzxcv")) {
-//      return true;
-//    }
-
-    if (isInUsefulList(this.name)) {
+    if (this.isInUsefulList(this.name)) {
       return true;
     }
 
-    if (this.title.toUpperCase().contains("DISCONTINUED")) {
-      return false;
-    }
-
-    if (this.lastUpdate.isLessThan(usefulDate)) {
+    if (this.title.toUpperCase().contains("DISCONTINUED") || this.lastUpdate.isLessThan(ParseFredSeriesData.usefulDate)) {
       return false;
     }
 
@@ -233,6 +261,14 @@ public class ParseFredSeriesData {
       return false;
     }
 
+    // Filter Id : 86 Commercial Paper. Desired are in useful list.
+    if (this.release.contains("Commercial Paper")) {
+      return false;
+    }
+
+    /**
+     * Big ass IF filter developed by trial and error.
+     */
     if (!this.seasonality.equalsIgnoreCase("SA")) {
       if (!this.seasonality.equalsIgnoreCase("SAAR")) {
         if (!this.frequency.equalsIgnoreCase("Not Applicable")) {
@@ -287,25 +323,6 @@ public class ParseFredSeriesData {
             }
           }
         }
-      }
-    }
-    return false;
-  }
-
-  private static List<String> usefulList = new ArrayList<>();
-
-  private static void setUsefulList() {
-
-    List<String> useThese = TextUtils.readTextFile("FredSeries/SeriesIdAdditions.txt", false);
-    for (String s : useThese) {
-      usefulList.add(s.trim());
-    }
-  }
-
-  private boolean isInUsefulList(String n) {
-    for (String s : usefulList) {
-      if (s.equalsIgnoreCase(n)) {
-        return true;
       }
     }
     return false;

@@ -116,6 +116,7 @@ Id_79St_LouisBi-WeeklyReservesandMonetaryBase.txt
 Id_80TreasuryBulletin.txt
 Id_81FiscalYearBudgetData.txt
 Id_82EconomicReportofthePresident.txt
+Id_86CommercialPaper.txt
 Id_89HouseholdDebtServiceandFinancialObligationsRatios.txt
 Id_91SurveysofConsumers.txt
 Id_92SelectedRealRetailSalesSeries.txt
