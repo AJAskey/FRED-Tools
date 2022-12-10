@@ -1,3 +1,21 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements. See the NOTICE file distributed with this
+ * work for additional information regarding copyright ownership. The ASF
+ * licenses this file to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ *
+ * Original author : Andy Askey (ajaskey34@gmail.com)
+ */
 package net.ajaskey.market.tools.fred.queries;
 
 import java.io.File;
@@ -11,6 +29,15 @@ import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 
+/**
+ * 
+ * Class is designed to query FRED for a list of all Releases. Then it queries
+ * FRED about every Series in each Release.
+ * 
+ * Files are output for use in subsequent processing tools. The
+ * <b>LastUpdate</b> field is very useful.
+ *
+ */
 public class PullAll {
 
   static public String seriesOutputFormat = "%-40s%-120s %-4s %-12s %s";
@@ -26,17 +53,11 @@ public class PullAll {
    */
   public static void main(String[] args) throws FileNotFoundException {
 
-    processAll("FredLib");
-  }
+    Debug.init("debug/PullAll.dbg", java.util.logging.Level.INFO);
 
-  /**
-   * 
-   * @param id
-   */
-  public static void processReleaseId(String id) {
+    ApiKey.set();
 
-    Release rel = new Release(id);
-
+    processAll("FredSeries", "FredLib", 6, 7);
   }
 
   /**
@@ -44,34 +65,17 @@ public class PullAll {
    * @param fredlib
    * @throws FileNotFoundException
    */
-  public static void processAll(String fredlib) throws FileNotFoundException {
-
-    Debug.init("debug/PullAll.dbg", java.util.logging.Level.INFO);
+  public static void processAll(String serieslib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
     allSeriesPw = new PrintWriter("out/allSeriesSummary.txt");
 
-    ApiKey.set();
-
     List<Release> relList = Release.queryReleases();
 
-    int lastMoreToDo = 9999999;
-    while (relList.size() > 0) {
+    int num = process(relList, retries, delay, serieslib, fredlib);
 
-      List<Release> moreToDo = process(relList, 5, 7, fredlib);
-
-      relList.clear();
-
-      if (lastMoreToDo > moreToDo.size()) {
-        lastMoreToDo = moreToDo.size();
-
-        if (moreToDo.size() > 0) {
-          relList.addAll(moreToDo);
-        }
-      }
-    }
+    System.out.printf("processed = %d%n", num);
 
     allSeriesPw.close();
-
     Collections.sort(summary);
     try (PrintWriter pw = new PrintWriter("out/FRED-Release-Summary.txt")) {
       pw.println("Id\tName\tSeries Count");
@@ -79,7 +83,6 @@ public class PullAll {
         pw.println(s);
       }
     }
-
   }
 
   /**
@@ -91,17 +94,18 @@ public class PullAll {
    * @return
    * @throws FileNotFoundException
    */
-  private static List<Release> process(List<Release> relList, int retries, int delay, String fredlib) throws FileNotFoundException {
+  private static int process(List<Release> relList, int retries, int delay, String seriesLib, String fredlib) throws FileNotFoundException {
 
-    List<Release> redoList = new ArrayList<>();
+    int totalProcessed = 0;
 
     for (Release rel : relList) {
 
       String cleanname = rel.getName().replaceAll("/", "").replaceAll(":", "").replaceAll("\\.", "_").replaceAll("\"", "").replaceAll("&", "_");
-      String tmp = String.format("tmp/Id_%s%s.txt", rel.getId(), cleanname);
+      String tmp = String.format("%s/Id_%s%s.txt", seriesLib, rel.getId(), cleanname);
       String fn = tmp.replaceAll(" ", "");
-      String fncsv = tmp.replaceAll(".txt", ".csv");
 
+      // Remove existing file so new file will show date of creation. Must be a
+      // Windows feature.
       File f = new File(fn);
       if (f.exists()) {
         f.delete();
@@ -114,7 +118,7 @@ public class PullAll {
 
         List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay, "FredLib");
 
-        System.out.println(String.format("Processed querySeriesPerRelease for %-30s %5d %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
+        System.out.println(String.format("Processed querySeriesPerRelease for %-25s %5d  %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
 
         if (serList.size() > 0) {
           for (Series ser : serList) {
@@ -128,18 +132,21 @@ public class PullAll {
             pw.println(sum);
 
             allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
+
             String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
             summary.add(relsum);
+
+            totalProcessed++;
           }
         }
         else {
           pw.println("No data returned from FRED!");
-          redoList.add(rel);
+          Debug.LOGGER.info("Warning. No data returned from FRED!");
           Utils.sleep(15000);
         }
       }
     }
-    return redoList;
+    return totalProcessed;
   }
 
 }

@@ -191,12 +191,14 @@ public class Utils {
 
   public static String getFromUrl(final String url, int retries, int delay) {
 
+    int sleeptime = delay * 1000;
     for (int i = 0; i < retries; i++) {
       String resp = getFromUrl(url);
       if (resp.length() > 0) {
         return resp;
       }
-      Utils.sleep(delay * 1000);
+      Debug.LOGGER.info(String.format("Response with zero length. Retry=%d  Sleep=%d", i + 1, delay));
+      Utils.sleep(sleeptime);
     }
     return "";
   }

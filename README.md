@@ -20,7 +20,7 @@
  
  New work flow in progress to reduce time on the FRED server.
  
- 1. Download all release and series data (not date/value pairs). This takes about 5 minutes.
+ 1. Download all release and series data (not date/value pairs). This takes about 20 minutes to run due to multiple sleep periods when the FRED server stops responding. [My current method is to use six retries on queries with a seven second sleep when the response is null.]
  2. Retrieve all data needed for updating date/value pairs from local info gathered in step 1. Current processing requires at least 3 hits to FRED server. New processing will require only one in this step.
  
  Updated processing to consider that FRED only returns 1000 items at max. If there is more then another query must be made with the **offset** parameter set to original value (start with **offset**=0) plus 1000. Local logic is required to determine of subsequent call has sent new data or repeats. This is a work in progress. See *Release.queryReleases()* for current example - which will change.
