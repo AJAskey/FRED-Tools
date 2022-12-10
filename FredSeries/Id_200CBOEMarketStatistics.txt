@@ -1,22 +1,22 @@
 Id : 200  CBOE Market Statistics
-EVZCLS                                  CBOE EuroCurrency ETF Volatility Index                                                                                   NSA  08-Dec-2022  Daily, Close
-GVZCLS                                  CBOE Gold ETF Volatility Index                                                                                           NSA  08-Dec-2022  Daily, Close
-OVXCLS                                  CBOE Crude Oil ETF Volatility Index                                                                                      NSA  08-Dec-2022  Daily, Close
-RVXCLS                                  CBOE Russell 2000 Volatility Index                                                                                       NSA  08-Dec-2022  Daily, Close
-VIXCLS                                  CBOE Volatility Index: VIX                                                                                               NSA  08-Dec-2022  Daily, Close
-VXAPLCLS                                CBOE Equity VIX on Apple                                                                                                 NSA  08-Dec-2022  Daily, Close
-VXAZNCLS                                CBOE Equity VIX on Amazon                                                                                                NSA  08-Dec-2022  Daily, Close
-VXDCLS                                  CBOE DJIA Volatility Index                                                                                               NSA  08-Dec-2022  Daily, Close
-VXEEMCLS                                CBOE Emerging Markets ETF Volatility Index                                                                               NSA  08-Dec-2022  Daily, Close
-VXEWZCLS                                CBOE Brazil ETF Volatility Index                                                                                         NSA  08-Dec-2022  Daily, Close
+EVZCLS                                  CBOE EuroCurrency ETF Volatility Index                                                                                   NSA  09-Dec-2022  Daily, Close
+GVZCLS                                  CBOE Gold ETF Volatility Index                                                                                           NSA  09-Dec-2022  Daily, Close
+OVXCLS                                  CBOE Crude Oil ETF Volatility Index                                                                                      NSA  09-Dec-2022  Daily, Close
+RVXCLS                                  CBOE Russell 2000 Volatility Index                                                                                       NSA  09-Dec-2022  Daily, Close
+VIXCLS                                  CBOE Volatility Index: VIX                                                                                               NSA  09-Dec-2022  Daily, Close
+VXAPLCLS                                CBOE Equity VIX on Apple                                                                                                 NSA  09-Dec-2022  Daily, Close
+VXAZNCLS                                CBOE Equity VIX on Amazon                                                                                                NSA  09-Dec-2022  Daily, Close
+VXDCLS                                  CBOE DJIA Volatility Index                                                                                               NSA  09-Dec-2022  Daily, Close
+VXEEMCLS                                CBOE Emerging Markets ETF Volatility Index                                                                               NSA  09-Dec-2022  Daily, Close
+VXEWZCLS                                CBOE Brazil ETF Volatility Index                                                                                         NSA  09-Dec-2022  Daily, Close
 VXFXICLS                                CBOE China ETF Volatility Index (DISCONTINUED)                                                                           NSA  14-Feb-2022  Daily, Close
 VXGDXCLS                                CBOE Gold Miners ETF Volatility Index (DISCONTINUED)                                                                     NSA  14-Feb-2022  Daily, Close
-VXGOGCLS                                CBOE Equity VIX on Google                                                                                                NSA  08-Dec-2022  Daily, Close
-VXGSCLS                                 CBOE Equity VIX on Goldman Sachs                                                                                         NSA  08-Dec-2022  Daily, Close
-VXIBMCLS                                CBOE Equity VIX on IBM                                                                                                   NSA  08-Dec-2022  Daily, Close
-VXNCLS                                  CBOE NASDAQ 100 Volatility Index                                                                                         NSA  08-Dec-2022  Daily, Close
+VXGOGCLS                                CBOE Equity VIX on Google                                                                                                NSA  09-Dec-2022  Daily, Close
+VXGSCLS                                 CBOE Equity VIX on Goldman Sachs                                                                                         NSA  09-Dec-2022  Daily, Close
+VXIBMCLS                                CBOE Equity VIX on IBM                                                                                                   NSA  09-Dec-2022  Daily, Close
+VXNCLS                                  CBOE NASDAQ 100 Volatility Index                                                                                         NSA  09-Dec-2022  Daily, Close
 VXOCLS                                  CBOE S&P 100 Volatility Index: VXO (DISCONTINUED)                                                                        NSA  24-Sep-2021  Daily, Close
 VXSLVCLS                                CBOE Silver ETF Volatility Index (DISCONTINUED)                                                                          NSA  14-Feb-2022  Daily, Close
 VXTYN                                   CBOE 10-Year Treasury Note Volatility Futures (DISCONTINUED)                                                             NSA  17-Jun-2020  Daily, Close
-VXVCLS                                  CBOE S&P 500 3-Month Volatility Index                                                                                    NSA  08-Dec-2022  Daily, Close
+VXVCLS                                  CBOE S&P 500 3-Month Volatility Index                                                                                    NSA  09-Dec-2022  Daily, Close
 VXXLECLS                                CBOE Energy Sector ETF Volatility Index (DISCONTINUED)                                                                   NSA  14-Feb-2022  Daily, Close

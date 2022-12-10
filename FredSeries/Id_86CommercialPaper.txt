@@ -1,18 +1,18 @@
 Id : 86  Commercial Paper
-AB1020AAAMT                             Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  08-Dec-2022  Daily
-AB1020AAVOL                             Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  08-Dec-2022  Daily
-AB14AAAMT                               Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  08-Dec-2022  Daily
-AB14AAVOL                               Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  08-Dec-2022  Daily
-AB2140AAAMT                             Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  08-Dec-2022  Daily
-AB2140AAVOL                             Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  08-Dec-2022  Daily
-AB4180AAAMT                             Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  08-Dec-2022  Daily
-AB4180AAVOL                             Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  08-Dec-2022  Daily
-AB59AAAMT                               Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  08-Dec-2022  Daily
-AB59AAVOL                               Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  08-Dec-2022  Daily
+AB1020AAAMT                             Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
+AB1020AAVOL                             Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
+AB14AAAMT                               Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
+AB14AAVOL                               Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
+AB2140AAAMT                             Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
+AB2140AAVOL                             Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
+AB4180AAAMT                             Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
+AB4180AAVOL                             Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
+AB59AAAMT                               Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
+AB59AAVOL                               Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
 ABCOMP                                  Asset-Backed Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
 ABCOMPN                                 Asset-Backed Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
-ABGT80AAAMT                             Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  08-Dec-2022  Daily
-ABGT80AAVOL                             Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  08-Dec-2022  Daily
+ABGT80AAAMT                             Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
+ABGT80AAVOL                             Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
 COMPAPER                                Nonfinancial Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
 COMPOUT                                 Commercial Paper Outstanding                                                                                             SA   08-Dec-2022  Weekly, Ending Wednesday
 COMPUTN                                 Commercial Paper Outstanding                                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
@@ -85,20 +85,20 @@ DTBSPCKPTONM                            Directly Placed Other Commercial Paper O
 DTBSPCKPTONWW                           Directly Placed Other Commercial Paper Outstanding                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
 FFINCP                                  Foreign Financial Commercial Paper Outstanding                                                                           SA   08-Dec-2022  Weekly, Ending Wednesday
 FFINCPN                                 Foreign Financial Commercial Paper Outstanding                                                                           NSA  08-Dec-2022  Weekly, Ending Wednesday
-FIN1020AAAMT                            Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  08-Dec-2022  Daily
-FIN1020AAVOL                            Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  08-Dec-2022  Daily
-FIN14AAAMT                              Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  08-Dec-2022  Daily
-FIN14AAVOL                              Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  08-Dec-2022  Daily
-FIN2140AAAMT                            Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  08-Dec-2022  Daily
-FIN2140AAVOL                            Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  08-Dec-2022  Daily
-FIN4180AAAMT                            Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  08-Dec-2022  Daily
-FIN4180AAVOL                            Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  08-Dec-2022  Daily
-FIN59AAAMT                              Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  08-Dec-2022  Daily
-FIN59AAVOL                              Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  08-Dec-2022  Daily
+FIN1020AAAMT                            Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
+FIN1020AAVOL                            Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
+FIN14AAAMT                              Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
+FIN14AAVOL                              Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
+FIN2140AAAMT                            Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
+FIN2140AAVOL                            Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
+FIN4180AAAMT                            Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
+FIN4180AAVOL                            Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
+FIN59AAAMT                              Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
+FIN59AAVOL                              Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
 FINCP                                   Financial Commercial Paper Outstanding                                                                                   SA   08-Dec-2022  Weekly, Ending Wednesday
 FINCPN                                  Financial Commercial Paper Outstanding                                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
-FINGT80AAAMT                            Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  08-Dec-2022  Daily
-FINGT80AAVOL                            Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  08-Dec-2022  Daily
+FINGT80AAAMT                            Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
+FINGT80AAVOL                            Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
 FNFINCP                                 Foreign Nonfinancial Commercial Paper Outstanding                                                                        SA   08-Dec-2022  Weekly, Ending Wednesday
 FNFINCPN                                Foreign Nonfinancial Commercial Paper Outstanding                                                                        NSA  08-Dec-2022  Weekly, Ending Wednesday
 H0DTBSPCKBANM                           Asset Backed Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly
@@ -138,66 +138,66 @@ H1DTBSPCKINFNM                          Foreign Nonfinancial Commercial Paper Ou
 H1DTBSPCKINM                            Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 SA   04-May-2022  Monthly
 H1DTBSPCKINNM                           Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly
 H1DTBSPCKM                              Commercial Paper Outstanding (DISCONTINUED)                                                                              SA   04-May-2022  Monthly
-MKT1020MKTAMT                           Total Value of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                            NSA  08-Dec-2022  Daily
-MKT1020MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                                 NSA  08-Dec-2022  Daily
-MKT14MKTAMT                             Total Value of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                              NSA  08-Dec-2022  Daily
-MKT14MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                                   NSA  08-Dec-2022  Daily
-MKT2140MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 21 and 40 Days                                        NSA  08-Dec-2022  Daily
-MKT2140MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 21 and 40 Days                                                 NSA  08-Dec-2022  Daily
-MKT4180MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 41 and 80 Days                                        NSA  08-Dec-2022  Daily
-MKT4180MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 41 and 80 Days                                                 NSA  08-Dec-2022  Daily
-MKT59MKTAMT                             Total Value of Issuers of Commercial Paper with a Maturity Between 5 and 9 Days                                          NSA  08-Dec-2022  Daily
-MKT59MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 5 and 9 Days                                                   NSA  08-Dec-2022  Daily
-MKTGT80MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Greater Than 80 Days                                          NSA  08-Dec-2022  Daily
-MKTGT80MKTVOL                           Number of Commercial Paper Issues with a Maturity Greater Than 80 Days                                                   NSA  08-Dec-2022  Daily
+MKT1020MKTAMT                           Total Value of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                            NSA  09-Dec-2022  Daily
+MKT1020MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                                 NSA  09-Dec-2022  Daily
+MKT14MKTAMT                             Total Value of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                              NSA  09-Dec-2022  Daily
+MKT14MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                                   NSA  09-Dec-2022  Daily
+MKT2140MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 21 and 40 Days                                        NSA  09-Dec-2022  Daily
+MKT2140MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 21 and 40 Days                                                 NSA  09-Dec-2022  Daily
+MKT4180MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 41 and 80 Days                                        NSA  09-Dec-2022  Daily
+MKT4180MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 41 and 80 Days                                                 NSA  09-Dec-2022  Daily
+MKT59MKTAMT                             Total Value of Issuers of Commercial Paper with a Maturity Between 5 and 9 Days                                          NSA  09-Dec-2022  Daily
+MKT59MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 5 and 9 Days                                                   NSA  09-Dec-2022  Daily
+MKTGT80MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Greater Than 80 Days                                          NSA  09-Dec-2022  Daily
+MKTGT80MKTVOL                           Number of Commercial Paper Issues with a Maturity Greater Than 80 Days                                                   NSA  09-Dec-2022  Daily
 NFINCP                                  Nonfinancial Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
-NONFIN1020A2P2AMT                       Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  08-Dec-2022  Daily
-NONFIN1020A2P2VOL                       Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFIN1020AAAMT                         Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  08-Dec-2022  Daily
-NONFIN1020AAVOL                         Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  08-Dec-2022  Daily
-NONFIN14A2P2AMT                         Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  08-Dec-2022  Daily
-NONFIN14A2P2VOL                         Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  08-Dec-2022  Daily
-NONFIN14AAAMT                           Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFIN14AAVOL                           Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  08-Dec-2022  Daily
-NONFIN2140A2P2AMT                       Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  08-Dec-2022  Daily
-NONFIN2140A2P2VOL                       Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFIN2140AAAMT                         Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  08-Dec-2022  Daily
-NONFIN2140AAVOL                         Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  08-Dec-2022  Daily
-NONFIN4180A2P2AMT                       Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  08-Dec-2022  Daily
-NONFIN4180A2P2VOL                       Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFIN4180AAAMT                         Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  08-Dec-2022  Daily
-NONFIN4180AAVOL                         Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  08-Dec-2022  Daily
-NONFIN59A2P2AMT                         Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  08-Dec-2022  Daily
-NONFIN59A2P2VOL                         Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  08-Dec-2022  Daily
-NONFIN59AAAMT                           Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFIN59AAVOL                           Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  08-Dec-2022  Daily
-NONFINGT80A2P2AMT                       Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  08-Dec-2022  Daily
-NONFINGT80A2P2VOL                       Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  08-Dec-2022  Daily
-NONFINGT80AAAMT                         Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  08-Dec-2022  Daily
-NONFINGT80AAVOL                         Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  08-Dec-2022  Daily
+NONFIN1020A2P2AMT                       Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
+NONFIN1020A2P2VOL                       Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFIN1020AAAMT                         Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
+NONFIN1020AAVOL                         Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
+NONFIN14A2P2AMT                         Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
+NONFIN14A2P2VOL                         Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
+NONFIN14AAAMT                           Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFIN14AAVOL                           Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
+NONFIN2140A2P2AMT                       Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
+NONFIN2140A2P2VOL                       Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFIN2140AAAMT                         Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
+NONFIN2140AAVOL                         Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
+NONFIN4180A2P2AMT                       Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
+NONFIN4180A2P2VOL                       Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFIN4180AAAMT                         Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
+NONFIN4180AAVOL                         Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
+NONFIN59A2P2AMT                         Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
+NONFIN59A2P2VOL                         Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
+NONFIN59AAAMT                           Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFIN59AAVOL                           Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
+NONFINGT80A2P2AMT                       Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
+NONFINGT80A2P2VOL                       Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
+NONFINGT80AAAMT                         Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
+NONFINGT80AAVOL                         Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
 OTHCOMP                                 Other Commercial Paper Outstanding                                                                                       SA   08-Dec-2022  Weekly, Ending Wednesday
 OTHCOMPN                                Other Commercial Paper Outstanding                                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
-RIFSPPAAAD01NB                          Overnight AA Asset-Backed Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
-RIFSPPAAAD07NB                          7-Day AA Asset-Backed Commercial Paper Interest Rate                                                                     NSA  08-Dec-2022  Daily
-RIFSPPAAAD15NB                          15-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  08-Dec-2022  Daily
-RIFSPPAAAD30NB                          30-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  08-Dec-2022  Daily
-RIFSPPAAAD60NB                          60-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  08-Dec-2022  Daily
-RIFSPPAAAD90NB                          90-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  08-Dec-2022  Daily
-RIFSPPFAAD01NB                          Overnight AA Financial Commercial Paper Interest Rate                                                                    NSA  08-Dec-2022  Daily
-RIFSPPFAAD07NB                          7-Day AA Financial Commercial Paper Interest Rate                                                                        NSA  08-Dec-2022  Daily
+RIFSPPAAAD01NB                          Overnight AA Asset-Backed Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
+RIFSPPAAAD07NB                          7-Day AA Asset-Backed Commercial Paper Interest Rate                                                                     NSA  09-Dec-2022  Daily
+RIFSPPAAAD15NB                          15-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
+RIFSPPAAAD30NB                          30-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
+RIFSPPAAAD60NB                          60-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
+RIFSPPAAAD90NB                          90-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
+RIFSPPFAAD01NB                          Overnight AA Financial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
+RIFSPPFAAD07NB                          7-Day AA Financial Commercial Paper Interest Rate                                                                        NSA  09-Dec-2022  Daily
 RIFSPPFAAD15NB                          15-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily
 RIFSPPFAAD30NB                          30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily
 RIFSPPFAAD60NB                          60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily
-RIFSPPFAAD90NB                          90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D01NB                        Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate                                                              NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D07NB                        7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                  NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D15NB                        15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D30NB                        30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D60NB                        60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
-RIFSPPNA2P2D90NB                        90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
-RIFSPPNAAD01NB                          Overnight AA Nonfinancial Commercial Paper Interest Rate                                                                 NSA  08-Dec-2022  Daily
+RIFSPPFAAD90NB                          90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D01NB                        Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate                                                              NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D07NB                        7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                  NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D15NB                        15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D30NB                        30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D60NB                        60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
+RIFSPPNA2P2D90NB                        90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
+RIFSPPNAAD01NB                          Overnight AA Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
 RIFSPPNAAD07NB                          7-Day AA Nonfinancial Commercial Paper Interest Rate                                                                     NSA  08-Dec-2022  Daily
-RIFSPPNAAD15NB                          15-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Daily
+RIFSPPNAAD15NB                          15-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
 RIFSPPNAAD30NB                          30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  06-Dec-2022  Daily
-RIFSPPNAAD60NB                          60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  07-Dec-2022  Daily
+RIFSPPNAAD60NB                          60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
 RIFSPPNAAD90NB                          90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  22-Nov-2022  Daily

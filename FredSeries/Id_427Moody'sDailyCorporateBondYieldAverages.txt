@@ -1,7 +1,7 @@
 Id : 427  Moody's Daily Corporate Bond Yield Averages
 AAA                                     Moody's Seasoned Aaa Corporate Bond Yield                                                                                NSA  01-Dec-2022  Monthly
 BAA                                     Moody's Seasoned Baa Corporate Bond Yield                                                                                NSA  01-Dec-2022  Monthly
-DAAA                                    Moody's Seasoned Aaa Corporate Bond Yield                                                                                NSA  08-Dec-2022  Daily
-DBAA                                    Moody's Seasoned Baa Corporate Bond Yield                                                                                NSA  08-Dec-2022  Daily
+DAAA                                    Moody's Seasoned Aaa Corporate Bond Yield                                                                                NSA  09-Dec-2022  Daily
+DBAA                                    Moody's Seasoned Baa Corporate Bond Yield                                                                                NSA  09-Dec-2022  Daily
 WAAA                                    Moody's Seasoned Aaa Corporate Bond Yield                                                                                NSA  07-Dec-2022  Weekly, Ending Friday
 WBAA                                    Moody's Seasoned Baa Corporate Bond Yield                                                                                NSA  07-Dec-2022  Weekly, Ending Friday

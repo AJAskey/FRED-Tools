@@ -1,3 +1,3 @@
 Id : 328  NASDAQ
-NASDAQ100                               NASDAQ 100 Index                                                                                                         NSA  08-Dec-2022  Daily, Close
-NASDAQCOM                               NASDAQ Composite Index                                                                                                   NSA  08-Dec-2022  Daily, Close
+NASDAQ100                               NASDAQ 100 Index                                                                                                         NSA  09-Dec-2022  Daily, Close
+NASDAQCOM                               NASDAQ Composite Index                                                                                                   NSA  09-Dec-2022  Daily, Close

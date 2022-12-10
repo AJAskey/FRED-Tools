@@ -202,6 +202,10 @@ public class ParseFredSeriesData {
   }
 
   /**
+   * This routine is specific to data I (Andy Askey) want to see. It is a
+   * brute-force method.
+   * 
+   * I suggest that you write your own isUseful function.
    *
    * @return
    */
@@ -263,6 +267,47 @@ public class ParseFredSeriesData {
 
     // Filter Id : 86 Commercial Paper. Desired are in useful list.
     if (this.release.contains("Commercial Paper")) {
+      return false;
+    }
+
+    // Filter Id : 183 Gasoline and Diesel Fuel Update. Only want basic weekly data.
+    if (this.release.contains("Gasoline and Diesel Fuel Update")) {
+      if (!this.title.contains("PADD ")) {
+        if (this.frequency.contains("Weekly")) {
+          return true;
+        }
+
+      }
+      return false;
+    }
+
+    // Filter Id : 321 Empire State Manufacturing Survey. Desired are in useful
+    // list.
+    if (this.release.contains("Empire State Manufacturing Survey")) {
+      return false;
+    }
+
+    // Filter Id : 374 Texas Manufacturing Outlook Survey. Desired are in useful
+    // list.
+    if (this.release.contains("Texas Manufacturing Outlook Survey")) {
+      return false;
+    }
+
+    // Filter Id : 352 Nonmanufacturing Business Outlook Survey. Desired are in
+    // useful list.
+    if (this.release.contains("Nonmanufacturing Business Outlook Survey")) {
+      return false;
+    }
+
+    // Filter Id : 46 Producer Price Index. Desired are in
+    // useful list.
+    if (this.release.contains("Producer Price Index")) {
+      return false;
+    }
+
+    // Filter Id : 205 Main Economic Indicators. Desired are in
+    // useful list.
+    if (this.release.contains("Main Economic Indicators")) {
       return false;
     }
 

@@ -1,2 +1,2 @@
 Id : 189  Standard & Poors
-SP500                                   S&P 500                                                                                                                  NSA  07-Dec-2022  Daily, Close
+SP500                                   S&P 500                                                                                                                  NSA  09-Dec-2022  Daily, Close

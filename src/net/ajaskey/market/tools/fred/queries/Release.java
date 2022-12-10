@@ -21,7 +21,7 @@ import net.ajaskey.market.tools.fred.ApiKey;
 
 public class Release {
 
-  private static List<Release>                realeaseList = new ArrayList<>();
+  private static List<Release>                releaseList  = new ArrayList<>();
   private static Set<String>                  uniqReleases = new HashSet<>();
   private final static DocumentBuilderFactory dbFactory    = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder     = null;
@@ -32,19 +32,24 @@ public class Release {
 
     ApiKey.set();
 
-    List<Release> relList = Release.queryReleases();
+    final List<Release> relList = Release.queryReleases();
 
     String dbg = Utils.NL + "All Releases" + Utils.NL;
-    for (Release rel : relList) {
+    for (final Release rel : relList) {
       Debug.LOGGER.info(rel.toString());
       dbg += rel.toString() + Utils.NL;
     }
     Debug.LOGGER.info(dbg);
   }
 
+  /**
+   * Public query to return all the releases available at FRED.
+   * 
+   * @return List of Releases
+   */
   public static List<Release> queryReleases() {
 
-    Release.realeaseList.clear();
+    Release.releaseList.clear();
 
     int offset = 0;
     boolean readmore = true;
@@ -58,21 +63,13 @@ public class Release {
       }
     }
 
-    return Release.realeaseList;
-  }
-
-  public Release() {
-    this.valid = false;
-  }
-
-  public Release(String relId) {
-    this.id = relId;
-    this.valid = false;
+    return Release.releaseList;
   }
 
   /**
+   * Private worker procedure to make specific query to FRED for all releases.
    *
-   * @param offset
+   * @param offset query FRED to offset into data
    * @return
    */
   private static int fredReleaseQuery(int offset) {
@@ -121,7 +118,7 @@ public class Release {
             final boolean newRel = Release.uniqReleases.add(rel.id);
             if (newRel) {
               rel.valid = true;
-              Release.realeaseList.add(rel);
+              Release.releaseList.add(rel);
             }
             else {
               totalProcessed--;
@@ -137,16 +134,32 @@ public class Release {
     return totalProcessed;
   }
 
-  private String id;
-  private String name;
-  private String realtime_start;
-  private String realtime_end;
-  private String press_release;
-  private String link;
-
+  private String  id;
+  private String  name;
+  private String  realtime_start;
+  private String  realtime_end;
+  private String  press_release;
+  private String  link;
   private String  url;
   private String  response;
   private boolean valid;
+
+  /**
+   * Constructor
+   */
+  public Release() {
+    this.valid = false;
+  }
+
+  /**
+   * Constructor
+   *
+   * @param relId
+   */
+  public Release(String relId) {
+    this.id = relId;
+    this.valid = false;
+  }
 
   public String getId() {
     return this.id;
@@ -172,30 +185,30 @@ public class Release {
     return this.realtime_start;
   }
 
-  @Override
-  public String toString() {
-    final String ret = String.format("Release Id=%s Name=%s    Valid=%s", this.id, this.name, this.valid);
-    return ret;
-  }
-
-  public boolean isValid() {
-    return valid;
+  public String getResponse() {
+    return this.response;
   }
 
   public String getUrl() {
-    return url;
+    return this.url;
   }
 
-  public String getResponse() {
-    return response;
+  public boolean isValid() {
+    return this.valid;
   }
 
-  void setUrl(String url) {
-    this.url = url;
+  @Override
+  public String toString() {
+    final String ret = String.format("Release Id=%s   Name=%s    Valid=%s", this.id, this.name, this.valid);
+    return ret;
   }
 
   void setResponse(String response) {
     this.response = response;
+  }
+
+  void setUrl(String url) {
+    this.url = url;
   }
 
 }

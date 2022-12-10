@@ -11,6 +11,7 @@ Id_144ResidentialVacanciesandHomeownershipAnnualStatistics.txt
 Id_152HealthInsuranceCoverage.txt
 Id_179QuarterlyRetailE-CommerceSales.txt
 Id_180UnemploymentInsuranceWeeklyClaimsReport.txt
+Id_183GasolineandDieselFuelUpdate.txt
 Id_185InterestRateonReserveBalances.txt
 Id_187St_LouisFedFinancialStressIndex.txt
 Id_189Standard_Poors.txt
@@ -22,6 +23,7 @@ Id_194ADPNationalEmploymentReport.txt
 Id_198KansasCityFinancialStressIndex.txt
 Id_19H_3AggregateReservesofDepositoryInstitutionsandtheMonetaryBase.txt
 Id_20H_4_1FactorsAffectingReserveBalances.txt
+Id_205MainEconomicIndicators.txt
 Id_212SpotPrices.txt
 Id_219ChicagoFedNationalActivityIndex.txt
 Id_21H_6MoneyStockMeasures.txt
@@ -51,6 +53,7 @@ Id_304InterestRateSpreads.txt
 Id_311CurrencyandCoinServices.txt
 Id_313StickyPriceCPI.txt
 Id_315CurrentMedianCPI.txt
+Id_321EmpireStateManufacturingSurvey.txt
 Id_322BusinessLeadersSurvey.txt
 Id_323TrimmedMeanPCEInflationRate.txt
 Id_326SummaryofEconomicProjections.txt
@@ -63,6 +66,7 @@ Id_341KansasCityFedLaborMarketConditionsIndicators.txt
 Id_342NaturalGasSpotandFuturesPrices(NYMEX).txt
 Id_345ResearchConsumerPriceIndex.txt
 Id_349TransportationServicesIndexandSeasonally-AdjustedTransportationData.txt
+Id_352NonmanufacturingBusinessOutlookSurvey.txt
 Id_355MinimumWageRates.txt
 Id_356FixedAssets.txt
 Id_357HoursofWageandSalaryWorkersonNonfarmPayrollsbySector.txt
@@ -75,6 +79,7 @@ Id_371Hornstein-Kudlyak-LangeNon-EmploymentIndex.txt
 Id_372ChicagoFedSurveyofEconomicConditions.txt
 Id_373GDP-BasedRecessionIndicatorIndex.txt
 Id_375OvernightBankFundingRateData.txt
+Id_374TexasManufacturingOutlookSurvey.txt
 Id_378FederalFundsData.txt
 Id_379TemporaryOpenMarketOperations.txt
 Id_383MarketValueofU_S_GovernmentDebt.txt
@@ -91,6 +96,7 @@ Id_445SecuredOvernightFinancingRateData.txt
 Id_447FRY-14MLargeBankCreditCardandMortgageData.txt
 Id_456SahmRuleRecessionIndicator.txt
 Id_459SurveyofBusinessUncertainty.txt
+Id_46ProducerPriceIndex.txt
 Id_460SeasonalFactorsforDomesticAutoandTruckProduction.txt
 Id_465WeeklyEconomicIndex(Lewis-Mertens-Stock).txt
 Id_471ManufacturedHousingSurvey.txt

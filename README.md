@@ -1,7 +1,9 @@
 # FRED Tools
  Interface with Tools into FRED Economic Data Online Library - [FRED](https://fred.stlouisfed.org)
  
- Main tools are in the net.ajaskey.market.tools.fred.executables package. These tools are works in-progress at this point.
+ Taking some time to review the FRED API before diving into coding will save you a lot of time. [FRED API Docs](https://fred.stlouisfed.org/docs/api/fred)
+ 
+ Main tools are in the net.ajaskey.market.tools.fred.executables package. These tools are works in-progress at this point. Alpha release.
  
  Previous iterations are in the net.ajaskey.market.tools.fred.legacy package. Viewers may find some insights into the FRED API and logic. This package has been deprecated.
  

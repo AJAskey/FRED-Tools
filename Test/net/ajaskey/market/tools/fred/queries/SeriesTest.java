@@ -16,10 +16,11 @@ class SeriesTest {
 
     ApiKey.set();
 
-//    final Series ser = Series.querySeries("CAPUTLG325212S", 0);
-//    ser.setFileDate("D:\\github\\FRED-Git\\FRED-Tools\\FredLib");
-//
-//    System.out.println(ser);
+    Series ser1 = Series.query("CMWRPOP", 10, 2, "FredLib");
+    System.out.println(ser1);
+
+    Series ser2 = Series.query("GDP", 10, 2, "FredLib");
+    System.out.println(ser2);
   }
 
   @Test
@@ -28,7 +29,7 @@ class SeriesTest {
 
     ApiKey.set();
 
-    final List<Series> serList = Series.querySeriesPerRelease("53", 2, 15);
+    final List<Series> serList = Series.querySeriesPerRelease("53", 2, 15, "FredLib");
 
     System.out.println("Series knt : " + serList.size());
 

@@ -182,6 +182,11 @@ public class FredUtils {
 
     final DateTime dt = new DateTime();
 
+    File f = new File(filename);
+    if (f.exists()) {
+      f.delete();
+    }
+
     try (PrintWriter pw = new PrintWriter(filename)) {
       pw.printf("%s\t%s%n", FredUtils.infoHeader, dt.toFullString());
       for (final DataSeriesInfo dsi : dsiList) {

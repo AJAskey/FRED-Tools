@@ -1043,7 +1043,7 @@ Id : 414  Income Inequality
 2020RATIO021099                         Income Inequality in Hart County, KY                                                                                     NSA  08-Dec-2022  Annual
 2020RATIO021101                         Income Inequality in Henderson County, KY                                                                                NSA  08-Dec-2022  Annual
 2020RATIO021103                         Income Inequality in Henry County, KY                                                                                    NSA  08-Dec-2022  Annual
-2020RATIO021105                         Income Inequality in Hickman County, KY                                                                                  NSA  10-Dec-2020  Annual
+2020RATIO021105                         Income Inequality in Hickman County, KY                                                                                  NSA  08-Dec-2022  Annual
 2020RATIO021107                         Income Inequality in Hopkins County, KY                                                                                  NSA  08-Dec-2022  Annual
 2020RATIO021109                         Income Inequality in Jackson County, KY                                                                                  NSA  08-Dec-2022  Annual
 2020RATIO021111                         Income Inequality in Jefferson County, KY                                                                                NSA  08-Dec-2022  Annual
@@ -1655,7 +1655,7 @@ Id : 414  Income Inequality
 2020RATIO031001                         Income Inequality in Adams County, NE                                                                                    NSA  08-Dec-2022  Annual
 2020RATIO031003                         Income Inequality in Antelope County, NE                                                                                 NSA  08-Dec-2022  Annual
 2020RATIO031005                         Income Inequality in Arthur County, NE                                                                                   NSA  08-Dec-2022  Annual
-2020RATIO031007                         Income Inequality in Banner County, NE                                                                                   NSA  10-Dec-2020  Annual
+2020RATIO031007                         Income Inequality in Banner County, NE                                                                                   NSA  08-Dec-2022  Annual
 2020RATIO031009                         Income Inequality in Blaine County, NE                                                                                   NSA  08-Dec-2022  Annual
 2020RATIO031011                         Income Inequality in Boone County, NE                                                                                    NSA  08-Dec-2022  Annual
 2020RATIO031013                         Income Inequality in Box Butte County, NE                                                                                NSA  08-Dec-2022  Annual

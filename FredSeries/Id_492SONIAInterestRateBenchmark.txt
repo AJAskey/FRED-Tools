@@ -1,8 +1,8 @@
 Id : 492  SONIA Interest Rate Benchmark
-IUDSOIA                                 Daily Sterling Overnight Index Average (SONIA) Rate                                                                      NSA  08-Dec-2022  Daily
-IUDZLS6                                 Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile                                                     NSA  08-Dec-2022  Daily
-IUDZLS7                                 Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile                                                     NSA  08-Dec-2022  Daily
-IUDZLS8                                 Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile                                                     NSA  08-Dec-2022  Daily
-IUDZLS9                                 Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile                                                     NSA  08-Dec-2022  Daily
-IUDZLT2                                 Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value                                                  NSA  08-Dec-2022  Daily
-IUDZOS2                                 SONIA Compounded Index                                                                                                   NSA  08-Dec-2022  Daily
+IUDSOIA                                 Daily Sterling Overnight Index Average (SONIA) Rate                                                                      NSA  09-Dec-2022  Daily
+IUDZLS6                                 Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile                                                     NSA  09-Dec-2022  Daily
+IUDZLS7                                 Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile                                                     NSA  09-Dec-2022  Daily
+IUDZLS8                                 Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile                                                     NSA  09-Dec-2022  Daily
+IUDZLS9                                 Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile                                                     NSA  09-Dec-2022  Daily
+IUDZLT2                                 Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value                                                  NSA  09-Dec-2022  Daily
+IUDZOS2                                 SONIA Compounded Index                                                                                                   NSA  09-Dec-2022  Daily

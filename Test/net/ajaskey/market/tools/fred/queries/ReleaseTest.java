@@ -22,7 +22,8 @@ class ReleaseTest {
     String dbg = Utils.NL + "All Releases" + Utils.NL;
     for (Release rel : relList) {
       Debug.LOGGER.info(rel.toString());
-      dbg += rel.toString() + Utils.NL;
+      String s = String.format("Id=%-6s %-130s %s%n", rel.getId(), rel.getName(), rel.getLink());
+      dbg += s;
     }
     Debug.LOGGER.info(dbg);
   }
