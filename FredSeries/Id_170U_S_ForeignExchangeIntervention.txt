@@ -1,7 +1,7 @@
 Id : 170  U.S. Foreign Exchange Intervention
-USINTDCSDM                              U.S. Intervention: With-Customer Transactions in the DEM/USD (Euro since 1999) (Millions of USD)                         NSA  19-Sep-2019  Daily, 7-Day
-USINTDCSJPY                             U.S. Intervention: With-Customer Transactions in the JPY/USD (Millions of USD)                                           NSA  19-Sep-2019  Daily, 7-Day
-USINTDCSOTH                             U.S. Intervention: With-Customer Transactions in Other Currencies (Millions of USD)                                      NSA  19-Sep-2019  Daily, 7-Day
-USINTDMRKTDM                            U.S. Intervention: in Market Transactions in the DEM/USD (Euro since 1999) (Millions of USD)                             NSA  19-Sep-2019  Daily, 7-Day
-USINTDMRKTJPY                           U.S. Intervention: in Market Transactions in the JPY/USD (Millions of USD)                                               NSA  19-Sep-2019  Daily, 7-Day
-USINTDMRKTOTH                           U.S. Intervention: in Market Transactions in Other Currencies (Millions of USD)                                          NSA  19-Sep-2019  Daily, 7-Day
+USINTDCSDM                    U.S. Intervention: With-Customer Transactions in the DEM/USD (Euro since 1999) (Millions of USD)                         NSA  19-Sep-2019  Daily, 7-Day   
+USINTDCSJPY                   U.S. Intervention: With-Customer Transactions in the JPY/USD (Millions of USD)                                           NSA  19-Sep-2019  Daily, 7-Day   
+USINTDCSOTH                   U.S. Intervention: With-Customer Transactions in Other Currencies (Millions of USD)                                      NSA  19-Sep-2019  Daily, 7-Day   
+USINTDMRKTDM                  U.S. Intervention: in Market Transactions in the DEM/USD (Euro since 1999) (Millions of USD)                             NSA  19-Sep-2019  Daily, 7-Day   
+USINTDMRKTJPY                 U.S. Intervention: in Market Transactions in the JPY/USD (Millions of USD)                                               NSA  19-Sep-2019  Daily, 7-Day   
+USINTDMRKTOTH                 U.S. Intervention: in Market Transactions in Other Currencies (Millions of USD)                                          NSA  19-Sep-2019  Daily, 7-Day   

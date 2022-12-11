@@ -1,442 +1,442 @@
 Id : 476  Job Postings on Indeed
-IHLCHG10420                             Job Postings on Indeed in Akron, OH (MSA)                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG10580                             Job Postings on Indeed in Albany-Schenectady-Troy, NY (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG10740                             Job Postings on Indeed in Albuquerque, NM (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG10900                             Job Postings on Indeed in Allentown-Bethlehem-Easton, PA-NJ (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12060                             Job Postings on Indeed in Atlanta-Sandy Springs-Alpharetta, GA (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12260                             Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12420                             Job Postings on Indeed in Austin-Round Rock-Georgetown, TX (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12540                             Job Postings on Indeed in Bakersfield, CA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12580                             Job Postings on Indeed in Baltimore-Columbia-Towson, MD (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG12940                             Job Postings on Indeed in Baton Rouge, LA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG13820                             Job Postings on Indeed in Birmingham-Hoover, AL (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHG14260                             Job Postings on Indeed in Boise City, ID (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG14460                             Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG14860                             Job Postings on Indeed in Bridgeport-Stamford-Norwalk, CT (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG15380                             Job Postings on Indeed in Buffalo-Cheektowaga, NY (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHG15980                             Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG16700                             Job Postings on Indeed in Charleston-North Charleston, SC (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG16740                             Job Postings on Indeed in Charlotte-Concord-Gastonia, NC-SC (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG16860                             Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG16980                             Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG17140                             Job Postings on Indeed in Cincinnati, OH-KY-IN (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG17460                             Job Postings on Indeed in Cleveland-Elyria, OH (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG17820                             Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG17900                             Job Postings on Indeed in Columbia, SC (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG18140                             Job Postings on Indeed in Columbus, OH (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19100                             Job Postings on Indeed in Dallas-Fort Worth-Arlington, TX (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19430                             Job Postings on Indeed in Dayton-Kettering, OH (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19660                             Job Postings on Indeed in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19740                             Job Postings on Indeed in Denver-Aurora-Lakewood, CO (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19780                             Job Postings on Indeed in Des Moines-West Des Moines, IA (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG19820                             Job Postings on Indeed in Detroit-Warren-Dearborn, MI (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG20500                             Job Postings on Indeed in Durham-Chapel Hill, NC (MSA)                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHG21340                             Job Postings on Indeed in El Paso, TX (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG22180                             Job Postings on Indeed in Fayetteville, NC (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG22220                             Job Postings on Indeed in Fayetteville-Springdale-Rogers, AR (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG23420                             Job Postings on Indeed in Fresno, CA (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG24340                             Job Postings on Indeed in Grand Rapids-Kentwood, MI (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG24660                             Job Postings on Indeed in Greensboro-High Point, NC (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG24860                             Job Postings on Indeed in Greenville-Anderson, SC (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHG25420                             Job Postings on Indeed in Harrisburg-Carlisle, PA (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHG25540                             Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHG26420                             Job Postings on Indeed in Houston-The Woodlands-Sugar Land, TX (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG26900                             Job Postings on Indeed in Indianapolis-Carmel-Anderson, IN (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG27140                             Job Postings on Indeed in Jackson, MS (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG27260                             Job Postings on Indeed in Jacksonville, FL (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG28140                             Job Postings on Indeed in Kansas City, MO-KS (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG28940                             Job Postings on Indeed in Knoxville, TN (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG29460                             Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG29540                             Job Postings on Indeed in Lancaster, PA (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG29620                             Job Postings on Indeed in Lansing-East Lansing, MI (MSA)                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHG29820                             Job Postings on Indeed in Las Vegas-Henderson-Paradise, NV (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG30460                             Job Postings on Indeed in Lexington-Fayette, KY (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHG30780                             Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHG31080                             Job Postings on Indeed in Los Angeles-Long Beach-Anaheim, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG31140                             Job Postings on Indeed in Louisville/Jefferson County, KY-IN (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG31540                             Job Postings on Indeed in Madison, WI (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG32580                             Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG32820                             Job Postings on Indeed in Memphis, TN-MS-AR (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG33100                             Job Postings on Indeed in Miami-Fort Lauderdale-Pompano Beach, FL (MSA)                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHG33340                             Job Postings on Indeed in Milwaukee-Waukesha, WI (MSA)                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHG33460                             Job Postings on Indeed in Minneapolis-St. Paul-Bloomington, MN-WI (MSA)                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHG33700                             Job Postings on Indeed in Modesto, CA (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG34980                             Job Postings on Indeed in Nashville-Davidson--Murfreesboro--Franklin, TN (MSA)                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG35300                             Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHG35380                             Job Postings on Indeed in New Orleans-Metairie, LA (MSA)                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHG35620                             Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHG35840                             Job Postings on Indeed in North Port-Sarasota-Bradenton, FL (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG36260                             Job Postings on Indeed in Ogden-Clearfield, UT (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG36420                             Job Postings on Indeed in Oklahoma City, OK (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG36540                             Job Postings on Indeed in Omaha-Council Bluffs, NE-IA (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG36740                             Job Postings on Indeed in Orlando-Kissimmee-Sanford, FL (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG37100                             Job Postings on Indeed in Oxnard-Thousand Oaks-Ventura, CA (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG37340                             Job Postings on Indeed in Palm Bay-Melbourne-Titusville, FL (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG37860                             Job Postings on Indeed in Pensacola-Ferry Pass-Brent, FL (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG37980                             Job Postings on Indeed in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG38060                             Job Postings on Indeed in Phoenix-Mesa-Chandler, AZ (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG38300                             Job Postings on Indeed in Pittsburgh, PA (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG38860                             Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG38900                             Job Postings on Indeed in Portland-Vancouver-Hillsboro, OR-WA (MSA)                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHG39100                             Job Postings on Indeed in Poughkeepsie-Newburgh-Middletown, NY (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG39300                             Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG39340                             Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHG39580                             Job Postings on Indeed in Raleigh-Cary, NC (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG40060                             Job Postings on Indeed in Richmond, VA (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG40140                             Job Postings on Indeed in Riverside-San Bernardino-Ontario, CA (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHG40380                             Job Postings on Indeed in Rochester, NY (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG40900                             Job Postings on Indeed in Sacramento-Roseville-Folsom, CA (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41180                             Job Postings on Indeed in St. Louis, MO-IL (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41620                             Job Postings on Indeed in Salt Lake City, UT (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41700                             Job Postings on Indeed in San Antonio-New Braunfels, TX (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41740                             Job Postings on Indeed in San Diego-Chula Vista-Carlsbad, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41860                             Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG41940                             Job Postings on Indeed in San Jose-Sunnyvale-Santa Clara, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG42540                             Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG42660                             Job Postings on Indeed in Seattle-Tacoma-Bellevue, WA (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG44060                             Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG44140                             Job Postings on Indeed in Springfield, MA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHG44700                             Job Postings on Indeed in Stockton, CA (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG45060                             Job Postings on Indeed in Syracuse, NY (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG45300                             Job Postings on Indeed in Tampa-St. Petersburg-Clearwater, FL (MSA)                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHG45780                             Job Postings on Indeed in Toledo, OH (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG46060                             Job Postings on Indeed in Tucson, AZ (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG46140                             Job Postings on Indeed in Tulsa, OK (MSA)                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHG46520                             Job Postings on Indeed in Urban Honolulu, HI (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHG47260                             Job Postings on Indeed in Virginia Beach-Norfolk-Newport News, VA-NC (MSA)                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHG47900                             Job Postings on Indeed in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA)                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHG48620                             Job Postings on Indeed in Wichita, KS (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHG49180                             Job Postings on Indeed in Winston-Salem, NC (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHG49340                             Job Postings on Indeed in Worcester, MA-CT (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHG49660                             Job Postings on Indeed in Youngstown-Warren-Boardman, OH-PA (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAU                                Job Postings on Indeed in Australia                                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPACCO                          Accounting Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPADMIASSI                      Administrative Assistance Job Postings on Indeed in Australia                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPAGFO                          Agriculture and Forestry Job Postings on Indeed in Australia                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPARCH                          Architecture Job Postings on Indeed in Australia                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPAREN                          Arts and Entertainment Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPBAFI                          Banking and Finance Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPBEWE                          Beauty and Wellness Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCHIL                          Childcare Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCIVIENGI                      Civil Engineering Job Postings on Indeed in Australia                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCLSA                          Cleaning and Sanitation Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCONS                          Construction Job Postings on Indeed in Australia                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCOSOSE                        Community and Social Service Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPCUSTSERV                      Customer Service Job Postings on Indeed in Australia                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPDENT                          Dental Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPEDIN                          Education and Instruction Job Postings on Indeed in Australia                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPELECENGI                      Electrical Engineering Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPFOPRSE                        Food Preparation and Service Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPHOTO                          Hospitality and Tourism Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPHUMARESO                      Human Resources Job Postings on Indeed in Australia                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPINDEDO                        Information Design and Documentation Job Postings on Indeed in Australia                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPINDUENGI                      Industrial Engineering Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPINMA                          Installation and Maintenance Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPINSU                          Insurance Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in Australia                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPLEGA                          Legal Job Postings on Indeed in Australia                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPLOGISUPP                      Logistic Support Job Postings on Indeed in Australia                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPLOST                          Loading and Stocking Job Postings on Indeed in Australia                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMANA                          Management Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMARK                          Marketing Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMATH                          Mathematics Job Postings on Indeed in Australia                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMECO                          Media and Communications Job Postings on Indeed in Australia                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMEDIINFO                      Medical Information Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPMEDITECH                      Medical Technician Job Postings on Indeed in Australia                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPNURS                          Nursing Job Postings on Indeed in Australia                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPPECAHOHE                      Personal Care and Home Health Job Postings on Indeed in Australia                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPPHAR                          Pharmacy Job Postings on Indeed in Australia                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPPHSU                          Physicians and Surgeons Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPPRMA                          Production and Manufacturing Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPPROJMANA                      Project Management Job Postings on Indeed in Australia                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPREALESTA                      Real Estate Job Postings on Indeed in Australia                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPRETA                          Retail Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSALE                          Sales Job Postings on Indeed in Australia                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSCREDE                        Scientific Research and Development Job Postings on Indeed in Australia                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSEPUSA                        Security and Public Safety Job Postings on Indeed in Australia                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSOCISCIE                      Social Science Job Postings on Indeed in Australia                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSOFTDEVE                      Software Development Job Postings on Indeed in Australia                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPSPOR                          Sports Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPTHER                          Therapy Job Postings on Indeed in Australia                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGAUTPVETE                          Veterinary Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCA                                Job Postings on Indeed in Canada                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPACCO                          Accounting Job Postings on Indeed in Canada                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPADMIASSI                      Administrative Assistance Job Postings on Indeed in Canada                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPARCH                          Architecture Job Postings on Indeed in Canada                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPAREN                          Arts and Entertainment Job Postings on Indeed in Canada                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPBAFI                          Banking and Finance Job Postings on Indeed in Canada                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPBEWE                          Beauty and Wellness Job Postings on Indeed in Canada                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPCLSA                          Cleaning and Sanitation Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPCONS                          Construction Job Postings on Indeed in Canada                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPCOSOSE                        Community and Social Service Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPCUSTSERV                      Customer Service Job Postings on Indeed in Canada                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPDENT                          Dental Job Postings on Indeed in Canada                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPDRIV                          Driving Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPEDIN                          Education and Instruction Job Postings on Indeed in Canada                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPFOPRSE                        Food Preparation and Service Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPHOTO                          Hospitality and Tourism Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPHUMARESO                      Human Resources Job Postings on Indeed in Canada                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPINDEDO                        Information Design and Documentation Job Postings on Indeed in Canada                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPINDUENGI                      Industrial Engineering Job Postings on Indeed in Canada                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPINMA                          Installation and Maintenance Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPINSU                          Insurance Job Postings on Indeed in Canada                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in Canada                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPLEGA                          Legal Job Postings on Indeed in Canada                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPLOGISUPP                      Logistic Support Job Postings on Indeed in Canada                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPLOST                          Loading and Stocking Job Postings on Indeed in Canada                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPMANA                          Management Job Postings on Indeed in Canada                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPMARK                          Marketing Job Postings on Indeed in Canada                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPMECO                          Media and Communications Job Postings on Indeed in Canada                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPMEDITECH                      Medical Technician Job Postings on Indeed in Canada                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPNURS                          Nursing Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPPECAHOHE                      Personal Care and Home Health Job Postings on Indeed in Canada                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPPHSU                          Physicians and Surgeons Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPPRMA                          Production and Manufacturing Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPPROJMANA                      Project Management Job Postings on Indeed in Canada                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPRETA                          Retail Job Postings on Indeed in Canada                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPSALE                          Sales Job Postings on Indeed in Canada                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPSCREDE                        Scientific Research and Development Job Postings on Indeed in Canada                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPSEPUSA                        Security and Public Safety Job Postings on Indeed in Canada                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPSOFTDEVE                      Software Development Job Postings on Indeed in Canada                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGCATPTHER                          Therapy Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDE                                Job Postings on Indeed in Germany                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPACCO                          Accounting Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPADMIASSI                      Administrative Assistance Job Postings on Indeed in Germany                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPAGFO                          Agriculture and Forestry Job Postings on Indeed in Germany                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPARCH                          Architecture Job Postings on Indeed in Germany                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPBAFI                          Banking and Finance Job Postings on Indeed in Germany                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPBEWE                          Beauty and Wellness Job Postings on Indeed in Germany                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCHIL                          Childcare Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCIVIENGI                      Civil Engineering Job Postings on Indeed in Germany                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCLSA                          Cleaning and Sanitation Job Postings on Indeed in Germany                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCONS                          Construction Job Postings on Indeed in Germany                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCOSOSE                        Community and Social Service Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPCUSTSERV                      Customer Service Job Postings on Indeed in Germany                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPDENT                          Dental Job Postings on Indeed in Germany                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPEDIN                          Education and Instruction Job Postings on Indeed in Germany                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPELECENGI                      Electrical Engineering Job Postings on Indeed in Germany                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPFOPRSE                        Food Preparation and Service Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPHOTO                          Hospitality and Tourism Job Postings on Indeed in Germany                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPHUMARESO                      Human Resources Job Postings on Indeed in Germany                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPINDEDO                        Information Design and Documentation Job Postings on Indeed in Germany                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPINDUENGI                      Industrial Engineering Job Postings on Indeed in Germany                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPINMA                          Installation and Maintenance Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPINSU                          Insurance Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in Germany                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPLEGA                          Legal Job Postings on Indeed in Germany                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPLOGISUPP                      Logistic Support Job Postings on Indeed in Germany                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPLOST                          Loading and Stocking Job Postings on Indeed in Germany                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPMANA                          Management Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPMARK                          Marketing Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPMATH                          Mathematics Job Postings on Indeed in Germany                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPMECO                          Media and Communications Job Postings on Indeed in Germany                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPMEDITECH                      Medical Technician Job Postings on Indeed in Germany                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPPHAR                          Pharmacy Job Postings on Indeed in Germany                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPPRMA                          Production and Manufacturing Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPPROJMANA                      Project Management Job Postings on Indeed in Germany                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPREALESTA                      Real Estate Job Postings on Indeed in Germany                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSALE                          Sales Job Postings on Indeed in Germany                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSCREDE                        Scientific Research and Development Job Postings on Indeed in Germany                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSEPUSA                        Security and Public Safety Job Postings on Indeed in Germany                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSOCISCIE                      Social Science Job Postings on Indeed in Germany                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSOFTDEVE                      Software Development Job Postings on Indeed in Germany                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPSPOR                          Sports Job Postings on Indeed in Germany                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPTHER                          Therapy Job Postings on Indeed in Germany                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGDETPVETE                          Veterinary Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFR                                Job Postings on Indeed in France                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPACCO                          Accounting Job Postings on Indeed in France                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPADMIASSI                      Administrative Assistance Job Postings on Indeed in France                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPAGFO                          Agriculture and Forestry Job Postings on Indeed in France                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPBAFI                          Banking and Finance Job Postings on Indeed in France                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPCHIL                          Childcare Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPCLSA                          Cleaning and Sanitation Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPCONS                          Construction Job Postings on Indeed in France                                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPCUSTSERV                      Customer Service Job Postings on Indeed in France                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPDRIV                          Driving Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPEDIN                          Education and Instruction Job Postings on Indeed in France                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPFOPRSE                        Food Preparation and Service Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPHOTO                          Hospitality and Tourism Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPHUMARESO                      Human Resources Job Postings on Indeed in France                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPINDEDO                        Information Design and Documentation Job Postings on Indeed in France                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPINDUENGI                      Industrial Engineering Job Postings on Indeed in France                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPINMA                          Installation and Maintenance Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPINSU                          Insurance Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in France                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPLEGA                          Legal Job Postings on Indeed in France                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPLOGISUPP                      Logistic Support Job Postings on Indeed in France                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPLOST                          Loading and Stocking Job Postings on Indeed in France                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPMANA                          Management Job Postings on Indeed in France                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPMARK                          Marketing Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPMECO                          Media and Communications Job Postings on Indeed in France                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPNURS                          Nursing Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPPECAHOHE                      Personal Care and Home Health Job Postings on Indeed in France                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPPHAR                          Pharmacy Job Postings on Indeed in France                                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPPHSU                          Physicians and Surgeons Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPPRMA                          Production and Manufacturing Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPPROJMANA                      Project Management Job Postings on Indeed in France                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPREALESTA                      Real Estate Job Postings on Indeed in France                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPRETA                          Retail Job Postings on Indeed in France                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPSALE                          Sales Job Postings on Indeed in France                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPSEPUSA                        Security and Public Safety Job Postings on Indeed in France                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPSOFTDEVE                      Software Development Job Postings on Indeed in France                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGFRTPTHER                          Therapy Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGB                                Job Postings on Indeed in the United Kingdom                                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPACCO                          Accounting Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPADMIASSI                      Administrative Assistance Job Postings on Indeed in the United Kingdom                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPARCH                          Architecture Job Postings on Indeed in the United Kingdom                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPAREN                          Arts and Entertainment Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPBAFI                          Banking and Finance Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPBEWE                          Beauty and Wellness Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCHIL                          Childcare Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCIVIENGI                      Civil Engineering Job Postings on Indeed in the United Kingdom                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCLSA                          Cleaning and Sanitation Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCONS                          Construction Job Postings on Indeed in the United Kingdom                                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCOSOSE                        Community and Social Service Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPCUSTSERV                      Customer Service Job Postings on Indeed in the United Kingdom                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPDENT                          Dental Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPDRIV                          Driving Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPEDIN                          Education and Instruction Job Postings on Indeed in the United Kingdom                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPELECENGI                      Electrical Engineering Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPFOPRSE                        Food Preparation and Service Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPHOTO                          Hospitality and Tourism Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPHUMARESO                      Human Resources Job Postings on Indeed in the United Kingdom                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPINDEDO                        Information Design and Documentation Job Postings on Indeed in the United Kingdom                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPINDUENGI                      Industrial Engineering Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPINMA                          Installation and Maintenance Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPINSU                          Insurance Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in the United Kingdom                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPLEGA                          Legal Job Postings on Indeed in the United Kingdom                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPLOGISUPP                      Logistic Support Job Postings on Indeed in the United Kingdom                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPLOST                          Loading and Stocking Job Postings on Indeed in the United Kingdom                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMANA                          Management Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMARK                          Marketing Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMATH                          Mathematics Job Postings on Indeed in the United Kingdom                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMECO                          Media and Communications Job Postings on Indeed in the United Kingdom                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMEDIINFO                      Medical Information Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPMEDITECH                      Medical Technician Job Postings on Indeed in the United Kingdom                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPNURS                          Nursing Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPPECAHOHE                      Personal Care and Home Health Job Postings on Indeed in the United Kingdom                                               SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPPHAR                          Pharmacy Job Postings on Indeed in the United Kingdom                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPPHSU                          Physicians and Surgeons Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPPRMA                          Production and Manufacturing Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPPROJMANA                      Project Management Job Postings on Indeed in the United Kingdom                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPREALESTA                      Real Estate Job Postings on Indeed in the United Kingdom                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPRETA                          Retail Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSALE                          Sales Job Postings on Indeed in the United Kingdom                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSCREDE                        Scientific Research and Development Job Postings on Indeed in the United Kingdom                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSEPUSA                        Security and Public Safety Job Postings on Indeed in the United Kingdom                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSOCISCIE                      Social Science Job Postings on Indeed in the United Kingdom                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSOFTDEVE                      Software Development Job Postings on Indeed in the United Kingdom                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPSPOR                          Sports Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPTHER                          Therapy Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGGBTPVETE                          Veterinary Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGHIGHUS                            Job Postings Indexed Trend on Indeed: High Wage Tier in the United States (DISCONTINUED)                                 NSA  05-Jan-2021  Daily, 7-Day
-IHLCHGIE                                Job Postings on Indeed in Ireland                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGLOWUS                             Job Postings Indexed Trend on Indeed: Low Wage Tier in the United States (DISCONTINUED)                                  NSA  05-Jan-2021  Daily, 7-Day
-IHLCHGMIDDLEUS                          Job Postings Indexed Trend on Indeed: Middle Wage Tier in the United States (DISCONTINUED)                               NSA  05-Jan-2021  Daily, 7-Day
-IHLCHGNEWAU                             New Job Postings on Indeed in Australia                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWCA                             New Job Postings on Indeed in Canada                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWDE                             New Job Postings on Indeed in Germany                                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWFR                             New Job Postings on Indeed in France                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWGB                             New Job Postings on Indeed in the United Kingdom                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWIE                             New Job Postings on Indeed in Ireland                                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGNEWUS                             New Job Postings on Indeed in the United States                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUS                                Job Postings on Indeed in the United States                                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSAK                              Job Postings on Indeed in Alaska                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSAL                              Job Postings on Indeed in Alabama                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSAR                              Job Postings on Indeed in Arkansas                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSAZ                              Job Postings on Indeed in Arizona                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSCA                              Job Postings on Indeed in California                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSCO                              Job Postings on Indeed in Colorado                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSCT                              Job Postings on Indeed in Connecticut                                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSDC                              Job Postings on Indeed in District of Columbia                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSDE                              Job Postings on Indeed in Delaware                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSFL                              Job Postings on Indeed in Florida                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSGA                              Job Postings on Indeed in Georgia                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSHI                              Job Postings on Indeed in Hawaii                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSIA                              Job Postings on Indeed in Iowa                                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSID                              Job Postings on Indeed in Idaho                                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSIL                              Job Postings on Indeed in Illinois                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSIN                              Job Postings on Indeed in Indiana                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSKS                              Job Postings on Indeed in Kansas                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSKY                              Job Postings on Indeed in Kentucky                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSLA                              Job Postings on Indeed in Louisiana                                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMA                              Job Postings on Indeed in Massachusetts                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMD                              Job Postings on Indeed in Maryland                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSME                              Job Postings on Indeed in Maine                                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMI                              Job Postings on Indeed in Michigan                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMN                              Job Postings on Indeed in Minnesota                                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMO                              Job Postings on Indeed in Missouri                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMS                              Job Postings on Indeed in Mississippi                                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSMT                              Job Postings on Indeed in Montana                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNC                              Job Postings on Indeed in North Carolina                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSND                              Job Postings on Indeed in North Dakota                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNE                              Job Postings on Indeed in Nebraska                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNH                              Job Postings on Indeed in New Hampshire                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNJ                              Job Postings on Indeed in New Jersey                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNM                              Job Postings on Indeed in New Mexico                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNV                              Job Postings on Indeed in Nevada                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSNY                              Job Postings on Indeed in New York                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSOH                              Job Postings on Indeed in Ohio                                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSOK                              Job Postings on Indeed in Oklahoma                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSOR                              Job Postings on Indeed in Oregon                                                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSPA                              Job Postings on Indeed in Pennsylvania                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSRI                              Job Postings on Indeed in Rhode Island                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSSC                              Job Postings on Indeed in South Carolina                                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSSD                              Job Postings on Indeed in South Dakota                                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTN                              Job Postings on Indeed in Tennessee                                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPACCO                          Accounting Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPADMIASSI                      Administrative Assistance Job Postings on Indeed in the United States                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPARCH                          Architecture Job Postings on Indeed in the United States                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPAREN                          Arts and Entertainment Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPBAFI                          Banking and Finance Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPBEWE                          Beauty and Wellness Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCHIL                          Childcare Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCIVIENGI                      Civil Engineering Job Postings on Indeed in the United States                                                            SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCLSA                          Cleaning and Sanitation Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCONS                          Construction Job Postings on Indeed in the United States                                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCOSOSE                        Community and Social Service Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPCUSTSERV                      Customer Service Job Postings on Indeed in the United States                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPDENT                          Dental Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPDRIV                          Driving Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPEDIN                          Education and Instruction Job Postings on Indeed in the United States                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPELECENGI                      Electrical Engineering Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPFOPRSE                        Food Preparation and Service Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPHOTO                          Hospitality and Tourism Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPHUMARESO                      Human Resources Job Postings on Indeed in the United States                                                              SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPINDEDO                        Information Design and Documentation Job Postings on Indeed in the United States                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPINDUENGI                      Industrial Engineering Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPINMA                          Installation and Maintenance Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPINSU                          Insurance Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPITOPHE                        IT Operations and Helpdesk Job Postings on Indeed in the United States                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPLEGA                          Legal Job Postings on Indeed in the United States                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPLOGISUPP                      Logistic Support Job Postings on Indeed in the United States                                                             SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPLOST                          Loading and Stocking Job Postings on Indeed in the United States                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMANA                          Management Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMARK                          Marketing Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMATH                          Mathematics Job Postings on Indeed in the United States                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMECO                          Media and Communications Job Postings on Indeed in the United States                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMEDIINFO                      Medical Information Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPMEDITECH                      Medical Technician Job Postings on Indeed in the United States                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPNURS                          Nursing Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPPECAHOHE                      Personal Care and Home Health Job Postings on Indeed in the United States                                                SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPPHAR                          Pharmacy Job Postings on Indeed in the United States                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPPHSU                          Physicians and Surgeons Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPPRMA                          Production and Manufacturing Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPPROJMANA                      Project Management Job Postings on Indeed in the United States                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPRETA                          Retail Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPSALE                          Sales Job Postings on Indeed in the United States                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPSCREDE                        Scientific Research and Development Job Postings on Indeed in the United States                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPSEPUSA                        Security and Public Safety Job Postings on Indeed in the United States                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPSOFTDEVE                      Software Development Job Postings on Indeed in the United States                                                         SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPSPOR                          Sports Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPTHER                          Therapy Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTPVETE                          Veterinary Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSTX                              Job Postings on Indeed in Texas                                                                                          SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSUT                              Job Postings on Indeed in Utah                                                                                           SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSVA                              Job Postings on Indeed in Virginia                                                                                       SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSVT                              Job Postings on Indeed in Vermont                                                                                        SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSWA                              Job Postings on Indeed in Washington                                                                                     SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSWI                              Job Postings on Indeed in Wisconsin                                                                                      SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSWV                              Job Postings on Indeed in West Virginia                                                                                  SA   01-Dec-2022  Daily, 7-Day
-IHLCHGUSWY                              Job Postings on Indeed in Wyoming                                                                                        SA   01-Dec-2022  Daily, 7-Day
+IHLCHG10420                   Job Postings on Indeed in Akron, OH (MSA)                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG10580                   Job Postings on Indeed in Albany-Schenectady-Troy, NY (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG10740                   Job Postings on Indeed in Albuquerque, NM (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG10900                   Job Postings on Indeed in Allentown-Bethlehem-Easton, PA-NJ (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12060                   Job Postings on Indeed in Atlanta-Sandy Springs-Alpharetta, GA (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12260                   Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12420                   Job Postings on Indeed in Austin-Round Rock-Georgetown, TX (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12540                   Job Postings on Indeed in Bakersfield, CA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12580                   Job Postings on Indeed in Baltimore-Columbia-Towson, MD (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG12940                   Job Postings on Indeed in Baton Rouge, LA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG13820                   Job Postings on Indeed in Birmingham-Hoover, AL (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG14260                   Job Postings on Indeed in Boise City, ID (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG14460                   Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG14860                   Job Postings on Indeed in Bridgeport-Stamford-Norwalk, CT (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG15380                   Job Postings on Indeed in Buffalo-Cheektowaga, NY (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG15980                   Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG16700                   Job Postings on Indeed in Charleston-North Charleston, SC (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG16740                   Job Postings on Indeed in Charlotte-Concord-Gastonia, NC-SC (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG16860                   Job Postings on Indeed in Chattanooga, TN-GA (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG16980                   Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG17140                   Job Postings on Indeed in Cincinnati, OH-KY-IN (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG17460                   Job Postings on Indeed in Cleveland-Elyria, OH (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG17820                   Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG17900                   Job Postings on Indeed in Columbia, SC (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG18140                   Job Postings on Indeed in Columbus, OH (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19100                   Job Postings on Indeed in Dallas-Fort Worth-Arlington, TX (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19430                   Job Postings on Indeed in Dayton-Kettering, OH (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19660                   Job Postings on Indeed in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19740                   Job Postings on Indeed in Denver-Aurora-Lakewood, CO (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19780                   Job Postings on Indeed in Des Moines-West Des Moines, IA (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG19820                   Job Postings on Indeed in Detroit-Warren-Dearborn, MI (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG20500                   Job Postings on Indeed in Durham-Chapel Hill, NC (MSA)                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG21340                   Job Postings on Indeed in El Paso, TX (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG22180                   Job Postings on Indeed in Fayetteville, NC (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG22220                   Job Postings on Indeed in Fayetteville-Springdale-Rogers, AR (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG23420                   Job Postings on Indeed in Fresno, CA (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG24340                   Job Postings on Indeed in Grand Rapids-Kentwood, MI (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG24660                   Job Postings on Indeed in Greensboro-High Point, NC (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG24860                   Job Postings on Indeed in Greenville-Anderson, SC (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG25420                   Job Postings on Indeed in Harrisburg-Carlisle, PA (MSA)                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG25540                   Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG26420                   Job Postings on Indeed in Houston-The Woodlands-Sugar Land, TX (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG26900                   Job Postings on Indeed in Indianapolis-Carmel-Anderson, IN (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG27140                   Job Postings on Indeed in Jackson, MS (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG27260                   Job Postings on Indeed in Jacksonville, FL (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG28140                   Job Postings on Indeed in Kansas City, MO-KS (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG28940                   Job Postings on Indeed in Knoxville, TN (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG29460                   Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG29540                   Job Postings on Indeed in Lancaster, PA (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG29620                   Job Postings on Indeed in Lansing-East Lansing, MI (MSA)                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG29820                   Job Postings on Indeed in Las Vegas-Henderson-Paradise, NV (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG30460                   Job Postings on Indeed in Lexington-Fayette, KY (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG30780                   Job Postings on Indeed in Little Rock-North Little Rock-Conway, AR (MSA)                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG31080                   Job Postings on Indeed in Los Angeles-Long Beach-Anaheim, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG31140                   Job Postings on Indeed in Louisville/Jefferson County, KY-IN (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG31540                   Job Postings on Indeed in Madison, WI (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG32580                   Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG32820                   Job Postings on Indeed in Memphis, TN-MS-AR (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG33100                   Job Postings on Indeed in Miami-Fort Lauderdale-Pompano Beach, FL (MSA)                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG33340                   Job Postings on Indeed in Milwaukee-Waukesha, WI (MSA)                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG33460                   Job Postings on Indeed in Minneapolis-St. Paul-Bloomington, MN-WI (MSA)                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG33700                   Job Postings on Indeed in Modesto, CA (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG34980                   Job Postings on Indeed in Nashville-Davidson--Murfreesboro--Franklin, TN (MSA)                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG35300                   Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG35380                   Job Postings on Indeed in New Orleans-Metairie, LA (MSA)                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG35620                   Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG35840                   Job Postings on Indeed in North Port-Sarasota-Bradenton, FL (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG36260                   Job Postings on Indeed in Ogden-Clearfield, UT (MSA)                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG36420                   Job Postings on Indeed in Oklahoma City, OK (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG36540                   Job Postings on Indeed in Omaha-Council Bluffs, NE-IA (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG36740                   Job Postings on Indeed in Orlando-Kissimmee-Sanford, FL (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG37100                   Job Postings on Indeed in Oxnard-Thousand Oaks-Ventura, CA (MSA)                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG37340                   Job Postings on Indeed in Palm Bay-Melbourne-Titusville, FL (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG37860                   Job Postings on Indeed in Pensacola-Ferry Pass-Brent, FL (MSA)                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG37980                   Job Postings on Indeed in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG38060                   Job Postings on Indeed in Phoenix-Mesa-Chandler, AZ (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG38300                   Job Postings on Indeed in Pittsburgh, PA (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG38860                   Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG38900                   Job Postings on Indeed in Portland-Vancouver-Hillsboro, OR-WA (MSA)                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG39100                   Job Postings on Indeed in Poughkeepsie-Newburgh-Middletown, NY (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG39300                   Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG39340                   Job Postings on Indeed in Provo-Orem, UT (MSA)                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG39580                   Job Postings on Indeed in Raleigh-Cary, NC (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG40060                   Job Postings on Indeed in Richmond, VA (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG40140                   Job Postings on Indeed in Riverside-San Bernardino-Ontario, CA (MSA)                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG40380                   Job Postings on Indeed in Rochester, NY (MSA)                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG40900                   Job Postings on Indeed in Sacramento-Roseville-Folsom, CA (MSA)                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41180                   Job Postings on Indeed in St. Louis, MO-IL (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41620                   Job Postings on Indeed in Salt Lake City, UT (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41700                   Job Postings on Indeed in San Antonio-New Braunfels, TX (MSA)                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41740                   Job Postings on Indeed in San Diego-Chula Vista-Carlsbad, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41860                   Job Postings on Indeed in San Francisco-Oakland-Berkeley, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG41940                   Job Postings on Indeed in San Jose-Sunnyvale-Santa Clara, CA (MSA)                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG42540                   Job Postings on Indeed in Scranton--Wilkes-Barre, PA (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG42660                   Job Postings on Indeed in Seattle-Tacoma-Bellevue, WA (MSA)                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG44060                   Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG44140                   Job Postings on Indeed in Springfield, MA (MSA)                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG44700                   Job Postings on Indeed in Stockton, CA (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG45060                   Job Postings on Indeed in Syracuse, NY (MSA)                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG45300                   Job Postings on Indeed in Tampa-St. Petersburg-Clearwater, FL (MSA)                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG45780                   Job Postings on Indeed in Toledo, OH (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG46060                   Job Postings on Indeed in Tucson, AZ (MSA)                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG46140                   Job Postings on Indeed in Tulsa, OK (MSA)                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG46520                   Job Postings on Indeed in Urban Honolulu, HI (MSA)                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG47260                   Job Postings on Indeed in Virginia Beach-Norfolk-Newport News, VA-NC (MSA)                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG47900                   Job Postings on Indeed in Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA)                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG48620                   Job Postings on Indeed in Wichita, KS (MSA)                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG49180                   Job Postings on Indeed in Winston-Salem, NC (MSA)                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG49340                   Job Postings on Indeed in Worcester, MA-CT (MSA)                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHG49660                   Job Postings on Indeed in Youngstown-Warren-Boardman, OH-PA (MSA)                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAU                      Job Postings on Indeed in Australia                                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPACCO                Accounting Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPADMIASSI            Administrative Assistance Job Postings on Indeed in Australia                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPAGFO                Agriculture and Forestry Job Postings on Indeed in Australia                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPARCH                Architecture Job Postings on Indeed in Australia                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPAREN                Arts and Entertainment Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPBAFI                Banking and Finance Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPBEWE                Beauty and Wellness Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCHIL                Childcare Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCIVIENGI            Civil Engineering Job Postings on Indeed in Australia                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCLSA                Cleaning and Sanitation Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCONS                Construction Job Postings on Indeed in Australia                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCOSOSE              Community and Social Service Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPCUSTSERV            Customer Service Job Postings on Indeed in Australia                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPDENT                Dental Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPEDIN                Education and Instruction Job Postings on Indeed in Australia                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPELECENGI            Electrical Engineering Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPFOPRSE              Food Preparation and Service Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPHOTO                Hospitality and Tourism Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPHUMARESO            Human Resources Job Postings on Indeed in Australia                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPINDEDO              Information Design and Documentation Job Postings on Indeed in Australia                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPINDUENGI            Industrial Engineering Job Postings on Indeed in Australia                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPINMA                Installation and Maintenance Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPINSU                Insurance Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in Australia                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPLEGA                Legal Job Postings on Indeed in Australia                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPLOGISUPP            Logistic Support Job Postings on Indeed in Australia                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPLOST                Loading and Stocking Job Postings on Indeed in Australia                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMANA                Management Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMARK                Marketing Job Postings on Indeed in Australia                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMATH                Mathematics Job Postings on Indeed in Australia                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMECO                Media and Communications Job Postings on Indeed in Australia                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMEDIINFO            Medical Information Job Postings on Indeed in Australia                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPMEDITECH            Medical Technician Job Postings on Indeed in Australia                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPNURS                Nursing Job Postings on Indeed in Australia                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPPECAHOHE            Personal Care and Home Health Job Postings on Indeed in Australia                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPPHAR                Pharmacy Job Postings on Indeed in Australia                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPPHSU                Physicians and Surgeons Job Postings on Indeed in Australia                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPPRMA                Production and Manufacturing Job Postings on Indeed in Australia                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPPROJMANA            Project Management Job Postings on Indeed in Australia                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPREALESTA            Real Estate Job Postings on Indeed in Australia                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPRETA                Retail Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSALE                Sales Job Postings on Indeed in Australia                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSCREDE              Scientific Research and Development Job Postings on Indeed in Australia                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSEPUSA              Security and Public Safety Job Postings on Indeed in Australia                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSOCISCIE            Social Science Job Postings on Indeed in Australia                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSOFTDEVE            Software Development Job Postings on Indeed in Australia                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPSPOR                Sports Job Postings on Indeed in Australia                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPTHER                Therapy Job Postings on Indeed in Australia                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGAUTPVETE                Veterinary Job Postings on Indeed in Australia                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCA                      Job Postings on Indeed in Canada                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPACCO                Accounting Job Postings on Indeed in Canada                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPADMIASSI            Administrative Assistance Job Postings on Indeed in Canada                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPARCH                Architecture Job Postings on Indeed in Canada                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPAREN                Arts and Entertainment Job Postings on Indeed in Canada                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPBAFI                Banking and Finance Job Postings on Indeed in Canada                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPBEWE                Beauty and Wellness Job Postings on Indeed in Canada                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPCLSA                Cleaning and Sanitation Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPCONS                Construction Job Postings on Indeed in Canada                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPCOSOSE              Community and Social Service Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPCUSTSERV            Customer Service Job Postings on Indeed in Canada                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPDENT                Dental Job Postings on Indeed in Canada                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPDRIV                Driving Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPEDIN                Education and Instruction Job Postings on Indeed in Canada                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPFOPRSE              Food Preparation and Service Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPHOTO                Hospitality and Tourism Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPHUMARESO            Human Resources Job Postings on Indeed in Canada                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPINDEDO              Information Design and Documentation Job Postings on Indeed in Canada                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPINDUENGI            Industrial Engineering Job Postings on Indeed in Canada                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPINMA                Installation and Maintenance Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPINSU                Insurance Job Postings on Indeed in Canada                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in Canada                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPLEGA                Legal Job Postings on Indeed in Canada                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPLOGISUPP            Logistic Support Job Postings on Indeed in Canada                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPLOST                Loading and Stocking Job Postings on Indeed in Canada                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPMANA                Management Job Postings on Indeed in Canada                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPMARK                Marketing Job Postings on Indeed in Canada                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPMECO                Media and Communications Job Postings on Indeed in Canada                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPMEDITECH            Medical Technician Job Postings on Indeed in Canada                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPNURS                Nursing Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPPECAHOHE            Personal Care and Home Health Job Postings on Indeed in Canada                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPPHSU                Physicians and Surgeons Job Postings on Indeed in Canada                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPPRMA                Production and Manufacturing Job Postings on Indeed in Canada                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPPROJMANA            Project Management Job Postings on Indeed in Canada                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPRETA                Retail Job Postings on Indeed in Canada                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPSALE                Sales Job Postings on Indeed in Canada                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPSCREDE              Scientific Research and Development Job Postings on Indeed in Canada                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPSEPUSA              Security and Public Safety Job Postings on Indeed in Canada                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPSOFTDEVE            Software Development Job Postings on Indeed in Canada                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGCATPTHER                Therapy Job Postings on Indeed in Canada                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDE                      Job Postings on Indeed in Germany                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPACCO                Accounting Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPADMIASSI            Administrative Assistance Job Postings on Indeed in Germany                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPAGFO                Agriculture and Forestry Job Postings on Indeed in Germany                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPARCH                Architecture Job Postings on Indeed in Germany                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPBAFI                Banking and Finance Job Postings on Indeed in Germany                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPBEWE                Beauty and Wellness Job Postings on Indeed in Germany                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCHIL                Childcare Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCIVIENGI            Civil Engineering Job Postings on Indeed in Germany                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCLSA                Cleaning and Sanitation Job Postings on Indeed in Germany                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCONS                Construction Job Postings on Indeed in Germany                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCOSOSE              Community and Social Service Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPCUSTSERV            Customer Service Job Postings on Indeed in Germany                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPDENT                Dental Job Postings on Indeed in Germany                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPEDIN                Education and Instruction Job Postings on Indeed in Germany                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPELECENGI            Electrical Engineering Job Postings on Indeed in Germany                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPFOPRSE              Food Preparation and Service Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPHOTO                Hospitality and Tourism Job Postings on Indeed in Germany                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPHUMARESO            Human Resources Job Postings on Indeed in Germany                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPINDEDO              Information Design and Documentation Job Postings on Indeed in Germany                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPINDUENGI            Industrial Engineering Job Postings on Indeed in Germany                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPINMA                Installation and Maintenance Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPINSU                Insurance Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in Germany                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPLEGA                Legal Job Postings on Indeed in Germany                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPLOGISUPP            Logistic Support Job Postings on Indeed in Germany                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPLOST                Loading and Stocking Job Postings on Indeed in Germany                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPMANA                Management Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPMARK                Marketing Job Postings on Indeed in Germany                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPMATH                Mathematics Job Postings on Indeed in Germany                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPMECO                Media and Communications Job Postings on Indeed in Germany                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPMEDITECH            Medical Technician Job Postings on Indeed in Germany                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPPHAR                Pharmacy Job Postings on Indeed in Germany                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPPRMA                Production and Manufacturing Job Postings on Indeed in Germany                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPPROJMANA            Project Management Job Postings on Indeed in Germany                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPREALESTA            Real Estate Job Postings on Indeed in Germany                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSALE                Sales Job Postings on Indeed in Germany                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSCREDE              Scientific Research and Development Job Postings on Indeed in Germany                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSEPUSA              Security and Public Safety Job Postings on Indeed in Germany                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSOCISCIE            Social Science Job Postings on Indeed in Germany                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSOFTDEVE            Software Development Job Postings on Indeed in Germany                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPSPOR                Sports Job Postings on Indeed in Germany                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPTHER                Therapy Job Postings on Indeed in Germany                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGDETPVETE                Veterinary Job Postings on Indeed in Germany                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFR                      Job Postings on Indeed in France                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPACCO                Accounting Job Postings on Indeed in France                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPADMIASSI            Administrative Assistance Job Postings on Indeed in France                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPAGFO                Agriculture and Forestry Job Postings on Indeed in France                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPBAFI                Banking and Finance Job Postings on Indeed in France                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPCHIL                Childcare Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPCLSA                Cleaning and Sanitation Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPCONS                Construction Job Postings on Indeed in France                                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPCUSTSERV            Customer Service Job Postings on Indeed in France                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPDRIV                Driving Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPEDIN                Education and Instruction Job Postings on Indeed in France                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPFOPRSE              Food Preparation and Service Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPHOTO                Hospitality and Tourism Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPHUMARESO            Human Resources Job Postings on Indeed in France                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPINDEDO              Information Design and Documentation Job Postings on Indeed in France                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPINDUENGI            Industrial Engineering Job Postings on Indeed in France                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPINMA                Installation and Maintenance Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPINSU                Insurance Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in France                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPLEGA                Legal Job Postings on Indeed in France                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPLOGISUPP            Logistic Support Job Postings on Indeed in France                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPLOST                Loading and Stocking Job Postings on Indeed in France                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPMANA                Management Job Postings on Indeed in France                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPMARK                Marketing Job Postings on Indeed in France                                                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPMECO                Media and Communications Job Postings on Indeed in France                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPNURS                Nursing Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPPECAHOHE            Personal Care and Home Health Job Postings on Indeed in France                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPPHAR                Pharmacy Job Postings on Indeed in France                                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPPHSU                Physicians and Surgeons Job Postings on Indeed in France                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPPRMA                Production and Manufacturing Job Postings on Indeed in France                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPPROJMANA            Project Management Job Postings on Indeed in France                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPREALESTA            Real Estate Job Postings on Indeed in France                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPRETA                Retail Job Postings on Indeed in France                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPSALE                Sales Job Postings on Indeed in France                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPSEPUSA              Security and Public Safety Job Postings on Indeed in France                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPSOFTDEVE            Software Development Job Postings on Indeed in France                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGFRTPTHER                Therapy Job Postings on Indeed in France                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGB                      Job Postings on Indeed in the United Kingdom                                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPACCO                Accounting Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPADMIASSI            Administrative Assistance Job Postings on Indeed in the United Kingdom                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPARCH                Architecture Job Postings on Indeed in the United Kingdom                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPAREN                Arts and Entertainment Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPBAFI                Banking and Finance Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPBEWE                Beauty and Wellness Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCHIL                Childcare Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCIVIENGI            Civil Engineering Job Postings on Indeed in the United Kingdom                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCLSA                Cleaning and Sanitation Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCONS                Construction Job Postings on Indeed in the United Kingdom                                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCOSOSE              Community and Social Service Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPCUSTSERV            Customer Service Job Postings on Indeed in the United Kingdom                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPDENT                Dental Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPDRIV                Driving Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPEDIN                Education and Instruction Job Postings on Indeed in the United Kingdom                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPELECENGI            Electrical Engineering Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPFOPRSE              Food Preparation and Service Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPHOTO                Hospitality and Tourism Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPHUMARESO            Human Resources Job Postings on Indeed in the United Kingdom                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPINDEDO              Information Design and Documentation Job Postings on Indeed in the United Kingdom                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPINDUENGI            Industrial Engineering Job Postings on Indeed in the United Kingdom                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPINMA                Installation and Maintenance Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPINSU                Insurance Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in the United Kingdom                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPLEGA                Legal Job Postings on Indeed in the United Kingdom                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPLOGISUPP            Logistic Support Job Postings on Indeed in the United Kingdom                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPLOST                Loading and Stocking Job Postings on Indeed in the United Kingdom                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMANA                Management Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMARK                Marketing Job Postings on Indeed in the United Kingdom                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMATH                Mathematics Job Postings on Indeed in the United Kingdom                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMECO                Media and Communications Job Postings on Indeed in the United Kingdom                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMEDIINFO            Medical Information Job Postings on Indeed in the United Kingdom                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPMEDITECH            Medical Technician Job Postings on Indeed in the United Kingdom                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPNURS                Nursing Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPPECAHOHE            Personal Care and Home Health Job Postings on Indeed in the United Kingdom                                               SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPPHAR                Pharmacy Job Postings on Indeed in the United Kingdom                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPPHSU                Physicians and Surgeons Job Postings on Indeed in the United Kingdom                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPPRMA                Production and Manufacturing Job Postings on Indeed in the United Kingdom                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPPROJMANA            Project Management Job Postings on Indeed in the United Kingdom                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPREALESTA            Real Estate Job Postings on Indeed in the United Kingdom                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPRETA                Retail Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSALE                Sales Job Postings on Indeed in the United Kingdom                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSCREDE              Scientific Research and Development Job Postings on Indeed in the United Kingdom                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSEPUSA              Security and Public Safety Job Postings on Indeed in the United Kingdom                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSOCISCIE            Social Science Job Postings on Indeed in the United Kingdom                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSOFTDEVE            Software Development Job Postings on Indeed in the United Kingdom                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPSPOR                Sports Job Postings on Indeed in the United Kingdom                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPTHER                Therapy Job Postings on Indeed in the United Kingdom                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGGBTPVETE                Veterinary Job Postings on Indeed in the United Kingdom                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGHIGHUS                  Job Postings Indexed Trend on Indeed: High Wage Tier in the United States (DISCONTINUED)                                 NSA  05-Jan-2021  Daily, 7-Day   
+IHLCHGIE                      Job Postings on Indeed in Ireland                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGLOWUS                   Job Postings Indexed Trend on Indeed: Low Wage Tier in the United States (DISCONTINUED)                                  NSA  05-Jan-2021  Daily, 7-Day   
+IHLCHGMIDDLEUS                Job Postings Indexed Trend on Indeed: Middle Wage Tier in the United States (DISCONTINUED)                               NSA  05-Jan-2021  Daily, 7-Day   
+IHLCHGNEWAU                   New Job Postings on Indeed in Australia                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWCA                   New Job Postings on Indeed in Canada                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWDE                   New Job Postings on Indeed in Germany                                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWFR                   New Job Postings on Indeed in France                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWGB                   New Job Postings on Indeed in the United Kingdom                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWIE                   New Job Postings on Indeed in Ireland                                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGNEWUS                   New Job Postings on Indeed in the United States                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUS                      Job Postings on Indeed in the United States                                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSAK                    Job Postings on Indeed in Alaska                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSAL                    Job Postings on Indeed in Alabama                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSAR                    Job Postings on Indeed in Arkansas                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSAZ                    Job Postings on Indeed in Arizona                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSCA                    Job Postings on Indeed in California                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSCO                    Job Postings on Indeed in Colorado                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSCT                    Job Postings on Indeed in Connecticut                                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSDC                    Job Postings on Indeed in District of Columbia                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSDE                    Job Postings on Indeed in Delaware                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSFL                    Job Postings on Indeed in Florida                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSGA                    Job Postings on Indeed in Georgia                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSHI                    Job Postings on Indeed in Hawaii                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSIA                    Job Postings on Indeed in Iowa                                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSID                    Job Postings on Indeed in Idaho                                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSIL                    Job Postings on Indeed in Illinois                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSIN                    Job Postings on Indeed in Indiana                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSKS                    Job Postings on Indeed in Kansas                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSKY                    Job Postings on Indeed in Kentucky                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSLA                    Job Postings on Indeed in Louisiana                                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMA                    Job Postings on Indeed in Massachusetts                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMD                    Job Postings on Indeed in Maryland                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSME                    Job Postings on Indeed in Maine                                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMI                    Job Postings on Indeed in Michigan                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMN                    Job Postings on Indeed in Minnesota                                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMO                    Job Postings on Indeed in Missouri                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMS                    Job Postings on Indeed in Mississippi                                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSMT                    Job Postings on Indeed in Montana                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNC                    Job Postings on Indeed in North Carolina                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSND                    Job Postings on Indeed in North Dakota                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNE                    Job Postings on Indeed in Nebraska                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNH                    Job Postings on Indeed in New Hampshire                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNJ                    Job Postings on Indeed in New Jersey                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNM                    Job Postings on Indeed in New Mexico                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNV                    Job Postings on Indeed in Nevada                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSNY                    Job Postings on Indeed in New York                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSOH                    Job Postings on Indeed in Ohio                                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSOK                    Job Postings on Indeed in Oklahoma                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSOR                    Job Postings on Indeed in Oregon                                                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSPA                    Job Postings on Indeed in Pennsylvania                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSRI                    Job Postings on Indeed in Rhode Island                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSSC                    Job Postings on Indeed in South Carolina                                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSSD                    Job Postings on Indeed in South Dakota                                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTN                    Job Postings on Indeed in Tennessee                                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPACCO                Accounting Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPADMIASSI            Administrative Assistance Job Postings on Indeed in the United States                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPARCH                Architecture Job Postings on Indeed in the United States                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPAREN                Arts and Entertainment Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPBAFI                Banking and Finance Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPBEWE                Beauty and Wellness Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCHIL                Childcare Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCIVIENGI            Civil Engineering Job Postings on Indeed in the United States                                                            SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCLSA                Cleaning and Sanitation Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCONS                Construction Job Postings on Indeed in the United States                                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCOSOSE              Community and Social Service Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPCUSTSERV            Customer Service Job Postings on Indeed in the United States                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPDENT                Dental Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPDRIV                Driving Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPEDIN                Education and Instruction Job Postings on Indeed in the United States                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPELECENGI            Electrical Engineering Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPFOPRSE              Food Preparation and Service Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPHOTO                Hospitality and Tourism Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPHUMARESO            Human Resources Job Postings on Indeed in the United States                                                              SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPINDEDO              Information Design and Documentation Job Postings on Indeed in the United States                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPINDUENGI            Industrial Engineering Job Postings on Indeed in the United States                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPINMA                Installation and Maintenance Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPINSU                Insurance Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPITOPHE              IT Operations and Helpdesk Job Postings on Indeed in the United States                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPLEGA                Legal Job Postings on Indeed in the United States                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPLOGISUPP            Logistic Support Job Postings on Indeed in the United States                                                             SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPLOST                Loading and Stocking Job Postings on Indeed in the United States                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMANA                Management Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMARK                Marketing Job Postings on Indeed in the United States                                                                    SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMATH                Mathematics Job Postings on Indeed in the United States                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMECO                Media and Communications Job Postings on Indeed in the United States                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMEDIINFO            Medical Information Job Postings on Indeed in the United States                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPMEDITECH            Medical Technician Job Postings on Indeed in the United States                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPNURS                Nursing Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPPECAHOHE            Personal Care and Home Health Job Postings on Indeed in the United States                                                SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPPHAR                Pharmacy Job Postings on Indeed in the United States                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPPHSU                Physicians and Surgeons Job Postings on Indeed in the United States                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPPRMA                Production and Manufacturing Job Postings on Indeed in the United States                                                 SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPPROJMANA            Project Management Job Postings on Indeed in the United States                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPRETA                Retail Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPSALE                Sales Job Postings on Indeed in the United States                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPSCREDE              Scientific Research and Development Job Postings on Indeed in the United States                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPSEPUSA              Security and Public Safety Job Postings on Indeed in the United States                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPSOFTDEVE            Software Development Job Postings on Indeed in the United States                                                         SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPSPOR                Sports Job Postings on Indeed in the United States                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPTHER                Therapy Job Postings on Indeed in the United States                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTPVETE                Veterinary Job Postings on Indeed in the United States                                                                   SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSTX                    Job Postings on Indeed in Texas                                                                                          SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSUT                    Job Postings on Indeed in Utah                                                                                           SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSVA                    Job Postings on Indeed in Virginia                                                                                       SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSVT                    Job Postings on Indeed in Vermont                                                                                        SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSWA                    Job Postings on Indeed in Washington                                                                                     SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSWI                    Job Postings on Indeed in Wisconsin                                                                                      SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSWV                    Job Postings on Indeed in West Virginia                                                                                  SA   01-Dec-2022  Daily, 7-Day   
+IHLCHGUSWY                    Job Postings on Indeed in Wyoming                                                                                        SA   01-Dec-2022  Daily, 7-Day   

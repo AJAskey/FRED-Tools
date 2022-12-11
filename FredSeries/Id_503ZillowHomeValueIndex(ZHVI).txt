@@ -1,53 +1,53 @@
 Id : 503  Zillow Home Value Index (ZHVI)
-AKUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alaska            SSA  17-Nov-2022  Monthly
-ALUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alabama           SSA  17-Nov-2022  Monthly
-ARUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arkansas          SSA  17-Nov-2022  Monthly
-AZUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arizona           SSA  17-Nov-2022  Monthly
-CAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California        SSA  17-Nov-2022  Monthly
-COUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Colorado          SSA  17-Nov-2022  Monthly
-CTUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Connecticut       SSA  17-Nov-2022  Monthly
-DCUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the District of   SSA  17-Nov-2022  Monthly
-DEUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Delaware          SSA  17-Nov-2022  Monthly
-FLUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida           SSA  17-Nov-2022  Monthly
-GAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Georgia           SSA  17-Nov-2022  Monthly
-HIUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Hawaii            SSA  17-Nov-2022  Monthly
-IAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Iowa              SSA  17-Nov-2022  Monthly
-IDUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Idaho             SSA  17-Nov-2022  Monthly
-ILUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Illinois          SSA  17-Nov-2022  Monthly
-INUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Indiana           SSA  17-Nov-2022  Monthly
-KSUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kansas            SSA  17-Nov-2022  Monthly
-KYUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kentucky          SSA  17-Nov-2022  Monthly
-LAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Louisiana         SSA  17-Nov-2022  Monthly
-MAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Massachusetts     SSA  17-Nov-2022  Monthly
-MDUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maryland          SSA  17-Nov-2022  Monthly
-MEUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maine             SSA  17-Nov-2022  Monthly
-MIUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Michigan          SSA  17-Nov-2022  Monthly
-MNUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Minnesota         SSA  17-Nov-2022  Monthly
-MOUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Missouri          SSA  17-Nov-2022  Monthly
-MSUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Mississippi       SSA  17-Nov-2022  Monthly
-MTUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Montana           SSA  17-Nov-2022  Monthly
-NCUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Carolina    SSA  17-Nov-2022  Monthly
-NDUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Dakota      SSA  17-Nov-2022  Monthly
-NEUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nebraska          SSA  17-Nov-2022  Monthly
-NHUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Hampshire     SSA  17-Nov-2022  Monthly
-NJUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Jersey        SSA  17-Nov-2022  Monthly
-NMUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Mexico        SSA  17-Nov-2022  Monthly
-NVUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nevada            SSA  17-Nov-2022  Monthly
-NYUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New York          SSA  17-Nov-2022  Monthly
-OHUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Ohio              SSA  17-Nov-2022  Monthly
-OKUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oklahoma          SSA  17-Nov-2022  Monthly
-ORUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oregon            SSA  17-Nov-2022  Monthly
-PAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Pennsylvania      SSA  17-Nov-2022  Monthly
-RIUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Rhode Island      SSA  17-Nov-2022  Monthly
-SCUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Carolina    SSA  17-Nov-2022  Monthly
-SDUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Dakota      SSA  17-Nov-2022  Monthly
-TNUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Tennessee         SSA  17-Nov-2022  Monthly
-TXUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas             SSA  17-Nov-2022  Monthly
-USAUCSFRCONDOSMSAMID                    Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United State  SSA  17-Nov-2022  Monthly
-UTUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Utah              SSA  17-Nov-2022  Monthly
-VAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Virginia          SSA  17-Nov-2022  Monthly
-VTUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Vermont           SSA  17-Nov-2022  Monthly
-WAUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Washington        SSA  17-Nov-2022  Monthly
-WIUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wisconsin         SSA  17-Nov-2022  Monthly
-WVUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in West Virginia     SSA  17-Nov-2022  Monthly
-WYUCSFRCONDOSMSAMID                     Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wyoming           SSA  17-Nov-2022  Monthly
+AKUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alaska            SSA  17-Nov-2022  Monthly        
+ALUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alabama           SSA  17-Nov-2022  Monthly        
+ARUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arkansas          SSA  17-Nov-2022  Monthly        
+AZUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arizona           SSA  17-Nov-2022  Monthly        
+CAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California        SSA  17-Nov-2022  Monthly        
+COUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Colorado          SSA  17-Nov-2022  Monthly        
+CTUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Connecticut       SSA  17-Nov-2022  Monthly        
+DCUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the District of   SSA  17-Nov-2022  Monthly        
+DEUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Delaware          SSA  17-Nov-2022  Monthly        
+FLUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida           SSA  17-Nov-2022  Monthly        
+GAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Georgia           SSA  17-Nov-2022  Monthly        
+HIUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Hawaii            SSA  17-Nov-2022  Monthly        
+IAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Iowa              SSA  17-Nov-2022  Monthly        
+IDUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Idaho             SSA  17-Nov-2022  Monthly        
+ILUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Illinois          SSA  17-Nov-2022  Monthly        
+INUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Indiana           SSA  17-Nov-2022  Monthly        
+KSUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kansas            SSA  17-Nov-2022  Monthly        
+KYUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kentucky          SSA  17-Nov-2022  Monthly        
+LAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Louisiana         SSA  17-Nov-2022  Monthly        
+MAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Massachusetts     SSA  17-Nov-2022  Monthly        
+MDUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maryland          SSA  17-Nov-2022  Monthly        
+MEUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maine             SSA  17-Nov-2022  Monthly        
+MIUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Michigan          SSA  17-Nov-2022  Monthly        
+MNUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Minnesota         SSA  17-Nov-2022  Monthly        
+MOUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Missouri          SSA  17-Nov-2022  Monthly        
+MSUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Mississippi       SSA  17-Nov-2022  Monthly        
+MTUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Montana           SSA  17-Nov-2022  Monthly        
+NCUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Carolina    SSA  17-Nov-2022  Monthly        
+NDUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Dakota      SSA  17-Nov-2022  Monthly        
+NEUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nebraska          SSA  17-Nov-2022  Monthly        
+NHUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Hampshire     SSA  17-Nov-2022  Monthly        
+NJUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Jersey        SSA  17-Nov-2022  Monthly        
+NMUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Mexico        SSA  17-Nov-2022  Monthly        
+NVUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nevada            SSA  17-Nov-2022  Monthly        
+NYUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New York          SSA  17-Nov-2022  Monthly        
+OHUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Ohio              SSA  17-Nov-2022  Monthly        
+OKUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oklahoma          SSA  17-Nov-2022  Monthly        
+ORUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oregon            SSA  17-Nov-2022  Monthly        
+PAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Pennsylvania      SSA  17-Nov-2022  Monthly        
+RIUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Rhode Island      SSA  17-Nov-2022  Monthly        
+SCUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Carolina    SSA  17-Nov-2022  Monthly        
+SDUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Dakota      SSA  17-Nov-2022  Monthly        
+TNUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Tennessee         SSA  17-Nov-2022  Monthly        
+TXUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas             SSA  17-Nov-2022  Monthly        
+USAUCSFRCONDOSMSAMID          Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United State  SSA  17-Nov-2022  Monthly        
+UTUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Utah              SSA  17-Nov-2022  Monthly        
+VAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Virginia          SSA  17-Nov-2022  Monthly        
+VTUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Vermont           SSA  17-Nov-2022  Monthly        
+WAUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Washington        SSA  17-Nov-2022  Monthly        
+WIUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wisconsin         SSA  17-Nov-2022  Monthly        
+WVUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in West Virginia     SSA  17-Nov-2022  Monthly        
+WYUCSFRCONDOSMSAMID           Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wyoming           SSA  17-Nov-2022  Monthly        

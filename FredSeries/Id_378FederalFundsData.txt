@@ -1,10 +1,10 @@
 Id : 378  Federal Funds Data
-EFFR                                    Effective Federal Funds Rate                                                                                             NSA  09-Dec-2022  Daily
-EFFR1                                   Effective Federal Funds Rate: 1st Percentile                                                                             NSA  09-Dec-2022  Daily
-EFFR25                                  Effective Federal Funds Rate: 25th Percentile                                                                            NSA  09-Dec-2022  Daily
-EFFR75                                  Effective Federal Funds Rate: 75th Percentile                                                                            NSA  09-Dec-2022  Daily
-EFFR99                                  Effective Federal Funds Rate: 99th Percentile                                                                            NSA  09-Dec-2022  Daily
-EFFRH                                   Effective Federal Funds Rate: Intraday High (DISCONTINUED)                                                               NSA  08-Mar-2016  Daily
-EFFRL                                   Effective Federal Funds Rate: Intraday Low (DISCONTINUED)                                                                NSA  08-Mar-2016  Daily
-EFFRSD                                  Effective Federal Funds Rate: Standard Deviation (DISCONTINUED)                                                          NSA  08-Mar-2016  Daily
-EFFRVOL                                 Effective Federal Funds Volume                                                                                           NSA  09-Dec-2022  Daily
+EFFR                          Effective Federal Funds Rate                                                                                             NSA  09-Dec-2022  Daily          
+EFFR1                         Effective Federal Funds Rate: 1st Percentile                                                                             NSA  09-Dec-2022  Daily          
+EFFR25                        Effective Federal Funds Rate: 25th Percentile                                                                            NSA  09-Dec-2022  Daily          
+EFFR75                        Effective Federal Funds Rate: 75th Percentile                                                                            NSA  09-Dec-2022  Daily          
+EFFR99                        Effective Federal Funds Rate: 99th Percentile                                                                            NSA  09-Dec-2022  Daily          
+EFFRH                         Effective Federal Funds Rate: Intraday High (DISCONTINUED)                                                               NSA  08-Mar-2016  Daily          
+EFFRL                         Effective Federal Funds Rate: Intraday Low (DISCONTINUED)                                                                NSA  08-Mar-2016  Daily          
+EFFRSD                        Effective Federal Funds Rate: Standard Deviation (DISCONTINUED)                                                          NSA  08-Mar-2016  Daily          
+EFFRVOL                       Effective Federal Funds Volume                                                                                           NSA  09-Dec-2022  Daily          

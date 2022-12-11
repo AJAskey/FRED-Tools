@@ -1,7 +1,7 @@
 Id : 121  H.6 Historical Data
-M3                                      M3 Money Stock (DISCONTINUED)                                                                                            SA   18-Sep-2006  Weekly, Ending Monday
-TOTTIME                                 Total Time and Savings Deposits at All Depository Institutions (DISCONTINUED)                                            SA   19-Jan-2007  Weekly, Ending Monday
-WLGTIME                                 Large Time Deposits - Total (DISCONTINUED)                                                                               SA   18-Sep-2006  Weekly, Ending Monday
-WLGTMNS                                 Large Time Deposits - Total (DISCONTINUED)                                                                               NSA  18-Sep-2006  Weekly, Ending Monday
-WM3NS                                   M3 Money Stock (DISCONTINUED)                                                                                            NSA  18-Sep-2006  Weekly, Ending Monday
-WTOTTMNS                                Total Time and Savings Deposits at all Depository Institutions (DISCONTINUED)                                            NSA  19-Jan-2007  Weekly, Ending Monday
+M3                            M3 Money Stock (DISCONTINUED)                                                                                            SA   18-Sep-2006  Weekly, Ending Monday
+TOTTIME                       Total Time and Savings Deposits at All Depository Institutions (DISCONTINUED)                                            SA   19-Jan-2007  Weekly, Ending Monday
+WLGTIME                       Large Time Deposits - Total (DISCONTINUED)                                                                               SA   18-Sep-2006  Weekly, Ending Monday
+WLGTMNS                       Large Time Deposits - Total (DISCONTINUED)                                                                               NSA  18-Sep-2006  Weekly, Ending Monday
+WM3NS                         M3 Money Stock (DISCONTINUED)                                                                                            NSA  18-Sep-2006  Weekly, Ending Monday
+WTOTTMNS                      Total Time and Savings Deposits at all Depository Institutions (DISCONTINUED)                                            NSA  19-Jan-2007  Weekly, Ending Monday

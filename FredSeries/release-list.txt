@@ -7,6 +7,7 @@ Id_104FederalReserveBulletin.txt
 Id_105St_LouisWeeklyReservesandMonetaryBase.txt
 Id_13G_17IndustrialProductionandCapacityUtilization.txt
 Id_131G_13SelectedInterestRates.txt
+Id_14G_19ConsumerCredit.txt
 Id_144ResidentialVacanciesandHomeownershipAnnualStatistics.txt
 Id_152HealthInsuranceCoverage.txt
 Id_179QuarterlyRetailE-CommerceSales.txt
@@ -28,6 +29,7 @@ Id_212SpotPrices.txt
 Id_219ChicagoFedNationalActivityIndex.txt
 Id_21H_6MoneyStockMeasures.txt
 Id_221ChicagoFedNationalFinancialConditionsIndex.txt
+Id_22H_8AssetsandLiabilitiesofCommercialBanksintheUnitedStates.txt
 Id_229ConstructionSpending.txt
 Id_236MonthlyHousingAffordabilityIndex.txt
 Id_254TravelVolumeTrends.txt
@@ -80,6 +82,7 @@ Id_372ChicagoFedSurveyofEconomicConditions.txt
 Id_373GDP-BasedRecessionIndicatorIndex.txt
 Id_375OvernightBankFundingRateData.txt
 Id_374TexasManufacturingOutlookSurvey.txt
+Id_377TexasRetailOutlookSurvey.txt
 Id_378FederalFundsData.txt
 Id_379TemporaryOpenMarketOperations.txt
 Id_383MarketValueofU_S_GovernmentDebt.txt
@@ -110,6 +113,7 @@ Id_487IndexofGlobalRealEconomicActivity.txt
 Id_488Brave-Butters-KelleyIndexes.txt
 Id_494ChicagoFedAdvanceRetailTradeSummary.txt
 Id_50EmploymentSituation.txt
+Id_51U_S_InternationalTradeinGoodsandServices.txt
 Id_53GrossDomesticProduct.txt
 Id_54PersonalIncomeandOutlays.txt
 Id_59NationalPopulationEstimates.txt

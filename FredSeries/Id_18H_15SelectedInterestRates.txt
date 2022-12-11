@@ -1,271 +1,271 @@
 Id : 18  H.15 Selected Interest Rates
-CD1M                                    Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly
-CD3M                                    Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly
-CD6M                                    Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly
-CPF1M                                   30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly
-CPF2M                                   60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly
-CPF3M                                   90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly
-CPN1M                                   30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly
-CPN2M                                   60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly
-CPN3M                                   90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly
-DBKAC                                   3-Month Bankers Acceptance Rate (DISCONTINUED)                                                                           NSA  03-Jul-2000  Daily
-DCD1M                                   Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily
-DCD6M                                   Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily
-DCD90                                   Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily
-DCP30                                   1-Month Commercial Paper Rate (DISCONTINUED)                                                                             NSA  28-Jun-2002  Daily
-DCPF1M                                  30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily
-DCPF2M                                  60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily
-DCPF3M                                  90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  09-Dec-2022  Daily
-DCPN2M                                  60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-DCPN30                                  30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  06-Dec-2022  Daily
-DCPN3M                                  90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  22-Nov-2022  Daily
-DDISCRT                                 Discount Rate (DISCONTINUED)                                                                                             NSA  06-Jun-2022  Daily, 7-Day
-DED1                                    U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Daily
-DED3                                    U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Daily
-DED6                                    U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  06-Jun-2022  Daily
-DFF                                     Federal Funds Effective Rate                                                                                             NSA  09-Dec-2022  Daily, 7-Day
-DFII10                                  Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily
-DFII20                                  Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily
-DFII30                                  Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily
-DFII5                                   Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  09-Dec-2022  Daily
-DFII7                                   Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  09-Dec-2022  Daily
-DGS1                                    Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily
-DGS10                                   Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS1MO                                  Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS2                                    Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily
-DGS20                                   Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS3                                    Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily
-DGS30                                   Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS3MO                                  Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS5                                    Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily
-DGS6MO                                  Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily
-DGS7                                    Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily
-DLTA                                    Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  02-Jun-2004  Daily
-DLTBOARD                                Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  06-Jun-2022  Daily
-DLTIIT                                  Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  09-Dec-2022  Daily
-DPCREDIT                                Discount Window Primary Credit Rate                                                                                      NSA  09-Dec-2022  Daily
-DPRIME                                  Bank Prime Loan Rate                                                                                                     NSA  09-Dec-2022  Daily
-DSWP1                                   1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DSWP10                                  10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Daily
-DSWP2                                   2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DSWP3                                   3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DSWP30                                  30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Daily
-DSWP4                                   4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DSWP5                                   5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DSWP7                                   7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily
-DTB1                                    1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)                                                               NSA  24-Aug-2001  Daily
-DTB1YR                                  1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  09-Dec-2022  Daily
-DTB3                                    3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  09-Dec-2022  Daily
-DTB4WK                                  4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  09-Dec-2022  Daily
-DTB6                                    6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  09-Dec-2022  Daily
-FEDFUNDS                                Federal Funds Effective Rate                                                                                             NSA  01-Dec-2022  Monthly
-FF                                      Federal Funds Effective Rate                                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
-FII10                                   Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly
-FII20                                   Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly
-FII30                                   Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly
-FII5                                    Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  01-Dec-2022  Monthly
-FII7                                    Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  01-Dec-2022  Monthly
-GS1                                     Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly
-GS10                                    Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS1M                                    Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS2                                     Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly
-GS20                                    Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS3                                     Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly
-GS30                                    Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS3M                                    Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS5                                     Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly
-GS6M                                    Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly
-GS7                                     Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly
-H0RIFLGFCY20NA                          20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Annual
-H0RIFLGFCY20NB                          20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Daily
-H0RIFLGFCY20NM                          20 Year U.S. Govt. Constant Maturity Yield (DISCONTINUED)                                                                NSA  03-Jun-2022  Monthly
-H0RIFLGFCY20NWF                         20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Weekly, Ending Friday
-H0RIFLGFLNA                             Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  03-Jun-2022  Annual
-H0RIFSGFPAM06NB                         6-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                        NSA  03-Jun-2022  Daily
-H0RIFSGFPAY01NB                         12-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                       NSA  03-Jun-2022  Daily
-H0RIFSGFPIM06NA                         6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Annual
-H0RIFSGFPIM06NM                         6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Monthly
-H0RIFSGFPIY01NA                         12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  03-Jun-2022  Annual
-H0RIFSGFPIY01NM                         12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  03-Jun-2022  Monthly
-H0RIFSPABM06NA                          Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Annual
-H0RIFSPABM06NB                          Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Daily
-H0RIFSPABM06NM                          Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Monthly
-H0RIFSPDCNSM01NA                        Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual
-H0RIFSPDCNSM03NA                        Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual
-H0RIFSPDCNSM06NA                        Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual
-H0RIFSPPCM01NA                          1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPCM01NM                          1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPCM03NA                          3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPCM03NM                          3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPCM06NA                          6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPCM06NB                          6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H0RIFSPPCM06NM                          6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPFM01NA                          1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPFM01NM                          1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPFM01NWF                         1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
-H0RIFSPPFM03NA                          3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPFM03NM                          3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPFM03NWF                         3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
-H0RIFSPPFM06NA                          6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual
-H0RIFSPPFM06NB                          6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H0RIFSPPFM06NM                          6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly
-H0RIFSPPFM06NWF                         6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
-H0RIFSRDF02NA                           Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Annual
-H0RIFSRDF02NB                           Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Daily
-H0RIFSRDF02NWW                          Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Weekly, Ending Wednesday
-H15H0RIFSPPCM01NB                       1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H15H0RIFSPPCM03NB                       3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H15H0RIFSPPFM01NB                       1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H15H0RIFSPPFM03NB                       3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily
-H1RIFLGFY10PNA                          Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  03-Jun-2022  Annual
-H1RIFLGFY10PNM                          Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  03-Jun-2022  Monthly
-H1RIFSGFPAM03NB                         3-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                        NSA  03-Jun-2022  Daily
-H1RIFSGFPIM03NA                         3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Annual
-H1RIFSGFPIM03NM                         3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Monthly
-H1RIFSPABM03NA                          Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Annual
-H1RIFSPABM03NB                          Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Daily
-H1RIFSPABM03NM                          Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Monthly
-H1RIFSPABM03NWF                         Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Weekly, Ending Friday
-LTA                                     Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  06-Jun-2022  Monthly
-LTBOARD                                 Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  27-Jul-2006  Weekly, Ending Friday
-LTIIT                                   Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  01-Dec-2022  Monthly
-MDISCRT                                 Discount Rate (DISCONTINUED)                                                                                             NSA  07-Jun-2006  Monthly
-MED1                                    U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly
-MED3                                    U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly
-MED6                                    U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly
-MORTG                                   Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  06-Jun-2022  Monthly
-MPCREDIT                                Discount Window Primary Credit Rate                                                                                      NSA  01-Dec-2022  Monthly
-MPRIME                                  Bank Prime Loan Rate                                                                                                     NSA  01-Dec-2022  Monthly
-MSLB20                                  Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED)                                                                NSA  03-Oct-2016  Monthly
-MSWP1                                   1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-MSWP10                                  10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Oct-2016  Monthly
-MSWP2                                   2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-MSWP3                                   3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-MSWP30                                  30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Oct-2016  Monthly
-MSWP4                                   4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-MSWP5                                   5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-MSWP7                                   7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly
-PRIME                                   Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates                                                      NSA  07-Nov-2022  Not Applicable
-RIFLDIY01NA                             1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY02NA                             2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY03NA                             3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY04NA                             4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY05NA                             5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY07NA                             7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual
-RIFLDIY10NA                             10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Jun-2022  Annual
-RIFLDIY30NA                             30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Jun-2022  Annual
-RIFLGFCM01NA                            Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCM03NA                            Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCM06NA                            Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCY01NA                            Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual
-RIFLGFCY02NA                            Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual
-RIFLGFCY03NA                            Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual
-RIFLGFCY05NA                            Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual
-RIFLGFCY05XIINA                         Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  03-Jun-2022  Annual
-RIFLGFCY07NA                            Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual
-RIFLGFCY07XIINA                         Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  03-Jun-2022  Annual
-RIFLGFCY10NA                            Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCY10XIINA                         Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual
-RIFLGFCY20NA                            Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCY20XIINA                         Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual
-RIFLGFCY30NA                            Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual
-RIFLGFCY30XIINA                         Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual
-RIFLGFLXIINA                            Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  03-Jun-2022  Annual
-RIFSGFSM03NA                            3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  03-Jun-2022  Annual
-RIFSGFSM06NA                            6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  03-Jun-2022  Annual
-RIFSGFSW04NA                            4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  03-Jun-2022  Annual
-RIFSGFSY01NA                            1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  03-Jun-2022  Annual
-RIFSPBLPNA                              Bank Prime Loan Rate                                                                                                     NSA  03-Jun-2022  Annual
-RIFSPBLPND                              Bank Prime Loan Rate                                                                                                     NSA  09-Dec-2022  Daily, 7-Day
-RIFSPFFNA                               Federal Funds Effective Rate                                                                                             NSA  03-Jun-2022  Annual
-RIFSPFFNB                               Federal Funds Effective Rate                                                                                             NSA  09-Dec-2022  Daily
-RIFSPFFNBWAW                            Federal Funds Effective Rate                                                                                             NSA  01-Dec-2022  Biweekly
-RIFSPPCUNA                              Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Annual
-RIFSPPCUNB                              Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Daily
-RIFSPPCUNM                              Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Monthly
-RIFSPPCUNWF                             Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Weekly, Ending Friday
-RIFSPPCUSNA                             Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Annual
-RIFSPPCUSNB                             Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Daily
-RIFSPPCUSNM                             Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Monthly
-RIFSPPCUSNWF                            Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Weekly, Ending Friday
-RIFSPPFAAD30NA                          30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual
-RIFSPPFAAD60NA                          60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual
-RIFSPPFAAD90NA                          90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual
-RIFSPPNAAD30NA                          30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual
-RIFSPPNAAD60NA                          60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual
-RIFSPPNAAD90NA                          90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual
-RIFSRPF02NA                             Discount Window Primary Credit Rate                                                                                      NSA  03-Jun-2022  Annual
-RIFSRPF02ND                             Discount Window Primary Credit Rate                                                                                      NSA  09-Dec-2022  Daily, 7-Day
-RILSPDEPM01NA                           U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual
-RILSPDEPM03NA                           U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual
-RILSPDEPM06NA                           U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual
-RIMLPAAARNA                             Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Annual
-RIMLPAAARNB                             Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Daily
-RIMLPAAARNM                             Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Monthly
-RIMLPAAARNWF                            Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Weekly, Ending Friday
-RIMLPBAARNA                             Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Annual
-RIMLPBAARNB                             Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Daily
-RIMLPBAARNM                             Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Monthly
-RIMLPBAARNWF                            Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Weekly, Ending Friday
-RMMPCCFCNA                              Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  03-Jun-2022  Annual
-TB1YR                                   1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  01-Dec-2022  Monthly
-TB3MS                                   3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  01-Dec-2022  Monthly
-TB4WK                                   4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  01-Dec-2022  Monthly
-TB6MS                                   6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  01-Dec-2022  Monthly
-WBA3M                                   3-Month Bankers Acceptance Rate (DISCONTINUED)                                                                           NSA  30-Jun-2000  Weekly, Ending Friday
-WBA6M                                   Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  27-Jul-2006  Weekly, Ending Friday
-WCD1M                                   Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
-WCD3M                                   Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
-WCD6M                                   Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
-WCP1M                                   1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
-WCP3M                                   3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
-WCP6M                                   6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
-WCPF1M                                  30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
-WCPF2M                                  60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
-WCPF3M                                  90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
-WCPN1M                                  30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  05-Dec-2022  Weekly, Ending Friday
-WCPN2M                                  60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  28-Nov-2022  Weekly, Ending Friday
-WCPN3M                                  90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  28-Nov-2022  Weekly, Ending Friday
-WDISCRT                                 Discount Rate (DISCONTINUED)                                                                                             NSA  27-Jul-2006  Weekly, Ending Wednesday
-WED1                                    U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Weekly, Ending Friday
-WED3                                    U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Weekly, Ending Friday
-WED6                                    U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  06-Jun-2022  Weekly, Ending Friday
-WFII10                                  Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
-WFII20                                  Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
-WFII30                                  Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
-WFII5                                   Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  05-Dec-2022  Weekly, Ending Friday
-WFII7                                   Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  05-Dec-2022  Weekly, Ending Friday
-WGS10YR                                 Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS1MO                                  Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS1YR                                  Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
-WGS20YR                                 Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS2YR                                  Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
-WGS30YR                                 Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS3MO                                  Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS3YR                                  Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
-WGS5YR                                  Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
-WGS6MO                                  Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
-WGS7YR                                  Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
-WLTA                                    Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  16-Aug-2006  Weekly, Ending Friday
-WLTIIT                                  Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  05-Dec-2022  Weekly, Ending Friday
-WMORTG                                  Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  06-Jun-2022  Weekly, Ending Friday
-WPCREDIT                                Discount Window Primary Credit Rate                                                                                      NSA  08-Dec-2022  Weekly, Ending Wednesday
-WPRIME                                  Bank Prime Loan Rate                                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
-WRMORTG                                 Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  07-Oct-2016  Weekly, Ending Thursday
-WSLB20                                  Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED)                                                                NSA  07-Oct-2016  Weekly, As of Thursday
-WSWP1                                   1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP10                                  10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP2                                   2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP3                                   3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP30                                  30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP4                                   4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP5                                   5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WSWP7                                   7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
-WTB1YA                                  12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  06-Jun-2022  Weekly, Ending Friday
-WTB1YR                                  1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  05-Dec-2022  Weekly, Ending Friday
-WTB1YS                                  1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)                                                               NSA  16-Aug-2006  Weekly, Ending Friday
-WTB3MA                                  3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  06-Jun-2022  Weekly, Ending Friday
-WTB3MS                                  3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  05-Dec-2022  Weekly, Ending Friday
-WTB4WK                                  4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  05-Dec-2022  Weekly, Ending Friday
-WTB6MA                                  6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  06-Jun-2022  Weekly, Ending Friday
-WTB6MS                                  6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  05-Dec-2022  Weekly, Ending Friday
+CD1M                          Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly        
+CD3M                          Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly        
+CD6M                          Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  08-Jul-2013  Monthly        
+CPF1M                         30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly        
+CPF2M                         60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly        
+CPF3M                         90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  01-Dec-2022  Monthly        
+CPN1M                         30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly        
+CPN2M                         60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly        
+CPN3M                         90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  01-Dec-2022  Monthly        
+DBKAC                         3-Month Bankers Acceptance Rate (DISCONTINUED)                                                                           NSA  03-Jul-2000  Daily          
+DCD1M                         Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily          
+DCD6M                         Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily          
+DCD90                         Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Daily          
+DCP30                         1-Month Commercial Paper Rate (DISCONTINUED)                                                                             NSA  28-Jun-2002  Daily          
+DCPF1M                        30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily          
+DCPF2M                        60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily          
+DCPF3M                        90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  09-Dec-2022  Daily          
+DCPN2M                        60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+DCPN30                        30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  06-Dec-2022  Daily          
+DCPN3M                        90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  22-Nov-2022  Daily          
+DDISCRT                       Discount Rate (DISCONTINUED)                                                                                             NSA  06-Jun-2022  Daily, 7-Day   
+DED1                          U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Daily          
+DED3                          U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Daily          
+DED6                          U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  06-Jun-2022  Daily          
+DFF                           Federal Funds Effective Rate                                                                                             NSA  09-Dec-2022  Daily, 7-Day   
+DFII10                        Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily          
+DFII20                        Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily          
+DFII30                        Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  09-Dec-2022  Daily          
+DFII5                         Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  09-Dec-2022  Daily          
+DFII7                         Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  09-Dec-2022  Daily          
+DGS1                          Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily          
+DGS10                         Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS1MO                        Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS2                          Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily          
+DGS20                         Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS3                          Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily          
+DGS30                         Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS3MO                        Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS5                          Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily          
+DGS6MO                        Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  09-Dec-2022  Daily          
+DGS7                          Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  09-Dec-2022  Daily          
+DLTA                          Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  02-Jun-2004  Daily          
+DLTBOARD                      Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  06-Jun-2022  Daily          
+DLTIIT                        Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  09-Dec-2022  Daily          
+DPCREDIT                      Discount Window Primary Credit Rate                                                                                      NSA  09-Dec-2022  Daily          
+DPRIME                        Bank Prime Loan Rate                                                                                                     NSA  09-Dec-2022  Daily          
+DSWP1                         1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DSWP10                        10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Daily          
+DSWP2                         2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DSWP3                         3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DSWP30                        30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Daily          
+DSWP4                         4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DSWP5                         5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DSWP7                         7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Daily          
+DTB1                          1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)                                                               NSA  24-Aug-2001  Daily          
+DTB1YR                        1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  09-Dec-2022  Daily          
+DTB3                          3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  09-Dec-2022  Daily          
+DTB4WK                        4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  09-Dec-2022  Daily          
+DTB6                          6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  09-Dec-2022  Daily          
+FEDFUNDS                      Federal Funds Effective Rate                                                                                             NSA  01-Dec-2022  Monthly        
+FF                            Federal Funds Effective Rate                                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
+FII10                         Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly        
+FII20                         Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly        
+FII30                         Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  01-Dec-2022  Monthly        
+FII5                          Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  01-Dec-2022  Monthly        
+FII7                          Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  01-Dec-2022  Monthly        
+GS1                           Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly        
+GS10                          Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS1M                          Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS2                           Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly        
+GS20                          Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS3                           Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly        
+GS30                          Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS3M                          Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS5                           Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly        
+GS6M                          Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  01-Dec-2022  Monthly        
+GS7                           Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  01-Dec-2022  Monthly        
+H0RIFLGFCY20NA                20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Annual         
+H0RIFLGFCY20NB                20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Daily          
+H0RIFLGFCY20NM                20 Year U.S. Govt. Constant Maturity Yield (DISCONTINUED)                                                                NSA  03-Jun-2022  Monthly        
+H0RIFLGFCY20NWF               20-Year U.S. Government Constant Maturity Yield (DISCONTINUED)                                                           NSA  03-Jun-2022  Weekly, Ending Friday
+H0RIFLGFLNA                   Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  03-Jun-2022  Annual         
+H0RIFSGFPAM06NB               6-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                        NSA  03-Jun-2022  Daily          
+H0RIFSGFPAY01NB               12-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                       NSA  03-Jun-2022  Daily          
+H0RIFSGFPIM06NA               6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Annual         
+H0RIFSGFPIM06NM               6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Monthly        
+H0RIFSGFPIY01NA               12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  03-Jun-2022  Annual         
+H0RIFSGFPIY01NM               12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  03-Jun-2022  Monthly        
+H0RIFSPABM06NA                Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Annual         
+H0RIFSPABM06NB                Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Daily          
+H0RIFSPABM06NM                Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Monthly        
+H0RIFSPDCNSM01NA              Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual         
+H0RIFSPDCNSM03NA              Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual         
+H0RIFSPDCNSM06NA              Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  03-Jun-2022  Annual         
+H0RIFSPPCM01NA                1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPCM01NM                1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPCM03NA                3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPCM03NM                3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPCM06NA                6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPCM06NB                6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H0RIFSPPCM06NM                6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPFM01NA                1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPFM01NM                1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPFM01NWF               1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
+H0RIFSPPFM03NA                3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPFM03NM                3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPFM03NWF               3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
+H0RIFSPPFM06NA                6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Annual         
+H0RIFSPPFM06NB                6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H0RIFSPPFM06NM                6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Monthly        
+H0RIFSPPFM06NWF               6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Weekly, Ending Friday
+H0RIFSRDF02NA                 Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Annual         
+H0RIFSRDF02NB                 Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Daily          
+H0RIFSRDF02NWW                Discount Rate (DISCONTINUED)                                                                                             NSA  03-Jun-2022  Weekly, Ending Wednesday
+H15H0RIFSPPCM01NB             1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H15H0RIFSPPCM03NB             3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H15H0RIFSPPFM01NB             1-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H15H0RIFSPPFM03NB             3-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  03-Jun-2022  Daily          
+H1RIFLGFY10PNA                Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  03-Jun-2022  Annual         
+H1RIFLGFY10PNM                Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  03-Jun-2022  Monthly        
+H1RIFSGFPAM03NB               3-Month Treasury Bill Auction High, Discount Basis (DISCONTINUED)                                                        NSA  03-Jun-2022  Daily          
+H1RIFSGFPIM03NA               3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Annual         
+H1RIFSGFPIM03NM               3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  03-Jun-2022  Monthly        
+H1RIFSPABM03NA                Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Annual         
+H1RIFSPABM03NB                Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Daily          
+H1RIFSPABM03NM                Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Monthly        
+H1RIFSPABM03NWF               Average Dealer Offering Rate on 3-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  03-Jun-2022  Weekly, Ending Friday
+LTA                           Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  06-Jun-2022  Monthly        
+LTBOARD                       Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)                                        NSA  27-Jul-2006  Weekly, Ending Friday
+LTIIT                         Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  01-Dec-2022  Monthly        
+MDISCRT                       Discount Rate (DISCONTINUED)                                                                                             NSA  07-Jun-2006  Monthly        
+MED1                          U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly        
+MED3                          U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly        
+MED6                          U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Oct-2016  Monthly        
+MORTG                         Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  06-Jun-2022  Monthly        
+MPCREDIT                      Discount Window Primary Credit Rate                                                                                      NSA  01-Dec-2022  Monthly        
+MPRIME                        Bank Prime Loan Rate                                                                                                     NSA  01-Dec-2022  Monthly        
+MSLB20                        Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED)                                                                NSA  03-Oct-2016  Monthly        
+MSWP1                         1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+MSWP10                        10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Oct-2016  Monthly        
+MSWP2                         2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+MSWP3                         3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+MSWP30                        30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Oct-2016  Monthly        
+MSWP4                         4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+MSWP5                         5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+MSWP7                         7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Oct-2016  Monthly        
+PRIME                         Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates                                                      NSA  07-Nov-2022  Not Applicable 
+RIFLDIY01NA                   1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY02NA                   2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY03NA                   3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY04NA                   4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY05NA                   5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY07NA                   7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  03-Jun-2022  Annual         
+RIFLDIY10NA                   10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Jun-2022  Annual         
+RIFLDIY30NA                   30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  03-Jun-2022  Annual         
+RIFLGFCM01NA                  Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCM03NA                  Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCM06NA                  Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCY01NA                  Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual         
+RIFLGFCY02NA                  Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual         
+RIFLGFCY03NA                  Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual         
+RIFLGFCY05NA                  Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual         
+RIFLGFCY05XIINA               Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  03-Jun-2022  Annual         
+RIFLGFCY07NA                  Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  03-Jun-2022  Annual         
+RIFLGFCY07XIINA               Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  03-Jun-2022  Annual         
+RIFLGFCY10NA                  Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCY10XIINA               Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual         
+RIFLGFCY20NA                  Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCY20XIINA               Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual         
+RIFLGFCY30NA                  Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  03-Jun-2022  Annual         
+RIFLGFCY30XIINA               Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  03-Jun-2022  Annual         
+RIFLGFLXIINA                  Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  03-Jun-2022  Annual         
+RIFSGFSM03NA                  3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  03-Jun-2022  Annual         
+RIFSGFSM06NA                  6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  03-Jun-2022  Annual         
+RIFSGFSW04NA                  4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  03-Jun-2022  Annual         
+RIFSGFSY01NA                  1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  03-Jun-2022  Annual         
+RIFSPBLPNA                    Bank Prime Loan Rate                                                                                                     NSA  03-Jun-2022  Annual         
+RIFSPBLPND                    Bank Prime Loan Rate                                                                                                     NSA  09-Dec-2022  Daily, 7-Day   
+RIFSPFFNA                     Federal Funds Effective Rate                                                                                             NSA  03-Jun-2022  Annual         
+RIFSPFFNB                     Federal Funds Effective Rate                                                                                             NSA  09-Dec-2022  Daily          
+RIFSPFFNBWAW                  Federal Funds Effective Rate                                                                                             NSA  01-Dec-2022  Biweekly       
+RIFSPPCUNA                    Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Annual         
+RIFSPPCUNB                    Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Daily          
+RIFSPPCUNM                    Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Monthly        
+RIFSPPCUNWF                   Interest Rate That Issuers Not Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Co  NSA  03-Jun-2022  Weekly, Ending Friday
+RIFSPPCUSNA                   Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Annual         
+RIFSPPCUSNB                   Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Daily          
+RIFSPPCUSNM                   Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Monthly        
+RIFSPPCUSNWF                  Interest Rate That Issuers Subject to the Unsecured Credit Surcharge Pay to Issue 3-Month Unsecured Paper to the Commer  NSA  03-Jun-2022  Weekly, Ending Friday
+RIFSPPFAAD30NA                30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual         
+RIFSPPFAAD60NA                60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual         
+RIFSPPFAAD90NA                90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  03-Jun-2022  Annual         
+RIFSPPNAAD30NA                30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual         
+RIFSPPNAAD60NA                60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual         
+RIFSPPNAAD90NA                90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  03-Jun-2022  Annual         
+RIFSRPF02NA                   Discount Window Primary Credit Rate                                                                                      NSA  03-Jun-2022  Annual         
+RIFSRPF02ND                   Discount Window Primary Credit Rate                                                                                      NSA  09-Dec-2022  Daily, 7-Day   
+RILSPDEPM01NA                 U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual         
+RILSPDEPM03NA                 U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual         
+RILSPDEPM06NA                 U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  03-Jun-2022  Annual         
+RIMLPAAARNA                   Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Annual         
+RIMLPAAARNB                   Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Daily          
+RIMLPAAARNM                   Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Monthly        
+RIMLPAAARNWF                  Moody's Yield on Seasoned Corporate Bonds, All Industries, AAA (DISCONTINUED)                                            NSA  03-Jun-2022  Weekly, Ending Friday
+RIMLPBAARNA                   Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Annual         
+RIMLPBAARNB                   Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Daily          
+RIMLPBAARNM                   Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Monthly        
+RIMLPBAARNWF                  Moody's Yield on Seasoned Corporate Bonds, All Industries, BAA (DISCONTINUED)                                            NSA  03-Jun-2022  Weekly, Ending Friday
+RMMPCCFCNA                    Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  03-Jun-2022  Annual         
+TB1YR                         1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  01-Dec-2022  Monthly        
+TB3MS                         3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  01-Dec-2022  Monthly        
+TB4WK                         4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  01-Dec-2022  Monthly        
+TB6MS                         6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  01-Dec-2022  Monthly        
+WBA3M                         3-Month Bankers Acceptance Rate (DISCONTINUED)                                                                           NSA  30-Jun-2000  Weekly, Ending Friday
+WBA6M                         Average Dealer Offering Rate on 6-Month Domestic Private Bankers' Acceptances, Quoted on a Discount Basis (DISCONTINUED) NSA  27-Jul-2006  Weekly, Ending Friday
+WCD1M                         Average Rate on 1-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
+WCD3M                         Average Rate on 3-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
+WCD6M                         Average Rate on 6-Month Negotiable Certificates of Deposit (Secondary Market), Quoted on an Investment Basis (DISCONTIN  NSA  01-Jul-2013  Weekly, Ending Friday
+WCP1M                         1-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
+WCP3M                         3-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
+WCP6M                         6-Month Prime Commercial Paper, Average Dealer Offering Rate, Quoted on a Discount Basis (DISCONTINUED)                  NSA  27-Jul-2006  Weekly, Ending Friday
+WCPF1M                        30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
+WCPF2M                        60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
+WCPF3M                        90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  05-Dec-2022  Weekly, Ending Friday
+WCPN1M                        30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  05-Dec-2022  Weekly, Ending Friday
+WCPN2M                        60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  28-Nov-2022  Weekly, Ending Friday
+WCPN3M                        90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  28-Nov-2022  Weekly, Ending Friday
+WDISCRT                       Discount Rate (DISCONTINUED)                                                                                             NSA  27-Jul-2006  Weekly, Ending Wednesday
+WED1                          U.S. Short-Term Interest Rates: Daily 1-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Weekly, Ending Friday
+WED3                          U.S. Short-Term Interest Rates: Daily 3-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  11-Oct-2016  Weekly, Ending Friday
+WED6                          U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)                                     NSA  06-Jun-2022  Weekly, Ending Friday
+WFII10                        Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
+WFII20                        Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
+WFII30                        Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  NSA  05-Dec-2022  Weekly, Ending Friday
+WFII5                         Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  05-Dec-2022  Weekly, Ending Friday
+WFII7                         Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed   NSA  05-Dec-2022  Weekly, Ending Friday
+WGS10YR                       Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS1MO                        Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS1YR                        Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
+WGS20YR                       Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS2YR                        Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
+WGS30YR                       Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS3MO                        Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS3YR                        Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
+WGS5YR                        Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
+WGS6MO                        Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis                     NSA  05-Dec-2022  Weekly, Ending Friday
+WGS7YR                        Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis                      NSA  05-Dec-2022  Weekly, Ending Friday
+WLTA                          Treasury Long-Term Average (25 Years and Above) (DISCONTINUED)                                                           NSA  16-Aug-2006  Weekly, Ending Friday
+WLTIIT                        Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                            NSA  05-Dec-2022  Weekly, Ending Friday
+WMORTG                        Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  06-Jun-2022  Weekly, Ending Friday
+WPCREDIT                      Discount Window Primary Credit Rate                                                                                      NSA  08-Dec-2022  Weekly, Ending Wednesday
+WPRIME                        Bank Prime Loan Rate                                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
+WRMORTG                       Contract Rate on 30-Year, Fixed-Rate Conventional Home Mortgage Commitments (DISCONTINUED)                               NSA  07-Oct-2016  Weekly, Ending Thursday
+WSLB20                        Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED)                                                                NSA  07-Oct-2016  Weekly, As of Thursday
+WSWP1                         1-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP10                        10-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP2                         2-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP3                         3-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP30                        30-Year Swap Rate (DISCONTINUED)                                                                                         NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP4                         4-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP5                         5-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WSWP7                         7-Year Swap Rate (DISCONTINUED)                                                                                          NSA  31-Oct-2016  Weekly, Ending Friday
+WTB1YA                        12-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                             NSA  06-Jun-2022  Weekly, Ending Friday
+WTB1YR                        1-Year Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  05-Dec-2022  Weekly, Ending Friday
+WTB1YS                        1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED)                                                               NSA  16-Aug-2006  Weekly, Ending Friday
+WTB3MA                        3-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  06-Jun-2022  Weekly, Ending Friday
+WTB3MS                        3-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  05-Dec-2022  Weekly, Ending Friday
+WTB4WK                        4-Week Treasury Bill Secondary Market Rate, Discount Basis                                                               NSA  05-Dec-2022  Weekly, Ending Friday
+WTB6MA                        6-Month Auction High Bill Rate by Issue Date (DISCONTINUED)                                                              NSA  06-Jun-2022  Weekly, Ending Friday
+WTB6MS                        6-Month Treasury Bill Secondary Market Rate, Discount Basis                                                              NSA  05-Dec-2022  Weekly, Ending Friday

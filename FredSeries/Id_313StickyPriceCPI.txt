@@ -1,25 +1,25 @@
 Id : 313  Sticky Price CPI
-COREFLEXCPIM157SFRBATL                  Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly
-COREFLEXCPIM158SFRBATL                  Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly
-COREFLEXCPIM159SFRBATL                  Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly
-COREFLEXCPIM679SFRBATL                  Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly
-CORESTICKM157SFRBATL                    Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly
-CORESTICKM158SFRBATL                    Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly
-CORESTICKM159SFRBATL                    Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly
-CORESTICKM679SFRBATL                    Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly
-CRESTKCPIXSLTRM157SFRBATL               Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly
-CRESTKCPIXSLTRM158SFRBATL               Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly
-CRESTKCPIXSLTRM159SFRBATL               Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly
-CRESTKCPIXSLTRM679SFRBATL               Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly
-FLEXCPIM157SFRBATL                      Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly
-FLEXCPIM158SFRBATL                      Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly
-FLEXCPIM159SFRBATL                      Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly
-FLEXCPIM679SFRBATL                      Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly
-STICKCPIM157SFRBATL                     Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly
-STICKCPIM158SFRBATL                     Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly
-STICKCPIM159SFRBATL                     Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly
-STICKCPIM679SFRBATL                     Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly
-STICKCPIXSHLTRM157SFRBATL               Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly
-STICKCPIXSHLTRM158SFRBATL               Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly
-STICKCPIXSHLTRM159SFRBATL               Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly
-STICKCPIXSHLTRM679SFRBATL               Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly
+COREFLEXCPIM157SFRBATL        Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly        
+COREFLEXCPIM158SFRBATL        Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly        
+COREFLEXCPIM159SFRBATL        Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly        
+COREFLEXCPIM679SFRBATL        Flexible Price Consumer Price Index less Food and Energy                                                                 SA   10-Nov-2022  Monthly        
+CORESTICKM157SFRBATL          Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly        
+CORESTICKM158SFRBATL          Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly        
+CORESTICKM159SFRBATL          Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly        
+CORESTICKM679SFRBATL          Sticky Price Consumer Price Index less Food and Energy                                                                   SA   10-Nov-2022  Monthly        
+CRESTKCPIXSLTRM157SFRBATL     Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly        
+CRESTKCPIXSLTRM158SFRBATL     Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly        
+CRESTKCPIXSLTRM159SFRBATL     Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly        
+CRESTKCPIXSLTRM679SFRBATL     Sticky Price Consumer Price Index less Food, Energy, and Shelter                                                         SA   10-Nov-2022  Monthly        
+FLEXCPIM157SFRBATL            Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly        
+FLEXCPIM158SFRBATL            Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly        
+FLEXCPIM159SFRBATL            Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly        
+FLEXCPIM679SFRBATL            Flexible Price Consumer Price Index                                                                                      SA   10-Nov-2022  Monthly        
+STICKCPIM157SFRBATL           Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly        
+STICKCPIM158SFRBATL           Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly        
+STICKCPIM159SFRBATL           Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly        
+STICKCPIM679SFRBATL           Sticky Price Consumer Price Index                                                                                        SA   10-Nov-2022  Monthly        
+STICKCPIXSHLTRM157SFRBATL     Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly        
+STICKCPIXSHLTRM158SFRBATL     Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly        
+STICKCPIXSHLTRM159SFRBATL     Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly        
+STICKCPIXSHLTRM679SFRBATL     Sticky Price Consumer Price Index less Shelter                                                                           SA   10-Nov-2022  Monthly        

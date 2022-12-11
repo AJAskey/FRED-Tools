@@ -1,10 +1,10 @@
 Id : 180  Unemployment Insurance Weekly Claims Report
-CC4WSA                                  4-Week Moving Average of Continued Claims (Insured Unemployment)                                                         SA   08-Dec-2022  Weekly, Ending Saturday
-CCNSA                                   Continued Claims (Insured Unemployment)                                                                                  NSA  08-Dec-2022  Weekly, Ending Saturday
-CCSA                                    Continued Claims (Insured Unemployment)                                                                                  SA   08-Dec-2022  Weekly, Ending Saturday
-COVEMP                                  Covered Employment                                                                                                       NSA  08-Dec-2022  Weekly, Ending Saturday
-IC4WSA                                  4-Week Moving Average of Initial Claims                                                                                  SA   08-Dec-2022  Weekly, Ending Saturday
-ICNSA                                   Initial Claims                                                                                                           NSA  08-Dec-2022  Weekly, Ending Saturday
-ICSA                                    Initial Claims                                                                                                           SA   08-Dec-2022  Weekly, Ending Saturday
-IURNSA                                  Insured Unemployment Rate                                                                                                NSA  08-Dec-2022  Weekly, Ending Saturday
-IURSA                                   Insured Unemployment Rate                                                                                                SA   08-Dec-2022  Weekly, Ending Saturday
+CC4WSA                        4-Week Moving Average of Continued Claims (Insured Unemployment)                                                         SA   08-Dec-2022  Weekly, Ending Saturday
+CCNSA                         Continued Claims (Insured Unemployment)                                                                                  NSA  08-Dec-2022  Weekly, Ending Saturday
+CCSA                          Continued Claims (Insured Unemployment)                                                                                  SA   08-Dec-2022  Weekly, Ending Saturday
+COVEMP                        Covered Employment                                                                                                       NSA  08-Dec-2022  Weekly, Ending Saturday
+IC4WSA                        4-Week Moving Average of Initial Claims                                                                                  SA   08-Dec-2022  Weekly, Ending Saturday
+ICNSA                         Initial Claims                                                                                                           NSA  08-Dec-2022  Weekly, Ending Saturday
+ICSA                          Initial Claims                                                                                                           SA   08-Dec-2022  Weekly, Ending Saturday
+IURNSA                        Insured Unemployment Rate                                                                                                NSA  08-Dec-2022  Weekly, Ending Saturday
+IURSA                         Insured Unemployment Rate                                                                                                SA   08-Dec-2022  Weekly, Ending Saturday

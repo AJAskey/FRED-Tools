@@ -1,57 +1,57 @@
 Id : 428  DHI Hiring Indicators
-DHIDFHDMI1                              DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 1-9 Employees (DISCONTINUED)                          NSA  17-May-2018  Monthly
-DHIDFHDMI10                             DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 10-49 Employees (DISCONTINUED)                        NSA  17-May-2018  Monthly
-DHIDFHDMI1000                           DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 1000-4999 Employees (DISCONTINUED)                    NSA  17-May-2018  Monthly
-DHIDFHDMI250                            DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 250-999 Employees (DISCONTINUED)                      NSA  17-May-2018  Monthly
-DHIDFHDMI50                             DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 50-249 Employees (DISCONTINUED)                       NSA  17-May-2018  Monthly
-DHIDFHDMI5000                           DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 5000+ Employees (DISCONTINUED)                        NSA  17-May-2018  Monthly
-DHIDFHDMIC                              DHI-DFH Mean Vacancy Duration Measure by Industry: Construction (DISCONTINUED)                                           NSA  11-Jun-2018  Monthly
-DHIDFHDMIE                              DHI-DFH Mean Vacancy Duration Measure by Industry: Education (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly
-DHIDFHDMIEHS                            DHI-DFH Mean Vacancy Duration Measure by Industry: Education and Health Services (DISCONTINUED)                          NSA  11-Jun-2018  Monthly
-DHIDFHDMIFS                             DHI-DFH Mean Vacancy Duration Measure by Industry: Financial Services (DISCONTINUED)                                     NSA  11-Jun-2018  Monthly
-DHIDFHDMIG                              DHI-DFH Mean Vacancy Duration Measure by Industry: Government (DISCONTINUED)                                             NSA  11-Jun-2018  Monthly
-DHIDFHDMIHS                             DHI-DFH Mean Vacancy Duration Measure by Industry: Health Services (DISCONTINUED)                                        NSA  11-Jun-2018  Monthly
-DHIDFHDMII                              DHI-DFH Mean Vacancy Duration Measure by Industry: Information (DISCONTINUED)                                            NSA  11-Jun-2018  Monthly
-DHIDFHDMILH                             DHI-DFH Mean Vacancy Duration Measure by Industry: Leisure and Hospitality (DISCONTINUED)                                NSA  11-Jun-2018  Monthly
-DHIDFHDMIM                              DHI-DFH Mean Vacancy Duration Measure by Industry: Manufacturing (DISCONTINUED)                                          NSA  11-Jun-2018  Monthly
-DHIDFHDMIMW                             DHI-DFH Mean Vacancy Duration Measure for Midwest Census Region (DISCONTINUED)                                           NSA  11-Jun-2018  Monthly
-DHIDFHDMINE                             DHI-DFH Mean Vacancy Duration Measure for Northeast Census Region (DISCONTINUED)                                         NSA  11-Jun-2018  Monthly
-DHIDFHDMIOS                             DHI-DFH Mean Vacancy Duration Measure by Industry: Other Services (DISCONTINUED)                                         NSA  11-Jun-2018  Monthly
-DHIDFHDMIP                              DHI-DFH Mean Vacancy Duration Measure by Industry: Private (DISCONTINUED)                                                NSA  11-Jun-2018  Monthly
-DHIDFHDMIPBS                            DHI-DFH Mean Vacancy Duration Measure by Industry: Professional and Business Services (DISCONTINUED)                     NSA  11-Jun-2018  Monthly
-DHIDFHDMIR                              DHI-DFH Mean Vacancy Duration Measure by Industry: Resources (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly
-DHIDFHDMISO                             DHI-DFH Mean Vacancy Duration Measure for South Census Region (DISCONTINUED)                                             NSA  11-Jun-2018  Monthly
-DHIDFHDMIWE                             DHI-DFH Mean Vacancy Duration Measure for West Census Region (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly
-DHIDFHDMIWRT                            DHI-DFH Mean Vacancy Duration Measure by Industry: Wholesale and Retail Trade (DISCONTINUED)                             NSA  11-Jun-2018  Monthly
-DHIDFHDMIWTU                            DHI-DFH Mean Vacancy Duration Measure by Industry: Warehouse, Transportation & Utilities (DISCONTINUED)                  NSA  11-Jun-2018  Monthly
-DHIDFHIRIPV                             DHI-DFH Index of Recruiting Intensity per Vacancy (DISCONTINUED)                                                         NSA  11-Jun-2018  Monthly
-DHIDFHMVDM                              DHI-DFH Mean Vacancy Duration Measure (DISCONTINUED)                                                                     NSA  11-Jun-2018  Monthly
-DHIDFHQTRT                              Quits Rate (DISCONTINUED)                                                                                                NSA  11-Jun-2018  Monthly
-DHIDFHRIV1                              DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 1-9 Employees (DISCONTINUED)              NSA  17-May-2018  Monthly
-DHIDFHRIV10                             DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 10-49 Employees (DISCONTINUED)            NSA  17-May-2018  Monthly
-DHIDFHRIV1000                           DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 1000-4999 Employees (DISCONTINUED)        NSA  17-May-2018  Monthly
-DHIDFHRIV250                            DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 250-999 Employees (DISCONTINUED)          NSA  17-May-2018  Monthly
-DHIDFHRIV50                             DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 50-249 Employees (DISCONTINUED)           NSA  17-May-2018  Monthly
-DHIDFHRIV5000                           DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 5000+ Employees (DISCONTINUED)            NSA  17-May-2018  Monthly
-DHIDFHRIVMW                             DHI-DFH Index of Recruiting Intensity per Vacancy for Midwest Census Region (DISCONTINUED)                               NSA  11-Jun-2018  Monthly
-DHIDFHRIVNE                             DHI-DFH Index of Recruiting Intensity per Vacancy for Northeast Census Region (DISCONTINUED)                             NSA  11-Jun-2018  Monthly
-DHIDFHRIVSO                             DHI-DFH Index of Recruiting Intensity per Vacancy for South Census Region (DISCONTINUED)                                 NSA  11-Jun-2018  Monthly
-DHIDFHRIVWE                             DHI-DFH Index of Recruiting Intensity per Vacancy for West Census Region (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly
-DHIDFHRSQTRT                            Rescaled Quits Rate (DISCONTINUED)                                                                                       NSA  11-Jun-2018  Monthly
-DHIDFHRVIC                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Construction (DISCONTINUED)                               NSA  11-Jun-2018  Monthly
-DHIDFHRVIE                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Education (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly
-DHIDFHRVIEHS                            DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Education and Health Services (DISCONTINUED)              NSA  11-Jun-2018  Monthly
-DHIDFHRVIFS                             DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Financial Services (DISCONTINUED)                         NSA  11-Jun-2018  Monthly
-DHIDFHRVIG                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Government (DISCONTINUED)                                 NSA  11-Jun-2018  Monthly
-DHIDFHRVIHS                             DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Health Services (DISCONTINUED)                            NSA  11-Jun-2018  Monthly
-DHIDFHRVII                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Information (DISCONTINUED)                                NSA  11-Jun-2018  Monthly
-DHIDFHRVILH                             DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Leisure and Hospitality (DISCONTINUED)                    NSA  11-Jun-2018  Monthly
-DHIDFHRVIM                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Manufacturing (DISCONTINUED)                              NSA  11-Jun-2018  Monthly
-DHIDFHRVIOS                             DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Other Services (DISCONTINUED)                             NSA  11-Jun-2018  Monthly
-DHIDFHRVIP                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Private (DISCONTINUED)                                    NSA  11-Jun-2018  Monthly
-DHIDFHRVIPB                             DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Professional and Business Services (DISCONTINUED)         NSA  11-Jun-2018  Monthly
-DHIDFHRVIR                              DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Resources (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly
-DHIDFHRVIWRT                            DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Wholesale and Retail Trade (DISCONTINUED)                 NSA  11-Jun-2018  Monthly
-DHIDFHRVIWTU                            DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Warehouse, Trans. & Utilities (DISCONTINUED)              NSA  11-Jun-2018  Monthly
-DHIDFHVTSTUT                            Vacancies to Short-Term Unemployment (DISCONTINUED)                                                                      NSA  11-Jun-2018  Monthly
-DHIDFHVTUR                              Vacancy to Unemployment Ratio (DISCONTINUED)                                                                             NSA  11-Jun-2018  Monthly
+DHIDFHDMI1                    DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 1-9 Employees (DISCONTINUED)                          NSA  17-May-2018  Monthly        
+DHIDFHDMI10                   DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 10-49 Employees (DISCONTINUED)                        NSA  17-May-2018  Monthly        
+DHIDFHDMI1000                 DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 1000-4999 Employees (DISCONTINUED)                    NSA  17-May-2018  Monthly        
+DHIDFHDMI250                  DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 250-999 Employees (DISCONTINUED)                      NSA  17-May-2018  Monthly        
+DHIDFHDMI50                   DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 50-249 Employees (DISCONTINUED)                       NSA  17-May-2018  Monthly        
+DHIDFHDMI5000                 DHI-DFH Mean Vacancy Duration Measure by Establishment Size Class: 5000+ Employees (DISCONTINUED)                        NSA  17-May-2018  Monthly        
+DHIDFHDMIC                    DHI-DFH Mean Vacancy Duration Measure by Industry: Construction (DISCONTINUED)                                           NSA  11-Jun-2018  Monthly        
+DHIDFHDMIE                    DHI-DFH Mean Vacancy Duration Measure by Industry: Education (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly        
+DHIDFHDMIEHS                  DHI-DFH Mean Vacancy Duration Measure by Industry: Education and Health Services (DISCONTINUED)                          NSA  11-Jun-2018  Monthly        
+DHIDFHDMIFS                   DHI-DFH Mean Vacancy Duration Measure by Industry: Financial Services (DISCONTINUED)                                     NSA  11-Jun-2018  Monthly        
+DHIDFHDMIG                    DHI-DFH Mean Vacancy Duration Measure by Industry: Government (DISCONTINUED)                                             NSA  11-Jun-2018  Monthly        
+DHIDFHDMIHS                   DHI-DFH Mean Vacancy Duration Measure by Industry: Health Services (DISCONTINUED)                                        NSA  11-Jun-2018  Monthly        
+DHIDFHDMII                    DHI-DFH Mean Vacancy Duration Measure by Industry: Information (DISCONTINUED)                                            NSA  11-Jun-2018  Monthly        
+DHIDFHDMILH                   DHI-DFH Mean Vacancy Duration Measure by Industry: Leisure and Hospitality (DISCONTINUED)                                NSA  11-Jun-2018  Monthly        
+DHIDFHDMIM                    DHI-DFH Mean Vacancy Duration Measure by Industry: Manufacturing (DISCONTINUED)                                          NSA  11-Jun-2018  Monthly        
+DHIDFHDMIMW                   DHI-DFH Mean Vacancy Duration Measure for Midwest Census Region (DISCONTINUED)                                           NSA  11-Jun-2018  Monthly        
+DHIDFHDMINE                   DHI-DFH Mean Vacancy Duration Measure for Northeast Census Region (DISCONTINUED)                                         NSA  11-Jun-2018  Monthly        
+DHIDFHDMIOS                   DHI-DFH Mean Vacancy Duration Measure by Industry: Other Services (DISCONTINUED)                                         NSA  11-Jun-2018  Monthly        
+DHIDFHDMIP                    DHI-DFH Mean Vacancy Duration Measure by Industry: Private (DISCONTINUED)                                                NSA  11-Jun-2018  Monthly        
+DHIDFHDMIPBS                  DHI-DFH Mean Vacancy Duration Measure by Industry: Professional and Business Services (DISCONTINUED)                     NSA  11-Jun-2018  Monthly        
+DHIDFHDMIR                    DHI-DFH Mean Vacancy Duration Measure by Industry: Resources (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly        
+DHIDFHDMISO                   DHI-DFH Mean Vacancy Duration Measure for South Census Region (DISCONTINUED)                                             NSA  11-Jun-2018  Monthly        
+DHIDFHDMIWE                   DHI-DFH Mean Vacancy Duration Measure for West Census Region (DISCONTINUED)                                              NSA  11-Jun-2018  Monthly        
+DHIDFHDMIWRT                  DHI-DFH Mean Vacancy Duration Measure by Industry: Wholesale and Retail Trade (DISCONTINUED)                             NSA  11-Jun-2018  Monthly        
+DHIDFHDMIWTU                  DHI-DFH Mean Vacancy Duration Measure by Industry: Warehouse, Transportation & Utilities (DISCONTINUED)                  NSA  11-Jun-2018  Monthly        
+DHIDFHIRIPV                   DHI-DFH Index of Recruiting Intensity per Vacancy (DISCONTINUED)                                                         NSA  11-Jun-2018  Monthly        
+DHIDFHMVDM                    DHI-DFH Mean Vacancy Duration Measure (DISCONTINUED)                                                                     NSA  11-Jun-2018  Monthly        
+DHIDFHQTRT                    Quits Rate (DISCONTINUED)                                                                                                NSA  11-Jun-2018  Monthly        
+DHIDFHRIV1                    DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 1-9 Employees (DISCONTINUED)              NSA  17-May-2018  Monthly        
+DHIDFHRIV10                   DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 10-49 Employees (DISCONTINUED)            NSA  17-May-2018  Monthly        
+DHIDFHRIV1000                 DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 1000-4999 Employees (DISCONTINUED)        NSA  17-May-2018  Monthly        
+DHIDFHRIV250                  DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 250-999 Employees (DISCONTINUED)          NSA  17-May-2018  Monthly        
+DHIDFHRIV50                   DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 50-249 Employees (DISCONTINUED)           NSA  17-May-2018  Monthly        
+DHIDFHRIV5000                 DHI-DFH Index of Recruiting Intensity per Vacancy by Establishment Size Class: 5000+ Employees (DISCONTINUED)            NSA  17-May-2018  Monthly        
+DHIDFHRIVMW                   DHI-DFH Index of Recruiting Intensity per Vacancy for Midwest Census Region (DISCONTINUED)                               NSA  11-Jun-2018  Monthly        
+DHIDFHRIVNE                   DHI-DFH Index of Recruiting Intensity per Vacancy for Northeast Census Region (DISCONTINUED)                             NSA  11-Jun-2018  Monthly        
+DHIDFHRIVSO                   DHI-DFH Index of Recruiting Intensity per Vacancy for South Census Region (DISCONTINUED)                                 NSA  11-Jun-2018  Monthly        
+DHIDFHRIVWE                   DHI-DFH Index of Recruiting Intensity per Vacancy for West Census Region (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly        
+DHIDFHRSQTRT                  Rescaled Quits Rate (DISCONTINUED)                                                                                       NSA  11-Jun-2018  Monthly        
+DHIDFHRVIC                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Construction (DISCONTINUED)                               NSA  11-Jun-2018  Monthly        
+DHIDFHRVIE                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Education (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly        
+DHIDFHRVIEHS                  DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Education and Health Services (DISCONTINUED)              NSA  11-Jun-2018  Monthly        
+DHIDFHRVIFS                   DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Financial Services (DISCONTINUED)                         NSA  11-Jun-2018  Monthly        
+DHIDFHRVIG                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Government (DISCONTINUED)                                 NSA  11-Jun-2018  Monthly        
+DHIDFHRVIHS                   DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Health Services (DISCONTINUED)                            NSA  11-Jun-2018  Monthly        
+DHIDFHRVII                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Information (DISCONTINUED)                                NSA  11-Jun-2018  Monthly        
+DHIDFHRVILH                   DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Leisure and Hospitality (DISCONTINUED)                    NSA  11-Jun-2018  Monthly        
+DHIDFHRVIM                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Manufacturing (DISCONTINUED)                              NSA  11-Jun-2018  Monthly        
+DHIDFHRVIOS                   DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Other Services (DISCONTINUED)                             NSA  11-Jun-2018  Monthly        
+DHIDFHRVIP                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Private (DISCONTINUED)                                    NSA  11-Jun-2018  Monthly        
+DHIDFHRVIPB                   DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Professional and Business Services (DISCONTINUED)         NSA  11-Jun-2018  Monthly        
+DHIDFHRVIR                    DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Resources (DISCONTINUED)                                  NSA  11-Jun-2018  Monthly        
+DHIDFHRVIWRT                  DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Wholesale and Retail Trade (DISCONTINUED)                 NSA  11-Jun-2018  Monthly        
+DHIDFHRVIWTU                  DHI-DFH Index of Recruiting Intensity per Vacancy by Industry: Warehouse, Trans. & Utilities (DISCONTINUED)              NSA  11-Jun-2018  Monthly        
+DHIDFHVTSTUT                  Vacancies to Short-Term Unemployment (DISCONTINUED)                                                                      NSA  11-Jun-2018  Monthly        
+DHIDFHVTUR                    Vacancy to Unemployment Ratio (DISCONTINUED)                                                                             NSA  11-Jun-2018  Monthly        

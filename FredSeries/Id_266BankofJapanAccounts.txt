@@ -1,2 +1,2 @@
 Id : 266  Bank of Japan Accounts
-JPNASSETS                               Bank of Japan: Total Assets for Japan                                                                                    NSA  04-Dec-2022  Monthly, End of Period
+JPNASSETS                     Bank of Japan: Total Assets for Japan                                                                                    NSA  04-Dec-2022  Monthly, End of Period

@@ -1,2 +1,2 @@
 Id : 198  Kansas City Financial Stress Index
-KCFSI                                   Kansas City Financial Stress Index                                                                                       NSA  09-Dec-2022  Monthly
+KCFSI                         Kansas City Financial Stress Index                                                                                       NSA  09-Dec-2022  Monthly        

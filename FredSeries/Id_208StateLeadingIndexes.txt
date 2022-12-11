@@ -1,52 +1,52 @@
 Id : 208  State Leading Indexes
-AKSLIND                                 Leading Index for Alaska                                                                                                 SA   14-Apr-2020  Monthly
-ALSLIND                                 Leading Index for Alabama                                                                                                SA   14-Apr-2020  Monthly
-ARSLIND                                 Leading Index for Arkansas                                                                                               SA   14-Apr-2020  Monthly
-AZSLIND                                 Leading Index for Arizona                                                                                                SA   14-Apr-2020  Monthly
-CASLIND                                 Leading Index for California                                                                                             SA   14-Apr-2020  Monthly
-COSLIND                                 Leading Index for Colorado                                                                                               SA   14-Apr-2020  Monthly
-CTSLIND                                 Leading Index for Connecticut                                                                                            SA   14-Apr-2020  Monthly
-DESLIND                                 Leading Index for Delaware                                                                                               SA   14-Apr-2020  Monthly
-FLSLIND                                 Leading Index for Florida                                                                                                SA   14-Apr-2020  Monthly
-GASLIND                                 Leading Index for Georgia                                                                                                SA   14-Apr-2020  Monthly
-HISLIND                                 Leading Index for Hawaii                                                                                                 SA   14-Apr-2020  Monthly
-IASLIND                                 Leading Index for Iowa                                                                                                   SA   14-Apr-2020  Monthly
-IDSLIND                                 Leading Index for Idaho                                                                                                  SA   14-Apr-2020  Monthly
-ILSLIND                                 Leading Index for Illinois                                                                                               SA   14-Apr-2020  Monthly
-INSLIND                                 Leading Index for Indiana                                                                                                SA   14-Apr-2020  Monthly
-KSSLIND                                 Leading Index for Kansas                                                                                                 SA   14-Apr-2020  Monthly
-KYSLIND                                 Leading Index for Kentucky                                                                                               SA   14-Apr-2020  Monthly
-LASLIND                                 Leading Index for Louisiana                                                                                              SA   14-Apr-2020  Monthly
-MASLIND                                 Leading Index for Massachusetts                                                                                          SA   14-Apr-2020  Monthly
-MDSLIND                                 Leading Index for Maryland                                                                                               SA   14-Apr-2020  Monthly
-MESLIND                                 Leading Index for Maine                                                                                                  SA   14-Apr-2020  Monthly
-MISLIND                                 Leading Index for Michigan                                                                                               SA   14-Apr-2020  Monthly
-MNSLIND                                 Leading Index for Minnesota                                                                                              SA   14-Apr-2020  Monthly
-MOSLIND                                 Leading Index for Missouri                                                                                               SA   14-Apr-2020  Monthly
-MSSLIND                                 Leading Index for Mississippi                                                                                            SA   14-Apr-2020  Monthly
-MTSLIND                                 Leading Index for Montana                                                                                                SA   14-Apr-2020  Monthly
-NCSLIND                                 Leading Index for North Carolina                                                                                         SA   14-Apr-2020  Monthly
-NDSLIND                                 Leading Index for North Dakota                                                                                           SA   14-Apr-2020  Monthly
-NESLIND                                 Leading Index for Nebraska                                                                                               SA   14-Apr-2020  Monthly
-NHSLIND                                 Leading Index for New Hampshire                                                                                          SA   14-Apr-2020  Monthly
-NJSLIND                                 Leading Index for New Jersey                                                                                             SA   14-Apr-2020  Monthly
-NMSLIND                                 Leading Index for New Mexico                                                                                             SA   14-Apr-2020  Monthly
-NVSLIND                                 Leading Index for Nevada                                                                                                 SA   14-Apr-2020  Monthly
-NYSLIND                                 Leading Index for New York                                                                                               SA   14-Apr-2020  Monthly
-OHSLIND                                 Leading Index for Ohio                                                                                                   SA   14-Apr-2020  Monthly
-OKSLIND                                 Leading Index for Oklahoma                                                                                               SA   14-Apr-2020  Monthly
-ORSLIND                                 Leading Index for Oregon                                                                                                 SA   14-Apr-2020  Monthly
-PASLIND                                 Leading Index for Pennsylvania                                                                                           SA   14-Apr-2020  Monthly
-RISLIND                                 Leading Index for Rhode Island                                                                                           SA   14-Apr-2020  Monthly
-SCSLIND                                 Leading Index for South Carolina                                                                                         SA   14-Apr-2020  Monthly
-SDSLIND                                 Leading Index for South Dakota                                                                                           SA   14-Apr-2020  Monthly
-TNSLIND                                 Leading Index for Tennessee                                                                                              SA   14-Apr-2020  Monthly
-TXSLIND                                 Leading Index for Texas                                                                                                  SA   14-Apr-2020  Monthly
-USSLIND                                 Leading Index for the United States                                                                                      SA   14-Apr-2020  Monthly
-UTSLIND                                 Leading Index for Utah                                                                                                   SA   14-Apr-2020  Monthly
-VASLIND                                 Leading Index for Virginia                                                                                               SA   14-Apr-2020  Monthly
-VTSLIND                                 Leading Index for Vermont                                                                                                SA   14-Apr-2020  Monthly
-WASLIND                                 Leading Index for Washington                                                                                             SA   14-Apr-2020  Monthly
-WISLIND                                 Leading Index for Wisconsin                                                                                              SA   14-Apr-2020  Monthly
-WVSLIND                                 Leading Index for West Virginia                                                                                          SA   14-Apr-2020  Monthly
-WYSLIND                                 Leading Index for Wyoming                                                                                                SA   14-Apr-2020  Monthly
+AKSLIND                       Leading Index for Alaska                                                                                                 SA   14-Apr-2020  Monthly        
+ALSLIND                       Leading Index for Alabama                                                                                                SA   14-Apr-2020  Monthly        
+ARSLIND                       Leading Index for Arkansas                                                                                               SA   14-Apr-2020  Monthly        
+AZSLIND                       Leading Index for Arizona                                                                                                SA   14-Apr-2020  Monthly        
+CASLIND                       Leading Index for California                                                                                             SA   14-Apr-2020  Monthly        
+COSLIND                       Leading Index for Colorado                                                                                               SA   14-Apr-2020  Monthly        
+CTSLIND                       Leading Index for Connecticut                                                                                            SA   14-Apr-2020  Monthly        
+DESLIND                       Leading Index for Delaware                                                                                               SA   14-Apr-2020  Monthly        
+FLSLIND                       Leading Index for Florida                                                                                                SA   14-Apr-2020  Monthly        
+GASLIND                       Leading Index for Georgia                                                                                                SA   14-Apr-2020  Monthly        
+HISLIND                       Leading Index for Hawaii                                                                                                 SA   14-Apr-2020  Monthly        
+IASLIND                       Leading Index for Iowa                                                                                                   SA   14-Apr-2020  Monthly        
+IDSLIND                       Leading Index for Idaho                                                                                                  SA   14-Apr-2020  Monthly        
+ILSLIND                       Leading Index for Illinois                                                                                               SA   14-Apr-2020  Monthly        
+INSLIND                       Leading Index for Indiana                                                                                                SA   14-Apr-2020  Monthly        
+KSSLIND                       Leading Index for Kansas                                                                                                 SA   14-Apr-2020  Monthly        
+KYSLIND                       Leading Index for Kentucky                                                                                               SA   14-Apr-2020  Monthly        
+LASLIND                       Leading Index for Louisiana                                                                                              SA   14-Apr-2020  Monthly        
+MASLIND                       Leading Index for Massachusetts                                                                                          SA   14-Apr-2020  Monthly        
+MDSLIND                       Leading Index for Maryland                                                                                               SA   14-Apr-2020  Monthly        
+MESLIND                       Leading Index for Maine                                                                                                  SA   14-Apr-2020  Monthly        
+MISLIND                       Leading Index for Michigan                                                                                               SA   14-Apr-2020  Monthly        
+MNSLIND                       Leading Index for Minnesota                                                                                              SA   14-Apr-2020  Monthly        
+MOSLIND                       Leading Index for Missouri                                                                                               SA   14-Apr-2020  Monthly        
+MSSLIND                       Leading Index for Mississippi                                                                                            SA   14-Apr-2020  Monthly        
+MTSLIND                       Leading Index for Montana                                                                                                SA   14-Apr-2020  Monthly        
+NCSLIND                       Leading Index for North Carolina                                                                                         SA   14-Apr-2020  Monthly        
+NDSLIND                       Leading Index for North Dakota                                                                                           SA   14-Apr-2020  Monthly        
+NESLIND                       Leading Index for Nebraska                                                                                               SA   14-Apr-2020  Monthly        
+NHSLIND                       Leading Index for New Hampshire                                                                                          SA   14-Apr-2020  Monthly        
+NJSLIND                       Leading Index for New Jersey                                                                                             SA   14-Apr-2020  Monthly        
+NMSLIND                       Leading Index for New Mexico                                                                                             SA   14-Apr-2020  Monthly        
+NVSLIND                       Leading Index for Nevada                                                                                                 SA   14-Apr-2020  Monthly        
+NYSLIND                       Leading Index for New York                                                                                               SA   14-Apr-2020  Monthly        
+OHSLIND                       Leading Index for Ohio                                                                                                   SA   14-Apr-2020  Monthly        
+OKSLIND                       Leading Index for Oklahoma                                                                                               SA   14-Apr-2020  Monthly        
+ORSLIND                       Leading Index for Oregon                                                                                                 SA   14-Apr-2020  Monthly        
+PASLIND                       Leading Index for Pennsylvania                                                                                           SA   14-Apr-2020  Monthly        
+RISLIND                       Leading Index for Rhode Island                                                                                           SA   14-Apr-2020  Monthly        
+SCSLIND                       Leading Index for South Carolina                                                                                         SA   14-Apr-2020  Monthly        
+SDSLIND                       Leading Index for South Dakota                                                                                           SA   14-Apr-2020  Monthly        
+TNSLIND                       Leading Index for Tennessee                                                                                              SA   14-Apr-2020  Monthly        
+TXSLIND                       Leading Index for Texas                                                                                                  SA   14-Apr-2020  Monthly        
+USSLIND                       Leading Index for the United States                                                                                      SA   14-Apr-2020  Monthly        
+UTSLIND                       Leading Index for Utah                                                                                                   SA   14-Apr-2020  Monthly        
+VASLIND                       Leading Index for Virginia                                                                                               SA   14-Apr-2020  Monthly        
+VTSLIND                       Leading Index for Vermont                                                                                                SA   14-Apr-2020  Monthly        
+WASLIND                       Leading Index for Washington                                                                                             SA   14-Apr-2020  Monthly        
+WISLIND                       Leading Index for Wisconsin                                                                                              SA   14-Apr-2020  Monthly        
+WVSLIND                       Leading Index for West Virginia                                                                                          SA   14-Apr-2020  Monthly        
+WYSLIND                       Leading Index for Wyoming                                                                                                SA   14-Apr-2020  Monthly        

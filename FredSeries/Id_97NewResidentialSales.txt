@@ -1,233 +1,233 @@
 Id : 97  New Residential Sales
-ASPMW                                   Average Sales Price of Houses Sold for the Midwest Census Region                                                         NSA  26-Oct-2022  Quarterly
-ASPNE                                   Average Sales Price of Houses Sold for the Northeast Census Region                                                       NSA  26-Oct-2022  Quarterly
-ASPNHSUS                                Average Sales Price for New Houses Sold in the United States                                                             NSA  23-Nov-2022  Monthly
-ASPNHSUSA                               Average Sales Price for New Houses Sold in the United States                                                             NSA  26-Apr-2022  Annual
-ASPS                                    Average Sales Price of Houses Sold for the South Census Region                                                           NSA  26-Oct-2022  Quarterly
-ASPTFC                                  Average Sales Price of Houses Sold by Type of Financing, Cash Purchase                                                   NSA  26-Oct-2022  Quarterly
-ASPTFCM                                 Average Sales Price of Houses Sold by Type of Financing, Conventional                                                    NSA  26-Oct-2022  Quarterly
-ASPTFFHAI                               Average Sales Price of Houses Sold by Type of Financing, FHA Insured                                                     NSA  26-Oct-2022  Quarterly
-ASPTFVAG                                Average Sales Price of Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                        NSA  26-Oct-2022  Quarterly
-ASPUS                                   Average Sales Price of Houses Sold for the United States                                                                 NSA  26-Oct-2022  Quarterly
-ASPW                                    Average Sales Price of Houses Sold for the West Census Region                                                            NSA  26-Oct-2022  Quarterly
-HNFSEPUSSA                              New One Family Homes for Sale in the United States                                                                       SA   23-Nov-2022  Monthly, End of Month
-HNFSMW                                  New One Family Houses for Sale for the Midwest Census Region                                                             NSA  23-Nov-2022  Monthly, End of Month
-HNFSMWA                                 New One Family Houses for Sale for the Midwest Census Region                                                             NSA  23-Mar-2022  Annual
-HNFSNE                                  New One Family Houses for Sale for the Northeast Census Region                                                           NSA  23-Nov-2022  Monthly, End of Month
-HNFSNEA                                 New One Family Houses for Sale for the Northeast Census Region                                                           NSA  23-Mar-2022  Annual
-HNFSS                                   New One Family Houses for Sale for the South Census Region                                                               NSA  23-Nov-2022  Monthly, End of Month
-HNFSSA                                  New One Family Houses for Sale for the South Census Region                                                               NSA  23-Mar-2022  Annual
-HNFSUSNSA                               New One Family Houses for Sale in the United States                                                                      NSA  23-Nov-2022  Monthly, End of Month
-HNFSUSNSAA                              New One Family Houses for Sale in the United States                                                                      NSA  26-Apr-2022  Annual
-HNFSW                                   New One Family Houses for Sale for the West Census Region                                                                NSA  23-Nov-2022  Monthly, End of Month
-HNFSWA                                  New One Family Houses for Sale for the West Census Region                                                                NSA  23-Mar-2022  Annual
-HSN1F                                   New One Family Houses Sold: United States                                                                                SAAR 23-Nov-2022  Monthly
-HSN1FA                                  New One Family Houses Sold: United States                                                                                NSA  26-Apr-2022  Annual
-HSN1FMW                                 New One Family Houses Sold in Midwest Census Region                                                                      SAAR 23-Nov-2022  Monthly
-HSN1FMWA                                New One Family Houses Sold in Midwest Census Region                                                                      NSA  26-Jan-2022  Annual
-HSN1FMWNSA                              New One Family Houses Sold for the Midwest Census Region                                                                 NSA  23-Nov-2022  Monthly
-HSN1FNE                                 New One Family Houses Sold in Northeast Census Region                                                                    SAAR 23-Nov-2022  Monthly
-HSN1FNEA                                New One Family Houses Sold in Northeast Census Region                                                                    NSA  23-Mar-2022  Annual
-HSN1FNENSA                              New One Family Houses Sold for the Northeast Census Region                                                               NSA  23-Nov-2022  Monthly
-HSN1FNSA                                New One Family Houses Sold: United States                                                                                NSA  23-Nov-2022  Monthly
-HSN1FS                                  New One Family Houses Sold in South Census Region                                                                        SAAR 23-Nov-2022  Monthly
-HSN1FSA                                 New One Family Houses Sold in South Census Region                                                                        NSA  26-Apr-2022  Annual
-HSN1FSNSA                               New One Family Houses Sold for the South Census Region                                                                   NSA  23-Nov-2022  Monthly
-HSN1FW                                  New One Family Houses Sold in West Census Region                                                                         SAAR 23-Nov-2022  Monthly
-HSN1FWA                                 New One Family Houses Sold in West Census Region                                                                         NSA  23-Mar-2022  Annual
-HSN1FWNSA                               New One Family Houses Sold for the West Census Region                                                                    NSA  23-Nov-2022  Monthly
-HSTFC                                   Houses Sold by Type of Financing, Cash Purchase                                                                          NSA  26-Oct-2022  Quarterly
-HSTFCM                                  Houses Sold by Type of Financing, Conventional                                                                           NSA  26-Oct-2022  Quarterly
-HSTFFHAI                                Houses Sold by Type of Financing, FHA Insured                                                                            NSA  26-Oct-2022  Quarterly
-HSTFVAG                                 Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                                               NSA  26-Oct-2022  Quarterly
-MNMFS                                   Median Number of Months on Sales Market for Newly Completed Homes                                                        NSA  23-Nov-2022  Monthly
-MNMFSA                                  Median Number of Months on Sales Market for Newly Completed Homes                                                        NSA  23-Mar-2022  Annual
-MSACSR                                  Monthly Supply of New Houses in the United States                                                                        SA   23-Nov-2022  Monthly
-MSACSRNSA                               Monthly Supply of New Houses in the United States                                                                        NSA  23-Nov-2022  Monthly
-MSPMW                                   Median Sales Price of Houses Sold for the Midwest Census Region                                                          NSA  26-Oct-2022  Quarterly
-MSPNE                                   Median Sales Price of Houses Sold for the Northeast Census Region                                                        NSA  26-Oct-2022  Quarterly
-MSPNHSUS                                Median Sales Price for New Houses Sold in the United States                                                              NSA  23-Nov-2022  Monthly
-MSPNHSUSA                               Median Sales Price for New Houses Sold in the United States                                                              NSA  26-Apr-2022  Annual
-MSPS                                    Median Sales Price of Houses Sold for the South Census Region                                                            NSA  26-Oct-2022  Quarterly
-MSPTFC                                  Median Sales Price of Houses Sold by Type of Financing, Cash Purchase                                                    NSA  26-Oct-2022  Quarterly
-MSPTFCM                                 Median Sales Price of Houses Sold by Type of Financing, Conventional                                                     NSA  26-Oct-2022  Quarterly
-MSPTFFHAI                               Median Sales Price of Houses Sold by Type of Financing, FHA Insured                                                      NSA  26-Oct-2022  Quarterly
-MSPTFVAG                                Median Sales Price of Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                         NSA  26-Oct-2022  Quarterly
-MSPUS                                   Median Sales Price of Houses Sold for the United States                                                                  NSA  26-Oct-2022  Quarterly
-MSPW                                    Median Sales Price of Houses Sold for the West Census Region                                                             NSA  26-Oct-2022  Quarterly
-NHFSEPC                                 New Houses for Sale by Stage of Construction, Completed                                                                  NSA  23-Nov-2022  Monthly, End of Month
-NHFSEPCA                                New Houses for Sale by Stage of Construction, Completed                                                                  NSA  23-Mar-2022  Annual
-NHFSEPCS                                New Houses for Sale by Stage of Construction, Completed                                                                  SA   23-Nov-2022  Monthly
-NHFSEPNT                                New Houses for Sale by Stage of Construction, Not Started                                                                NSA  23-Nov-2022  Monthly, End of Month
-NHFSEPNTA                               New Houses for Sale by Stage of Construction, Not Started                                                                NSA  26-Apr-2022  Annual
-NHFSEPNTS                               New Houses for Sale by Stage of Construction, Not Started                                                                SA   23-Nov-2022  Monthly
-NHFSEPT                                 New Houses for Sale by Stage of Construction, Total                                                                      NSA  23-Nov-2022  Monthly
-NHFSEPTA                                New Houses for Sale by Stage of Construction, Total                                                                      NSA  26-Apr-2022  Annual
-NHFSEPTS                                New Houses for Sale by Stage of Construction, Total                                                                      SA   23-Nov-2022  Monthly
-NHFSEPUC                                New Houses for Sale by Stage of Construction, Under Construction                                                         NSA  23-Nov-2022  Monthly, End of Month
-NHFSEPUCA                               New Houses for Sale by Stage of Construction, Under Construction                                                         NSA  26-Apr-2022  Annual
-NHFSEPUCS                               New Houses for Sale by Stage of Construction, Under Construction                                                         SA   23-Nov-2022  Monthly
-NHSDPC                                  New Houses Sold by Stage of Construction, Completed                                                                      NSA  23-Nov-2022  Monthly
-NHSDPCA                                 New Houses Sold by Stage of Construction, Completed                                                                      NSA  26-Apr-2022  Annual
-NHSDPCS                                 New Houses Sold by Stage of Construction, Completed                                                                      SAAR 23-Nov-2022  Monthly
-NHSDPNS                                 New Houses Sold by Stage of Construction, Not Started                                                                    NSA  23-Nov-2022  Monthly
-NHSDPNSA                                New Houses Sold by Stage of Construction, Not Started                                                                    NSA  24-Feb-2022  Annual
-NHSDPNSS                                New Houses Sold by Stage of Construction, Not Started                                                                    SAAR 23-Nov-2022  Monthly
-NHSDPT                                  New Houses Sold by Stage of Construction, Total                                                                          NSA  23-Nov-2022  Monthly
-NHSDPTA                                 New Houses Sold by Stage of Construction, Total                                                                          NSA  26-Apr-2022  Annual
-NHSDPTS                                 New Houses Sold by Stage of Construction, Total                                                                          SAAR 23-Nov-2022  Monthly
-NHSDPUC                                 New Houses Sold by Stage of Construction, Under Construction                                                             NSA  23-Nov-2022  Monthly
-NHSDPUCA                                New Houses Sold by Stage of Construction, Under Construction                                                             NSA  26-Apr-2022  Annual
-NHSDPUCS                                New Houses Sold by Stage of Construction, Under Construction                                                             SAAR 23-Nov-2022  Monthly
-NHSMWSP15T19A                           New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual
-NHSMWSP15T19AP                          New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual
-NHSMWSP15T19QP                          New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly
-NHSMWSP20T29A                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual
-NHSMWSP20T29AP                          New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual
-NHSMWSP20T29QP                          New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly
-NHSMWSP30T49A                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual
-NHSMWSP30T49AP                          New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual
-NHSMWSP30T49QP                          New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly
-NHSMWSP50OA                             New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Jan-2022  Annual
-NHSMWSP50OAP                            New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Apr-2022  Annual
-NHSMWSP50OQP                            New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Oct-2022  Quarterly
-NHSMWSPTA                               New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Jan-2022  Annual
-NHSMWSPTAP                              New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Jan-2022  Annual
-NHSMWSPTQP                              New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Oct-2022  Quarterly
-NHSMWSPU15A                             New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Jan-2022  Annual
-NHSMWSPU15AP                            New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Jan-2022  Annual
-NHSMWSPU15QP                            New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Oct-2022  Quarterly
-NHSNESP20T29A                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual
-NHSNESP20T29AP                          New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual
-NHSNESP20T29QP                          New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly
-NHSNESP30T49A                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual
-NHSNESP30T49AP                          New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual
-NHSNESP30T49QP                          New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly
-NHSNESP50T74A                           New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual
-NHSNESP50T74AP                          New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual
-NHSNESP50T74QP                          New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly
-NHSNESP75OA                             New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Apr-2022  Annual
-NHSNESP75OAP                            New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Jan-2022  Annual
-NHSNESP75OQP                            New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSNESPTA                               New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Apr-2022  Annual
-NHSNESPTAP                              New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Jan-2022  Annual
-NHSNESPTQP                              New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Oct-2022  Quarterly
-NHSNESPU20A                             New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Jan-2022  Annual
-NHSNESPU20AP                            New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Jan-2022  Annual
-NHSNESPU20QP                            New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Oct-2022  Quarterly
-NHSSPMW15T19                            New Houses Sold by Sales Price Between $150,000 and $199,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly
-NHSSPMW20T29                            New Houses Sold by Sales Price Between $200,000 and $299,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly
-NHSSPMW30T49                            New Houses Sold by Sales Price Between $300,000 and $499,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly
-NHSSPMW50O                              New Houses Sold by Sales Price Between $500,000 and Over in Midwest Census Region                                        NSA  26-Oct-2022  Quarterly
-NHSSPMWT                                New Houses Sold by Sales Price, Total, in Midwest Census Region                                                          NSA  26-Oct-2022  Quarterly
-NHSSPMWU15                              New Houses Sold by Sales Price, Under $150,000 in Midwest Census Region                                                  NSA  26-Oct-2022  Quarterly
-NHSSPNE20T29                            New Houses Sold by Sales Price Between $200,000 and $299,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSPNE30T49                            New Houses Sold by Sales Price Between $300,000 and $499,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSPNE50T74                            New Houses Sold by Sales Price Between $500,000 and $749,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSPNE75O                              New Houses Sold by Sales Price Between $750,000 and Over in Northeast Census Region                                      NSA  26-Oct-2022  Quarterly
-NHSSPNET                                New Houses Sold by Sales Price, Total, in Northeast Census Region                                                        NSA  26-Oct-2022  Quarterly
-NHSSPNEU2                               New Houses Sold by Sales Price, Under $200,000 in Northeast Census Region                                                NSA  26-Oct-2022  Quarterly
-NHSSPS15T19                             New Houses Sold by Sales Price Between $150,000 and $199,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly
-NHSSPS20T29                             New Houses Sold by Sales Price Between $200,000 and $299,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly
-NHSSPS30T49                             New Houses Sold by Sales Price Between $300,000 and $499,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly
-NHSSPS50O                               New Houses Sold by Sales Price Between $500,000 and Over in South Census Region                                          NSA  26-Oct-2022  Quarterly
-NHSSPST                                 New Houses Sold by Sales Price, Total, in South Census Region                                                            NSA  26-Oct-2022  Quarterly
-NHSSPSU15                               New Houses Sold by Sales Price, Under $150,000 in South Census Region                                                    NSA  26-Oct-2022  Quarterly
-NHSSPW20T29                             New Houses Sold by Sales Price Between $200,000 and $299,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly
-NHSSPW30T49                             New Houses Sold by Sales Price Between $300,000 and $499,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly
-NHSSPW50T74                             New Houses Sold by Sales Price Between $500,000 and $749,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly
-NHSSPW75O                               New Houses Sold by Sales Price Between $750,000 and Over in West Census Region                                           NSA  26-Oct-2022  Quarterly
-NHSSPWT                                 New Houses Sold by Sales Price, Total, in West Census Region                                                             NSA  26-Oct-2022  Quarterly
-NHSSPWU2                                New Houses Sold by Sales Price, Under $200,000 in West Census Region                                                     NSA  26-Oct-2022  Quarterly
-NHSSSP15T19A                            New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Jan-2022  Annual
-NHSSSP15T19AP                           New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Jan-2022  Annual
-NHSSSP15T19QP                           New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSSP20T29A                            New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Apr-2022  Annual
-NHSSSP20T29AP                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Apr-2022  Annual
-NHSSSP20T29QP                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSSP30T49A                            New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Apr-2022  Annual
-NHSSSP30T49AP                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Apr-2022  Annual
-NHSSSP30T49QP                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly
-NHSSSP50OA                              New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Apr-2022  Annual
-NHSSSP50OAP                             New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Apr-2022  Annual
-NHSSSP50OQP                             New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Oct-2022  Quarterly
-NHSSSPTA                                New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Apr-2022  Annual
-NHSSSPTAP                               New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Jan-2022  Annual
-NHSSSPTQP                               New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Oct-2022  Quarterly
-NHSSSPU15A                              New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Jan-2022  Annual
-NHSSSPU15AP                             New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Jan-2022  Annual
-NHSSSPU15QP                             New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Oct-2022  Quarterly
-NHSUSSP12T14Q                           New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP12T15A                           New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP12T15AP                          New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP12T15QP                          New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP15T19                            New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP15T19A                           New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP15T19AP                          New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP15T19P                           New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP15T19Q                           New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP15T19QP                          New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP20T24A                           New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP20T24AP                          New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP20T24Q                           New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP20T24QP                          New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP20T29                            New Houses Sold by Sales Price in the United States, Between $200,000 and $299,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP20T29P                           New Houses Sold by Sales Price in the United States, Between $200,000 and $299,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP25T29A                           New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP25T29AP                          New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP25T29Q                           New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP25T29QP                          New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP30T39                            New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP30T39A                           New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP30T39AP                          New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP30T39P                           New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP30T39Q                           New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP30T39QP                          New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP40T49                            New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP40T49A                           New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP40T49AP                          New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Jan-2022  Annual
-NHSUSSP40T49P                           New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP40T49Q                           New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP40T49QP                          New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP50T74                            New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP50T74A                           New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP50T74AP                          New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Apr-2022  Annual
-NHSUSSP50T74P                           New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  23-Nov-2022  Monthly
-NHSUSSP50T74Q                           New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP50T74QP                          New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Oct-2022  Quarterly
-NHSUSSP75O                              New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  23-Nov-2022  Monthly
-NHSUSSP75OA                             New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Apr-2022  Annual
-NHSUSSP75OAP                            New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Apr-2022  Annual
-NHSUSSP75OP                             New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  23-Nov-2022  Monthly
-NHSUSSP75OQ                             New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Oct-2022  Quarterly
-NHSUSSP75OQP                            New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Oct-2022  Quarterly
-NHSUSSPT                                New Houses Sold by Sales Price in the United States, Total                                                               NSA  23-Nov-2022  Monthly
-NHSUSSPTA                               New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Apr-2022  Annual
-NHSUSSPTAP                              New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Jan-2022  Annual
-NHSUSSPTP                               New Houses Sold by Sales Price in the United States, Total                                                               NSA  23-Nov-2022  Monthly
-NHSUSSPTQ                               New Houses Sold by Sales Price (All Prices) in the United States                                                         NSA  26-Oct-2022  Quarterly
-NHSUSSPTQP                              New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Oct-2022  Quarterly
-NHSUSSPU12A                             New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Jan-2022  Annual
-NHSUSSPU12AP                            New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Jan-2022  Annual
-NHSUSSPU12Q                             New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Oct-2022  Quarterly
-NHSUSSPU12QP                            New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Oct-2022  Quarterly
-NHSUSSPU15                              New Houses Sold by Sales Price in the United States, Under $150,000                                                      NSA  23-Nov-2022  Monthly
-NHSUSSPU15P                             New Houses Sold by Sales Price in the United States, Under $150,000                                                      NSA  23-Nov-2022  Monthly
-NHSWSP20T29A                            New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Apr-2022  Annual
-NHSWSP20T29AP                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Jan-2022  Annual
-NHSWSP20T29QP                           New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly
-NHSWSP30T49A                            New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Apr-2022  Annual
-NHSWSP30T49AP                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Apr-2022  Annual
-NHSWSP30T49QP                           New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly
-NHSWSP50T74A                            New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Apr-2022  Annual
-NHSWSP50T74AP                           New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Apr-2022  Annual
-NHSWSP50T74QP                           New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly
-NHSWSP75OA                              New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Apr-2022  Annual
-NHSWSP75OAP                             New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Apr-2022  Annual
-NHSWSP75OQP                             New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Oct-2022  Quarterly
-NHSWSPTA                                New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Apr-2022  Annual
-NHSWSPTAP                               New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Jan-2022  Annual
-NHSWSPTQP                               New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Oct-2022  Quarterly
-NHSWSPU20A                              New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Apr-2022  Annual
-NHSWSPU20AP                             New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Jan-2022  Annual
-NHSWSPU20QP                             New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Oct-2022  Quarterly
+ASPMW                         Average Sales Price of Houses Sold for the Midwest Census Region                                                         NSA  26-Oct-2022  Quarterly      
+ASPNE                         Average Sales Price of Houses Sold for the Northeast Census Region                                                       NSA  26-Oct-2022  Quarterly      
+ASPNHSUS                      Average Sales Price for New Houses Sold in the United States                                                             NSA  23-Nov-2022  Monthly        
+ASPNHSUSA                     Average Sales Price for New Houses Sold in the United States                                                             NSA  26-Apr-2022  Annual         
+ASPS                          Average Sales Price of Houses Sold for the South Census Region                                                           NSA  26-Oct-2022  Quarterly      
+ASPTFC                        Average Sales Price of Houses Sold by Type of Financing, Cash Purchase                                                   NSA  26-Oct-2022  Quarterly      
+ASPTFCM                       Average Sales Price of Houses Sold by Type of Financing, Conventional                                                    NSA  26-Oct-2022  Quarterly      
+ASPTFFHAI                     Average Sales Price of Houses Sold by Type of Financing, FHA Insured                                                     NSA  26-Oct-2022  Quarterly      
+ASPTFVAG                      Average Sales Price of Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                        NSA  26-Oct-2022  Quarterly      
+ASPUS                         Average Sales Price of Houses Sold for the United States                                                                 NSA  26-Oct-2022  Quarterly      
+ASPW                          Average Sales Price of Houses Sold for the West Census Region                                                            NSA  26-Oct-2022  Quarterly      
+HNFSEPUSSA                    New One Family Homes for Sale in the United States                                                                       SA   23-Nov-2022  Monthly, End of Month
+HNFSMW                        New One Family Houses for Sale for the Midwest Census Region                                                             NSA  23-Nov-2022  Monthly, End of Month
+HNFSMWA                       New One Family Houses for Sale for the Midwest Census Region                                                             NSA  23-Mar-2022  Annual         
+HNFSNE                        New One Family Houses for Sale for the Northeast Census Region                                                           NSA  23-Nov-2022  Monthly, End of Month
+HNFSNEA                       New One Family Houses for Sale for the Northeast Census Region                                                           NSA  23-Mar-2022  Annual         
+HNFSS                         New One Family Houses for Sale for the South Census Region                                                               NSA  23-Nov-2022  Monthly, End of Month
+HNFSSA                        New One Family Houses for Sale for the South Census Region                                                               NSA  23-Mar-2022  Annual         
+HNFSUSNSA                     New One Family Houses for Sale in the United States                                                                      NSA  23-Nov-2022  Monthly, End of Month
+HNFSUSNSAA                    New One Family Houses for Sale in the United States                                                                      NSA  26-Apr-2022  Annual         
+HNFSW                         New One Family Houses for Sale for the West Census Region                                                                NSA  23-Nov-2022  Monthly, End of Month
+HNFSWA                        New One Family Houses for Sale for the West Census Region                                                                NSA  23-Mar-2022  Annual         
+HSN1F                         New One Family Houses Sold: United States                                                                                SAAR 23-Nov-2022  Monthly        
+HSN1FA                        New One Family Houses Sold: United States                                                                                NSA  26-Apr-2022  Annual         
+HSN1FMW                       New One Family Houses Sold in Midwest Census Region                                                                      SAAR 23-Nov-2022  Monthly        
+HSN1FMWA                      New One Family Houses Sold in Midwest Census Region                                                                      NSA  26-Jan-2022  Annual         
+HSN1FMWNSA                    New One Family Houses Sold for the Midwest Census Region                                                                 NSA  23-Nov-2022  Monthly        
+HSN1FNE                       New One Family Houses Sold in Northeast Census Region                                                                    SAAR 23-Nov-2022  Monthly        
+HSN1FNEA                      New One Family Houses Sold in Northeast Census Region                                                                    NSA  23-Mar-2022  Annual         
+HSN1FNENSA                    New One Family Houses Sold for the Northeast Census Region                                                               NSA  23-Nov-2022  Monthly        
+HSN1FNSA                      New One Family Houses Sold: United States                                                                                NSA  23-Nov-2022  Monthly        
+HSN1FS                        New One Family Houses Sold in South Census Region                                                                        SAAR 23-Nov-2022  Monthly        
+HSN1FSA                       New One Family Houses Sold in South Census Region                                                                        NSA  26-Apr-2022  Annual         
+HSN1FSNSA                     New One Family Houses Sold for the South Census Region                                                                   NSA  23-Nov-2022  Monthly        
+HSN1FW                        New One Family Houses Sold in West Census Region                                                                         SAAR 23-Nov-2022  Monthly        
+HSN1FWA                       New One Family Houses Sold in West Census Region                                                                         NSA  23-Mar-2022  Annual         
+HSN1FWNSA                     New One Family Houses Sold for the West Census Region                                                                    NSA  23-Nov-2022  Monthly        
+HSTFC                         Houses Sold by Type of Financing, Cash Purchase                                                                          NSA  26-Oct-2022  Quarterly      
+HSTFCM                        Houses Sold by Type of Financing, Conventional                                                                           NSA  26-Oct-2022  Quarterly      
+HSTFFHAI                      Houses Sold by Type of Financing, FHA Insured                                                                            NSA  26-Oct-2022  Quarterly      
+HSTFVAG                       Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                                               NSA  26-Oct-2022  Quarterly      
+MNMFS                         Median Number of Months on Sales Market for Newly Completed Homes                                                        NSA  23-Nov-2022  Monthly        
+MNMFSA                        Median Number of Months on Sales Market for Newly Completed Homes                                                        NSA  23-Mar-2022  Annual         
+MSACSR                        Monthly Supply of New Houses in the United States                                                                        SA   23-Nov-2022  Monthly        
+MSACSRNSA                     Monthly Supply of New Houses in the United States                                                                        NSA  23-Nov-2022  Monthly        
+MSPMW                         Median Sales Price of Houses Sold for the Midwest Census Region                                                          NSA  26-Oct-2022  Quarterly      
+MSPNE                         Median Sales Price of Houses Sold for the Northeast Census Region                                                        NSA  26-Oct-2022  Quarterly      
+MSPNHSUS                      Median Sales Price for New Houses Sold in the United States                                                              NSA  23-Nov-2022  Monthly        
+MSPNHSUSA                     Median Sales Price for New Houses Sold in the United States                                                              NSA  26-Apr-2022  Annual         
+MSPS                          Median Sales Price of Houses Sold for the South Census Region                                                            NSA  26-Oct-2022  Quarterly      
+MSPTFC                        Median Sales Price of Houses Sold by Type of Financing, Cash Purchase                                                    NSA  26-Oct-2022  Quarterly      
+MSPTFCM                       Median Sales Price of Houses Sold by Type of Financing, Conventional                                                     NSA  26-Oct-2022  Quarterly      
+MSPTFFHAI                     Median Sales Price of Houses Sold by Type of Financing, FHA Insured                                                      NSA  26-Oct-2022  Quarterly      
+MSPTFVAG                      Median Sales Price of Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed                         NSA  26-Oct-2022  Quarterly      
+MSPUS                         Median Sales Price of Houses Sold for the United States                                                                  NSA  26-Oct-2022  Quarterly      
+MSPW                          Median Sales Price of Houses Sold for the West Census Region                                                             NSA  26-Oct-2022  Quarterly      
+NHFSEPC                       New Houses for Sale by Stage of Construction, Completed                                                                  NSA  23-Nov-2022  Monthly, End of Month
+NHFSEPCA                      New Houses for Sale by Stage of Construction, Completed                                                                  NSA  23-Mar-2022  Annual         
+NHFSEPCS                      New Houses for Sale by Stage of Construction, Completed                                                                  SA   23-Nov-2022  Monthly        
+NHFSEPNT                      New Houses for Sale by Stage of Construction, Not Started                                                                NSA  23-Nov-2022  Monthly, End of Month
+NHFSEPNTA                     New Houses for Sale by Stage of Construction, Not Started                                                                NSA  26-Apr-2022  Annual         
+NHFSEPNTS                     New Houses for Sale by Stage of Construction, Not Started                                                                SA   23-Nov-2022  Monthly        
+NHFSEPT                       New Houses for Sale by Stage of Construction, Total                                                                      NSA  23-Nov-2022  Monthly        
+NHFSEPTA                      New Houses for Sale by Stage of Construction, Total                                                                      NSA  26-Apr-2022  Annual         
+NHFSEPTS                      New Houses for Sale by Stage of Construction, Total                                                                      SA   23-Nov-2022  Monthly        
+NHFSEPUC                      New Houses for Sale by Stage of Construction, Under Construction                                                         NSA  23-Nov-2022  Monthly, End of Month
+NHFSEPUCA                     New Houses for Sale by Stage of Construction, Under Construction                                                         NSA  26-Apr-2022  Annual         
+NHFSEPUCS                     New Houses for Sale by Stage of Construction, Under Construction                                                         SA   23-Nov-2022  Monthly        
+NHSDPC                        New Houses Sold by Stage of Construction, Completed                                                                      NSA  23-Nov-2022  Monthly        
+NHSDPCA                       New Houses Sold by Stage of Construction, Completed                                                                      NSA  26-Apr-2022  Annual         
+NHSDPCS                       New Houses Sold by Stage of Construction, Completed                                                                      SAAR 23-Nov-2022  Monthly        
+NHSDPNS                       New Houses Sold by Stage of Construction, Not Started                                                                    NSA  23-Nov-2022  Monthly        
+NHSDPNSA                      New Houses Sold by Stage of Construction, Not Started                                                                    NSA  24-Feb-2022  Annual         
+NHSDPNSS                      New Houses Sold by Stage of Construction, Not Started                                                                    SAAR 23-Nov-2022  Monthly        
+NHSDPT                        New Houses Sold by Stage of Construction, Total                                                                          NSA  23-Nov-2022  Monthly        
+NHSDPTA                       New Houses Sold by Stage of Construction, Total                                                                          NSA  26-Apr-2022  Annual         
+NHSDPTS                       New Houses Sold by Stage of Construction, Total                                                                          SAAR 23-Nov-2022  Monthly        
+NHSDPUC                       New Houses Sold by Stage of Construction, Under Construction                                                             NSA  23-Nov-2022  Monthly        
+NHSDPUCA                      New Houses Sold by Stage of Construction, Under Construction                                                             NSA  26-Apr-2022  Annual         
+NHSDPUCS                      New Houses Sold by Stage of Construction, Under Construction                                                             SAAR 23-Nov-2022  Monthly        
+NHSMWSP15T19A                 New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual         
+NHSMWSP15T19AP                New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual         
+NHSMWSP15T19QP                New Houses Sold by Sales Price Between $150,000 and $199,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly      
+NHSMWSP20T29A                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual         
+NHSMWSP20T29AP                New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual         
+NHSMWSP20T29QP                New Houses Sold by Sales Price Between $200,000 and $299,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly      
+NHSMWSP30T49A                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Apr-2022  Annual         
+NHSMWSP30T49AP                New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Jan-2022  Annual         
+NHSMWSP30T49QP                New Houses Sold by Sales Price Between $300,000 and $499,999 in the Midwest Census Region                                NSA  26-Oct-2022  Quarterly      
+NHSMWSP50OA                   New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Jan-2022  Annual         
+NHSMWSP50OAP                  New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Apr-2022  Annual         
+NHSMWSP50OQP                  New Houses Sold by Sales Price Between $500,000 and Over in the Midwest Census Region                                    NSA  26-Oct-2022  Quarterly      
+NHSMWSPTA                     New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Jan-2022  Annual         
+NHSMWSPTAP                    New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Jan-2022  Annual         
+NHSMWSPTQP                    New Houses Sold by Sales Price Total in the Midwest Census Region                                                        NSA  26-Oct-2022  Quarterly      
+NHSMWSPU15A                   New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Jan-2022  Annual         
+NHSMWSPU15AP                  New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Jan-2022  Annual         
+NHSMWSPU15QP                  New Houses Sold by Sales Price Under $150,000 in the Midwest Census Region                                               NSA  26-Oct-2022  Quarterly      
+NHSNESP20T29A                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual         
+NHSNESP20T29AP                New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual         
+NHSNESP20T29QP                New Houses Sold by Sales Price Between $200,000 and $299,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly      
+NHSNESP30T49A                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Jan-2022  Annual         
+NHSNESP30T49AP                New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual         
+NHSNESP30T49QP                New Houses Sold by Sales Price Between $300,000 and $499,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly      
+NHSNESP50T74A                 New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual         
+NHSNESP50T74AP                New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Apr-2022  Annual         
+NHSNESP50T74QP                New Houses Sold by Sales Price Between $500,000 and $749,999 in the Northeast Census Region                              NSA  26-Oct-2022  Quarterly      
+NHSNESP75OA                   New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Apr-2022  Annual         
+NHSNESP75OAP                  New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Jan-2022  Annual         
+NHSNESP75OQP                  New Houses Sold by Sales Price Between $750,000 and Over in the Northeast Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSNESPTA                     New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Apr-2022  Annual         
+NHSNESPTAP                    New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Jan-2022  Annual         
+NHSNESPTQP                    New Houses Sold by Sales Price Total in the Northeast Census Region                                                      NSA  26-Oct-2022  Quarterly      
+NHSNESPU20A                   New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Jan-2022  Annual         
+NHSNESPU20AP                  New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Jan-2022  Annual         
+NHSNESPU20QP                  New Houses Sold by Sales Price Under $200,000 in the Northeast Census Region                                             NSA  26-Oct-2022  Quarterly      
+NHSSPMW15T19                  New Houses Sold by Sales Price Between $150,000 and $199,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly      
+NHSSPMW20T29                  New Houses Sold by Sales Price Between $200,000 and $299,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly      
+NHSSPMW30T49                  New Houses Sold by Sales Price Between $300,000 and $499,999 in Midwest Census Region                                    NSA  26-Oct-2022  Quarterly      
+NHSSPMW50O                    New Houses Sold by Sales Price Between $500,000 and Over in Midwest Census Region                                        NSA  26-Oct-2022  Quarterly      
+NHSSPMWT                      New Houses Sold by Sales Price, Total, in Midwest Census Region                                                          NSA  26-Oct-2022  Quarterly      
+NHSSPMWU15                    New Houses Sold by Sales Price, Under $150,000 in Midwest Census Region                                                  NSA  26-Oct-2022  Quarterly      
+NHSSPNE20T29                  New Houses Sold by Sales Price Between $200,000 and $299,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSPNE30T49                  New Houses Sold by Sales Price Between $300,000 and $499,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSPNE50T74                  New Houses Sold by Sales Price Between $500,000 and $749,999 in Northeast Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSPNE75O                    New Houses Sold by Sales Price Between $750,000 and Over in Northeast Census Region                                      NSA  26-Oct-2022  Quarterly      
+NHSSPNET                      New Houses Sold by Sales Price, Total, in Northeast Census Region                                                        NSA  26-Oct-2022  Quarterly      
+NHSSPNEU2                     New Houses Sold by Sales Price, Under $200,000 in Northeast Census Region                                                NSA  26-Oct-2022  Quarterly      
+NHSSPS15T19                   New Houses Sold by Sales Price Between $150,000 and $199,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly      
+NHSSPS20T29                   New Houses Sold by Sales Price Between $200,000 and $299,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly      
+NHSSPS30T49                   New Houses Sold by Sales Price Between $300,000 and $499,999 in South Census Region                                      NSA  26-Oct-2022  Quarterly      
+NHSSPS50O                     New Houses Sold by Sales Price Between $500,000 and Over in South Census Region                                          NSA  26-Oct-2022  Quarterly      
+NHSSPST                       New Houses Sold by Sales Price, Total, in South Census Region                                                            NSA  26-Oct-2022  Quarterly      
+NHSSPSU15                     New Houses Sold by Sales Price, Under $150,000 in South Census Region                                                    NSA  26-Oct-2022  Quarterly      
+NHSSPW20T29                   New Houses Sold by Sales Price Between $200,000 and $299,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly      
+NHSSPW30T49                   New Houses Sold by Sales Price Between $300,000 and $499,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly      
+NHSSPW50T74                   New Houses Sold by Sales Price Between $500,000 and $749,999 in West Census Region                                       NSA  26-Oct-2022  Quarterly      
+NHSSPW75O                     New Houses Sold by Sales Price Between $750,000 and Over in West Census Region                                           NSA  26-Oct-2022  Quarterly      
+NHSSPWT                       New Houses Sold by Sales Price, Total, in West Census Region                                                             NSA  26-Oct-2022  Quarterly      
+NHSSPWU2                      New Houses Sold by Sales Price, Under $200,000 in West Census Region                                                     NSA  26-Oct-2022  Quarterly      
+NHSSSP15T19A                  New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Jan-2022  Annual         
+NHSSSP15T19AP                 New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Jan-2022  Annual         
+NHSSSP15T19QP                 New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSSP20T29A                  New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Apr-2022  Annual         
+NHSSSP20T29AP                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Apr-2022  Annual         
+NHSSSP20T29QP                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSSP30T49A                  New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Apr-2022  Annual         
+NHSSSP30T49AP                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Apr-2022  Annual         
+NHSSSP30T49QP                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the South Census Region                                  NSA  26-Oct-2022  Quarterly      
+NHSSSP50OA                    New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Apr-2022  Annual         
+NHSSSP50OAP                   New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Apr-2022  Annual         
+NHSSSP50OQP                   New Houses Sold by Sales Price Between $500,000 and Over in the South Census Region                                      NSA  26-Oct-2022  Quarterly      
+NHSSSPTA                      New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Apr-2022  Annual         
+NHSSSPTAP                     New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Jan-2022  Annual         
+NHSSSPTQP                     New Houses Sold by Sales Price Total in the South Census Region                                                          NSA  26-Oct-2022  Quarterly      
+NHSSSPU15A                    New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Jan-2022  Annual         
+NHSSSPU15AP                   New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Jan-2022  Annual         
+NHSSSPU15QP                   New Houses Sold by Sales Price Under $150,000 in the South Census Region                                                 NSA  26-Oct-2022  Quarterly      
+NHSUSSP12T14Q                 New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP12T15A                 New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP12T15AP                New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP12T15QP                New Houses Sold by Sales Price in the United States, Between $125,000 and $149,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP15T19                  New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP15T19A                 New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP15T19AP                New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP15T19P                 New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP15T19Q                 New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP15T19QP                New Houses Sold by Sales Price in the United States, Between $150,000 and $199,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP20T24A                 New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP20T24AP                New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP20T24Q                 New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP20T24QP                New Houses Sold by Sales Price in the United States, Between $200,000 and $249,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP20T29                  New Houses Sold by Sales Price in the United States, Between $200,000 and $299,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP20T29P                 New Houses Sold by Sales Price in the United States, Between $200,000 and $299,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP25T29A                 New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP25T29AP                New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP25T29Q                 New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP25T29QP                New Houses Sold by Sales Price in the United States, Between $250,000 and $299,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP30T39                  New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP30T39A                 New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP30T39AP                New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP30T39P                 New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP30T39Q                 New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP30T39QP                New Houses Sold by Sales Price in the United States, Between $300,000 and $399,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP40T49                  New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP40T49A                 New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP40T49AP                New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Jan-2022  Annual         
+NHSUSSP40T49P                 New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP40T49Q                 New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP40T49QP                New Houses Sold by Sales Price in the United States, Between $400,000 and $499,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP50T74                  New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP50T74A                 New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP50T74AP                New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Apr-2022  Annual         
+NHSUSSP50T74P                 New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  23-Nov-2022  Monthly        
+NHSUSSP50T74Q                 New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP50T74QP                New Houses Sold by Sales Price in the United States, Between $500,000 and $749,999                                       NSA  26-Oct-2022  Quarterly      
+NHSUSSP75O                    New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  23-Nov-2022  Monthly        
+NHSUSSP75OA                   New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Apr-2022  Annual         
+NHSUSSP75OAP                  New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Apr-2022  Annual         
+NHSUSSP75OP                   New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  23-Nov-2022  Monthly        
+NHSUSSP75OQ                   New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Oct-2022  Quarterly      
+NHSUSSP75OQP                  New Houses Sold by Sales Price in the United States, Between $750,000 and Over                                           NSA  26-Oct-2022  Quarterly      
+NHSUSSPT                      New Houses Sold by Sales Price in the United States, Total                                                               NSA  23-Nov-2022  Monthly        
+NHSUSSPTA                     New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Apr-2022  Annual         
+NHSUSSPTAP                    New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Jan-2022  Annual         
+NHSUSSPTP                     New Houses Sold by Sales Price in the United States, Total                                                               NSA  23-Nov-2022  Monthly        
+NHSUSSPTQ                     New Houses Sold by Sales Price (All Prices) in the United States                                                         NSA  26-Oct-2022  Quarterly      
+NHSUSSPTQP                    New Houses Sold by Sales Price in the United States, Total                                                               NSA  26-Oct-2022  Quarterly      
+NHSUSSPU12A                   New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Jan-2022  Annual         
+NHSUSSPU12AP                  New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Jan-2022  Annual         
+NHSUSSPU12Q                   New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Oct-2022  Quarterly      
+NHSUSSPU12QP                  New Houses Sold by Sales Price in the United States, Under $125,000                                                      NSA  26-Oct-2022  Quarterly      
+NHSUSSPU15                    New Houses Sold by Sales Price in the United States, Under $150,000                                                      NSA  23-Nov-2022  Monthly        
+NHSUSSPU15P                   New Houses Sold by Sales Price in the United States, Under $150,000                                                      NSA  23-Nov-2022  Monthly        
+NHSWSP20T29A                  New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Apr-2022  Annual         
+NHSWSP20T29AP                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Jan-2022  Annual         
+NHSWSP20T29QP                 New Houses Sold by Sales Price Between $200,000 and $299,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly      
+NHSWSP30T49A                  New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Apr-2022  Annual         
+NHSWSP30T49AP                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Apr-2022  Annual         
+NHSWSP30T49QP                 New Houses Sold by Sales Price Between $300,000 and $499,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly      
+NHSWSP50T74A                  New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Apr-2022  Annual         
+NHSWSP50T74AP                 New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Apr-2022  Annual         
+NHSWSP50T74QP                 New Houses Sold by Sales Price Between $500,000 and $749,999 in the West Census Region                                   NSA  26-Oct-2022  Quarterly      
+NHSWSP75OA                    New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Apr-2022  Annual         
+NHSWSP75OAP                   New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Apr-2022  Annual         
+NHSWSP75OQP                   New Houses Sold by Sales Price Between $750,000 and Over in the West Census Region                                       NSA  26-Oct-2022  Quarterly      
+NHSWSPTA                      New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Apr-2022  Annual         
+NHSWSPTAP                     New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Jan-2022  Annual         
+NHSWSPTQP                     New Houses Sold by Sales Price Total in the West Census Region                                                           NSA  26-Oct-2022  Quarterly      
+NHSWSPU20A                    New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Apr-2022  Annual         
+NHSWSPU20AP                   New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Jan-2022  Annual         
+NHSWSPU20QP                   New Houses Sold by Sales Price Under $200,000 in the West Census Region                                                  NSA  26-Oct-2022  Quarterly      

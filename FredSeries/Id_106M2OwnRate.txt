@@ -1,2 +1,2 @@
 Id : 106  M2 Own Rate
-M2OWN                                   M2 Own Rate (DISCONTINUED)                                                                                               NSA  12-Jul-2019  Monthly
+M2OWN                         M2 Own Rate (DISCONTINUED)                                                                                               NSA  12-Jul-2019  Monthly        

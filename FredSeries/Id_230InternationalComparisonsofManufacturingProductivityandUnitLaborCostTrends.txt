@@ -1,286 +1,286 @@
 Id : 230  International Comparisons of Manufacturing Productivity and Unit Labor Cost Trends
-AUSAHMF                                 Average Annual Hours in Manufacturing in Australia (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-AUSANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                       NSA  10-Dec-2012  Annual
-AUSEPMFG                                Employment in Manufacturing in Australia (DISCONTINUED)                                                                  NSA  10-Dec-2012  Annual
-AUSFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Australia (DISCONTINUED)                           NSA  10-Dec-2012  Annual
-AUSHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-AUSHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Australia (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-AUSOPEP                                 Output Per Employed Person in Manufacturing in Australia (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
-AUSOPHI                                 Output Per Hour in Manufacturing in Australia (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual
-AUSOTPT                                 Output in Manufacturing in Australia (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual
-AUSRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Australia (DISCONTINUED)                                NSA  10-Dec-2012  Annual
-AUSRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Australia (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-AUSTLCMF                                Total Labor Compensation in Manufacturing in Australia (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-AUSTLHRS                                Total Hours in Manufacturing in Australia (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
-AUSULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Australia (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-AUSULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-BELAHMF                                 Average Annual Hours in Manufacturing in Belgium (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
-BELANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-BELEPMFG                                Employment in Manufacturing in Belgium (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-BELFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Belgium (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-BELHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                                 NSA  10-Dec-2012  Annual
-BELHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Belgium (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
-BELOPEP                                 Output Per Employed Person in Manufacturing in Belgium (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-BELOPHI                                 Output Per Hour in Manufacturing in Belgium (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
-BELOTPT                                 Output in Manufacturing in Belgium (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
-BELRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Belgium (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-BELRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Belgium (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-BELTLCMF                                Total Labor Compensation in Manufacturing in Belgium (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-BELTLHRS                                Total Hours in Manufacturing in Belgium (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
-BELULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Belgium (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-BELULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-CANAHMF                                 Average Annual Hours in Manufacturing in Canada (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-CANANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-CANEPMFG                                Employment in Manufacturing in Canada (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-CANFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Canada (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-CANHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-CANHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Canada (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-CANOPEP                                 Output Per Employed Person in Manufacturing in Canada (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-CANOPHI                                 Output Per Hour in Manufacturing in Canada (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-CANOTPT                                 Output in Manufacturing in Canada (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
-CANRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Canada (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-CANRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Canada (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-CANTLCMF                                Total Labor Compensation in Manufacturing in Canada (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
-CANTLHRS                                Total Hours in Manufacturing in Canada (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-CANULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Canada (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-CANULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-CZEAHMF                                 Average Annual Hours in Manufacturing in the Czech Republic (DISCONTINUED)                                               NSA  10-Dec-2012  Annual
-CZEANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)              NSA  10-Dec-2012  Annual
-CZEEPMFG                                Employment in Manufacturing in the Czech Republic (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
-CZEFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the Czech Republic (DISCONTINUED)                  NSA  10-Dec-2012  Annual
-CZEHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)                      NSA  10-Dec-2012  Annual
-CZEHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the Czech Republic (DISCONTINUED)                            NSA  10-Dec-2012  Annual
-CZEOPEP                                 Output Per Employed Person in Manufacturing in the Czech Republic (DISCONTINUED)                                         NSA  10-Dec-2012  Annual
-CZEOPHI                                 Output Per Hour in Manufacturing in the Czech Republic (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-CZEOTPT                                 Output in Manufacturing in the Czech Republic (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual
-CZERAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in the Czech Republic (DISCONTINUED)                       NSA  10-Dec-2012  Annual
-CZERHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in the Czech Republic (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-CZETLCMF                                Total Labor Compensation in Manufacturing in the Czech Republic (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-CZETLHRS                                Total Hours in Manufacturing in the Czech Republic (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-CZEULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the Czech Republic (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-CZEULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-DEUAHMF                                 Average Annual Hours in Manufacturing in Germany (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
-DEUANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-DEUEPMFG                                Employment in Manufacturing in Germany (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-DEUFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Germany (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-DEUHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                                 NSA  10-Dec-2012  Annual
-DEUHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Germany (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
-DEUOPEP                                 Output Per Employed Person in Manufacturing in Germany (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-DEUOPHI                                 Output Per Hour in Manufacturing in Germany (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
-DEUOTPT                                 Output in Manufacturing in Germany (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
-DEURAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Germany (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-DEURHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Germany (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-DEUTLCMF                                Total Labor Compensation in Manufacturing in Germany (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-DEUTLHRS                                Total Hours in Manufacturing in Germany (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
-DEUULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Germany (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-DEUULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-DNKAHMF                                 Average Annual Hours in Manufacturing in Denmark (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
-DNKANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-DNKEPMFG                                Employment in Manufacturing in Denmark (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-DNKFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Denmark (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-DNKHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                                 NSA  10-Dec-2012  Annual
-DNKHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Denmark (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
-DNKOPEP                                 Output Per Employed Person in Manufacturing in Denmark (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-DNKOPHI                                 Output Per Hour in Manufacturing in Denmark (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
-DNKOTPT                                 Output in Manufacturing in Denmark (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
-DNKRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Denmark (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-DNKRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Denmark (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-DNKTLCMF                                Total Labor Compensation in Manufacturing in Denmark (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-DNKTLHRS                                Total Hours in Manufacturing in Denmark (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
-DNKULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Denmark (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-DNKULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-ESPAHMF                                 Average Annual Hours in Manufacturing in Spain (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual
-ESPANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                           NSA  10-Dec-2012  Annual
-ESPEPMFG                                Employment in Manufacturing in Spain (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual
-ESPFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Spain (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-ESPHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-ESPHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Spain (DISCONTINUED)                                         NSA  10-Dec-2012  Annual
-ESPOPEP                                 Output Per Employed Person in Manufacturing in Spain (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-ESPOPHI                                 Output Per Hour in Manufacturing in Spain (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
-ESPOTPT                                 Output in Manufacturing in Spain (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
-ESPRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Spain (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-ESPRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Spain (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-ESPTLCMF                                Total Labor Compensation in Manufacturing in Spain (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-ESPTLHRS                                Total Hours in Manufacturing in Spain (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-ESPULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Spain (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-ESPULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
-FINAHMF                                 Average Annual Hours in Manufacturing in Finland (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
-FINANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-FINEPMFG                                Employment in Manufacturing in Finland (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-FINFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Finland (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-FINHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                                 NSA  10-Dec-2012  Annual
-FINHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Finland (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
-FINOPEP                                 Output Per Employed Person in Manufacturing in Finland (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-FINOPHI                                 Output Per Hour in Manufacturing in Finland (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
-FINOTPT                                 Output in Manufacturing in Finland (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual
-FINRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Finland (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-FINRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Finland (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-FINTLCMF                                Total Labor Compensation in Manufacturing in Finland (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-FINTLHRS                                Total Hours in Manufacturing in Finland (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual
-FINULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Finland (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-FINULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-FRAAHMF                                 Average Annual Hours in Manufacturing in France (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-FRAANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in France (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-FRAEPMFG                                Employment in Manufacturing in France (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-FRAFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in France (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-FRAHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in France (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-FRAHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in France (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-FRAOPEP                                 Output Per Employed Person in Manufacturing in France (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-FRAOPHI                                 Output Per Hour in Manufacturing in France (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-FRAOTPT                                 Output in Manufacturing in France (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
-FRARAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in France (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-FRARHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in France (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-FRATLCMF                                Total Labor Compensation in Manufacturing in France (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
-FRATLHRS                                Total Hours in Manufacturing in France (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-FRAULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in France (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-FRAULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in France (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-GBRAHMF                                 Average Annual Hours in Manufacturing in the United Kingdom (DISCONTINUED)                                               NSA  10-Dec-2012  Annual
-GBRANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)              NSA  10-Dec-2012  Annual
-GBREPMFG                                Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
-GBRFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the United Kingdom (DISCONTINUED)                  NSA  10-Dec-2012  Annual
-GBRHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)                      NSA  10-Dec-2012  Annual
-GBRHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the United Kingdom (DISCONTINUED)                            NSA  10-Dec-2012  Annual
-GBROPEP                                 Output Per Employed Person in Manufacturing in the United Kingdom (DISCONTINUED)                                         NSA  10-Dec-2012  Annual
-GBROPHI                                 Output Per Hour in Manufacturing in the United Kingdom (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-GBROTPT                                 Output in Manufacturing in the United Kingdom (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual
-GBRRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in the United Kingdom (DISCONTINUED)                       NSA  10-Dec-2012  Annual
-GBRRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in the United Kingdom (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-GBRTLCMF                                Total Labor Compensation in Manufacturing in the United Kingdom (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-GBRTLHRS                                Total Hours in Manufacturing in the United Kingdom (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-GBRULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the United Kingdom (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-GBRULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-ITAAHMF                                 Average Annual Hours in Manufacturing in Italy (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual
-ITAANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                           NSA  10-Dec-2012  Annual
-ITAEPMFG                                Employment in Manufacturing in Italy (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual
-ITAFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Italy (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-ITAHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-ITAHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Italy (DISCONTINUED)                                         NSA  10-Dec-2012  Annual
-ITAOPEP                                 Output Per Employed Person in Manufacturing in Italy (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-ITAOPHI                                 Output Per Hour in Manufacturing in Italy (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
-ITAOTPT                                 Output in Manufacturing in Italy (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
-ITARAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Italy (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-ITARHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Italy (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-ITATLCMF                                Total Labor Compensation in Manufacturing in Italy (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-ITATLHRS                                Total Hours in Manufacturing in Italy (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-ITAULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Italy (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-ITAULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
-JPNAHMF                                 Average Annual Hours in Manufacturing in Japan (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual
-JPNANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                           NSA  10-Dec-2012  Annual
-JPNEPMFG                                Employment in Manufacturing in Japan (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual
-JPNFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Japan (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-JPNHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-JPNHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Japan (DISCONTINUED)                                         NSA  10-Dec-2012  Annual
-JPNOPEP                                 Output Per Employed Person in Manufacturing in Japan (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-JPNOPHI                                 Output Per Hour in Manufacturing in Japan (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
-JPNOTPT                                 Output in Manufacturing in Japan (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual
-JPNRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Japan (DISCONTINUED)                                    NSA  10-Dec-2012  Annual
-JPNRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Japan (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-JPNTLCMF                                Total Labor Compensation in Manufacturing in Japan (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-JPNTLHRS                                Total Hours in Manufacturing in Japan (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-JPNULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Japan (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-JPNULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
-KOAHMF                                  Average Annual Hours in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-KOANCMN                                 Average Annual Compensation in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTI  NSA  10-Dec-2012  Annual
-KOEPMFG                                 Employment in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-KOFXUS                                  Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the Republic of Korea (South Korea) (DISCONTINUED) NSA  10-Dec-2012  Annual
-KOHCMF                                  Hourly Compensation in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTINUED)     NSA  10-Dec-2012  Annual
-KOHCMFN                                 Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the Republic of Korea (South Korea) (DISCONTINUED)           NSA  10-Dec-2012  Annual
-KOOPEP                                  Output Per Employed Person in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                        NSA  10-Dec-2012  Annual
-KOOPHI                                  Output Per Hour in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-KOOTPT                                  Output in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-KORAHCMF                                Real Average Annual Compensation in Manufacturing, CPI Basis, in the Republic of Korea (South Korea) (DISCONTINUED)      NSA  10-Dec-2012  Annual
-KORHCMF                                 Real Hourly Compensation in Manufacturing, CPI Basis, in the Republic of Korea (South Korea) (DISCONTINUED)              NSA  10-Dec-2012  Annual
-KOTLCMF                                 Total Labor Compensation in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-KOTLHRS                                 Total Hours in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                       NSA  10-Dec-2012  Annual
-KOULCM                                  Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the Republic of Korea (South Korea) (DISCONTINUED)              NSA  10-Dec-2012  Annual
-KOULCMN                                 Unit Labor Costs in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTINUED)        NSA  10-Dec-2012  Annual
-NLDAHMF                                 Average Annual Hours in Manufacturing in Netherlands (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual
-NLDANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                     NSA  10-Dec-2012  Annual
-NLDEPMFG                                Employment in Manufacturing in Netherlands (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-NLDFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Netherlands (DISCONTINUED)                         NSA  10-Dec-2012  Annual
-NLDHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-NLDHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Netherlands (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-NLDOPEP                                 Output Per Employed Person in Manufacturing in Netherlands (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
-NLDOPHI                                 Output Per Hour in Manufacturing in Netherlands (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-NLDOTPT                                 Output in Manufacturing in Netherlands (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-NLDRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Netherlands (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-NLDRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Netherlands (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
-NLDTLCMF                                Total Labor Compensation in Manufacturing in Netherlands (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
-NLDTLHRS                                Total Hours in Manufacturing in Netherlands (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual
-NLDULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Netherlands (DISCONTINUED)                                      NSA  10-Dec-2012  Annual
-NLDULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                                NSA  10-Dec-2012  Annual
-NORAHMF                                 Average Annual Hours in Manufacturing in Norway (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-NORANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-NOREPMFG                                Employment in Manufacturing in Norway (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-NORFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Norway (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-NORHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-NORHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Norway (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-NOROPEP                                 Output Per Employed Person in Manufacturing in Norway (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-NOROPHI                                 Output Per Hour in Manufacturing in Norway (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-NOROTPT                                 Output in Manufacturing in Norway (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
-NORRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Norway (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-NORRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Norway (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-NORTLCMF                                Total Labor Compensation in Manufacturing in Norway (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
-NORTLHRS                                Total Hours in Manufacturing in Norway (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-NORULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Norway (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-NORULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-SGPAHMF                                 Average Annual Hours in Manufacturing in Singapore (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual
-SGPANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                       NSA  10-Dec-2012  Annual
-SGPEPMFG                                Employment in Manufacturing in Singapore (DISCONTINUED)                                                                  NSA  10-Dec-2012  Annual
-SGPFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Singapore (DISCONTINUED)                           NSA  10-Dec-2012  Annual
-SGPHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                               NSA  10-Dec-2012  Annual
-SGPHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Singapore (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-SGPOPEP                                 Output Per Employed Person in Manufacturing in Singapore (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual
-SGPOPHI                                 Output Per Hour in Manufacturing in Singapore (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual
-SGPOTPT                                 Output in Manufacturing in Singapore (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual
-SGPRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Singapore (DISCONTINUED)                                NSA  10-Dec-2012  Annual
-SGPRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Singapore (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-SGPTLCMF                                Total Labor Compensation in Manufacturing in Singapore (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual
-SGPTLHRS                                Total Hours in Manufacturing in Singapore (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual
-SGPULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Singapore (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-SGPULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-SWEAHMF                                 Average Annual Hours in Manufacturing in Sweden (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-SWEANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-SWEEPMFG                                Employment in Manufacturing in Sweden (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-SWEFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Sweden (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-SWEHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-SWEHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Sweden (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-SWEOPEP                                 Output Per Employed Person in Manufacturing in Sweden (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-SWEOPHI                                 Output Per Hour in Manufacturing in Sweden (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-SWEOTPT                                 Output in Manufacturing in Sweden (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
-SWERAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Sweden (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-SWERHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Sweden (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-SWETLCMF                                Total Labor Compensation in Manufacturing in Sweden (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
-SWETLHRS                                Total Hours in Manufacturing in Sweden (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-SWEULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Sweden (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-SWEULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-TWNAHMF                                 Average Annual Hours in Manufacturing in Taiwan (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual
-TWNANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                          NSA  10-Dec-2012  Annual
-TWNEPMFG                                Employment in Manufacturing in Taiwan (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual
-TWNFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Taiwan (DISCONTINUED)                              NSA  10-Dec-2012  Annual
-TWNHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                                  NSA  10-Dec-2012  Annual
-TWNHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Taiwan (DISCONTINUED)                                        NSA  10-Dec-2012  Annual
-TWNOPEP                                 Output Per Employed Person in Manufacturing in Taiwan (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-TWNOPHI                                 Output Per Hour in Manufacturing in Taiwan (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual
-TWNOTPT                                 Output in Manufacturing in Taiwan (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual
-TWNRAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in Taiwan (DISCONTINUED)                                   NSA  10-Dec-2012  Annual
-TWNRHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in Taiwan (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-TWNTLCMF                                Total Labor Compensation in Manufacturing in Taiwan (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual
-TWNTLHRS                                Total Hours in Manufacturing in Taiwan (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual
-TWNULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Taiwan (DISCONTINUED)                                           NSA  10-Dec-2012  Annual
-TWNULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                                     NSA  10-Dec-2012  Annual
-USAAHMF                                 Average Annual Hours in Manufacturing in the United States (DISCONTINUED)                                                NSA  10-Dec-2012  Annual
-USAANCMN                                Average Annual Compensation in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)               NSA  10-Dec-2012  Annual
-USAEPMFG                                Employment in Manufacturing in the United States (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual
-USAFXUS                                 Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the United States (DISCONTINUED)                   NSA  10-Dec-2012  Annual
-USAHCMF                                 Hourly Compensation in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)                       NSA  10-Dec-2012  Annual
-USAHCMFN                                Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the United States (DISCONTINUED)                             NSA  10-Dec-2012  Annual
-USAOPEP                                 Output Per Employed Person in Manufacturing in the United States (DISCONTINUED)                                          NSA  10-Dec-2012  Annual
-USAOPHI                                 Output Per Hour in Manufacturing in the United States (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual
-USAOTPT                                 Output in Manufacturing in the United States (DISCONTINUED)                                                              NSA  10-Dec-2012  Annual
-USARAHCMF                               Real Average Annual Compensation in Manufacturing, CPI Basis, in the United States (DISCONTINUED)                        NSA  10-Dec-2012  Annual
-USARHCMF                                Real Hourly Compensation in Manufacturing, CPI Basis, in the United States (DISCONTINUED)                                NSA  10-Dec-2012  Annual
-USATLCMF                                Total Labor Compensation in Manufacturing in the United States (DISCONTINUED)                                            NSA  10-Dec-2012  Annual
-USATLHRS                                Total Hours in Manufacturing in the United States (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual
-USAULCM                                 Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the United States (DISCONTINUED)                                NSA  10-Dec-2012  Annual
-USAULCMN                                Unit Labor Costs in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)                          NSA  10-Dec-2012  Annual
+AUSAHMF                       Average Annual Hours in Manufacturing in Australia (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+AUSANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                       NSA  10-Dec-2012  Annual         
+AUSEPMFG                      Employment in Manufacturing in Australia (DISCONTINUED)                                                                  NSA  10-Dec-2012  Annual         
+AUSFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Australia (DISCONTINUED)                           NSA  10-Dec-2012  Annual         
+AUSHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+AUSHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Australia (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+AUSOPEP                       Output Per Employed Person in Manufacturing in Australia (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual         
+AUSOPHI                       Output Per Hour in Manufacturing in Australia (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual         
+AUSOTPT                       Output in Manufacturing in Australia (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual         
+AUSRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Australia (DISCONTINUED)                                NSA  10-Dec-2012  Annual         
+AUSRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Australia (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+AUSTLCMF                      Total Labor Compensation in Manufacturing in Australia (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+AUSTLHRS                      Total Hours in Manufacturing in Australia (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual         
+AUSULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Australia (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+AUSULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Australia (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+BELAHMF                       Average Annual Hours in Manufacturing in Belgium (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual         
+BELANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+BELEPMFG                      Employment in Manufacturing in Belgium (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+BELFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Belgium (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+BELHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                                 NSA  10-Dec-2012  Annual         
+BELHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Belgium (DISCONTINUED)                                       NSA  10-Dec-2012  Annual         
+BELOPEP                       Output Per Employed Person in Manufacturing in Belgium (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+BELOPHI                       Output Per Hour in Manufacturing in Belgium (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual         
+BELOTPT                       Output in Manufacturing in Belgium (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual         
+BELRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Belgium (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+BELRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Belgium (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+BELTLCMF                      Total Labor Compensation in Manufacturing in Belgium (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+BELTLHRS                      Total Hours in Manufacturing in Belgium (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual         
+BELULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Belgium (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+BELULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Belgium (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+CANAHMF                       Average Annual Hours in Manufacturing in Canada (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+CANANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+CANEPMFG                      Employment in Manufacturing in Canada (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+CANFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Canada (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+CANHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+CANHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Canada (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+CANOPEP                       Output Per Employed Person in Manufacturing in Canada (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+CANOPHI                       Output Per Hour in Manufacturing in Canada (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+CANOTPT                       Output in Manufacturing in Canada (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual         
+CANRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Canada (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+CANRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Canada (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+CANTLCMF                      Total Labor Compensation in Manufacturing in Canada (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual         
+CANTLHRS                      Total Hours in Manufacturing in Canada (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+CANULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Canada (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+CANULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Canada (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+CZEAHMF                       Average Annual Hours in Manufacturing in the Czech Republic (DISCONTINUED)                                               NSA  10-Dec-2012  Annual         
+CZEANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)              NSA  10-Dec-2012  Annual         
+CZEEPMFG                      Employment in Manufacturing in the Czech Republic (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual         
+CZEFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the Czech Republic (DISCONTINUED)                  NSA  10-Dec-2012  Annual         
+CZEHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)                      NSA  10-Dec-2012  Annual         
+CZEHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the Czech Republic (DISCONTINUED)                            NSA  10-Dec-2012  Annual         
+CZEOPEP                       Output Per Employed Person in Manufacturing in the Czech Republic (DISCONTINUED)                                         NSA  10-Dec-2012  Annual         
+CZEOPHI                       Output Per Hour in Manufacturing in the Czech Republic (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+CZEOTPT                       Output in Manufacturing in the Czech Republic (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual         
+CZERAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in the Czech Republic (DISCONTINUED)                       NSA  10-Dec-2012  Annual         
+CZERHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in the Czech Republic (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+CZETLCMF                      Total Labor Compensation in Manufacturing in the Czech Republic (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+CZETLHRS                      Total Hours in Manufacturing in the Czech Republic (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+CZEULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the Czech Republic (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+CZEULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in the Czech Republic (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+DEUAHMF                       Average Annual Hours in Manufacturing in Germany (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual         
+DEUANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+DEUEPMFG                      Employment in Manufacturing in Germany (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+DEUFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Germany (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+DEUHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                                 NSA  10-Dec-2012  Annual         
+DEUHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Germany (DISCONTINUED)                                       NSA  10-Dec-2012  Annual         
+DEUOPEP                       Output Per Employed Person in Manufacturing in Germany (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+DEUOPHI                       Output Per Hour in Manufacturing in Germany (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual         
+DEUOTPT                       Output in Manufacturing in Germany (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual         
+DEURAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Germany (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+DEURHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Germany (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+DEUTLCMF                      Total Labor Compensation in Manufacturing in Germany (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+DEUTLHRS                      Total Hours in Manufacturing in Germany (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual         
+DEUULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Germany (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+DEUULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Germany (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+DNKAHMF                       Average Annual Hours in Manufacturing in Denmark (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual         
+DNKANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+DNKEPMFG                      Employment in Manufacturing in Denmark (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+DNKFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Denmark (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+DNKHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                                 NSA  10-Dec-2012  Annual         
+DNKHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Denmark (DISCONTINUED)                                       NSA  10-Dec-2012  Annual         
+DNKOPEP                       Output Per Employed Person in Manufacturing in Denmark (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+DNKOPHI                       Output Per Hour in Manufacturing in Denmark (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual         
+DNKOTPT                       Output in Manufacturing in Denmark (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual         
+DNKRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Denmark (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+DNKRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Denmark (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+DNKTLCMF                      Total Labor Compensation in Manufacturing in Denmark (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+DNKTLHRS                      Total Hours in Manufacturing in Denmark (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual         
+DNKULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Denmark (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+DNKULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Denmark (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+ESPAHMF                       Average Annual Hours in Manufacturing in Spain (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual         
+ESPANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                           NSA  10-Dec-2012  Annual         
+ESPEPMFG                      Employment in Manufacturing in Spain (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual         
+ESPFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Spain (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+ESPHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+ESPHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Spain (DISCONTINUED)                                         NSA  10-Dec-2012  Annual         
+ESPOPEP                       Output Per Employed Person in Manufacturing in Spain (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+ESPOPHI                       Output Per Hour in Manufacturing in Spain (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual         
+ESPOTPT                       Output in Manufacturing in Spain (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual         
+ESPRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Spain (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+ESPRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Spain (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+ESPTLCMF                      Total Labor Compensation in Manufacturing in Spain (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+ESPTLHRS                      Total Hours in Manufacturing in Spain (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+ESPULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Spain (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+ESPULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Spain (DISCONTINUED)                                      NSA  10-Dec-2012  Annual         
+FINAHMF                       Average Annual Hours in Manufacturing in Finland (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual         
+FINANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+FINEPMFG                      Employment in Manufacturing in Finland (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+FINFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Finland (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+FINHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                                 NSA  10-Dec-2012  Annual         
+FINHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Finland (DISCONTINUED)                                       NSA  10-Dec-2012  Annual         
+FINOPEP                       Output Per Employed Person in Manufacturing in Finland (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+FINOPHI                       Output Per Hour in Manufacturing in Finland (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual         
+FINOTPT                       Output in Manufacturing in Finland (DISCONTINUED)                                                                        NSA  10-Dec-2012  Annual         
+FINRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Finland (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+FINRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Finland (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+FINTLCMF                      Total Labor Compensation in Manufacturing in Finland (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+FINTLHRS                      Total Hours in Manufacturing in Finland (DISCONTINUED)                                                                   NSA  10-Dec-2012  Annual         
+FINULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Finland (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+FINULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Finland (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+FRAAHMF                       Average Annual Hours in Manufacturing in France (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+FRAANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in France (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+FRAEPMFG                      Employment in Manufacturing in France (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+FRAFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in France (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+FRAHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in France (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+FRAHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in France (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+FRAOPEP                       Output Per Employed Person in Manufacturing in France (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+FRAOPHI                       Output Per Hour in Manufacturing in France (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+FRAOTPT                       Output in Manufacturing in France (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual         
+FRARAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in France (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+FRARHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in France (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+FRATLCMF                      Total Labor Compensation in Manufacturing in France (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual         
+FRATLHRS                      Total Hours in Manufacturing in France (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+FRAULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in France (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+FRAULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in France (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+GBRAHMF                       Average Annual Hours in Manufacturing in the United Kingdom (DISCONTINUED)                                               NSA  10-Dec-2012  Annual         
+GBRANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)              NSA  10-Dec-2012  Annual         
+GBREPMFG                      Employment in Manufacturing in the United Kingdom (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual         
+GBRFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the United Kingdom (DISCONTINUED)                  NSA  10-Dec-2012  Annual         
+GBRHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)                      NSA  10-Dec-2012  Annual         
+GBRHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the United Kingdom (DISCONTINUED)                            NSA  10-Dec-2012  Annual         
+GBROPEP                       Output Per Employed Person in Manufacturing in the United Kingdom (DISCONTINUED)                                         NSA  10-Dec-2012  Annual         
+GBROPHI                       Output Per Hour in Manufacturing in the United Kingdom (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+GBROTPT                       Output in Manufacturing in the United Kingdom (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual         
+GBRRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in the United Kingdom (DISCONTINUED)                       NSA  10-Dec-2012  Annual         
+GBRRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in the United Kingdom (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+GBRTLCMF                      Total Labor Compensation in Manufacturing in the United Kingdom (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+GBRTLHRS                      Total Hours in Manufacturing in the United Kingdom (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+GBRULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the United Kingdom (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+GBRULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in the United Kingdom (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+ITAAHMF                       Average Annual Hours in Manufacturing in Italy (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual         
+ITAANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                           NSA  10-Dec-2012  Annual         
+ITAEPMFG                      Employment in Manufacturing in Italy (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual         
+ITAFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Italy (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+ITAHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+ITAHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Italy (DISCONTINUED)                                         NSA  10-Dec-2012  Annual         
+ITAOPEP                       Output Per Employed Person in Manufacturing in Italy (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+ITAOPHI                       Output Per Hour in Manufacturing in Italy (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual         
+ITAOTPT                       Output in Manufacturing in Italy (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual         
+ITARAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Italy (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+ITARHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Italy (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+ITATLCMF                      Total Labor Compensation in Manufacturing in Italy (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+ITATLHRS                      Total Hours in Manufacturing in Italy (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+ITAULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Italy (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+ITAULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Italy (DISCONTINUED)                                      NSA  10-Dec-2012  Annual         
+JPNAHMF                       Average Annual Hours in Manufacturing in Japan (DISCONTINUED)                                                            NSA  10-Dec-2012  Annual         
+JPNANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                           NSA  10-Dec-2012  Annual         
+JPNEPMFG                      Employment in Manufacturing in Japan (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual         
+JPNFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Japan (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+JPNHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+JPNHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Japan (DISCONTINUED)                                         NSA  10-Dec-2012  Annual         
+JPNOPEP                       Output Per Employed Person in Manufacturing in Japan (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+JPNOPHI                       Output Per Hour in Manufacturing in Japan (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual         
+JPNOTPT                       Output in Manufacturing in Japan (DISCONTINUED)                                                                          NSA  10-Dec-2012  Annual         
+JPNRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Japan (DISCONTINUED)                                    NSA  10-Dec-2012  Annual         
+JPNRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Japan (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+JPNTLCMF                      Total Labor Compensation in Manufacturing in Japan (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+JPNTLHRS                      Total Hours in Manufacturing in Japan (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+JPNULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Japan (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+JPNULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Japan (DISCONTINUED)                                      NSA  10-Dec-2012  Annual         
+KOAHMF                        Average Annual Hours in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+KOANCMN                       Average Annual Compensation in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTI  NSA  10-Dec-2012  Annual         
+KOEPMFG                       Employment in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+KOFXUS                        Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the Republic of Korea (South Korea) (DISCONTINUED) NSA  10-Dec-2012  Annual         
+KOHCMF                        Hourly Compensation in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTINUED)     NSA  10-Dec-2012  Annual         
+KOHCMFN                       Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the Republic of Korea (South Korea) (DISCONTINUED)           NSA  10-Dec-2012  Annual         
+KOOPEP                        Output Per Employed Person in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                        NSA  10-Dec-2012  Annual         
+KOOPHI                        Output Per Hour in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+KOOTPT                        Output in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+KORAHCMF                      Real Average Annual Compensation in Manufacturing, CPI Basis, in the Republic of Korea (South Korea) (DISCONTINUED)      NSA  10-Dec-2012  Annual         
+KORHCMF                       Real Hourly Compensation in Manufacturing, CPI Basis, in the Republic of Korea (South Korea) (DISCONTINUED)              NSA  10-Dec-2012  Annual         
+KOTLCMF                       Total Labor Compensation in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+KOTLHRS                       Total Hours in Manufacturing in the Republic of Korea (South Korea) (DISCONTINUED)                                       NSA  10-Dec-2012  Annual         
+KOULCM                        Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the Republic of Korea (South Korea) (DISCONTINUED)              NSA  10-Dec-2012  Annual         
+KOULCMN                       Unit Labor Costs in Manufacturing, National Currency Basis, in the Republic of Korea (South Korea) (DISCONTINUED)        NSA  10-Dec-2012  Annual         
+NLDAHMF                       Average Annual Hours in Manufacturing in Netherlands (DISCONTINUED)                                                      NSA  10-Dec-2012  Annual         
+NLDANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                     NSA  10-Dec-2012  Annual         
+NLDEPMFG                      Employment in Manufacturing in Netherlands (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+NLDFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Netherlands (DISCONTINUED)                         NSA  10-Dec-2012  Annual         
+NLDHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+NLDHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Netherlands (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+NLDOPEP                       Output Per Employed Person in Manufacturing in Netherlands (DISCONTINUED)                                                NSA  10-Dec-2012  Annual         
+NLDOPHI                       Output Per Hour in Manufacturing in Netherlands (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+NLDOTPT                       Output in Manufacturing in Netherlands (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+NLDRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Netherlands (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+NLDRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Netherlands (DISCONTINUED)                                      NSA  10-Dec-2012  Annual         
+NLDTLCMF                      Total Labor Compensation in Manufacturing in Netherlands (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual         
+NLDTLHRS                      Total Hours in Manufacturing in Netherlands (DISCONTINUED)                                                               NSA  10-Dec-2012  Annual         
+NLDULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Netherlands (DISCONTINUED)                                      NSA  10-Dec-2012  Annual         
+NLDULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Netherlands (DISCONTINUED)                                NSA  10-Dec-2012  Annual         
+NORAHMF                       Average Annual Hours in Manufacturing in Norway (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+NORANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+NOREPMFG                      Employment in Manufacturing in Norway (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+NORFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Norway (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+NORHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+NORHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Norway (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+NOROPEP                       Output Per Employed Person in Manufacturing in Norway (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+NOROPHI                       Output Per Hour in Manufacturing in Norway (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+NOROTPT                       Output in Manufacturing in Norway (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual         
+NORRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Norway (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+NORRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Norway (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+NORTLCMF                      Total Labor Compensation in Manufacturing in Norway (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual         
+NORTLHRS                      Total Hours in Manufacturing in Norway (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+NORULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Norway (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+NORULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Norway (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+SGPAHMF                       Average Annual Hours in Manufacturing in Singapore (DISCONTINUED)                                                        NSA  10-Dec-2012  Annual         
+SGPANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                       NSA  10-Dec-2012  Annual         
+SGPEPMFG                      Employment in Manufacturing in Singapore (DISCONTINUED)                                                                  NSA  10-Dec-2012  Annual         
+SGPFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Singapore (DISCONTINUED)                           NSA  10-Dec-2012  Annual         
+SGPHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                               NSA  10-Dec-2012  Annual         
+SGPHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Singapore (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+SGPOPEP                       Output Per Employed Person in Manufacturing in Singapore (DISCONTINUED)                                                  NSA  10-Dec-2012  Annual         
+SGPOPHI                       Output Per Hour in Manufacturing in Singapore (DISCONTINUED)                                                             NSA  10-Dec-2012  Annual         
+SGPOTPT                       Output in Manufacturing in Singapore (DISCONTINUED)                                                                      NSA  10-Dec-2012  Annual         
+SGPRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Singapore (DISCONTINUED)                                NSA  10-Dec-2012  Annual         
+SGPRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Singapore (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+SGPTLCMF                      Total Labor Compensation in Manufacturing in Singapore (DISCONTINUED)                                                    NSA  10-Dec-2012  Annual         
+SGPTLHRS                      Total Hours in Manufacturing in Singapore (DISCONTINUED)                                                                 NSA  10-Dec-2012  Annual         
+SGPULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Singapore (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+SGPULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Singapore (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+SWEAHMF                       Average Annual Hours in Manufacturing in Sweden (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+SWEANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+SWEEPMFG                      Employment in Manufacturing in Sweden (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+SWEFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Sweden (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+SWEHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+SWEHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Sweden (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+SWEOPEP                       Output Per Employed Person in Manufacturing in Sweden (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+SWEOPHI                       Output Per Hour in Manufacturing in Sweden (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+SWEOTPT                       Output in Manufacturing in Sweden (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual         
+SWERAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Sweden (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+SWERHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Sweden (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+SWETLCMF                      Total Labor Compensation in Manufacturing in Sweden (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual         
+SWETLHRS                      Total Hours in Manufacturing in Sweden (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+SWEULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Sweden (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+SWEULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Sweden (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+TWNAHMF                       Average Annual Hours in Manufacturing in Taiwan (DISCONTINUED)                                                           NSA  10-Dec-2012  Annual         
+TWNANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                          NSA  10-Dec-2012  Annual         
+TWNEPMFG                      Employment in Manufacturing in Taiwan (DISCONTINUED)                                                                     NSA  10-Dec-2012  Annual         
+TWNFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in Taiwan (DISCONTINUED)                              NSA  10-Dec-2012  Annual         
+TWNHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                                  NSA  10-Dec-2012  Annual         
+TWNHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in Taiwan (DISCONTINUED)                                        NSA  10-Dec-2012  Annual         
+TWNOPEP                       Output Per Employed Person in Manufacturing in Taiwan (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+TWNOPHI                       Output Per Hour in Manufacturing in Taiwan (DISCONTINUED)                                                                NSA  10-Dec-2012  Annual         
+TWNOTPT                       Output in Manufacturing in Taiwan (DISCONTINUED)                                                                         NSA  10-Dec-2012  Annual         
+TWNRAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in Taiwan (DISCONTINUED)                                   NSA  10-Dec-2012  Annual         
+TWNRHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in Taiwan (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+TWNTLCMF                      Total Labor Compensation in Manufacturing in Taiwan (DISCONTINUED)                                                       NSA  10-Dec-2012  Annual         
+TWNTLHRS                      Total Hours in Manufacturing in Taiwan (DISCONTINUED)                                                                    NSA  10-Dec-2012  Annual         
+TWNULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in Taiwan (DISCONTINUED)                                           NSA  10-Dec-2012  Annual         
+TWNULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in Taiwan (DISCONTINUED)                                     NSA  10-Dec-2012  Annual         
+USAAHMF                       Average Annual Hours in Manufacturing in the United States (DISCONTINUED)                                                NSA  10-Dec-2012  Annual         
+USAANCMN                      Average Annual Compensation in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)               NSA  10-Dec-2012  Annual         
+USAEPMFG                      Employment in Manufacturing in the United States (DISCONTINUED)                                                          NSA  10-Dec-2012  Annual         
+USAFXUS                       Exchange Rates (Value of Foreign Currency Relative to U.S. Dollar) in the United States (DISCONTINUED)                   NSA  10-Dec-2012  Annual         
+USAHCMF                       Hourly Compensation in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)                       NSA  10-Dec-2012  Annual         
+USAHCMFN                      Hourly Compensation in Manufacturing, U.S. Dollar Basis, in the United States (DISCONTINUED)                             NSA  10-Dec-2012  Annual         
+USAOPEP                       Output Per Employed Person in Manufacturing in the United States (DISCONTINUED)                                          NSA  10-Dec-2012  Annual         
+USAOPHI                       Output Per Hour in Manufacturing in the United States (DISCONTINUED)                                                     NSA  10-Dec-2012  Annual         
+USAOTPT                       Output in Manufacturing in the United States (DISCONTINUED)                                                              NSA  10-Dec-2012  Annual         
+USARAHCMF                     Real Average Annual Compensation in Manufacturing, CPI Basis, in the United States (DISCONTINUED)                        NSA  10-Dec-2012  Annual         
+USARHCMF                      Real Hourly Compensation in Manufacturing, CPI Basis, in the United States (DISCONTINUED)                                NSA  10-Dec-2012  Annual         
+USATLCMF                      Total Labor Compensation in Manufacturing in the United States (DISCONTINUED)                                            NSA  10-Dec-2012  Annual         
+USATLHRS                      Total Hours in Manufacturing in the United States (DISCONTINUED)                                                         NSA  10-Dec-2012  Annual         
+USAULCM                       Unit Labor Costs in Manufacturing, U.S. Dollar Basis, in the United States (DISCONTINUED)                                NSA  10-Dec-2012  Annual         
+USAULCMN                      Unit Labor Costs in Manufacturing, National Currency Basis, in the United States (DISCONTINUED)                          NSA  10-Dec-2012  Annual         

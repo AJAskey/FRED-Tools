@@ -1,30 +1,30 @@
 Id : 186  G.5A Foreign Exchange Rates
-AEXBZUS                                 Brazilian Reals to U.S. Dollar Spot Exchange Rate                                                                        NSA  03-Jan-2022  Annual
-AEXCAUS                                 Canadian Dollars to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual
-AEXCHUS                                 Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate                                                                  NSA  03-Jan-2022  Annual
-AEXDNUS                                 Danish Kroner to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual
-AEXHKUS                                 Hong Kong Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual
-AEXINUS                                 Indian Rupees to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual
-AEXJPUS                                 Japanese Yen to U.S. Dollar Spot Exchange Rate                                                                           NSA  03-Jan-2022  Annual
-AEXKOUS                                 South Korean Won to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual
-AEXMAUS                                 Malaysian Ringgit to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual
-AEXMXUS                                 Mexican Pesos to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual
-AEXNOUS                                 Norwegian Kroner to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual
-AEXSDUS                                 Swedish Kronor to U.S. Dollar Spot Exchange Rate                                                                         NSA  03-Jan-2022  Annual
-AEXSFUS                                 South African Rand to U.S. Dollar Spot Exchange Rate                                                                     NSA  03-Jan-2022  Annual
-AEXSIUS                                 Singapore Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual
-AEXSLUS                                 Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual
-AEXSZUS                                 Swiss Francs to U.S. Dollar Spot Exchange Rate                                                                           NSA  03-Jan-2022  Annual
-AEXTAUS                                 Taiwan Dollars to U.S. Dollar Spot Exchange Rate                                                                         NSA  03-Jan-2022  Annual
-AEXTHUS                                 Thai Baht to U.S. Dollar Spot Exchange Rate                                                                              NSA  03-Jan-2022  Annual
-AEXUSAL                                 U.S. Dollars to Australian Dollar Spot Exchange Rate                                                                     NSA  03-Jan-2022  Annual
-AEXUSEU                                 U.S. Dollars to Euro Spot Exchange Rate                                                                                  NSA  03-Jan-2022  Annual
-AEXUSNZ                                 U.S. Dollars to New Zealand Dollar Spot Exchange Rate                                                                    NSA  03-Jan-2022  Annual
-AEXUSUK                                 U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate                                                                   NSA  03-Jan-2022  Annual
-AEXVZUS                                 Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate                                                                   NSA  03-Jan-2022  Annual
-TWEXAFEGSANL                            Nominal Advanced Foreign Economies U.S. Dollar Index                                                                     NSA  03-Jan-2022  Annual
-TWEXBANL                                Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                              NSA  06-Jan-2020  Annual
-TWEXBGSANL                              Nominal Broad U.S. Dollar Index                                                                                          NSA  03-Jan-2022  Annual
-TWEXEMEGSANL                            Nominal Emerging Market Economies U.S. Dollar Index                                                                      NSA  03-Jan-2022  Annual
-TWEXMANL                                Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                   NSA  06-Jan-2020  Annual
-TWEXOANL                                Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)                                   NSA  06-Jan-2020  Annual
+AEXBZUS                       Brazilian Reals to U.S. Dollar Spot Exchange Rate                                                                        NSA  03-Jan-2022  Annual         
+AEXCAUS                       Canadian Dollars to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual         
+AEXCHUS                       Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate                                                                  NSA  03-Jan-2022  Annual         
+AEXDNUS                       Danish Kroner to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual         
+AEXHKUS                       Hong Kong Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual         
+AEXINUS                       Indian Rupees to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual         
+AEXJPUS                       Japanese Yen to U.S. Dollar Spot Exchange Rate                                                                           NSA  03-Jan-2022  Annual         
+AEXKOUS                       South Korean Won to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual         
+AEXMAUS                       Malaysian Ringgit to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual         
+AEXMXUS                       Mexican Pesos to U.S. Dollar Spot Exchange Rate                                                                          NSA  03-Jan-2022  Annual         
+AEXNOUS                       Norwegian Kroner to U.S. Dollar Spot Exchange Rate                                                                       NSA  03-Jan-2022  Annual         
+AEXSDUS                       Swedish Kronor to U.S. Dollar Spot Exchange Rate                                                                         NSA  03-Jan-2022  Annual         
+AEXSFUS                       South African Rand to U.S. Dollar Spot Exchange Rate                                                                     NSA  03-Jan-2022  Annual         
+AEXSIUS                       Singapore Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual         
+AEXSLUS                       Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate                                                                      NSA  03-Jan-2022  Annual         
+AEXSZUS                       Swiss Francs to U.S. Dollar Spot Exchange Rate                                                                           NSA  03-Jan-2022  Annual         
+AEXTAUS                       Taiwan Dollars to U.S. Dollar Spot Exchange Rate                                                                         NSA  03-Jan-2022  Annual         
+AEXTHUS                       Thai Baht to U.S. Dollar Spot Exchange Rate                                                                              NSA  03-Jan-2022  Annual         
+AEXUSAL                       U.S. Dollars to Australian Dollar Spot Exchange Rate                                                                     NSA  03-Jan-2022  Annual         
+AEXUSEU                       U.S. Dollars to Euro Spot Exchange Rate                                                                                  NSA  03-Jan-2022  Annual         
+AEXUSNZ                       U.S. Dollars to New Zealand Dollar Spot Exchange Rate                                                                    NSA  03-Jan-2022  Annual         
+AEXUSUK                       U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate                                                                   NSA  03-Jan-2022  Annual         
+AEXVZUS                       Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate                                                                   NSA  03-Jan-2022  Annual         
+TWEXAFEGSANL                  Nominal Advanced Foreign Economies U.S. Dollar Index                                                                     NSA  03-Jan-2022  Annual         
+TWEXBANL                      Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                              NSA  06-Jan-2020  Annual         
+TWEXBGSANL                    Nominal Broad U.S. Dollar Index                                                                                          NSA  03-Jan-2022  Annual         
+TWEXEMEGSANL                  Nominal Emerging Market Economies U.S. Dollar Index                                                                      NSA  03-Jan-2022  Annual         
+TWEXMANL                      Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                   NSA  06-Jan-2020  Annual         
+TWEXOANL                      Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)                                   NSA  06-Jan-2020  Annual         

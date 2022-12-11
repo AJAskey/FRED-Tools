@@ -1,265 +1,265 @@
 Id : 231  Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks
-ACILACB                                 Commercial and Industrial Loans, All Commercial Banks                                                                    NSA  23-Nov-2022  Quarterly
-ACILOB                                  Commercial and Industrial Loans, Banks Not Among the 100 Largest in Size by Assets                                       NSA  23-Nov-2022  Quarterly
-ACILT100                                Commercial and Industrial Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly
-ACLACB                                  Consumer Loans, All Commercial Banks                                                                                     NSA  23-Nov-2022  Quarterly
-ACLOB                                   Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                                        NSA  23-Nov-2022  Quarterly
-ACLT100                                 Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                                      NSA  23-Nov-2022  Quarterly
-ALFAPGACB                               Loans to Finance Agricultural Production, All Commercial Banks                                                           NSA  23-Nov-2022  Quarterly
-ALFAPGOB                                Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets                              NSA  23-Nov-2022  Quarterly
-ALFAPGT100                              Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets                            NSA  23-Nov-2022  Quarterly
-ALSREACB                                Loans Secured by Real Estate, All Commercial Banks                                                                       NSA  23-Nov-2022  Quarterly
-ALSREOB                                 Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                                          NSA  23-Nov-2022  Quarterly
-ALSRET100                               Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                                        NSA  23-Nov-2022  Quarterly
-AOCLACB                                 Other Consumer Loans, All Commercial Banks                                                                               NSA  23-Nov-2022  Quarterly
-AOCLOB                                  Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                                  NSA  23-Nov-2022  Quarterly
-AOCLT100                                Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                                NSA  23-Nov-2022  Quarterly
-ATAIEALLGACB                            Total Assets, Interest-Earning, All Loans and Leases, Gross, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly
-ATAIEALLGCLCRACB                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly
-ATAIEALLGCLCROB                         Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly
-ATAIEALLGCLCRT100                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly
-ATAIEALLGLFRACB                         Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, All Commercial Banks           NSA  23-Nov-2022  Quarterly
-ATAIEALLGLFROB                          Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly
-ATAIEALLGLFRT100                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly
-ATAIEALLGOB                             Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRECRELEXFACB                  Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRECRELEXFOB                   Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRECRELEXFT100                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSREFACB                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSREFOB                         Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSREFT100                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRESFRMACB                     Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRESFRMOB                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly
-ATAIEALLGSRESFRMT100                    Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly
-ATAIEALLGT100                           Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly
-CILACBEP                                Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, All Commercial Banks             NSA  23-Nov-2022  Quarterly, End of Period
-CILOBEP                                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, Banks Not Among the 100 Largest  NSA  23-Nov-2022  Quarterly, End of Period
-CILT100EP                               Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, Banks Ranked 1st to 100th Large  NSA  23-Nov-2022  Quarterly, End of Period
-CLACBEP                                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, All Commercial Banks                        NSA  23-Nov-2022  Quarterly, End of Period
-CLOBEP                                  Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Banks Not Among the 100 Largest in Size by  NSA  23-Nov-2022  Quarterly, End of Period
-CLT100EP                                Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Banks Ranked 1st to 100th Largest in Size   NSA  23-Nov-2022  Quarterly, End of Period
-CORALACBN                               Charge-Off Rate on All Loans, All Commercial Banks                                                                       NSA  23-Nov-2022  Quarterly
-CORALACBS                               Charge-Off Rate on All Loans, All Commercial Banks                                                                       SA   23-Nov-2022  Quarterly
-CORALOBN                                Charge-Off Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                          NSA  23-Nov-2022  Quarterly
-CORALOBS                                Charge-Off Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                          SA   23-Nov-2022  Quarterly
-CORALT100N                              Charge-Off Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                        NSA  23-Nov-2022  Quarterly
-CORALT100S                              Charge-Off Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                        SA   23-Nov-2022  Quarterly
-CORBLACBN                               Charge-Off Rate on Business Loans, All Commercial Banks                                                                  NSA  23-Nov-2022  Quarterly
-CORBLACBS                               Charge-Off Rate on Business Loans, All Commercial Banks                                                                  SA   23-Nov-2022  Quarterly
-CORBLOBN                                Charge-Off Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly
-CORBLOBS                                Charge-Off Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                     SA   23-Nov-2022  Quarterly
-CORBLT100N                              Charge-Off Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   NSA  23-Nov-2022  Quarterly
-CORBLT100S                              Charge-Off Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   SA   23-Nov-2022  Quarterly
-CORCACBN                                Charge-Off Rate on Consumer Loans, All Commercial Banks                                                                  NSA  23-Nov-2022  Quarterly
-CORCACBS                                Charge-Off Rate on Consumer Loans, All Commercial Banks                                                                  SA   23-Nov-2022  Quarterly
-CORCCACBN                               Charge-Off Rate on Credit Card Loans, All Commercial Banks                                                               NSA  23-Nov-2022  Quarterly
-CORCCACBS                               Charge-Off Rate on Credit Card Loans, All Commercial Banks                                                               SA   23-Nov-2022  Quarterly
-CORCCOBN                                Charge-Off Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly
-CORCCOBS                                Charge-Off Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly
-CORCCT100N                              Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                NSA  23-Nov-2022  Quarterly
-CORCCT100S                              Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                SA   23-Nov-2022  Quarterly
-CORCOBN                                 Charge-Off Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly
-CORCOBS                                 Charge-Off Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                     SA   23-Nov-2022  Quarterly
-CORCREXFACBN                            Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks   NSA  23-Nov-2022  Quarterly
-CORCREXFACBS                            Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks   SA   23-Nov-2022  Quarterly
-CORCREXFOBN                             Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the 1  NSA  23-Nov-2022  Quarterly
-CORCREXFOBS                             Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the 1  SA   23-Nov-2022  Quarterly
-CORCREXFT100N                           Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to 1  NSA  23-Nov-2022  Quarterly
-CORCREXFT100S                           Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to 1  SA   23-Nov-2022  Quarterly
-CORCT100N                               Charge-Off Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   NSA  23-Nov-2022  Quarterly
-CORCT100S                               Charge-Off Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   SA   23-Nov-2022  Quarterly
-CORFLACBN                               Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                      NSA  23-Nov-2022  Quarterly
-CORFLACBS                               Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                      SA   22-Aug-2022  Quarterly
-CORFLOBN                                Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets         NSA  23-Nov-2022  Quarterly
-CORFLOBS                                Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets         SA   23-Nov-2022  Quarterly
-CORFLT100N                              Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets       NSA  23-Nov-2022  Quarterly
-CORFLT100S                              Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets       SA   23-Nov-2022  Quarterly
-CORLAGACBN                              Charge-Off Rate on Loans to Finance Agricultural Production, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly
-CORLAGACBS                              Charge-Off Rate on Loans to Finance Agricultural Production, All Commercial Banks                                        SA   23-Nov-2022  Quarterly
-CORLAGOBN                               Charge-Off Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly
-CORLAGOBS                               Charge-Off Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets           SA   23-Nov-2022  Quarterly
-CORLAGT100N                             Charge-Off Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly
-CORLAGT100S                             Charge-Off Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets         SA   23-Nov-2022  Quarterly
-CORLFRACBN                              Charge-Off Rate on Lease Financing Receivables, All Commercial Banks                                                     NSA  23-Nov-2022  Quarterly
-CORLFRACBS                              Charge-Off Rate on Lease Financing Receivables, All Commercial Banks                                                     SA   23-Nov-2022  Quarterly
-CORLFROBN                               Charge-Off Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                        NSA  23-Nov-2022  Quarterly
-CORLFROBS                               Charge-Off Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                        SA   23-Nov-2022  Quarterly
-CORLFRT100N                             Charge-Off Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                      NSA  23-Nov-2022  Quarterly
-CORLFRT100S                             Charge-Off Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                      SA   23-Nov-2022  Quarterly
-COROCLACBN                              Charge-Off Rate on Other Consumer Loans, All Commercial Banks                                                            NSA  23-Nov-2022  Quarterly
-COROCLACBS                              Charge-Off Rate on Other Consumer Loans, All Commercial Banks                                                            SA   23-Nov-2022  Quarterly
-COROCLOBN                               Charge-Off Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                               NSA  23-Nov-2022  Quarterly
-COROCLOBS                               Charge-Off Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                               SA   23-Nov-2022  Quarterly
-COROCLT100N                             Charge-Off Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                             NSA  23-Nov-2022  Quarterly
-COROCLT100S                             Charge-Off Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                             SA   23-Nov-2022  Quarterly
-CORSFRMACBN                             Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                 NSA  23-Nov-2022  Quarterly
-CORSFRMACBS                             Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                 SA   23-Nov-2022  Quarterly
-CORSFRMOBN                              Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly
-CORSFRMOBS                              Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in   SA   23-Nov-2022  Quarterly
-CORSFRMT100N                            Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly
-CORSFRMT100S                            Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest i  SA   23-Nov-2022  Quarterly
-CORSREACBN                              Charge-Off Rate on Loans Secured by Real Estate, All Commercial Banks                                                    NSA  23-Nov-2022  Quarterly
-CORSREACBS                              Charge-Off Rate on Loans Secured by Real Estate, All Commercial Banks                                                    SA   23-Nov-2022  Quarterly
-CORSREOBN                               Charge-Off Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                       NSA  23-Nov-2022  Quarterly
-CORSREOBS                               Charge-Off Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                       SA   23-Nov-2022  Quarterly
-CORSRET100N                             Charge-Off Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                     NSA  23-Nov-2022  Quarterly
-CORSRET100S                             Charge-Off Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                     SA   23-Nov-2022  Quarterly
-DALLACBEP                               Asset Quality Measures, Delinquencies on All Loans and Leases, All Commercial Banks                                      NSA  23-Nov-2022  Quarterly, End of Period
-DALLCACBEP                              Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, All Commercial Banks                        NSA  23-Nov-2022  Quarterly, End of Period
-DALLCCACBEP                             Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly, End of Period
-DALLCCOBEP                              Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly, End of Period
-DALLCCT100EP                            Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly, End of Period
-DALLCIACBEP                             Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, All Commercial Banks           NSA  23-Nov-2022  Quarterly, End of Period
-DALLCIOBEP                              Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly, End of Period
-DALLCIT100EP                            Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly, End of Period
-DALLCOBEP                               Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Banks Not Among the 100 Largest in Size by  NSA  23-Nov-2022  Quarterly, End of Period
-DALLCT100EP                             Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Banks Ranked 1st to 100th Largest in Size   NSA  23-Nov-2022  Quarterly, End of Period
-DALLFAPGACBEP                           Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, All Commercial Banks  NSA  23-Nov-2022  Quarterly, End of Period
-DALLFAPGOBEP                            Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, Banks Not Among the   NSA  23-Nov-2022  Quarterly, End of Period
-DALLFAPGT100EP                          Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, Banks Ranked 1st to   NSA  23-Nov-2022  Quarterly, End of Period
-DALLLFRACBEP                            Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, All Commercial Banks         NSA  23-Nov-2022  Quarterly, End of Period
-DALLLFROBEP                             Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, Banks Not Among the 100 Lar  NSA  23-Nov-2022  Quarterly, End of Period
-DALLLFRT100EP                           Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, Banks Ranked 1st to 100th L  NSA  23-Nov-2022  Quarterly, End of Period
-DALLOBEP                                Asset Quality Measures, Delinquencies on All Loans and Leases, Banks Not Among the 100 Largest in Size by Assets         NSA  23-Nov-2022  Quarterly, End of Period
-DALLOCACBEP                             Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, All Commercial Banks                 NSA  23-Nov-2022  Quarterly, End of Period
-DALLOCOBEP                              Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly, End of Period
-DALLOCT100EP                            Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSREACBEP                            Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, All Commercial Banks              NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRECRELEXFACBEP                     Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRECRELEXFOBEP                      Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRECRELEXFT100EP                    Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSREFACBEP                           Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSREFOBEP                            Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSREFT100EP                          Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSREOBEP                             Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Banks Not Among the 100 Largest   NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRESFRMACBEP                        Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRESFRMOBEP                         Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRESFRMT100EP                       Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
-DALLSRET100EP                           Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Banks Ranked 1st to 100th Larges  NSA  23-Nov-2022  Quarterly, End of Period
-DALLT100EP                              Asset Quality Measures, Delinquencies on All Loans and Leases, Banks Ranked 1st to 100th Largest in Size by Assets       NSA  23-Nov-2022  Quarterly, End of Period
-DRALACBN                                Delinquency Rate on All Loans, All Commercial Banks                                                                      NSA  23-Nov-2022  Quarterly, End of Period
-DRALACBS                                Delinquency Rate on All Loans, All Commercial Banks                                                                      SA   23-Nov-2022  Quarterly, End of Period
-DRALOBN                                 Delinquency Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                         NSA  23-Nov-2022  Quarterly, End of Period
-DRALOBS                                 Delinquency Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                         SA   23-Nov-2022  Quarterly, End of Period
-DRALT100N                               Delinquency Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                       NSA  23-Nov-2022  Quarterly, End of Period
-DRALT100S                               Delinquency Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                       SA   23-Nov-2022  Quarterly, End of Period
-DRBLACBN                                Delinquency Rate on Business Loans, All Commercial Banks                                                                 NSA  23-Nov-2022  Quarterly, End of Period
-DRBLACBS                                Delinquency Rate on Business Loans, All Commercial Banks                                                                 SA   23-Nov-2022  Quarterly, End of Period
-DRBLOBN                                 Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                    NSA  23-Nov-2022  Quarterly, End of Period
-DRBLOBS                                 Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                    SA   23-Nov-2022  Quarterly, End of Period
-DRBLT100N                               Delinquency Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly, End of Period
-DRBLT100S                               Delinquency Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly, End of Period
-DRCCLACBN                               Delinquency Rate on Credit Card Loans, All Commercial Banks                                                              NSA  23-Nov-2022  Quarterly, End of Period
-DRCCLACBS                               Delinquency Rate on Credit Card Loans, All Commercial Banks                                                              SA   23-Nov-2022  Quarterly, End of Period
-DRCCLOBN                                Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                 NSA  23-Nov-2022  Quarterly, End of Period
-DRCCLOBS                                Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                 SA   23-Nov-2022  Quarterly, End of Period
-DRCCLT100N                              Delinquency Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                               NSA  23-Nov-2022  Quarterly, End of Period
-DRCCLT100S                              Delinquency Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                               SA   23-Nov-2022  Quarterly, End of Period
-DRCLACBN                                Delinquency Rate on Consumer Loans, All Commercial Banks                                                                 NSA  23-Nov-2022  Quarterly, End of Period
-DRCLACBS                                Delinquency Rate on Consumer Loans, All Commercial Banks                                                                 SA   23-Nov-2022  Quarterly, End of Period
-DRCLOBN                                 Delinquency Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                    NSA  23-Nov-2022  Quarterly, End of Period
-DRCLOBS                                 Delinquency Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                    SA   23-Nov-2022  Quarterly, End of Period
-DRCLT100N                               Delinquency Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly, End of Period
-DRCLT100S                               Delinquency Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly, End of Period
-DRCRELEXFACBN                           Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks  NSA  23-Nov-2022  Quarterly, End of Period
-DRCRELEXFACBS                           Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks  SA   23-Nov-2022  Quarterly, End of Period
-DRCRELEXFOBN                            Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the   NSA  23-Nov-2022  Quarterly, End of Period
-DRCRELEXFOBS                            Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the   SA   23-Nov-2022  Quarterly, End of Period
-DRCRELEXFT100N                          Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to   NSA  23-Nov-2022  Quarterly, End of Period
-DRCRELEXFT100S                          Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to   SA   23-Nov-2022  Quarterly, End of Period
-DRFAPGACBN                              Delinquency Rate on Loans to Finance Agricultural Production, All Commercial Banks                                       NSA  23-Nov-2022  Quarterly, End of Period
-DRFAPGACBS                              Delinquency Rate on Loans to Finance Agricultural Production, All Commercial Banks                                       SA   23-Nov-2022  Quarterly, End of Period
-DRFAPGOBN                               Delinquency Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets          NSA  23-Nov-2022  Quarterly, End of Period
-DRFAPGOBS                               Delinquency Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets          SA   23-Nov-2022  Quarterly, End of Period
-DRFAPGT100N                             Delinquency Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets        NSA  23-Nov-2022  Quarterly, End of Period
-DRFAPGT100S                             Delinquency Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets        SA   23-Nov-2022  Quarterly, End of Period
-DRFLACBN                                Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                     NSA  23-Nov-2022  Quarterly, End of Period
-DRFLACBS                                Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                     SA   23-Nov-2022  Quarterly, End of Period
-DRFLOBN                                 Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets        NSA  23-Nov-2022  Quarterly, End of Period
-DRFLOBS                                 Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets        SA   23-Nov-2022  Quarterly, End of Period
-DRFLT100N                               Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets      NSA  23-Nov-2022  Quarterly, End of Period
-DRFLT100S                               Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets      SA   23-Nov-2022  Quarterly, End of Period
-DRLFRACBN                               Delinquency Rate on Lease Financing Receivables, All Commercial Banks                                                    NSA  23-Nov-2022  Quarterly, End of Period
-DRLFRACBS                               Delinquency Rate on Lease Financing Receivables, All Commercial Banks                                                    SA   23-Nov-2022  Quarterly, End of Period
-DRLFROBN                                Delinquency Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                       NSA  23-Nov-2022  Quarterly, End of Period
-DRLFROBS                                Delinquency Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                       SA   23-Nov-2022  Quarterly, End of Period
-DRLFRT100N                              Delinquency Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                     NSA  23-Nov-2022  Quarterly, End of Period
-DRLFRT100S                              Delinquency Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                     SA   23-Nov-2022  Quarterly, End of Period
-DROCLACBN                               Delinquency Rate on Other Consumer Loans, All Commercial Banks                                                           NSA  23-Nov-2022  Quarterly, End of Period
-DROCLACBS                               Delinquency Rate on Other Consumer Loans, All Commercial Banks                                                           SA   23-Nov-2022  Quarterly, End of Period
-DROCLOBN                                Delinquency Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                              NSA  23-Nov-2022  Quarterly, End of Period
-DROCLOBS                                Delinquency Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                              SA   23-Nov-2022  Quarterly, End of Period
-DROCLT100N                              Delinquency Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                            NSA  23-Nov-2022  Quarterly, End of Period
-DROCLT100S                              Delinquency Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                            SA   23-Nov-2022  Quarterly, End of Period
-DRSFRMACBN                              Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                NSA  23-Nov-2022  Quarterly, End of Period
-DRSFRMACBS                              Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                SA   23-Nov-2022  Quarterly, End of Period
-DRSFRMOBN                               Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in  NSA  23-Nov-2022  Quarterly, End of Period
-DRSFRMOBS                               Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in  SA   23-Nov-2022  Quarterly, End of Period
-DRSFRMT100N                             Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest   NSA  23-Nov-2022  Quarterly, End of Period
-DRSFRMT100S                             Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest   SA   23-Nov-2022  Quarterly, End of Period
-DRSREACBN                               Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks                                                   NSA  23-Nov-2022  Quarterly, End of Period
-DRSREACBS                               Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks                                                   SA   23-Nov-2022  Quarterly, End of Period
-DRSREOBN                                Delinquency Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                      NSA  23-Nov-2022  Quarterly, End of Period
-DRSREOBS                                Delinquency Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                      SA   23-Nov-2022  Quarterly, End of Period
-DRSRET100N                              Delinquency Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                    NSA  23-Nov-2022  Quarterly, End of Period
-DRSRET100S                              Delinquency Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                    SA   23-Nov-2022  Quarterly, End of Period
-LFAPGACBEP                              Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, All   NSA  23-Nov-2022  Quarterly, End of Period
-LFAPGOBEP                               Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, Bank  NSA  23-Nov-2022  Quarterly, End of Period
-LFAPGT100EP                             Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, Bank  NSA  23-Nov-2022  Quarterly, End of Period
-LSREACBEP                               Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, All Commercial Banks                NSA  23-Nov-2022  Quarterly, End of Period
-LSREOBEP                                Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Banks Not Among the 100 Largest in  NSA  23-Nov-2022  Quarterly, End of Period
-LSRET100EP                              Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Banks Ranked 1st to 100th Largest   NSA  23-Nov-2022  Quarterly, End of Period
-NCOALLACB                               Asset Quality Measures, Net Charge-Offs on All Loans and Leases, All Commercial Banks                                    NSA  23-Nov-2022  Quarterly
-NCOALLAGACB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, All Commercial Ban  NSA  23-Nov-2022  Quarterly
-NCOALLAGOB                              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, Banks Not Among th  NSA  23-Nov-2022  Quarterly
-NCOALLAGT100B                           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, Banks Ranked 1st t  NSA  23-Nov-2022  Quarterly
-NCOALLCACB                              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, All Commercial Banks                      NSA  23-Nov-2022  Quarterly
-NCOALLCCACB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks        NSA  23-Nov-2022  Quarterly
-NCOALLCCOB                              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, Banks Not Among the 100 La  NSA  23-Nov-2022  Quarterly
-NCOALLCCT100B                           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, Banks Ranked 1st to 100th   NSA  23-Nov-2022  Quarterly
-NCOALLCIACB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, All Commercial Banks         NSA  23-Nov-2022  Quarterly
-NCOALLCIOB                              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, Banks Not Among the 100 Lar  NSA  23-Nov-2022  Quarterly
-NCOALLCIT100B                           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, Banks Ranked 1st to 100th L  NSA  23-Nov-2022  Quarterly
-NCOALLCOACB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, All Commercial Banks               NSA  23-Nov-2022  Quarterly
-NCOALLCOB                               Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Banks Not Among the 100 Largest in Size   NSA  23-Nov-2022  Quarterly
-NCOALLCOOB                              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, Banks Not Among the 100 Largest i  NSA  23-Nov-2022  Quarterly
-NCOALLCOT100B                           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, Banks Ranked 1st to 100th Largest  NSA  23-Nov-2022  Quarterly
-NCOALLCT100B                            Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Banks Ranked 1st to 100th Largest in Siz  NSA  23-Nov-2022  Quarterly
-NCOALLLFRACB                            Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, All Commercial Banks       NSA  23-Nov-2022  Quarterly
-NCOALLLFROB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, Banks Not Among the 100 L  NSA  23-Nov-2022  Quarterly
-NCOALLLFRT100B                          Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, Banks Ranked 1st to 100th  NSA  23-Nov-2022  Quarterly
-NCOALLOB                                Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Banks Not Among the 100 Largest in Size by Assets       NSA  23-Nov-2022  Quarterly
-NCOALLSCRELEXFACB                       Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly
-NCOALLSCRELEXFOB                        Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly
-NCOALLSCRELEXFT100B                     Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly
-NCOALLSFREACB                           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly
-NCOALLSFREOB                            Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly
-NCOALLSFRET100B                         Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly
-NCOALLSRE1FRMACB                        Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly
-NCOALLSRE1FRMOB                         Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly
-NCOALLSRE1FRMT100B                      Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly
-NCOALLSREACB                            Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, All Commercial Banks            NSA  23-Nov-2022  Quarterly
-NCOALLSREOB                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Banks Not Among the 100 Larges  NSA  23-Nov-2022  Quarterly
-NCOALLSRET100B                          Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Banks Ranked 1st to 100th Larg  NSA  23-Nov-2022  Quarterly
-NCOALLT100B                             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Banks Ranked 1st to 100th Largest in Size by Assets     NSA  23-Nov-2022  Quarterly
-OCLACBEP                                Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, All Commercial Banks                 NSA  23-Nov-2022  Quarterly, End of Period
-OCLOBEP                                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly, End of Period
-OCLT100EP                               Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGACBEP                           Total Assets, Interest-Earning, All Loans and Leases, Gross, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGCLCRACBEP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGCLCROBEP                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGCLCRT100EP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGLFRACBEP                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, All Commercial Banks           NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGLFROBEP                         Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGLFRT100EP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGOBEP                            Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRECRELEXFACBEP                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRECRELEXFOBEP                  Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRECRELEXFT100EP                Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSREFACBEP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSREFOBEP                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSREFT100EP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRESFRMACBEP                    Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRESFRMOBEP                     Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGSRESFRMT100EP                   Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
-TAIEALLGT100EP                          Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly, End of Period
+ACILACB                       Commercial and Industrial Loans, All Commercial Banks                                                                    NSA  23-Nov-2022  Quarterly      
+ACILOB                        Commercial and Industrial Loans, Banks Not Among the 100 Largest in Size by Assets                                       NSA  23-Nov-2022  Quarterly      
+ACILT100                      Commercial and Industrial Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly      
+ACLACB                        Consumer Loans, All Commercial Banks                                                                                     NSA  23-Nov-2022  Quarterly      
+ACLOB                         Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                                        NSA  23-Nov-2022  Quarterly      
+ACLT100                       Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                                      NSA  23-Nov-2022  Quarterly      
+ALFAPGACB                     Loans to Finance Agricultural Production, All Commercial Banks                                                           NSA  23-Nov-2022  Quarterly      
+ALFAPGOB                      Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets                              NSA  23-Nov-2022  Quarterly      
+ALFAPGT100                    Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets                            NSA  23-Nov-2022  Quarterly      
+ALSREACB                      Loans Secured by Real Estate, All Commercial Banks                                                                       NSA  23-Nov-2022  Quarterly      
+ALSREOB                       Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                                          NSA  23-Nov-2022  Quarterly      
+ALSRET100                     Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                                        NSA  23-Nov-2022  Quarterly      
+AOCLACB                       Other Consumer Loans, All Commercial Banks                                                                               NSA  23-Nov-2022  Quarterly      
+AOCLOB                        Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                                  NSA  23-Nov-2022  Quarterly      
+AOCLT100                      Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                                NSA  23-Nov-2022  Quarterly      
+ATAIEALLGACB                  Total Assets, Interest-Earning, All Loans and Leases, Gross, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly      
+ATAIEALLGCLCRACB              Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly      
+ATAIEALLGCLCROB               Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGCLCRT100             Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGLFRACB               Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, All Commercial Banks           NSA  23-Nov-2022  Quarterly      
+ATAIEALLGLFROB                Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGLFRT100              Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGOB                   Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRECRELEXFACB        Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRECRELEXFOB         Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRECRELEXFT100       Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSREFACB              Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSREFOB               Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSREFT100             Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRESFRMACB           Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRESFRMOB            Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGSRESFRMT100          Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly      
+ATAIEALLGT100                 Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly      
+CILACBEP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, All Commercial Banks             NSA  23-Nov-2022  Quarterly, End of Period
+CILOBEP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, Banks Not Among the 100 Largest  NSA  23-Nov-2022  Quarterly, End of Period
+CILT100EP                     Total Assets, Interest-Earning, All Loans and Leases, Gross, Commercial and Industrial, Banks Ranked 1st to 100th Large  NSA  23-Nov-2022  Quarterly, End of Period
+CLACBEP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, All Commercial Banks                        NSA  23-Nov-2022  Quarterly, End of Period
+CLOBEP                        Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Banks Not Among the 100 Largest in Size by  NSA  23-Nov-2022  Quarterly, End of Period
+CLT100EP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Banks Ranked 1st to 100th Largest in Size   NSA  23-Nov-2022  Quarterly, End of Period
+CORALACBN                     Charge-Off Rate on All Loans, All Commercial Banks                                                                       NSA  23-Nov-2022  Quarterly      
+CORALACBS                     Charge-Off Rate on All Loans, All Commercial Banks                                                                       SA   23-Nov-2022  Quarterly      
+CORALOBN                      Charge-Off Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                          NSA  23-Nov-2022  Quarterly      
+CORALOBS                      Charge-Off Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                          SA   23-Nov-2022  Quarterly      
+CORALT100N                    Charge-Off Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                        NSA  23-Nov-2022  Quarterly      
+CORALT100S                    Charge-Off Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                        SA   23-Nov-2022  Quarterly      
+CORBLACBN                     Charge-Off Rate on Business Loans, All Commercial Banks                                                                  NSA  23-Nov-2022  Quarterly      
+CORBLACBS                     Charge-Off Rate on Business Loans, All Commercial Banks                                                                  SA   23-Nov-2022  Quarterly      
+CORBLOBN                      Charge-Off Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly      
+CORBLOBS                      Charge-Off Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                     SA   23-Nov-2022  Quarterly      
+CORBLT100N                    Charge-Off Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   NSA  23-Nov-2022  Quarterly      
+CORBLT100S                    Charge-Off Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   SA   23-Nov-2022  Quarterly      
+CORCACBN                      Charge-Off Rate on Consumer Loans, All Commercial Banks                                                                  NSA  23-Nov-2022  Quarterly      
+CORCACBS                      Charge-Off Rate on Consumer Loans, All Commercial Banks                                                                  SA   23-Nov-2022  Quarterly      
+CORCCACBN                     Charge-Off Rate on Credit Card Loans, All Commercial Banks                                                               NSA  23-Nov-2022  Quarterly      
+CORCCACBS                     Charge-Off Rate on Credit Card Loans, All Commercial Banks                                                               SA   23-Nov-2022  Quarterly      
+CORCCOBN                      Charge-Off Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly      
+CORCCOBS                      Charge-Off Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly      
+CORCCT100N                    Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                NSA  23-Nov-2022  Quarterly      
+CORCCT100S                    Charge-Off Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                SA   23-Nov-2022  Quarterly      
+CORCOBN                       Charge-Off Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                     NSA  23-Nov-2022  Quarterly      
+CORCOBS                       Charge-Off Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                     SA   23-Nov-2022  Quarterly      
+CORCREXFACBN                  Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks   NSA  23-Nov-2022  Quarterly      
+CORCREXFACBS                  Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks   SA   23-Nov-2022  Quarterly      
+CORCREXFOBN                   Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the 1  NSA  23-Nov-2022  Quarterly      
+CORCREXFOBS                   Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the 1  SA   23-Nov-2022  Quarterly      
+CORCREXFT100N                 Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to 1  NSA  23-Nov-2022  Quarterly      
+CORCREXFT100S                 Charge-Off Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to 1  SA   23-Nov-2022  Quarterly      
+CORCT100N                     Charge-Off Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   NSA  23-Nov-2022  Quarterly      
+CORCT100S                     Charge-Off Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                   SA   23-Nov-2022  Quarterly      
+CORFLACBN                     Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                      NSA  23-Nov-2022  Quarterly      
+CORFLACBS                     Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                      SA   22-Aug-2022  Quarterly      
+CORFLOBN                      Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets         NSA  23-Nov-2022  Quarterly      
+CORFLOBS                      Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets         SA   23-Nov-2022  Quarterly      
+CORFLT100N                    Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets       NSA  23-Nov-2022  Quarterly      
+CORFLT100S                    Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets       SA   23-Nov-2022  Quarterly      
+CORLAGACBN                    Charge-Off Rate on Loans to Finance Agricultural Production, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly      
+CORLAGACBS                    Charge-Off Rate on Loans to Finance Agricultural Production, All Commercial Banks                                        SA   23-Nov-2022  Quarterly      
+CORLAGOBN                     Charge-Off Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly      
+CORLAGOBS                     Charge-Off Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets           SA   23-Nov-2022  Quarterly      
+CORLAGT100N                   Charge-Off Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly      
+CORLAGT100S                   Charge-Off Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets         SA   23-Nov-2022  Quarterly      
+CORLFRACBN                    Charge-Off Rate on Lease Financing Receivables, All Commercial Banks                                                     NSA  23-Nov-2022  Quarterly      
+CORLFRACBS                    Charge-Off Rate on Lease Financing Receivables, All Commercial Banks                                                     SA   23-Nov-2022  Quarterly      
+CORLFROBN                     Charge-Off Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                        NSA  23-Nov-2022  Quarterly      
+CORLFROBS                     Charge-Off Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                        SA   23-Nov-2022  Quarterly      
+CORLFRT100N                   Charge-Off Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                      NSA  23-Nov-2022  Quarterly      
+CORLFRT100S                   Charge-Off Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                      SA   23-Nov-2022  Quarterly      
+COROCLACBN                    Charge-Off Rate on Other Consumer Loans, All Commercial Banks                                                            NSA  23-Nov-2022  Quarterly      
+COROCLACBS                    Charge-Off Rate on Other Consumer Loans, All Commercial Banks                                                            SA   23-Nov-2022  Quarterly      
+COROCLOBN                     Charge-Off Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                               NSA  23-Nov-2022  Quarterly      
+COROCLOBS                     Charge-Off Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                               SA   23-Nov-2022  Quarterly      
+COROCLT100N                   Charge-Off Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                             NSA  23-Nov-2022  Quarterly      
+COROCLT100S                   Charge-Off Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                             SA   23-Nov-2022  Quarterly      
+CORSFRMACBN                   Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                 NSA  23-Nov-2022  Quarterly      
+CORSFRMACBS                   Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                 SA   23-Nov-2022  Quarterly      
+CORSFRMOBN                    Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly      
+CORSFRMOBS                    Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in   SA   23-Nov-2022  Quarterly      
+CORSFRMT100N                  Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly      
+CORSFRMT100S                  Charge-Off Rate on Single Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest i  SA   23-Nov-2022  Quarterly      
+CORSREACBN                    Charge-Off Rate on Loans Secured by Real Estate, All Commercial Banks                                                    NSA  23-Nov-2022  Quarterly      
+CORSREACBS                    Charge-Off Rate on Loans Secured by Real Estate, All Commercial Banks                                                    SA   23-Nov-2022  Quarterly      
+CORSREOBN                     Charge-Off Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                       NSA  23-Nov-2022  Quarterly      
+CORSREOBS                     Charge-Off Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                       SA   23-Nov-2022  Quarterly      
+CORSRET100N                   Charge-Off Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                     NSA  23-Nov-2022  Quarterly      
+CORSRET100S                   Charge-Off Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                     SA   23-Nov-2022  Quarterly      
+DALLACBEP                     Asset Quality Measures, Delinquencies on All Loans and Leases, All Commercial Banks                                      NSA  23-Nov-2022  Quarterly, End of Period
+DALLCACBEP                    Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, All Commercial Banks                        NSA  23-Nov-2022  Quarterly, End of Period
+DALLCCACBEP                   Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly, End of Period
+DALLCCOBEP                    Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly, End of Period
+DALLCCT100EP                  Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly, End of Period
+DALLCIACBEP                   Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, All Commercial Banks           NSA  23-Nov-2022  Quarterly, End of Period
+DALLCIOBEP                    Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly, End of Period
+DALLCIT100EP                  Asset Quality Measures, Delinquencies on All Loans and Leases, Commercial and Industrial, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly, End of Period
+DALLCOBEP                     Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Banks Not Among the 100 Largest in Size by  NSA  23-Nov-2022  Quarterly, End of Period
+DALLCT100EP                   Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Banks Ranked 1st to 100th Largest in Size   NSA  23-Nov-2022  Quarterly, End of Period
+DALLFAPGACBEP                 Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, All Commercial Banks  NSA  23-Nov-2022  Quarterly, End of Period
+DALLFAPGOBEP                  Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, Banks Not Among the   NSA  23-Nov-2022  Quarterly, End of Period
+DALLFAPGT100EP                Asset Quality Measures, Delinquencies on All Loans and Leases, To Finance Agricultural Production, Banks Ranked 1st to   NSA  23-Nov-2022  Quarterly, End of Period
+DALLLFRACBEP                  Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, All Commercial Banks         NSA  23-Nov-2022  Quarterly, End of Period
+DALLLFROBEP                   Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, Banks Not Among the 100 Lar  NSA  23-Nov-2022  Quarterly, End of Period
+DALLLFRT100EP                 Asset Quality Measures, Delinquencies on All Loans and Leases, Lease Financing Receivables, Banks Ranked 1st to 100th L  NSA  23-Nov-2022  Quarterly, End of Period
+DALLOBEP                      Asset Quality Measures, Delinquencies on All Loans and Leases, Banks Not Among the 100 Largest in Size by Assets         NSA  23-Nov-2022  Quarterly, End of Period
+DALLOCACBEP                   Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, All Commercial Banks                 NSA  23-Nov-2022  Quarterly, End of Period
+DALLOCOBEP                    Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly, End of Period
+DALLOCT100EP                  Asset Quality Measures, Delinquencies on All Loans and Leases, To Consumers, Other, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSREACBEP                  Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, All Commercial Banks              NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRECRELEXFACBEP           Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRECRELEXFOBEP            Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRECRELEXFT100EP          Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (Ex  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSREFACBEP                 Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSREFOBEP                  Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSREFT100EP                Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic Off  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSREOBEP                   Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Banks Not Among the 100 Largest   NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRESFRMACBEP              Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRESFRMOBEP               Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRESFRMT100EP             Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Single-Family Residential Mortga  NSA  23-Nov-2022  Quarterly, End of Period
+DALLSRET100EP                 Asset Quality Measures, Delinquencies on All Loans and Leases, Secured by Real Estate, Banks Ranked 1st to 100th Larges  NSA  23-Nov-2022  Quarterly, End of Period
+DALLT100EP                    Asset Quality Measures, Delinquencies on All Loans and Leases, Banks Ranked 1st to 100th Largest in Size by Assets       NSA  23-Nov-2022  Quarterly, End of Period
+DRALACBN                      Delinquency Rate on All Loans, All Commercial Banks                                                                      NSA  23-Nov-2022  Quarterly, End of Period
+DRALACBS                      Delinquency Rate on All Loans, All Commercial Banks                                                                      SA   23-Nov-2022  Quarterly, End of Period
+DRALOBN                       Delinquency Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                         NSA  23-Nov-2022  Quarterly, End of Period
+DRALOBS                       Delinquency Rate on All Loans, Banks Not Among the 100 Largest in Size by Assets                                         SA   23-Nov-2022  Quarterly, End of Period
+DRALT100N                     Delinquency Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                       NSA  23-Nov-2022  Quarterly, End of Period
+DRALT100S                     Delinquency Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                       SA   23-Nov-2022  Quarterly, End of Period
+DRBLACBN                      Delinquency Rate on Business Loans, All Commercial Banks                                                                 NSA  23-Nov-2022  Quarterly, End of Period
+DRBLACBS                      Delinquency Rate on Business Loans, All Commercial Banks                                                                 SA   23-Nov-2022  Quarterly, End of Period
+DRBLOBN                       Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                    NSA  23-Nov-2022  Quarterly, End of Period
+DRBLOBS                       Delinquency Rate on Business Loans, Banks Not Among the 100 Largest in Size by Assets                                    SA   23-Nov-2022  Quarterly, End of Period
+DRBLT100N                     Delinquency Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly, End of Period
+DRBLT100S                     Delinquency Rate on Business Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly, End of Period
+DRCCLACBN                     Delinquency Rate on Credit Card Loans, All Commercial Banks                                                              NSA  23-Nov-2022  Quarterly, End of Period
+DRCCLACBS                     Delinquency Rate on Credit Card Loans, All Commercial Banks                                                              SA   23-Nov-2022  Quarterly, End of Period
+DRCCLOBN                      Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                 NSA  23-Nov-2022  Quarterly, End of Period
+DRCCLOBS                      Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size by Assets                                 SA   23-Nov-2022  Quarterly, End of Period
+DRCCLT100N                    Delinquency Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                               NSA  23-Nov-2022  Quarterly, End of Period
+DRCCLT100S                    Delinquency Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets                               SA   23-Nov-2022  Quarterly, End of Period
+DRCLACBN                      Delinquency Rate on Consumer Loans, All Commercial Banks                                                                 NSA  23-Nov-2022  Quarterly, End of Period
+DRCLACBS                      Delinquency Rate on Consumer Loans, All Commercial Banks                                                                 SA   23-Nov-2022  Quarterly, End of Period
+DRCLOBN                       Delinquency Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                    NSA  23-Nov-2022  Quarterly, End of Period
+DRCLOBS                       Delinquency Rate on Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                                    SA   23-Nov-2022  Quarterly, End of Period
+DRCLT100N                     Delinquency Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  NSA  23-Nov-2022  Quarterly, End of Period
+DRCLT100S                     Delinquency Rate on Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                                  SA   23-Nov-2022  Quarterly, End of Period
+DRCRELEXFACBN                 Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks  NSA  23-Nov-2022  Quarterly, End of Period
+DRCRELEXFACBS                 Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks  SA   23-Nov-2022  Quarterly, End of Period
+DRCRELEXFOBN                  Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the   NSA  23-Nov-2022  Quarterly, End of Period
+DRCRELEXFOBS                  Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Not Among the   SA   23-Nov-2022  Quarterly, End of Period
+DRCRELEXFT100N                Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to   NSA  23-Nov-2022  Quarterly, End of Period
+DRCRELEXFT100S                Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, Banks Ranked 1st to   SA   23-Nov-2022  Quarterly, End of Period
+DRFAPGACBN                    Delinquency Rate on Loans to Finance Agricultural Production, All Commercial Banks                                       NSA  23-Nov-2022  Quarterly, End of Period
+DRFAPGACBS                    Delinquency Rate on Loans to Finance Agricultural Production, All Commercial Banks                                       SA   23-Nov-2022  Quarterly, End of Period
+DRFAPGOBN                     Delinquency Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets          NSA  23-Nov-2022  Quarterly, End of Period
+DRFAPGOBS                     Delinquency Rate on Loans to Finance Agricultural Production, Banks Not Among the 100 Largest in Size by Assets          SA   23-Nov-2022  Quarterly, End of Period
+DRFAPGT100N                   Delinquency Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets        NSA  23-Nov-2022  Quarterly, End of Period
+DRFAPGT100S                   Delinquency Rate on Loans to Finance Agricultural Production, Banks Ranked 1st to 100th Largest in Size by Assets        SA   23-Nov-2022  Quarterly, End of Period
+DRFLACBN                      Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                     NSA  23-Nov-2022  Quarterly, End of Period
+DRFLACBS                      Delinquency Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks                                     SA   23-Nov-2022  Quarterly, End of Period
+DRFLOBN                       Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets        NSA  23-Nov-2022  Quarterly, End of Period
+DRFLOBS                       Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets        SA   23-Nov-2022  Quarterly, End of Period
+DRFLT100N                     Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets      NSA  23-Nov-2022  Quarterly, End of Period
+DRFLT100S                     Delinquency Rate on Farmland Loans, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest in Size by Assets      SA   23-Nov-2022  Quarterly, End of Period
+DRLFRACBN                     Delinquency Rate on Lease Financing Receivables, All Commercial Banks                                                    NSA  23-Nov-2022  Quarterly, End of Period
+DRLFRACBS                     Delinquency Rate on Lease Financing Receivables, All Commercial Banks                                                    SA   23-Nov-2022  Quarterly, End of Period
+DRLFROBN                      Delinquency Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                       NSA  23-Nov-2022  Quarterly, End of Period
+DRLFROBS                      Delinquency Rate on Lease Financing Receivables, Banks Not Among the 100 Largest in Size by Assets                       SA   23-Nov-2022  Quarterly, End of Period
+DRLFRT100N                    Delinquency Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                     NSA  23-Nov-2022  Quarterly, End of Period
+DRLFRT100S                    Delinquency Rate on Lease Financing Receivables, Banks Ranked 1st to 100th Largest in Size by Assets                     SA   23-Nov-2022  Quarterly, End of Period
+DROCLACBN                     Delinquency Rate on Other Consumer Loans, All Commercial Banks                                                           NSA  23-Nov-2022  Quarterly, End of Period
+DROCLACBS                     Delinquency Rate on Other Consumer Loans, All Commercial Banks                                                           SA   23-Nov-2022  Quarterly, End of Period
+DROCLOBN                      Delinquency Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                              NSA  23-Nov-2022  Quarterly, End of Period
+DROCLOBS                      Delinquency Rate on Other Consumer Loans, Banks Not Among the 100 Largest in Size by Assets                              SA   23-Nov-2022  Quarterly, End of Period
+DROCLT100N                    Delinquency Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                            NSA  23-Nov-2022  Quarterly, End of Period
+DROCLT100S                    Delinquency Rate on Other Consumer Loans, Banks Ranked 1st to 100th Largest in Size by Assets                            SA   23-Nov-2022  Quarterly, End of Period
+DRSFRMACBN                    Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                NSA  23-Nov-2022  Quarterly, End of Period
+DRSFRMACBS                    Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks                SA   23-Nov-2022  Quarterly, End of Period
+DRSFRMOBN                     Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in  NSA  23-Nov-2022  Quarterly, End of Period
+DRSFRMOBS                     Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in  SA   23-Nov-2022  Quarterly, End of Period
+DRSFRMT100N                   Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest   NSA  23-Nov-2022  Quarterly, End of Period
+DRSFRMT100S                   Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Ranked 1st to 100th Largest   SA   23-Nov-2022  Quarterly, End of Period
+DRSREACBN                     Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks                                                   NSA  23-Nov-2022  Quarterly, End of Period
+DRSREACBS                     Delinquency Rate on Loans Secured by Real Estate, All Commercial Banks                                                   SA   23-Nov-2022  Quarterly, End of Period
+DRSREOBN                      Delinquency Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                      NSA  23-Nov-2022  Quarterly, End of Period
+DRSREOBS                      Delinquency Rate on Loans Secured by Real Estate, Banks Not Among the 100 Largest in Size by Assets                      SA   23-Nov-2022  Quarterly, End of Period
+DRSRET100N                    Delinquency Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                    NSA  23-Nov-2022  Quarterly, End of Period
+DRSRET100S                    Delinquency Rate on Loans Secured by Real Estate, Banks Ranked 1st to 100th Largest in Size by Assets                    SA   23-Nov-2022  Quarterly, End of Period
+LFAPGACBEP                    Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, All   NSA  23-Nov-2022  Quarterly, End of Period
+LFAPGOBEP                     Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, Bank  NSA  23-Nov-2022  Quarterly, End of Period
+LFAPGT100EP                   Total Assets, Interest-Earning, All Loans and Leases, Gross, To Finance Agricultural Production, Other Farm Loans, Bank  NSA  23-Nov-2022  Quarterly, End of Period
+LSREACBEP                     Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, All Commercial Banks                NSA  23-Nov-2022  Quarterly, End of Period
+LSREOBEP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Banks Not Among the 100 Largest in  NSA  23-Nov-2022  Quarterly, End of Period
+LSRET100EP                    Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Banks Ranked 1st to 100th Largest   NSA  23-Nov-2022  Quarterly, End of Period
+NCOALLACB                     Asset Quality Measures, Net Charge-Offs on All Loans and Leases, All Commercial Banks                                    NSA  23-Nov-2022  Quarterly      
+NCOALLAGACB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, All Commercial Ban  NSA  23-Nov-2022  Quarterly      
+NCOALLAGOB                    Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, Banks Not Among th  NSA  23-Nov-2022  Quarterly      
+NCOALLAGT100B                 Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Finance Agricultural Production, Banks Ranked 1st t  NSA  23-Nov-2022  Quarterly      
+NCOALLCACB                    Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, All Commercial Banks                      NSA  23-Nov-2022  Quarterly      
+NCOALLCCACB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, All Commercial Banks        NSA  23-Nov-2022  Quarterly      
+NCOALLCCOB                    Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, Banks Not Among the 100 La  NSA  23-Nov-2022  Quarterly      
+NCOALLCCT100B                 Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Credit Cards, Banks Ranked 1st to 100th   NSA  23-Nov-2022  Quarterly      
+NCOALLCIACB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, All Commercial Banks         NSA  23-Nov-2022  Quarterly      
+NCOALLCIOB                    Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, Banks Not Among the 100 Lar  NSA  23-Nov-2022  Quarterly      
+NCOALLCIT100B                 Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Commercial and Industrial, Banks Ranked 1st to 100th L  NSA  23-Nov-2022  Quarterly      
+NCOALLCOACB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, All Commercial Banks               NSA  23-Nov-2022  Quarterly      
+NCOALLCOB                     Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Banks Not Among the 100 Largest in Size   NSA  23-Nov-2022  Quarterly      
+NCOALLCOOB                    Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, Banks Not Among the 100 Largest i  NSA  23-Nov-2022  Quarterly      
+NCOALLCOT100B                 Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Other, Banks Ranked 1st to 100th Largest  NSA  23-Nov-2022  Quarterly      
+NCOALLCT100B                  Asset Quality Measures, Net Charge-Offs on All Loans and Leases, To Consumers, Banks Ranked 1st to 100th Largest in Siz  NSA  23-Nov-2022  Quarterly      
+NCOALLLFRACB                  Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, All Commercial Banks       NSA  23-Nov-2022  Quarterly      
+NCOALLLFROB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, Banks Not Among the 100 L  NSA  23-Nov-2022  Quarterly      
+NCOALLLFRT100B                Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Lease Financing Receivables, Banks Ranked 1st to 100th  NSA  23-Nov-2022  Quarterly      
+NCOALLOB                      Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Banks Not Among the 100 Largest in Size by Assets       NSA  23-Nov-2022  Quarterly      
+NCOALLSCRELEXFACB             Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly      
+NCOALLSCRELEXFOB              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly      
+NCOALLSCRELEXFT100B           Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Commercial Real Estate Loans (  NSA  23-Nov-2022  Quarterly      
+NCOALLSFREACB                 Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly      
+NCOALLSFREOB                  Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly      
+NCOALLSFRET100B               Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Farmland, Booked in Domestic O  NSA  23-Nov-2022  Quarterly      
+NCOALLSRE1FRMACB              Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly      
+NCOALLSRE1FRMOB               Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly      
+NCOALLSRE1FRMT100B            Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Single Family Residential Mort  NSA  23-Nov-2022  Quarterly      
+NCOALLSREACB                  Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, All Commercial Banks            NSA  23-Nov-2022  Quarterly      
+NCOALLSREOB                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Banks Not Among the 100 Larges  NSA  23-Nov-2022  Quarterly      
+NCOALLSRET100B                Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Secured by Real Estate, Banks Ranked 1st to 100th Larg  NSA  23-Nov-2022  Quarterly      
+NCOALLT100B                   Asset Quality Measures, Net Charge-Offs on All Loans and Leases, Banks Ranked 1st to 100th Largest in Size by Assets     NSA  23-Nov-2022  Quarterly      
+OCLACBEP                      Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, All Commercial Banks                 NSA  23-Nov-2022  Quarterly, End of Period
+OCLOBEP                       Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, Banks Not Among the 100 Largest in   NSA  23-Nov-2022  Quarterly, End of Period
+OCLT100EP                     Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Other, Banks Ranked 1st to 100th Largest i  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGACBEP                 Total Assets, Interest-Earning, All Loans and Leases, Gross, All Commercial Banks                                        NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGCLCRACBEP             Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, All Commercial Banks          NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGCLCROBEP              Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Not Among the 100 Larg  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGCLCRT100EP            Total Assets, Interest-Earning, All Loans and Leases, Gross, Consumer Loans, Credit Cards, Banks Ranked 1st to 100th La  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGLFRACBEP              Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, All Commercial Banks           NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGLFROBEP               Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Not Among the 100 Large  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGLFRT100EP             Total Assets, Interest-Earning, All Loans and Leases, Gross, Lease Financing Receivables, Banks Ranked 1st to 100th Lar  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGOBEP                  Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Not Among the 100 Largest in Size by Assets           NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRECRELEXFACBEP       Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRECRELEXFOBEP        Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRECRELEXFT100EP      Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Commercial Real Estate Loans (Excl  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSREFACBEP             Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSREFOBEP              Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSREFT100EP            Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Farmland, Booked in Domestic Offic  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRESFRMACBEP          Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRESFRMOBEP           Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGSRESFRMT100EP         Total Assets, Interest-Earning, All Loans and Leases, Gross, Secured by Real Estate, Single-Family (1 to 4 Family) Resi  NSA  23-Nov-2022  Quarterly, End of Period
+TAIEALLGT100EP                Total Assets, Interest-Earning, All Loans and Leases, Gross, Banks Ranked 1st to 100th Largest in Size by Assets         NSA  23-Nov-2022  Quarterly, End of Period

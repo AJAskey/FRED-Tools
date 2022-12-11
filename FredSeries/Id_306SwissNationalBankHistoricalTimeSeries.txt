@@ -1,10 +1,10 @@
 Id : 306  Swiss National Bank Historical Time Series
-CHTOTBALRAIFFEISEN                      Total Balance Sheet Items for Raiffeisen Banks in Switzerland                                                            NSA  31-Jan-2014  Annual
-CHTOTBALSHALLBNKS                       Total Balance Sheet Items of All Banking Entities in Switzerland                                                         NSA  31-Jan-2014  Annual
-CHTOTBALSHBIGBNKS                       Total Balance Sheet Items for Big Banks in Switzerland                                                                   NSA  31-Jan-2014  Annual
-CHTOTBALSHCANT                          Total Balance Sheet Items for Cantonal Banks in Switzerland                                                              NSA  31-Jan-2014  Annual
-CHTOTBALSHFORBRNCH                      Total Balance Sheet Items for Branches of Foreign Banks in Switzerland                                                   NSA  31-Jan-2014  Annual
-CHTOTBALSHOTHBNKS                       Total Balance Sheet Items for Other Banks in Switzerland                                                                 NSA  31-Jan-2014  Annual
-CHTOTBALSHPRIVATE                       Total Balance Sheet Items for Private Bankers in Switzerland                                                             NSA  31-Jan-2014  Annual
-CHTOTBALSHRGNBNKS                       Total Balance Sheet Items for Regional Banks and Savings Banks in Switzerland                                            NSA  31-Jan-2014  Annual
-CHTOTBALSHSWISSBNKS                     Total Balance Sheet Items for Banks in Switzerland; excluding Branches of Foreign Banks, and Private Bankers             NSA  31-Jan-2014  Annual
+CHTOTBALRAIFFEISEN            Total Balance Sheet Items for Raiffeisen Banks in Switzerland                                                            NSA  31-Jan-2014  Annual         
+CHTOTBALSHALLBNKS             Total Balance Sheet Items of All Banking Entities in Switzerland                                                         NSA  31-Jan-2014  Annual         
+CHTOTBALSHBIGBNKS             Total Balance Sheet Items for Big Banks in Switzerland                                                                   NSA  31-Jan-2014  Annual         
+CHTOTBALSHCANT                Total Balance Sheet Items for Cantonal Banks in Switzerland                                                              NSA  31-Jan-2014  Annual         
+CHTOTBALSHFORBRNCH            Total Balance Sheet Items for Branches of Foreign Banks in Switzerland                                                   NSA  31-Jan-2014  Annual         
+CHTOTBALSHOTHBNKS             Total Balance Sheet Items for Other Banks in Switzerland                                                                 NSA  31-Jan-2014  Annual         
+CHTOTBALSHPRIVATE             Total Balance Sheet Items for Private Bankers in Switzerland                                                             NSA  31-Jan-2014  Annual         
+CHTOTBALSHRGNBNKS             Total Balance Sheet Items for Regional Banks and Savings Banks in Switzerland                                            NSA  31-Jan-2014  Annual         
+CHTOTBALSHSWISSBNKS           Total Balance Sheet Items for Banks in Switzerland; excluding Branches of Foreign Banks, and Private Bankers             NSA  31-Jan-2014  Annual         

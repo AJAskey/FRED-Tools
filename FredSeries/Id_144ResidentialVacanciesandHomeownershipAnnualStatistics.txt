@@ -1,157 +1,157 @@
 Id : 144  Residential Vacancies and Homeownership Annual Statistics
-AKHOWN                                  Homeownership Rate for Alaska                                                                                            NSA  15-Mar-2022  Annual
-AKHVAC                                  Home Vacancy Rate for Alaska                                                                                             NSA  15-Mar-2022  Annual
-AKRVAC                                  Rental Vacancy Rate for Alaska                                                                                           NSA  15-Mar-2022  Annual
-ALHOWN                                  Homeownership Rate for Alabama                                                                                           NSA  15-Mar-2022  Annual
-ALHVAC                                  Home Vacancy Rate for Alabama                                                                                            NSA  15-Mar-2022  Annual
-ALRVAC                                  Rental Vacancy Rate for Alabama                                                                                          NSA  15-Mar-2022  Annual
-ARHOWN                                  Homeownership Rate for Arkansas                                                                                          NSA  15-Mar-2022  Annual
-ARHVAC                                  Home Vacancy Rate for Arkansas                                                                                           NSA  15-Mar-2022  Annual
-ARRVAC                                  Rental Vacancy Rate for Arkansas                                                                                         NSA  15-Mar-2022  Annual
-AZHOWN                                  Homeownership Rate for Arizona                                                                                           NSA  15-Mar-2022  Annual
-AZHVAC                                  Home Vacancy Rate for Arizona                                                                                            NSA  15-Mar-2022  Annual
-AZRVAC                                  Rental Vacancy Rate for Arizona                                                                                          NSA  15-Mar-2022  Annual
-CAHOWN                                  Homeownership Rate for California                                                                                        NSA  15-Mar-2022  Annual
-CAHVAC                                  Home Vacancy Rate for California                                                                                         NSA  15-Mar-2022  Annual
-CARVAC                                  Rental Vacancy Rate for California                                                                                       NSA  15-Mar-2022  Annual
-COHOWN                                  Homeownership Rate for Colorado                                                                                          NSA  15-Mar-2022  Annual
-COHVAC                                  Home Vacancy Rate for Colorado                                                                                           NSA  15-Mar-2022  Annual
-CORVAC                                  Rental Vacancy Rate for Colorado                                                                                         NSA  15-Mar-2022  Annual
-CTHOWN                                  Homeownership Rate for Connecticut                                                                                       NSA  15-Mar-2022  Annual
-CTHVAC                                  Home Vacancy Rate for Connecticut                                                                                        NSA  15-Mar-2022  Annual
-CTRVAC                                  Rental Vacancy Rate for Connecticut                                                                                      NSA  15-Mar-2022  Annual
-DCHOWN                                  Homeownership Rate for the District of Columbia                                                                          NSA  15-Mar-2022  Annual
-DCHVAC                                  Home Vacancy Rate for the District of Columbia                                                                           NSA  15-Mar-2022  Annual
-DCRVAC                                  Rental Vacancy Rate for the District of Columbia                                                                         NSA  15-Mar-2022  Annual
-DEHOWN                                  Homeownership Rate for Delaware                                                                                          NSA  15-Mar-2022  Annual
-DEHVAC                                  Home Vacancy Rate for Delaware                                                                                           NSA  15-Mar-2022  Annual
-DERVAC                                  Rental Vacancy Rate for Delaware                                                                                         NSA  15-Mar-2022  Annual
-FLHOWN                                  Homeownership Rate for Florida                                                                                           NSA  15-Mar-2022  Annual
-FLHVAC                                  Home Vacancy Rate for Florida                                                                                            NSA  15-Mar-2022  Annual
-FLRVAC                                  Rental Vacancy Rate for Florida                                                                                          NSA  15-Mar-2022  Annual
-GAHOWN                                  Homeownership Rate for Georgia                                                                                           NSA  15-Mar-2022  Annual
-GAHVAC                                  Home Vacancy Rate for Georgia                                                                                            NSA  15-Mar-2022  Annual
-GARVAC                                  Rental Vacancy Rate for Georgia                                                                                          NSA  15-Mar-2022  Annual
-HIHOWN                                  Homeownership Rate for Hawaii                                                                                            NSA  15-Mar-2022  Annual
-HIHVAC                                  Home Vacancy Rate for Hawaii                                                                                             NSA  15-Mar-2022  Annual
-HIRVAC                                  Rental Vacancy Rate for Hawaii                                                                                           NSA  15-Mar-2022  Annual
-IAHOWN                                  Homeownership Rate for Iowa                                                                                              NSA  15-Mar-2022  Annual
-IAHVAC                                  Home Vacancy Rate for Iowa                                                                                               NSA  15-Mar-2022  Annual
-IARVAC                                  Rental Vacancy Rate for Iowa                                                                                             NSA  15-Mar-2022  Annual
-IDHOWN                                  Homeownership Rate for Idaho                                                                                             NSA  15-Mar-2022  Annual
-IDHVAC                                  Home Vacancy Rate for Idaho                                                                                              NSA  15-Mar-2022  Annual
-IDRVAC                                  Rental Vacancy Rate for Idaho                                                                                            NSA  15-Mar-2022  Annual
-ILHOWN                                  Homeownership Rate for Illinois                                                                                          NSA  15-Mar-2022  Annual
-ILHVAC                                  Home Vacancy Rate for Illinois                                                                                           NSA  15-Mar-2022  Annual
-ILRVAC                                  Rental Vacancy Rate for Illinois                                                                                         NSA  15-Mar-2022  Annual
-INHOWN                                  Homeownership Rate for Indiana                                                                                           NSA  15-Mar-2022  Annual
-INHVAC                                  Home Vacancy Rate for Indiana                                                                                            NSA  15-Mar-2022  Annual
-INRVAC                                  Rental Vacancy Rate for Indiana                                                                                          NSA  15-Mar-2022  Annual
-KSHOWN                                  Homeownership Rate for Kansas                                                                                            NSA  15-Mar-2022  Annual
-KSHVAC                                  Home Vacancy Rate for Kansas                                                                                             NSA  15-Mar-2022  Annual
-KSRVAC                                  Rental Vacancy Rate for Kansas                                                                                           NSA  15-Mar-2022  Annual
-KYHOWN                                  Homeownership Rate for Kentucky                                                                                          NSA  15-Mar-2022  Annual
-KYHVAC                                  Home Vacancy Rate for Kentucky                                                                                           NSA  15-Mar-2022  Annual
-KYRVAC                                  Rental Vacancy Rate for Kentucky                                                                                         NSA  15-Mar-2022  Annual
-LAHOWN                                  Homeownership Rate for Louisiana                                                                                         NSA  15-Mar-2022  Annual
-LAHVAC                                  Home Vacancy Rate for Louisiana                                                                                          NSA  15-Mar-2022  Annual
-LARVAC                                  Rental Vacancy Rate for Louisiana                                                                                        NSA  15-Mar-2022  Annual
-MAHOWN                                  Homeownership Rate for Massachusetts                                                                                     NSA  15-Mar-2022  Annual
-MAHVAC                                  Home Vacancy Rate for Massachusetts                                                                                      NSA  15-Mar-2022  Annual
-MARVAC                                  Rental Vacancy Rate for Massachusetts                                                                                    NSA  15-Mar-2022  Annual
-MDHOWN                                  Homeownership Rate for Maryland                                                                                          NSA  15-Mar-2022  Annual
-MDHVAC                                  Home Vacancy Rate for Maryland                                                                                           NSA  15-Mar-2022  Annual
-MDRVAC                                  Rental Vacancy Rate for Maryland                                                                                         NSA  15-Mar-2022  Annual
-MEHOWN                                  Homeownership Rate for Maine                                                                                             NSA  15-Mar-2022  Annual
-MEHVAC                                  Home Vacancy Rate for Maine                                                                                              NSA  15-Mar-2022  Annual
-MERVAC                                  Rental Vacancy Rate for Maine                                                                                            NSA  15-Mar-2022  Annual
-MIHOWN                                  Homeownership Rate for Michigan                                                                                          NSA  15-Mar-2022  Annual
-MIHVAC                                  Home Vacancy Rate for Michigan                                                                                           NSA  15-Mar-2022  Annual
-MIRVAC                                  Rental Vacancy Rate for Michigan                                                                                         NSA  15-Mar-2022  Annual
-MNHOWN                                  Homeownership Rate for Minnesota                                                                                         NSA  15-Mar-2022  Annual
-MNHVAC                                  Home Vacancy Rate for Minnesota                                                                                          NSA  15-Mar-2022  Annual
-MNRVAC                                  Rental Vacancy Rate for Minnesota                                                                                        NSA  15-Mar-2022  Annual
-MOHOWN                                  Homeownership Rate for Missouri                                                                                          NSA  15-Mar-2022  Annual
-MOHVAC                                  Home Vacancy Rate for Missouri                                                                                           NSA  15-Mar-2022  Annual
-MORVAC                                  Rental Vacancy Rate for Missouri                                                                                         NSA  15-Mar-2022  Annual
-MSHOWN                                  Homeownership Rate for Mississippi                                                                                       NSA  15-Mar-2022  Annual
-MSHVAC                                  Home Vacancy Rate for Mississippi                                                                                        NSA  15-Mar-2022  Annual
-MSRVAC                                  Rental Vacancy Rate for Mississippi                                                                                      NSA  15-Mar-2022  Annual
-MTHOWN                                  Homeownership Rate for Montana                                                                                           NSA  15-Mar-2022  Annual
-MTHVAC                                  Home Vacancy Rate for Montana                                                                                            NSA  15-Mar-2022  Annual
-MTRVAC                                  Rental Vacancy Rate for Montana                                                                                          NSA  15-Mar-2022  Annual
-NCHOWN                                  Homeownership Rate for North Carolina                                                                                    NSA  15-Mar-2022  Annual
-NCHVAC                                  Home Vacancy Rate for North Carolina                                                                                     NSA  15-Mar-2022  Annual
-NCRVAC                                  Rental Vacancy Rate for North Carolina                                                                                   NSA  15-Mar-2022  Annual
-NDHOWN                                  Homeownership Rate for North Dakota                                                                                      NSA  15-Mar-2022  Annual
-NDHVAC                                  Home Vacancy Rate for North Dakota                                                                                       NSA  15-Mar-2022  Annual
-NDRVAC                                  Rental Vacancy Rate for North Dakota                                                                                     NSA  15-Mar-2022  Annual
-NEHOWN                                  Homeownership Rate for Nebraska                                                                                          NSA  15-Mar-2022  Annual
-NEHVAC                                  Home Vacancy Rate for Nebraska                                                                                           NSA  15-Mar-2022  Annual
-NERVAC                                  Rental Vacancy Rate for Nebraska                                                                                         NSA  15-Mar-2022  Annual
-NHHOWN                                  Homeownership Rate for New Hampshire                                                                                     NSA  15-Mar-2022  Annual
-NHHVAC                                  Home Vacancy Rate for New Hampshire                                                                                      NSA  15-Mar-2022  Annual
-NHRVAC                                  Rental Vacancy Rate for New Hampshire                                                                                    NSA  15-Mar-2022  Annual
-NJHOWN                                  Homeownership Rate for New Jersey                                                                                        NSA  15-Mar-2022  Annual
-NJHVAC                                  Home Vacancy Rate for New Jersey                                                                                         NSA  15-Mar-2022  Annual
-NJRVAC                                  Rental Vacancy Rate for New Jersey                                                                                       NSA  15-Mar-2022  Annual
-NMHOWN                                  Homeownership Rate for New Mexico                                                                                        NSA  15-Mar-2022  Annual
-NMHVAC                                  Home Vacancy Rate for New Mexico                                                                                         NSA  15-Mar-2022  Annual
-NMRVAC                                  Rental Vacancy Rate for New Mexico                                                                                       NSA  15-Mar-2022  Annual
-NVHOWN                                  Homeownership Rate for Nevada                                                                                            NSA  15-Mar-2022  Annual
-NVHVAC                                  Home Vacancy Rate for Nevada                                                                                             NSA  15-Mar-2022  Annual
-NVRVAC                                  Rental Vacancy Rate for Nevada                                                                                           NSA  15-Mar-2022  Annual
-NYHOWN                                  Homeownership Rate for New York                                                                                          NSA  15-Mar-2022  Annual
-NYHVAC                                  Home Vacancy Rate for New York                                                                                           NSA  15-Mar-2022  Annual
-NYRVAC                                  Rental Vacancy Rate for New York                                                                                         NSA  15-Mar-2022  Annual
-OHHOWN                                  Homeownership Rate for Ohio                                                                                              NSA  15-Mar-2022  Annual
-OHHVAC                                  Home Vacancy Rate for Ohio                                                                                               NSA  15-Mar-2022  Annual
-OHRVAC                                  Rental Vacancy Rate for Ohio                                                                                             NSA  15-Mar-2022  Annual
-OKHOWN                                  Homeownership Rate for Oklahoma                                                                                          NSA  15-Mar-2022  Annual
-OKHVAC                                  Home Vacancy Rate for Oklahoma                                                                                           NSA  15-Mar-2022  Annual
-OKRVAC                                  Rental Vacancy Rate for Oklahoma                                                                                         NSA  15-Mar-2022  Annual
-ORHOWN                                  Homeownership Rate for Oregon                                                                                            NSA  15-Mar-2022  Annual
-ORHVAC                                  Home Vacancy Rate for Oregon                                                                                             NSA  15-Mar-2022  Annual
-ORRVAC                                  Rental Vacancy Rate for Oregon                                                                                           NSA  15-Mar-2022  Annual
-PAHOWN                                  Homeownership Rate for Pennsylvania                                                                                      NSA  15-Mar-2022  Annual
-PAHVAC                                  Home Vacancy Rate for Pennsylvania                                                                                       NSA  15-Mar-2022  Annual
-PARVAC                                  Rental Vacancy Rate for Pennsylvania                                                                                     NSA  15-Mar-2022  Annual
-RIHOWN                                  Homeownership Rate for Rhode Island                                                                                      NSA  15-Mar-2022  Annual
-RIHVAC                                  Home Vacancy Rate for Rhode Island                                                                                       NSA  15-Mar-2022  Annual
-RIRVAC                                  Rental Vacancy Rate for Rhode Island                                                                                     NSA  15-Mar-2022  Annual
-SCHOWN                                  Homeownership Rate for South Carolina                                                                                    NSA  15-Mar-2022  Annual
-SCHVAC                                  Home Vacancy Rate for South Carolina                                                                                     NSA  15-Mar-2022  Annual
-SCRVAC                                  Rental Vacancy Rate for South Carolina                                                                                   NSA  15-Mar-2022  Annual
-SDHOWN                                  Homeownership Rate for South Dakota                                                                                      NSA  15-Mar-2022  Annual
-SDHVAC                                  Home Vacancy Rate for South Dakota                                                                                       NSA  15-Mar-2022  Annual
-SDRVAC                                  Rental Vacancy Rate for South Dakota                                                                                     NSA  15-Mar-2022  Annual
-TNHOWN                                  Homeownership Rate for Tennessee                                                                                         NSA  15-Mar-2022  Annual
-TNHVAC                                  Home Vacancy Rate for Tennessee                                                                                          NSA  15-Mar-2022  Annual
-TNRVAC                                  Rental Vacancy Rate for Tennessee                                                                                        NSA  15-Mar-2022  Annual
-TXHOWN                                  Homeownership Rate for Texas                                                                                             NSA  15-Mar-2022  Annual
-TXHVAC                                  Home Vacancy Rate for Texas                                                                                              NSA  15-Mar-2022  Annual
-TXRVAC                                  Rental Vacancy Rate for Texas                                                                                            NSA  15-Mar-2022  Annual
-USHOWN                                  Homeownership Rate for the United States                                                                                 NSA  15-Mar-2022  Annual
-USHVAC                                  Home Vacancy Rate for the United States                                                                                  NSA  15-Mar-2022  Annual
-USRVAC                                  Rental Vacancy Rate for the United States                                                                                NSA  15-Mar-2022  Annual
-UTHOWN                                  Homeownership Rate for Utah                                                                                              NSA  15-Mar-2022  Annual
-UTHVAC                                  Home Vacancy Rate for Utah                                                                                               NSA  15-Mar-2022  Annual
-UTRVAC                                  Rental Vacancy Rate for Utah                                                                                             NSA  15-Mar-2022  Annual
-VAHOWN                                  Homeownership Rate for Virginia                                                                                          NSA  15-Mar-2022  Annual
-VAHVAC                                  Home Vacancy Rate for Virginia                                                                                           NSA  15-Mar-2022  Annual
-VARVAC                                  Rental Vacancy Rate for Virginia                                                                                         NSA  15-Mar-2022  Annual
-VTHOWN                                  Homeownership Rate for Vermont                                                                                           NSA  15-Mar-2022  Annual
-VTHVAC                                  Home Vacancy Rate for Vermont                                                                                            NSA  15-Mar-2022  Annual
-VTRVAC                                  Rental Vacancy Rate for Vermont                                                                                          NSA  15-Mar-2022  Annual
-WAHOWN                                  Homeownership Rate for Washington                                                                                        NSA  15-Mar-2022  Annual
-WAHVAC                                  Home Vacancy Rate for Washington                                                                                         NSA  15-Mar-2022  Annual
-WARVAC                                  Rental Vacancy Rate for Washington                                                                                       NSA  15-Mar-2022  Annual
-WIHOWN                                  Homeownership Rate for Wisconsin                                                                                         NSA  15-Mar-2022  Annual
-WIHVAC                                  Home Vacancy Rate for Wisconsin                                                                                          NSA  15-Mar-2022  Annual
-WIRVAC                                  Rental Vacancy Rate for Wisconsin                                                                                        NSA  15-Mar-2022  Annual
-WVHOWN                                  Homeownership Rate for West Virginia                                                                                     NSA  15-Mar-2022  Annual
-WVHVAC                                  Home Vacancy Rate for West Virginia                                                                                      NSA  15-Mar-2022  Annual
-WVRVAC                                  Rental Vacancy Rate for West Virginia                                                                                    NSA  15-Mar-2022  Annual
-WYHOWN                                  Homeownership Rate for Wyoming                                                                                           NSA  15-Mar-2022  Annual
-WYHVAC                                  Home Vacancy Rate for Wyoming                                                                                            NSA  15-Mar-2022  Annual
-WYRVAC                                  Rental Vacancy Rate for Wyoming                                                                                          NSA  15-Mar-2022  Annual
+AKHOWN                        Homeownership Rate for Alaska                                                                                            NSA  15-Mar-2022  Annual         
+AKHVAC                        Home Vacancy Rate for Alaska                                                                                             NSA  15-Mar-2022  Annual         
+AKRVAC                        Rental Vacancy Rate for Alaska                                                                                           NSA  15-Mar-2022  Annual         
+ALHOWN                        Homeownership Rate for Alabama                                                                                           NSA  15-Mar-2022  Annual         
+ALHVAC                        Home Vacancy Rate for Alabama                                                                                            NSA  15-Mar-2022  Annual         
+ALRVAC                        Rental Vacancy Rate for Alabama                                                                                          NSA  15-Mar-2022  Annual         
+ARHOWN                        Homeownership Rate for Arkansas                                                                                          NSA  15-Mar-2022  Annual         
+ARHVAC                        Home Vacancy Rate for Arkansas                                                                                           NSA  15-Mar-2022  Annual         
+ARRVAC                        Rental Vacancy Rate for Arkansas                                                                                         NSA  15-Mar-2022  Annual         
+AZHOWN                        Homeownership Rate for Arizona                                                                                           NSA  15-Mar-2022  Annual         
+AZHVAC                        Home Vacancy Rate for Arizona                                                                                            NSA  15-Mar-2022  Annual         
+AZRVAC                        Rental Vacancy Rate for Arizona                                                                                          NSA  15-Mar-2022  Annual         
+CAHOWN                        Homeownership Rate for California                                                                                        NSA  15-Mar-2022  Annual         
+CAHVAC                        Home Vacancy Rate for California                                                                                         NSA  15-Mar-2022  Annual         
+CARVAC                        Rental Vacancy Rate for California                                                                                       NSA  15-Mar-2022  Annual         
+COHOWN                        Homeownership Rate for Colorado                                                                                          NSA  15-Mar-2022  Annual         
+COHVAC                        Home Vacancy Rate for Colorado                                                                                           NSA  15-Mar-2022  Annual         
+CORVAC                        Rental Vacancy Rate for Colorado                                                                                         NSA  15-Mar-2022  Annual         
+CTHOWN                        Homeownership Rate for Connecticut                                                                                       NSA  15-Mar-2022  Annual         
+CTHVAC                        Home Vacancy Rate for Connecticut                                                                                        NSA  15-Mar-2022  Annual         
+CTRVAC                        Rental Vacancy Rate for Connecticut                                                                                      NSA  15-Mar-2022  Annual         
+DCHOWN                        Homeownership Rate for the District of Columbia                                                                          NSA  15-Mar-2022  Annual         
+DCHVAC                        Home Vacancy Rate for the District of Columbia                                                                           NSA  15-Mar-2022  Annual         
+DCRVAC                        Rental Vacancy Rate for the District of Columbia                                                                         NSA  15-Mar-2022  Annual         
+DEHOWN                        Homeownership Rate for Delaware                                                                                          NSA  15-Mar-2022  Annual         
+DEHVAC                        Home Vacancy Rate for Delaware                                                                                           NSA  15-Mar-2022  Annual         
+DERVAC                        Rental Vacancy Rate for Delaware                                                                                         NSA  15-Mar-2022  Annual         
+FLHOWN                        Homeownership Rate for Florida                                                                                           NSA  15-Mar-2022  Annual         
+FLHVAC                        Home Vacancy Rate for Florida                                                                                            NSA  15-Mar-2022  Annual         
+FLRVAC                        Rental Vacancy Rate for Florida                                                                                          NSA  15-Mar-2022  Annual         
+GAHOWN                        Homeownership Rate for Georgia                                                                                           NSA  15-Mar-2022  Annual         
+GAHVAC                        Home Vacancy Rate for Georgia                                                                                            NSA  15-Mar-2022  Annual         
+GARVAC                        Rental Vacancy Rate for Georgia                                                                                          NSA  15-Mar-2022  Annual         
+HIHOWN                        Homeownership Rate for Hawaii                                                                                            NSA  15-Mar-2022  Annual         
+HIHVAC                        Home Vacancy Rate for Hawaii                                                                                             NSA  15-Mar-2022  Annual         
+HIRVAC                        Rental Vacancy Rate for Hawaii                                                                                           NSA  15-Mar-2022  Annual         
+IAHOWN                        Homeownership Rate for Iowa                                                                                              NSA  15-Mar-2022  Annual         
+IAHVAC                        Home Vacancy Rate for Iowa                                                                                               NSA  15-Mar-2022  Annual         
+IARVAC                        Rental Vacancy Rate for Iowa                                                                                             NSA  15-Mar-2022  Annual         
+IDHOWN                        Homeownership Rate for Idaho                                                                                             NSA  15-Mar-2022  Annual         
+IDHVAC                        Home Vacancy Rate for Idaho                                                                                              NSA  15-Mar-2022  Annual         
+IDRVAC                        Rental Vacancy Rate for Idaho                                                                                            NSA  15-Mar-2022  Annual         
+ILHOWN                        Homeownership Rate for Illinois                                                                                          NSA  15-Mar-2022  Annual         
+ILHVAC                        Home Vacancy Rate for Illinois                                                                                           NSA  15-Mar-2022  Annual         
+ILRVAC                        Rental Vacancy Rate for Illinois                                                                                         NSA  15-Mar-2022  Annual         
+INHOWN                        Homeownership Rate for Indiana                                                                                           NSA  15-Mar-2022  Annual         
+INHVAC                        Home Vacancy Rate for Indiana                                                                                            NSA  15-Mar-2022  Annual         
+INRVAC                        Rental Vacancy Rate for Indiana                                                                                          NSA  15-Mar-2022  Annual         
+KSHOWN                        Homeownership Rate for Kansas                                                                                            NSA  15-Mar-2022  Annual         
+KSHVAC                        Home Vacancy Rate for Kansas                                                                                             NSA  15-Mar-2022  Annual         
+KSRVAC                        Rental Vacancy Rate for Kansas                                                                                           NSA  15-Mar-2022  Annual         
+KYHOWN                        Homeownership Rate for Kentucky                                                                                          NSA  15-Mar-2022  Annual         
+KYHVAC                        Home Vacancy Rate for Kentucky                                                                                           NSA  15-Mar-2022  Annual         
+KYRVAC                        Rental Vacancy Rate for Kentucky                                                                                         NSA  15-Mar-2022  Annual         
+LAHOWN                        Homeownership Rate for Louisiana                                                                                         NSA  15-Mar-2022  Annual         
+LAHVAC                        Home Vacancy Rate for Louisiana                                                                                          NSA  15-Mar-2022  Annual         
+LARVAC                        Rental Vacancy Rate for Louisiana                                                                                        NSA  15-Mar-2022  Annual         
+MAHOWN                        Homeownership Rate for Massachusetts                                                                                     NSA  15-Mar-2022  Annual         
+MAHVAC                        Home Vacancy Rate for Massachusetts                                                                                      NSA  15-Mar-2022  Annual         
+MARVAC                        Rental Vacancy Rate for Massachusetts                                                                                    NSA  15-Mar-2022  Annual         
+MDHOWN                        Homeownership Rate for Maryland                                                                                          NSA  15-Mar-2022  Annual         
+MDHVAC                        Home Vacancy Rate for Maryland                                                                                           NSA  15-Mar-2022  Annual         
+MDRVAC                        Rental Vacancy Rate for Maryland                                                                                         NSA  15-Mar-2022  Annual         
+MEHOWN                        Homeownership Rate for Maine                                                                                             NSA  15-Mar-2022  Annual         
+MEHVAC                        Home Vacancy Rate for Maine                                                                                              NSA  15-Mar-2022  Annual         
+MERVAC                        Rental Vacancy Rate for Maine                                                                                            NSA  15-Mar-2022  Annual         
+MIHOWN                        Homeownership Rate for Michigan                                                                                          NSA  15-Mar-2022  Annual         
+MIHVAC                        Home Vacancy Rate for Michigan                                                                                           NSA  15-Mar-2022  Annual         
+MIRVAC                        Rental Vacancy Rate for Michigan                                                                                         NSA  15-Mar-2022  Annual         
+MNHOWN                        Homeownership Rate for Minnesota                                                                                         NSA  15-Mar-2022  Annual         
+MNHVAC                        Home Vacancy Rate for Minnesota                                                                                          NSA  15-Mar-2022  Annual         
+MNRVAC                        Rental Vacancy Rate for Minnesota                                                                                        NSA  15-Mar-2022  Annual         
+MOHOWN                        Homeownership Rate for Missouri                                                                                          NSA  15-Mar-2022  Annual         
+MOHVAC                        Home Vacancy Rate for Missouri                                                                                           NSA  15-Mar-2022  Annual         
+MORVAC                        Rental Vacancy Rate for Missouri                                                                                         NSA  15-Mar-2022  Annual         
+MSHOWN                        Homeownership Rate for Mississippi                                                                                       NSA  15-Mar-2022  Annual         
+MSHVAC                        Home Vacancy Rate for Mississippi                                                                                        NSA  15-Mar-2022  Annual         
+MSRVAC                        Rental Vacancy Rate for Mississippi                                                                                      NSA  15-Mar-2022  Annual         
+MTHOWN                        Homeownership Rate for Montana                                                                                           NSA  15-Mar-2022  Annual         
+MTHVAC                        Home Vacancy Rate for Montana                                                                                            NSA  15-Mar-2022  Annual         
+MTRVAC                        Rental Vacancy Rate for Montana                                                                                          NSA  15-Mar-2022  Annual         
+NCHOWN                        Homeownership Rate for North Carolina                                                                                    NSA  15-Mar-2022  Annual         
+NCHVAC                        Home Vacancy Rate for North Carolina                                                                                     NSA  15-Mar-2022  Annual         
+NCRVAC                        Rental Vacancy Rate for North Carolina                                                                                   NSA  15-Mar-2022  Annual         
+NDHOWN                        Homeownership Rate for North Dakota                                                                                      NSA  15-Mar-2022  Annual         
+NDHVAC                        Home Vacancy Rate for North Dakota                                                                                       NSA  15-Mar-2022  Annual         
+NDRVAC                        Rental Vacancy Rate for North Dakota                                                                                     NSA  15-Mar-2022  Annual         
+NEHOWN                        Homeownership Rate for Nebraska                                                                                          NSA  15-Mar-2022  Annual         
+NEHVAC                        Home Vacancy Rate for Nebraska                                                                                           NSA  15-Mar-2022  Annual         
+NERVAC                        Rental Vacancy Rate for Nebraska                                                                                         NSA  15-Mar-2022  Annual         
+NHHOWN                        Homeownership Rate for New Hampshire                                                                                     NSA  15-Mar-2022  Annual         
+NHHVAC                        Home Vacancy Rate for New Hampshire                                                                                      NSA  15-Mar-2022  Annual         
+NHRVAC                        Rental Vacancy Rate for New Hampshire                                                                                    NSA  15-Mar-2022  Annual         
+NJHOWN                        Homeownership Rate for New Jersey                                                                                        NSA  15-Mar-2022  Annual         
+NJHVAC                        Home Vacancy Rate for New Jersey                                                                                         NSA  15-Mar-2022  Annual         
+NJRVAC                        Rental Vacancy Rate for New Jersey                                                                                       NSA  15-Mar-2022  Annual         
+NMHOWN                        Homeownership Rate for New Mexico                                                                                        NSA  15-Mar-2022  Annual         
+NMHVAC                        Home Vacancy Rate for New Mexico                                                                                         NSA  15-Mar-2022  Annual         
+NMRVAC                        Rental Vacancy Rate for New Mexico                                                                                       NSA  15-Mar-2022  Annual         
+NVHOWN                        Homeownership Rate for Nevada                                                                                            NSA  15-Mar-2022  Annual         
+NVHVAC                        Home Vacancy Rate for Nevada                                                                                             NSA  15-Mar-2022  Annual         
+NVRVAC                        Rental Vacancy Rate for Nevada                                                                                           NSA  15-Mar-2022  Annual         
+NYHOWN                        Homeownership Rate for New York                                                                                          NSA  15-Mar-2022  Annual         
+NYHVAC                        Home Vacancy Rate for New York                                                                                           NSA  15-Mar-2022  Annual         
+NYRVAC                        Rental Vacancy Rate for New York                                                                                         NSA  15-Mar-2022  Annual         
+OHHOWN                        Homeownership Rate for Ohio                                                                                              NSA  15-Mar-2022  Annual         
+OHHVAC                        Home Vacancy Rate for Ohio                                                                                               NSA  15-Mar-2022  Annual         
+OHRVAC                        Rental Vacancy Rate for Ohio                                                                                             NSA  15-Mar-2022  Annual         
+OKHOWN                        Homeownership Rate for Oklahoma                                                                                          NSA  15-Mar-2022  Annual         
+OKHVAC                        Home Vacancy Rate for Oklahoma                                                                                           NSA  15-Mar-2022  Annual         
+OKRVAC                        Rental Vacancy Rate for Oklahoma                                                                                         NSA  15-Mar-2022  Annual         
+ORHOWN                        Homeownership Rate for Oregon                                                                                            NSA  15-Mar-2022  Annual         
+ORHVAC                        Home Vacancy Rate for Oregon                                                                                             NSA  15-Mar-2022  Annual         
+ORRVAC                        Rental Vacancy Rate for Oregon                                                                                           NSA  15-Mar-2022  Annual         
+PAHOWN                        Homeownership Rate for Pennsylvania                                                                                      NSA  15-Mar-2022  Annual         
+PAHVAC                        Home Vacancy Rate for Pennsylvania                                                                                       NSA  15-Mar-2022  Annual         
+PARVAC                        Rental Vacancy Rate for Pennsylvania                                                                                     NSA  15-Mar-2022  Annual         
+RIHOWN                        Homeownership Rate for Rhode Island                                                                                      NSA  15-Mar-2022  Annual         
+RIHVAC                        Home Vacancy Rate for Rhode Island                                                                                       NSA  15-Mar-2022  Annual         
+RIRVAC                        Rental Vacancy Rate for Rhode Island                                                                                     NSA  15-Mar-2022  Annual         
+SCHOWN                        Homeownership Rate for South Carolina                                                                                    NSA  15-Mar-2022  Annual         
+SCHVAC                        Home Vacancy Rate for South Carolina                                                                                     NSA  15-Mar-2022  Annual         
+SCRVAC                        Rental Vacancy Rate for South Carolina                                                                                   NSA  15-Mar-2022  Annual         
+SDHOWN                        Homeownership Rate for South Dakota                                                                                      NSA  15-Mar-2022  Annual         
+SDHVAC                        Home Vacancy Rate for South Dakota                                                                                       NSA  15-Mar-2022  Annual         
+SDRVAC                        Rental Vacancy Rate for South Dakota                                                                                     NSA  15-Mar-2022  Annual         
+TNHOWN                        Homeownership Rate for Tennessee                                                                                         NSA  15-Mar-2022  Annual         
+TNHVAC                        Home Vacancy Rate for Tennessee                                                                                          NSA  15-Mar-2022  Annual         
+TNRVAC                        Rental Vacancy Rate for Tennessee                                                                                        NSA  15-Mar-2022  Annual         
+TXHOWN                        Homeownership Rate for Texas                                                                                             NSA  15-Mar-2022  Annual         
+TXHVAC                        Home Vacancy Rate for Texas                                                                                              NSA  15-Mar-2022  Annual         
+TXRVAC                        Rental Vacancy Rate for Texas                                                                                            NSA  15-Mar-2022  Annual         
+USHOWN                        Homeownership Rate for the United States                                                                                 NSA  15-Mar-2022  Annual         
+USHVAC                        Home Vacancy Rate for the United States                                                                                  NSA  15-Mar-2022  Annual         
+USRVAC                        Rental Vacancy Rate for the United States                                                                                NSA  15-Mar-2022  Annual         
+UTHOWN                        Homeownership Rate for Utah                                                                                              NSA  15-Mar-2022  Annual         
+UTHVAC                        Home Vacancy Rate for Utah                                                                                               NSA  15-Mar-2022  Annual         
+UTRVAC                        Rental Vacancy Rate for Utah                                                                                             NSA  15-Mar-2022  Annual         
+VAHOWN                        Homeownership Rate for Virginia                                                                                          NSA  15-Mar-2022  Annual         
+VAHVAC                        Home Vacancy Rate for Virginia                                                                                           NSA  15-Mar-2022  Annual         
+VARVAC                        Rental Vacancy Rate for Virginia                                                                                         NSA  15-Mar-2022  Annual         
+VTHOWN                        Homeownership Rate for Vermont                                                                                           NSA  15-Mar-2022  Annual         
+VTHVAC                        Home Vacancy Rate for Vermont                                                                                            NSA  15-Mar-2022  Annual         
+VTRVAC                        Rental Vacancy Rate for Vermont                                                                                          NSA  15-Mar-2022  Annual         
+WAHOWN                        Homeownership Rate for Washington                                                                                        NSA  15-Mar-2022  Annual         
+WAHVAC                        Home Vacancy Rate for Washington                                                                                         NSA  15-Mar-2022  Annual         
+WARVAC                        Rental Vacancy Rate for Washington                                                                                       NSA  15-Mar-2022  Annual         
+WIHOWN                        Homeownership Rate for Wisconsin                                                                                         NSA  15-Mar-2022  Annual         
+WIHVAC                        Home Vacancy Rate for Wisconsin                                                                                          NSA  15-Mar-2022  Annual         
+WIRVAC                        Rental Vacancy Rate for Wisconsin                                                                                        NSA  15-Mar-2022  Annual         
+WVHOWN                        Homeownership Rate for West Virginia                                                                                     NSA  15-Mar-2022  Annual         
+WVHVAC                        Home Vacancy Rate for West Virginia                                                                                      NSA  15-Mar-2022  Annual         
+WVRVAC                        Rental Vacancy Rate for West Virginia                                                                                    NSA  15-Mar-2022  Annual         
+WYHOWN                        Homeownership Rate for Wyoming                                                                                           NSA  15-Mar-2022  Annual         
+WYHVAC                        Home Vacancy Rate for Wyoming                                                                                            NSA  15-Mar-2022  Annual         
+WYRVAC                        Rental Vacancy Rate for Wyoming                                                                                          NSA  15-Mar-2022  Annual         

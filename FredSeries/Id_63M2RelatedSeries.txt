@@ -1,4 +1,4 @@
 Id : 63  M2 Related Series
-M2MNS                                   M2 Less Small Time Deposits                                                                                              NSA  22-Nov-2022  Monthly
-M2MOWN                                  M2 Minus Own Rate (DISCONTINUED)                                                                                         NSA  08-Jul-2019  Monthly
-M2MSL                                   M2 Less Small Time Deposits                                                                                              SA   22-Nov-2022  Monthly
+M2MNS                         M2 Less Small Time Deposits                                                                                              NSA  22-Nov-2022  Monthly        
+M2MOWN                        M2 Minus Own Rate (DISCONTINUED)                                                                                         NSA  08-Jul-2019  Monthly        
+M2MSL                         M2 Less Small Time Deposits                                                                                              SA   22-Nov-2022  Monthly        

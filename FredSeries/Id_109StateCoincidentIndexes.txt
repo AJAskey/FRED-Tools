@@ -1,52 +1,52 @@
 Id : 109  State Coincident Indexes
-AKPHCI                                  Coincident Economic Activity Index for Alaska                                                                            SA   23-Nov-2022  Monthly
-ALPHCI                                  Coincident Economic Activity Index for Alabama                                                                           SA   23-Nov-2022  Monthly
-ARPHCI                                  Coincident Economic Activity Index for Arkansas                                                                          SA   23-Nov-2022  Monthly
-AZPHCI                                  Coincident Economic Activity Index for Arizona                                                                           SA   23-Nov-2022  Monthly
-CAPHCI                                  Coincident Economic Activity Index for California                                                                        SA   23-Nov-2022  Monthly
-COPHCI                                  Coincident Economic Activity Index for Colorado                                                                          SA   23-Nov-2022  Monthly
-CTPHCI                                  Coincident Economic Activity Index for Connecticut                                                                       SA   23-Nov-2022  Monthly
-DEPHCI                                  Coincident Economic Activity Index for Delaware                                                                          SA   23-Nov-2022  Monthly
-FLPHCI                                  Coincident Economic Activity Index for Florida                                                                           SA   23-Nov-2022  Monthly
-GAPHCI                                  Coincident Economic Activity Index for Georgia                                                                           SA   23-Nov-2022  Monthly
-HIPHCI                                  Coincident Economic Activity Index for Hawaii                                                                            SA   23-Nov-2022  Monthly
-IAPHCI                                  Coincident Economic Activity Index for Iowa                                                                              SA   23-Nov-2022  Monthly
-IDPHCI                                  Coincident Economic Activity Index for Idaho                                                                             SA   23-Nov-2022  Monthly
-ILPHCI                                  Coincident Economic Activity Index for Illinois                                                                          SA   23-Nov-2022  Monthly
-INPHCI                                  Coincident Economic Activity Index for Indiana                                                                           SA   23-Nov-2022  Monthly
-KSPHCI                                  Coincident Economic Activity Index for Kansas                                                                            SA   23-Nov-2022  Monthly
-KYPHCI                                  Coincident Economic Activity Index for Kentucky                                                                          SA   23-Nov-2022  Monthly
-LAPHCI                                  Coincident Economic Activity Index for Louisiana                                                                         SA   23-Nov-2022  Monthly
-MAPHCI                                  Coincident Economic Activity Index for Massachusetts                                                                     SA   23-Nov-2022  Monthly
-MDPHCI                                  Coincident Economic Activity Index for Maryland                                                                          SA   23-Nov-2022  Monthly
-MEPHCI                                  Coincident Economic Activity Index for Maine                                                                             SA   23-Nov-2022  Monthly
-MIPHCI                                  Coincident Economic Activity Index for Michigan                                                                          SA   23-Nov-2022  Monthly
-MNPHCI                                  Coincident Economic Activity Index for Minnesota                                                                         SA   23-Nov-2022  Monthly
-MOPHCI                                  Coincident Economic Activity Index for Missouri                                                                          SA   23-Nov-2022  Monthly
-MSPHCI                                  Coincident Economic Activity Index for Mississippi                                                                       SA   23-Nov-2022  Monthly
-MTPHCI                                  Coincident Economic Activity Index for Montana                                                                           SA   23-Nov-2022  Monthly
-NCPHCI                                  Coincident Economic Activity Index for North Carolina                                                                    SA   23-Nov-2022  Monthly
-NDPHCI                                  Coincident Economic Activity Index for North Dakota                                                                      SA   23-Nov-2022  Monthly
-NEPHCI                                  Coincident Economic Activity Index for Nebraska                                                                          SA   23-Nov-2022  Monthly
-NHPHCI                                  Coincident Economic Activity Index for New Hampshire                                                                     SA   23-Nov-2022  Monthly
-NJPHCI                                  Coincident Economic Activity Index for New Jersey                                                                        SA   23-Nov-2022  Monthly
-NMPHCI                                  Coincident Economic Activity Index for New Mexico                                                                        SA   23-Nov-2022  Monthly
-NVPHCI                                  Coincident Economic Activity Index for Nevada                                                                            SA   23-Nov-2022  Monthly
-NYPHCI                                  Coincident Economic Activity Index for New York                                                                          SA   23-Nov-2022  Monthly
-OHPHCI                                  Coincident Economic Activity Index for Ohio                                                                              SA   23-Nov-2022  Monthly
-OKPHCI                                  Coincident Economic Activity Index for Oklahoma                                                                          SA   23-Nov-2022  Monthly
-ORPHCI                                  Coincident Economic Activity Index for Oregon                                                                            SA   23-Nov-2022  Monthly
-PAPHCI                                  Coincident Economic Activity Index for Pennsylvania                                                                      SA   23-Nov-2022  Monthly
-RIPHCI                                  Coincident Economic Activity Index for Rhode Island                                                                      SA   23-Nov-2022  Monthly
-SCPHCI                                  Coincident Economic Activity Index for South Carolina                                                                    SA   23-Nov-2022  Monthly
-SDPHCI                                  Coincident Economic Activity Index for South Dakota                                                                      SA   23-Nov-2022  Monthly
-TNPHCI                                  Coincident Economic Activity Index for Tennessee                                                                         SA   23-Nov-2022  Monthly
-TXPHCI                                  Coincident Economic Activity Index for Texas                                                                             SA   23-Nov-2022  Monthly
-USPHCI                                  Coincident Economic Activity Index for the United States                                                                 SA   23-Nov-2022  Monthly
-UTPHCI                                  Coincident Economic Activity Index for Utah                                                                              SA   23-Nov-2022  Monthly
-VAPHCI                                  Coincident Economic Activity Index for Virginia                                                                          SA   23-Nov-2022  Monthly
-VTPHCI                                  Coincident Economic Activity Index for Vermont                                                                           SA   23-Nov-2022  Monthly
-WAPHCI                                  Coincident Economic Activity Index for Washington                                                                        SA   23-Nov-2022  Monthly
-WIPHCI                                  Coincident Economic Activity Index for Wisconsin                                                                         SA   23-Nov-2022  Monthly
-WVPHCI                                  Coincident Economic Activity Index for West Virginia                                                                     SA   23-Nov-2022  Monthly
-WYPHCI                                  Coincident Economic Activity Index for Wyoming                                                                           SA   23-Nov-2022  Monthly
+AKPHCI                        Coincident Economic Activity Index for Alaska                                                                            SA   23-Nov-2022  Monthly        
+ALPHCI                        Coincident Economic Activity Index for Alabama                                                                           SA   23-Nov-2022  Monthly        
+ARPHCI                        Coincident Economic Activity Index for Arkansas                                                                          SA   23-Nov-2022  Monthly        
+AZPHCI                        Coincident Economic Activity Index for Arizona                                                                           SA   23-Nov-2022  Monthly        
+CAPHCI                        Coincident Economic Activity Index for California                                                                        SA   23-Nov-2022  Monthly        
+COPHCI                        Coincident Economic Activity Index for Colorado                                                                          SA   23-Nov-2022  Monthly        
+CTPHCI                        Coincident Economic Activity Index for Connecticut                                                                       SA   23-Nov-2022  Monthly        
+DEPHCI                        Coincident Economic Activity Index for Delaware                                                                          SA   23-Nov-2022  Monthly        
+FLPHCI                        Coincident Economic Activity Index for Florida                                                                           SA   23-Nov-2022  Monthly        
+GAPHCI                        Coincident Economic Activity Index for Georgia                                                                           SA   23-Nov-2022  Monthly        
+HIPHCI                        Coincident Economic Activity Index for Hawaii                                                                            SA   23-Nov-2022  Monthly        
+IAPHCI                        Coincident Economic Activity Index for Iowa                                                                              SA   23-Nov-2022  Monthly        
+IDPHCI                        Coincident Economic Activity Index for Idaho                                                                             SA   23-Nov-2022  Monthly        
+ILPHCI                        Coincident Economic Activity Index for Illinois                                                                          SA   23-Nov-2022  Monthly        
+INPHCI                        Coincident Economic Activity Index for Indiana                                                                           SA   23-Nov-2022  Monthly        
+KSPHCI                        Coincident Economic Activity Index for Kansas                                                                            SA   23-Nov-2022  Monthly        
+KYPHCI                        Coincident Economic Activity Index for Kentucky                                                                          SA   23-Nov-2022  Monthly        
+LAPHCI                        Coincident Economic Activity Index for Louisiana                                                                         SA   23-Nov-2022  Monthly        
+MAPHCI                        Coincident Economic Activity Index for Massachusetts                                                                     SA   23-Nov-2022  Monthly        
+MDPHCI                        Coincident Economic Activity Index for Maryland                                                                          SA   23-Nov-2022  Monthly        
+MEPHCI                        Coincident Economic Activity Index for Maine                                                                             SA   23-Nov-2022  Monthly        
+MIPHCI                        Coincident Economic Activity Index for Michigan                                                                          SA   23-Nov-2022  Monthly        
+MNPHCI                        Coincident Economic Activity Index for Minnesota                                                                         SA   23-Nov-2022  Monthly        
+MOPHCI                        Coincident Economic Activity Index for Missouri                                                                          SA   23-Nov-2022  Monthly        
+MSPHCI                        Coincident Economic Activity Index for Mississippi                                                                       SA   23-Nov-2022  Monthly        
+MTPHCI                        Coincident Economic Activity Index for Montana                                                                           SA   23-Nov-2022  Monthly        
+NCPHCI                        Coincident Economic Activity Index for North Carolina                                                                    SA   23-Nov-2022  Monthly        
+NDPHCI                        Coincident Economic Activity Index for North Dakota                                                                      SA   23-Nov-2022  Monthly        
+NEPHCI                        Coincident Economic Activity Index for Nebraska                                                                          SA   23-Nov-2022  Monthly        
+NHPHCI                        Coincident Economic Activity Index for New Hampshire                                                                     SA   23-Nov-2022  Monthly        
+NJPHCI                        Coincident Economic Activity Index for New Jersey                                                                        SA   23-Nov-2022  Monthly        
+NMPHCI                        Coincident Economic Activity Index for New Mexico                                                                        SA   23-Nov-2022  Monthly        
+NVPHCI                        Coincident Economic Activity Index for Nevada                                                                            SA   23-Nov-2022  Monthly        
+NYPHCI                        Coincident Economic Activity Index for New York                                                                          SA   23-Nov-2022  Monthly        
+OHPHCI                        Coincident Economic Activity Index for Ohio                                                                              SA   23-Nov-2022  Monthly        
+OKPHCI                        Coincident Economic Activity Index for Oklahoma                                                                          SA   23-Nov-2022  Monthly        
+ORPHCI                        Coincident Economic Activity Index for Oregon                                                                            SA   23-Nov-2022  Monthly        
+PAPHCI                        Coincident Economic Activity Index for Pennsylvania                                                                      SA   23-Nov-2022  Monthly        
+RIPHCI                        Coincident Economic Activity Index for Rhode Island                                                                      SA   23-Nov-2022  Monthly        
+SCPHCI                        Coincident Economic Activity Index for South Carolina                                                                    SA   23-Nov-2022  Monthly        
+SDPHCI                        Coincident Economic Activity Index for South Dakota                                                                      SA   23-Nov-2022  Monthly        
+TNPHCI                        Coincident Economic Activity Index for Tennessee                                                                         SA   23-Nov-2022  Monthly        
+TXPHCI                        Coincident Economic Activity Index for Texas                                                                             SA   23-Nov-2022  Monthly        
+USPHCI                        Coincident Economic Activity Index for the United States                                                                 SA   23-Nov-2022  Monthly        
+UTPHCI                        Coincident Economic Activity Index for Utah                                                                              SA   23-Nov-2022  Monthly        
+VAPHCI                        Coincident Economic Activity Index for Virginia                                                                          SA   23-Nov-2022  Monthly        
+VTPHCI                        Coincident Economic Activity Index for Vermont                                                                           SA   23-Nov-2022  Monthly        
+WAPHCI                        Coincident Economic Activity Index for Washington                                                                        SA   23-Nov-2022  Monthly        
+WIPHCI                        Coincident Economic Activity Index for Wisconsin                                                                         SA   23-Nov-2022  Monthly        
+WVPHCI                        Coincident Economic Activity Index for West Virginia                                                                     SA   23-Nov-2022  Monthly        
+WYPHCI                        Coincident Economic Activity Index for Wyoming                                                                           SA   23-Nov-2022  Monthly        

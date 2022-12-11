@@ -1,5 +1,5 @@
 Id : 364  St. Louis Fed Price Pressures Measures
-STLPPM                                  Price Pressures Measure                                                                                                  NSA  01-Dec-2022  Monthly
-STLPPMDEF                               Deflation Probability                                                                                                    NSA  01-Dec-2022  Monthly
-STLPPMLOW                               Inflation Between 0 and 1.5 Percent                                                                                      NSA  01-Dec-2022  Monthly
-STLPPMMID                               Inflation Between 1.5 and 2.5 Percent                                                                                    NSA  01-Dec-2022  Monthly
+STLPPM                        Price Pressures Measure                                                                                                  NSA  01-Dec-2022  Monthly        
+STLPPMDEF                     Deflation Probability                                                                                                    NSA  01-Dec-2022  Monthly        
+STLPPMLOW                     Inflation Between 0 and 1.5 Percent                                                                                      NSA  01-Dec-2022  Monthly        
+STLPPMMID                     Inflation Between 1.5 and 2.5 Percent                                                                                    NSA  01-Dec-2022  Monthly        

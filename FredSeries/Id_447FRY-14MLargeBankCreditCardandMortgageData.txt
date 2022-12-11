@@ -1,76 +1,76 @@
 Id : 447  FR Y-14M Large Bank Credit Card and Mortgage Data
-RCCCBACTDPD30P                          Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTDPD60P                          Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTDPD90P                          Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEBALPCT50                     Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEBALPCT75                     Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 75th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEBALPCT90                     Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 90th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEUTILPCT50                    Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEUTILPCT75                    Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBACTIVEUTILPCT90                    Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBBALDPD30P                          Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBBALDPD60P                          Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBBALDPD90P                          Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBBALREV                             Large Bank Consumer Credit Card Balances: Revolving Balances Only                                                        NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBBALTOT                             Large Bank Consumer Credit Card Balances: Total Balances                                                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBCOMTOT                             Large Bank Consumer Credit Card Balances: Total Commitments                                                              NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBLIMPCT50                           Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBLIMPCT75                           Large Bank Consumer Credit Card Balances: Current Credit Limit: 75th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBLIMPCT90                           Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBNUMACT                             Large Bank Consumer Credit Card Balances: Number of Accounts                                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBPCTCLDEC                           Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBPCTCLINC                           Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSCOREPCT10                         Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSCOREPCT25                         Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSCOREPCT50                         Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSHRFULL                            Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment                                  NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSHRGTMINLTMAX                      Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the F  NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCBSHRMIN                             Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment                                   NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCOLIMPCT50                           Large Bank Consumer Credit Card Originations: Original Credit Limit: 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCOLIMPCT75                           Large Bank Consumer Credit Card Originations: Original Credit Limit: 75th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCOLIMPCT90                           Large Bank Consumer Credit Card Originations: Original Credit Limit: 90th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCONUMACT                             Large Bank Consumer Credit Card Originations: Number of New Accounts                                                     NSA  03-Oct-2022  Quarterly, Sum
-RCCCOORG                                Large Bank Consumer Credit Card Originations: New Originations                                                           NSA  03-Oct-2022  Quarterly, Sum
-RCCCOSCOREPCT10                         Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCOSCOREPCT25                         Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCCCOSCOREPCT50                         Large Bank Consumer Credit Card Originations: Original Credit Score: 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTBALPCT50                       Large Bank Consumer Mortgage Balances: Account Balance: 50th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTBALPCT75                       Large Bank Consumer Mortgage Balances: Account Balance: 75th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTBALPCT90                       Large Bank Consumer Mortgage Balances: Account Balance: 90th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTDPDPCT30P                      Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTDPDPCT60P                      Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTDPDPCT90P                      Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBACTNUM                            Large Bank Consumer Mortgage Balances: Number of Accounts                                                                NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBALDPDPCT30P                      Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBALDPDPCT60P                      Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBALDPDPCT90P                      Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBALTOT                            Large Bank Consumer Mortgage Balances: Total Balances                                                                    NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBEDTIPCT50                        Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 50th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBEDTIPCT75                        Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 75th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBBEDTIPCT90                        Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBFEDTIPCT50                        Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 50th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBFEDTIPCT75                        Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBFEDTIPCT90                        Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 90th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBOLTVPCT50                         Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBOLTVPCT75                         Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 75th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBOLTVPCT90                         Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBSCOREPCT10                        Large Bank Consumer Mortgage Balances: Current Credit Score: 10th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBSCOREPCT25                        Large Bank Consumer Mortgage Balances: Current Credit Score: 25th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLBSCOREPCT50                        Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOACT                               Large Bank Consumer Mortgage Originations: Number of New Accounts                                                        NSA  03-Oct-2022  Quarterly, Sum
-RCMFLOBEDTIPCT50                        Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOBEDTIPCT75                        Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 75th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOBEDTIPCT90                        Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 90th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOFEDTIPCT50                        Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 50th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOFEDTIPCT75                        Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOFEDTIPCT90                        Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 90th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOLTVPCT50                          Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOLTVPCT75                          Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOLTVPCT90                          Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOORIG                              Large Bank Consumer Mortgage Originations: New Originations                                                              NSA  03-Oct-2022  Quarterly, Sum
-RCMFLOORIGLOANSIZEPCT50                 Large Bank Consumer Mortgage Originations: Original Loan Size: 50th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOORIGLOANSIZEPCT75                 Large Bank Consumer Mortgage Originations: Original Loan Size: 75th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOORIGLOANSIZEPCT90                 Large Bank Consumer Mortgage Originations: Original Loan Size: 90th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOSCOREPCT10                        Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOSCOREPCT25                        Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter
-RCMFLOSCOREPCT50                        Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTDPD30P                Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTDPD60P                Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTDPD90P                Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEBALPCT50           Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEBALPCT75           Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 75th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEBALPCT90           Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 90th Percentile                         NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEUTILPCT50          Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEUTILPCT75          Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBACTIVEUTILPCT90          Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBBALDPD30P                Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBBALDPD60P                Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBBALDPD90P                Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBBALREV                   Large Bank Consumer Credit Card Balances: Revolving Balances Only                                                        NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBBALTOT                   Large Bank Consumer Credit Card Balances: Total Balances                                                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBCOMTOT                   Large Bank Consumer Credit Card Balances: Total Commitments                                                              NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBLIMPCT50                 Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBLIMPCT75                 Large Bank Consumer Credit Card Balances: Current Credit Limit: 75th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBLIMPCT90                 Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBNUMACT                   Large Bank Consumer Credit Card Balances: Number of Accounts                                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBPCTCLDEC                 Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBPCTCLINC                 Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSCOREPCT10               Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSCOREPCT25               Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSCOREPCT50               Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile                                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSHRFULL                  Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment                                  NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSHRGTMINLTMAX            Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the F  NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCBSHRMIN                   Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment                                   NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCOLIMPCT50                 Large Bank Consumer Credit Card Originations: Original Credit Limit: 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCOLIMPCT75                 Large Bank Consumer Credit Card Originations: Original Credit Limit: 75th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCOLIMPCT90                 Large Bank Consumer Credit Card Originations: Original Credit Limit: 90th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCONUMACT                   Large Bank Consumer Credit Card Originations: Number of New Accounts                                                     NSA  03-Oct-2022  Quarterly, Sum 
+RCCCOORG                      Large Bank Consumer Credit Card Originations: New Originations                                                           NSA  03-Oct-2022  Quarterly, Sum 
+RCCCOSCOREPCT10               Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCOSCOREPCT25               Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCCCOSCOREPCT50               Large Bank Consumer Credit Card Originations: Original Credit Score: 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTBALPCT50             Large Bank Consumer Mortgage Balances: Account Balance: 50th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTBALPCT75             Large Bank Consumer Mortgage Balances: Account Balance: 75th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTBALPCT90             Large Bank Consumer Mortgage Balances: Account Balance: 90th Percentile                                                  NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTDPDPCT30P            Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTDPDPCT60P            Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTDPDPCT90P            Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBACTNUM                  Large Bank Consumer Mortgage Balances: Number of Accounts                                                                NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBALDPDPCT30P            Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBALDPDPCT60P            Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBALDPDPCT90P            Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based            NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBALTOT                  Large Bank Consumer Mortgage Balances: Total Balances                                                                    NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBEDTIPCT50              Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 50th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBEDTIPCT75              Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 75th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBBEDTIPCT90              Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBFEDTIPCT50              Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 50th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBFEDTIPCT75              Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBFEDTIPCT90              Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 90th Percentile                          NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBOLTVPCT50               Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBOLTVPCT75               Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 75th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBOLTVPCT90               Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile                                     NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBSCOREPCT10              Large Bank Consumer Mortgage Balances: Current Credit Score: 10th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBSCOREPCT25              Large Bank Consumer Mortgage Balances: Current Credit Score: 25th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLBSCOREPCT50              Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile                                             NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOACT                     Large Bank Consumer Mortgage Originations: Number of New Accounts                                                        NSA  03-Oct-2022  Quarterly, Sum 
+RCMFLOBEDTIPCT50              Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOBEDTIPCT75              Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 75th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOBEDTIPCT90              Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 90th Percentile                       NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOFEDTIPCT50              Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 50th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOFEDTIPCT75              Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOFEDTIPCT90              Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 90th Percentile                      NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOLTVPCT50                Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOLTVPCT75                Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOLTVPCT90                Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile                                 NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOORIG                    Large Bank Consumer Mortgage Originations: New Originations                                                              NSA  03-Oct-2022  Quarterly, Sum 
+RCMFLOORIGLOANSIZEPCT50       Large Bank Consumer Mortgage Originations: Original Loan Size: 50th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOORIGLOANSIZEPCT75       Large Bank Consumer Mortgage Originations: Original Loan Size: 75th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOORIGLOANSIZEPCT90       Large Bank Consumer Mortgage Originations: Original Loan Size: 90th Percentile                                           NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOSCOREPCT10              Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOSCOREPCT25              Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter
+RCMFLOSCOREPCT50              Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile                                        NSA  03-Oct-2022  Quarterly, End of Quarter

@@ -1,3 +1,3 @@
 Id : 271  Weekly Financial Statements of the Eurosystem
-ECBASSETS                               Central Bank Assets for Euro Area (11-19 Countries) (DISCONTINUED)                                                       NSA  04-Feb-2020  Monthly, End of Month
-ECBASSETSW                              Central Bank Assets for Euro Area (11-19 Countries)                                                                      NSA  06-Dec-2022  Weekly
+ECBASSETS                     Central Bank Assets for Euro Area (11-19 Countries) (DISCONTINUED)                                                       NSA  04-Feb-2020  Monthly, End of Month
+ECBASSETSW                    Central Bank Assets for Euro Area (11-19 Countries)                                                                      NSA  06-Dec-2022  Weekly         

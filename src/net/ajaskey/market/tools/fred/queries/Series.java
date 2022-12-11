@@ -186,6 +186,7 @@ public class Series {
               if (f.exists()) {
                 ser.setLocalfile(fname);
                 ser.setLocalfiledate(new DateTime(f.lastModified()));
+                ser.setUpdateAvailable(ser.localfiledate.isLessThan(ser.lastUpdate));
               }
               else {
                 ser.setLocalfile("");
@@ -303,6 +304,8 @@ public class Series {
                 if (f.exists()) {
                   ser.setLocalfile(fname);
                   ser.setLocalfiledate(new DateTime(f.lastModified()));
+                  ser.setUpdateAvailable(ser.localfiledate.isLessThan(ser.lastUpdate));
+
                 }
                 else {
                   ser.setLocalfile("");
@@ -356,11 +359,13 @@ public class Series {
   private String   releaseId;
   private String   localfile;
   private DateTime localfiledate;
+  private boolean  updateAvailable;
   private boolean  valid;
 
   private DataSeries.ResponseType type;
 
   public Series() {
+    this.updateAvailable = false;
     this.valid = false;
   }
 
@@ -474,7 +479,7 @@ public class Series {
       ret += " Last Observation  : " + this.lastObservation + Utils.NL;
     }
     if (this.localfiledate != null) {
-      ret += " Local File        : " + this.localfile + "   " + this.localfiledate.toFullString();
+      ret += " Local File        : " + this.localfile + "   " + this.localfiledate.toFullString() + "   Update=" + this.updateAvailable;
     }
     else {
       ret += " File Date         : " + "File not found.";
@@ -561,4 +566,11 @@ public class Series {
     this.valid = valid;
   }
 
+  public boolean isUpdateAvailable() {
+    return updateAvailable;
+  }
+
+  void setUpdateAvailable(boolean updateAvailable) {
+    this.updateAvailable = updateAvailable;
+  }
 }

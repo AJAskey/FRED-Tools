@@ -1,203 +1,203 @@
 Id : 86  Commercial Paper
-AB1020AAAMT                             Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
-AB1020AAVOL                             Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
-AB14AAAMT                               Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
-AB14AAVOL                               Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
-AB2140AAAMT                             Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
-AB2140AAVOL                             Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
-AB4180AAAMT                             Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily
-AB4180AAVOL                             Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily
-AB59AAAMT                               Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
-AB59AAVOL                               Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
-ABCOMP                                  Asset-Backed Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
-ABCOMPN                                 Asset-Backed Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
-ABGT80AAAMT                             Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily
-ABGT80AAVOL                             Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily
-COMPAPER                                Nonfinancial Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
-COMPOUT                                 Commercial Paper Outstanding                                                                                             SA   08-Dec-2022  Weekly, Ending Wednesday
-COMPUTN                                 Commercial Paper Outstanding                                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
-DFINCP                                  Domestic Financial Commercial Paper Outstanding                                                                          SA   08-Dec-2022  Weekly, Ending Wednesday
-DFINCPN                                 Domestic Financial Commercial Paper Outstanding                                                                          NSA  08-Dec-2022  Weekly, Ending Wednesday
-DNFINCP                                 Domestic Nonfinancial Commercial Paper Outstanding                                                                       SA   08-Dec-2022  Weekly, Ending Wednesday
-DNFINCPN                                Domestic Nonfinancial Commercial Paper Outstanding                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKAM                               Asset-Backed Commercial Paper Outstanding                                                                                SA   01-Dec-2022  Monthly
-DTBSPCKANM                              Asset-Backed Commercial Paper Outstanding                                                                                NSA  01-Dec-2022  Monthly
-DTBSPCKANYRENDWW                        Asset-Backed Commercial Paper Outstanding; Maturing After December 31                                                    NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKCLCNM                            Letter of Credit (LOC) Backed Commercial Paper Outstanding (DISCONTINUED)                                                NSA  04-May-2022  Monthly
-DTBSPCKCT1NM                            Commercial Paper Outstanding, Tier-1                                                                                     NSA  01-Dec-2022  Monthly
-DTBSPCKCT1NWW                           Commercial Paper Outstanding, Tier-1                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKCT1NYRENDWW                      Commercial Paper Outstanding, Tier-1; Maturing After December 31                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKCT2NM                            Commercial Paper Outstanding, Tier-2                                                                                     NSA  01-Dec-2022  Monthly
-DTBSPCKCT2NWW                           Commercial Paper Outstanding, Tier-2                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKCT2NYRENDWW                      Commercial Paper Outstanding, Tier-2; Maturing After December 31                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFDBNM                            Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent                                                     NSA  01-Dec-2022  Monthly
-DTBSPCKFDBNWW                           Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFDM                              Domestic Financial Commercial Paper Outstanding                                                                          SA   01-Dec-2022  Monthly
-DTBSPCKFDNM                             Domestic Financial Commercial Paper Outstanding                                                                          NSA  01-Dec-2022  Monthly
-DTBSPCKFDNNM                            Domestic Financial Commercial Paper Outstanding, Foreign Nonbank Parent                                                  NSA  01-Dec-2022  Monthly
-DTBSPCKFDNNWW                           Domestic Financial Commercial Paper Outstanding, Foreign Nonbank Parent                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFDONM                            Domestic Financial Commercial Paper Outstanding, Other                                                                   NSA  01-Dec-2022  Monthly
-DTBSPCKFDONWW                           Domestic Financial Commercial Paper Outstanding, Other                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFDUNM                            Domestic Financial Commercial Paper Outstanding, U.S. Owned                                                              NSA  01-Dec-2022  Monthly
-DTBSPCKFDUNWW                           Domestic Financial Commercial Paper Outstanding, U.S. Owned                                                              NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFFBNM                            Foreign Financial Commercial Paper Outstanding, Bank or Bank-Holding Company                                             NSA  01-Dec-2022  Monthly
-DTBSPCKFFBNWW                           Foreign Financial Commercial Paper Outstanding, Bank or Bank-Holding Company                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFFM                              Foreign Financial Commercial Paper Outstanding                                                                           SA   01-Dec-2022  Monthly
-DTBSPCKFFNM                             Foreign Financial Commercial Paper Outstanding                                                                           NSA  01-Dec-2022  Monthly
-DTBSPCKFFONM                            Foreign Financial Commercial Paper Outstanding, Other                                                                    NSA  01-Dec-2022  Monthly
-DTBSPCKFFONWW                           Foreign Financial Commercial Paper Outstanding, Other                                                                    NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFM                               Financial Commercial Paper Outstanding                                                                                   SA   01-Dec-2022  Monthly
-DTBSPCKFNM                              Financial Commercial Paper Outstanding                                                                                   NSA  01-Dec-2022  Monthly
-DTBSPCKFOM                              Other Financial Commercial Paper Outstanding                                                                             SA   01-Dec-2022  Monthly
-DTBSPCKFONM                             Other Financial Commercial Paper Outstanding                                                                             NSA  01-Dec-2022  Monthly
-DTBSPCKFONWW                            Other Financial Commercial Paper Outstanding                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKFOWW                             Other Financial Commercial Paper Outstanding                                                                             SA   08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKM                                Commercial Paper Outstanding                                                                                             SA   01-Dec-2022  Monthly
-DTBSPCKNDM                              Domestic Nonfinancial Commercial Paper Outstanding                                                                       SA   01-Dec-2022  Monthly
-DTBSPCKNDNM                             Domestic Nonfinancial Commercial Paper Outstanding                                                                       NSA  01-Dec-2022  Monthly
-DTBSPCKNFM                              Foreign Nonfinancial Commercial Paper Outstanding                                                                        SA   01-Dec-2022  Monthly
-DTBSPCKNFNM                             Foreign Nonfinancial Commercial Paper Outstanding                                                                        NSA  01-Dec-2022  Monthly
-DTBSPCKNM                               Nonfinancial Commercial Paper Outstanding                                                                                SA   01-Dec-2022  Monthly
-DTBSPCKNMM                              Commercial Paper Outstanding                                                                                             NSA  01-Dec-2022  Monthly
-DTBSPCKNNM                              Nonfinancial Commercial Paper Outstanding                                                                                NSA  01-Dec-2022  Monthly
-DTBSPCKNOM                              Other Nonfinancial Commercial Paper Outstanding                                                                          SA   01-Dec-2022  Monthly
-DTBSPCKNONM                             Other Nonfinancial Commercial Paper Outstanding                                                                          NSA  01-Dec-2022  Monthly
-DTBSPCKNONWW                            Other Nonfinancial Commercial Paper Outstanding                                                                          NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKNOWW                             Other Nonfinancial Commercial Paper Outstanding                                                                          SA   08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKNYRENDWW                         Commercial Paper Outstanding; Maturing After December 31                                                                 NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKOM                               Other Commercial Paper Outstanding                                                                                       SA   01-Dec-2022  Monthly
-DTBSPCKONM                              Other Commercial Paper Outstanding                                                                                       NSA  01-Dec-2022  Monthly
-DTBSPCKPLANM                            Dealer Placed Asset-Backed Commercial Paper Outstanding                                                                  NSA  01-Dec-2022  Monthly
-DTBSPCKPLANWW                           Dealer Placed Asset-Backed Commercial Paper Outstanding                                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPLFNM                            Dealer Placed Financial Commercial Paper Outstanding                                                                     NSA  01-Dec-2022  Monthly
-DTBSPCKPLFNWW                           Dealer Placed Financial Commercial Paper Outstanding                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPLNNM                            Dealer Placed Nonfinancial Commercial Paper Outstanding                                                                  NSA  01-Dec-2022  Monthly
-DTBSPCKPLNNWW                           Dealer Placed Nonfinancial Commercial Paper Outstanding                                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPLONM                            Dealer Placed Other Commercial Paper Outstanding                                                                         NSA  01-Dec-2022  Monthly
-DTBSPCKPLONWW                           Dealer Placed Other Commercial Paper Outstanding                                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPTANM                            Directly Placed Asset-Backed Commercial Paper Outstanding                                                                NSA  01-Dec-2022  Monthly
-DTBSPCKPTANWW                           Directly Placed Asset-Backed Commercial Paper Outstanding                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPTFNM                            Directly Placed Financial Commercial Paper Outstanding                                                                   NSA  01-Dec-2022  Monthly
-DTBSPCKPTFNWW                           Directly Placed Financial Commercial Paper Outstanding                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPTNNM                            Directly Placed Nonfinancial Commercial Paper Outstanding                                                                NSA  01-Dec-2022  Monthly
-DTBSPCKPTNNWW                           Directly Placed Nonfinancial Commercial Paper Outstanding                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
-DTBSPCKPTONM                            Directly Placed Other Commercial Paper Outstanding                                                                       NSA  01-Dec-2022  Monthly
-DTBSPCKPTONWW                           Directly Placed Other Commercial Paper Outstanding                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
-FFINCP                                  Foreign Financial Commercial Paper Outstanding                                                                           SA   08-Dec-2022  Weekly, Ending Wednesday
-FFINCPN                                 Foreign Financial Commercial Paper Outstanding                                                                           NSA  08-Dec-2022  Weekly, Ending Wednesday
-FIN1020AAAMT                            Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
-FIN1020AAVOL                            Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
-FIN14AAAMT                              Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
-FIN14AAVOL                              Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
-FIN2140AAAMT                            Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
-FIN2140AAVOL                            Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
-FIN4180AAAMT                            Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily
-FIN4180AAVOL                            Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily
-FIN59AAAMT                              Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
-FIN59AAVOL                              Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
-FINCP                                   Financial Commercial Paper Outstanding                                                                                   SA   08-Dec-2022  Weekly, Ending Wednesday
-FINCPN                                  Financial Commercial Paper Outstanding                                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
-FINGT80AAAMT                            Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily
-FINGT80AAVOL                            Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily
-FNFINCP                                 Foreign Nonfinancial Commercial Paper Outstanding                                                                        SA   08-Dec-2022  Weekly, Ending Wednesday
-FNFINCPN                                Foreign Nonfinancial Commercial Paper Outstanding                                                                        NSA  08-Dec-2022  Weekly, Ending Wednesday
-H0DTBSPCKBANM                           Asset Backed Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly
-H0DTBSPCKBLNM                           Letter of Credit (LOC) Commercial Paper Outstanding (DISCONTINUED)                                                       NSA  04-May-2022  Monthly
-H0DTBSPCKCT1NM                          Commercial Paper Outstanding, Tier 1 (DISCONTINUED)                                                                      NSA  04-May-2022  Monthly
-H0DTBSPCKCT2NM                          Commercial Paper Outstanding, Tier 2 (DISCONTINUED)                                                                      NSA  04-May-2022  Monthly
-H0DTBSPCKIFDDPNM                        Domestic Financial Commercial Paper Outstanding, No Foreign Bank Parent (DISCONTINUED)                                   NSA  04-May-2022  Monthly
-H0DTBSPCKIFDFBNM                        Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent (DISCONTINUED)                                      NSA  04-May-2022  Monthly
-H0DTBSPCKIFDFXNM                        Domestic Financial Commercial Paper Outstanding, Foreign Non-Bank Parent (DISCONTINUED)                                  NSA  04-May-2022  Monthly
-H0DTBSPCKIFDM                           Domestic Financial Commercial Paper Outstanding (DISCONTINUED)                                                           SA   04-May-2022  Monthly
-H0DTBSPCKIFDNM                          Domestic Financial Commercial Paper Outstanding (DISCONTINUED)                                                           NSA  04-May-2022  Monthly
-H0DTBSPCKIFFBNM                         Foreign Financial Commercial Paper Outstanding, Bank or Bank Holding Company (DISCONTINUED)                              NSA  04-May-2022  Monthly
-H0DTBSPCKIFFM                           Foreign Financial Commercial Paper Outstanding (DISCONTINUED)                                                            SA   04-May-2022  Monthly
-H0DTBSPCKIFFNM                          Foreign Financial Commercial Paper Outstanding (DISCONTINUED)                                                            NSA  04-May-2022  Monthly
-H0DTBSPCKIFFONM                         Foreign Financial Commercial Paper Outstanding, Other (DISCONTINUED)                                                     NSA  04-May-2022  Monthly
-H0DTBSPCKIFM                            Financial Commercial Paper Outstanding (DISCONTINUED)                                                                    SA   04-May-2022  Monthly
-H0DTBSPCKIFNM                           Financial Commercial Paper Outstanding (DISCONTINUED)                                                                    NSA  04-May-2022  Monthly
-H0DTBSPCKINDM                           Domestic Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                        SA   04-May-2022  Monthly
-H0DTBSPCKINDNM                          Domestic Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                        NSA  04-May-2022  Monthly
-H0DTBSPCKINFM                           Foreign Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                         SA   04-May-2022  Monthly
-H0DTBSPCKNM                             Commercial Paper Outstanding (DISCONTINUED)                                                                              NSA  04-May-2022  Monthly
-H0DTBSPCKPDPFNM                         Directly-Placed Financial Commercial Paper Outstanding (DISCONTINUED)                                                    NSA  04-May-2022  Monthly
-H0DTBSPCKPDPNNM                         Directly-Placed Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                 NSA  04-May-2022  Monthly
-H0RIFSPPCD01NB                          Overnight Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                       NSA  04-May-2022  Daily
-H0RIFSPPCD07NB                          7-Day Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                           NSA  04-May-2022  Daily
-H0RIFSPPCD15NB                          15-Day Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                    NSA  04-May-2022  Daily
-H0RIFSPPCM01NB                          1-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H0RIFSPPCM02NB                          2-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H0RIFSPPCM03NB                          3-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H0RIFSPPFD01NB                          Overnight Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                 NSA  04-May-2022  Daily
-H0RIFSPPFD07NB                          7-Day Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                     NSA  04-May-2022  Daily
-H0RIFSPPFD15NB                          15-Day Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                    NSA  04-May-2022  Daily
-H0RIFSPPFM01NB                          1-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H0RIFSPPFM02NB                          2-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H0RIFSPPFM03NB                          3-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily
-H1DTBSPCKINFNM                          Foreign Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                         NSA  04-May-2022  Monthly
-H1DTBSPCKINM                            Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 SA   04-May-2022  Monthly
-H1DTBSPCKINNM                           Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly
-H1DTBSPCKM                              Commercial Paper Outstanding (DISCONTINUED)                                                                              SA   04-May-2022  Monthly
-MKT1020MKTAMT                           Total Value of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                            NSA  09-Dec-2022  Daily
-MKT1020MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                                 NSA  09-Dec-2022  Daily
-MKT14MKTAMT                             Total Value of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                              NSA  09-Dec-2022  Daily
-MKT14MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                                   NSA  09-Dec-2022  Daily
-MKT2140MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 21 and 40 Days                                        NSA  09-Dec-2022  Daily
-MKT2140MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 21 and 40 Days                                                 NSA  09-Dec-2022  Daily
-MKT4180MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Between 41 and 80 Days                                        NSA  09-Dec-2022  Daily
-MKT4180MKTVOL                           Number of Commercial Paper Issues with a Maturity Between 41 and 80 Days                                                 NSA  09-Dec-2022  Daily
-MKT59MKTAMT                             Total Value of Issuers of Commercial Paper with a Maturity Between 5 and 9 Days                                          NSA  09-Dec-2022  Daily
-MKT59MKTVOL                             Number of Commercial Paper Issues with a Maturity Between 5 and 9 Days                                                   NSA  09-Dec-2022  Daily
-MKTGT80MKTAMT                           Total Value of Issuers of Commercial Paper with a Maturity Greater Than 80 Days                                          NSA  09-Dec-2022  Daily
-MKTGT80MKTVOL                           Number of Commercial Paper Issues with a Maturity Greater Than 80 Days                                                   NSA  09-Dec-2022  Daily
-NFINCP                                  Nonfinancial Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
-NONFIN1020A2P2AMT                       Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
-NONFIN1020A2P2VOL                       Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFIN1020AAAMT                         Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
-NONFIN1020AAVOL                         Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
-NONFIN14A2P2AMT                         Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
-NONFIN14A2P2VOL                         Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
-NONFIN14AAAMT                           Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFIN14AAVOL                           Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
-NONFIN2140A2P2AMT                       Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
-NONFIN2140A2P2VOL                       Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFIN2140AAAMT                         Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
-NONFIN2140AAVOL                         Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
-NONFIN4180A2P2AMT                       Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily
-NONFIN4180A2P2VOL                       Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFIN4180AAAMT                         Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily
-NONFIN4180AAVOL                         Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily
-NONFIN59A2P2AMT                         Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
-NONFIN59A2P2VOL                         Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
-NONFIN59AAAMT                           Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFIN59AAVOL                           Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
-NONFINGT80A2P2AMT                       Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily
-NONFINGT80A2P2VOL                       Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily
-NONFINGT80AAAMT                         Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily
-NONFINGT80AAVOL                         Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily
-OTHCOMP                                 Other Commercial Paper Outstanding                                                                                       SA   08-Dec-2022  Weekly, Ending Wednesday
-OTHCOMPN                                Other Commercial Paper Outstanding                                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
-RIFSPPAAAD01NB                          Overnight AA Asset-Backed Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPAAAD07NB                          7-Day AA Asset-Backed Commercial Paper Interest Rate                                                                     NSA  09-Dec-2022  Daily
-RIFSPPAAAD15NB                          15-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPAAAD30NB                          30-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPAAAD60NB                          60-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPAAAD90NB                          90-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPFAAD01NB                          Overnight AA Financial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPFAAD07NB                          7-Day AA Financial Commercial Paper Interest Rate                                                                        NSA  09-Dec-2022  Daily
-RIFSPPFAAD15NB                          15-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily
-RIFSPPFAAD30NB                          30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily
-RIFSPPFAAD60NB                          60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily
-RIFSPPFAAD90NB                          90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D01NB                        Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate                                                              NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D07NB                        7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                  NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D15NB                        15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D30NB                        30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D60NB                        60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPNA2P2D90NB                        90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPNAAD01NB                          Overnight AA Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily
-RIFSPPNAAD07NB                          7-Day AA Nonfinancial Commercial Paper Interest Rate                                                                     NSA  08-Dec-2022  Daily
-RIFSPPNAAD15NB                          15-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPNAAD30NB                          30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  06-Dec-2022  Daily
-RIFSPPNAAD60NB                          60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily
-RIFSPPNAAD90NB                          90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  22-Nov-2022  Daily
+AB1020AAAMT                   Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily          
+AB1020AAVOL                   Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily          
+AB14AAAMT                     Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily          
+AB14AAVOL                     Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+AB2140AAAMT                   Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily          
+AB2140AAVOL                   Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily          
+AB4180AAAMT                   Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper  NSA  09-Dec-2022  Daily          
+AB4180AAVOL                   Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates NSA  09-Dec-2022  Daily          
+AB59AAAMT                     Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily          
+AB59AAVOL                     Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+ABCOMP                        Asset-Backed Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
+ABCOMPN                       Asset-Backed Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
+ABGT80AAAMT                   Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper R  NSA  09-Dec-2022  Daily          
+ABGT80AAVOL                   Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Asset-Backed Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+COMPAPER                      Nonfinancial Commercial Paper Outstanding                                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
+COMPOUT                       Commercial Paper Outstanding                                                                                             SA   08-Dec-2022  Weekly, Ending Wednesday
+COMPUTN                       Commercial Paper Outstanding                                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
+DFINCP                        Domestic Financial Commercial Paper Outstanding                                                                          SA   08-Dec-2022  Weekly, Ending Wednesday
+DFINCPN                       Domestic Financial Commercial Paper Outstanding                                                                          NSA  08-Dec-2022  Weekly, Ending Wednesday
+DNFINCP                       Domestic Nonfinancial Commercial Paper Outstanding                                                                       SA   08-Dec-2022  Weekly, Ending Wednesday
+DNFINCPN                      Domestic Nonfinancial Commercial Paper Outstanding                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKAM                     Asset-Backed Commercial Paper Outstanding                                                                                SA   01-Dec-2022  Monthly        
+DTBSPCKANM                    Asset-Backed Commercial Paper Outstanding                                                                                NSA  01-Dec-2022  Monthly        
+DTBSPCKANYRENDWW              Asset-Backed Commercial Paper Outstanding; Maturing After December 31                                                    NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKCLCNM                  Letter of Credit (LOC) Backed Commercial Paper Outstanding (DISCONTINUED)                                                NSA  04-May-2022  Monthly        
+DTBSPCKCT1NM                  Commercial Paper Outstanding, Tier-1                                                                                     NSA  01-Dec-2022  Monthly        
+DTBSPCKCT1NWW                 Commercial Paper Outstanding, Tier-1                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKCT1NYRENDWW            Commercial Paper Outstanding, Tier-1; Maturing After December 31                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKCT2NM                  Commercial Paper Outstanding, Tier-2                                                                                     NSA  01-Dec-2022  Monthly        
+DTBSPCKCT2NWW                 Commercial Paper Outstanding, Tier-2                                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKCT2NYRENDWW            Commercial Paper Outstanding, Tier-2; Maturing After December 31                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFDBNM                  Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent                                                     NSA  01-Dec-2022  Monthly        
+DTBSPCKFDBNWW                 Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFDM                    Domestic Financial Commercial Paper Outstanding                                                                          SA   01-Dec-2022  Monthly        
+DTBSPCKFDNM                   Domestic Financial Commercial Paper Outstanding                                                                          NSA  01-Dec-2022  Monthly        
+DTBSPCKFDNNM                  Domestic Financial Commercial Paper Outstanding, Foreign Nonbank Parent                                                  NSA  01-Dec-2022  Monthly        
+DTBSPCKFDNNWW                 Domestic Financial Commercial Paper Outstanding, Foreign Nonbank Parent                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFDONM                  Domestic Financial Commercial Paper Outstanding, Other                                                                   NSA  01-Dec-2022  Monthly        
+DTBSPCKFDONWW                 Domestic Financial Commercial Paper Outstanding, Other                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFDUNM                  Domestic Financial Commercial Paper Outstanding, U.S. Owned                                                              NSA  01-Dec-2022  Monthly        
+DTBSPCKFDUNWW                 Domestic Financial Commercial Paper Outstanding, U.S. Owned                                                              NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFFBNM                  Foreign Financial Commercial Paper Outstanding, Bank or Bank-Holding Company                                             NSA  01-Dec-2022  Monthly        
+DTBSPCKFFBNWW                 Foreign Financial Commercial Paper Outstanding, Bank or Bank-Holding Company                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFFM                    Foreign Financial Commercial Paper Outstanding                                                                           SA   01-Dec-2022  Monthly        
+DTBSPCKFFNM                   Foreign Financial Commercial Paper Outstanding                                                                           NSA  01-Dec-2022  Monthly        
+DTBSPCKFFONM                  Foreign Financial Commercial Paper Outstanding, Other                                                                    NSA  01-Dec-2022  Monthly        
+DTBSPCKFFONWW                 Foreign Financial Commercial Paper Outstanding, Other                                                                    NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFM                     Financial Commercial Paper Outstanding                                                                                   SA   01-Dec-2022  Monthly        
+DTBSPCKFNM                    Financial Commercial Paper Outstanding                                                                                   NSA  01-Dec-2022  Monthly        
+DTBSPCKFOM                    Other Financial Commercial Paper Outstanding                                                                             SA   01-Dec-2022  Monthly        
+DTBSPCKFONM                   Other Financial Commercial Paper Outstanding                                                                             NSA  01-Dec-2022  Monthly        
+DTBSPCKFONWW                  Other Financial Commercial Paper Outstanding                                                                             NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKFOWW                   Other Financial Commercial Paper Outstanding                                                                             SA   08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKM                      Commercial Paper Outstanding                                                                                             SA   01-Dec-2022  Monthly        
+DTBSPCKNDM                    Domestic Nonfinancial Commercial Paper Outstanding                                                                       SA   01-Dec-2022  Monthly        
+DTBSPCKNDNM                   Domestic Nonfinancial Commercial Paper Outstanding                                                                       NSA  01-Dec-2022  Monthly        
+DTBSPCKNFM                    Foreign Nonfinancial Commercial Paper Outstanding                                                                        SA   01-Dec-2022  Monthly        
+DTBSPCKNFNM                   Foreign Nonfinancial Commercial Paper Outstanding                                                                        NSA  01-Dec-2022  Monthly        
+DTBSPCKNM                     Nonfinancial Commercial Paper Outstanding                                                                                SA   01-Dec-2022  Monthly        
+DTBSPCKNMM                    Commercial Paper Outstanding                                                                                             NSA  01-Dec-2022  Monthly        
+DTBSPCKNNM                    Nonfinancial Commercial Paper Outstanding                                                                                NSA  01-Dec-2022  Monthly        
+DTBSPCKNOM                    Other Nonfinancial Commercial Paper Outstanding                                                                          SA   01-Dec-2022  Monthly        
+DTBSPCKNONM                   Other Nonfinancial Commercial Paper Outstanding                                                                          NSA  01-Dec-2022  Monthly        
+DTBSPCKNONWW                  Other Nonfinancial Commercial Paper Outstanding                                                                          NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKNOWW                   Other Nonfinancial Commercial Paper Outstanding                                                                          SA   08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKNYRENDWW               Commercial Paper Outstanding; Maturing After December 31                                                                 NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKOM                     Other Commercial Paper Outstanding                                                                                       SA   01-Dec-2022  Monthly        
+DTBSPCKONM                    Other Commercial Paper Outstanding                                                                                       NSA  01-Dec-2022  Monthly        
+DTBSPCKPLANM                  Dealer Placed Asset-Backed Commercial Paper Outstanding                                                                  NSA  01-Dec-2022  Monthly        
+DTBSPCKPLANWW                 Dealer Placed Asset-Backed Commercial Paper Outstanding                                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPLFNM                  Dealer Placed Financial Commercial Paper Outstanding                                                                     NSA  01-Dec-2022  Monthly        
+DTBSPCKPLFNWW                 Dealer Placed Financial Commercial Paper Outstanding                                                                     NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPLNNM                  Dealer Placed Nonfinancial Commercial Paper Outstanding                                                                  NSA  01-Dec-2022  Monthly        
+DTBSPCKPLNNWW                 Dealer Placed Nonfinancial Commercial Paper Outstanding                                                                  NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPLONM                  Dealer Placed Other Commercial Paper Outstanding                                                                         NSA  01-Dec-2022  Monthly        
+DTBSPCKPLONWW                 Dealer Placed Other Commercial Paper Outstanding                                                                         NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPTANM                  Directly Placed Asset-Backed Commercial Paper Outstanding                                                                NSA  01-Dec-2022  Monthly        
+DTBSPCKPTANWW                 Directly Placed Asset-Backed Commercial Paper Outstanding                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPTFNM                  Directly Placed Financial Commercial Paper Outstanding                                                                   NSA  01-Dec-2022  Monthly        
+DTBSPCKPTFNWW                 Directly Placed Financial Commercial Paper Outstanding                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPTNNM                  Directly Placed Nonfinancial Commercial Paper Outstanding                                                                NSA  01-Dec-2022  Monthly        
+DTBSPCKPTNNWW                 Directly Placed Nonfinancial Commercial Paper Outstanding                                                                NSA  08-Dec-2022  Weekly, Ending Wednesday
+DTBSPCKPTONM                  Directly Placed Other Commercial Paper Outstanding                                                                       NSA  01-Dec-2022  Monthly        
+DTBSPCKPTONWW                 Directly Placed Other Commercial Paper Outstanding                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
+FFINCP                        Foreign Financial Commercial Paper Outstanding                                                                           SA   08-Dec-2022  Weekly, Ending Wednesday
+FFINCPN                       Foreign Financial Commercial Paper Outstanding                                                                           NSA  08-Dec-2022  Weekly, Ending Wednesday
+FIN1020AAAMT                  Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily          
+FIN1020AAVOL                  Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily          
+FIN14AAAMT                    Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+FIN14AAVOL                    Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily          
+FIN2140AAAMT                  Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily          
+FIN2140AAVOL                  Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily          
+FIN4180AAAMT                  Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Ra  NSA  09-Dec-2022  Daily          
+FIN4180AAVOL                  Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Financial Commercial Paper Rates    NSA  09-Dec-2022  Daily          
+FIN59AAAMT                    Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+FIN59AAVOL                    Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily          
+FINCP                         Financial Commercial Paper Outstanding                                                                                   SA   08-Dec-2022  Weekly, Ending Wednesday
+FINCPN                        Financial Commercial Paper Outstanding                                                                                   NSA  08-Dec-2022  Weekly, Ending Wednesday
+FINGT80AAAMT                  Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+FINGT80AAVOL                  Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Financial Commercial Paper Rates      NSA  09-Dec-2022  Daily          
+FNFINCP                       Foreign Nonfinancial Commercial Paper Outstanding                                                                        SA   08-Dec-2022  Weekly, Ending Wednesday
+FNFINCPN                      Foreign Nonfinancial Commercial Paper Outstanding                                                                        NSA  08-Dec-2022  Weekly, Ending Wednesday
+H0DTBSPCKBANM                 Asset Backed Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly        
+H0DTBSPCKBLNM                 Letter of Credit (LOC) Commercial Paper Outstanding (DISCONTINUED)                                                       NSA  04-May-2022  Monthly        
+H0DTBSPCKCT1NM                Commercial Paper Outstanding, Tier 1 (DISCONTINUED)                                                                      NSA  04-May-2022  Monthly        
+H0DTBSPCKCT2NM                Commercial Paper Outstanding, Tier 2 (DISCONTINUED)                                                                      NSA  04-May-2022  Monthly        
+H0DTBSPCKIFDDPNM              Domestic Financial Commercial Paper Outstanding, No Foreign Bank Parent (DISCONTINUED)                                   NSA  04-May-2022  Monthly        
+H0DTBSPCKIFDFBNM              Domestic Financial Commercial Paper Outstanding, Foreign Bank Parent (DISCONTINUED)                                      NSA  04-May-2022  Monthly        
+H0DTBSPCKIFDFXNM              Domestic Financial Commercial Paper Outstanding, Foreign Non-Bank Parent (DISCONTINUED)                                  NSA  04-May-2022  Monthly        
+H0DTBSPCKIFDM                 Domestic Financial Commercial Paper Outstanding (DISCONTINUED)                                                           SA   04-May-2022  Monthly        
+H0DTBSPCKIFDNM                Domestic Financial Commercial Paper Outstanding (DISCONTINUED)                                                           NSA  04-May-2022  Monthly        
+H0DTBSPCKIFFBNM               Foreign Financial Commercial Paper Outstanding, Bank or Bank Holding Company (DISCONTINUED)                              NSA  04-May-2022  Monthly        
+H0DTBSPCKIFFM                 Foreign Financial Commercial Paper Outstanding (DISCONTINUED)                                                            SA   04-May-2022  Monthly        
+H0DTBSPCKIFFNM                Foreign Financial Commercial Paper Outstanding (DISCONTINUED)                                                            NSA  04-May-2022  Monthly        
+H0DTBSPCKIFFONM               Foreign Financial Commercial Paper Outstanding, Other (DISCONTINUED)                                                     NSA  04-May-2022  Monthly        
+H0DTBSPCKIFM                  Financial Commercial Paper Outstanding (DISCONTINUED)                                                                    SA   04-May-2022  Monthly        
+H0DTBSPCKIFNM                 Financial Commercial Paper Outstanding (DISCONTINUED)                                                                    NSA  04-May-2022  Monthly        
+H0DTBSPCKINDM                 Domestic Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                        SA   04-May-2022  Monthly        
+H0DTBSPCKINDNM                Domestic Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                        NSA  04-May-2022  Monthly        
+H0DTBSPCKINFM                 Foreign Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                         SA   04-May-2022  Monthly        
+H0DTBSPCKNM                   Commercial Paper Outstanding (DISCONTINUED)                                                                              NSA  04-May-2022  Monthly        
+H0DTBSPCKPDPFNM               Directly-Placed Financial Commercial Paper Outstanding (DISCONTINUED)                                                    NSA  04-May-2022  Monthly        
+H0DTBSPCKPDPNNM               Directly-Placed Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                 NSA  04-May-2022  Monthly        
+H0RIFSPPCD01NB                Overnight Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                       NSA  04-May-2022  Daily          
+H0RIFSPPCD07NB                7-Day Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                           NSA  04-May-2022  Daily          
+H0RIFSPPCD15NB                15-Day Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                    NSA  04-May-2022  Daily          
+H0RIFSPPCM01NB                1-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H0RIFSPPCM02NB                2-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H0RIFSPPCM03NB                3-Month Prime Commercial Paper: Average Dealer Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H0RIFSPPFD01NB                Overnight Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                 NSA  04-May-2022  Daily          
+H0RIFSPPFD07NB                7-Day Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                     NSA  04-May-2022  Daily          
+H0RIFSPPFD15NB                15-Day Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                    NSA  04-May-2022  Daily          
+H0RIFSPPFM01NB                1-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H0RIFSPPFM02NB                2-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H0RIFSPPFM03NB                3-Month Finance Paper Placed Directly: Average Offering Rate Quoted on a Discount Basis (DISCONTINUED)                   NSA  04-May-2022  Daily          
+H1DTBSPCKINFNM                Foreign Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                         NSA  04-May-2022  Monthly        
+H1DTBSPCKINM                  Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 SA   04-May-2022  Monthly        
+H1DTBSPCKINNM                 Nonfinancial Commercial Paper Outstanding (DISCONTINUED)                                                                 NSA  04-May-2022  Monthly        
+H1DTBSPCKM                    Commercial Paper Outstanding (DISCONTINUED)                                                                              SA   04-May-2022  Monthly        
+MKT1020MKTAMT                 Total Value of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                            NSA  09-Dec-2022  Daily          
+MKT1020MKTVOL                 Number of Commercial Paper Issues with a Maturity Between 10 and 20 Days                                                 NSA  09-Dec-2022  Daily          
+MKT14MKTAMT                   Total Value of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                              NSA  09-Dec-2022  Daily          
+MKT14MKTVOL                   Number of Commercial Paper Issues with a Maturity Between 1 and 4 Days                                                   NSA  09-Dec-2022  Daily          
+MKT2140MKTAMT                 Total Value of Issuers of Commercial Paper with a Maturity Between 21 and 40 Days                                        NSA  09-Dec-2022  Daily          
+MKT2140MKTVOL                 Number of Commercial Paper Issues with a Maturity Between 21 and 40 Days                                                 NSA  09-Dec-2022  Daily          
+MKT4180MKTAMT                 Total Value of Issuers of Commercial Paper with a Maturity Between 41 and 80 Days                                        NSA  09-Dec-2022  Daily          
+MKT4180MKTVOL                 Number of Commercial Paper Issues with a Maturity Between 41 and 80 Days                                                 NSA  09-Dec-2022  Daily          
+MKT59MKTAMT                   Total Value of Issuers of Commercial Paper with a Maturity Between 5 and 9 Days                                          NSA  09-Dec-2022  Daily          
+MKT59MKTVOL                   Number of Commercial Paper Issues with a Maturity Between 5 and 9 Days                                                   NSA  09-Dec-2022  Daily          
+MKTGT80MKTAMT                 Total Value of Issuers of Commercial Paper with a Maturity Greater Than 80 Days                                          NSA  09-Dec-2022  Daily          
+MKTGT80MKTVOL                 Number of Commercial Paper Issues with a Maturity Greater Than 80 Days                                                   NSA  09-Dec-2022  Daily          
+NFINCP                        Nonfinancial Commercial Paper Outstanding                                                                                SA   08-Dec-2022  Weekly, Ending Wednesday
+NONFIN1020A2P2AMT             Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily          
+NONFIN1020A2P2VOL             Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFIN1020AAAMT               Total Value of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily          
+NONFIN1020AAVOL               Number of Issues, with a Maturity Between 10 and 20 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+NONFIN14A2P2AMT               Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily          
+NONFIN14A2P2VOL               Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily          
+NONFIN14AAAMT                 Total Value of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFIN14AAVOL                 Number of Issues, with a Maturity Between 1 and 4 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+NONFIN2140A2P2AMT             Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily          
+NONFIN2140A2P2VOL             Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFIN2140AAAMT               Total Value of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily          
+NONFIN2140AAVOL               Number of Issues, with a Maturity Between 21 and 40 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+NONFIN4180A2P2AMT             Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pa  NSA  09-Dec-2022  Daily          
+NONFIN4180A2P2VOL             Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFIN4180AAAMT               Total Value of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper  NSA  09-Dec-2022  Daily          
+NONFIN4180AAVOL               Number of Issues, with a Maturity Between 41 and 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates NSA  09-Dec-2022  Daily          
+NONFIN59A2P2AMT               Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily          
+NONFIN59A2P2VOL               Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily          
+NONFIN59AAAMT                 Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFIN59AAVOL                 Number of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+NONFINGT80A2P2AMT             Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Pape  NSA  09-Dec-2022  Daily          
+NONFINGT80A2P2VOL             Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rat  NSA  09-Dec-2022  Daily          
+NONFINGT80AAAMT               Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper R  NSA  09-Dec-2022  Daily          
+NONFINGT80AAVOL               Number of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates   NSA  09-Dec-2022  Daily          
+OTHCOMP                       Other Commercial Paper Outstanding                                                                                       SA   08-Dec-2022  Weekly, Ending Wednesday
+OTHCOMPN                      Other Commercial Paper Outstanding                                                                                       NSA  08-Dec-2022  Weekly, Ending Wednesday
+RIFSPPAAAD01NB                Overnight AA Asset-Backed Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPAAAD07NB                7-Day AA Asset-Backed Commercial Paper Interest Rate                                                                     NSA  09-Dec-2022  Daily          
+RIFSPPAAAD15NB                15-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPAAAD30NB                30-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPAAAD60NB                60-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPAAAD90NB                90-Day AA Asset-Backed Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPFAAD01NB                Overnight AA Financial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPFAAD07NB                7-Day AA Financial Commercial Paper Interest Rate                                                                        NSA  09-Dec-2022  Daily          
+RIFSPPFAAD15NB                15-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily          
+RIFSPPFAAD30NB                30-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  08-Dec-2022  Daily          
+RIFSPPFAAD60NB                60-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  06-Dec-2022  Daily          
+RIFSPPFAAD90NB                90-Day AA Financial Commercial Paper Interest Rate                                                                       NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D01NB              Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate                                                              NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D07NB              7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                  NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D15NB              15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D30NB              30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D60NB              60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPNA2P2D90NB              90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPNAAD01NB                Overnight AA Nonfinancial Commercial Paper Interest Rate                                                                 NSA  09-Dec-2022  Daily          
+RIFSPPNAAD07NB                7-Day AA Nonfinancial Commercial Paper Interest Rate                                                                     NSA  08-Dec-2022  Daily          
+RIFSPPNAAD15NB                15-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPNAAD30NB                30-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  06-Dec-2022  Daily          
+RIFSPPNAAD60NB                60-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  09-Dec-2022  Daily          
+RIFSPPNAAD90NB                90-Day AA Nonfinancial Commercial Paper Interest Rate                                                                    NSA  22-Nov-2022  Daily          

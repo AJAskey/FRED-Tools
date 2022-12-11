@@ -1,418 +1,418 @@
 Id : 11  Employment Cost Index
-CIS1010000000000I                       Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations (DISCONTINUED)      SA   31-Jan-2018  Quarterly
-CIS1013000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Manufacturing                                      SA   28-Oct-2022  Quarterly
-CIS1016000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Education and health services                      SA   28-Oct-2022  Quarterly
-CIS1016100000000I                       Employment Cost Index: Total compensation for All Civilian workers in Education services                                 SA   28-Oct-2022  Quarterly
-CIS1016110000000I                       Employment Cost Index: Total compensation for All Civilian workers in Elementary and secondary schools                   SA   28-Oct-2022  Quarterly
-CIS1016120000000I                       Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and prof  SA   28-Oct-2022  Quarterly
-CIS1016200000000I                       Employment Cost Index: Total compensation for All Civilian workers in Health care and social assistance                  SA   28-Oct-2022  Quarterly
-CIS1016220000000I                       Employment Cost Index: Total compensation for All Civilian workers in Hospitals                                          SA   28-Oct-2022  Quarterly
-CIS1016230000000I                       Employment Cost Index: Total compensation for All Civilian workers in Nursing and residential care facilities            SA   28-Oct-2022  Quarterly
-CIS1019200000000I                       Employment Cost Index: Total compensation for All Civilian workers in Public administration                              SA   28-Oct-2022  Quarterly
-CIS101G000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly
-CIS101S000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Service-providing industries                       SA   28-Oct-2022  Quarterly
-CIS1020000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations                     SA   28-Oct-2022  Quarterly
-CIS1023000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Manufacturing                                      SA   28-Oct-2022  Quarterly
-CIS1026000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Education and health services                      SA   28-Oct-2022  Quarterly
-CIS1026100000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Education services                                 SA   28-Oct-2022  Quarterly
-CIS1026110000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Elementary and secondary schools                   SA   28-Oct-2022  Quarterly
-CIS1026120000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Junior colleges, colleges, universities, and prof  SA   28-Oct-2022  Quarterly
-CIS1026200000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Health care and social assistance                  SA   28-Oct-2022  Quarterly
-CIS1026220000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Hospitals                                          SA   28-Oct-2022  Quarterly
-CIS1026230000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Nursing and residential care facilities            SA   28-Oct-2022  Quarterly
-CIS1029200000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Public administration                              SA   28-Oct-2022  Quarterly
-CIS102G000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly
-CIS102S000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Service-providing industries                       SA   28-Oct-2022  Quarterly
-CIS1030000000000I                       Employment Cost Index: Total benefits for All Civilian workers in All industries and occupations                         SA   28-Oct-2022  Quarterly
-CIS2010000000000I                       Employment Cost Index: Total compensation for Private industry workers in All industries and occupations (DISCONTINUED)  SA   31-Jan-2018  Quarterly
-CIS2010000100000I                       Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related          SA   28-Oct-2022  Quarterly
-CIS2010000110000I                       Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial            SA   28-Oct-2022  Quarterly
-CIS2010000120000I                       Employment Cost Index: Total compensation for Private industry workers in Professional and related                       SA   28-Oct-2022  Quarterly
-CIS2010000200000I                       Employment Cost Index: Total compensation for Private industry workers in Sales and office                               SA   28-Oct-2022  Quarterly
-CIS2010000210000I                       Employment Cost Index: Total compensation for Private industry workers in Sales and related                              SA   28-Oct-2022  Quarterly
-CIS2010000220000I                       Employment Cost Index: Total compensation for Private industry workers in Office and administrative support              SA   28-Oct-2022  Quarterly
-CIS2010000400000I                       Employment Cost Index: Total compensation for Private industry workers in Natural resources, construction, and maintena  SA   28-Oct-2022  Quarterly
-CIS2010000405000I                       Employment Cost Index: Total compensation for Private industry workers in Construction, extraction, farming, fishing, a  SA   28-Oct-2022  Quarterly
-CIS2010000430000I                       Employment Cost Index: Total compensation for Private industry workers in Installation, maintenance, and repair          SA   28-Oct-2022  Quarterly
-CIS2010000500000I                       Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  SA   28-Oct-2022  Quarterly
-CIS2010000510000I                       Employment Cost Index: Total compensation for Private industry workers in Production                                     SA   28-Oct-2022  Quarterly
-CIS2010000520000I                       Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving             SA   28-Oct-2022  Quarterly
-CIS2013000000000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing (DISCONTINUED)                   SA   31-Jan-2018  Quarterly
-CIS2013211000000I                       Employment Cost Index: Total compensation for Private industry workers in Aircraft manufacturing                         SA   28-Oct-2022  Quarterly
-CIS2014000000000I                       Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities           SA   28-Oct-2022  Quarterly
-CIS2014110000000I                       Employment Cost Index: Total compensation for Private industry workers in Wholesale trade                                SA   28-Oct-2022  Quarterly
-CIS2014120000000I                       Employment Cost Index: Total compensation for Private industry workers in Retail trade                                   SA   28-Oct-2022  Quarterly
-CIS2014300000000I                       Employment Cost Index: Total compensation for Private industry workers in Transportation and warehousing                 SA   28-Oct-2022  Quarterly
-CIS2014400000000I                       Employment Cost Index: Total compensation for Private industry workers in Utilities                                      SA   28-Oct-2022  Quarterly
-CIS2015100000000I                       Employment Cost Index: Total compensation for Private industry workers in Information                                    SA   28-Oct-2022  Quarterly
-CIS2015200000000I                       Employment Cost Index: Total compensation for Private industry workers in Finance and insurance                          SA   28-Oct-2022  Quarterly
-CIS201520A000000I                       Employment Cost Index: Total compensation for Private industry workers in Financial activities                           SA   28-Oct-2022  Quarterly
-CIS2015220000000I                       Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related activities   SA   28-Oct-2022  Quarterly
-CIS2015240000000I                       Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related activities      SA   28-Oct-2022  Quarterly
-CIS2015300000000I                       Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing             SA   28-Oct-2022  Quarterly
-CIS2015400000000I                       Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical servi  SA   28-Oct-2022  Quarterly
-CIS201540A000000I                       Employment Cost Index: Total compensation for Private industry workers in Professional and business services             SA   28-Oct-2022  Quarterly
-CIS2015600000000I                       Employment Cost Index: Total compensation for Private industry workers in Administrative and support and waste manageme  SA   28-Oct-2022  Quarterly
-CIS2016000000000I                       Employment Cost Index: Total compensation for Private industry workers in Education and health services                  SA   28-Oct-2022  Quarterly
-CIS2016100000000I                       Employment Cost Index: Total compensation for Private industry workers in Education services                             SA   28-Oct-2022  Quarterly
-CIS2016120000000I                       Employment Cost Index: Total compensation for Private industry workers in Junior colleges, colleges, universities, and   SA   28-Oct-2022  Quarterly
-CIS2016200000000I                       Employment Cost Index: Total compensation for Private industry workers in Health care and social assistance              SA   28-Oct-2022  Quarterly
-CIS2016220000000I                       Employment Cost Index: Total compensation for Private industry workers in Hospitals                                      SA   28-Oct-2022  Quarterly
-CIS2016230000000I                       Employment Cost Index: Total compensation for Private industry workers in Nursing and residential care facilities        SA   28-Oct-2022  Quarterly
-CIS2017000000000I                       Employment Cost Index: Total compensation for Private industry workers in Leisure and hospitality                        SA   28-Oct-2022  Quarterly
-CIS2017200000000I                       Employment Cost Index: Total compensation for Private industry workers in Accommodations and food service                SA   28-Oct-2022  Quarterly
-CIS2018100000000I                       Employment Cost Index: Total compensation for Private industry workers in Other services, except public administration   SA   28-Oct-2022  Quarterly
-CIS201G000000000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing industries                     SA   28-Oct-2022  Quarterly
-CIS201S000000000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing industries                   SA   28-Oct-2022  Quarterly
-CIS2020000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations (DISCONTINUED)  SA   31-Jan-2018  Quarterly
-CIS2020000100000I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related          SA   28-Oct-2022  Quarterly
-CIS2020000110000I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial            SA   28-Oct-2022  Quarterly
-CIS2020000120000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional and related                       SA   28-Oct-2022  Quarterly
-CIS2020000200000I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and office                               SA   28-Oct-2022  Quarterly
-CIS2020000210000I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and related                              SA   29-Jan-2021  Quarterly
-CIS2020000220000I                       Employment Cost Index: Wages and salaries for Private industry workers in Office and administrative support              SA   28-Oct-2022  Quarterly
-CIS2020000300000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service occupations                            SA   28-Oct-2022  Quarterly
-CIS2020000400000I                       Employment Cost Index: Wages and salaries for Private industry workers in Natural resources, construction, and maintena  SA   28-Oct-2022  Quarterly
-CIS2020000405000I                       Employment Cost Index: Wages and salaries for Private industry workers in Construction, extraction, farming, fishing, a  SA   28-Oct-2022  Quarterly
-CIS2020000430000I                       Employment Cost Index: Wages and salaries for Private industry workers in Installation, maintenance, and repair          SA   28-Oct-2022  Quarterly
-CIS2020000500000I                       Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  SA   28-Oct-2022  Quarterly
-CIS2020000510000I                       Employment Cost Index: Wages and salaries for Private industry workers in Production                                     SA   28-Oct-2022  Quarterly
-CIS2020000520000I                       Employment Cost Index: Wages and salaries for Private industry workers in Transportation and material moving             SA   28-Oct-2022  Quarterly
-CIS2023211000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing                         SA   28-Oct-2022  Quarterly
-CIS2024000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities           SA   28-Oct-2022  Quarterly
-CIS2024120000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Retail trade                                   SA   28-Oct-2022  Quarterly
-CIS2024300000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Transportation and warehousing                 SA   28-Oct-2022  Quarterly
-CIS2024400000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Utilities                                      SA   28-Oct-2022  Quarterly
-CIS2025100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Information                                    SA   28-Oct-2022  Quarterly
-CIS2025200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Finance and insurance                          SA   28-Oct-2022  Quarterly
-CIS202520A000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Financial activities                           SA   28-Oct-2022  Quarterly
-CIS2025220000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related activities   SA   28-Oct-2022  Quarterly
-CIS2025240000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related activities      SA   28-Oct-2022  Quarterly
-CIS2025400000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical servi  SA   28-Oct-2022  Quarterly
-CIS202540A000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional and business services             SA   28-Oct-2022  Quarterly
-CIS2025600000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Administrative and support and waste manageme  SA   31-Jan-2018  Quarterly
-CIS2026000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Education and health services                  SA   28-Oct-2022  Quarterly
-CIS2026100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Education services                             SA   28-Oct-2022  Quarterly
-CIS2026120000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Junior colleges, colleges, universities, and   SA   28-Oct-2022  Quarterly
-CIS2026200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Health care and social assistance              SA   28-Oct-2022  Quarterly
-CIS2026220000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Hospitals                                      SA   28-Oct-2022  Quarterly
-CIS2026230000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Nursing and residential care facilities        SA   28-Oct-2022  Quarterly
-CIS2027000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Leisure and hospitality                        SA   28-Oct-2022  Quarterly
-CIS2027200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Accommodations and food service                SA   28-Oct-2022  Quarterly
-CIS2028100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Other services, except public administration   SA   28-Oct-2022  Quarterly
-CIS202G000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing industries                     SA   28-Oct-2022  Quarterly
-CIS202S000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing industries                   SA   28-Oct-2022  Quarterly
-CIS2030000000000I                       Employment Cost Index: Total benefits for Private industry workers in All industries and occupations (DISCONTINUED)      SA   31-Jan-2018  Quarterly
-CIS2030000100000I                       Employment Cost Index: Total benefits for Private industry workers in Management, professional, and related              SA   28-Oct-2022  Quarterly
-CIS2030000200000I                       Employment Cost Index: Total benefits for Private industry workers in Sales and office                                   SA   28-Oct-2022  Quarterly
-CIS2030000400000I                       Employment Cost Index: Total benefits for Private industry workers in Natural resources, construction, and maintenance   SA   28-Oct-2022  Quarterly
-CIS2030000500000I                       Employment Cost Index: Total benefits for Private industry workers in Production, transportation, and material moving    SA   28-Oct-2022  Quarterly
-CIS203G000000000I                       Employment Cost Index: Total benefits for Private industry workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly
-CIS203S000000000I                       Employment Cost Index: Total benefits for Private industry workers in Service-providing industries                       SA   28-Oct-2022  Quarterly
-CIS3010000000000I                       Employment Cost Index: Total compensation for State and local government workers in All industries and occupations (DIS  SA   31-Jan-2018  Quarterly
-CIS3016000000000I                       Employment Cost Index: Total compensation for State and local government workers in Education and health services        SA   28-Oct-2022  Quarterly
-CIS3016100000000I                       Employment Cost Index: Total compensation for State and local government workers in Education services                   SA   28-Oct-2022  Quarterly
-CIS3016105000000I                       Employment Cost Index: Total compensation for State and local government workers in Schools                              SA   28-Oct-2022  Quarterly
-CIS3016110000000I                       Employment Cost Index: Total compensation for State and local government workers in Elementary and secondary schools     SA   28-Oct-2022  Quarterly
-CIS3016200000000I                       Employment Cost Index: Total compensation for State and local government workers in Health care and social assistance    SA   28-Oct-2022  Quarterly
-CIS3016220000000I                       Employment Cost Index: Total compensation for State and local government workers in Hospitals                            SA   28-Oct-2022  Quarterly
-CIS3019200000000I                       Employment Cost Index: Total compensation for State and local government workers in Public administration                SA   28-Oct-2022  Quarterly
-CIS3026000000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Education and health services        SA   28-Oct-2022  Quarterly
-CIS3026100000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Education services                   SA   28-Oct-2022  Quarterly
-CIS3026105000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Schools                              SA   28-Oct-2022  Quarterly
-CIS3026110000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Elementary and secondary schools     SA   28-Oct-2022  Quarterly
-CIS3026200000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Health care and social assistance    SA   28-Oct-2022  Quarterly
-CIS3026220000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Hospitals                            SA   28-Oct-2022  Quarterly
-CIS3029200000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Public administration                SA   28-Oct-2022  Quarterly
-CIU1010000000000I                       Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly
-CIU1010000000710I                       Employment Cost Index: Total compensation for All Civilian workers in All workers, excluding incentive paid              NSA  28-Oct-2022  Quarterly
-CIU1010000100000I                       Employment Cost Index: Total compensation for All Civilian workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly
-CIU1010000110000I                       Employment Cost Index: Total compensation for All Civilian workers in Management, business, and financial                NSA  28-Oct-2022  Quarterly
-CIU1010000120000I                       Employment Cost Index: Total compensation for All Civilian workers in Professional and related                           NSA  28-Oct-2022  Quarterly
-CIU1010000200000I                       Employment Cost Index: Total compensation for All Civilian workers in Sales and office                                   NSA  28-Oct-2022  Quarterly
-CIU1010000210000I                       Employment Cost Index: Total compensation for All Civilian workers in Sales and related                                  NSA  28-Oct-2022  Quarterly
-CIU1010000220000I                       Employment Cost Index: Total compensation for All Civilian workers in Office and administrative support                  NSA  28-Oct-2022  Quarterly
-CIU1010000300000I                       Employment Cost Index: Total compensation for All Civilian workers in Service occupations                                NSA  28-Oct-2022  Quarterly
-CIU1010000400000I                       Employment Cost Index: Total compensation for All Civilian workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly
-CIU1010000405000I                       Employment Cost Index: Total compensation for All Civilian workers in Construction, extraction, farming, fishing, and f  NSA  28-Oct-2022  Quarterly
-CIU1010000430000I                       Employment Cost Index: Total compensation for All Civilian workers in Installation, maintenance, and repair              NSA  28-Oct-2022  Quarterly
-CIU1010000500000I                       Employment Cost Index: Total compensation for All Civilian workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly
-CIU1010000510000I                       Employment Cost Index: Total compensation for All Civilian workers in Production                                         NSA  28-Oct-2022  Quarterly
-CIU1010000520000I                       Employment Cost Index: Total compensation for All Civilian workers in Transportation and material moving                 NSA  28-Oct-2022  Quarterly
-CIU1013000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly
-CIU1016000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Education and health services                      NSA  28-Oct-2022  Quarterly
-CIU1016100000000I                       Employment Cost Index: Total compensation for All Civilian workers in Education services                                 NSA  28-Oct-2022  Quarterly
-CIU1016110000000I                       Employment Cost Index: Total compensation for All Civilian workers in Elementary and secondary schools                   NSA  28-Oct-2022  Quarterly
-CIU1016120000000I                       Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and prof  NSA  28-Oct-2022  Quarterly
-CIU1016200000000I                       Employment Cost Index: Total compensation for All Civilian workers in Health care and social assistance                  NSA  28-Oct-2022  Quarterly
-CIU1016220000000I                       Employment Cost Index: Total compensation for All Civilian workers in Hospitals                                          NSA  28-Oct-2022  Quarterly
-CIU1016230000000I                       Employment Cost Index: Total compensation for All Civilian workers in Nursing and residential care facilities            NSA  28-Oct-2022  Quarterly
-CIU1019200000000I                       Employment Cost Index: Total compensation for All Civilian workers in Public administration                              NSA  28-Oct-2022  Quarterly
-CIU101G000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly
-CIU101S000000000I                       Employment Cost Index: Total compensation for All Civilian workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly
-CIU1020000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly
-CIU1020000000710I                       Employment Cost Index: Wages and salaries for All Civilian workers in All workers, excluding incentive paid              NSA  28-Oct-2022  Quarterly
-CIU1020000100000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly
-CIU1020000110000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Management, business, and financial                NSA  28-Oct-2022  Quarterly
-CIU1020000120000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Professional and related                           NSA  28-Oct-2022  Quarterly
-CIU1020000200000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Sales and office                                   NSA  28-Oct-2022  Quarterly
-CIU1020000210000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Sales and related                                  NSA  28-Oct-2022  Quarterly
-CIU1020000220000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Office and administrative support                  NSA  28-Oct-2022  Quarterly
-CIU1020000300000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Service occupations                                NSA  28-Oct-2022  Quarterly
-CIU1020000400000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly
-CIU1020000405000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Construction, extraction, farming, fishing, and f  NSA  28-Oct-2022  Quarterly
-CIU1020000430000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Installation, maintenance, and repair              NSA  28-Oct-2022  Quarterly
-CIU1020000500000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly
-CIU1020000510000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Production                                         NSA  28-Oct-2022  Quarterly
-CIU1020000520000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Transportation and material moving                 NSA  28-Oct-2022  Quarterly
-CIU1023000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly
-CIU1026000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Education and health services                      NSA  28-Oct-2022  Quarterly
-CIU1026100000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Education services                                 NSA  28-Oct-2022  Quarterly
-CIU1026110000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Elementary and secondary schools                   NSA  28-Oct-2022  Quarterly
-CIU1026120000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Junior colleges, colleges, universities, and prof  NSA  28-Oct-2022  Quarterly
-CIU1026200000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Health care and social assistance                  NSA  28-Oct-2022  Quarterly
-CIU1026220000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Hospitals                                          NSA  28-Oct-2022  Quarterly
-CIU1026230000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Nursing and residential care facilities            NSA  28-Oct-2022  Quarterly
-CIU1029200000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Public administration                              NSA  28-Oct-2022  Quarterly
-CIU102G000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly
-CIU102S000000000I                       Employment Cost Index: Wages and salaries for All Civilian workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly
-CIU1030000000000I                       Employment Cost Index: Total benefits for All Civilian workers in All industries and occupations                         NSA  28-Oct-2022  Quarterly
-CIU2010000000000I                       Employment Cost Index: Total compensation for Private industry workers in All industries and occupations                 NSA  28-Oct-2022  Quarterly
-CIU2010000000210I                       Employment Cost Index: Total compensation for Private industry workers in the Northeast Census Region                    NSA  28-Oct-2022  Quarterly
-CIU2010000000211I                       Employment Cost Index: Total compensation for Private industry workers in the New England Census Division                NSA  28-Oct-2022  Quarterly
-CIU2010000000212I                       Employment Cost Index: Total compensation for Private industry workers in the Middle Atlantic Census Division            NSA  28-Oct-2022  Quarterly
-CIU2010000000220I                       Employment Cost Index: Total compensation for Private industry workers in the South Census Region                        NSA  28-Oct-2022  Quarterly
-CIU2010000000225I                       Employment Cost Index: Total compensation for Private industry workers in the South Atlantic Census Division             NSA  28-Oct-2022  Quarterly
-CIU2010000000226I                       Employment Cost Index: Total compensation for Private industry workers in the East South Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2010000000227I                       Employment Cost Index: Total compensation for Private industry workers in the West South Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2010000000230I                       Employment Cost Index: Total compensation for Private industry workers in the Midwest Census Region                      NSA  28-Oct-2022  Quarterly
-CIU2010000000233I                       Employment Cost Index: Total compensation for Private industry workers in the East North Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2010000000234I                       Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2010000000240I                       Employment Cost Index: Total compensation for Private industry workers in the West Census Region                         NSA  28-Oct-2022  Quarterly
-CIU2010000000248I                       Employment Cost Index: Total compensation for Private industry workers in the Mountain Census Division                   NSA  28-Oct-2022  Quarterly
-CIU2010000000249I                       Employment Cost Index: Total compensation for Private industry workers in the Pacific Census Division                    NSA  28-Oct-2022  Quarterly
-CIU2010000000510I                       Employment Cost Index: Total compensation for Private industry workers in All union workers                              NSA  28-Oct-2022  Quarterly
-CIU2010000000520I                       Employment Cost Index: Total compensation for Private industry workers in All nonunion workers                           NSA  28-Oct-2022  Quarterly
-CIU2010000000710I                       Employment Cost Index: Total compensation for Private industry workers in All workers, excluding incentive paid          NSA  28-Oct-2022  Quarterly
-CIU2010000100000I                       Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related          NSA  28-Oct-2022  Quarterly
-CIU2010000100710I                       Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related; exclud  NSA  28-Oct-2022  Quarterly
-CIU2010000110000I                       Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial            NSA  28-Oct-2022  Quarterly
-CIU2010000110710I                       Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial; excludin  NSA  28-Oct-2022  Quarterly
-CIU2010000120000I                       Employment Cost Index: Total compensation for Private industry workers in Professional and related                       NSA  28-Oct-2022  Quarterly
-CIU2010000200000I                       Employment Cost Index: Total compensation for Private industry workers in Sales and office                               NSA  28-Oct-2022  Quarterly
-CIU2010000200710I                       Employment Cost Index: Total compensation for Private industry workers in Sales and office, excluding incentive paid     NSA  28-Oct-2022  Quarterly
-CIU2010000210000I                       Employment Cost Index: Total compensation for Private industry workers in Sales and related                              NSA  28-Oct-2022  Quarterly
-CIU2010000210710I                       Employment Cost Index: Total compensation for Private industry workers in Sales and related, excluding incentive paid    NSA  28-Oct-2022  Quarterly
-CIU2010000220000I                       Employment Cost Index: Total compensation for Private industry workers in Office and administrative support              NSA  28-Oct-2022  Quarterly
-CIU2010000300000I                       Employment Cost Index: Total compensation for Private industry workers in Service occupations                            NSA  28-Oct-2022  Quarterly
-CIU2010000400000I                       Employment Cost Index: Total compensation for Private industry workers in Natural resources, construction, and maintena  NSA  28-Oct-2022  Quarterly
-CIU2010000405000I                       Employment Cost Index: Total compensation for Private industry workers in Construction, extraction, farming, fishing, a  NSA  28-Oct-2022  Quarterly
-CIU2010000430000I                       Employment Cost Index: Total compensation for Private industry workers in Installation, maintenance, and repair          NSA  28-Oct-2022  Quarterly
-CIU2010000500000I                       Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly
-CIU2010000500710I                       Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly
-CIU2010000510000I                       Employment Cost Index: Total compensation for Private industry workers in Production                                     NSA  28-Oct-2022  Quarterly
-CIU2010000510710I                       Employment Cost Index: Total compensation for Private industry workers in Production, exluding incentive paid            NSA  28-Oct-2022  Quarterly
-CIU2010000520000I                       Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving             NSA  28-Oct-2022  Quarterly
-CIU2012300000000I                       Employment Cost Index: Total compensation for Private industry workers in Construction                                   NSA  28-Oct-2022  Quarterly
-CIU2013000000000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing                                  NSA  28-Oct-2022  Quarterly
-CIU2013000000510I                       Employment Cost Index: Total compensation for Private industry workers in Union, manufacturing                           NSA  28-Oct-2022  Quarterly
-CIU2013000000520I                       Employment Cost Index: Total compensation for Private industry workers in Nonunion, manufacturing                        NSA  28-Oct-2022  Quarterly
-CIU2013000100000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing; management, professional, and   NSA  28-Oct-2022  Quarterly
-CIU2013000200000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing, sales and office occupations    NSA  28-Oct-2022  Quarterly
-CIU2013000400000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing; natural resources, constructio  NSA  28-Oct-2022  Quarterly
-CIU2013000500000I                       Employment Cost Index: Total compensation for Private industry workers in Manufacturing; production, transportation, an  NSA  28-Oct-2022  Quarterly
-CIU2013211000000I                       Employment Cost Index: Total compensation for Private industry workers in Aircraft manufacturing                         NSA  28-Oct-2022  Quarterly
-CIU2014000000000I                       Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities           NSA  28-Oct-2022  Quarterly
-CIU2014000000710I                       Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities, excludi  NSA  28-Oct-2022  Quarterly
-CIU2014110000000I                       Employment Cost Index: Total compensation for Private industry workers in Wholesale trade                                NSA  28-Oct-2022  Quarterly
-CIU2014110000710I                       Employment Cost Index: Total compensation for Private industry workers in Wholesale trade, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly
-CIU2014120000000I                       Employment Cost Index: Total compensation for Private industry workers in Retail trade                                   NSA  28-Oct-2022  Quarterly
-CIU2014120000710I                       Employment Cost Index: Total compensation for Private industry workers in Retail trade, excluding incentive paid occupa  NSA  28-Oct-2022  Quarterly
-CIU2014300000000I                       Employment Cost Index: Total compensation for Private industry workers in Transportation and warehousing                 NSA  28-Oct-2022  Quarterly
-CIU2014400000000I                       Employment Cost Index: Total compensation for Private industry workers in Utilities                                      NSA  28-Oct-2022  Quarterly
-CIU2015100000000I                       Employment Cost Index: Total compensation for Private industry workers in Information                                    NSA  28-Oct-2022  Quarterly
-CIU2015200000000I                       Employment Cost Index: Total compensation for Private industry workers in Finance and insurance                          NSA  28-Oct-2022  Quarterly
-CIU201520A000000I                       Employment Cost Index: Total compensation for Private industry workers in Financial activities                           NSA  28-Oct-2022  Quarterly
-CIU201520A000710I                       Employment Cost Index: Total compensation for Private industry workers in Financial activities, excluding incentive pai  NSA  28-Oct-2022  Quarterly
-CIU2015220000000I                       Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related activities   NSA  28-Oct-2022  Quarterly
-CIU2015220000710I                       Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related, excluding   NSA  28-Oct-2022  Quarterly
-CIU2015240000000I                       Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related activities      NSA  28-Oct-2022  Quarterly
-CIU2015240000710I                       Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related, excluding inc  NSA  28-Oct-2022  Quarterly
-CIU2015300000000I                       Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing             NSA  28-Oct-2022  Quarterly
-CIU2015300000710I                       Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing, excluding  NSA  28-Oct-2022  Quarterly
-CIU2015400000000I                       Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical servi  NSA  28-Oct-2022  Quarterly
-CIU201540A000000I                       Employment Cost Index: Total compensation for Private industry workers in Professional and business services             NSA  28-Oct-2022  Quarterly
-CIU2015600000000I                       Employment Cost Index: Total compensation for Private industry workers in Administrative and support and waste manageme  NSA  28-Oct-2022  Quarterly
-CIU2016000000000I                       Employment Cost Index: Total compensation for Private industry workers in Education and health services                  NSA  28-Oct-2022  Quarterly
-CIU2016100000000I                       Employment Cost Index: Total compensation for Private industry workers in Education services                             NSA  28-Oct-2022  Quarterly
-CIU2016120000000I                       Employment Cost Index: Total compensation for Private industry workers in Junior colleges, colleges, universities, and   NSA  28-Oct-2022  Quarterly
-CIU2016200000000I                       Employment Cost Index: Total compensation for Private industry workers in Health care and social assistance              NSA  28-Oct-2022  Quarterly
-CIU2016220000000I                       Employment Cost Index: Total compensation for Private industry workers in Hospitals                                      NSA  28-Oct-2022  Quarterly
-CIU2016230000000I                       Employment Cost Index: Total compensation for Private industry workers in Nursing and residential care facilities        NSA  28-Oct-2022  Quarterly
-CIU2016231000000I                       Employment Cost Index: Total compensation for Private industry workers in Nursing care facilities                        NSA  28-Oct-2022  Quarterly
-CIU2017000000000I                       Employment Cost Index: Total compensation for Private industry workers in Leisure and hospitality                        NSA  28-Oct-2022  Quarterly
-CIU2017200000000I                       Employment Cost Index: Total compensation for Private industry workers in Accommodations and food service                NSA  28-Oct-2022  Quarterly
-CIU2018100000000I                       Employment Cost Index: Total compensation for Private industry workers in Other services, except public administration   NSA  28-Oct-2022  Quarterly
-CIU201G000000000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing industries                     NSA  28-Oct-2022  Quarterly
-CIU201G000000510I                       Employment Cost Index: Total compensation for Private industry workers in Union, goods-producing industries              NSA  28-Oct-2022  Quarterly
-CIU201G000000520I                       Employment Cost Index: Total compensation for Private industry workers in Nonunion, goods-producing industries           NSA  28-Oct-2022  Quarterly
-CIU201G000000710I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly
-CIU201G000100000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing; management, professional, an  NSA  28-Oct-2022  Quarterly
-CIU201G000200000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing, sales and office occupations  NSA  28-Oct-2022  Quarterly
-CIU201G000400000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing; natural resources, construct  NSA  28-Oct-2022  Quarterly
-CIU201G000500000I                       Employment Cost Index: Total compensation for Private industry workers in Goods-producing; production, transportation,   NSA  28-Oct-2022  Quarterly
-CIU201S000000000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing industries                   NSA  28-Oct-2022  Quarterly
-CIU201S000000510I                       Employment Cost Index: Total compensation for Private industry workers in Union, service-providing industries            NSA  28-Oct-2022  Quarterly
-CIU201S000000520I                       Employment Cost Index: Total compensation for Private industry workers in Nonunion, service-providing industries         NSA  28-Oct-2022  Quarterly
-CIU201S000000710I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing, excluding incentive paid o  NSA  28-Oct-2022  Quarterly
-CIU201S000100000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing; management, professional,   NSA  28-Oct-2022  Quarterly
-CIU201S000200000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing, sales and office occupatio  NSA  28-Oct-2022  Quarterly
-CIU201S000300000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing, service occupations         NSA  28-Oct-2022  Quarterly
-CIU201S000400000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing; natural resources, constru  NSA  28-Oct-2022  Quarterly
-CIU201S000500000I                       Employment Cost Index: Total compensation for Private industry workers in Service-providing; production, transportation  NSA  28-Oct-2022  Quarterly
-CIU2020000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations                 NSA  28-Oct-2022  Quarterly
-CIU2020000000210I                       Employment Cost Index: Wages and salaries for Private industry workers in the Northeast Census Region                    NSA  28-Oct-2022  Quarterly
-CIU2020000000211I                       Employment Cost Index: Wages and salaries for Private industry workers in the New England Census Division                NSA  28-Oct-2022  Quarterly
-CIU2020000000212I                       Employment Cost Index: Wages and salaries for Private industry workers in the Middle Atlantic Census Division            NSA  28-Oct-2022  Quarterly
-CIU2020000000220I                       Employment Cost Index: Wages and salaries for Private industry workers in the South Census Region                        NSA  28-Oct-2022  Quarterly
-CIU2020000000225I                       Employment Cost Index: Wages and salaries for Private industry workers in the South Atlantic Census Division             NSA  28-Oct-2022  Quarterly
-CIU2020000000226I                       Employment Cost Index: Wages and salaries for Private industry workers in the East South Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2020000000227I                       Employment Cost Index: Wages and salaries for Private industry workers in the West South Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2020000000230I                       Employment Cost Index: Wages and salaries for Private industry workers in the Midwest Census Region                      NSA  28-Oct-2022  Quarterly
-CIU2020000000233I                       Employment Cost Index: Wages and salaries for Private industry workers in the East North Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2020000000234I                       Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division         NSA  28-Oct-2022  Quarterly
-CIU2020000000240I                       Employment Cost Index: Wages and salaries for Private industry workers in the West Census Region                         NSA  28-Oct-2022  Quarterly
-CIU2020000000248I                       Employment Cost Index: Wages and salaries for Private industry workers in the Mountain Census Division                   NSA  28-Oct-2022  Quarterly
-CIU2020000000249I                       Employment Cost Index: Wages and salaries for Private industry workers in the Pacific Census Division                    NSA  28-Oct-2022  Quarterly
-CIU2020000000510I                       Employment Cost Index: Wages and salaries for Private industry workers in All union workers                              NSA  28-Oct-2022  Quarterly
-CIU2020000000520I                       Employment Cost Index: Wages and salaries for Private industry workers in All nonunion workers                           NSA  28-Oct-2022  Quarterly
-CIU2020000000710I                       Employment Cost Index: Wages and salaries for Private industry workers in All workers, excluding incentive paid          NSA  28-Oct-2022  Quarterly
-CIU2020000100000I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related          NSA  28-Oct-2022  Quarterly
-CIU2020000100710I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related; exclud  NSA  28-Oct-2022  Quarterly
-CIU2020000110000I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial            NSA  28-Oct-2022  Quarterly
-CIU2020000110710I                       Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial; excludin  NSA  28-Oct-2022  Quarterly
-CIU2020000120000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional and related                       NSA  28-Oct-2022  Quarterly
-CIU2020000200000I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and office                               NSA  28-Oct-2022  Quarterly
-CIU2020000200710I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and office, excluding incentive paid     NSA  28-Oct-2022  Quarterly
-CIU2020000210000I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and related                              NSA  28-Oct-2022  Quarterly
-CIU2020000210710I                       Employment Cost Index: Wages and salaries for Private industry workers in Sales and related, excluding incentive paid    NSA  28-Oct-2022  Quarterly
-CIU2020000220000I                       Employment Cost Index: Wages and salaries for Private industry workers in Office and administrative support              NSA  28-Oct-2022  Quarterly
-CIU2020000400000I                       Employment Cost Index: Wages and salaries for Private industry workers in Natural resources, construction, and maintena  NSA  28-Oct-2022  Quarterly
-CIU2020000405000I                       Employment Cost Index: Wages and salaries for Private industry workers in Construction, extraction, farming, fishing, a  NSA  28-Oct-2022  Quarterly
-CIU2020000430000I                       Employment Cost Index: Wages and salaries for Private industry workers in Installation, maintenance, and repair          NSA  28-Oct-2022  Quarterly
-CIU2020000500000I                       Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly
-CIU2020000500710I                       Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly
-CIU2020000510000I                       Employment Cost Index: Wages and salaries for Private industry workers in Production                                     NSA  28-Oct-2022  Quarterly
-CIU2020000510710I                       Employment Cost Index: Wages and salaries for Private industry workers in Production, exluding incentive paid            NSA  28-Oct-2022  Quarterly
-CIU2020000520000I                       Employment Cost Index: Wages and salaries for Private industry workers in Transportation and material moving             NSA  28-Oct-2022  Quarterly
-CIU2022300000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Construction                                   NSA  28-Oct-2022  Quarterly
-CIU2023000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing                                  NSA  28-Oct-2022  Quarterly
-CIU2023000000510I                       Employment Cost Index: Wages and salaries for Private industry workers in Union, manufacturing                           NSA  28-Oct-2022  Quarterly
-CIU2023000000520I                       Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, manufacturing                        NSA  28-Oct-2022  Quarterly
-CIU2023000100000I                       Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; management, professional, and   NSA  28-Oct-2022  Quarterly
-CIU2023000200000I                       Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing, sales and office occupations    NSA  28-Oct-2022  Quarterly
-CIU2023000400000I                       Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; natural resources, constructio  NSA  28-Oct-2022  Quarterly
-CIU2023000500000I                       Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; production, transportation, an  NSA  28-Oct-2022  Quarterly
-CIU2023211000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing                         NSA  28-Oct-2022  Quarterly
-CIU2024000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities           NSA  28-Oct-2022  Quarterly
-CIU2024000000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities; excludi  NSA  28-Oct-2022  Quarterly
-CIU2024110000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Wholesale trade                                NSA  28-Oct-2022  Quarterly
-CIU2024110000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Wholesale trade, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly
-CIU2024120000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Retail trade                                   NSA  28-Oct-2022  Quarterly
-CIU2024120000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Retail trade, excluding incentive paid occupa  NSA  28-Oct-2022  Quarterly
-CIU2024300000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Transportation and warehousing                 NSA  28-Oct-2022  Quarterly
-CIU2024400000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Utilities                                      NSA  28-Oct-2022  Quarterly
-CIU2025100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Information                                    NSA  28-Oct-2022  Quarterly
-CIU2025200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Finance and insurance                          NSA  28-Oct-2022  Quarterly
-CIU202520A000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Financial activities                           NSA  28-Oct-2022  Quarterly
-CIU202520A000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Financial activities, excluding incentive pai  NSA  28-Oct-2022  Quarterly
-CIU2025220000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related activities   NSA  28-Oct-2022  Quarterly
-CIU2025220000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related, excluding   NSA  28-Oct-2022  Quarterly
-CIU2025240000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related activities      NSA  28-Oct-2022  Quarterly
-CIU2025240000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related, excluding inc  NSA  28-Oct-2022  Quarterly
-CIU2025300000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Real estate and rental and leasing             NSA  28-Oct-2022  Quarterly
-CIU2025300000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Real estate and rental and leasing, excluding  NSA  28-Oct-2022  Quarterly
-CIU2025400000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical servi  NSA  28-Oct-2022  Quarterly
-CIU202540A000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Professional and business services             NSA  28-Oct-2022  Quarterly
-CIU2025600000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Administrative and support and waste manageme  NSA  28-Oct-2022  Quarterly
-CIU2026000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Education and health services                  NSA  28-Oct-2022  Quarterly
-CIU2026100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Education services                             NSA  28-Oct-2022  Quarterly
-CIU2026120000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Junior colleges, colleges, universities, and   NSA  28-Oct-2022  Quarterly
-CIU2026200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Health care and social assistance              NSA  28-Oct-2022  Quarterly
-CIU2026220000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Hospitals                                      NSA  28-Oct-2022  Quarterly
-CIU2026230000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Nursing and residential care facilities        NSA  28-Oct-2022  Quarterly
-CIU2026231000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Nursing care facilities                        NSA  28-Oct-2022  Quarterly
-CIU2027000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Leisure and hospitality                        NSA  28-Oct-2022  Quarterly
-CIU2027200000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Accommodations and food service                NSA  28-Oct-2022  Quarterly
-CIU2028100000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Other services, except public administration   NSA  28-Oct-2022  Quarterly
-CIU202G000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing industries                     NSA  28-Oct-2022  Quarterly
-CIU202G000000510I                       Employment Cost Index: Wages and salaries for Private industry workers in Union, goods-producing industries              NSA  28-Oct-2022  Quarterly
-CIU202G000000520I                       Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, goods-producing industries           NSA  28-Oct-2022  Quarterly
-CIU202G000000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly
-CIU202G000100000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; management, professional, an  NSA  28-Oct-2022  Quarterly
-CIU202G000200000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing, sales and office occupations  NSA  28-Oct-2022  Quarterly
-CIU202G000400000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; natural resources, construct  NSA  28-Oct-2022  Quarterly
-CIU202G000500000I                       Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; production, transportation,   NSA  28-Oct-2022  Quarterly
-CIU202S000000000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing industries                   NSA  28-Oct-2022  Quarterly
-CIU202S000000510I                       Employment Cost Index: Wages and salaries for Private industry workers in Union, service-providing industries            NSA  28-Oct-2022  Quarterly
-CIU202S000000520I                       Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, service-providing industries         NSA  28-Oct-2022  Quarterly
-CIU202S000000710I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, excluding incentive paid o  NSA  28-Oct-2022  Quarterly
-CIU202S000100000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; management, professional,   NSA  28-Oct-2022  Quarterly
-CIU202S000200000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, sales and office occupatio  NSA  28-Oct-2022  Quarterly
-CIU202S000300000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, service occupations         NSA  28-Oct-2022  Quarterly
-CIU202S000400000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; natural resources, constru  NSA  28-Oct-2022  Quarterly
-CIU202S000500000I                       Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; production, transportation  NSA  28-Oct-2022  Quarterly
-CIU2030000000000I                       Employment Cost Index: Total benefits for Private industry workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly
-CIU2030000000510I                       Employment Cost Index: Total benefits for Private industry workers in All union workers                                  NSA  28-Oct-2022  Quarterly
-CIU2030000000520I                       Employment Cost Index: Total benefits for Private industry workers in All nonunion workers                               NSA  28-Oct-2022  Quarterly
-CIU2030000100000I                       Employment Cost Index: Total benefits for Private industry workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly
-CIU2030000200000I                       Employment Cost Index: Total benefits for Private industry workers in Sales and office                                   NSA  28-Oct-2022  Quarterly
-CIU2030000300000I                       Employment Cost Index: Total benefits for Private industry workers in Service occupations                                NSA  28-Oct-2022  Quarterly
-CIU2030000400000I                       Employment Cost Index: Total benefits for Private industry workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly
-CIU2030000500000I                       Employment Cost Index: Total benefits for Private industry workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly
-CIU2033000000000I                       Employment Cost Index: Total benefits for Private industry workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly
-CIU2033211000000I                       Employment Cost Index: Total benefits for Private industry workers in Aircraft manufacturing                             NSA  28-Oct-2022  Quarterly
-CIU203G000000000I                       Employment Cost Index: Total benefits for Private industry workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly
-CIU203S000000000I                       Employment Cost Index: Total benefits for Private industry workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly
-CIU3010000000000I                       Employment Cost Index: Total compensation for State and local government workers in All industries and occupations       NSA  28-Oct-2022  Quarterly
-CIU3010000100000I                       Employment Cost Index: Total compensation for State and local government workers in Management, professional, and relat  NSA  28-Oct-2022  Quarterly
-CIU3010000120000I                       Employment Cost Index: Total compensation for State and local government workers in Professional and related             NSA  28-Oct-2022  Quarterly
-CIU3010000200000I                       Employment Cost Index: Total compensation for State and local government workers in Sales and office                     NSA  28-Oct-2022  Quarterly
-CIU3010000220000I                       Employment Cost Index: Total compensation for State and local government workers in Office and administrative support    NSA  28-Oct-2022  Quarterly
-CIU3010000300000I                       Employment Cost Index: Total compensation for State and local government workers in Service occupations                  NSA  28-Oct-2022  Quarterly
-CIU3016000000000I                       Employment Cost Index: Total compensation for State and local government workers in Education and health services        NSA  28-Oct-2022  Quarterly
-CIU3016100000000I                       Employment Cost Index: Total compensation for State and local government workers in Education services                   NSA  28-Oct-2022  Quarterly
-CIU3016105000000I                       Employment Cost Index: Total compensation for State and local government workers in Schools                              NSA  28-Oct-2022  Quarterly
-CIU3016110000000I                       Employment Cost Index: Total compensation for State and local government workers in Elementary and secondary schools     NSA  28-Oct-2022  Quarterly
-CIU3016200000000I                       Employment Cost Index: Total compensation for State and local government workers in Health care and social assistance    NSA  28-Oct-2022  Quarterly
-CIU3016220000000I                       Employment Cost Index: Total compensation for State and local government workers in Hospitals                            NSA  28-Oct-2022  Quarterly
-CIU3019200000000I                       Employment Cost Index: Total compensation for State and local government workers in Public administration                NSA  28-Oct-2022  Quarterly
-CIU3020000000000I                       Employment Cost Index: Wages and salaries for State and local government workers in All industries and occupations       NSA  28-Oct-2022  Quarterly
-CIU3020000100000I                       Employment Cost Index: Wages and salaries for State and local government workers in Management, professional, and relat  NSA  28-Oct-2022  Quarterly
-CIU3020000120000I                       Employment Cost Index: Wages and salaries for State and local government workers in Professional and related             NSA  28-Oct-2022  Quarterly
-CIU3020000200000I                       Employment Cost Index: Wages and salaries for State and local government workers in Sales and office                     NSA  28-Oct-2022  Quarterly
-CIU3020000220000I                       Employment Cost Index: Wages and salaries for State and local government workers in Office and administrative support    NSA  28-Oct-2022  Quarterly
-CIU3020000300000I                       Employment Cost Index: Wages and salaries for State and local government workers in Service occupations                  NSA  28-Oct-2022  Quarterly
-CIU3026000000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Education and health services        NSA  28-Oct-2022  Quarterly
-CIU3026100000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Education services                   NSA  28-Oct-2022  Quarterly
-CIU3026105000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Schools                              NSA  28-Oct-2022  Quarterly
-CIU3026110000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Elementary and secondary schools     NSA  28-Oct-2022  Quarterly
-CIU3026200000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Health care and social assistance    NSA  28-Oct-2022  Quarterly
-CIU3026220000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Hospitals                            NSA  28-Oct-2022  Quarterly
-CIU3029200000000I                       Employment Cost Index: Wages and salaries for State and local government workers in Public administration                NSA  28-Oct-2022  Quarterly
-CIU3030000000000I                       Employment Cost Index: Total benefits for State and local government workers in All industries and occupations           NSA  28-Oct-2022  Quarterly
-ECIALLCIV                               Employment Cost Index: Total compensation: All Civilian                                                                  SA   28-Oct-2022  Quarterly
-ECIBEN                                  Employment Cost Index: Benefits: Private Industry Workers                                                                SA   28-Oct-2022  Quarterly
-ECICOM                                  Employment Cost Index: Compensation: Private Industry Workers                                                            SA   28-Oct-2022  Quarterly
-ECICONCOM                               Employment Cost Index: Compensation: Private Industry Workers: Construction                                              SA   28-Oct-2022  Quarterly
-ECICONWAG                               Employment Cost Index: Wages and Salaries: Private Industry Workers: Construction                                        SA   28-Oct-2022  Quarterly
-ECIGVTBEN                               Employment Cost Index: Benefits: State and Local Government: All Workers                                                 SA   28-Oct-2022  Quarterly
-ECIGVTCOM                               Employment Cost Index: Compensation: State and Local Government: All Workers                                             SA   28-Oct-2022  Quarterly
-ECIGVTWAG                               Employment Cost Index: Wages and Salaries: State and Local Government: All Workers                                       SA   28-Oct-2022  Quarterly
-ECIMANBEN                               Employment Cost Index: Benefits: Private Industry Workers: Manufacturing                                                 SA   28-Oct-2022  Quarterly
-ECIMANCOM                               Employment Cost Index: Compensation: Private Industry Workers: Manufacturing                                             SA   28-Oct-2022  Quarterly
-ECIMANWAG                               Employment Cost Index: Wages and Salaries: Private Industry Workers: Manufacturing                                       SA   28-Oct-2022  Quarterly
-ECISRVBEN                               Employment Cost Index: Benefits: Private Industry Workers: Service Occupations                                           SA   28-Oct-2022  Quarterly
-ECISRVCOM                               Employment Cost Index: Compensation: Private Industry Workers: Service Occupations                                       SA   28-Oct-2022  Quarterly
-ECISRVWAG                               Employment Cost Index: Wages and Salaries: Private Industry Workers: Service Occupations                                 NSA  28-Oct-2022  Quarterly
-ECIWAG                                  Employment Cost Index: Wages and Salaries: Private Industry Workers                                                      SA   28-Oct-2022  Quarterly
+CIS1010000000000I             Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations (DISCONTINUED)      SA   31-Jan-2018  Quarterly      
+CIS1013000000000I             Employment Cost Index: Total compensation for All Civilian workers in Manufacturing                                      SA   28-Oct-2022  Quarterly      
+CIS1016000000000I             Employment Cost Index: Total compensation for All Civilian workers in Education and health services                      SA   28-Oct-2022  Quarterly      
+CIS1016100000000I             Employment Cost Index: Total compensation for All Civilian workers in Education services                                 SA   28-Oct-2022  Quarterly      
+CIS1016110000000I             Employment Cost Index: Total compensation for All Civilian workers in Elementary and secondary schools                   SA   28-Oct-2022  Quarterly      
+CIS1016120000000I             Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and prof  SA   28-Oct-2022  Quarterly      
+CIS1016200000000I             Employment Cost Index: Total compensation for All Civilian workers in Health care and social assistance                  SA   28-Oct-2022  Quarterly      
+CIS1016220000000I             Employment Cost Index: Total compensation for All Civilian workers in Hospitals                                          SA   28-Oct-2022  Quarterly      
+CIS1016230000000I             Employment Cost Index: Total compensation for All Civilian workers in Nursing and residential care facilities            SA   28-Oct-2022  Quarterly      
+CIS1019200000000I             Employment Cost Index: Total compensation for All Civilian workers in Public administration                              SA   28-Oct-2022  Quarterly      
+CIS101G000000000I             Employment Cost Index: Total compensation for All Civilian workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly      
+CIS101S000000000I             Employment Cost Index: Total compensation for All Civilian workers in Service-providing industries                       SA   28-Oct-2022  Quarterly      
+CIS1020000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations                     SA   28-Oct-2022  Quarterly      
+CIS1023000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Manufacturing                                      SA   28-Oct-2022  Quarterly      
+CIS1026000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Education and health services                      SA   28-Oct-2022  Quarterly      
+CIS1026100000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Education services                                 SA   28-Oct-2022  Quarterly      
+CIS1026110000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Elementary and secondary schools                   SA   28-Oct-2022  Quarterly      
+CIS1026120000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Junior colleges, colleges, universities, and prof  SA   28-Oct-2022  Quarterly      
+CIS1026200000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Health care and social assistance                  SA   28-Oct-2022  Quarterly      
+CIS1026220000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Hospitals                                          SA   28-Oct-2022  Quarterly      
+CIS1026230000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Nursing and residential care facilities            SA   28-Oct-2022  Quarterly      
+CIS1029200000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Public administration                              SA   28-Oct-2022  Quarterly      
+CIS102G000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly      
+CIS102S000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Service-providing industries                       SA   28-Oct-2022  Quarterly      
+CIS1030000000000I             Employment Cost Index: Total benefits for All Civilian workers in All industries and occupations                         SA   28-Oct-2022  Quarterly      
+CIS2010000000000I             Employment Cost Index: Total compensation for Private industry workers in All industries and occupations (DISCONTINUED)  SA   31-Jan-2018  Quarterly      
+CIS2010000100000I             Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related          SA   28-Oct-2022  Quarterly      
+CIS2010000110000I             Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial            SA   28-Oct-2022  Quarterly      
+CIS2010000120000I             Employment Cost Index: Total compensation for Private industry workers in Professional and related                       SA   28-Oct-2022  Quarterly      
+CIS2010000200000I             Employment Cost Index: Total compensation for Private industry workers in Sales and office                               SA   28-Oct-2022  Quarterly      
+CIS2010000210000I             Employment Cost Index: Total compensation for Private industry workers in Sales and related                              SA   28-Oct-2022  Quarterly      
+CIS2010000220000I             Employment Cost Index: Total compensation for Private industry workers in Office and administrative support              SA   28-Oct-2022  Quarterly      
+CIS2010000400000I             Employment Cost Index: Total compensation for Private industry workers in Natural resources, construction, and maintena  SA   28-Oct-2022  Quarterly      
+CIS2010000405000I             Employment Cost Index: Total compensation for Private industry workers in Construction, extraction, farming, fishing, a  SA   28-Oct-2022  Quarterly      
+CIS2010000430000I             Employment Cost Index: Total compensation for Private industry workers in Installation, maintenance, and repair          SA   28-Oct-2022  Quarterly      
+CIS2010000500000I             Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  SA   28-Oct-2022  Quarterly      
+CIS2010000510000I             Employment Cost Index: Total compensation for Private industry workers in Production                                     SA   28-Oct-2022  Quarterly      
+CIS2010000520000I             Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving             SA   28-Oct-2022  Quarterly      
+CIS2013000000000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing (DISCONTINUED)                   SA   31-Jan-2018  Quarterly      
+CIS2013211000000I             Employment Cost Index: Total compensation for Private industry workers in Aircraft manufacturing                         SA   28-Oct-2022  Quarterly      
+CIS2014000000000I             Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities           SA   28-Oct-2022  Quarterly      
+CIS2014110000000I             Employment Cost Index: Total compensation for Private industry workers in Wholesale trade                                SA   28-Oct-2022  Quarterly      
+CIS2014120000000I             Employment Cost Index: Total compensation for Private industry workers in Retail trade                                   SA   28-Oct-2022  Quarterly      
+CIS2014300000000I             Employment Cost Index: Total compensation for Private industry workers in Transportation and warehousing                 SA   28-Oct-2022  Quarterly      
+CIS2014400000000I             Employment Cost Index: Total compensation for Private industry workers in Utilities                                      SA   28-Oct-2022  Quarterly      
+CIS2015100000000I             Employment Cost Index: Total compensation for Private industry workers in Information                                    SA   28-Oct-2022  Quarterly      
+CIS2015200000000I             Employment Cost Index: Total compensation for Private industry workers in Finance and insurance                          SA   28-Oct-2022  Quarterly      
+CIS201520A000000I             Employment Cost Index: Total compensation for Private industry workers in Financial activities                           SA   28-Oct-2022  Quarterly      
+CIS2015220000000I             Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related activities   SA   28-Oct-2022  Quarterly      
+CIS2015240000000I             Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related activities      SA   28-Oct-2022  Quarterly      
+CIS2015300000000I             Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing             SA   28-Oct-2022  Quarterly      
+CIS2015400000000I             Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical servi  SA   28-Oct-2022  Quarterly      
+CIS201540A000000I             Employment Cost Index: Total compensation for Private industry workers in Professional and business services             SA   28-Oct-2022  Quarterly      
+CIS2015600000000I             Employment Cost Index: Total compensation for Private industry workers in Administrative and support and waste manageme  SA   28-Oct-2022  Quarterly      
+CIS2016000000000I             Employment Cost Index: Total compensation for Private industry workers in Education and health services                  SA   28-Oct-2022  Quarterly      
+CIS2016100000000I             Employment Cost Index: Total compensation for Private industry workers in Education services                             SA   28-Oct-2022  Quarterly      
+CIS2016120000000I             Employment Cost Index: Total compensation for Private industry workers in Junior colleges, colleges, universities, and   SA   28-Oct-2022  Quarterly      
+CIS2016200000000I             Employment Cost Index: Total compensation for Private industry workers in Health care and social assistance              SA   28-Oct-2022  Quarterly      
+CIS2016220000000I             Employment Cost Index: Total compensation for Private industry workers in Hospitals                                      SA   28-Oct-2022  Quarterly      
+CIS2016230000000I             Employment Cost Index: Total compensation for Private industry workers in Nursing and residential care facilities        SA   28-Oct-2022  Quarterly      
+CIS2017000000000I             Employment Cost Index: Total compensation for Private industry workers in Leisure and hospitality                        SA   28-Oct-2022  Quarterly      
+CIS2017200000000I             Employment Cost Index: Total compensation for Private industry workers in Accommodations and food service                SA   28-Oct-2022  Quarterly      
+CIS2018100000000I             Employment Cost Index: Total compensation for Private industry workers in Other services, except public administration   SA   28-Oct-2022  Quarterly      
+CIS201G000000000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing industries                     SA   28-Oct-2022  Quarterly      
+CIS201S000000000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing industries                   SA   28-Oct-2022  Quarterly      
+CIS2020000000000I             Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations (DISCONTINUED)  SA   31-Jan-2018  Quarterly      
+CIS2020000100000I             Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related          SA   28-Oct-2022  Quarterly      
+CIS2020000110000I             Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial            SA   28-Oct-2022  Quarterly      
+CIS2020000120000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional and related                       SA   28-Oct-2022  Quarterly      
+CIS2020000200000I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and office                               SA   28-Oct-2022  Quarterly      
+CIS2020000210000I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and related                              SA   29-Jan-2021  Quarterly      
+CIS2020000220000I             Employment Cost Index: Wages and salaries for Private industry workers in Office and administrative support              SA   28-Oct-2022  Quarterly      
+CIS2020000300000I             Employment Cost Index: Wages and salaries for Private industry workers in Service occupations                            SA   28-Oct-2022  Quarterly      
+CIS2020000400000I             Employment Cost Index: Wages and salaries for Private industry workers in Natural resources, construction, and maintena  SA   28-Oct-2022  Quarterly      
+CIS2020000405000I             Employment Cost Index: Wages and salaries for Private industry workers in Construction, extraction, farming, fishing, a  SA   28-Oct-2022  Quarterly      
+CIS2020000430000I             Employment Cost Index: Wages and salaries for Private industry workers in Installation, maintenance, and repair          SA   28-Oct-2022  Quarterly      
+CIS2020000500000I             Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  SA   28-Oct-2022  Quarterly      
+CIS2020000510000I             Employment Cost Index: Wages and salaries for Private industry workers in Production                                     SA   28-Oct-2022  Quarterly      
+CIS2020000520000I             Employment Cost Index: Wages and salaries for Private industry workers in Transportation and material moving             SA   28-Oct-2022  Quarterly      
+CIS2023211000000I             Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing                         SA   28-Oct-2022  Quarterly      
+CIS2024000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities           SA   28-Oct-2022  Quarterly      
+CIS2024120000000I             Employment Cost Index: Wages and salaries for Private industry workers in Retail trade                                   SA   28-Oct-2022  Quarterly      
+CIS2024300000000I             Employment Cost Index: Wages and salaries for Private industry workers in Transportation and warehousing                 SA   28-Oct-2022  Quarterly      
+CIS2024400000000I             Employment Cost Index: Wages and salaries for Private industry workers in Utilities                                      SA   28-Oct-2022  Quarterly      
+CIS2025100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Information                                    SA   28-Oct-2022  Quarterly      
+CIS2025200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Finance and insurance                          SA   28-Oct-2022  Quarterly      
+CIS202520A000000I             Employment Cost Index: Wages and salaries for Private industry workers in Financial activities                           SA   28-Oct-2022  Quarterly      
+CIS2025220000000I             Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related activities   SA   28-Oct-2022  Quarterly      
+CIS2025240000000I             Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related activities      SA   28-Oct-2022  Quarterly      
+CIS2025400000000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical servi  SA   28-Oct-2022  Quarterly      
+CIS202540A000000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional and business services             SA   28-Oct-2022  Quarterly      
+CIS2025600000000I             Employment Cost Index: Wages and salaries for Private industry workers in Administrative and support and waste manageme  SA   31-Jan-2018  Quarterly      
+CIS2026000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Education and health services                  SA   28-Oct-2022  Quarterly      
+CIS2026100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Education services                             SA   28-Oct-2022  Quarterly      
+CIS2026120000000I             Employment Cost Index: Wages and salaries for Private industry workers in Junior colleges, colleges, universities, and   SA   28-Oct-2022  Quarterly      
+CIS2026200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Health care and social assistance              SA   28-Oct-2022  Quarterly      
+CIS2026220000000I             Employment Cost Index: Wages and salaries for Private industry workers in Hospitals                                      SA   28-Oct-2022  Quarterly      
+CIS2026230000000I             Employment Cost Index: Wages and salaries for Private industry workers in Nursing and residential care facilities        SA   28-Oct-2022  Quarterly      
+CIS2027000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Leisure and hospitality                        SA   28-Oct-2022  Quarterly      
+CIS2027200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Accommodations and food service                SA   28-Oct-2022  Quarterly      
+CIS2028100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Other services, except public administration   SA   28-Oct-2022  Quarterly      
+CIS202G000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing industries                     SA   28-Oct-2022  Quarterly      
+CIS202S000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing industries                   SA   28-Oct-2022  Quarterly      
+CIS2030000000000I             Employment Cost Index: Total benefits for Private industry workers in All industries and occupations (DISCONTINUED)      SA   31-Jan-2018  Quarterly      
+CIS2030000100000I             Employment Cost Index: Total benefits for Private industry workers in Management, professional, and related              SA   28-Oct-2022  Quarterly      
+CIS2030000200000I             Employment Cost Index: Total benefits for Private industry workers in Sales and office                                   SA   28-Oct-2022  Quarterly      
+CIS2030000400000I             Employment Cost Index: Total benefits for Private industry workers in Natural resources, construction, and maintenance   SA   28-Oct-2022  Quarterly      
+CIS2030000500000I             Employment Cost Index: Total benefits for Private industry workers in Production, transportation, and material moving    SA   28-Oct-2022  Quarterly      
+CIS203G000000000I             Employment Cost Index: Total benefits for Private industry workers in Goods-producing industries                         SA   28-Oct-2022  Quarterly      
+CIS203S000000000I             Employment Cost Index: Total benefits for Private industry workers in Service-providing industries                       SA   28-Oct-2022  Quarterly      
+CIS3010000000000I             Employment Cost Index: Total compensation for State and local government workers in All industries and occupations (DIS  SA   31-Jan-2018  Quarterly      
+CIS3016000000000I             Employment Cost Index: Total compensation for State and local government workers in Education and health services        SA   28-Oct-2022  Quarterly      
+CIS3016100000000I             Employment Cost Index: Total compensation for State and local government workers in Education services                   SA   28-Oct-2022  Quarterly      
+CIS3016105000000I             Employment Cost Index: Total compensation for State and local government workers in Schools                              SA   28-Oct-2022  Quarterly      
+CIS3016110000000I             Employment Cost Index: Total compensation for State and local government workers in Elementary and secondary schools     SA   28-Oct-2022  Quarterly      
+CIS3016200000000I             Employment Cost Index: Total compensation for State and local government workers in Health care and social assistance    SA   28-Oct-2022  Quarterly      
+CIS3016220000000I             Employment Cost Index: Total compensation for State and local government workers in Hospitals                            SA   28-Oct-2022  Quarterly      
+CIS3019200000000I             Employment Cost Index: Total compensation for State and local government workers in Public administration                SA   28-Oct-2022  Quarterly      
+CIS3026000000000I             Employment Cost Index: Wages and salaries for State and local government workers in Education and health services        SA   28-Oct-2022  Quarterly      
+CIS3026100000000I             Employment Cost Index: Wages and salaries for State and local government workers in Education services                   SA   28-Oct-2022  Quarterly      
+CIS3026105000000I             Employment Cost Index: Wages and salaries for State and local government workers in Schools                              SA   28-Oct-2022  Quarterly      
+CIS3026110000000I             Employment Cost Index: Wages and salaries for State and local government workers in Elementary and secondary schools     SA   28-Oct-2022  Quarterly      
+CIS3026200000000I             Employment Cost Index: Wages and salaries for State and local government workers in Health care and social assistance    SA   28-Oct-2022  Quarterly      
+CIS3026220000000I             Employment Cost Index: Wages and salaries for State and local government workers in Hospitals                            SA   28-Oct-2022  Quarterly      
+CIS3029200000000I             Employment Cost Index: Wages and salaries for State and local government workers in Public administration                SA   28-Oct-2022  Quarterly      
+CIU1010000000000I             Employment Cost Index: Total compensation for All Civilian workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly      
+CIU1010000000710I             Employment Cost Index: Total compensation for All Civilian workers in All workers, excluding incentive paid              NSA  28-Oct-2022  Quarterly      
+CIU1010000100000I             Employment Cost Index: Total compensation for All Civilian workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly      
+CIU1010000110000I             Employment Cost Index: Total compensation for All Civilian workers in Management, business, and financial                NSA  28-Oct-2022  Quarterly      
+CIU1010000120000I             Employment Cost Index: Total compensation for All Civilian workers in Professional and related                           NSA  28-Oct-2022  Quarterly      
+CIU1010000200000I             Employment Cost Index: Total compensation for All Civilian workers in Sales and office                                   NSA  28-Oct-2022  Quarterly      
+CIU1010000210000I             Employment Cost Index: Total compensation for All Civilian workers in Sales and related                                  NSA  28-Oct-2022  Quarterly      
+CIU1010000220000I             Employment Cost Index: Total compensation for All Civilian workers in Office and administrative support                  NSA  28-Oct-2022  Quarterly      
+CIU1010000300000I             Employment Cost Index: Total compensation for All Civilian workers in Service occupations                                NSA  28-Oct-2022  Quarterly      
+CIU1010000400000I             Employment Cost Index: Total compensation for All Civilian workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly      
+CIU1010000405000I             Employment Cost Index: Total compensation for All Civilian workers in Construction, extraction, farming, fishing, and f  NSA  28-Oct-2022  Quarterly      
+CIU1010000430000I             Employment Cost Index: Total compensation for All Civilian workers in Installation, maintenance, and repair              NSA  28-Oct-2022  Quarterly      
+CIU1010000500000I             Employment Cost Index: Total compensation for All Civilian workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly      
+CIU1010000510000I             Employment Cost Index: Total compensation for All Civilian workers in Production                                         NSA  28-Oct-2022  Quarterly      
+CIU1010000520000I             Employment Cost Index: Total compensation for All Civilian workers in Transportation and material moving                 NSA  28-Oct-2022  Quarterly      
+CIU1013000000000I             Employment Cost Index: Total compensation for All Civilian workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly      
+CIU1016000000000I             Employment Cost Index: Total compensation for All Civilian workers in Education and health services                      NSA  28-Oct-2022  Quarterly      
+CIU1016100000000I             Employment Cost Index: Total compensation for All Civilian workers in Education services                                 NSA  28-Oct-2022  Quarterly      
+CIU1016110000000I             Employment Cost Index: Total compensation for All Civilian workers in Elementary and secondary schools                   NSA  28-Oct-2022  Quarterly      
+CIU1016120000000I             Employment Cost Index: Total compensation for All Civilian workers in Junior colleges, colleges, universities, and prof  NSA  28-Oct-2022  Quarterly      
+CIU1016200000000I             Employment Cost Index: Total compensation for All Civilian workers in Health care and social assistance                  NSA  28-Oct-2022  Quarterly      
+CIU1016220000000I             Employment Cost Index: Total compensation for All Civilian workers in Hospitals                                          NSA  28-Oct-2022  Quarterly      
+CIU1016230000000I             Employment Cost Index: Total compensation for All Civilian workers in Nursing and residential care facilities            NSA  28-Oct-2022  Quarterly      
+CIU1019200000000I             Employment Cost Index: Total compensation for All Civilian workers in Public administration                              NSA  28-Oct-2022  Quarterly      
+CIU101G000000000I             Employment Cost Index: Total compensation for All Civilian workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly      
+CIU101S000000000I             Employment Cost Index: Total compensation for All Civilian workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly      
+CIU1020000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly      
+CIU1020000000710I             Employment Cost Index: Wages and salaries for All Civilian workers in All workers, excluding incentive paid              NSA  28-Oct-2022  Quarterly      
+CIU1020000100000I             Employment Cost Index: Wages and salaries for All Civilian workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly      
+CIU1020000110000I             Employment Cost Index: Wages and salaries for All Civilian workers in Management, business, and financial                NSA  28-Oct-2022  Quarterly      
+CIU1020000120000I             Employment Cost Index: Wages and salaries for All Civilian workers in Professional and related                           NSA  28-Oct-2022  Quarterly      
+CIU1020000200000I             Employment Cost Index: Wages and salaries for All Civilian workers in Sales and office                                   NSA  28-Oct-2022  Quarterly      
+CIU1020000210000I             Employment Cost Index: Wages and salaries for All Civilian workers in Sales and related                                  NSA  28-Oct-2022  Quarterly      
+CIU1020000220000I             Employment Cost Index: Wages and salaries for All Civilian workers in Office and administrative support                  NSA  28-Oct-2022  Quarterly      
+CIU1020000300000I             Employment Cost Index: Wages and salaries for All Civilian workers in Service occupations                                NSA  28-Oct-2022  Quarterly      
+CIU1020000400000I             Employment Cost Index: Wages and salaries for All Civilian workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly      
+CIU1020000405000I             Employment Cost Index: Wages and salaries for All Civilian workers in Construction, extraction, farming, fishing, and f  NSA  28-Oct-2022  Quarterly      
+CIU1020000430000I             Employment Cost Index: Wages and salaries for All Civilian workers in Installation, maintenance, and repair              NSA  28-Oct-2022  Quarterly      
+CIU1020000500000I             Employment Cost Index: Wages and salaries for All Civilian workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly      
+CIU1020000510000I             Employment Cost Index: Wages and salaries for All Civilian workers in Production                                         NSA  28-Oct-2022  Quarterly      
+CIU1020000520000I             Employment Cost Index: Wages and salaries for All Civilian workers in Transportation and material moving                 NSA  28-Oct-2022  Quarterly      
+CIU1023000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly      
+CIU1026000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Education and health services                      NSA  28-Oct-2022  Quarterly      
+CIU1026100000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Education services                                 NSA  28-Oct-2022  Quarterly      
+CIU1026110000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Elementary and secondary schools                   NSA  28-Oct-2022  Quarterly      
+CIU1026120000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Junior colleges, colleges, universities, and prof  NSA  28-Oct-2022  Quarterly      
+CIU1026200000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Health care and social assistance                  NSA  28-Oct-2022  Quarterly      
+CIU1026220000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Hospitals                                          NSA  28-Oct-2022  Quarterly      
+CIU1026230000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Nursing and residential care facilities            NSA  28-Oct-2022  Quarterly      
+CIU1029200000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Public administration                              NSA  28-Oct-2022  Quarterly      
+CIU102G000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly      
+CIU102S000000000I             Employment Cost Index: Wages and salaries for All Civilian workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly      
+CIU1030000000000I             Employment Cost Index: Total benefits for All Civilian workers in All industries and occupations                         NSA  28-Oct-2022  Quarterly      
+CIU2010000000000I             Employment Cost Index: Total compensation for Private industry workers in All industries and occupations                 NSA  28-Oct-2022  Quarterly      
+CIU2010000000210I             Employment Cost Index: Total compensation for Private industry workers in the Northeast Census Region                    NSA  28-Oct-2022  Quarterly      
+CIU2010000000211I             Employment Cost Index: Total compensation for Private industry workers in the New England Census Division                NSA  28-Oct-2022  Quarterly      
+CIU2010000000212I             Employment Cost Index: Total compensation for Private industry workers in the Middle Atlantic Census Division            NSA  28-Oct-2022  Quarterly      
+CIU2010000000220I             Employment Cost Index: Total compensation for Private industry workers in the South Census Region                        NSA  28-Oct-2022  Quarterly      
+CIU2010000000225I             Employment Cost Index: Total compensation for Private industry workers in the South Atlantic Census Division             NSA  28-Oct-2022  Quarterly      
+CIU2010000000226I             Employment Cost Index: Total compensation for Private industry workers in the East South Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2010000000227I             Employment Cost Index: Total compensation for Private industry workers in the West South Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2010000000230I             Employment Cost Index: Total compensation for Private industry workers in the Midwest Census Region                      NSA  28-Oct-2022  Quarterly      
+CIU2010000000233I             Employment Cost Index: Total compensation for Private industry workers in the East North Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2010000000234I             Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2010000000240I             Employment Cost Index: Total compensation for Private industry workers in the West Census Region                         NSA  28-Oct-2022  Quarterly      
+CIU2010000000248I             Employment Cost Index: Total compensation for Private industry workers in the Mountain Census Division                   NSA  28-Oct-2022  Quarterly      
+CIU2010000000249I             Employment Cost Index: Total compensation for Private industry workers in the Pacific Census Division                    NSA  28-Oct-2022  Quarterly      
+CIU2010000000510I             Employment Cost Index: Total compensation for Private industry workers in All union workers                              NSA  28-Oct-2022  Quarterly      
+CIU2010000000520I             Employment Cost Index: Total compensation for Private industry workers in All nonunion workers                           NSA  28-Oct-2022  Quarterly      
+CIU2010000000710I             Employment Cost Index: Total compensation for Private industry workers in All workers, excluding incentive paid          NSA  28-Oct-2022  Quarterly      
+CIU2010000100000I             Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related          NSA  28-Oct-2022  Quarterly      
+CIU2010000100710I             Employment Cost Index: Total compensation for Private industry workers in Management, professional, and related; exclud  NSA  28-Oct-2022  Quarterly      
+CIU2010000110000I             Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial            NSA  28-Oct-2022  Quarterly      
+CIU2010000110710I             Employment Cost Index: Total compensation for Private industry workers in Management, business, and financial; excludin  NSA  28-Oct-2022  Quarterly      
+CIU2010000120000I             Employment Cost Index: Total compensation for Private industry workers in Professional and related                       NSA  28-Oct-2022  Quarterly      
+CIU2010000200000I             Employment Cost Index: Total compensation for Private industry workers in Sales and office                               NSA  28-Oct-2022  Quarterly      
+CIU2010000200710I             Employment Cost Index: Total compensation for Private industry workers in Sales and office, excluding incentive paid     NSA  28-Oct-2022  Quarterly      
+CIU2010000210000I             Employment Cost Index: Total compensation for Private industry workers in Sales and related                              NSA  28-Oct-2022  Quarterly      
+CIU2010000210710I             Employment Cost Index: Total compensation for Private industry workers in Sales and related, excluding incentive paid    NSA  28-Oct-2022  Quarterly      
+CIU2010000220000I             Employment Cost Index: Total compensation for Private industry workers in Office and administrative support              NSA  28-Oct-2022  Quarterly      
+CIU2010000300000I             Employment Cost Index: Total compensation for Private industry workers in Service occupations                            NSA  28-Oct-2022  Quarterly      
+CIU2010000400000I             Employment Cost Index: Total compensation for Private industry workers in Natural resources, construction, and maintena  NSA  28-Oct-2022  Quarterly      
+CIU2010000405000I             Employment Cost Index: Total compensation for Private industry workers in Construction, extraction, farming, fishing, a  NSA  28-Oct-2022  Quarterly      
+CIU2010000430000I             Employment Cost Index: Total compensation for Private industry workers in Installation, maintenance, and repair          NSA  28-Oct-2022  Quarterly      
+CIU2010000500000I             Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly      
+CIU2010000500710I             Employment Cost Index: Total compensation for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly      
+CIU2010000510000I             Employment Cost Index: Total compensation for Private industry workers in Production                                     NSA  28-Oct-2022  Quarterly      
+CIU2010000510710I             Employment Cost Index: Total compensation for Private industry workers in Production, exluding incentive paid            NSA  28-Oct-2022  Quarterly      
+CIU2010000520000I             Employment Cost Index: Total compensation for Private industry workers in Transportation and material moving             NSA  28-Oct-2022  Quarterly      
+CIU2012300000000I             Employment Cost Index: Total compensation for Private industry workers in Construction                                   NSA  28-Oct-2022  Quarterly      
+CIU2013000000000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing                                  NSA  28-Oct-2022  Quarterly      
+CIU2013000000510I             Employment Cost Index: Total compensation for Private industry workers in Union, manufacturing                           NSA  28-Oct-2022  Quarterly      
+CIU2013000000520I             Employment Cost Index: Total compensation for Private industry workers in Nonunion, manufacturing                        NSA  28-Oct-2022  Quarterly      
+CIU2013000100000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing; management, professional, and   NSA  28-Oct-2022  Quarterly      
+CIU2013000200000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing, sales and office occupations    NSA  28-Oct-2022  Quarterly      
+CIU2013000400000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing; natural resources, constructio  NSA  28-Oct-2022  Quarterly      
+CIU2013000500000I             Employment Cost Index: Total compensation for Private industry workers in Manufacturing; production, transportation, an  NSA  28-Oct-2022  Quarterly      
+CIU2013211000000I             Employment Cost Index: Total compensation for Private industry workers in Aircraft manufacturing                         NSA  28-Oct-2022  Quarterly      
+CIU2014000000000I             Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities           NSA  28-Oct-2022  Quarterly      
+CIU2014000000710I             Employment Cost Index: Total compensation for Private industry workers in Trade, transportation, and utilities, excludi  NSA  28-Oct-2022  Quarterly      
+CIU2014110000000I             Employment Cost Index: Total compensation for Private industry workers in Wholesale trade                                NSA  28-Oct-2022  Quarterly      
+CIU2014110000710I             Employment Cost Index: Total compensation for Private industry workers in Wholesale trade, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly      
+CIU2014120000000I             Employment Cost Index: Total compensation for Private industry workers in Retail trade                                   NSA  28-Oct-2022  Quarterly      
+CIU2014120000710I             Employment Cost Index: Total compensation for Private industry workers in Retail trade, excluding incentive paid occupa  NSA  28-Oct-2022  Quarterly      
+CIU2014300000000I             Employment Cost Index: Total compensation for Private industry workers in Transportation and warehousing                 NSA  28-Oct-2022  Quarterly      
+CIU2014400000000I             Employment Cost Index: Total compensation for Private industry workers in Utilities                                      NSA  28-Oct-2022  Quarterly      
+CIU2015100000000I             Employment Cost Index: Total compensation for Private industry workers in Information                                    NSA  28-Oct-2022  Quarterly      
+CIU2015200000000I             Employment Cost Index: Total compensation for Private industry workers in Finance and insurance                          NSA  28-Oct-2022  Quarterly      
+CIU201520A000000I             Employment Cost Index: Total compensation for Private industry workers in Financial activities                           NSA  28-Oct-2022  Quarterly      
+CIU201520A000710I             Employment Cost Index: Total compensation for Private industry workers in Financial activities, excluding incentive pai  NSA  28-Oct-2022  Quarterly      
+CIU2015220000000I             Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related activities   NSA  28-Oct-2022  Quarterly      
+CIU2015220000710I             Employment Cost Index: Total compensation for Private industry workers in Credit intermediation and related, excluding   NSA  28-Oct-2022  Quarterly      
+CIU2015240000000I             Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related activities      NSA  28-Oct-2022  Quarterly      
+CIU2015240000710I             Employment Cost Index: Total compensation for Private industry workers in Insurance carriers and related, excluding inc  NSA  28-Oct-2022  Quarterly      
+CIU2015300000000I             Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing             NSA  28-Oct-2022  Quarterly      
+CIU2015300000710I             Employment Cost Index: Total compensation for Private industry workers in Real estate and rental and leasing, excluding  NSA  28-Oct-2022  Quarterly      
+CIU2015400000000I             Employment Cost Index: Total compensation for Private industry workers in Professional, scientific, and technical servi  NSA  28-Oct-2022  Quarterly      
+CIU201540A000000I             Employment Cost Index: Total compensation for Private industry workers in Professional and business services             NSA  28-Oct-2022  Quarterly      
+CIU2015600000000I             Employment Cost Index: Total compensation for Private industry workers in Administrative and support and waste manageme  NSA  28-Oct-2022  Quarterly      
+CIU2016000000000I             Employment Cost Index: Total compensation for Private industry workers in Education and health services                  NSA  28-Oct-2022  Quarterly      
+CIU2016100000000I             Employment Cost Index: Total compensation for Private industry workers in Education services                             NSA  28-Oct-2022  Quarterly      
+CIU2016120000000I             Employment Cost Index: Total compensation for Private industry workers in Junior colleges, colleges, universities, and   NSA  28-Oct-2022  Quarterly      
+CIU2016200000000I             Employment Cost Index: Total compensation for Private industry workers in Health care and social assistance              NSA  28-Oct-2022  Quarterly      
+CIU2016220000000I             Employment Cost Index: Total compensation for Private industry workers in Hospitals                                      NSA  28-Oct-2022  Quarterly      
+CIU2016230000000I             Employment Cost Index: Total compensation for Private industry workers in Nursing and residential care facilities        NSA  28-Oct-2022  Quarterly      
+CIU2016231000000I             Employment Cost Index: Total compensation for Private industry workers in Nursing care facilities                        NSA  28-Oct-2022  Quarterly      
+CIU2017000000000I             Employment Cost Index: Total compensation for Private industry workers in Leisure and hospitality                        NSA  28-Oct-2022  Quarterly      
+CIU2017200000000I             Employment Cost Index: Total compensation for Private industry workers in Accommodations and food service                NSA  28-Oct-2022  Quarterly      
+CIU2018100000000I             Employment Cost Index: Total compensation for Private industry workers in Other services, except public administration   NSA  28-Oct-2022  Quarterly      
+CIU201G000000000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing industries                     NSA  28-Oct-2022  Quarterly      
+CIU201G000000510I             Employment Cost Index: Total compensation for Private industry workers in Union, goods-producing industries              NSA  28-Oct-2022  Quarterly      
+CIU201G000000520I             Employment Cost Index: Total compensation for Private industry workers in Nonunion, goods-producing industries           NSA  28-Oct-2022  Quarterly      
+CIU201G000000710I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly      
+CIU201G000100000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing; management, professional, an  NSA  28-Oct-2022  Quarterly      
+CIU201G000200000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing, sales and office occupations  NSA  28-Oct-2022  Quarterly      
+CIU201G000400000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing; natural resources, construct  NSA  28-Oct-2022  Quarterly      
+CIU201G000500000I             Employment Cost Index: Total compensation for Private industry workers in Goods-producing; production, transportation,   NSA  28-Oct-2022  Quarterly      
+CIU201S000000000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing industries                   NSA  28-Oct-2022  Quarterly      
+CIU201S000000510I             Employment Cost Index: Total compensation for Private industry workers in Union, service-providing industries            NSA  28-Oct-2022  Quarterly      
+CIU201S000000520I             Employment Cost Index: Total compensation for Private industry workers in Nonunion, service-providing industries         NSA  28-Oct-2022  Quarterly      
+CIU201S000000710I             Employment Cost Index: Total compensation for Private industry workers in Service-providing, excluding incentive paid o  NSA  28-Oct-2022  Quarterly      
+CIU201S000100000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing; management, professional,   NSA  28-Oct-2022  Quarterly      
+CIU201S000200000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing, sales and office occupatio  NSA  28-Oct-2022  Quarterly      
+CIU201S000300000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing, service occupations         NSA  28-Oct-2022  Quarterly      
+CIU201S000400000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing; natural resources, constru  NSA  28-Oct-2022  Quarterly      
+CIU201S000500000I             Employment Cost Index: Total compensation for Private industry workers in Service-providing; production, transportation  NSA  28-Oct-2022  Quarterly      
+CIU2020000000000I             Employment Cost Index: Wages and salaries for Private industry workers in All industries and occupations                 NSA  28-Oct-2022  Quarterly      
+CIU2020000000210I             Employment Cost Index: Wages and salaries for Private industry workers in the Northeast Census Region                    NSA  28-Oct-2022  Quarterly      
+CIU2020000000211I             Employment Cost Index: Wages and salaries for Private industry workers in the New England Census Division                NSA  28-Oct-2022  Quarterly      
+CIU2020000000212I             Employment Cost Index: Wages and salaries for Private industry workers in the Middle Atlantic Census Division            NSA  28-Oct-2022  Quarterly      
+CIU2020000000220I             Employment Cost Index: Wages and salaries for Private industry workers in the South Census Region                        NSA  28-Oct-2022  Quarterly      
+CIU2020000000225I             Employment Cost Index: Wages and salaries for Private industry workers in the South Atlantic Census Division             NSA  28-Oct-2022  Quarterly      
+CIU2020000000226I             Employment Cost Index: Wages and salaries for Private industry workers in the East South Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2020000000227I             Employment Cost Index: Wages and salaries for Private industry workers in the West South Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2020000000230I             Employment Cost Index: Wages and salaries for Private industry workers in the Midwest Census Region                      NSA  28-Oct-2022  Quarterly      
+CIU2020000000233I             Employment Cost Index: Wages and salaries for Private industry workers in the East North Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2020000000234I             Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division         NSA  28-Oct-2022  Quarterly      
+CIU2020000000240I             Employment Cost Index: Wages and salaries for Private industry workers in the West Census Region                         NSA  28-Oct-2022  Quarterly      
+CIU2020000000248I             Employment Cost Index: Wages and salaries for Private industry workers in the Mountain Census Division                   NSA  28-Oct-2022  Quarterly      
+CIU2020000000249I             Employment Cost Index: Wages and salaries for Private industry workers in the Pacific Census Division                    NSA  28-Oct-2022  Quarterly      
+CIU2020000000510I             Employment Cost Index: Wages and salaries for Private industry workers in All union workers                              NSA  28-Oct-2022  Quarterly      
+CIU2020000000520I             Employment Cost Index: Wages and salaries for Private industry workers in All nonunion workers                           NSA  28-Oct-2022  Quarterly      
+CIU2020000000710I             Employment Cost Index: Wages and salaries for Private industry workers in All workers, excluding incentive paid          NSA  28-Oct-2022  Quarterly      
+CIU2020000100000I             Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related          NSA  28-Oct-2022  Quarterly      
+CIU2020000100710I             Employment Cost Index: Wages and salaries for Private industry workers in Management, professional, and related; exclud  NSA  28-Oct-2022  Quarterly      
+CIU2020000110000I             Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial            NSA  28-Oct-2022  Quarterly      
+CIU2020000110710I             Employment Cost Index: Wages and salaries for Private industry workers in Management, business, and financial; excludin  NSA  28-Oct-2022  Quarterly      
+CIU2020000120000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional and related                       NSA  28-Oct-2022  Quarterly      
+CIU2020000200000I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and office                               NSA  28-Oct-2022  Quarterly      
+CIU2020000200710I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and office, excluding incentive paid     NSA  28-Oct-2022  Quarterly      
+CIU2020000210000I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and related                              NSA  28-Oct-2022  Quarterly      
+CIU2020000210710I             Employment Cost Index: Wages and salaries for Private industry workers in Sales and related, excluding incentive paid    NSA  28-Oct-2022  Quarterly      
+CIU2020000220000I             Employment Cost Index: Wages and salaries for Private industry workers in Office and administrative support              NSA  28-Oct-2022  Quarterly      
+CIU2020000400000I             Employment Cost Index: Wages and salaries for Private industry workers in Natural resources, construction, and maintena  NSA  28-Oct-2022  Quarterly      
+CIU2020000405000I             Employment Cost Index: Wages and salaries for Private industry workers in Construction, extraction, farming, fishing, a  NSA  28-Oct-2022  Quarterly      
+CIU2020000430000I             Employment Cost Index: Wages and salaries for Private industry workers in Installation, maintenance, and repair          NSA  28-Oct-2022  Quarterly      
+CIU2020000500000I             Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly      
+CIU2020000500710I             Employment Cost Index: Wages and salaries for Private industry workers in Production, transportation, and material movi  NSA  28-Oct-2022  Quarterly      
+CIU2020000510000I             Employment Cost Index: Wages and salaries for Private industry workers in Production                                     NSA  28-Oct-2022  Quarterly      
+CIU2020000510710I             Employment Cost Index: Wages and salaries for Private industry workers in Production, exluding incentive paid            NSA  28-Oct-2022  Quarterly      
+CIU2020000520000I             Employment Cost Index: Wages and salaries for Private industry workers in Transportation and material moving             NSA  28-Oct-2022  Quarterly      
+CIU2022300000000I             Employment Cost Index: Wages and salaries for Private industry workers in Construction                                   NSA  28-Oct-2022  Quarterly      
+CIU2023000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing                                  NSA  28-Oct-2022  Quarterly      
+CIU2023000000510I             Employment Cost Index: Wages and salaries for Private industry workers in Union, manufacturing                           NSA  28-Oct-2022  Quarterly      
+CIU2023000000520I             Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, manufacturing                        NSA  28-Oct-2022  Quarterly      
+CIU2023000100000I             Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; management, professional, and   NSA  28-Oct-2022  Quarterly      
+CIU2023000200000I             Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing, sales and office occupations    NSA  28-Oct-2022  Quarterly      
+CIU2023000400000I             Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; natural resources, constructio  NSA  28-Oct-2022  Quarterly      
+CIU2023000500000I             Employment Cost Index: Wages and salaries for Private industry workers in Manufacturing; production, transportation, an  NSA  28-Oct-2022  Quarterly      
+CIU2023211000000I             Employment Cost Index: Wages and salaries for Private industry workers in Aircraft manufacturing                         NSA  28-Oct-2022  Quarterly      
+CIU2024000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities           NSA  28-Oct-2022  Quarterly      
+CIU2024000000710I             Employment Cost Index: Wages and salaries for Private industry workers in Trade, transportation, and utilities; excludi  NSA  28-Oct-2022  Quarterly      
+CIU2024110000000I             Employment Cost Index: Wages and salaries for Private industry workers in Wholesale trade                                NSA  28-Oct-2022  Quarterly      
+CIU2024110000710I             Employment Cost Index: Wages and salaries for Private industry workers in Wholesale trade, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly      
+CIU2024120000000I             Employment Cost Index: Wages and salaries for Private industry workers in Retail trade                                   NSA  28-Oct-2022  Quarterly      
+CIU2024120000710I             Employment Cost Index: Wages and salaries for Private industry workers in Retail trade, excluding incentive paid occupa  NSA  28-Oct-2022  Quarterly      
+CIU2024300000000I             Employment Cost Index: Wages and salaries for Private industry workers in Transportation and warehousing                 NSA  28-Oct-2022  Quarterly      
+CIU2024400000000I             Employment Cost Index: Wages and salaries for Private industry workers in Utilities                                      NSA  28-Oct-2022  Quarterly      
+CIU2025100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Information                                    NSA  28-Oct-2022  Quarterly      
+CIU2025200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Finance and insurance                          NSA  28-Oct-2022  Quarterly      
+CIU202520A000000I             Employment Cost Index: Wages and salaries for Private industry workers in Financial activities                           NSA  28-Oct-2022  Quarterly      
+CIU202520A000710I             Employment Cost Index: Wages and salaries for Private industry workers in Financial activities, excluding incentive pai  NSA  28-Oct-2022  Quarterly      
+CIU2025220000000I             Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related activities   NSA  28-Oct-2022  Quarterly      
+CIU2025220000710I             Employment Cost Index: Wages and salaries for Private industry workers in Credit intermediation and related, excluding   NSA  28-Oct-2022  Quarterly      
+CIU2025240000000I             Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related activities      NSA  28-Oct-2022  Quarterly      
+CIU2025240000710I             Employment Cost Index: Wages and salaries for Private industry workers in Insurance carriers and related, excluding inc  NSA  28-Oct-2022  Quarterly      
+CIU2025300000000I             Employment Cost Index: Wages and salaries for Private industry workers in Real estate and rental and leasing             NSA  28-Oct-2022  Quarterly      
+CIU2025300000710I             Employment Cost Index: Wages and salaries for Private industry workers in Real estate and rental and leasing, excluding  NSA  28-Oct-2022  Quarterly      
+CIU2025400000000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional, scientific, and technical servi  NSA  28-Oct-2022  Quarterly      
+CIU202540A000000I             Employment Cost Index: Wages and salaries for Private industry workers in Professional and business services             NSA  28-Oct-2022  Quarterly      
+CIU2025600000000I             Employment Cost Index: Wages and salaries for Private industry workers in Administrative and support and waste manageme  NSA  28-Oct-2022  Quarterly      
+CIU2026000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Education and health services                  NSA  28-Oct-2022  Quarterly      
+CIU2026100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Education services                             NSA  28-Oct-2022  Quarterly      
+CIU2026120000000I             Employment Cost Index: Wages and salaries for Private industry workers in Junior colleges, colleges, universities, and   NSA  28-Oct-2022  Quarterly      
+CIU2026200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Health care and social assistance              NSA  28-Oct-2022  Quarterly      
+CIU2026220000000I             Employment Cost Index: Wages and salaries for Private industry workers in Hospitals                                      NSA  28-Oct-2022  Quarterly      
+CIU2026230000000I             Employment Cost Index: Wages and salaries for Private industry workers in Nursing and residential care facilities        NSA  28-Oct-2022  Quarterly      
+CIU2026231000000I             Employment Cost Index: Wages and salaries for Private industry workers in Nursing care facilities                        NSA  28-Oct-2022  Quarterly      
+CIU2027000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Leisure and hospitality                        NSA  28-Oct-2022  Quarterly      
+CIU2027200000000I             Employment Cost Index: Wages and salaries for Private industry workers in Accommodations and food service                NSA  28-Oct-2022  Quarterly      
+CIU2028100000000I             Employment Cost Index: Wages and salaries for Private industry workers in Other services, except public administration   NSA  28-Oct-2022  Quarterly      
+CIU202G000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing industries                     NSA  28-Oct-2022  Quarterly      
+CIU202G000000510I             Employment Cost Index: Wages and salaries for Private industry workers in Union, goods-producing industries              NSA  28-Oct-2022  Quarterly      
+CIU202G000000520I             Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, goods-producing industries           NSA  28-Oct-2022  Quarterly      
+CIU202G000000710I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing, excluding incentive paid occ  NSA  28-Oct-2022  Quarterly      
+CIU202G000100000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; management, professional, an  NSA  28-Oct-2022  Quarterly      
+CIU202G000200000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing, sales and office occupations  NSA  28-Oct-2022  Quarterly      
+CIU202G000400000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; natural resources, construct  NSA  28-Oct-2022  Quarterly      
+CIU202G000500000I             Employment Cost Index: Wages and salaries for Private industry workers in Goods-producing; production, transportation,   NSA  28-Oct-2022  Quarterly      
+CIU202S000000000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing industries                   NSA  28-Oct-2022  Quarterly      
+CIU202S000000510I             Employment Cost Index: Wages and salaries for Private industry workers in Union, service-providing industries            NSA  28-Oct-2022  Quarterly      
+CIU202S000000520I             Employment Cost Index: Wages and salaries for Private industry workers in Nonunion, service-providing industries         NSA  28-Oct-2022  Quarterly      
+CIU202S000000710I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, excluding incentive paid o  NSA  28-Oct-2022  Quarterly      
+CIU202S000100000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; management, professional,   NSA  28-Oct-2022  Quarterly      
+CIU202S000200000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, sales and office occupatio  NSA  28-Oct-2022  Quarterly      
+CIU202S000300000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing, service occupations         NSA  28-Oct-2022  Quarterly      
+CIU202S000400000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; natural resources, constru  NSA  28-Oct-2022  Quarterly      
+CIU202S000500000I             Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; production, transportation  NSA  28-Oct-2022  Quarterly      
+CIU2030000000000I             Employment Cost Index: Total benefits for Private industry workers in All industries and occupations                     NSA  28-Oct-2022  Quarterly      
+CIU2030000000510I             Employment Cost Index: Total benefits for Private industry workers in All union workers                                  NSA  28-Oct-2022  Quarterly      
+CIU2030000000520I             Employment Cost Index: Total benefits for Private industry workers in All nonunion workers                               NSA  28-Oct-2022  Quarterly      
+CIU2030000100000I             Employment Cost Index: Total benefits for Private industry workers in Management, professional, and related              NSA  28-Oct-2022  Quarterly      
+CIU2030000200000I             Employment Cost Index: Total benefits for Private industry workers in Sales and office                                   NSA  28-Oct-2022  Quarterly      
+CIU2030000300000I             Employment Cost Index: Total benefits for Private industry workers in Service occupations                                NSA  28-Oct-2022  Quarterly      
+CIU2030000400000I             Employment Cost Index: Total benefits for Private industry workers in Natural resources, construction, and maintenance   NSA  28-Oct-2022  Quarterly      
+CIU2030000500000I             Employment Cost Index: Total benefits for Private industry workers in Production, transportation, and material moving    NSA  28-Oct-2022  Quarterly      
+CIU2033000000000I             Employment Cost Index: Total benefits for Private industry workers in Manufacturing                                      NSA  28-Oct-2022  Quarterly      
+CIU2033211000000I             Employment Cost Index: Total benefits for Private industry workers in Aircraft manufacturing                             NSA  28-Oct-2022  Quarterly      
+CIU203G000000000I             Employment Cost Index: Total benefits for Private industry workers in Goods-producing industries                         NSA  28-Oct-2022  Quarterly      
+CIU203S000000000I             Employment Cost Index: Total benefits for Private industry workers in Service-providing industries                       NSA  28-Oct-2022  Quarterly      
+CIU3010000000000I             Employment Cost Index: Total compensation for State and local government workers in All industries and occupations       NSA  28-Oct-2022  Quarterly      
+CIU3010000100000I             Employment Cost Index: Total compensation for State and local government workers in Management, professional, and relat  NSA  28-Oct-2022  Quarterly      
+CIU3010000120000I             Employment Cost Index: Total compensation for State and local government workers in Professional and related             NSA  28-Oct-2022  Quarterly      
+CIU3010000200000I             Employment Cost Index: Total compensation for State and local government workers in Sales and office                     NSA  28-Oct-2022  Quarterly      
+CIU3010000220000I             Employment Cost Index: Total compensation for State and local government workers in Office and administrative support    NSA  28-Oct-2022  Quarterly      
+CIU3010000300000I             Employment Cost Index: Total compensation for State and local government workers in Service occupations                  NSA  28-Oct-2022  Quarterly      
+CIU3016000000000I             Employment Cost Index: Total compensation for State and local government workers in Education and health services        NSA  28-Oct-2022  Quarterly      
+CIU3016100000000I             Employment Cost Index: Total compensation for State and local government workers in Education services                   NSA  28-Oct-2022  Quarterly      
+CIU3016105000000I             Employment Cost Index: Total compensation for State and local government workers in Schools                              NSA  28-Oct-2022  Quarterly      
+CIU3016110000000I             Employment Cost Index: Total compensation for State and local government workers in Elementary and secondary schools     NSA  28-Oct-2022  Quarterly      
+CIU3016200000000I             Employment Cost Index: Total compensation for State and local government workers in Health care and social assistance    NSA  28-Oct-2022  Quarterly      
+CIU3016220000000I             Employment Cost Index: Total compensation for State and local government workers in Hospitals                            NSA  28-Oct-2022  Quarterly      
+CIU3019200000000I             Employment Cost Index: Total compensation for State and local government workers in Public administration                NSA  28-Oct-2022  Quarterly      
+CIU3020000000000I             Employment Cost Index: Wages and salaries for State and local government workers in All industries and occupations       NSA  28-Oct-2022  Quarterly      
+CIU3020000100000I             Employment Cost Index: Wages and salaries for State and local government workers in Management, professional, and relat  NSA  28-Oct-2022  Quarterly      
+CIU3020000120000I             Employment Cost Index: Wages and salaries for State and local government workers in Professional and related             NSA  28-Oct-2022  Quarterly      
+CIU3020000200000I             Employment Cost Index: Wages and salaries for State and local government workers in Sales and office                     NSA  28-Oct-2022  Quarterly      
+CIU3020000220000I             Employment Cost Index: Wages and salaries for State and local government workers in Office and administrative support    NSA  28-Oct-2022  Quarterly      
+CIU3020000300000I             Employment Cost Index: Wages and salaries for State and local government workers in Service occupations                  NSA  28-Oct-2022  Quarterly      
+CIU3026000000000I             Employment Cost Index: Wages and salaries for State and local government workers in Education and health services        NSA  28-Oct-2022  Quarterly      
+CIU3026100000000I             Employment Cost Index: Wages and salaries for State and local government workers in Education services                   NSA  28-Oct-2022  Quarterly      
+CIU3026105000000I             Employment Cost Index: Wages and salaries for State and local government workers in Schools                              NSA  28-Oct-2022  Quarterly      
+CIU3026110000000I             Employment Cost Index: Wages and salaries for State and local government workers in Elementary and secondary schools     NSA  28-Oct-2022  Quarterly      
+CIU3026200000000I             Employment Cost Index: Wages and salaries for State and local government workers in Health care and social assistance    NSA  28-Oct-2022  Quarterly      
+CIU3026220000000I             Employment Cost Index: Wages and salaries for State and local government workers in Hospitals                            NSA  28-Oct-2022  Quarterly      
+CIU3029200000000I             Employment Cost Index: Wages and salaries for State and local government workers in Public administration                NSA  28-Oct-2022  Quarterly      
+CIU3030000000000I             Employment Cost Index: Total benefits for State and local government workers in All industries and occupations           NSA  28-Oct-2022  Quarterly      
+ECIALLCIV                     Employment Cost Index: Total compensation: All Civilian                                                                  SA   28-Oct-2022  Quarterly      
+ECIBEN                        Employment Cost Index: Benefits: Private Industry Workers                                                                SA   28-Oct-2022  Quarterly      
+ECICOM                        Employment Cost Index: Compensation: Private Industry Workers                                                            SA   28-Oct-2022  Quarterly      
+ECICONCOM                     Employment Cost Index: Compensation: Private Industry Workers: Construction                                              SA   28-Oct-2022  Quarterly      
+ECICONWAG                     Employment Cost Index: Wages and Salaries: Private Industry Workers: Construction                                        SA   28-Oct-2022  Quarterly      
+ECIGVTBEN                     Employment Cost Index: Benefits: State and Local Government: All Workers                                                 SA   28-Oct-2022  Quarterly      
+ECIGVTCOM                     Employment Cost Index: Compensation: State and Local Government: All Workers                                             SA   28-Oct-2022  Quarterly      
+ECIGVTWAG                     Employment Cost Index: Wages and Salaries: State and Local Government: All Workers                                       SA   28-Oct-2022  Quarterly      
+ECIMANBEN                     Employment Cost Index: Benefits: Private Industry Workers: Manufacturing                                                 SA   28-Oct-2022  Quarterly      
+ECIMANCOM                     Employment Cost Index: Compensation: Private Industry Workers: Manufacturing                                             SA   28-Oct-2022  Quarterly      
+ECIMANWAG                     Employment Cost Index: Wages and Salaries: Private Industry Workers: Manufacturing                                       SA   28-Oct-2022  Quarterly      
+ECISRVBEN                     Employment Cost Index: Benefits: Private Industry Workers: Service Occupations                                           SA   28-Oct-2022  Quarterly      
+ECISRVCOM                     Employment Cost Index: Compensation: Private Industry Workers: Service Occupations                                       SA   28-Oct-2022  Quarterly      
+ECISRVWAG                     Employment Cost Index: Wages and Salaries: Private Industry Workers: Service Occupations                                 NSA  28-Oct-2022  Quarterly      
+ECIWAG                        Employment Cost Index: Wages and Salaries: Private Industry Workers                                                      SA   28-Oct-2022  Quarterly      

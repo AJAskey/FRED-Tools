@@ -1,241 +1,241 @@
 Id : 183  Gasoline and Diesel Fuel Update
-GASALLA                                 US All Grades All Formulations Gas Price                                                                                 NSA  03-Jan-2022  Annual
-GASALLCOVA                              US All Grades Conventional Gas Price                                                                                     NSA  03-Jan-2022  Annual
-GASALLCOVECA                            PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  03-Jan-2022  Annual
-GASALLCOVECM                            PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASALLCOVECW                            PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASALLCOVGCA                            PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  03-Jan-2022  Annual
-GASALLCOVGCM                            PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly
-GASALLCOVGCW                            PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly
-GASALLCOVM                              US All Grades Conventional Gas Price                                                                                     NSA  28-Nov-2022  Monthly
-GASALLCOVMWA                            PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  03-Jan-2022  Annual
-GASALLCOVMWM                            PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASALLCOVMWW                            PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASALLCOVRMA                            PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  03-Jan-2022  Annual
-GASALLCOVRMM                            PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  28-Nov-2022  Monthly
-GASALLCOVRMW                            PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  05-Dec-2022  Weekly
-GASALLCOVW                              US All Grades Conventional Gas Price                                                                                     NSA  05-Dec-2022  Weekly
-GASALLCOVWCA                            PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  03-Jan-2022  Annual
-GASALLCOVWCM                            PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASALLCOVWCW                            PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASALLECA                               PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual
-GASALLECM                               PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
-GASALLECW                               PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
-GASALLGCA                               PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual
-GASALLGCM                               PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Period
-GASALLGCW                               PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
-GASALLM                                 US All Grades All Formulations Gas Price                                                                                 NSA  28-Nov-2022  Monthly, End of Period
-GASALLMWA                               PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual
-GASALLMWM                               PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
-GASALLMWW                               PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
-GASALLREFA                              US All Grades Reformulated Gas Price                                                                                     NSA  03-Jan-2022  Annual
-GASALLREFECA                            PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual
-GASALLREFECM                            PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASALLREFECW                            PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASALLREFGCA                            PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  03-Jan-2022  Annual
-GASALLREFGCM                            PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  28-Nov-2022  Monthly
-GASALLREFGCW                            PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  05-Dec-2022  Weekly
-GASALLREFM                              US All Grades Reformulated Gas Price                                                                                     NSA  28-Nov-2022  Monthly
-GASALLREFMWA                            PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual
-GASALLREFMWM                            PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASALLREFMWW                            PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASALLREFW                              US All Grades Reformulated Gas Price                                                                                     NSA  05-Dec-2022  Weekly
-GASALLREFWCA                            PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual
-GASALLREFWCM                            PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASALLREFWCW                            PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASALLRMA                               PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  03-Jan-2022  Annual
-GASALLRMM                               PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  28-Nov-2022  Monthly, End of Period
-GASALLRMW                               PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  05-Dec-2022  Weekly, Ending Monday
-GASALLW                                 US All Grades All Formulations Gas Price                                                                                 NSA  05-Dec-2022  Weekly, Ending Monday
-GASALLWCA                               PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual
-GASALLWCM                               PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
-GASALLWCW                               PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESA                                 US Diesel Sales Price                                                                                                    NSA  03-Jan-2022  Annual
-GASDESECA                               PADD I (East Coast District) Diesel Sales Price                                                                          NSA  03-Jan-2022  Annual
-GASDESECM                               PADD I (East Coast District) Diesel Sales Price                                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASDESECW                               PADD I (East Coast District) Diesel Sales Price                                                                          NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESGCA                               PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  03-Jan-2022  Annual
-GASDESGCM                               PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  28-Nov-2022  Monthly, End of Period
-GASDESGCW                               PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESLSA                               US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  03-Jan-2022  Annual
-GASDESLSECA                             PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  03-Jan-2022  Annual
-GASDESLSECM                             PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  28-Nov-2022  Monthly
-GASDESLSECW                             PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  05-Dec-2022  Weekly
-GASDESLSGCA                             PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  03-Jan-2022  Annual
-GASDESLSGCM                             PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  28-Nov-2022  Monthly
-GASDESLSGCW                             PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  05-Dec-2022  Weekly
-GASDESLSM                               US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  28-Nov-2022  Monthly
-GASDESLSMWA                             PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  03-Jan-2022  Annual
-GASDESLSMWM                             PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  28-Nov-2022  Monthly
-GASDESLSMWW                             PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  05-Dec-2022  Weekly
-GASDESLSRMA                             PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  03-Jan-2022  Annual
-GASDESLSRMM                             PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  28-Nov-2022  Monthly
-GASDESLSRMW                             PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  05-Dec-2022  Weekly
-GASDESLSW                               US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  05-Dec-2022  Weekly
-GASDESLSWCA                             PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  03-Jan-2022  Annual
-GASDESLSWCM                             PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  28-Nov-2022  Monthly
-GASDESLSWCW                             PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  05-Dec-2022  Weekly
-GASDESM                                 US Diesel Sales Price                                                                                                    NSA  28-Nov-2022  Monthly, End of Period
-GASDESMWA                               PADD II (Midwest District) Diesel Sales Price                                                                            NSA  03-Jan-2022  Annual
-GASDESMWM                               PADD II (Midwest District) Diesel Sales Price                                                                            NSA  28-Nov-2022  Monthly, End of Period
-GASDESMWW                               PADD II (Midwest District) Diesel Sales Price                                                                            NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESRMA                               PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  03-Jan-2022  Annual
-GASDESRMM                               PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  28-Nov-2022  Monthly, End of Period
-GASDESRMW                               PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESW                                 US Diesel Sales Price                                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
-GASDESWCA                               PADD V (West Coast District) Diesel Sales Price                                                                          NSA  03-Jan-2022  Annual
-GASDESWCM                               PADD V (West Coast District) Diesel Sales Price                                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASDESWCW                               PADD V (West Coast District) Diesel Sales Price                                                                          NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDA                                 US Midgrade All Formulations Gas Price                                                                                   NSA  03-Jan-2022  Annual
-GASMIDCOVA                              US Midgrade Conventional Gas Price                                                                                       NSA  03-Jan-2022  Annual
-GASMIDCOVECA                            PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  03-Jan-2022  Annual
-GASMIDCOVECM                            PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASMIDCOVECW                            PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASMIDCOVGCA                            PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  03-Jan-2022  Annual
-GASMIDCOVGCM                            PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASMIDCOVGCW                            PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASMIDCOVM                              US Midgrade Conventional Gas Price                                                                                       NSA  28-Nov-2022  Monthly
-GASMIDCOVMWA                            PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  03-Jan-2022  Annual
-GASMIDCOVMWM                            PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  28-Nov-2022  Monthly
-GASMIDCOVMWW                            PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  05-Dec-2022  Weekly
-GASMIDCOVRMA                            PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  03-Jan-2022  Annual
-GASMIDCOVRMM                            PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  28-Nov-2022  Monthly
-GASMIDCOVRMW                            PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  05-Dec-2022  Weekly
-GASMIDCOVW                              US Midgrade Conventional Gas Price                                                                                       NSA  05-Dec-2022  Weekly
-GASMIDCOVWCA                            PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  03-Jan-2022  Annual
-GASMIDCOVWCM                            PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASMIDCOVWCW                            PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASMIDECA                               PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual
-GASMIDECM                               PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
-GASMIDECW                               PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDGCA                               PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual
-GASMIDGCM                               PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
-GASMIDGCW                               PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDM                                 US Midgrade All Formulations Gas Price                                                                                   NSA  28-Nov-2022  Monthly, End of Period
-GASMIDMWA                               PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  03-Jan-2022  Annual
-GASMIDMWM                               PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  28-Nov-2022  Monthly, End of Period
-GASMIDMWW                               PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDREFA                              US Midgrade Reformulated Gas Price                                                                                       NSA  03-Jan-2022  Annual
-GASMIDREFECA                            PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual
-GASMIDREFECM                            PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASMIDREFECW                            PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASMIDREFGCA                            PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual
-GASMIDREFGCM                            PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly
-GASMIDREFGCW                            PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly
-GASMIDREFM                              US Midgrade Reformulated Gas Price                                                                                       NSA  28-Nov-2022  Monthly
-GASMIDREFMWA                            PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  03-Jan-2022  Annual
-GASMIDREFMWM                            PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  28-Nov-2022  Monthly
-GASMIDREFMWW                            PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  05-Dec-2022  Weekly
-GASMIDREFW                              US Midgrade Reformulated Gas Price                                                                                       NSA  05-Dec-2022  Weekly
-GASMIDREFWCA                            PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual
-GASMIDREFWCM                            PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly
-GASMIDREFWCW                            PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly
-GASMIDRMA                               PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  03-Jan-2022  Annual
-GASMIDRMM                               PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  28-Nov-2022  Monthly, End of Period
-GASMIDRMW                               PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDW                                 US Midgrade All Formulations Gas Price                                                                                   NSA  05-Dec-2022  Weekly, Ending Monday
-GASMIDWCA                               PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual
-GASMIDWCM                               PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
-GASMIDWCW                               PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMA                                 US Premium All Formulations Gas Price                                                                                    NSA  03-Jan-2022  Annual
-GASPRMCOVA                              US Premium Conventional Gas Price                                                                                        NSA  03-Jan-2022  Annual
-GASPRMCOVECA                            PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  03-Jan-2022  Annual
-GASPRMCOVECM                            PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASPRMCOVECW                            PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASPRMCOVGCA                            PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  03-Jan-2022  Annual
-GASPRMCOVGCM                            PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  28-Nov-2022  Monthly
-GASPRMCOVGCW                            PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  05-Dec-2022  Weekly
-GASPRMCOVM                              US Premium Conventional Gas Price                                                                                        NSA  28-Nov-2022  Monthly
-GASPRMCOVMWA                            PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  03-Jan-2022  Annual
-GASPRMCOVMWM                            PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  28-Nov-2022  Monthly
-GASPRMCOVMWW                            PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  05-Dec-2022  Weekly
-GASPRMCOVRMA                            PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  03-Jan-2022  Annual
-GASPRMCOVRMM                            PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly
-GASPRMCOVRMW                            PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly
-GASPRMCOVW                              US Premium Conventional Gas Price                                                                                        NSA  05-Dec-2022  Weekly
-GASPRMCOVWCA                            PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  03-Jan-2022  Annual
-GASPRMCOVWCM                            PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASPRMCOVWCW                            PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASPRMECA                               PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual
-GASPRMECM                               PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASPRMECW                               PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMGCA                               PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  03-Jan-2022  Annual
-GASPRMGCM                               PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  28-Nov-2022  Monthly
-GASPRMGCW                               PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMM                                 US Premium All Formulations Gas Price                                                                                    NSA  28-Nov-2022  Monthly
-GASPRMMWA                               PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  03-Jan-2022  Annual
-GASPRMMWM                               PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  28-Nov-2022  Monthly, End of Period
-GASPRMMWW                               PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMREFA                              US Premium Reformulated Gas Price                                                                                        NSA  03-Jan-2022  Annual
-GASPRMREFECA                            PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual
-GASPRMREFECM                            PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASPRMREFECW                            PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASPRMREFGCA                            PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  03-Jan-2022  Annual
-GASPRMREFGCM                            PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  28-Nov-2022  Monthly
-GASPRMREFGCW                            PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  05-Dec-2022  Weekly
-GASPRMREFM                              US Premium Reformulated Gas Price                                                                                        NSA  28-Nov-2022  Monthly
-GASPRMREFMWA                            PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  03-Jan-2022  Annual
-GASPRMREFMWM                            PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  28-Nov-2022  Monthly
-GASPRMREFMWW                            PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  05-Dec-2022  Weekly
-GASPRMREFW                              US Premium Reformulated Gas Price                                                                                        NSA  05-Dec-2022  Weekly
-GASPRMREFWCA                            PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual
-GASPRMREFWCM                            PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASPRMREFWCW                            PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASPRMRMA                               PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual
-GASPRMRMM                               PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Month
-GASPRMRMW                               PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMW                                 US Premium All Formulations Gas Price                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
-GASPRMWCA                               PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual
-GASPRMWCM                               PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASPRMWCW                               PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGA                                 US Regular All Formulations Gas Price                                                                                    NSA  03-Jan-2022  Annual
-GASREGCOVA                              US Regular Conventional Gas Price                                                                                        NSA  03-Jan-2022  Annual
-GASREGCOVECA                            PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  03-Jan-2022  Annual
-GASREGCOVECM                            PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASREGCOVECW                            PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASREGCOVGCA                            PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  03-Jan-2022  Annual
-GASREGCOVGCM                            PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  28-Nov-2022  Monthly
-GASREGCOVGCW                            PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  05-Dec-2022  Weekly
-GASREGCOVM                              US Regular Conventional Gas Price                                                                                        NSA  28-Nov-2022  Monthly
-GASREGCOVMWA                            PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  03-Jan-2022  Annual
-GASREGCOVMWM                            PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  28-Nov-2022  Monthly
-GASREGCOVMWW                            PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  05-Dec-2022  Weekly
-GASREGCOVRMA                            PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  03-Jan-2022  Annual
-GASREGCOVRMM                            PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly
-GASREGCOVRMW                            PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly
-GASREGCOVW                              US Regular Conventional Gas Price                                                                                        NSA  05-Dec-2022  Weekly
-GASREGCOVWCA                            PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  03-Jan-2022  Annual
-GASREGCOVWCM                            PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASREGCOVWCW                            PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASREGECA                               PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual
-GASREGECM                               PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASREGECW                               PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGGCA                               PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  03-Jan-2022  Annual
-GASREGGCM                               PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  28-Nov-2022  Monthly, End of Period
-GASREGGCW                               PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGM                                 US Regular All Formulations Gas Price                                                                                    NSA  28-Nov-2022  Monthly, End of Period
-GASREGMWA                               PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  03-Jan-2022  Annual
-GASREGMWM                               PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  28-Nov-2022  Monthly, End of Period
-GASREGMWW                               PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGREFA                              US Regular Reformulated Gas Price                                                                                        NSA  03-Jan-2022  Annual
-GASREGREFECA                            PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual
-GASREGREFECM                            PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASREGREFECW                            PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASREGREFGCA                            PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  03-Jan-2022  Annual
-GASREGREFGCM                            PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  28-Nov-2022  Monthly
-GASREGREFGCW                            PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  05-Dec-2022  Weekly
-GASREGREFM                              US Regular Reformulated Gas Price                                                                                        NSA  28-Nov-2022  Monthly
-GASREGREFMWA                            PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  03-Jan-2022  Annual
-GASREGREFMWM                            PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  28-Nov-2022  Monthly
-GASREGREFMWW                            PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  05-Dec-2022  Weekly
-GASREGREFW                              US Regular Reformulated Gas Price                                                                                        NSA  05-Dec-2022  Weekly
-GASREGREFWCA                            PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual
-GASREGREFWCM                            PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly
-GASREGREFWCW                            PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly
-GASREGRMA                               PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual
-GASREGRMM                               PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Period
-GASREGRMW                               PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGW                                 US Regular All Formulations Gas Price                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
-GASREGWCA                               PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual
-GASREGWCM                               PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
-GASREGWCW                               PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLA                       US All Grades All Formulations Gas Price                                                                                 NSA  03-Jan-2022  Annual         
+GASALLCOVA                    US All Grades Conventional Gas Price                                                                                     NSA  03-Jan-2022  Annual         
+GASALLCOVECA                  PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASALLCOVECM                  PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASALLCOVECW                  PADD I (East Coast District) All Grades Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASALLCOVGCA                  PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASALLCOVGCM                  PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly        
+GASALLCOVGCW                  PADD III (Gulf Coast District) All Grades Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly         
+GASALLCOVM                    US All Grades Conventional Gas Price                                                                                     NSA  28-Nov-2022  Monthly        
+GASALLCOVMWA                  PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASALLCOVMWM                  PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASALLCOVMWW                  PADD II (Midwest District) All Grades Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASALLCOVRMA                  PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  03-Jan-2022  Annual         
+GASALLCOVRMM                  PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  28-Nov-2022  Monthly        
+GASALLCOVRMW                  PADD IV (Rocky Mountain District) All Grades Conventional Gas Price                                                      NSA  05-Dec-2022  Weekly         
+GASALLCOVW                    US All Grades Conventional Gas Price                                                                                     NSA  05-Dec-2022  Weekly         
+GASALLCOVWCA                  PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASALLCOVWCM                  PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASALLCOVWCW                  PADD V (West Coast District) All Grades Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASALLECA                     PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual         
+GASALLECM                     PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
+GASALLECW                     PADD I (East Coast District) All Grades All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLGCA                     PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual         
+GASALLGCM                     PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Period
+GASALLGCW                     PADD III (Gulf Coast District) All Grades All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLM                       US All Grades All Formulations Gas Price                                                                                 NSA  28-Nov-2022  Monthly, End of Period
+GASALLMWA                     PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASALLMWM                     PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
+GASALLMWW                     PADD II (Midwest District) All Grades All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLREFA                    US All Grades Reformulated Gas Price                                                                                     NSA  03-Jan-2022  Annual         
+GASALLREFECA                  PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASALLREFECM                  PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASALLREFECW                  PADD I (East Coast District) All Grades Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASALLREFGCA                  PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASALLREFGCM                  PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  28-Nov-2022  Monthly        
+GASALLREFGCW                  PADD III (Gulf Coast District) All Grades Reformulated Gas Price                                                         NSA  05-Dec-2022  Weekly         
+GASALLREFM                    US All Grades Reformulated Gas Price                                                                                     NSA  28-Nov-2022  Monthly        
+GASALLREFMWA                  PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASALLREFMWM                  PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASALLREFMWW                  PADD II (Midwest District) All Grades Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASALLREFW                    US All Grades Reformulated Gas Price                                                                                     NSA  05-Dec-2022  Weekly         
+GASALLREFWCA                  PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASALLREFWCM                  PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASALLREFWCW                  PADD V (West Coast District) All Grades Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASALLRMA                     PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  03-Jan-2022  Annual         
+GASALLRMM                     PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  28-Nov-2022  Monthly, End of Period
+GASALLRMW                     PADD IV (Rocky Mountain District) All Grades All Formulations Gas Price                                                  NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLW                       US All Grades All Formulations Gas Price                                                                                 NSA  05-Dec-2022  Weekly, Ending Monday
+GASALLWCA                     PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual         
+GASALLWCM                     PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
+GASALLWCW                     PADD V (West Coast District) All Grades All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESA                       US Diesel Sales Price                                                                                                    NSA  03-Jan-2022  Annual         
+GASDESECA                     PADD I (East Coast District) Diesel Sales Price                                                                          NSA  03-Jan-2022  Annual         
+GASDESECM                     PADD I (East Coast District) Diesel Sales Price                                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASDESECW                     PADD I (East Coast District) Diesel Sales Price                                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESGCA                     PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  03-Jan-2022  Annual         
+GASDESGCM                     PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  28-Nov-2022  Monthly, End of Period
+GASDESGCW                     PADD III (Gulf Coast District) Diesel Sales Price                                                                        NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESLSA                     US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  03-Jan-2022  Annual         
+GASDESLSECA                   PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  03-Jan-2022  Annual         
+GASDESLSECM                   PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  28-Nov-2022  Monthly        
+GASDESLSECW                   PADD I (East Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  05-Dec-2022  Weekly         
+GASDESLSGCA                   PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  03-Jan-2022  Annual         
+GASDESLSGCM                   PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  28-Nov-2022  Monthly        
+GASDESLSGCW                   PADD III (Gulf Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                       NSA  05-Dec-2022  Weekly         
+GASDESLSM                     US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  28-Nov-2022  Monthly        
+GASDESLSMWA                   PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  03-Jan-2022  Annual         
+GASDESLSMWM                   PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  28-Nov-2022  Monthly        
+GASDESLSMWW                   PADD II (Midwest District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                           NSA  05-Dec-2022  Weekly         
+GASDESLSRMA                   PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  03-Jan-2022  Annual         
+GASDESLSRMM                   PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  28-Nov-2022  Monthly        
+GASDESLSRMW                   PADD IV (Rocky Mountain District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                    NSA  05-Dec-2022  Weekly         
+GASDESLSW                     US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                                                        NSA  05-Dec-2022  Weekly         
+GASDESLSWCA                   PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  03-Jan-2022  Annual         
+GASDESLSWCM                   PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  28-Nov-2022  Monthly        
+GASDESLSWCW                   PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price                                         NSA  05-Dec-2022  Weekly         
+GASDESM                       US Diesel Sales Price                                                                                                    NSA  28-Nov-2022  Monthly, End of Period
+GASDESMWA                     PADD II (Midwest District) Diesel Sales Price                                                                            NSA  03-Jan-2022  Annual         
+GASDESMWM                     PADD II (Midwest District) Diesel Sales Price                                                                            NSA  28-Nov-2022  Monthly, End of Period
+GASDESMWW                     PADD II (Midwest District) Diesel Sales Price                                                                            NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESRMA                     PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  03-Jan-2022  Annual         
+GASDESRMM                     PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  28-Nov-2022  Monthly, End of Period
+GASDESRMW                     PADD IV (Rocky Mountain District) Diesel Sales Price                                                                     NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESW                       US Diesel Sales Price                                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
+GASDESWCA                     PADD V (West Coast District) Diesel Sales Price                                                                          NSA  03-Jan-2022  Annual         
+GASDESWCM                     PADD V (West Coast District) Diesel Sales Price                                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASDESWCW                     PADD V (West Coast District) Diesel Sales Price                                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDA                       US Midgrade All Formulations Gas Price                                                                                   NSA  03-Jan-2022  Annual         
+GASMIDCOVA                    US Midgrade Conventional Gas Price                                                                                       NSA  03-Jan-2022  Annual         
+GASMIDCOVECA                  PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASMIDCOVECM                  PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASMIDCOVECW                  PADD I (East Coast District) Midgrade Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASMIDCOVGCA                  PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASMIDCOVGCM                  PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASMIDCOVGCW                  PADD III (Gulf Coast District) Midgrade Conventional Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASMIDCOVM                    US Midgrade Conventional Gas Price                                                                                       NSA  28-Nov-2022  Monthly        
+GASMIDCOVMWA                  PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  03-Jan-2022  Annual         
+GASMIDCOVMWM                  PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  28-Nov-2022  Monthly        
+GASMIDCOVMWW                  PADD II (Midwest District) Midgrade Conventional Gas Price                                                               NSA  05-Dec-2022  Weekly         
+GASMIDCOVRMA                  PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  03-Jan-2022  Annual         
+GASMIDCOVRMM                  PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  28-Nov-2022  Monthly        
+GASMIDCOVRMW                  PADD IV (Rocky Mountain District) Midgrade Conventional Gas Price                                                        NSA  05-Dec-2022  Weekly         
+GASMIDCOVW                    US Midgrade Conventional Gas Price                                                                                       NSA  05-Dec-2022  Weekly         
+GASMIDCOVWCA                  PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASMIDCOVWCM                  PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASMIDCOVWCW                  PADD V (West Coast District) Midgrade Conventional Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASMIDECA                     PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASMIDECM                     PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
+GASMIDECW                     PADD I (East Coast District) Midgrade All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDGCA                     PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  03-Jan-2022  Annual         
+GASMIDGCM                     PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  28-Nov-2022  Monthly, End of Period
+GASMIDGCW                     PADD III (Gulf Coast District) Midgrade All Formulations Gas Price                                                       NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDM                       US Midgrade All Formulations Gas Price                                                                                   NSA  28-Nov-2022  Monthly, End of Period
+GASMIDMWA                     PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASMIDMWM                     PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  28-Nov-2022  Monthly, End of Period
+GASMIDMWW                     PADD II (Midwest District) Midgrade All Formulations Gas Price                                                           NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDREFA                    US Midgrade Reformulated Gas Price                                                                                       NSA  03-Jan-2022  Annual         
+GASMIDREFECA                  PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASMIDREFECM                  PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASMIDREFECW                  PADD I (East Coast District) Midgrade Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASMIDREFGCA                  PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  03-Jan-2022  Annual         
+GASMIDREFGCM                  PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  28-Nov-2022  Monthly        
+GASMIDREFGCW                  PADD III (Gulf Coast District) Midgrade Reformulated Gas Price                                                           NSA  05-Dec-2022  Weekly         
+GASMIDREFM                    US Midgrade Reformulated Gas Price                                                                                       NSA  28-Nov-2022  Monthly        
+GASMIDREFMWA                  PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  03-Jan-2022  Annual         
+GASMIDREFMWM                  PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  28-Nov-2022  Monthly        
+GASMIDREFMWW                  PADD II (Midwest District) Midgrade Reformulated Gas Price                                                               NSA  05-Dec-2022  Weekly         
+GASMIDREFW                    US Midgrade Reformulated Gas Price                                                                                       NSA  05-Dec-2022  Weekly         
+GASMIDREFWCA                  PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  03-Jan-2022  Annual         
+GASMIDREFWCM                  PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  28-Nov-2022  Monthly        
+GASMIDREFWCW                  PADD V (West Coast District) Midgrade Reformulated Gas Price                                                             NSA  05-Dec-2022  Weekly         
+GASMIDRMA                     PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  03-Jan-2022  Annual         
+GASMIDRMM                     PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  28-Nov-2022  Monthly, End of Period
+GASMIDRMW                     PADD IV (Rocky Mountain District) Midgrade All Formulations Gas Price                                                    NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDW                       US Midgrade All Formulations Gas Price                                                                                   NSA  05-Dec-2022  Weekly, Ending Monday
+GASMIDWCA                     PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASMIDWCM                     PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  28-Nov-2022  Monthly, End of Period
+GASMIDWCW                     PADD V (West Coast District) Midgrade All Formulations Gas Price                                                         NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMA                       US Premium All Formulations Gas Price                                                                                    NSA  03-Jan-2022  Annual         
+GASPRMCOVA                    US Premium Conventional Gas Price                                                                                        NSA  03-Jan-2022  Annual         
+GASPRMCOVECA                  PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASPRMCOVECM                  PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASPRMCOVECW                  PADD I (East Coast District) Premium Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASPRMCOVGCA                  PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASPRMCOVGCM                  PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  28-Nov-2022  Monthly        
+GASPRMCOVGCW                  PADD III (Gulf Coast District) Premium Conventional Gas Price                                                            NSA  05-Dec-2022  Weekly         
+GASPRMCOVM                    US Premium Conventional Gas Price                                                                                        NSA  28-Nov-2022  Monthly        
+GASPRMCOVMWA                  PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  03-Jan-2022  Annual         
+GASPRMCOVMWM                  PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  28-Nov-2022  Monthly        
+GASPRMCOVMWW                  PADD II (Midwest District) Premium Conventional Gas Price                                                                NSA  05-Dec-2022  Weekly         
+GASPRMCOVRMA                  PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASPRMCOVRMM                  PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly        
+GASPRMCOVRMW                  PADD IV (Rocky Mountain District) Premium Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly         
+GASPRMCOVW                    US Premium Conventional Gas Price                                                                                        NSA  05-Dec-2022  Weekly         
+GASPRMCOVWCA                  PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASPRMCOVWCM                  PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASPRMCOVWCW                  PADD V (West Coast District) Premium Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASPRMECA                     PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual         
+GASPRMECM                     PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASPRMECW                     PADD I (East Coast District) Premium All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMGCA                     PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  03-Jan-2022  Annual         
+GASPRMGCM                     PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  28-Nov-2022  Monthly        
+GASPRMGCW                     PADD III (Gulf Coast District) Premium All Formulations Gas Price                                                        NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMM                       US Premium All Formulations Gas Price                                                                                    NSA  28-Nov-2022  Monthly        
+GASPRMMWA                     PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASPRMMWM                     PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  28-Nov-2022  Monthly, End of Period
+GASPRMMWW                     PADD II (Midwest District) Premium All Formulations Gas Price                                                            NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMREFA                    US Premium Reformulated Gas Price                                                                                        NSA  03-Jan-2022  Annual         
+GASPRMREFECA                  PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASPRMREFECM                  PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASPRMREFECW                  PADD I (East Coast District) Premium Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASPRMREFGCA                  PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASPRMREFGCM                  PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  28-Nov-2022  Monthly        
+GASPRMREFGCW                  PADD III (Gulf Coast District) Premium Reformulated Gas Price                                                            NSA  05-Dec-2022  Weekly         
+GASPRMREFM                    US Premium Reformulated Gas Price                                                                                        NSA  28-Nov-2022  Monthly        
+GASPRMREFMWA                  PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  03-Jan-2022  Annual         
+GASPRMREFMWM                  PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  28-Nov-2022  Monthly        
+GASPRMREFMWW                  PADD II (Midwest District) Premium Reformulated Gas Price                                                                NSA  05-Dec-2022  Weekly         
+GASPRMREFW                    US Premium Reformulated Gas Price                                                                                        NSA  05-Dec-2022  Weekly         
+GASPRMREFWCA                  PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASPRMREFWCM                  PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASPRMREFWCW                  PADD V (West Coast District) Premium Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASPRMRMA                     PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual         
+GASPRMRMM                     PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Month
+GASPRMRMW                     PADD IV (Rocky Mountain District) Premium All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMW                       US Premium All Formulations Gas Price                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
+GASPRMWCA                     PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual         
+GASPRMWCM                     PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASPRMWCW                     PADD V (West Coast District) Premium All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGA                       US Regular All Formulations Gas Price                                                                                    NSA  03-Jan-2022  Annual         
+GASREGCOVA                    US Regular Conventional Gas Price                                                                                        NSA  03-Jan-2022  Annual         
+GASREGCOVECA                  PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASREGCOVECM                  PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASREGCOVECW                  PADD I (East Coast District) Regular Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASREGCOVGCA                  PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASREGCOVGCM                  PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  28-Nov-2022  Monthly        
+GASREGCOVGCW                  PADD III (Gulf Coast District) Regular Conventional Gas Price                                                            NSA  05-Dec-2022  Weekly         
+GASREGCOVM                    US Regular Conventional Gas Price                                                                                        NSA  28-Nov-2022  Monthly        
+GASREGCOVMWA                  PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  03-Jan-2022  Annual         
+GASREGCOVMWM                  PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  28-Nov-2022  Monthly        
+GASREGCOVMWW                  PADD II (Midwest District) Regular Conventional Gas Price                                                                NSA  05-Dec-2022  Weekly         
+GASREGCOVRMA                  PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  03-Jan-2022  Annual         
+GASREGCOVRMM                  PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  28-Nov-2022  Monthly        
+GASREGCOVRMW                  PADD IV (Rocky Mountain District) Regular Conventional Gas Price                                                         NSA  05-Dec-2022  Weekly         
+GASREGCOVW                    US Regular Conventional Gas Price                                                                                        NSA  05-Dec-2022  Weekly         
+GASREGCOVWCA                  PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASREGCOVWCM                  PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASREGCOVWCW                  PADD V (West Coast District) Regular Conventional Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASREGECA                     PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual         
+GASREGECM                     PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASREGECW                     PADD I (East Coast District) Regular All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGGCA                     PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  03-Jan-2022  Annual         
+GASREGGCM                     PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  28-Nov-2022  Monthly, End of Period
+GASREGGCW                     PADD III (Gulf Coast District) Regular All Formulations Gas Price                                                        NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGM                       US Regular All Formulations Gas Price                                                                                    NSA  28-Nov-2022  Monthly, End of Period
+GASREGMWA                     PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASREGMWM                     PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  28-Nov-2022  Monthly, End of Period
+GASREGMWW                     PADD II (Midwest District) Regular All Formulations Gas Price                                                            NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGREFA                    US Regular Reformulated Gas Price                                                                                        NSA  03-Jan-2022  Annual         
+GASREGREFECA                  PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASREGREFECM                  PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASREGREFECW                  PADD I (East Coast District) Regular Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASREGREFGCA                  PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  03-Jan-2022  Annual         
+GASREGREFGCM                  PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  28-Nov-2022  Monthly        
+GASREGREFGCW                  PADD III (Gulf Coast District) Regular Reformulated Gas Price                                                            NSA  05-Dec-2022  Weekly         
+GASREGREFM                    US Regular Reformulated Gas Price                                                                                        NSA  28-Nov-2022  Monthly        
+GASREGREFMWA                  PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  03-Jan-2022  Annual         
+GASREGREFMWM                  PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  28-Nov-2022  Monthly        
+GASREGREFMWW                  PADD II (Midwest District) Regular Reformulated Gas Price                                                                NSA  05-Dec-2022  Weekly         
+GASREGREFW                    US Regular Reformulated Gas Price                                                                                        NSA  05-Dec-2022  Weekly         
+GASREGREFWCA                  PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  03-Jan-2022  Annual         
+GASREGREFWCM                  PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  28-Nov-2022  Monthly        
+GASREGREFWCW                  PADD V (West Coast District) Regular Reformulated Gas Price                                                              NSA  05-Dec-2022  Weekly         
+GASREGRMA                     PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  03-Jan-2022  Annual         
+GASREGRMM                     PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  28-Nov-2022  Monthly, End of Period
+GASREGRMW                     PADD IV (Rocky Mountain District) Regular All Formulations Gas Price                                                     NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGW                       US Regular All Formulations Gas Price                                                                                    NSA  05-Dec-2022  Weekly, Ending Monday
+GASREGWCA                     PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  03-Jan-2022  Annual         
+GASREGWCM                     PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  28-Nov-2022  Monthly, End of Period
+GASREGWCW                     PADD V (West Coast District) Regular All Formulations Gas Price                                                          NSA  05-Dec-2022  Weekly, Ending Monday

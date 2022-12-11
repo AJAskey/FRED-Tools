@@ -1,11 +1,11 @@
 Id : 489  AD&Co US Mortgage High Yield Index
-CROASMIDTIER                            AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Mid-Tier                                          NSA  02-Dec-2022  Monthly
-CROASTIER0                              AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 0                                            NSA  02-Dec-2022  Monthly
-CROASTIER1                              AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 1                                            NSA  02-Dec-2022  Monthly
-CROASTIER2                              AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 2                                            NSA  02-Dec-2022  Monthly
-CROASTIER3                              AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 3                                            NSA  02-Dec-2022  Monthly
-CRTINDEXMIDTIER                         AD&Co US Mortgage High Yield Index: Mid-Tier                                                                             NSA  02-Dec-2022  Monthly
-CRTINDEXTIER0                           AD&Co US Mortgage High Yield Index: Tier 0                                                                               NSA  02-Dec-2022  Monthly
-CRTINDEXTIER1                           AD&Co US Mortgage High Yield Index: Tier 1                                                                               NSA  02-Dec-2022  Monthly
-CRTINDEXTIER2                           AD&Co US Mortgage High Yield Index: Tier 2                                                                               NSA  02-Dec-2022  Monthly
-CRTINDEXTIER3                           AD&Co US Mortgage High Yield Index: Tier 3                                                                               NSA  02-Dec-2022  Monthly
+CROASMIDTIER                  AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Mid-Tier                                          NSA  02-Dec-2022  Monthly        
+CROASTIER0                    AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 0                                            NSA  02-Dec-2022  Monthly        
+CROASTIER1                    AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 1                                            NSA  02-Dec-2022  Monthly        
+CROASTIER2                    AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 2                                            NSA  02-Dec-2022  Monthly        
+CROASTIER3                    AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 3                                            NSA  02-Dec-2022  Monthly        
+CRTINDEXMIDTIER               AD&Co US Mortgage High Yield Index: Mid-Tier                                                                             NSA  02-Dec-2022  Monthly        
+CRTINDEXTIER0                 AD&Co US Mortgage High Yield Index: Tier 0                                                                               NSA  02-Dec-2022  Monthly        
+CRTINDEXTIER1                 AD&Co US Mortgage High Yield Index: Tier 1                                                                               NSA  02-Dec-2022  Monthly        
+CRTINDEXTIER2                 AD&Co US Mortgage High Yield Index: Tier 2                                                                               NSA  02-Dec-2022  Monthly        
+CRTINDEXTIER3                 AD&Co US Mortgage High Yield Index: Tier 3                                                                               NSA  02-Dec-2022  Monthly        

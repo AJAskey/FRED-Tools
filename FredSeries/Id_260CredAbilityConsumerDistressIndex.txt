@@ -1,135 +1,135 @@
 Id : 260  CredAbility Consumer Distress Index
-CCDICRQ156N                             CredAbility Consumer Distress Index for Credit (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIEMQ156N                             CredAbility Consumer Distress Index for Employment (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly
-CCDIHBQ156N                             CredAbility Consumer Distress Index for Household Budget (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly
-CCDIHSQ156N                             CredAbility Consumer Distress Index for Housing (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDINWQ156N                             CredAbility Consumer Distress Index for Net Worth (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly
-CCDIOA10420Q156N                        CredAbility Consumer Distress Index for Akron, OH (MSA) (DISCONTINUED)                                                   NSA  17-May-2013  Quarterly
-CCDIOA10580Q156N                        CredAbility Consumer Distress Index for Albany-Schenectady-Troy, NY (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly
-CCDIOA10740Q156N                        CredAbility Consumer Distress Index for Albuquerque, NM (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly
-CCDIOA10900Q156N                        CredAbility Consumer Distress Index for Allentown-Bethlehem-Easton, PA-NJ (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly
-CCDIOA12060Q156N                        CredAbility Consumer Distress Index for Atlanta-Sandy Springs-Marietta, GA (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly
-CCDIOA12420Q156N                        CredAbility Consumer Distress Index for Austin-Round Rock-San Marcos, TX (MSA) (DISCONTINUED)                            NSA  17-May-2013  Quarterly
-CCDIOA12540Q156N                        CredAbility Consumer Distress Index for Bakersfield-Delano, CA (MSA) (DISCONTINUED)                                      NSA  17-May-2013  Quarterly
-CCDIOA12580Q156N                        CredAbility Consumer Distress Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                        NSA  17-May-2013  Quarterly
-CCDIOA12940Q156N                        CredAbility Consumer Distress Index for Baton Rouge, LA (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly
-CCDIOA13820Q156N                        CredAbility Consumer Distress Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                       NSA  17-May-2013  Quarterly
-CCDIOA14460Q156N                        CredAbility Consumer Distress Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                              NSA  17-May-2013  Quarterly
-CCDIOA14860Q156N                        CredAbility Consumer Distress Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly
-CCDIOA15380Q156N                        CredAbility Consumer Distress Index for Buffalo-Niagara Falls, NY (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly
-CCDIOA16740Q156N                        CredAbility Consumer Distress Index for Charlotte-Gastonia-Rock Hill, NC-SC (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly
-CCDIOA16980Q156N                        CredAbility Consumer Distress Index for Chicago-Joliet-Naperville, IL Metropolitan Division (DISCONTINUED)               NSA  17-May-2013  Quarterly
-CCDIOA17140Q156N                        CredAbility Consumer Distress Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly
-CCDIOA17460Q156N                        CredAbility Consumer Distress Index for Cleveland-Elyria-Mentor, OH (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly
-CCDIOA17860Q156N                        CredAbility Consumer Distress Index for Columbia, MO (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly
-CCDIOA17980Q156N                        CredAbility Consumer Distress Index for Columbus, GA-AL (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly
-CCDIOA19100Q156N                        CredAbility Consumer Distress Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly
-CCDIOA19380Q156N                        CredAbility Consumer Distress Index for Dayton, OH (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly
-CCDIOA19740Q156N                        CredAbility Consumer Distress Index for Denver-Aurora-Broomfield, CO (MSA) (DISCONTINUED)                                NSA  17-May-2013  Quarterly
-CCDIOA19820Q156N                        CredAbility Consumer Distress Index for Detroit-Warren-Livonia, MI (MSA) (DISCONTINUED)                                  NSA  17-May-2013  Quarterly
-CCDIOA21340Q156N                        CredAbility Consumer Distress Index for El Paso, TX (MSA) (DISCONTINUED)                                                 NSA  17-May-2013  Quarterly
-CCDIOA23420Q156N                        CredAbility Consumer Distress Index for Fresno, CA (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly
-CCDIOA24340Q156N                        CredAbility Consumer Distress Index for Grand Rapids-Wyoming, MI (MSA) (DISCONTINUED)                                    NSA  17-May-2013  Quarterly
-CCDIOA24660Q156N                        CredAbility Consumer Distress Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly
-CCDIOA24860Q156N                        CredAbility Consumer Distress Index for Greenville-Mauldin-Easley, SC (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly
-CCDIOA25540Q156N                        CredAbility Consumer Distress Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly
-CCDIOA26180Q156N                        CredAbility Consumer Distress Index for Honolulu, HI (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly
-CCDIOA26420Q156N                        CredAbility Consumer Distress Index for Houston-Sugar Land-Baytown, TX (MSA) (DISCONTINUED)                              NSA  17-May-2013  Quarterly
-CCDIOA26900Q156N                        CredAbility Consumer Distress Index for Indianapolis-Carmel, IN (MSA) (DISCONTINUED)                                     NSA  17-May-2013  Quarterly
-CCDIOA27100Q156N                        CredAbility Consumer Distress Index for Jackson, MI (MSA) (DISCONTINUED)                                                 NSA  17-May-2013  Quarterly
-CCDIOA27260Q156N                        CredAbility Consumer Distress Index for Jacksonville, FL (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly
-CCDIOA28140Q156N                        CredAbility Consumer Distress Index for Kansas City, MO-KS (MSA) (DISCONTINUED)                                          NSA  17-May-2013  Quarterly
-CCDIOA28940Q156N                        CredAbility Consumer Distress Index for Knoxville, TN (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly
-CCDIOA29820Q156N                        CredAbility Consumer Distress Index for Las Vegas-Paradise, NV (MSA) (DISCONTINUED)                                      NSA  17-May-2013  Quarterly
-CCDIOA30780Q156N                        CredAbility Consumer Distress Index for Little Rock-North Little Rock-Conway, AR (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly
-CCDIOA31100Q156N                        CredAbility Consumer Distress Index for Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)                        NSA  17-May-2013  Quarterly
-CCDIOA31140Q156N                        CredAbility Consumer Distress Index for Louisville/Jefferson County, KY-IN (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly
-CCDIOA32580Q156N                        CredAbility Consumer Distress Index for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                NSA  17-May-2013  Quarterly
-CCDIOA32820Q156N                        CredAbility Consumer Distress Index for Memphis, TN-MS-AR (MSA) (DISCONTINUED)                                           NSA  17-May-2013  Quarterly
-CCDIOA33100Q156N                        CredAbility Consumer Distress Index for Miami-Fort Lauderdale-Pompano Beach, FL (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly
-CCDIOA33340Q156N                        CredAbility Consumer Distress Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly
-CCDIOA33460Q156N                        CredAbility Consumer Distress Index for Minneapolis-St. Paul-Bloomington, MN-WI (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly
-CCDIOA34980Q156N                        CredAbility Consumer Distress Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA) (DISCONTINUED)              NSA  17-May-2013  Quarterly
-CCDIOA35300Q156N                        CredAbility Consumer Distress Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                       NSA  17-May-2013  Quarterly
-CCDIOA35380Q156N                        CredAbility Consumer Distress Index for New Orleans-Metairie-Kenner, LA (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly
-CCDIOA35620Q156N                        CredAbility Consumer Distress Index for New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)          NSA  17-May-2013  Quarterly
-CCDIOA35840Q156N                        CredAbility Consumer Distress Index for North Port-Bradenton-Sarasota, FL (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly
-CCDIOA36420Q156N                        CredAbility Consumer Distress Index for Oklahoma City, OK (MSA) (DISCONTINUED)                                           NSA  17-May-2013  Quarterly
-CCDIOA36540Q156N                        CredAbility Consumer Distress Index for Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly
-CCDIOA36740Q156N                        CredAbility Consumer Distress Index for Orlando-Kissimmee-Sanford, FL (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly
-CCDIOA37100Q156N                        CredAbility Consumer Distress Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                            NSA  17-May-2013  Quarterly
-CCDIOA37980Q156N                        CredAbility Consumer Distress Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                 NSA  17-May-2013  Quarterly
-CCDIOA38060Q156N                        CredAbility Consumer Distress Index for Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly
-CCDIOA38300Q156N                        CredAbility Consumer Distress Index for Pittsburgh, PA (MSA) (DISCONTINUED)                                              NSA  17-May-2013  Quarterly
-CCDIOA38900Q156N                        CredAbility Consumer Distress Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly
-CCDIOA39300Q156N                        CredAbility Consumer Distress Index for Providence-New Bedford-Fall River, RI-MA (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly
-CCDIOA39580Q156N                        CredAbility Consumer Distress Index for Raleigh-Cary, NC (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly
-CCDIOA40060Q156N                        CredAbility Consumer Distress Index for Richmond, VA (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly
-CCDIOA40140Q156N                        CredAbility Consumer Distress Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                        NSA  17-May-2013  Quarterly
-CCDIOA40340Q156N                        CredAbility Consumer Distress Index for Rochester, MN (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly
-CCDIOA40900Q156N                        CredAbility Consumer Distress Index for Sacramento--Arden-Arcade--Roseville, CA (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly
-CCDIOA41180Q156N                        CredAbility Consumer Distress Index for St. Louis, MO-IL (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly
-CCDIOA41620Q156N                        CredAbility Consumer Distress Index for Salt Lake City, UT (MSA) (DISCONTINUED)                                          NSA  17-May-2013  Quarterly
-CCDIOA41700Q156N                        CredAbility Consumer Distress Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly
-CCDIOA41740Q156N                        CredAbility Consumer Distress Index for San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly
-CCDIOA41860Q156N                        CredAbility Consumer Distress Index for San Francisco-Oakland-Fremont, CA (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly
-CCDIOA41940Q156N                        CredAbility Consumer Distress Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly
-CCDIOA42660Q156N                        CredAbility Consumer Distress Index for Seattle-Tacoma-Bellevue, WA (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly
-CCDIOA45300Q156N                        CredAbility Consumer Distress Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly
-CCDIOA46060Q156N                        CredAbility Consumer Distress Index for Tucson, AZ (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly
-CCDIOA46140Q156N                        CredAbility Consumer Distress Index for Tulsa, OK (MSA) (DISCONTINUED)                                                   NSA  17-May-2013  Quarterly
-CCDIOA47260Q156N                        CredAbility Consumer Distress Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                  NSA  17-May-2013  Quarterly
-CCDIOA47900Q156N                        CredAbility Consumer Distress Index for Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division (DISCONTINUE  NSA  17-May-2013  Quarterly
-CCDIOA49340Q156N                        CredAbility Consumer Distress Index for Worcester, MA (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly
-CCDIOAAKQ156N                           CredAbility Consumer Distress Index for Alaska (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIOAALQ156N                           CredAbility Consumer Distress Index for Alabama (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOAARQ156N                           CredAbility Consumer Distress Index for Arkansas (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAAZQ156N                           CredAbility Consumer Distress Index for Arizona (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOACAQ156N                           CredAbility Consumer Distress Index for California (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly
-CCDIOACOQ156N                           CredAbility Consumer Distress Index for Colorado (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOACTQ156N                           CredAbility Consumer Distress Index for Connecticut (DISCONTINUED)                                                       NSA  17-May-2013  Quarterly
-CCDIOADCQ156N                           CredAbility Consumer Distress Index for District of Columbia (DISCONTINUED)                                              NSA  17-May-2013  Quarterly
-CCDIOADEQ156N                           CredAbility Consumer Distress Index for Delaware (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAFLQ156N                           CredAbility Consumer Distress Index for Florida (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOAGAQ156N                           CredAbility Consumer Distress Index for Georgia (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOAHIQ156N                           CredAbility Consumer Distress Index for Hawaii (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIOAIAQ156N                           CredAbility Consumer Distress Index for Iowa (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly
-CCDIOAIDQ156N                           CredAbility Consumer Distress Index for Idaho (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly
-CCDIOAILQ156N                           CredAbility Consumer Distress Index for Illinois (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAINQ156N                           CredAbility Consumer Distress Index for Indiana (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOAKSQ156N                           CredAbility Consumer Distress Index for Kansas (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIOAKYQ156N                           CredAbility Consumer Distress Index for Kentucky (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOALAQ156N                           CredAbility Consumer Distress Index for Louisiana (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly
-CCDIOAMAQ156N                           CredAbility Consumer Distress Index for Massachusetts (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly
-CCDIOAMDQ156N                           CredAbility Consumer Distress Index for Maryland (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAMEQ156N                           CredAbility Consumer Distress Index for Maine (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly
-CCDIOAMIQ156N                           CredAbility Consumer Distress Index for Michigan (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAMNQ156N                           CredAbility Consumer Distress Index for Minnesota (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly
-CCDIOAMOQ156N                           CredAbility Consumer Distress Index for Missouri (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAMSQ156N                           CredAbility Consumer Distress Index for Mississippi (DISCONTINUED)                                                       NSA  17-May-2013  Quarterly
-CCDIOAMTQ156N                           CredAbility Consumer Distress Index for Montana (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOANCQ156N                           CredAbility Consumer Distress Index for North Carolina (DISCONTINUED)                                                    NSA  17-May-2013  Quarterly
-CCDIOANDQ156N                           CredAbility Consumer Distress Index for North Dakota (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly
-CCDIOANEQ156N                           CredAbility Consumer Distress Index for Nebraska (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOANHQ156N                           CredAbility Consumer Distress Index for New Hampshire (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly
-CCDIOANJQ156N                           CredAbility Consumer Distress Index for New Jersey (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly
-CCDIOANMQ156N                           CredAbility Consumer Distress Index for New Mexico (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly
-CCDIOANVQ156N                           CredAbility Consumer Distress Index for Nevada (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIOANYQ156N                           CredAbility Consumer Distress Index for New York (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAOHQ156N                           CredAbility Consumer Distress Index for Ohio (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly
-CCDIOAOKQ156N                           CredAbility Consumer Distress Index for Oklahoma (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAORQ156N                           CredAbility Consumer Distress Index for Oregon (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly
-CCDIOAPAQ156N                           CredAbility Consumer Distress Index for Pennsylvania (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly
-CCDIOAQ156N                             CredAbility Consumer Distress Index (DISCONTINUED)                                                                       NSA  17-May-2013  Quarterly
-CCDIOARIQ156N                           CredAbility Consumer Distress Index for Rhode Island (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly
-CCDIOASCQ156N                           CredAbility Consumer Distress Index for South Carolina (DISCONTINUED)                                                    NSA  17-May-2013  Quarterly
-CCDIOASDQ156N                           CredAbility Consumer Distress Index for South Dakota (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly
-CCDIOATNQ156N                           CredAbility Consumer Distress Index for Tennessee (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly
-CCDIOATXQ156N                           CredAbility Consumer Distress Index for Texas (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly
-CCDIOAUTQ156N                           CredAbility Consumer Distress Index for Utah (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly
-CCDIOAVAQ156N                           CredAbility Consumer Distress Index for Virginia (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly
-CCDIOAVTQ156N                           CredAbility Consumer Distress Index for Vermont (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
-CCDIOAWAQ156N                           CredAbility Consumer Distress Index for Washington (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly
-CCDIOAWIQ156N                           CredAbility Consumer Distress Index for Wisconsin (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly
-CCDIOAWVQ156N                           CredAbility Consumer Distress Index for West Virginia (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly
-CCDIOAWYQ156N                           CredAbility Consumer Distress Index for Wyoming (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly
+CCDICRQ156N                   CredAbility Consumer Distress Index for Credit (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIEMQ156N                   CredAbility Consumer Distress Index for Employment (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly      
+CCDIHBQ156N                   CredAbility Consumer Distress Index for Household Budget (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly      
+CCDIHSQ156N                   CredAbility Consumer Distress Index for Housing (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDINWQ156N                   CredAbility Consumer Distress Index for Net Worth (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly      
+CCDIOA10420Q156N              CredAbility Consumer Distress Index for Akron, OH (MSA) (DISCONTINUED)                                                   NSA  17-May-2013  Quarterly      
+CCDIOA10580Q156N              CredAbility Consumer Distress Index for Albany-Schenectady-Troy, NY (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly      
+CCDIOA10740Q156N              CredAbility Consumer Distress Index for Albuquerque, NM (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly      
+CCDIOA10900Q156N              CredAbility Consumer Distress Index for Allentown-Bethlehem-Easton, PA-NJ (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly      
+CCDIOA12060Q156N              CredAbility Consumer Distress Index for Atlanta-Sandy Springs-Marietta, GA (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly      
+CCDIOA12420Q156N              CredAbility Consumer Distress Index for Austin-Round Rock-San Marcos, TX (MSA) (DISCONTINUED)                            NSA  17-May-2013  Quarterly      
+CCDIOA12540Q156N              CredAbility Consumer Distress Index for Bakersfield-Delano, CA (MSA) (DISCONTINUED)                                      NSA  17-May-2013  Quarterly      
+CCDIOA12580Q156N              CredAbility Consumer Distress Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                        NSA  17-May-2013  Quarterly      
+CCDIOA12940Q156N              CredAbility Consumer Distress Index for Baton Rouge, LA (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly      
+CCDIOA13820Q156N              CredAbility Consumer Distress Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                       NSA  17-May-2013  Quarterly      
+CCDIOA14460Q156N              CredAbility Consumer Distress Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                              NSA  17-May-2013  Quarterly      
+CCDIOA14860Q156N              CredAbility Consumer Distress Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly      
+CCDIOA15380Q156N              CredAbility Consumer Distress Index for Buffalo-Niagara Falls, NY (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly      
+CCDIOA16740Q156N              CredAbility Consumer Distress Index for Charlotte-Gastonia-Rock Hill, NC-SC (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly      
+CCDIOA16980Q156N              CredAbility Consumer Distress Index for Chicago-Joliet-Naperville, IL Metropolitan Division (DISCONTINUED)               NSA  17-May-2013  Quarterly      
+CCDIOA17140Q156N              CredAbility Consumer Distress Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly      
+CCDIOA17460Q156N              CredAbility Consumer Distress Index for Cleveland-Elyria-Mentor, OH (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly      
+CCDIOA17860Q156N              CredAbility Consumer Distress Index for Columbia, MO (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly      
+CCDIOA17980Q156N              CredAbility Consumer Distress Index for Columbus, GA-AL (MSA) (DISCONTINUED)                                             NSA  17-May-2013  Quarterly      
+CCDIOA19100Q156N              CredAbility Consumer Distress Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly      
+CCDIOA19380Q156N              CredAbility Consumer Distress Index for Dayton, OH (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly      
+CCDIOA19740Q156N              CredAbility Consumer Distress Index for Denver-Aurora-Broomfield, CO (MSA) (DISCONTINUED)                                NSA  17-May-2013  Quarterly      
+CCDIOA19820Q156N              CredAbility Consumer Distress Index for Detroit-Warren-Livonia, MI (MSA) (DISCONTINUED)                                  NSA  17-May-2013  Quarterly      
+CCDIOA21340Q156N              CredAbility Consumer Distress Index for El Paso, TX (MSA) (DISCONTINUED)                                                 NSA  17-May-2013  Quarterly      
+CCDIOA23420Q156N              CredAbility Consumer Distress Index for Fresno, CA (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly      
+CCDIOA24340Q156N              CredAbility Consumer Distress Index for Grand Rapids-Wyoming, MI (MSA) (DISCONTINUED)                                    NSA  17-May-2013  Quarterly      
+CCDIOA24660Q156N              CredAbility Consumer Distress Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly      
+CCDIOA24860Q156N              CredAbility Consumer Distress Index for Greenville-Mauldin-Easley, SC (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly      
+CCDIOA25540Q156N              CredAbility Consumer Distress Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly      
+CCDIOA26180Q156N              CredAbility Consumer Distress Index for Honolulu, HI (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly      
+CCDIOA26420Q156N              CredAbility Consumer Distress Index for Houston-Sugar Land-Baytown, TX (MSA) (DISCONTINUED)                              NSA  17-May-2013  Quarterly      
+CCDIOA26900Q156N              CredAbility Consumer Distress Index for Indianapolis-Carmel, IN (MSA) (DISCONTINUED)                                     NSA  17-May-2013  Quarterly      
+CCDIOA27100Q156N              CredAbility Consumer Distress Index for Jackson, MI (MSA) (DISCONTINUED)                                                 NSA  17-May-2013  Quarterly      
+CCDIOA27260Q156N              CredAbility Consumer Distress Index for Jacksonville, FL (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly      
+CCDIOA28140Q156N              CredAbility Consumer Distress Index for Kansas City, MO-KS (MSA) (DISCONTINUED)                                          NSA  17-May-2013  Quarterly      
+CCDIOA28940Q156N              CredAbility Consumer Distress Index for Knoxville, TN (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly      
+CCDIOA29820Q156N              CredAbility Consumer Distress Index for Las Vegas-Paradise, NV (MSA) (DISCONTINUED)                                      NSA  17-May-2013  Quarterly      
+CCDIOA30780Q156N              CredAbility Consumer Distress Index for Little Rock-North Little Rock-Conway, AR (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly      
+CCDIOA31100Q156N              CredAbility Consumer Distress Index for Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)                        NSA  17-May-2013  Quarterly      
+CCDIOA31140Q156N              CredAbility Consumer Distress Index for Louisville/Jefferson County, KY-IN (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly      
+CCDIOA32580Q156N              CredAbility Consumer Distress Index for McAllen-Edinburg-Mission, TX (MSA) (DISCONTINUED)                                NSA  17-May-2013  Quarterly      
+CCDIOA32820Q156N              CredAbility Consumer Distress Index for Memphis, TN-MS-AR (MSA) (DISCONTINUED)                                           NSA  17-May-2013  Quarterly      
+CCDIOA33100Q156N              CredAbility Consumer Distress Index for Miami-Fort Lauderdale-Pompano Beach, FL (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly      
+CCDIOA33340Q156N              CredAbility Consumer Distress Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly      
+CCDIOA33460Q156N              CredAbility Consumer Distress Index for Minneapolis-St. Paul-Bloomington, MN-WI (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly      
+CCDIOA34980Q156N              CredAbility Consumer Distress Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA) (DISCONTINUED)              NSA  17-May-2013  Quarterly      
+CCDIOA35300Q156N              CredAbility Consumer Distress Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                       NSA  17-May-2013  Quarterly      
+CCDIOA35380Q156N              CredAbility Consumer Distress Index for New Orleans-Metairie-Kenner, LA (MSA) (DISCONTINUED)                             NSA  17-May-2013  Quarterly      
+CCDIOA35620Q156N              CredAbility Consumer Distress Index for New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)          NSA  17-May-2013  Quarterly      
+CCDIOA35840Q156N              CredAbility Consumer Distress Index for North Port-Bradenton-Sarasota, FL (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly      
+CCDIOA36420Q156N              CredAbility Consumer Distress Index for Oklahoma City, OK (MSA) (DISCONTINUED)                                           NSA  17-May-2013  Quarterly      
+CCDIOA36540Q156N              CredAbility Consumer Distress Index for Omaha-Council Bluffs, NE-IA (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly      
+CCDIOA36740Q156N              CredAbility Consumer Distress Index for Orlando-Kissimmee-Sanford, FL (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly      
+CCDIOA37100Q156N              CredAbility Consumer Distress Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                            NSA  17-May-2013  Quarterly      
+CCDIOA37980Q156N              CredAbility Consumer Distress Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                 NSA  17-May-2013  Quarterly      
+CCDIOA38060Q156N              CredAbility Consumer Distress Index for Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)                                   NSA  17-May-2013  Quarterly      
+CCDIOA38300Q156N              CredAbility Consumer Distress Index for Pittsburgh, PA (MSA) (DISCONTINUED)                                              NSA  17-May-2013  Quarterly      
+CCDIOA38900Q156N              CredAbility Consumer Distress Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly      
+CCDIOA39300Q156N              CredAbility Consumer Distress Index for Providence-New Bedford-Fall River, RI-MA (MSA) (DISCONTINUED)                    NSA  17-May-2013  Quarterly      
+CCDIOA39580Q156N              CredAbility Consumer Distress Index for Raleigh-Cary, NC (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly      
+CCDIOA40060Q156N              CredAbility Consumer Distress Index for Richmond, VA (MSA) (DISCONTINUED)                                                NSA  17-May-2013  Quarterly      
+CCDIOA40140Q156N              CredAbility Consumer Distress Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                        NSA  17-May-2013  Quarterly      
+CCDIOA40340Q156N              CredAbility Consumer Distress Index for Rochester, MN (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly      
+CCDIOA40900Q156N              CredAbility Consumer Distress Index for Sacramento--Arden-Arcade--Roseville, CA (MSA) (DISCONTINUED)                     NSA  17-May-2013  Quarterly      
+CCDIOA41180Q156N              CredAbility Consumer Distress Index for St. Louis, MO-IL (MSA) (DISCONTINUED)                                            NSA  17-May-2013  Quarterly      
+CCDIOA41620Q156N              CredAbility Consumer Distress Index for Salt Lake City, UT (MSA) (DISCONTINUED)                                          NSA  17-May-2013  Quarterly      
+CCDIOA41700Q156N              CredAbility Consumer Distress Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                               NSA  17-May-2013  Quarterly      
+CCDIOA41740Q156N              CredAbility Consumer Distress Index for San Diego-Carlsbad-San Marcos, CA (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly      
+CCDIOA41860Q156N              CredAbility Consumer Distress Index for San Francisco-Oakland-Fremont, CA (MSA) (DISCONTINUED)                           NSA  17-May-2013  Quarterly      
+CCDIOA41940Q156N              CredAbility Consumer Distress Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                          NSA  17-May-2013  Quarterly      
+CCDIOA42660Q156N              CredAbility Consumer Distress Index for Seattle-Tacoma-Bellevue, WA (MSA) (DISCONTINUED)                                 NSA  17-May-2013  Quarterly      
+CCDIOA45300Q156N              CredAbility Consumer Distress Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                         NSA  17-May-2013  Quarterly      
+CCDIOA46060Q156N              CredAbility Consumer Distress Index for Tucson, AZ (MSA) (DISCONTINUED)                                                  NSA  17-May-2013  Quarterly      
+CCDIOA46140Q156N              CredAbility Consumer Distress Index for Tulsa, OK (MSA) (DISCONTINUED)                                                   NSA  17-May-2013  Quarterly      
+CCDIOA47260Q156N              CredAbility Consumer Distress Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                  NSA  17-May-2013  Quarterly      
+CCDIOA47900Q156N              CredAbility Consumer Distress Index for Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division (DISCONTINUE  NSA  17-May-2013  Quarterly      
+CCDIOA49340Q156N              CredAbility Consumer Distress Index for Worcester, MA (MSA) (DISCONTINUED)                                               NSA  17-May-2013  Quarterly      
+CCDIOAAKQ156N                 CredAbility Consumer Distress Index for Alaska (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIOAALQ156N                 CredAbility Consumer Distress Index for Alabama (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOAARQ156N                 CredAbility Consumer Distress Index for Arkansas (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAAZQ156N                 CredAbility Consumer Distress Index for Arizona (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOACAQ156N                 CredAbility Consumer Distress Index for California (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly      
+CCDIOACOQ156N                 CredAbility Consumer Distress Index for Colorado (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOACTQ156N                 CredAbility Consumer Distress Index for Connecticut (DISCONTINUED)                                                       NSA  17-May-2013  Quarterly      
+CCDIOADCQ156N                 CredAbility Consumer Distress Index for District of Columbia (DISCONTINUED)                                              NSA  17-May-2013  Quarterly      
+CCDIOADEQ156N                 CredAbility Consumer Distress Index for Delaware (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAFLQ156N                 CredAbility Consumer Distress Index for Florida (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOAGAQ156N                 CredAbility Consumer Distress Index for Georgia (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOAHIQ156N                 CredAbility Consumer Distress Index for Hawaii (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIOAIAQ156N                 CredAbility Consumer Distress Index for Iowa (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly      
+CCDIOAIDQ156N                 CredAbility Consumer Distress Index for Idaho (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly      
+CCDIOAILQ156N                 CredAbility Consumer Distress Index for Illinois (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAINQ156N                 CredAbility Consumer Distress Index for Indiana (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOAKSQ156N                 CredAbility Consumer Distress Index for Kansas (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIOAKYQ156N                 CredAbility Consumer Distress Index for Kentucky (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOALAQ156N                 CredAbility Consumer Distress Index for Louisiana (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly      
+CCDIOAMAQ156N                 CredAbility Consumer Distress Index for Massachusetts (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly      
+CCDIOAMDQ156N                 CredAbility Consumer Distress Index for Maryland (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAMEQ156N                 CredAbility Consumer Distress Index for Maine (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly      
+CCDIOAMIQ156N                 CredAbility Consumer Distress Index for Michigan (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAMNQ156N                 CredAbility Consumer Distress Index for Minnesota (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly      
+CCDIOAMOQ156N                 CredAbility Consumer Distress Index for Missouri (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAMSQ156N                 CredAbility Consumer Distress Index for Mississippi (DISCONTINUED)                                                       NSA  17-May-2013  Quarterly      
+CCDIOAMTQ156N                 CredAbility Consumer Distress Index for Montana (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOANCQ156N                 CredAbility Consumer Distress Index for North Carolina (DISCONTINUED)                                                    NSA  17-May-2013  Quarterly      
+CCDIOANDQ156N                 CredAbility Consumer Distress Index for North Dakota (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly      
+CCDIOANEQ156N                 CredAbility Consumer Distress Index for Nebraska (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOANHQ156N                 CredAbility Consumer Distress Index for New Hampshire (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly      
+CCDIOANJQ156N                 CredAbility Consumer Distress Index for New Jersey (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly      
+CCDIOANMQ156N                 CredAbility Consumer Distress Index for New Mexico (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly      
+CCDIOANVQ156N                 CredAbility Consumer Distress Index for Nevada (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIOANYQ156N                 CredAbility Consumer Distress Index for New York (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAOHQ156N                 CredAbility Consumer Distress Index for Ohio (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly      
+CCDIOAOKQ156N                 CredAbility Consumer Distress Index for Oklahoma (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAORQ156N                 CredAbility Consumer Distress Index for Oregon (DISCONTINUED)                                                            NSA  17-May-2013  Quarterly      
+CCDIOAPAQ156N                 CredAbility Consumer Distress Index for Pennsylvania (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly      
+CCDIOAQ156N                   CredAbility Consumer Distress Index (DISCONTINUED)                                                                       NSA  17-May-2013  Quarterly      
+CCDIOARIQ156N                 CredAbility Consumer Distress Index for Rhode Island (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly      
+CCDIOASCQ156N                 CredAbility Consumer Distress Index for South Carolina (DISCONTINUED)                                                    NSA  17-May-2013  Quarterly      
+CCDIOASDQ156N                 CredAbility Consumer Distress Index for South Dakota (DISCONTINUED)                                                      NSA  17-May-2013  Quarterly      
+CCDIOATNQ156N                 CredAbility Consumer Distress Index for Tennessee (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly      
+CCDIOATXQ156N                 CredAbility Consumer Distress Index for Texas (DISCONTINUED)                                                             NSA  17-May-2013  Quarterly      
+CCDIOAUTQ156N                 CredAbility Consumer Distress Index for Utah (DISCONTINUED)                                                              NSA  17-May-2013  Quarterly      
+CCDIOAVAQ156N                 CredAbility Consumer Distress Index for Virginia (DISCONTINUED)                                                          NSA  17-May-2013  Quarterly      
+CCDIOAVTQ156N                 CredAbility Consumer Distress Index for Vermont (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      
+CCDIOAWAQ156N                 CredAbility Consumer Distress Index for Washington (DISCONTINUED)                                                        NSA  17-May-2013  Quarterly      
+CCDIOAWIQ156N                 CredAbility Consumer Distress Index for Wisconsin (DISCONTINUED)                                                         NSA  17-May-2013  Quarterly      
+CCDIOAWVQ156N                 CredAbility Consumer Distress Index for West Virginia (DISCONTINUED)                                                     NSA  17-May-2013  Quarterly      
+CCDIOAWYQ156N                 CredAbility Consumer Distress Index for Wyoming (DISCONTINUED)                                                           NSA  17-May-2013  Quarterly      

@@ -1,10 +1,10 @@
 Id : 345  Research Consumer Price Index
-CPIEALL                                 Research Consumer Price Index: All Items                                                                                 SA   10-Nov-2022  Monthly
-CPIEAPPAREL                             Research Consumer Price Index: Apparel                                                                                   SA   10-Nov-2022  Monthly
-CPIEBEV                                 Research Consumer Price Index: Food and Beverages                                                                        SA   10-Nov-2022  Monthly
-CPIECOMEDU                              Research Consumer Price Index: Education and Communication                                                               SA   10-Nov-2022  Monthly
-CPIEHOUSE                               Research Consumer Price Index: Housing                                                                                   SA   10-Nov-2022  Monthly
-CPIEMEDCARE                             Research Consumer Price Index: Medical Care                                                                              SA   10-Nov-2022  Monthly
-CPIEOTRGS                               Research Consumer Price Index: Other Goods and Services                                                                  SA   10-Nov-2022  Monthly
-CPIEREC                                 Research Consumer Price Index: Recreation                                                                                SA   10-Nov-2022  Monthly
-CPIETRANS                               Research Consumer Price Index: Transportation                                                                            SA   10-Nov-2022  Monthly
+CPIEALL                       Research Consumer Price Index: All Items                                                                                 SA   10-Nov-2022  Monthly        
+CPIEAPPAREL                   Research Consumer Price Index: Apparel                                                                                   SA   10-Nov-2022  Monthly        
+CPIEBEV                       Research Consumer Price Index: Food and Beverages                                                                        SA   10-Nov-2022  Monthly        
+CPIECOMEDU                    Research Consumer Price Index: Education and Communication                                                               SA   10-Nov-2022  Monthly        
+CPIEHOUSE                     Research Consumer Price Index: Housing                                                                                   SA   10-Nov-2022  Monthly        
+CPIEMEDCARE                   Research Consumer Price Index: Medical Care                                                                              SA   10-Nov-2022  Monthly        
+CPIEOTRGS                     Research Consumer Price Index: Other Goods and Services                                                                  SA   10-Nov-2022  Monthly        
+CPIEREC                       Research Consumer Price Index: Recreation                                                                                SA   10-Nov-2022  Monthly        
+CPIETRANS                     Research Consumer Price Index: Transportation                                                                            SA   10-Nov-2022  Monthly        

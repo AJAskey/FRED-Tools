@@ -1,27 +1,27 @@
 Id : 311  Currency and Coin Services
-CASHEXP                                 Federal Reserve Expenses for Cash Operations                                                                             NSA  16-Nov-2022  Annual
-COSTCURR                                Cost of New Currency                                                                                                     NSA  16-Nov-2022  Annual
-CURRMTORD                               Mint Orders of $1 Coin                                                                                                   NSA  16-Nov-2022  Quarterly
-CURRRSBINV                              Reserve Bank $1 Coin Inventories                                                                                         NSA  16-Nov-2022  Quarterly
-CURRRSBPMT                              Reserve Bank $1 Coin Payments to Circulation                                                                             NSA  16-Nov-2022  Quarterly
-CURRRSBRCP                              Reserve Bank $1 Coin Receipts from Circulation                                                                           NSA  16-Nov-2022  Quarterly
-CURRVAL1                                Value of Currency in Circulation: $1                                                                                     NSA  16-Nov-2022  Annual, End of Period
-CURRVAL10                               Value of Currency in Circulation: $10                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVAL100                              Value of Currency in Circulation: $100                                                                                   NSA  16-Nov-2022  Annual, End of Period
-CURRVAL2                                Value of Currency in Circulation: $2                                                                                     NSA  16-Nov-2022  Annual, End of Period
-CURRVAL20                               Value of Currency in Circulation: $20                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVAL5                                Value of Currency in Circulation: $5                                                                                     NSA  16-Nov-2022  Annual, End of Period
-CURRVAL50                               Value of Currency in Circulation: $50                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVAL500                              Value of Currency in Circulation: $500 to $10,000                                                                        NSA  16-Nov-2022  Annual, End of Period
-CURRVALALL                              Value of Currency in Circulation: Total                                                                                  NSA  16-Nov-2022  Annual, End of Period
-CURRVOL1                                Volume of Currency in Circulation: $1                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVOL10                               Volume of Currency in Circulation: $10                                                                                   NSA  16-Nov-2022  Annual, End of Period
-CURRVOL100                              Volume of Currency in Circulation: $100                                                                                  NSA  16-Nov-2022  Annual, End of Period
-CURRVOL2                                Volume of Currency in Circulation: $2                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVOL20                               Volume of Currency in Circulation: $20                                                                                   NSA  16-Nov-2022  Annual, End of Period
-CURRVOL5                                Volume of Currency in Circulation: $5                                                                                    NSA  16-Nov-2022  Annual, End of Period
-CURRVOL50                               Volume of Currency in Circulation: $50                                                                                   NSA  16-Nov-2022  Annual, End of Period
-CURRVOL500                              Volume of Currency in Circulation: $500 to $10,000                                                                       NSA  16-Nov-2022  Annual, End of Period
-CURRVOLALL                              Volume of Currency in Circulation: Total                                                                                 NSA  16-Nov-2022  Annual, End of Period
-NOTEVALUE                               Value of Notes Printed by Bureau of Engraving and Printing                                                               NSA  16-Nov-2022  Annual
-NOTEVOLUME                              Volume of Notes Printed by Bureau of Engraving and Printing                                                              NSA  16-Nov-2022  Annual
+CASHEXP                       Federal Reserve Expenses for Cash Operations                                                                             NSA  16-Nov-2022  Annual         
+COSTCURR                      Cost of New Currency                                                                                                     NSA  16-Nov-2022  Annual         
+CURRMTORD                     Mint Orders of $1 Coin                                                                                                   NSA  16-Nov-2022  Quarterly      
+CURRRSBINV                    Reserve Bank $1 Coin Inventories                                                                                         NSA  16-Nov-2022  Quarterly      
+CURRRSBPMT                    Reserve Bank $1 Coin Payments to Circulation                                                                             NSA  16-Nov-2022  Quarterly      
+CURRRSBRCP                    Reserve Bank $1 Coin Receipts from Circulation                                                                           NSA  16-Nov-2022  Quarterly      
+CURRVAL1                      Value of Currency in Circulation: $1                                                                                     NSA  16-Nov-2022  Annual, End of Period
+CURRVAL10                     Value of Currency in Circulation: $10                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVAL100                    Value of Currency in Circulation: $100                                                                                   NSA  16-Nov-2022  Annual, End of Period
+CURRVAL2                      Value of Currency in Circulation: $2                                                                                     NSA  16-Nov-2022  Annual, End of Period
+CURRVAL20                     Value of Currency in Circulation: $20                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVAL5                      Value of Currency in Circulation: $5                                                                                     NSA  16-Nov-2022  Annual, End of Period
+CURRVAL50                     Value of Currency in Circulation: $50                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVAL500                    Value of Currency in Circulation: $500 to $10,000                                                                        NSA  16-Nov-2022  Annual, End of Period
+CURRVALALL                    Value of Currency in Circulation: Total                                                                                  NSA  16-Nov-2022  Annual, End of Period
+CURRVOL1                      Volume of Currency in Circulation: $1                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVOL10                     Volume of Currency in Circulation: $10                                                                                   NSA  16-Nov-2022  Annual, End of Period
+CURRVOL100                    Volume of Currency in Circulation: $100                                                                                  NSA  16-Nov-2022  Annual, End of Period
+CURRVOL2                      Volume of Currency in Circulation: $2                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVOL20                     Volume of Currency in Circulation: $20                                                                                   NSA  16-Nov-2022  Annual, End of Period
+CURRVOL5                      Volume of Currency in Circulation: $5                                                                                    NSA  16-Nov-2022  Annual, End of Period
+CURRVOL50                     Volume of Currency in Circulation: $50                                                                                   NSA  16-Nov-2022  Annual, End of Period
+CURRVOL500                    Volume of Currency in Circulation: $500 to $10,000                                                                       NSA  16-Nov-2022  Annual, End of Period
+CURRVOLALL                    Volume of Currency in Circulation: Total                                                                                 NSA  16-Nov-2022  Annual, End of Period
+NOTEVALUE                     Value of Notes Printed by Bureau of Engraving and Printing                                                               NSA  16-Nov-2022  Annual         
+NOTEVOLUME                    Volume of Notes Printed by Bureau of Engraving and Printing                                                              NSA  16-Nov-2022  Annual         

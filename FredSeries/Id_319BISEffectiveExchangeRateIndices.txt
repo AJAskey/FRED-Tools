@@ -1,176 +1,176 @@
 Id : 319  BIS Effective Exchange Rate Indices
-NBAEBIS                                 Broad Effective Exchange Rate for United Arab Emirates                                                                   NSA  17-Nov-2022  Monthly
-NBARBIS                                 Broad Effective Exchange Rate for Argentina                                                                              NSA  17-Nov-2022  Monthly
-NBATBIS                                 Broad Effective Exchange Rate for Austria                                                                                NSA  17-Nov-2022  Monthly
-NBAUBIS                                 Broad Effective Exchange Rate for Australia                                                                              NSA  17-Nov-2022  Monthly
-NBBEBIS                                 Broad Effective Exchange Rate for Belgium                                                                                NSA  17-Nov-2022  Monthly
-NBBGBIS                                 Broad Effective Exchange Rate for Bulgaria                                                                               NSA  17-Nov-2022  Monthly
-NBBRBIS                                 Broad Effective Exchange Rate for Brazil                                                                                 NSA  17-Nov-2022  Monthly
-NBCABIS                                 Broad Effective Exchange Rate for Canada                                                                                 NSA  17-Nov-2022  Monthly
-NBCHBIS                                 Broad Effective Exchange Rate for Switzerland                                                                            NSA  17-Nov-2022  Monthly
-NBCLBIS                                 Broad Effective Exchange Rate for Chile                                                                                  NSA  17-Nov-2022  Monthly
-NBCNBIS                                 Broad Effective Exchange Rate for China                                                                                  NSA  17-Nov-2022  Monthly
-NBCOBIS                                 Broad Effective Exchange Rate for Colombia                                                                               NSA  17-Nov-2022  Monthly
-NBCYBIS                                 Broad Effective Exchange Rate for Cyprus                                                                                 NSA  17-Nov-2022  Monthly
-NBCZBIS                                 Broad Effective Exchange Rate for Czech Republic                                                                         NSA  17-Nov-2022  Monthly
-NBDEBIS                                 Broad Effective Exchange Rate for Germany                                                                                NSA  17-Nov-2022  Monthly
-NBDKBIS                                 Broad Effective Exchange Rate for Denmark                                                                                NSA  17-Nov-2022  Monthly
-NBDZBIS                                 Broad Effective Exchange Rate for Algeria                                                                                NSA  17-Nov-2022  Monthly
-NBEEBIS                                 Broad Effective Exchange Rate for Estonia                                                                                NSA  17-Nov-2022  Monthly
-NBESBIS                                 Broad Effective Exchange Rate for Spain                                                                                  NSA  17-Nov-2022  Monthly
-NBFIBIS                                 Broad Effective Exchange Rate for Finland                                                                                NSA  17-Nov-2022  Monthly
-NBFRBIS                                 Broad Effective Exchange Rate for France                                                                                 NSA  17-Nov-2022  Monthly
-NBGBBIS                                 Broad Effective Exchange Rate for United Kingdom                                                                         NSA  17-Nov-2022  Monthly
-NBGRBIS                                 Broad Effective Exchange Rate for Greece                                                                                 NSA  17-Nov-2022  Monthly
-NBHKBIS                                 Broad Effective Exchange Rate for Hong Kong SAR                                                                          NSA  17-Nov-2022  Monthly
-NBHRBIS                                 Broad Effective Exchange Rate for Croatia                                                                                NSA  17-Nov-2022  Monthly
-NBHUBIS                                 Broad Effective Exchange Rate for Hungary                                                                                NSA  17-Nov-2022  Monthly
-NBIDBIS                                 Broad Effective Exchange Rate for Indonesia                                                                              NSA  17-Nov-2022  Monthly
-NBIEBIS                                 Broad Effective Exchange Rate for Ireland                                                                                NSA  17-Nov-2022  Monthly
-NBILBIS                                 Broad Effective Exchange Rate for Israel                                                                                 NSA  17-Nov-2022  Monthly
-NBINBIS                                 Broad Effective Exchange Rate for India                                                                                  NSA  17-Nov-2022  Monthly
-NBISBIS                                 Broad Effective Exchange Rate for Iceland                                                                                NSA  17-Nov-2022  Monthly
-NBITBIS                                 Broad Effective Exchange Rate for Italy                                                                                  NSA  17-Nov-2022  Monthly
-NBJPBIS                                 Broad Effective Exchange Rate for Japan                                                                                  NSA  17-Nov-2022  Monthly
-NBKRBIS                                 Broad Effective Exchange Rate for Korea                                                                                  NSA  17-Nov-2022  Monthly
-NBLTBIS                                 Broad Effective Exchange Rate for Lithuania                                                                              NSA  17-Nov-2022  Monthly
-NBLUBIS                                 Broad Effective Exchange Rate for Luxembourg                                                                             NSA  17-Nov-2022  Monthly
-NBLVBIS                                 Broad Effective Exchange Rate for Latvia                                                                                 NSA  17-Nov-2022  Monthly
-NBMTBIS                                 Broad Effective Exchange Rate for Malta                                                                                  NSA  17-Nov-2022  Monthly
-NBMXBIS                                 Broad Effective Exchange Rate for Mexico                                                                                 NSA  17-Nov-2022  Monthly
-NBMYBIS                                 Broad Effective Exchange Rate for Malaysia                                                                               NSA  17-Nov-2022  Monthly
-NBNLBIS                                 Broad Effective Exchange Rate for Netherlands                                                                            NSA  17-Nov-2022  Monthly
-NBNOBIS                                 Broad Effective Exchange Rate for Norway                                                                                 NSA  17-Nov-2022  Monthly
-NBNZBIS                                 Broad Effective Exchange Rate for New Zealand                                                                            NSA  17-Nov-2022  Monthly
-NBPEBIS                                 Broad Effective Exchange Rate for Peru                                                                                   NSA  17-Nov-2022  Monthly
-NBPHBIS                                 Broad Effective Exchange Rate for Philippines                                                                            NSA  17-Nov-2022  Monthly
-NBPLBIS                                 Broad Effective Exchange Rate for Poland                                                                                 NSA  17-Nov-2022  Monthly
-NBPTBIS                                 Broad Effective Exchange Rate for Portugal                                                                               NSA  17-Nov-2022  Monthly
-NBROBIS                                 Broad Effective Exchange Rate for Romania                                                                                NSA  17-Nov-2022  Monthly
-NBRUBIS                                 Broad Effective Exchange Rate for Russia                                                                                 NSA  17-Nov-2022  Monthly
-NBSABIS                                 Broad Effective Exchange Rate for Saudi Arabia                                                                           NSA  17-Nov-2022  Monthly
-NBSEBIS                                 Broad Effective Exchange Rate for Sweden                                                                                 NSA  17-Nov-2022  Monthly
-NBSGBIS                                 Broad Effective Exchange Rate for Singapore                                                                              NSA  17-Nov-2022  Monthly
-NBSIBIS                                 Broad Effective Exchange Rate for Slovenia                                                                               NSA  17-Nov-2022  Monthly
-NBSKBIS                                 Broad Effective Exchange Rate for Slovakia                                                                               NSA  17-Nov-2022  Monthly
-NBTHBIS                                 Broad Effective Exchange Rate for Thailand                                                                               NSA  17-Nov-2022  Monthly
-NBTRBIS                                 Broad Effective Exchange Rate for Turkey                                                                                 NSA  17-Nov-2022  Monthly
-NBTWBIS                                 Broad Effective Exchange Rate for Chinese Taipei                                                                         NSA  17-Nov-2022  Monthly
-NBUSBIS                                 Broad Effective Exchange Rate for United States                                                                          NSA  17-Nov-2022  Monthly
-NBVEBIS                                 Broad Effective Exchange Rate for Venezuela (DISCONTINUED)                                                               NSA  21-Mar-2019  Monthly
-NBXMBIS                                 Broad Effective Exchange Rate for Euro Area                                                                              NSA  17-Nov-2022  Monthly
-NBZABIS                                 Broad Effective Exchange Rate for South Africa                                                                           NSA  17-Nov-2022  Monthly
-NNATBIS                                 Narrow Effective Exchange Rate for Austria                                                                               NSA  17-Nov-2022  Monthly
-NNAUBIS                                 Narrow Effective Exchange Rate for Australia                                                                             NSA  17-Nov-2022  Monthly
-NNBEBIS                                 Narrow Effective Exchange Rate for Belgium                                                                               NSA  17-Nov-2022  Monthly
-NNCABIS                                 Narrow Effective Exchange Rate for Canada                                                                                NSA  17-Nov-2022  Monthly
-NNCHBIS                                 Narrow Effective Exchange Rate for Switzerland                                                                           NSA  17-Nov-2022  Monthly
-NNDEBIS                                 Narrow Effective Exchange Rate for Germany                                                                               NSA  17-Nov-2022  Monthly
-NNDKBIS                                 Narrow Effective Exchange Rate for Denmark                                                                               NSA  17-Nov-2022  Monthly
-NNESBIS                                 Narrow Effective Exchange Rate for Spain                                                                                 NSA  17-Nov-2022  Monthly
-NNFIBIS                                 Narrow Effective Exchange Rate for Finland                                                                               NSA  17-Nov-2022  Monthly
-NNFRBIS                                 Narrow Effective Exchange Rate for France                                                                                NSA  17-Nov-2022  Monthly
-NNGBBIS                                 Narrow Effective Exchange Rate for United Kingdom                                                                        NSA  17-Nov-2022  Monthly
-NNGRBIS                                 Narrow Effective Exchange Rate for Greece                                                                                NSA  17-Nov-2022  Monthly
-NNHKBIS                                 Narrow Effective Exchange Rate for Hong Kong SAR                                                                         NSA  17-Nov-2022  Monthly
-NNIEBIS                                 Narrow Effective Exchange Rate for Ireland                                                                               NSA  17-Nov-2022  Monthly
-NNITBIS                                 Narrow Effective Exchange Rate for Italy                                                                                 NSA  17-Nov-2022  Monthly
-NNJPBIS                                 Narrow Effective Exchange Rate for Japan                                                                                 NSA  17-Nov-2022  Monthly
-NNKRBIS                                 Narrow Effective Exchange Rate for Korea                                                                                 NSA  17-Nov-2022  Monthly
-NNNLBIS                                 Narrow Effective Exchange Rate for Netherlands                                                                           NSA  17-Nov-2022  Monthly
-NNNOBIS                                 Narrow Effective Exchange Rate for Norway                                                                                NSA  17-Nov-2022  Monthly
-NNNZBIS                                 Narrow Effective Exchange Rate for New Zealand                                                                           NSA  17-Nov-2022  Monthly
-NNPTBIS                                 Narrow Effective Exchange Rate for Portugal                                                                              NSA  17-Nov-2022  Monthly
-NNSEBIS                                 Narrow Effective Exchange Rate for Sweden                                                                                NSA  17-Nov-2022  Monthly
-NNSGBIS                                 Narrow Effective Exchange Rate for Singapore                                                                             NSA  17-Nov-2022  Monthly
-NNTWBIS                                 Narrow Effective Exchange Rate for Chinese Taipei                                                                        NSA  17-Nov-2022  Monthly
-NNUSBIS                                 Narrow Effective Exchange Rate for United States                                                                         NSA  17-Nov-2022  Monthly
-NNXMBIS                                 Narrow Effective Exchange Rate for Euro area                                                                             NSA  17-Nov-2022  Monthly
-RBAEBIS                                 Real Broad Effective Exchange Rate for United Arab Emirates                                                              NSA  17-Nov-2022  Monthly
-RBARBIS                                 Real Broad Effective Exchange Rate for Argentina                                                                         NSA  17-Nov-2022  Monthly
-RBATBIS                                 Real Broad Effective Exchange Rate for Austria                                                                           NSA  17-Nov-2022  Monthly
-RBAUBIS                                 Real Broad Effective Exchange Rate for Australia                                                                         NSA  17-Nov-2022  Monthly
-RBBEBIS                                 Real Broad Effective Exchange Rate for Belgium                                                                           NSA  17-Nov-2022  Monthly
-RBBGBIS                                 Real Broad Effective Exchange Rate for Bulgaria                                                                          NSA  17-Nov-2022  Monthly
-RBBRBIS                                 Real Broad Effective Exchange Rate for Brazil                                                                            NSA  17-Nov-2022  Monthly
-RBCABIS                                 Real Broad Effective Exchange Rate for Canada                                                                            NSA  17-Nov-2022  Monthly
-RBCHBIS                                 Real Broad Effective Exchange Rate for Switzerland                                                                       NSA  17-Nov-2022  Monthly
-RBCLBIS                                 Real Broad Effective Exchange Rate for Chile                                                                             NSA  17-Nov-2022  Monthly
-RBCNBIS                                 Real Broad Effective Exchange Rate for China                                                                             NSA  17-Nov-2022  Monthly
-RBCOBIS                                 Real Broad Effective Exchange Rate for Colombia                                                                          NSA  17-Nov-2022  Monthly
-RBCYBIS                                 Real Broad Effective Exchange Rate for Cyprus                                                                            NSA  17-Nov-2022  Monthly
-RBCZBIS                                 Real Broad Effective Exchange Rate for Czech Republic                                                                    NSA  17-Nov-2022  Monthly
-RBDEBIS                                 Real Broad Effective Exchange Rate for Germany                                                                           NSA  17-Nov-2022  Monthly
-RBDKBIS                                 Real Broad Effective Exchange Rate for Denmark                                                                           NSA  17-Nov-2022  Monthly
-RBDZBIS                                 Real Broad Effective Exchange Rate for Algeria                                                                           NSA  17-Nov-2022  Monthly
-RBEEBIS                                 Real Broad Effective Exchange Rate for Estonia                                                                           NSA  17-Nov-2022  Monthly
-RBESBIS                                 Real Broad Effective Exchange Rate for Spain                                                                             NSA  17-Nov-2022  Monthly
-RBFIBIS                                 Real Broad Effective Exchange Rate for Finland                                                                           NSA  17-Nov-2022  Monthly
-RBFRBIS                                 Real Broad Effective Exchange Rate for France                                                                            NSA  17-Nov-2022  Monthly
-RBGBBIS                                 Real Broad Effective Exchange Rate for United Kingdom                                                                    NSA  17-Nov-2022  Monthly
-RBGRBIS                                 Real Broad Effective Exchange Rate for Greece                                                                            NSA  17-Nov-2022  Monthly
-RBHKBIS                                 Real Broad Effective Exchange Rate for Hong Kong SAR                                                                     NSA  17-Nov-2022  Monthly
-RBHRBIS                                 Real Broad Effective Exchange Rate for Croatia                                                                           NSA  17-Nov-2022  Monthly
-RBHUBIS                                 Real Broad Effective Exchange Rate for Hungary                                                                           NSA  17-Nov-2022  Monthly
-RBIDBIS                                 Real Broad Effective Exchange Rate for Indonesia                                                                         NSA  17-Nov-2022  Monthly
-RBIEBIS                                 Real Broad Effective Exchange Rate for Ireland                                                                           NSA  17-Nov-2022  Monthly
-RBILBIS                                 Real Broad Effective Exchange Rate for Israel                                                                            NSA  17-Nov-2022  Monthly
-RBINBIS                                 Real Broad Effective Exchange Rate for India                                                                             NSA  17-Nov-2022  Monthly
-RBISBIS                                 Real Broad Effective Exchange Rate for Iceland                                                                           NSA  17-Nov-2022  Monthly
-RBITBIS                                 Real Broad Effective Exchange Rate for Italy                                                                             NSA  17-Nov-2022  Monthly
-RBJPBIS                                 Real Broad Effective Exchange Rate for Japan                                                                             NSA  17-Nov-2022  Monthly
-RBKRBIS                                 Real Broad Effective Exchange Rate for Korea                                                                             NSA  17-Nov-2022  Monthly
-RBLTBIS                                 Real Broad Effective Exchange Rate for Lithuania                                                                         NSA  17-Nov-2022  Monthly
-RBLUBIS                                 Real Broad Effective Exchange Rate for Luxembourg                                                                        NSA  17-Nov-2022  Monthly
-RBLVBIS                                 Real Broad Effective Exchange Rate for Latvia                                                                            NSA  17-Nov-2022  Monthly
-RBMTBIS                                 Real Broad Effective Exchange Rate for Malta                                                                             NSA  17-Nov-2022  Monthly
-RBMXBIS                                 Real Broad Effective Exchange Rate for Mexico                                                                            NSA  17-Nov-2022  Monthly
-RBMYBIS                                 Real Broad Effective Exchange Rate for Malaysia                                                                          NSA  17-Nov-2022  Monthly
-RBNLBIS                                 Real Broad Effective Exchange Rate for Netherlands                                                                       NSA  17-Nov-2022  Monthly
-RBNOBIS                                 Real Broad Effective Exchange Rate for Norway                                                                            NSA  17-Nov-2022  Monthly
-RBNZBIS                                 Real Broad Effective Exchange Rate for New Zealand                                                                       NSA  17-Nov-2022  Monthly
-RBPEBIS                                 Real Broad Effective Exchange Rate for Peru                                                                              NSA  17-Nov-2022  Monthly
-RBPHBIS                                 Real Broad Effective Exchange Rate for Philippines                                                                       NSA  17-Nov-2022  Monthly
-RBPLBIS                                 Real Broad Effective Exchange Rate for Poland                                                                            NSA  17-Nov-2022  Monthly
-RBPTBIS                                 Real Broad Effective Exchange Rate for Portugal                                                                          NSA  17-Nov-2022  Monthly
-RBROBIS                                 Real Broad Effective Exchange Rate for Romania                                                                           NSA  17-Nov-2022  Monthly
-RBRUBIS                                 Real Broad Effective Exchange Rate for Russia                                                                            NSA  17-Nov-2022  Monthly
-RBSABIS                                 Real Broad Effective Exchange Rate for Saudi Arabia                                                                      NSA  17-Nov-2022  Monthly
-RBSEBIS                                 Real Broad Effective Exchange Rate for Sweden                                                                            NSA  17-Nov-2022  Monthly
-RBSGBIS                                 Real Broad Effective Exchange Rate for Singapore                                                                         NSA  17-Nov-2022  Monthly
-RBSIBIS                                 Real Broad Effective Exchange Rate for Slovenia                                                                          NSA  17-Nov-2022  Monthly
-RBSKBIS                                 Real Broad Effective Exchange Rate for Slovakia                                                                          NSA  17-Nov-2022  Monthly
-RBTHBIS                                 Real Broad Effective Exchange Rate for Thailand                                                                          NSA  17-Nov-2022  Monthly
-RBTRBIS                                 Real Broad Effective Exchange Rate for Turkey                                                                            NSA  17-Nov-2022  Monthly
-RBTWBIS                                 Real Broad Effective Exchange Rate for Chinese Taipei                                                                    NSA  17-Nov-2022  Monthly
-RBUSBIS                                 Real Broad Effective Exchange Rate for United States                                                                     NSA  17-Nov-2022  Monthly
-RBVEBIS                                 Real Broad Effective Exchange Rate for Venezuela (DISCONTINUED)                                                          NSA  21-Mar-2019  Monthly
-RBXMBIS                                 Real Broad Effective Exchange Rate for Euro Area                                                                         NSA  17-Nov-2022  Monthly
-RBZABIS                                 Real Broad Effective Exchange Rate for South Africa                                                                      NSA  17-Nov-2022  Monthly
-RNATBIS                                 Real Narrow Effective Exchange Rate for Austria                                                                          NSA  17-Nov-2022  Monthly
-RNAUBIS                                 Real Narrow Effective Exchange Rate for Australia                                                                        NSA  17-Nov-2022  Monthly
-RNBEBIS                                 Real Narrow Effective Exchange Rate for Belgium                                                                          NSA  17-Nov-2022  Monthly
-RNCABIS                                 Real Narrow Effective Exchange Rate for Canada                                                                           NSA  17-Nov-2022  Monthly
-RNCHBIS                                 Real Narrow Effective Exchange Rate for Switzerland                                                                      NSA  17-Nov-2022  Monthly
-RNDEBIS                                 Real Narrow Effective Exchange Rate for Germany                                                                          NSA  17-Nov-2022  Monthly
-RNDKBIS                                 Real Narrow Effective Exchange Rate for Denmark                                                                          NSA  17-Nov-2022  Monthly
-RNESBIS                                 Real Narrow Effective Exchange Rate for Spain                                                                            NSA  17-Nov-2022  Monthly
-RNFIBIS                                 Real Narrow Effective Exchange Rate for Finland                                                                          NSA  17-Nov-2022  Monthly
-RNFRBIS                                 Real Narrow Effective Exchange Rate for France                                                                           NSA  17-Nov-2022  Monthly
-RNGBBIS                                 Real Narrow Effective Exchange Rate for United Kingdom                                                                   NSA  17-Nov-2022  Monthly
-RNGRBIS                                 Real Narrow Effective Exchange Rate for Greece                                                                           NSA  17-Nov-2022  Monthly
-RNHKBIS                                 Real Narrow Effective Exchange Rate for Hong Kong SAR                                                                    NSA  17-Nov-2022  Monthly
-RNIEBIS                                 Real Narrow Effective Exchange Rate for Ireland                                                                          NSA  17-Nov-2022  Monthly
-RNITBIS                                 Real Narrow Effective Exchange Rate for Italy                                                                            NSA  17-Nov-2022  Monthly
-RNJPBIS                                 Real Narrow Effective Exchange Rate for Japan                                                                            NSA  17-Nov-2022  Monthly
-RNKRBIS                                 Real Narrow Effective Exchange Rate for Korea                                                                            NSA  17-Nov-2022  Monthly
-RNMXBIS                                 Real Narrow Effective Exchange Rate for Mexico                                                                           NSA  17-Nov-2022  Monthly
-RNNLBIS                                 Real Narrow Effective Exchange Rate for Netherlands                                                                      NSA  17-Nov-2022  Monthly
-RNNOBIS                                 Real Narrow Effective Exchange Rate for Norway                                                                           NSA  17-Nov-2022  Monthly
-RNNZBIS                                 Real Narrow Effective Exchange Rate for New Zealand                                                                      NSA  17-Nov-2022  Monthly
-RNPTBIS                                 Real Narrow Effective Exchange Rate for Portugal                                                                         NSA  17-Nov-2022  Monthly
-RNSEBIS                                 Real Narrow Effective Exchange Rate for Sweden                                                                           NSA  17-Nov-2022  Monthly
-RNSGBIS                                 Real Narrow Effective Exchange Rate for Singapore                                                                        NSA  17-Nov-2022  Monthly
-RNTWBIS                                 Real Narrow Effective Exchange Rate for Chinese Taipei                                                                   NSA  17-Nov-2022  Monthly
-RNUSBIS                                 Real Narrow Effective Exchange Rate for United States                                                                    NSA  17-Nov-2022  Monthly
-RNXMBIS                                 Real Narrow Effective Exchange Rate for Euro area                                                                        NSA  17-Nov-2022  Monthly
+NBAEBIS                       Broad Effective Exchange Rate for United Arab Emirates                                                                   NSA  17-Nov-2022  Monthly        
+NBARBIS                       Broad Effective Exchange Rate for Argentina                                                                              NSA  17-Nov-2022  Monthly        
+NBATBIS                       Broad Effective Exchange Rate for Austria                                                                                NSA  17-Nov-2022  Monthly        
+NBAUBIS                       Broad Effective Exchange Rate for Australia                                                                              NSA  17-Nov-2022  Monthly        
+NBBEBIS                       Broad Effective Exchange Rate for Belgium                                                                                NSA  17-Nov-2022  Monthly        
+NBBGBIS                       Broad Effective Exchange Rate for Bulgaria                                                                               NSA  17-Nov-2022  Monthly        
+NBBRBIS                       Broad Effective Exchange Rate for Brazil                                                                                 NSA  17-Nov-2022  Monthly        
+NBCABIS                       Broad Effective Exchange Rate for Canada                                                                                 NSA  17-Nov-2022  Monthly        
+NBCHBIS                       Broad Effective Exchange Rate for Switzerland                                                                            NSA  17-Nov-2022  Monthly        
+NBCLBIS                       Broad Effective Exchange Rate for Chile                                                                                  NSA  17-Nov-2022  Monthly        
+NBCNBIS                       Broad Effective Exchange Rate for China                                                                                  NSA  17-Nov-2022  Monthly        
+NBCOBIS                       Broad Effective Exchange Rate for Colombia                                                                               NSA  17-Nov-2022  Monthly        
+NBCYBIS                       Broad Effective Exchange Rate for Cyprus                                                                                 NSA  17-Nov-2022  Monthly        
+NBCZBIS                       Broad Effective Exchange Rate for Czech Republic                                                                         NSA  17-Nov-2022  Monthly        
+NBDEBIS                       Broad Effective Exchange Rate for Germany                                                                                NSA  17-Nov-2022  Monthly        
+NBDKBIS                       Broad Effective Exchange Rate for Denmark                                                                                NSA  17-Nov-2022  Monthly        
+NBDZBIS                       Broad Effective Exchange Rate for Algeria                                                                                NSA  17-Nov-2022  Monthly        
+NBEEBIS                       Broad Effective Exchange Rate for Estonia                                                                                NSA  17-Nov-2022  Monthly        
+NBESBIS                       Broad Effective Exchange Rate for Spain                                                                                  NSA  17-Nov-2022  Monthly        
+NBFIBIS                       Broad Effective Exchange Rate for Finland                                                                                NSA  17-Nov-2022  Monthly        
+NBFRBIS                       Broad Effective Exchange Rate for France                                                                                 NSA  17-Nov-2022  Monthly        
+NBGBBIS                       Broad Effective Exchange Rate for United Kingdom                                                                         NSA  17-Nov-2022  Monthly        
+NBGRBIS                       Broad Effective Exchange Rate for Greece                                                                                 NSA  17-Nov-2022  Monthly        
+NBHKBIS                       Broad Effective Exchange Rate for Hong Kong SAR                                                                          NSA  17-Nov-2022  Monthly        
+NBHRBIS                       Broad Effective Exchange Rate for Croatia                                                                                NSA  17-Nov-2022  Monthly        
+NBHUBIS                       Broad Effective Exchange Rate for Hungary                                                                                NSA  17-Nov-2022  Monthly        
+NBIDBIS                       Broad Effective Exchange Rate for Indonesia                                                                              NSA  17-Nov-2022  Monthly        
+NBIEBIS                       Broad Effective Exchange Rate for Ireland                                                                                NSA  17-Nov-2022  Monthly        
+NBILBIS                       Broad Effective Exchange Rate for Israel                                                                                 NSA  17-Nov-2022  Monthly        
+NBINBIS                       Broad Effective Exchange Rate for India                                                                                  NSA  17-Nov-2022  Monthly        
+NBISBIS                       Broad Effective Exchange Rate for Iceland                                                                                NSA  17-Nov-2022  Monthly        
+NBITBIS                       Broad Effective Exchange Rate for Italy                                                                                  NSA  17-Nov-2022  Monthly        
+NBJPBIS                       Broad Effective Exchange Rate for Japan                                                                                  NSA  17-Nov-2022  Monthly        
+NBKRBIS                       Broad Effective Exchange Rate for Korea                                                                                  NSA  17-Nov-2022  Monthly        
+NBLTBIS                       Broad Effective Exchange Rate for Lithuania                                                                              NSA  17-Nov-2022  Monthly        
+NBLUBIS                       Broad Effective Exchange Rate for Luxembourg                                                                             NSA  17-Nov-2022  Monthly        
+NBLVBIS                       Broad Effective Exchange Rate for Latvia                                                                                 NSA  17-Nov-2022  Monthly        
+NBMTBIS                       Broad Effective Exchange Rate for Malta                                                                                  NSA  17-Nov-2022  Monthly        
+NBMXBIS                       Broad Effective Exchange Rate for Mexico                                                                                 NSA  17-Nov-2022  Monthly        
+NBMYBIS                       Broad Effective Exchange Rate for Malaysia                                                                               NSA  17-Nov-2022  Monthly        
+NBNLBIS                       Broad Effective Exchange Rate for Netherlands                                                                            NSA  17-Nov-2022  Monthly        
+NBNOBIS                       Broad Effective Exchange Rate for Norway                                                                                 NSA  17-Nov-2022  Monthly        
+NBNZBIS                       Broad Effective Exchange Rate for New Zealand                                                                            NSA  17-Nov-2022  Monthly        
+NBPEBIS                       Broad Effective Exchange Rate for Peru                                                                                   NSA  17-Nov-2022  Monthly        
+NBPHBIS                       Broad Effective Exchange Rate for Philippines                                                                            NSA  17-Nov-2022  Monthly        
+NBPLBIS                       Broad Effective Exchange Rate for Poland                                                                                 NSA  17-Nov-2022  Monthly        
+NBPTBIS                       Broad Effective Exchange Rate for Portugal                                                                               NSA  17-Nov-2022  Monthly        
+NBROBIS                       Broad Effective Exchange Rate for Romania                                                                                NSA  17-Nov-2022  Monthly        
+NBRUBIS                       Broad Effective Exchange Rate for Russia                                                                                 NSA  17-Nov-2022  Monthly        
+NBSABIS                       Broad Effective Exchange Rate for Saudi Arabia                                                                           NSA  17-Nov-2022  Monthly        
+NBSEBIS                       Broad Effective Exchange Rate for Sweden                                                                                 NSA  17-Nov-2022  Monthly        
+NBSGBIS                       Broad Effective Exchange Rate for Singapore                                                                              NSA  17-Nov-2022  Monthly        
+NBSIBIS                       Broad Effective Exchange Rate for Slovenia                                                                               NSA  17-Nov-2022  Monthly        
+NBSKBIS                       Broad Effective Exchange Rate for Slovakia                                                                               NSA  17-Nov-2022  Monthly        
+NBTHBIS                       Broad Effective Exchange Rate for Thailand                                                                               NSA  17-Nov-2022  Monthly        
+NBTRBIS                       Broad Effective Exchange Rate for Turkey                                                                                 NSA  17-Nov-2022  Monthly        
+NBTWBIS                       Broad Effective Exchange Rate for Chinese Taipei                                                                         NSA  17-Nov-2022  Monthly        
+NBUSBIS                       Broad Effective Exchange Rate for United States                                                                          NSA  17-Nov-2022  Monthly        
+NBVEBIS                       Broad Effective Exchange Rate for Venezuela (DISCONTINUED)                                                               NSA  21-Mar-2019  Monthly        
+NBXMBIS                       Broad Effective Exchange Rate for Euro Area                                                                              NSA  17-Nov-2022  Monthly        
+NBZABIS                       Broad Effective Exchange Rate for South Africa                                                                           NSA  17-Nov-2022  Monthly        
+NNATBIS                       Narrow Effective Exchange Rate for Austria                                                                               NSA  17-Nov-2022  Monthly        
+NNAUBIS                       Narrow Effective Exchange Rate for Australia                                                                             NSA  17-Nov-2022  Monthly        
+NNBEBIS                       Narrow Effective Exchange Rate for Belgium                                                                               NSA  17-Nov-2022  Monthly        
+NNCABIS                       Narrow Effective Exchange Rate for Canada                                                                                NSA  17-Nov-2022  Monthly        
+NNCHBIS                       Narrow Effective Exchange Rate for Switzerland                                                                           NSA  17-Nov-2022  Monthly        
+NNDEBIS                       Narrow Effective Exchange Rate for Germany                                                                               NSA  17-Nov-2022  Monthly        
+NNDKBIS                       Narrow Effective Exchange Rate for Denmark                                                                               NSA  17-Nov-2022  Monthly        
+NNESBIS                       Narrow Effective Exchange Rate for Spain                                                                                 NSA  17-Nov-2022  Monthly        
+NNFIBIS                       Narrow Effective Exchange Rate for Finland                                                                               NSA  17-Nov-2022  Monthly        
+NNFRBIS                       Narrow Effective Exchange Rate for France                                                                                NSA  17-Nov-2022  Monthly        
+NNGBBIS                       Narrow Effective Exchange Rate for United Kingdom                                                                        NSA  17-Nov-2022  Monthly        
+NNGRBIS                       Narrow Effective Exchange Rate for Greece                                                                                NSA  17-Nov-2022  Monthly        
+NNHKBIS                       Narrow Effective Exchange Rate for Hong Kong SAR                                                                         NSA  17-Nov-2022  Monthly        
+NNIEBIS                       Narrow Effective Exchange Rate for Ireland                                                                               NSA  17-Nov-2022  Monthly        
+NNITBIS                       Narrow Effective Exchange Rate for Italy                                                                                 NSA  17-Nov-2022  Monthly        
+NNJPBIS                       Narrow Effective Exchange Rate for Japan                                                                                 NSA  17-Nov-2022  Monthly        
+NNKRBIS                       Narrow Effective Exchange Rate for Korea                                                                                 NSA  17-Nov-2022  Monthly        
+NNNLBIS                       Narrow Effective Exchange Rate for Netherlands                                                                           NSA  17-Nov-2022  Monthly        
+NNNOBIS                       Narrow Effective Exchange Rate for Norway                                                                                NSA  17-Nov-2022  Monthly        
+NNNZBIS                       Narrow Effective Exchange Rate for New Zealand                                                                           NSA  17-Nov-2022  Monthly        
+NNPTBIS                       Narrow Effective Exchange Rate for Portugal                                                                              NSA  17-Nov-2022  Monthly        
+NNSEBIS                       Narrow Effective Exchange Rate for Sweden                                                                                NSA  17-Nov-2022  Monthly        
+NNSGBIS                       Narrow Effective Exchange Rate for Singapore                                                                             NSA  17-Nov-2022  Monthly        
+NNTWBIS                       Narrow Effective Exchange Rate for Chinese Taipei                                                                        NSA  17-Nov-2022  Monthly        
+NNUSBIS                       Narrow Effective Exchange Rate for United States                                                                         NSA  17-Nov-2022  Monthly        
+NNXMBIS                       Narrow Effective Exchange Rate for Euro area                                                                             NSA  17-Nov-2022  Monthly        
+RBAEBIS                       Real Broad Effective Exchange Rate for United Arab Emirates                                                              NSA  17-Nov-2022  Monthly        
+RBARBIS                       Real Broad Effective Exchange Rate for Argentina                                                                         NSA  17-Nov-2022  Monthly        
+RBATBIS                       Real Broad Effective Exchange Rate for Austria                                                                           NSA  17-Nov-2022  Monthly        
+RBAUBIS                       Real Broad Effective Exchange Rate for Australia                                                                         NSA  17-Nov-2022  Monthly        
+RBBEBIS                       Real Broad Effective Exchange Rate for Belgium                                                                           NSA  17-Nov-2022  Monthly        
+RBBGBIS                       Real Broad Effective Exchange Rate for Bulgaria                                                                          NSA  17-Nov-2022  Monthly        
+RBBRBIS                       Real Broad Effective Exchange Rate for Brazil                                                                            NSA  17-Nov-2022  Monthly        
+RBCABIS                       Real Broad Effective Exchange Rate for Canada                                                                            NSA  17-Nov-2022  Monthly        
+RBCHBIS                       Real Broad Effective Exchange Rate for Switzerland                                                                       NSA  17-Nov-2022  Monthly        
+RBCLBIS                       Real Broad Effective Exchange Rate for Chile                                                                             NSA  17-Nov-2022  Monthly        
+RBCNBIS                       Real Broad Effective Exchange Rate for China                                                                             NSA  17-Nov-2022  Monthly        
+RBCOBIS                       Real Broad Effective Exchange Rate for Colombia                                                                          NSA  17-Nov-2022  Monthly        
+RBCYBIS                       Real Broad Effective Exchange Rate for Cyprus                                                                            NSA  17-Nov-2022  Monthly        
+RBCZBIS                       Real Broad Effective Exchange Rate for Czech Republic                                                                    NSA  17-Nov-2022  Monthly        
+RBDEBIS                       Real Broad Effective Exchange Rate for Germany                                                                           NSA  17-Nov-2022  Monthly        
+RBDKBIS                       Real Broad Effective Exchange Rate for Denmark                                                                           NSA  17-Nov-2022  Monthly        
+RBDZBIS                       Real Broad Effective Exchange Rate for Algeria                                                                           NSA  17-Nov-2022  Monthly        
+RBEEBIS                       Real Broad Effective Exchange Rate for Estonia                                                                           NSA  17-Nov-2022  Monthly        
+RBESBIS                       Real Broad Effective Exchange Rate for Spain                                                                             NSA  17-Nov-2022  Monthly        
+RBFIBIS                       Real Broad Effective Exchange Rate for Finland                                                                           NSA  17-Nov-2022  Monthly        
+RBFRBIS                       Real Broad Effective Exchange Rate for France                                                                            NSA  17-Nov-2022  Monthly        
+RBGBBIS                       Real Broad Effective Exchange Rate for United Kingdom                                                                    NSA  17-Nov-2022  Monthly        
+RBGRBIS                       Real Broad Effective Exchange Rate for Greece                                                                            NSA  17-Nov-2022  Monthly        
+RBHKBIS                       Real Broad Effective Exchange Rate for Hong Kong SAR                                                                     NSA  17-Nov-2022  Monthly        
+RBHRBIS                       Real Broad Effective Exchange Rate for Croatia                                                                           NSA  17-Nov-2022  Monthly        
+RBHUBIS                       Real Broad Effective Exchange Rate for Hungary                                                                           NSA  17-Nov-2022  Monthly        
+RBIDBIS                       Real Broad Effective Exchange Rate for Indonesia                                                                         NSA  17-Nov-2022  Monthly        
+RBIEBIS                       Real Broad Effective Exchange Rate for Ireland                                                                           NSA  17-Nov-2022  Monthly        
+RBILBIS                       Real Broad Effective Exchange Rate for Israel                                                                            NSA  17-Nov-2022  Monthly        
+RBINBIS                       Real Broad Effective Exchange Rate for India                                                                             NSA  17-Nov-2022  Monthly        
+RBISBIS                       Real Broad Effective Exchange Rate for Iceland                                                                           NSA  17-Nov-2022  Monthly        
+RBITBIS                       Real Broad Effective Exchange Rate for Italy                                                                             NSA  17-Nov-2022  Monthly        
+RBJPBIS                       Real Broad Effective Exchange Rate for Japan                                                                             NSA  17-Nov-2022  Monthly        
+RBKRBIS                       Real Broad Effective Exchange Rate for Korea                                                                             NSA  17-Nov-2022  Monthly        
+RBLTBIS                       Real Broad Effective Exchange Rate for Lithuania                                                                         NSA  17-Nov-2022  Monthly        
+RBLUBIS                       Real Broad Effective Exchange Rate for Luxembourg                                                                        NSA  17-Nov-2022  Monthly        
+RBLVBIS                       Real Broad Effective Exchange Rate for Latvia                                                                            NSA  17-Nov-2022  Monthly        
+RBMTBIS                       Real Broad Effective Exchange Rate for Malta                                                                             NSA  17-Nov-2022  Monthly        
+RBMXBIS                       Real Broad Effective Exchange Rate for Mexico                                                                            NSA  17-Nov-2022  Monthly        
+RBMYBIS                       Real Broad Effective Exchange Rate for Malaysia                                                                          NSA  17-Nov-2022  Monthly        
+RBNLBIS                       Real Broad Effective Exchange Rate for Netherlands                                                                       NSA  17-Nov-2022  Monthly        
+RBNOBIS                       Real Broad Effective Exchange Rate for Norway                                                                            NSA  17-Nov-2022  Monthly        
+RBNZBIS                       Real Broad Effective Exchange Rate for New Zealand                                                                       NSA  17-Nov-2022  Monthly        
+RBPEBIS                       Real Broad Effective Exchange Rate for Peru                                                                              NSA  17-Nov-2022  Monthly        
+RBPHBIS                       Real Broad Effective Exchange Rate for Philippines                                                                       NSA  17-Nov-2022  Monthly        
+RBPLBIS                       Real Broad Effective Exchange Rate for Poland                                                                            NSA  17-Nov-2022  Monthly        
+RBPTBIS                       Real Broad Effective Exchange Rate for Portugal                                                                          NSA  17-Nov-2022  Monthly        
+RBROBIS                       Real Broad Effective Exchange Rate for Romania                                                                           NSA  17-Nov-2022  Monthly        
+RBRUBIS                       Real Broad Effective Exchange Rate for Russia                                                                            NSA  17-Nov-2022  Monthly        
+RBSABIS                       Real Broad Effective Exchange Rate for Saudi Arabia                                                                      NSA  17-Nov-2022  Monthly        
+RBSEBIS                       Real Broad Effective Exchange Rate for Sweden                                                                            NSA  17-Nov-2022  Monthly        
+RBSGBIS                       Real Broad Effective Exchange Rate for Singapore                                                                         NSA  17-Nov-2022  Monthly        
+RBSIBIS                       Real Broad Effective Exchange Rate for Slovenia                                                                          NSA  17-Nov-2022  Monthly        
+RBSKBIS                       Real Broad Effective Exchange Rate for Slovakia                                                                          NSA  17-Nov-2022  Monthly        
+RBTHBIS                       Real Broad Effective Exchange Rate for Thailand                                                                          NSA  17-Nov-2022  Monthly        
+RBTRBIS                       Real Broad Effective Exchange Rate for Turkey                                                                            NSA  17-Nov-2022  Monthly        
+RBTWBIS                       Real Broad Effective Exchange Rate for Chinese Taipei                                                                    NSA  17-Nov-2022  Monthly        
+RBUSBIS                       Real Broad Effective Exchange Rate for United States                                                                     NSA  17-Nov-2022  Monthly        
+RBVEBIS                       Real Broad Effective Exchange Rate for Venezuela (DISCONTINUED)                                                          NSA  21-Mar-2019  Monthly        
+RBXMBIS                       Real Broad Effective Exchange Rate for Euro Area                                                                         NSA  17-Nov-2022  Monthly        
+RBZABIS                       Real Broad Effective Exchange Rate for South Africa                                                                      NSA  17-Nov-2022  Monthly        
+RNATBIS                       Real Narrow Effective Exchange Rate for Austria                                                                          NSA  17-Nov-2022  Monthly        
+RNAUBIS                       Real Narrow Effective Exchange Rate for Australia                                                                        NSA  17-Nov-2022  Monthly        
+RNBEBIS                       Real Narrow Effective Exchange Rate for Belgium                                                                          NSA  17-Nov-2022  Monthly        
+RNCABIS                       Real Narrow Effective Exchange Rate for Canada                                                                           NSA  17-Nov-2022  Monthly        
+RNCHBIS                       Real Narrow Effective Exchange Rate for Switzerland                                                                      NSA  17-Nov-2022  Monthly        
+RNDEBIS                       Real Narrow Effective Exchange Rate for Germany                                                                          NSA  17-Nov-2022  Monthly        
+RNDKBIS                       Real Narrow Effective Exchange Rate for Denmark                                                                          NSA  17-Nov-2022  Monthly        
+RNESBIS                       Real Narrow Effective Exchange Rate for Spain                                                                            NSA  17-Nov-2022  Monthly        
+RNFIBIS                       Real Narrow Effective Exchange Rate for Finland                                                                          NSA  17-Nov-2022  Monthly        
+RNFRBIS                       Real Narrow Effective Exchange Rate for France                                                                           NSA  17-Nov-2022  Monthly        
+RNGBBIS                       Real Narrow Effective Exchange Rate for United Kingdom                                                                   NSA  17-Nov-2022  Monthly        
+RNGRBIS                       Real Narrow Effective Exchange Rate for Greece                                                                           NSA  17-Nov-2022  Monthly        
+RNHKBIS                       Real Narrow Effective Exchange Rate for Hong Kong SAR                                                                    NSA  17-Nov-2022  Monthly        
+RNIEBIS                       Real Narrow Effective Exchange Rate for Ireland                                                                          NSA  17-Nov-2022  Monthly        
+RNITBIS                       Real Narrow Effective Exchange Rate for Italy                                                                            NSA  17-Nov-2022  Monthly        
+RNJPBIS                       Real Narrow Effective Exchange Rate for Japan                                                                            NSA  17-Nov-2022  Monthly        
+RNKRBIS                       Real Narrow Effective Exchange Rate for Korea                                                                            NSA  17-Nov-2022  Monthly        
+RNMXBIS                       Real Narrow Effective Exchange Rate for Mexico                                                                           NSA  17-Nov-2022  Monthly        
+RNNLBIS                       Real Narrow Effective Exchange Rate for Netherlands                                                                      NSA  17-Nov-2022  Monthly        
+RNNOBIS                       Real Narrow Effective Exchange Rate for Norway                                                                           NSA  17-Nov-2022  Monthly        
+RNNZBIS                       Real Narrow Effective Exchange Rate for New Zealand                                                                      NSA  17-Nov-2022  Monthly        
+RNPTBIS                       Real Narrow Effective Exchange Rate for Portugal                                                                         NSA  17-Nov-2022  Monthly        
+RNSEBIS                       Real Narrow Effective Exchange Rate for Sweden                                                                           NSA  17-Nov-2022  Monthly        
+RNSGBIS                       Real Narrow Effective Exchange Rate for Singapore                                                                        NSA  17-Nov-2022  Monthly        
+RNTWBIS                       Real Narrow Effective Exchange Rate for Chinese Taipei                                                                   NSA  17-Nov-2022  Monthly        
+RNUSBIS                       Real Narrow Effective Exchange Rate for United States                                                                    NSA  17-Nov-2022  Monthly        
+RNXMBIS                       Real Narrow Effective Exchange Rate for Euro area                                                                        NSA  17-Nov-2022  Monthly        

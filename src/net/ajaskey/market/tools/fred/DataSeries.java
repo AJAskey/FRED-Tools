@@ -285,7 +285,7 @@ public class DataSeries {
 
     String resp;
     try {
-      resp = Utils.getFromUrl(url);
+      resp = Utils.getFromUrl(url, 6, 15);
 
       if (resp.length() > 0) {
 

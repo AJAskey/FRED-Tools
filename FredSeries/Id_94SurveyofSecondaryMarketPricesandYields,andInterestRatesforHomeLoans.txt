@@ -1,2 +1,2 @@
 Id : 94  Survey of Secondary Market Prices and Yields, and Interest Rates for Home Loans
-FHA30                                   30-Year FHA Mortgage Rate: Secondary Market (DISCONTINUED)                                                               NSA  07-Jun-2006  Monthly
+FHA30                         30-Year FHA Mortgage Rate: Secondary Market (DISCONTINUED)                                                               NSA  07-Jun-2006  Monthly        

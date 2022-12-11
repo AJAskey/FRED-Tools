@@ -1,133 +1,133 @@
 Id : 54  Personal Income and Outlays
-A038RC1                                 Compensation of Employees, Received: Supplements to Wages and Salaries                                                   SAAR 01-Dec-2022  Monthly
-A041RC1                                 Proprietors' income with inventory valuation and capital consumption adjustments                                         SAAR 01-Dec-2022  Monthly
-A045RC1                                 Proprietors' income with inventory valuation and capital consumption adjustments: Nonfarm                                SAAR 01-Dec-2022  Monthly
-A048RC1                                 Rental income of persons with capital consumption adjustment                                                             SAAR 01-Dec-2022  Monthly
-A061RC1                                 Contributions for government social insurance, domestic                                                                  SAAR 01-Dec-2022  Monthly
-A063RC1                                 Personal current transfer receipts: Government social benefits to persons                                                SAAR 01-Dec-2022  Monthly
-A068RC1                                 Personal outlays                                                                                                         SAAR 01-Dec-2022  Monthly
-A132RC1                                 Compensation of Employees, Received: Wage and Salary Disbursements: Private Industries                                   SAAR 01-Dec-2022  Monthly
-A206RC1M027SBEA                         Wages and salaries: Private industries: Goods-producing industries (DISCONTINUED)                                        SAAR 09-Aug-2013  Monthly
-A212RC1M027SBEA                         Wages and salaries: Private industries: Distributive industries (DISCONTINUED)                                           SAAR 09-Aug-2013  Monthly
-A218RC1M027SBEA                         Wages and salaries: Private industries: Service industries (DISCONTINUED)                                                SAAR 30-Jul-2021  Monthly
-A229RC0                                 Disposable Personal Income: Per capita: Current dollars                                                                  SAAR 01-Dec-2022  Monthly
-A229RX0                                 Real Disposable Personal Income: Per Capita                                                                              SAAR 01-Dec-2022  Monthly
-A552RC1M027SBEA                         Wages and salaries: Private industries: Goods-producing industries: Manufacturing (DISCONTINUED)                         SAAR 09-Aug-2013  Monthly
-A576RC1                                 Compensation of Employees, Received: Wage and Salary Disbursements                                                       SAAR 01-Dec-2022  Monthly
-B039RC1M027SBEA                         Compensation of employees: Supplements to wages and salaries: Employer contributions for government social insurance     SAAR 01-Dec-2022  Monthly
-B040RC1M027SBEA                         Compensation of employees: Supplements to wages and salaries: Employer contributions for employee pension and insurance  SAAR 01-Dec-2022  Monthly
-B042RC1                                 Proprietors' income with inventory valuation and capital consumption adjustments: Farm                                   SAAR 01-Dec-2022  Monthly
-B069RC1                                 Personal interest payments                                                                                               SAAR 01-Dec-2022  Monthly
-B070RC1M027SBEA                         Personal current transfer payments: to the rest of the world (net)                                                       SAAR 01-Dec-2022  Monthly
-B202RC1                                 Compensation of employees, received: Wage and salary disbursements: Government                                           SAAR 01-Dec-2022  Monthly
-B222RC1                                 Old-age, survivors, disability, and health insurance benefits (DISCONTINUED)                                             SAAR 27-Jun-2011  Monthly
-B223RC1                                 Government unemployment insurance benefits (DISCONTINUED)                                                                SAAR 27-Jun-2011  Monthly
-B931RC1                                 Personal current transfer receipts: Other current transfer receipts, from business (net)                                 SAAR 01-Dec-2022  Monthly
-DDURRA3M086SBEA                         Real personal consumption expenditures: Durable goods (chain-type quantity index)                                        SA   01-Dec-2022  Monthly
-DDURRAM1M225NBEA                        Real Personal Consumption Expenditures: Goods: Durable goods                                                             SA   01-Dec-2022  Monthly
-DDURRG3M086SBEA                         Personal consumption expenditures: Durable goods (chain-type price index)                                                SA   01-Dec-2022  Monthly
-DDURRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Goods: Durable goods                                  SA   01-Dec-2022  Monthly
-DDURRL1M225NBEA                         Real personal consumption expenditures: Goods: Durable goods (DISCONTINUED)                                              SA   05-Aug-2015  Monthly
-DDURRV1M225SBEA                         Personal consumption expenditures: Goods: Durable goods (chain-type price index) (DISCONTINUED)                          SA   05-Aug-2015  Monthly
-DFXARA3M086SBEA                         Real personal consumption expenditures: Food (chain-type quantity index)                                                 SA   01-Dec-2022  Monthly
-DFXARAM1M225NBEA                        Real Personal Consumption Expenditures: Food                                                                             SA   01-Dec-2022  Monthly
-DFXARC1M027SBEA                         Personal consumption expenditures: Food                                                                                  SAAR 01-Dec-2022  Monthly
-DFXARG3M086SBEA                         Personal consumption expenditures: Food (chain-type price index)                                                         SA   01-Dec-2022  Monthly
-DFXARGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Food                                                  SA   01-Dec-2022  Monthly
-DFXARL1M225NBEA                         Real personal consumption expenditures: Food (DISCONTINUED)                                                              SA   05-Aug-2015  Monthly
-DFXARV1M225SBEA                         Personal consumption expenditures: Food (chain-type price index) (DISCONTINUED)                                          SA   05-Aug-2015  Monthly
-DFXARX1M020SBEA                         Real personal consumption expenditures: Food                                                                             SAAR 01-Dec-2022  Monthly
-DGDSRA3M086SBEA                         Real personal consumption expenditures: Goods (chain-type quantity index)                                                SA   01-Dec-2022  Monthly
-DGDSRAM1M225NBEA                        Real Personal Consumption Expenditures: Goods                                                                            SA   01-Dec-2022  Monthly
-DGDSRC1                                 Personal Consumption Expenditures: Goods                                                                                 SAAR 01-Dec-2022  Monthly
-DGDSRG3M086SBEA                         Personal consumption expenditures: Goods (chain-type price index)                                                        SA   01-Dec-2022  Monthly
-DGDSRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Goods                                                 SA   01-Dec-2022  Monthly
-DGDSRL1M225NBEA                         Real personal consumption expenditures: Goods (DISCONTINUED)                                                             SA   05-Aug-2015  Monthly
-DGDSRV1M225SBEA                         Personal consumption expenditures: Goods (chain-type price index) (DISCONTINUED)                                         SA   05-Aug-2015  Monthly
-DGDSRX1                                 Real Personal Consumption Expenditures: Goods                                                                            SAAR 01-Dec-2022  Monthly
-DNDGRA3M086SBEA                         Real personal consumption expenditures: Nondurable goods (chain-type quantity index)                                     SA   01-Dec-2022  Monthly
-DNDGRAM1M225NBEA                        Real Personal Consumption Expenditures: Goods: Nondurable goods                                                          SA   01-Dec-2022  Monthly
-DNDGRG3M086SBEA                         Personal consumption expenditures: Nondurable goods (chain-type price index)                                             SA   01-Dec-2022  Monthly
-DNDGRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Goods: Nondurable goods                               SA   01-Dec-2022  Monthly
-DNDGRL1M225NBEA                         Real personal consumption expenditures: Goods: Nondurable goods (DISCONTINUED)                                           SA   05-Aug-2015  Monthly
-DNDGRV1M225SBEA                         Personal consumption expenditures: Goods: Nondurable goods (chain-type price index) (DISCONTINUED)                       SA   05-Aug-2015  Monthly
-DNRGRA3M086SBEA                         Real personal consumption expenditures: Energy goods and services (chain-type quantity index)                            SA   01-Dec-2022  Monthly
-DNRGRAM1M225NBEA                        Real Personal Consumption Expenditures: Energy goods and services                                                        SA   01-Dec-2022  Monthly
-DNRGRC1M027SBEA                         Personal consumption expenditures: Energy goods and services                                                             SAAR 01-Dec-2022  Monthly
-DNRGRG3M086SBEA                         Personal consumption expenditures: Energy goods and services (chain-type price index)                                    SA   01-Dec-2022  Monthly
-DNRGRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Energy goods and services                             SA   01-Dec-2022  Monthly
-DNRGRL1M225NBEA                         Real personal consumption expenditures: Energy goods and services (DISCONTINUED)                                         SA   05-Aug-2015  Monthly
-DNRGRV1M225SBEA                         Personal consumption expenditures: Energy goods and services (chain-type price index) (DISCONTINUED)                     SA   05-Aug-2015  Monthly
-DNRGRX1M020SBEA                         Real personal consumption expenditures: Energy goods and services                                                        SAAR 01-Dec-2022  Monthly
-DPCCRA3M086SBEA                         Real personal consumption expenditures excluding food and energy (chain-type quantity index)                             SA   01-Dec-2022  Monthly
-DPCCRAM1M225NBEA                        Real Personal Consumption Expenditures: PCE excluding food and energy                                                    SA   01-Dec-2022  Monthly
-DPCCRC1M027SBEA                         Personal consumption expenditures excluding food and energy                                                              SAAR 01-Dec-2022  Monthly
-DPCCRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: PCE excluding food and energy                         SA   01-Dec-2022  Monthly
-DPCCRL1M225NBEA                         Real personal consumption expenditures excluding food and energy (DISCONTINUED)                                          SA   05-Aug-2015  Monthly
-DPCCRV1M225SBEA                         Personal consumption expenditures excluding food and energy (chain-type price index) (DISCONTINUED)                      SA   05-Aug-2015  Monthly
-DPCCRX1M020SBEA                         Real personal consumption expenditures excluding food and energy                                                         SAAR 01-Dec-2022  Monthly
-DPCERA3M086SBEA                         Real personal consumption expenditures (chain-type quantity index)                                                       SA   01-Dec-2022  Monthly
-DPCERAM1M225NBEA                        Real Personal Consumption Expenditures                                                                                   SA   01-Dec-2022  Monthly
-DPCERGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index                                                        SA   01-Dec-2022  Monthly
-DPCERL1M225NBEA                         Real personal consumption expenditures (DISCONTINUED)                                                                    SA   05-Aug-2015  Monthly
-DPCERV1M225SBEA                         Personal consumption expenditures (chain-type price index) (DISCONTINUED)                                                SA   05-Aug-2015  Monthly
-DPCMRA3M086SBEA                         Real personal consumption expenditures: Market-based (chain-type quantity index)                                         SA   01-Dec-2022  Monthly
-DPCMRAM1M225NBEA                        Real Personal Consumption Expenditures: Market-based PCE                                                                 SA   01-Dec-2022  Monthly
-DPCMRC1M027SBEA                         Personal consumption expenditures: Market-based                                                                          SAAR 01-Dec-2022  Monthly
-DPCMRG3M086SBEA                         Personal consumption expenditures: Market-based (chain-type price index)                                                 SA   01-Dec-2022  Monthly
-DPCMRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Market-based PCE                                      SA   01-Dec-2022  Monthly
-DPCMRL1M225NBEA                         Real market-based PCE (DISCONTINUED)                                                                                     SA   05-Aug-2015  Monthly
-DPCMRV1M225SBEA                         Personal market-based PCE (chain-type price index) (DISCONTINUED)                                                        SA   05-Aug-2015  Monthly
-DPCMRX1M020SBEA                         Real personal consumption expenditures: Market-based                                                                     SAAR 01-Dec-2022  Monthly
-DPCXRA3M086SBEA                         Real personal consumption expenditures: Market-based PCE excluding food and energy (chain-type quantity index)           SA   01-Dec-2022  Monthly
-DPCXRAM1M225NBEA                        Real Personal Consumption Expenditures: Market-based PCE excluding food and energy                                       SA   01-Dec-2022  Monthly
-DPCXRC1M027SBEA                         Personal consumption expenditures: Market-based PCE excluding food and energy                                            SAAR 01-Dec-2022  Monthly
-DPCXRG3M086SBEA                         Personal consumption expenditures: Market-based PCE excluding food and energy (chain-type price index)                   SA   01-Dec-2022  Monthly
-DPCXRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Market-based PCE excluding food and energy            SA   01-Dec-2022  Monthly
-DPCXRL1M225NBEA                         Real market-based PCE excluding food and energy (DISCONTINUED)                                                           SA   05-Aug-2015  Monthly
-DPCXRV1M225SBEA                         Personal market-based PCE excluding food and energy (chain-type price index) (DISCONTINUED)                              SA   05-Aug-2015  Monthly
-DPCXRX1M020SBEA                         Real personal consumption expenditures: Market-based PCE excluding food and energy                                       SAAR 01-Dec-2022  Monthly
-DSERRA3M086SBEA                         Real personal consumption expenditures: Services (chain-type quantity index)                                             SA   01-Dec-2022  Monthly
-DSERRAM1M225NBEA                        Real Personal Consumption Expenditures: Services                                                                         SA   01-Dec-2022  Monthly
-DSERRG3M086SBEA                         Personal consumption expenditures: Services (chain-type price index)                                                     SA   01-Dec-2022  Monthly
-DSERRGM1M225SBEA                        Prices for Personal Consumption Expenditures: Chained Price Index: Services                                              SA   01-Dec-2022  Monthly
-DSERRL1M225NBEA                         Real personal consumption expenditures: Services (DISCONTINUED)                                                          SA   05-Aug-2015  Monthly
-DSERRV1M225SBEA                         Personal consumption expenditures: Services (chain-type price index) (DISCONTINUED)                                      SA   05-Aug-2015  Monthly
-DSPI                                    Disposable Personal Income                                                                                               SAAR 01-Dec-2022  Monthly
-DSPIC96                                 Real Disposable Personal Income                                                                                          SAAR 01-Dec-2022  Monthly
-N231RC1M027SBEA                         Wages and salaries: Private industries: Goods-producing industries                                                       SAAR 01-Dec-2022  Monthly
-N233RC1M027SBEA                         Wages and salaries: Private industries: Services-producing industries                                                    SAAR 01-Dec-2022  Monthly
-N234RC1M027SBEA                         Wages and salaries: Private industries: Services-producing industries: Trade, transportation, and utilities              SAAR 01-Dec-2022  Monthly
-N235RC1M027SBEA                         Wages and salaries: Private industries: Services-producing industries: Other services-producing industries               SAAR 01-Dec-2022  Monthly
-N552RC1M027SBEA                         Wages and salaries: Private industries: Goods-producing industries: Manufacturing                                        SAAR 01-Dec-2022  Monthly
-PCE                                     Personal Consumption Expenditures                                                                                        SAAR 01-Dec-2022  Monthly
-PCEC96                                  Real Personal Consumption Expenditures                                                                                   SAAR 01-Dec-2022  Monthly
-PCEDG                                   Personal Consumption Expenditures: Durable Goods                                                                         SAAR 01-Dec-2022  Monthly
-PCEDGC96                                Real Personal Consumption Expenditures: Durable Goods                                                                    SAAR 01-Dec-2022  Monthly
-PCEND                                   Personal Consumption Expenditures: Nondurable Goods                                                                      SAAR 01-Dec-2022  Monthly
-PCENDC96                                Real Personal Consumption Expenditures: Nondurable Goods                                                                 SAAR 01-Dec-2022  Monthly
-PCEPI                                   Personal Consumption Expenditures: Chain-type Price Index                                                                SA   01-Dec-2022  Monthly
-PCEPILFE                                Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)                                     SA   01-Dec-2022  Monthly
-PCES                                    Personal Consumption Expenditures: Services                                                                              SAAR 01-Dec-2022  Monthly
-PCESC96                                 Real Personal Consumption Expenditures: Services                                                                         SAAR 01-Dec-2022  Monthly
-PCTR                                    Personal Current Transfer Receipts                                                                                       SAAR 01-Dec-2022  Monthly
-PDI                                     Personal Income Receipts on Assets: Personal Dividend Income                                                             SAAR 01-Dec-2022  Monthly
-PI                                      Personal Income                                                                                                          SAAR 01-Dec-2022  Monthly
-PII                                     Personal Income Receipts on Assets: Personal Interest Income                                                             SAAR 01-Dec-2022  Monthly
-PIROA                                   Personal Income Receipts on Assets                                                                                       SAAR 01-Dec-2022  Monthly
-PMSAVE                                  Personal Saving                                                                                                          SAAR 01-Dec-2022  Monthly
-POPTHM                                  Population                                                                                                               NSA  01-Dec-2022  Monthly
-PSAVERT                                 Personal Saving Rate                                                                                                     SAAR 01-Dec-2022  Monthly
-RPI                                     Real Personal Income                                                                                                     SAAR 01-Dec-2022  Monthly
-W055RC1                                 Personal current taxes                                                                                                   SAAR 01-Dec-2022  Monthly
-W062RC1M027SBEA                         Personal current transfer payments: to government                                                                        SAAR 01-Dec-2022  Monthly
-W209RC1                                 Compensation of employees, received                                                                                      SAAR 01-Dec-2022  Monthly
-W211RC1                                 Personal current transfer payments                                                                                       SAAR 01-Dec-2022  Monthly
-W236RC1                                 Other (DISCONTINUED)                                                                                                     SAAR 27-Jun-2011  Monthly
-W729RC1                                 Personal current transfer receipts: Government social benefits to persons: Medicaid                                      SAAR 01-Dec-2022  Monthly
-W823RC1                                 Personal current transfer receipts: Government social benefits to persons: Social security                               SAAR 01-Dec-2022  Monthly
-W824RC1                                 Personal current transfer receipts: Government social benefits to persons: Medicare                                      SAAR 01-Dec-2022  Monthly
-W825RC1                                 Personal current transfer receipts: Government social benefits to persons: Unemployment insurance                        SAAR 01-Dec-2022  Monthly
-W826RC1                                 Personal current transfer receipts: Government social benefits to persons: Veterans' benefits                            SAAR 01-Dec-2022  Monthly
-W827RC1                                 Personal current transfer receipts: Government social benefits to persons: Other                                         SAAR 01-Dec-2022  Monthly
-W875RX1                                 Real personal income excluding current transfer receipts                                                                 SAAR 01-Dec-2022  Monthly
+A038RC1                       Compensation of Employees, Received: Supplements to Wages and Salaries                                                   SAAR 01-Dec-2022  Monthly        
+A041RC1                       Proprietors' income with inventory valuation and capital consumption adjustments                                         SAAR 01-Dec-2022  Monthly        
+A045RC1                       Proprietors' income with inventory valuation and capital consumption adjustments: Nonfarm                                SAAR 01-Dec-2022  Monthly        
+A048RC1                       Rental income of persons with capital consumption adjustment                                                             SAAR 01-Dec-2022  Monthly        
+A061RC1                       Contributions for government social insurance, domestic                                                                  SAAR 01-Dec-2022  Monthly        
+A063RC1                       Personal current transfer receipts: Government social benefits to persons                                                SAAR 01-Dec-2022  Monthly        
+A068RC1                       Personal outlays                                                                                                         SAAR 01-Dec-2022  Monthly        
+A132RC1                       Compensation of Employees, Received: Wage and Salary Disbursements: Private Industries                                   SAAR 01-Dec-2022  Monthly        
+A206RC1M027SBEA               Wages and salaries: Private industries: Goods-producing industries (DISCONTINUED)                                        SAAR 09-Aug-2013  Monthly        
+A212RC1M027SBEA               Wages and salaries: Private industries: Distributive industries (DISCONTINUED)                                           SAAR 09-Aug-2013  Monthly        
+A218RC1M027SBEA               Wages and salaries: Private industries: Service industries (DISCONTINUED)                                                SAAR 30-Jul-2021  Monthly        
+A229RC0                       Disposable Personal Income: Per capita: Current dollars                                                                  SAAR 01-Dec-2022  Monthly        
+A229RX0                       Real Disposable Personal Income: Per Capita                                                                              SAAR 01-Dec-2022  Monthly        
+A552RC1M027SBEA               Wages and salaries: Private industries: Goods-producing industries: Manufacturing (DISCONTINUED)                         SAAR 09-Aug-2013  Monthly        
+A576RC1                       Compensation of Employees, Received: Wage and Salary Disbursements                                                       SAAR 01-Dec-2022  Monthly        
+B039RC1M027SBEA               Compensation of employees: Supplements to wages and salaries: Employer contributions for government social insurance     SAAR 01-Dec-2022  Monthly        
+B040RC1M027SBEA               Compensation of employees: Supplements to wages and salaries: Employer contributions for employee pension and insurance  SAAR 01-Dec-2022  Monthly        
+B042RC1                       Proprietors' income with inventory valuation and capital consumption adjustments: Farm                                   SAAR 01-Dec-2022  Monthly        
+B069RC1                       Personal interest payments                                                                                               SAAR 01-Dec-2022  Monthly        
+B070RC1M027SBEA               Personal current transfer payments: to the rest of the world (net)                                                       SAAR 01-Dec-2022  Monthly        
+B202RC1                       Compensation of employees, received: Wage and salary disbursements: Government                                           SAAR 01-Dec-2022  Monthly        
+B222RC1                       Old-age, survivors, disability, and health insurance benefits (DISCONTINUED)                                             SAAR 27-Jun-2011  Monthly        
+B223RC1                       Government unemployment insurance benefits (DISCONTINUED)                                                                SAAR 27-Jun-2011  Monthly        
+B931RC1                       Personal current transfer receipts: Other current transfer receipts, from business (net)                                 SAAR 01-Dec-2022  Monthly        
+DDURRA3M086SBEA               Real personal consumption expenditures: Durable goods (chain-type quantity index)                                        SA   01-Dec-2022  Monthly        
+DDURRAM1M225NBEA              Real Personal Consumption Expenditures: Goods: Durable goods                                                             SA   01-Dec-2022  Monthly        
+DDURRG3M086SBEA               Personal consumption expenditures: Durable goods (chain-type price index)                                                SA   01-Dec-2022  Monthly        
+DDURRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Goods: Durable goods                                  SA   01-Dec-2022  Monthly        
+DDURRL1M225NBEA               Real personal consumption expenditures: Goods: Durable goods (DISCONTINUED)                                              SA   05-Aug-2015  Monthly        
+DDURRV1M225SBEA               Personal consumption expenditures: Goods: Durable goods (chain-type price index) (DISCONTINUED)                          SA   05-Aug-2015  Monthly        
+DFXARA3M086SBEA               Real personal consumption expenditures: Food (chain-type quantity index)                                                 SA   01-Dec-2022  Monthly        
+DFXARAM1M225NBEA              Real Personal Consumption Expenditures: Food                                                                             SA   01-Dec-2022  Monthly        
+DFXARC1M027SBEA               Personal consumption expenditures: Food                                                                                  SAAR 01-Dec-2022  Monthly        
+DFXARG3M086SBEA               Personal consumption expenditures: Food (chain-type price index)                                                         SA   01-Dec-2022  Monthly        
+DFXARGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Food                                                  SA   01-Dec-2022  Monthly        
+DFXARL1M225NBEA               Real personal consumption expenditures: Food (DISCONTINUED)                                                              SA   05-Aug-2015  Monthly        
+DFXARV1M225SBEA               Personal consumption expenditures: Food (chain-type price index) (DISCONTINUED)                                          SA   05-Aug-2015  Monthly        
+DFXARX1M020SBEA               Real personal consumption expenditures: Food                                                                             SAAR 01-Dec-2022  Monthly        
+DGDSRA3M086SBEA               Real personal consumption expenditures: Goods (chain-type quantity index)                                                SA   01-Dec-2022  Monthly        
+DGDSRAM1M225NBEA              Real Personal Consumption Expenditures: Goods                                                                            SA   01-Dec-2022  Monthly        
+DGDSRC1                       Personal Consumption Expenditures: Goods                                                                                 SAAR 01-Dec-2022  Monthly        
+DGDSRG3M086SBEA               Personal consumption expenditures: Goods (chain-type price index)                                                        SA   01-Dec-2022  Monthly        
+DGDSRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Goods                                                 SA   01-Dec-2022  Monthly        
+DGDSRL1M225NBEA               Real personal consumption expenditures: Goods (DISCONTINUED)                                                             SA   05-Aug-2015  Monthly        
+DGDSRV1M225SBEA               Personal consumption expenditures: Goods (chain-type price index) (DISCONTINUED)                                         SA   05-Aug-2015  Monthly        
+DGDSRX1                       Real Personal Consumption Expenditures: Goods                                                                            SAAR 01-Dec-2022  Monthly        
+DNDGRA3M086SBEA               Real personal consumption expenditures: Nondurable goods (chain-type quantity index)                                     SA   01-Dec-2022  Monthly        
+DNDGRAM1M225NBEA              Real Personal Consumption Expenditures: Goods: Nondurable goods                                                          SA   01-Dec-2022  Monthly        
+DNDGRG3M086SBEA               Personal consumption expenditures: Nondurable goods (chain-type price index)                                             SA   01-Dec-2022  Monthly        
+DNDGRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Goods: Nondurable goods                               SA   01-Dec-2022  Monthly        
+DNDGRL1M225NBEA               Real personal consumption expenditures: Goods: Nondurable goods (DISCONTINUED)                                           SA   05-Aug-2015  Monthly        
+DNDGRV1M225SBEA               Personal consumption expenditures: Goods: Nondurable goods (chain-type price index) (DISCONTINUED)                       SA   05-Aug-2015  Monthly        
+DNRGRA3M086SBEA               Real personal consumption expenditures: Energy goods and services (chain-type quantity index)                            SA   01-Dec-2022  Monthly        
+DNRGRAM1M225NBEA              Real Personal Consumption Expenditures: Energy goods and services                                                        SA   01-Dec-2022  Monthly        
+DNRGRC1M027SBEA               Personal consumption expenditures: Energy goods and services                                                             SAAR 01-Dec-2022  Monthly        
+DNRGRG3M086SBEA               Personal consumption expenditures: Energy goods and services (chain-type price index)                                    SA   01-Dec-2022  Monthly        
+DNRGRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Energy goods and services                             SA   01-Dec-2022  Monthly        
+DNRGRL1M225NBEA               Real personal consumption expenditures: Energy goods and services (DISCONTINUED)                                         SA   05-Aug-2015  Monthly        
+DNRGRV1M225SBEA               Personal consumption expenditures: Energy goods and services (chain-type price index) (DISCONTINUED)                     SA   05-Aug-2015  Monthly        
+DNRGRX1M020SBEA               Real personal consumption expenditures: Energy goods and services                                                        SAAR 01-Dec-2022  Monthly        
+DPCCRA3M086SBEA               Real personal consumption expenditures excluding food and energy (chain-type quantity index)                             SA   01-Dec-2022  Monthly        
+DPCCRAM1M225NBEA              Real Personal Consumption Expenditures: PCE excluding food and energy                                                    SA   01-Dec-2022  Monthly        
+DPCCRC1M027SBEA               Personal consumption expenditures excluding food and energy                                                              SAAR 01-Dec-2022  Monthly        
+DPCCRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: PCE excluding food and energy                         SA   01-Dec-2022  Monthly        
+DPCCRL1M225NBEA               Real personal consumption expenditures excluding food and energy (DISCONTINUED)                                          SA   05-Aug-2015  Monthly        
+DPCCRV1M225SBEA               Personal consumption expenditures excluding food and energy (chain-type price index) (DISCONTINUED)                      SA   05-Aug-2015  Monthly        
+DPCCRX1M020SBEA               Real personal consumption expenditures excluding food and energy                                                         SAAR 01-Dec-2022  Monthly        
+DPCERA3M086SBEA               Real personal consumption expenditures (chain-type quantity index)                                                       SA   01-Dec-2022  Monthly        
+DPCERAM1M225NBEA              Real Personal Consumption Expenditures                                                                                   SA   01-Dec-2022  Monthly        
+DPCERGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index                                                        SA   01-Dec-2022  Monthly        
+DPCERL1M225NBEA               Real personal consumption expenditures (DISCONTINUED)                                                                    SA   05-Aug-2015  Monthly        
+DPCERV1M225SBEA               Personal consumption expenditures (chain-type price index) (DISCONTINUED)                                                SA   05-Aug-2015  Monthly        
+DPCMRA3M086SBEA               Real personal consumption expenditures: Market-based (chain-type quantity index)                                         SA   01-Dec-2022  Monthly        
+DPCMRAM1M225NBEA              Real Personal Consumption Expenditures: Market-based PCE                                                                 SA   01-Dec-2022  Monthly        
+DPCMRC1M027SBEA               Personal consumption expenditures: Market-based                                                                          SAAR 01-Dec-2022  Monthly        
+DPCMRG3M086SBEA               Personal consumption expenditures: Market-based (chain-type price index)                                                 SA   01-Dec-2022  Monthly        
+DPCMRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Market-based PCE                                      SA   01-Dec-2022  Monthly        
+DPCMRL1M225NBEA               Real market-based PCE (DISCONTINUED)                                                                                     SA   05-Aug-2015  Monthly        
+DPCMRV1M225SBEA               Personal market-based PCE (chain-type price index) (DISCONTINUED)                                                        SA   05-Aug-2015  Monthly        
+DPCMRX1M020SBEA               Real personal consumption expenditures: Market-based                                                                     SAAR 01-Dec-2022  Monthly        
+DPCXRA3M086SBEA               Real personal consumption expenditures: Market-based PCE excluding food and energy (chain-type quantity index)           SA   01-Dec-2022  Monthly        
+DPCXRAM1M225NBEA              Real Personal Consumption Expenditures: Market-based PCE excluding food and energy                                       SA   01-Dec-2022  Monthly        
+DPCXRC1M027SBEA               Personal consumption expenditures: Market-based PCE excluding food and energy                                            SAAR 01-Dec-2022  Monthly        
+DPCXRG3M086SBEA               Personal consumption expenditures: Market-based PCE excluding food and energy (chain-type price index)                   SA   01-Dec-2022  Monthly        
+DPCXRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Market-based PCE excluding food and energy            SA   01-Dec-2022  Monthly        
+DPCXRL1M225NBEA               Real market-based PCE excluding food and energy (DISCONTINUED)                                                           SA   05-Aug-2015  Monthly        
+DPCXRV1M225SBEA               Personal market-based PCE excluding food and energy (chain-type price index) (DISCONTINUED)                              SA   05-Aug-2015  Monthly        
+DPCXRX1M020SBEA               Real personal consumption expenditures: Market-based PCE excluding food and energy                                       SAAR 01-Dec-2022  Monthly        
+DSERRA3M086SBEA               Real personal consumption expenditures: Services (chain-type quantity index)                                             SA   01-Dec-2022  Monthly        
+DSERRAM1M225NBEA              Real Personal Consumption Expenditures: Services                                                                         SA   01-Dec-2022  Monthly        
+DSERRG3M086SBEA               Personal consumption expenditures: Services (chain-type price index)                                                     SA   01-Dec-2022  Monthly        
+DSERRGM1M225SBEA              Prices for Personal Consumption Expenditures: Chained Price Index: Services                                              SA   01-Dec-2022  Monthly        
+DSERRL1M225NBEA               Real personal consumption expenditures: Services (DISCONTINUED)                                                          SA   05-Aug-2015  Monthly        
+DSERRV1M225SBEA               Personal consumption expenditures: Services (chain-type price index) (DISCONTINUED)                                      SA   05-Aug-2015  Monthly        
+DSPI                          Disposable Personal Income                                                                                               SAAR 01-Dec-2022  Monthly        
+DSPIC96                       Real Disposable Personal Income                                                                                          SAAR 01-Dec-2022  Monthly        
+N231RC1M027SBEA               Wages and salaries: Private industries: Goods-producing industries                                                       SAAR 01-Dec-2022  Monthly        
+N233RC1M027SBEA               Wages and salaries: Private industries: Services-producing industries                                                    SAAR 01-Dec-2022  Monthly        
+N234RC1M027SBEA               Wages and salaries: Private industries: Services-producing industries: Trade, transportation, and utilities              SAAR 01-Dec-2022  Monthly        
+N235RC1M027SBEA               Wages and salaries: Private industries: Services-producing industries: Other services-producing industries               SAAR 01-Dec-2022  Monthly        
+N552RC1M027SBEA               Wages and salaries: Private industries: Goods-producing industries: Manufacturing                                        SAAR 01-Dec-2022  Monthly        
+PCE                           Personal Consumption Expenditures                                                                                        SAAR 01-Dec-2022  Monthly        
+PCEC96                        Real Personal Consumption Expenditures                                                                                   SAAR 01-Dec-2022  Monthly        
+PCEDG                         Personal Consumption Expenditures: Durable Goods                                                                         SAAR 01-Dec-2022  Monthly        
+PCEDGC96                      Real Personal Consumption Expenditures: Durable Goods                                                                    SAAR 01-Dec-2022  Monthly        
+PCEND                         Personal Consumption Expenditures: Nondurable Goods                                                                      SAAR 01-Dec-2022  Monthly        
+PCENDC96                      Real Personal Consumption Expenditures: Nondurable Goods                                                                 SAAR 01-Dec-2022  Monthly        
+PCEPI                         Personal Consumption Expenditures: Chain-type Price Index                                                                SA   01-Dec-2022  Monthly        
+PCEPILFE                      Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)                                     SA   01-Dec-2022  Monthly        
+PCES                          Personal Consumption Expenditures: Services                                                                              SAAR 01-Dec-2022  Monthly        
+PCESC96                       Real Personal Consumption Expenditures: Services                                                                         SAAR 01-Dec-2022  Monthly        
+PCTR                          Personal Current Transfer Receipts                                                                                       SAAR 01-Dec-2022  Monthly        
+PDI                           Personal Income Receipts on Assets: Personal Dividend Income                                                             SAAR 01-Dec-2022  Monthly        
+PI                            Personal Income                                                                                                          SAAR 01-Dec-2022  Monthly        
+PII                           Personal Income Receipts on Assets: Personal Interest Income                                                             SAAR 01-Dec-2022  Monthly        
+PIROA                         Personal Income Receipts on Assets                                                                                       SAAR 01-Dec-2022  Monthly        
+PMSAVE                        Personal Saving                                                                                                          SAAR 01-Dec-2022  Monthly        
+POPTHM                        Population                                                                                                               NSA  01-Dec-2022  Monthly        
+PSAVERT                       Personal Saving Rate                                                                                                     SAAR 01-Dec-2022  Monthly        
+RPI                           Real Personal Income                                                                                                     SAAR 01-Dec-2022  Monthly        
+W055RC1                       Personal current taxes                                                                                                   SAAR 01-Dec-2022  Monthly        
+W062RC1M027SBEA               Personal current transfer payments: to government                                                                        SAAR 01-Dec-2022  Monthly        
+W209RC1                       Compensation of employees, received                                                                                      SAAR 01-Dec-2022  Monthly        
+W211RC1                       Personal current transfer payments                                                                                       SAAR 01-Dec-2022  Monthly        
+W236RC1                       Other (DISCONTINUED)                                                                                                     SAAR 27-Jun-2011  Monthly        
+W729RC1                       Personal current transfer receipts: Government social benefits to persons: Medicaid                                      SAAR 01-Dec-2022  Monthly        
+W823RC1                       Personal current transfer receipts: Government social benefits to persons: Social security                               SAAR 01-Dec-2022  Monthly        
+W824RC1                       Personal current transfer receipts: Government social benefits to persons: Medicare                                      SAAR 01-Dec-2022  Monthly        
+W825RC1                       Personal current transfer receipts: Government social benefits to persons: Unemployment insurance                        SAAR 01-Dec-2022  Monthly        
+W826RC1                       Personal current transfer receipts: Government social benefits to persons: Veterans' benefits                            SAAR 01-Dec-2022  Monthly        
+W827RC1                       Personal current transfer receipts: Government social benefits to persons: Other                                         SAAR 01-Dec-2022  Monthly        
+W875RX1                       Real personal income excluding current transfer receipts                                                                 SAAR 01-Dec-2022  Monthly        

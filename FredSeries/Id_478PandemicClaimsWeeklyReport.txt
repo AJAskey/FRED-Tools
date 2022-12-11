@@ -1,160 +1,160 @@
 Id : 478  Pandemic Claims Weekly Report
-PEUCCCAK                                Pandemic Emergency Unemployment Compensation Continued Claims in Alaska                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCAL                                Pandemic Emergency Unemployment Compensation Continued Claims in Alabama                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCAR                                Pandemic Emergency Unemployment Compensation Continued Claims in Arkansas                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCAZ                                Pandemic Emergency Unemployment Compensation Continued Claims in Arizona                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCCA                                Pandemic Emergency Unemployment Compensation Continued Claims in California                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCCO                                Pandemic Emergency Unemployment Compensation Continued Claims in Colorado                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCCT                                Pandemic Emergency Unemployment Compensation Continued Claims in Connecticut                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCDC                                Pandemic Emergency Unemployment Compensation Continued Claims in District of Columbia                                    NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCDE                                Pandemic Emergency Unemployment Compensation Continued Claims in Delaware                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCFL                                Pandemic Emergency Unemployment Compensation Continued Claims in Florida                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCGA                                Pandemic Emergency Unemployment Compensation Continued Claims in Georgia                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCHI                                Pandemic Emergency Unemployment Compensation Continued Claims in Hawaii                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCIA                                Pandemic Emergency Unemployment Compensation Continued Claims in Iowa                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCID                                Pandemic Emergency Unemployment Compensation Continued Claims in Idaho                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCIL                                Pandemic Emergency Unemployment Compensation Continued Claims in Illinois                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCIN                                Pandemic Emergency Unemployment Compensation Continued Claims in Indiana                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCKS                                Pandemic Emergency Unemployment Compensation Continued Claims in Kansas                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCKY                                Pandemic Emergency Unemployment Compensation Continued Claims in Kentucky                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCLA                                Pandemic Emergency Unemployment Compensation Continued Claims in Louisiana                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMA                                Pandemic Emergency Unemployment Compensation Continued Claims in Massachusetts                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMD                                Pandemic Emergency Unemployment Compensation Continued Claims in Maryland                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCME                                Pandemic Emergency Unemployment Compensation Continued Claims in Maine                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMI                                Pandemic Emergency Unemployment Compensation Continued Claims in Michigan                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMN                                Pandemic Emergency Unemployment Compensation Continued Claims in Minnesota                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMO                                Pandemic Emergency Unemployment Compensation Continued Claims in Missouri                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMS                                Pandemic Emergency Unemployment Compensation Continued Claims in Mississippi                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCMT                                Pandemic Emergency Unemployment Compensation Continued Claims in Montana                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNC                                Pandemic Emergency Unemployment Compensation Continued Claims in North Carolina                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCND                                Pandemic Emergency Unemployment Compensation Continued Claims in North Dakota                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNE                                Pandemic Emergency Unemployment Compensation Continued Claims in Nebraska                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNH                                Pandemic Emergency Unemployment Compensation Continued Claims in New Hampshire                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNJ                                Pandemic Emergency Unemployment Compensation Continued Claims in New Jersey                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNM                                Pandemic Emergency Unemployment Compensation Continued Claims in New Mexico                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNV                                Pandemic Emergency Unemployment Compensation Continued Claims in Nevada                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCNY                                Pandemic Emergency Unemployment Compensation Continued Claims in New York                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCOH                                Pandemic Emergency Unemployment Compensation Continued Claims in Ohio                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCOK                                Pandemic Emergency Unemployment Compensation Continued Claims in Oklahoma                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCOR                                Pandemic Emergency Unemployment Compensation Continued Claims in Oregon                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCPA                                Pandemic Emergency Unemployment Compensation Continued Claims in Pennsylvania                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCPR                                Pandemic Emergency Unemployment Compensation Continued Claims in Puerto Rico                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCRI                                Pandemic Emergency Unemployment Compensation Continued Claims in Rhode Island                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCSC                                Pandemic Emergency Unemployment Compensation Continued Claims in South Carolina                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCSD                                Pandemic Emergency Unemployment Compensation Continued Claims in South Dakota                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCTN                                Pandemic Emergency Unemployment Compensation Continued Claims in Tennessee                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCTX                                Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCUT                                Pandemic Emergency Unemployment Compensation Continued Claims in Utah                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCVA                                Pandemic Emergency Unemployment Compensation Continued Claims in Virginia                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCVI                                Pandemic Emergency Unemployment Compensation Continued Claims in the U.S. Virgin Islands                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCVT                                Pandemic Emergency Unemployment Compensation Continued Claims in Vermont                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCWA                                Pandemic Emergency Unemployment Compensation Continued Claims in Washington                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCWI                                Pandemic Emergency Unemployment Compensation Continued Claims in Wisconsin                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCWV                                Pandemic Emergency Unemployment Compensation Continued Claims in West Virginia                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PEUCCCWY                                Pandemic Emergency Unemployment Compensation Continued Claims in Wyoming                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCAK                                 Pandemic Unemployment Assistance Continued Claims in Alaska                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCAL                                 Pandemic Unemployment Assistance Continued Claims in Alabama                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCAR                                 Pandemic Unemployment Assistance Continued Claims in Arkansas                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCAZ                                 Pandemic Unemployment Assistance Continued Claims in Arizona                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCCA                                 Pandemic Unemployment Assistance Continued Claims in California                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCCO                                 Pandemic Unemployment Assistance Continued Claims in Colorado                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCCT                                 Pandemic Unemployment Assistance Continued Claims in Connecticut                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCDC                                 Pandemic Unemployment Assistance Continued Claims in District of Columbia                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCDE                                 Pandemic Unemployment Assistance Continued Claims in Delaware                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCFL                                 Pandemic Unemployment Assistance Continued Claims in Florida                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCGA                                 Pandemic Unemployment Assistance Continued Claims in Georgia                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCHI                                 Pandemic Unemployment Assistance Continued Claims in Hawaii                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCIA                                 Pandemic Unemployment Assistance Continued Claims in Iowa                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCID                                 Pandemic Unemployment Assistance Continued Claims in Idaho                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCIL                                 Pandemic Unemployment Assistance Continued Claims in Illinois                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCIN                                 Pandemic Unemployment Assistance Continued Claims in Indiana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCKS                                 Pandemic Unemployment Assistance Continued Claims in Kansas                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCKY                                 Pandemic Unemployment Assistance Continued Claims in Kentucky                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCLA                                 Pandemic Unemployment Assistance Continued Claims in Louisiana                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMA                                 Pandemic Unemployment Assistance Continued Claims in Massachusetts                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMD                                 Pandemic Unemployment Assistance Continued Claims in Maryland                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCME                                 Pandemic Unemployment Assistance Continued Claims in Maine                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMI                                 Pandemic Unemployment Assistance Continued Claims in Michigan                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMN                                 Pandemic Unemployment Assistance Continued Claims in Minnesota                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMO                                 Pandemic Unemployment Assistance Continued Claims in Missouri                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMS                                 Pandemic Unemployment Assistance Continued Claims in Mississippi                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCMT                                 Pandemic Unemployment Assistance Continued Claims in Montana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNC                                 Pandemic Unemployment Assistance Continued Claims in North Carolina                                                      NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCND                                 Pandemic Unemployment Assistance Continued Claims in North Dakota                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNE                                 Pandemic Unemployment Assistance Continued Claims in Nebraska                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNH                                 Pandemic Unemployment Assistance Continued Claims in New Hampshire                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNJ                                 Pandemic Unemployment Assistance Continued Claims in New Jersey                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNM                                 Pandemic Unemployment Assistance Continued Claims in New Mexico                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNV                                 Pandemic Unemployment Assistance Continued Claims in Nevada                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCNY                                 Pandemic Unemployment Assistance Continued Claims in New York                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCOH                                 Pandemic Unemployment Assistance Continued Claims in Ohio                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCOK                                 Pandemic Unemployment Assistance Continued Claims in Oklahoma                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCOR                                 Pandemic Unemployment Assistance Continued Claims in Oregon                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCPA                                 Pandemic Unemployment Assistance Continued Claims in Pennsylvania                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCPR                                 Pandemic Unemployment Assistance Continued Claims in Puerto Rico                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCRI                                 Pandemic Unemployment Assistance Continued Claims in Rhode Island                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCSC                                 Pandemic Unemployment Assistance Continued Claims in South Carolina                                                      NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCSD                                 Pandemic Unemployment Assistance Continued Claims in South Dakota                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCTN                                 Pandemic Unemployment Assistance Continued Claims in Tennessee                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCTX                                 Pandemic Unemployment Assistance Continued Claims in Texas                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCUT                                 Pandemic Unemployment Assistance Continued Claims in Utah                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCVA                                 Pandemic Unemployment Assistance Continued Claims in Virginia                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCVI                                 Pandemic Unemployment Assistance Continued Claims in the U.S. Virgin Islands                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCVT                                 Pandemic Unemployment Assistance Continued Claims in Vermont                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCWA                                 Pandemic Unemployment Assistance Continued Claims in Washington                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCWI                                 Pandemic Unemployment Assistance Continued Claims in Wisconsin                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCWV                                 Pandemic Unemployment Assistance Continued Claims in West Virginia                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
-PUACCWY                                 Pandemic Unemployment Assistance Continued Claims in Wyoming                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICAK                                 Pandemic Unemployment Assistance Initial Claims in Alaska                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICAL                                 Pandemic Unemployment Assistance Initial Claims in Alabama                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICAR                                 Pandemic Unemployment Assistance Initial Claims in Arkansas                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICAZ                                 Pandemic Unemployment Assistance Initial Claims in Arizona                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICCA                                 Pandemic Unemployment Assistance Initial Claims in California                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICCO                                 Pandemic Unemployment Assistance Initial Claims in Colorado                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICCT                                 Pandemic Unemployment Assistance Initial Claims in Connecticut                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICDC                                 Pandemic Unemployment Assistance Initial Claims in District of Columbia                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICDE                                 Pandemic Unemployment Assistance Initial Claims in Delaware                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICFL                                 Pandemic Unemployment Assistance Initial Claims in Florida                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICGA                                 Pandemic Unemployment Assistance Initial Claims in Georgia                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICHI                                 Pandemic Unemployment Assistance Initial Claims in Hawaii                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICIA                                 Pandemic Unemployment Assistance Initial Claims in Iowa                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICID                                 Pandemic Unemployment Assistance Initial Claims in Idaho                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICIL                                 Pandemic Unemployment Assistance Initial Claims in Illinois                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICIN                                 Pandemic Unemployment Assistance Initial Claims in Indiana                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICKS                                 Pandemic Unemployment Assistance Initial Claims in Kansas                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICKY                                 Pandemic Unemployment Assistance Initial Claims in Kentucky                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICLA                                 Pandemic Unemployment Assistance Initial Claims in Louisiana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMA                                 Pandemic Unemployment Assistance Initial Claims in Massachusetts                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMD                                 Pandemic Unemployment Assistance Initial Claims in Maryland                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICME                                 Pandemic Unemployment Assistance Initial Claims in Maine                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMI                                 Pandemic Unemployment Assistance Initial Claims in Michigan                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMN                                 Pandemic Unemployment Assistance Initial Claims in Minnesota                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMO                                 Pandemic Unemployment Assistance Initial Claims in Missouri                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMS                                 Pandemic Unemployment Assistance Initial Claims in Mississippi                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICMT                                 Pandemic Unemployment Assistance Initial Claims in Montana                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNC                                 Pandemic Unemployment Assistance Initial Claims in North Carolina                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICND                                 Pandemic Unemployment Assistance Initial Claims in North Dakota                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNE                                 Pandemic Unemployment Assistance Initial Claims in Nebraska                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNH                                 Pandemic Unemployment Assistance Initial Claims in New Hampshire                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNJ                                 Pandemic Unemployment Assistance Initial Claims in New Jersey                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNM                                 Pandemic Unemployment Assistance Initial Claims in New Mexico                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNV                                 Pandemic Unemployment Assistance Initial Claims in Nevada                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICNY                                 Pandemic Unemployment Assistance Initial Claims in New York                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICOH                                 Pandemic Unemployment Assistance Initial Claims in Ohio                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICOK                                 Pandemic Unemployment Assistance Initial Claims in Oklahoma                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICOR                                 Pandemic Unemployment Assistance Initial Claims in Oregon                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICPA                                 Pandemic Unemployment Assistance Initial Claims in Pennsylvania                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICPR                                 Pandemic Unemployment Assistance Initial Claims in Puerto Rico                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICRI                                 Pandemic Unemployment Assistance Initial Claims in Rhode Island                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICSC                                 Pandemic Unemployment Assistance Initial Claims in South Carolina                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICSD                                 Pandemic Unemployment Assistance Initial Claims in South Dakota                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICTN                                 Pandemic Unemployment Assistance Initial Claims in Tennessee                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICTX                                 Pandemic Unemployment Assistance Initial Claims in Texas                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICUT                                 Pandemic Unemployment Assistance Initial Claims in Utah                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICVA                                 Pandemic Unemployment Assistance Initial Claims in Virginia                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICVI                                 Pandemic Unemployment Assistance Initial Claims in the U.S. Virgin Islands                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICVT                                 Pandemic Unemployment Assistance Initial Claims in Vermont                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICWA                                 Pandemic Unemployment Assistance Initial Claims in Washington                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICWI                                 Pandemic Unemployment Assistance Initial Claims in Wisconsin                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICWV                                 Pandemic Unemployment Assistance Initial Claims in West Virginia                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
-PUAICWY                                 Pandemic Unemployment Assistance Initial Claims in Wyoming                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCAK                      Pandemic Emergency Unemployment Compensation Continued Claims in Alaska                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCAL                      Pandemic Emergency Unemployment Compensation Continued Claims in Alabama                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCAR                      Pandemic Emergency Unemployment Compensation Continued Claims in Arkansas                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCAZ                      Pandemic Emergency Unemployment Compensation Continued Claims in Arizona                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCCA                      Pandemic Emergency Unemployment Compensation Continued Claims in California                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCCO                      Pandemic Emergency Unemployment Compensation Continued Claims in Colorado                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCCT                      Pandemic Emergency Unemployment Compensation Continued Claims in Connecticut                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCDC                      Pandemic Emergency Unemployment Compensation Continued Claims in District of Columbia                                    NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCDE                      Pandemic Emergency Unemployment Compensation Continued Claims in Delaware                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCFL                      Pandemic Emergency Unemployment Compensation Continued Claims in Florida                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCGA                      Pandemic Emergency Unemployment Compensation Continued Claims in Georgia                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCHI                      Pandemic Emergency Unemployment Compensation Continued Claims in Hawaii                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCIA                      Pandemic Emergency Unemployment Compensation Continued Claims in Iowa                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCID                      Pandemic Emergency Unemployment Compensation Continued Claims in Idaho                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCIL                      Pandemic Emergency Unemployment Compensation Continued Claims in Illinois                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCIN                      Pandemic Emergency Unemployment Compensation Continued Claims in Indiana                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCKS                      Pandemic Emergency Unemployment Compensation Continued Claims in Kansas                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCKY                      Pandemic Emergency Unemployment Compensation Continued Claims in Kentucky                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCLA                      Pandemic Emergency Unemployment Compensation Continued Claims in Louisiana                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMA                      Pandemic Emergency Unemployment Compensation Continued Claims in Massachusetts                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMD                      Pandemic Emergency Unemployment Compensation Continued Claims in Maryland                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCME                      Pandemic Emergency Unemployment Compensation Continued Claims in Maine                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMI                      Pandemic Emergency Unemployment Compensation Continued Claims in Michigan                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMN                      Pandemic Emergency Unemployment Compensation Continued Claims in Minnesota                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMO                      Pandemic Emergency Unemployment Compensation Continued Claims in Missouri                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMS                      Pandemic Emergency Unemployment Compensation Continued Claims in Mississippi                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCMT                      Pandemic Emergency Unemployment Compensation Continued Claims in Montana                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNC                      Pandemic Emergency Unemployment Compensation Continued Claims in North Carolina                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCND                      Pandemic Emergency Unemployment Compensation Continued Claims in North Dakota                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNE                      Pandemic Emergency Unemployment Compensation Continued Claims in Nebraska                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNH                      Pandemic Emergency Unemployment Compensation Continued Claims in New Hampshire                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNJ                      Pandemic Emergency Unemployment Compensation Continued Claims in New Jersey                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNM                      Pandemic Emergency Unemployment Compensation Continued Claims in New Mexico                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNV                      Pandemic Emergency Unemployment Compensation Continued Claims in Nevada                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCNY                      Pandemic Emergency Unemployment Compensation Continued Claims in New York                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCOH                      Pandemic Emergency Unemployment Compensation Continued Claims in Ohio                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCOK                      Pandemic Emergency Unemployment Compensation Continued Claims in Oklahoma                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCOR                      Pandemic Emergency Unemployment Compensation Continued Claims in Oregon                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCPA                      Pandemic Emergency Unemployment Compensation Continued Claims in Pennsylvania                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCPR                      Pandemic Emergency Unemployment Compensation Continued Claims in Puerto Rico                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCRI                      Pandemic Emergency Unemployment Compensation Continued Claims in Rhode Island                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCSC                      Pandemic Emergency Unemployment Compensation Continued Claims in South Carolina                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCSD                      Pandemic Emergency Unemployment Compensation Continued Claims in South Dakota                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCTN                      Pandemic Emergency Unemployment Compensation Continued Claims in Tennessee                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCTX                      Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                   NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCUT                      Pandemic Emergency Unemployment Compensation Continued Claims in Utah                                                    NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCVA                      Pandemic Emergency Unemployment Compensation Continued Claims in Virginia                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCVI                      Pandemic Emergency Unemployment Compensation Continued Claims in the U.S. Virgin Islands                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCVT                      Pandemic Emergency Unemployment Compensation Continued Claims in Vermont                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCWA                      Pandemic Emergency Unemployment Compensation Continued Claims in Washington                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCWI                      Pandemic Emergency Unemployment Compensation Continued Claims in Wisconsin                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCWV                      Pandemic Emergency Unemployment Compensation Continued Claims in West Virginia                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PEUCCCWY                      Pandemic Emergency Unemployment Compensation Continued Claims in Wyoming                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCAK                       Pandemic Unemployment Assistance Continued Claims in Alaska                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCAL                       Pandemic Unemployment Assistance Continued Claims in Alabama                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCAR                       Pandemic Unemployment Assistance Continued Claims in Arkansas                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCAZ                       Pandemic Unemployment Assistance Continued Claims in Arizona                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCCA                       Pandemic Unemployment Assistance Continued Claims in California                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCCO                       Pandemic Unemployment Assistance Continued Claims in Colorado                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCCT                       Pandemic Unemployment Assistance Continued Claims in Connecticut                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCDC                       Pandemic Unemployment Assistance Continued Claims in District of Columbia                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCDE                       Pandemic Unemployment Assistance Continued Claims in Delaware                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCFL                       Pandemic Unemployment Assistance Continued Claims in Florida                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCGA                       Pandemic Unemployment Assistance Continued Claims in Georgia                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCHI                       Pandemic Unemployment Assistance Continued Claims in Hawaii                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCIA                       Pandemic Unemployment Assistance Continued Claims in Iowa                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCID                       Pandemic Unemployment Assistance Continued Claims in Idaho                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCIL                       Pandemic Unemployment Assistance Continued Claims in Illinois                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCIN                       Pandemic Unemployment Assistance Continued Claims in Indiana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCKS                       Pandemic Unemployment Assistance Continued Claims in Kansas                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCKY                       Pandemic Unemployment Assistance Continued Claims in Kentucky                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCLA                       Pandemic Unemployment Assistance Continued Claims in Louisiana                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMA                       Pandemic Unemployment Assistance Continued Claims in Massachusetts                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMD                       Pandemic Unemployment Assistance Continued Claims in Maryland                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCME                       Pandemic Unemployment Assistance Continued Claims in Maine                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMI                       Pandemic Unemployment Assistance Continued Claims in Michigan                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMN                       Pandemic Unemployment Assistance Continued Claims in Minnesota                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMO                       Pandemic Unemployment Assistance Continued Claims in Missouri                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMS                       Pandemic Unemployment Assistance Continued Claims in Mississippi                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCMT                       Pandemic Unemployment Assistance Continued Claims in Montana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNC                       Pandemic Unemployment Assistance Continued Claims in North Carolina                                                      NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCND                       Pandemic Unemployment Assistance Continued Claims in North Dakota                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNE                       Pandemic Unemployment Assistance Continued Claims in Nebraska                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNH                       Pandemic Unemployment Assistance Continued Claims in New Hampshire                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNJ                       Pandemic Unemployment Assistance Continued Claims in New Jersey                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNM                       Pandemic Unemployment Assistance Continued Claims in New Mexico                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNV                       Pandemic Unemployment Assistance Continued Claims in Nevada                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCNY                       Pandemic Unemployment Assistance Continued Claims in New York                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCOH                       Pandemic Unemployment Assistance Continued Claims in Ohio                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCOK                       Pandemic Unemployment Assistance Continued Claims in Oklahoma                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCOR                       Pandemic Unemployment Assistance Continued Claims in Oregon                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCPA                       Pandemic Unemployment Assistance Continued Claims in Pennsylvania                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCPR                       Pandemic Unemployment Assistance Continued Claims in Puerto Rico                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCRI                       Pandemic Unemployment Assistance Continued Claims in Rhode Island                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCSC                       Pandemic Unemployment Assistance Continued Claims in South Carolina                                                      NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCSD                       Pandemic Unemployment Assistance Continued Claims in South Dakota                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCTN                       Pandemic Unemployment Assistance Continued Claims in Tennessee                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCTX                       Pandemic Unemployment Assistance Continued Claims in Texas                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCUT                       Pandemic Unemployment Assistance Continued Claims in Utah                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCVA                       Pandemic Unemployment Assistance Continued Claims in Virginia                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCVI                       Pandemic Unemployment Assistance Continued Claims in the U.S. Virgin Islands                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCVT                       Pandemic Unemployment Assistance Continued Claims in Vermont                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCWA                       Pandemic Unemployment Assistance Continued Claims in Washington                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCWI                       Pandemic Unemployment Assistance Continued Claims in Wisconsin                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCWV                       Pandemic Unemployment Assistance Continued Claims in West Virginia                                                       NSA  14-Nov-2022  Weekly, Ending Saturday
+PUACCWY                       Pandemic Unemployment Assistance Continued Claims in Wyoming                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICAK                       Pandemic Unemployment Assistance Initial Claims in Alaska                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICAL                       Pandemic Unemployment Assistance Initial Claims in Alabama                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICAR                       Pandemic Unemployment Assistance Initial Claims in Arkansas                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICAZ                       Pandemic Unemployment Assistance Initial Claims in Arizona                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICCA                       Pandemic Unemployment Assistance Initial Claims in California                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICCO                       Pandemic Unemployment Assistance Initial Claims in Colorado                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICCT                       Pandemic Unemployment Assistance Initial Claims in Connecticut                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICDC                       Pandemic Unemployment Assistance Initial Claims in District of Columbia                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICDE                       Pandemic Unemployment Assistance Initial Claims in Delaware                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICFL                       Pandemic Unemployment Assistance Initial Claims in Florida                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICGA                       Pandemic Unemployment Assistance Initial Claims in Georgia                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICHI                       Pandemic Unemployment Assistance Initial Claims in Hawaii                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICIA                       Pandemic Unemployment Assistance Initial Claims in Iowa                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICID                       Pandemic Unemployment Assistance Initial Claims in Idaho                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICIL                       Pandemic Unemployment Assistance Initial Claims in Illinois                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICIN                       Pandemic Unemployment Assistance Initial Claims in Indiana                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICKS                       Pandemic Unemployment Assistance Initial Claims in Kansas                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICKY                       Pandemic Unemployment Assistance Initial Claims in Kentucky                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICLA                       Pandemic Unemployment Assistance Initial Claims in Louisiana                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMA                       Pandemic Unemployment Assistance Initial Claims in Massachusetts                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMD                       Pandemic Unemployment Assistance Initial Claims in Maryland                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICME                       Pandemic Unemployment Assistance Initial Claims in Maine                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMI                       Pandemic Unemployment Assistance Initial Claims in Michigan                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMN                       Pandemic Unemployment Assistance Initial Claims in Minnesota                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMO                       Pandemic Unemployment Assistance Initial Claims in Missouri                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMS                       Pandemic Unemployment Assistance Initial Claims in Mississippi                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICMT                       Pandemic Unemployment Assistance Initial Claims in Montana                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNC                       Pandemic Unemployment Assistance Initial Claims in North Carolina                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICND                       Pandemic Unemployment Assistance Initial Claims in North Dakota                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNE                       Pandemic Unemployment Assistance Initial Claims in Nebraska                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNH                       Pandemic Unemployment Assistance Initial Claims in New Hampshire                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNJ                       Pandemic Unemployment Assistance Initial Claims in New Jersey                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNM                       Pandemic Unemployment Assistance Initial Claims in New Mexico                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNV                       Pandemic Unemployment Assistance Initial Claims in Nevada                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICNY                       Pandemic Unemployment Assistance Initial Claims in New York                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICOH                       Pandemic Unemployment Assistance Initial Claims in Ohio                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICOK                       Pandemic Unemployment Assistance Initial Claims in Oklahoma                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICOR                       Pandemic Unemployment Assistance Initial Claims in Oregon                                                                NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICPA                       Pandemic Unemployment Assistance Initial Claims in Pennsylvania                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICPR                       Pandemic Unemployment Assistance Initial Claims in Puerto Rico                                                           NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICRI                       Pandemic Unemployment Assistance Initial Claims in Rhode Island                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICSC                       Pandemic Unemployment Assistance Initial Claims in South Carolina                                                        NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICSD                       Pandemic Unemployment Assistance Initial Claims in South Dakota                                                          NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICTN                       Pandemic Unemployment Assistance Initial Claims in Tennessee                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICTX                       Pandemic Unemployment Assistance Initial Claims in Texas                                                                 NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICUT                       Pandemic Unemployment Assistance Initial Claims in Utah                                                                  NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICVA                       Pandemic Unemployment Assistance Initial Claims in Virginia                                                              NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICVI                       Pandemic Unemployment Assistance Initial Claims in the U.S. Virgin Islands                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICVT                       Pandemic Unemployment Assistance Initial Claims in Vermont                                                               NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICWA                       Pandemic Unemployment Assistance Initial Claims in Washington                                                            NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICWI                       Pandemic Unemployment Assistance Initial Claims in Wisconsin                                                             NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICWV                       Pandemic Unemployment Assistance Initial Claims in West Virginia                                                         NSA  14-Nov-2022  Weekly, Ending Saturday
+PUAICWY                       Pandemic Unemployment Assistance Initial Claims in Wyoming                                                               NSA  14-Nov-2022  Weekly, Ending Saturday

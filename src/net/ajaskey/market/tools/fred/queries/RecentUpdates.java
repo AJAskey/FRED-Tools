@@ -96,7 +96,7 @@ public class RecentUpdates {
 
       final String url = String.format("https://api.stlouisfed.org/fred/series/updates?api_key=%s&offset=%d", ApiKey.get(), offset);
 
-      final String resp = Utils.getFromUrl(url);
+      final String resp = Utils.getFromUrl(url, 6, 7);
 
       if (resp.length() > 0) {
 

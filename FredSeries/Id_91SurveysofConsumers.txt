@@ -1,4 +1,4 @@
 Id : 91  Surveys of Consumers
-MICH                                    University of Michigan: Inflation Expectation                                                                            NSA  23-Nov-2022  Monthly
-UMCSENT                                 University of Michigan: Consumer Sentiment                                                                               NSA  23-Nov-2022  Monthly
-UMCSENT1                                University of Michigan: Consumer Sentiment (DISCONTINUED)                                                                NSA  12-Jan-2004  Not Applicable
+MICH                          University of Michigan: Inflation Expectation                                                                            NSA  23-Nov-2022  Monthly        
+UMCSENT                       University of Michigan: Consumer Sentiment                                                                               NSA  23-Nov-2022  Monthly        
+UMCSENT1                      University of Michigan: Consumer Sentiment (DISCONTINUED)                                                                NSA  12-Jan-2004  Not Applicable 

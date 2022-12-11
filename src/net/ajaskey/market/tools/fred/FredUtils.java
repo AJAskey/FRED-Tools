@@ -255,6 +255,15 @@ public class FredUtils {
 
     Debug.LOGGER.info(String.format("Long File=%s    ShortFile=%s", file.getAbsoluteFile(), fileshort.getAbsoluteFile()));
 
+    // Remove existing file so new file will show date of creation. Must be a
+    // Windows feature to keep original file date when it is overwritten with new.
+    if (file.exists()) {
+      file.delete();
+    }
+    if (fileshort.exists()) {
+      fileshort.delete();
+    }
+
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + dsi.getFileDt());
       pwShort.println("Date," + dsi.getName());

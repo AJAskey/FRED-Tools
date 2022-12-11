@@ -1,94 +1,94 @@
 Id : 317  National Rates and Rate Caps - Monthly Update
-CD12NRJD                                National Rate on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-CD12NRNJ                                National Rate on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD12RCJD                                Rate Cap on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-CD12RCNJ                                Rate Cap on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
-CD1NRJD                                 National Rate on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
-CD1NRNJ                                 National Rate on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
-CD1RCJD                                 Rate Cap on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD1RCNJ                                 Rate Cap on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
-CD24NRJD                                National Rate on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-CD24NRNJ                                National Rate on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD24RCJD                                Rate Cap on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-CD24RCNJ                                Rate Cap on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
-CD36NRJD                                National Rate on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-CD36NRNJ                                National Rate on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD36RCJD                                Rate Cap on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-CD36RCNJ                                Rate Cap on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
-CD3NRJD                                 National Rate on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
-CD3NRNJ                                 National Rate on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
-CD3RCJD                                 Rate Cap on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD3RCNJ                                 Rate Cap on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
-CD48NRJD                                National Rate on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-CD48NRNJ                                National Rate on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD48RCJD                                Rate Cap on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-CD48RCNJ                                Rate Cap on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
-CD60NRJD                                National Rate on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-CD60NRNJ                                National Rate on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD60RCJD                                Rate Cap on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-CD60RCNJ                                Rate Cap on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
-CD6NRJD                                 National Rate on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
-CD6NRNJ                                 National Rate on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
-CD6RCJD                                 Rate Cap on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
-CD6RCNJ                                 Rate Cap on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
-ICNDR                                   National Deposit Rates: Interest Checking                                                                                NSA  21-Nov-2022  Monthly
-ICNDRRCA                                National Deposit Rates, Rate Cap Adjusted: Interest Checking                                                             NSA  21-Nov-2022  Monthly
-ICNRC                                   National Rate Cap: Interest Checking                                                                                     NSA  21-Nov-2022  Monthly
-ICNRNJ                                  National Rate on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
-ICRCNJ                                  Rate Cap on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-ICTY                                    Treasury Yield: Interest Checking                                                                                        NSA  21-Nov-2022  Monthly
-ICTYRCA                                 Treasury Yield, Rate Cap Adjusted: Interest Checking"                                                                    NSA  21-Nov-2022  Monthly
-MMNDR                                   Money Market National Deposit Rates                                                                                      NSA  21-Nov-2022  Monthly
-MMNDRRCA                                National Deposit Rates, Rate Cap Adjusted: Money Market                                                                  NSA  21-Nov-2022  Monthly
-MMNRC                                   National Rate Cap: Money Market                                                                                          NSA  21-Nov-2022  Monthly
-MMNRJD                                  National Rate on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)                              NSA  29-Mar-2021  Weekly, As of Monday
-MMNRNJ                                  National Rate on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
-MMRCJD                                  Rate Cap on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)                                   NSA  29-Mar-2021  Weekly, As of Monday
-MMRCNJ                                  Rate Cap on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)                                         NSA  29-Mar-2021  Weekly, As of Monday
-MMTY                                    Treasury Yield: Money Market                                                                                             NSA  21-Nov-2022  Monthly
-MMTYRCA                                 Treasury Yield, Rate Cap Adjusted: Money Market"                                                                         NSA  21-Nov-2022  Monthly
-NDR12MCD                                National Deposit Rates: 12-Month CD                                                                                      NSA  21-Nov-2022  Monthly
-NDR1MCD                                 National Deposit Rates: 1-Month CD                                                                                       NSA  21-Nov-2022  Monthly
-NDR24MCD                                National Deposit Rates: 24-Month CD                                                                                      NSA  21-Nov-2022  Monthly
-NDR36MCD                                National Deposit Rates: 36-Month CD                                                                                      NSA  21-Nov-2022  Monthly
-NDR3MCD                                 National Deposit Rates: 3-Month CD                                                                                       NSA  21-Nov-2022  Monthly
-NDR48MCD                                National Deposit Rates: 48-Month CD                                                                                      NSA  21-Nov-2022  Monthly
-NDR60MCD                                National Deposit Rates: 60-Month CD                                                                                      NSA  21-Nov-2022  Monthly
-NDR6MCD                                 National Deposit Rates: 6-Month CD                                                                                       NSA  21-Nov-2022  Monthly
-NDRRCA12MCD                             National Deposit Rates, Rate Cap Adjusted: 12-Month CD                                                                   NSA  21-Nov-2022  Monthly
-NDRRCA1MCD                              National Deposit Rates, Rate Cap Adjusted: 1-Month CD                                                                    NSA  21-Nov-2022  Monthly
-NDRRCA24MCD                             National Deposit Rates, Rate Cap Adjusted: 24-Month CD                                                                   NSA  21-Nov-2022  Monthly
-NDRRCA36MCD                             National Deposit Rates, Rate Cap Adjusted: 36-Month CD                                                                   NSA  21-Nov-2022  Monthly
-NDRRCA60MCD                             National Deposit Rates, Rate Cap Adjusted: 60-Month CD                                                                   NSA  21-Nov-2022  Monthly
-NDRRCA6MCD                              National Deposit Rates, Rate Cap Adjusted: 6-Month CD                                                                    NSA  21-Nov-2022  Monthly
-NDRRCACD                                National Deposit Rates, Rate Cap Adjusted: 3-Month CD                                                                    NSA  21-Nov-2022  Monthly
-NDRRCP48MCD                             National Deposit Rates, Rate Cap Adjusted: 48-Month CD                                                                   NSA  21-Nov-2022  Monthly
-NRC12MCD                                National Rate Cap: 12-Month CD                                                                                           NSA  21-Nov-2022  Monthly
-NRC1MCD                                 National Rate Cap: 1-Month CD                                                                                            NSA  21-Nov-2022  Monthly
-NRC24MCD                                National Rate Cap: 24-Month CD                                                                                           NSA  21-Nov-2022  Monthly
-NRC26MCD                                National Rate Cap: 36-Month CD                                                                                           NSA  21-Nov-2022  Monthly
-NRC3MCD                                 National Rate Cap: 3-Month CD                                                                                            NSA  21-Nov-2022  Monthly
-NRC48MCD                                National Rate Cap: 48-Month CD                                                                                           NSA  21-Nov-2022  Monthly
-NRC60MCD                                National Rate Cap: 60-Month CD                                                                                           NSA  21-Nov-2022  Monthly
-NRC6MCD                                 National Rate Cap: 6-Month CD                                                                                            NSA  21-Nov-2022  Monthly
-SAVNRNJ                                 National Rate on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)                                         NSA  29-Mar-2021  Weekly, As of Monday
-SAVRCNJ                                 Rate Cap on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)                                              NSA  29-Mar-2021  Weekly, As of Monday
-SNDR                                    National Deposit Rates: Savings                                                                                          NSA  21-Nov-2022  Monthly
-SNDRRCA                                 National Deposit Rates, Rate Cap Adjusted: Savings                                                                       NSA  21-Nov-2022  Monthly
-SNRC                                    National Rate Cap: Savings                                                                                               NSA  21-Nov-2022  Monthly
-STY                                     Treasury Yield: Savings                                                                                                  NSA  21-Nov-2022  Monthly
-STYRCA                                  Treasury Yield, Rate Cap Adjusted: Savings                                                                               NSA  21-Nov-2022  Monthly
-TY12MCD                                 Treasury Yield: 12-Month CD                                                                                              NSA  21-Nov-2022  Monthly
-TY1MCD                                  Treasury Yield: 1-Month CD                                                                                               NSA  21-Nov-2022  Monthly
-TY24MCD                                 Treasury Yield: 24-Month CD                                                                                              NSA  21-Nov-2022  Monthly
-TY36MCD                                 Treasury Yield: 36-Month CD                                                                                              NSA  21-Nov-2022  Monthly
-TY3MCD                                  Treasury Yield: 3-Month CD                                                                                               NSA  21-Nov-2022  Monthly
-TY60MCD                                 Treasury Yield: 60-Month CD                                                                                              NSA  21-Nov-2022  Monthly
-TY6MCD                                  Treasury Yield: 6-Month CD                                                                                               NSA  21-Nov-2022  Monthly
-TYRCA12MCD                              Treasury Yield, Rate Cap Adjusted: 12-Month CD                                                                           NSA  21-Nov-2022  Monthly
-TYRCA1MCD                               Treasury Yield, Rate Cap Adjusted: 1-Month CD                                                                            NSA  21-Nov-2022  Monthly
-TYRCA24MCD                              Treasury Yield, Rate Cap Adjusted: 24-Month CD                                                                           NSA  21-Nov-2022  Monthly
-TYRCA36MCD                              Treasury Yield, Rate Cap Adjusted: 36-Month CD                                                                           NSA  21-Nov-2022  Monthly
-TYRCA3MCD                               Treasury Yield, Rate Cap Adjusted: 3-Month CD                                                                            NSA  21-Nov-2022  Monthly
-TYRCA60MCD                              Treasury Yield, Rate Cap Adjusted: 60-Month CD                                                                           NSA  21-Nov-2022  Monthly
-TYRCA6MCD                               Treasury Yield, Rate Cap Adjusted: 6-Month CD                                                                            NSA  21-Nov-2022  Monthly
+CD12NRJD                      National Rate on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+CD12NRNJ                      National Rate on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD12RCJD                      Rate Cap on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+CD12RCNJ                      Rate Cap on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
+CD1NRJD                       National Rate on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
+CD1NRNJ                       National Rate on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
+CD1RCJD                       Rate Cap on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD1RCNJ                       Rate Cap on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
+CD24NRJD                      National Rate on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+CD24NRNJ                      National Rate on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD24RCJD                      Rate Cap on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+CD24RCNJ                      Rate Cap on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
+CD36NRJD                      National Rate on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+CD36NRNJ                      National Rate on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD36RCJD                      Rate Cap on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+CD36RCNJ                      Rate Cap on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
+CD3NRJD                       National Rate on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
+CD3NRNJ                       National Rate on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
+CD3RCJD                       Rate Cap on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD3RCNJ                       Rate Cap on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
+CD48NRJD                      National Rate on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+CD48NRNJ                      National Rate on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD48RCJD                      Rate Cap on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+CD48RCNJ                      Rate Cap on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
+CD60NRJD                      National Rate on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+CD60NRNJ                      National Rate on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD60RCJD                      Rate Cap on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+CD60RCNJ                      Rate Cap on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)                                          NSA  29-Mar-2021  Weekly, As of Monday
+CD6NRJD                       National Rate on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)                                NSA  29-Mar-2021  Weekly, As of Monday
+CD6NRNJ                       National Rate on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)                                      NSA  29-Mar-2021  Weekly, As of Monday
+CD6RCJD                       Rate Cap on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)                                     NSA  29-Mar-2021  Weekly, As of Monday
+CD6RCNJ                       Rate Cap on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)                                           NSA  29-Mar-2021  Weekly, As of Monday
+ICNDR                         National Deposit Rates: Interest Checking                                                                                NSA  21-Nov-2022  Monthly        
+ICNDRRCA                      National Deposit Rates, Rate Cap Adjusted: Interest Checking                                                             NSA  21-Nov-2022  Monthly        
+ICNRC                         National Rate Cap: Interest Checking                                                                                     NSA  21-Nov-2022  Monthly        
+ICNRNJ                        National Rate on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)                               NSA  29-Mar-2021  Weekly, As of Monday
+ICRCNJ                        Rate Cap on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+ICTY                          Treasury Yield: Interest Checking                                                                                        NSA  21-Nov-2022  Monthly        
+ICTYRCA                       Treasury Yield, Rate Cap Adjusted: Interest Checking"                                                                    NSA  21-Nov-2022  Monthly        
+MMNDR                         Money Market National Deposit Rates                                                                                      NSA  21-Nov-2022  Monthly        
+MMNDRRCA                      National Deposit Rates, Rate Cap Adjusted: Money Market                                                                  NSA  21-Nov-2022  Monthly        
+MMNRC                         National Rate Cap: Money Market                                                                                          NSA  21-Nov-2022  Monthly        
+MMNRJD                        National Rate on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)                              NSA  29-Mar-2021  Weekly, As of Monday
+MMNRNJ                        National Rate on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)                                    NSA  29-Mar-2021  Weekly, As of Monday
+MMRCJD                        Rate Cap on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)                                   NSA  29-Mar-2021  Weekly, As of Monday
+MMRCNJ                        Rate Cap on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)                                         NSA  29-Mar-2021  Weekly, As of Monday
+MMTY                          Treasury Yield: Money Market                                                                                             NSA  21-Nov-2022  Monthly        
+MMTYRCA                       Treasury Yield, Rate Cap Adjusted: Money Market"                                                                         NSA  21-Nov-2022  Monthly        
+NDR12MCD                      National Deposit Rates: 12-Month CD                                                                                      NSA  21-Nov-2022  Monthly        
+NDR1MCD                       National Deposit Rates: 1-Month CD                                                                                       NSA  21-Nov-2022  Monthly        
+NDR24MCD                      National Deposit Rates: 24-Month CD                                                                                      NSA  21-Nov-2022  Monthly        
+NDR36MCD                      National Deposit Rates: 36-Month CD                                                                                      NSA  21-Nov-2022  Monthly        
+NDR3MCD                       National Deposit Rates: 3-Month CD                                                                                       NSA  21-Nov-2022  Monthly        
+NDR48MCD                      National Deposit Rates: 48-Month CD                                                                                      NSA  21-Nov-2022  Monthly        
+NDR60MCD                      National Deposit Rates: 60-Month CD                                                                                      NSA  21-Nov-2022  Monthly        
+NDR6MCD                       National Deposit Rates: 6-Month CD                                                                                       NSA  21-Nov-2022  Monthly        
+NDRRCA12MCD                   National Deposit Rates, Rate Cap Adjusted: 12-Month CD                                                                   NSA  21-Nov-2022  Monthly        
+NDRRCA1MCD                    National Deposit Rates, Rate Cap Adjusted: 1-Month CD                                                                    NSA  21-Nov-2022  Monthly        
+NDRRCA24MCD                   National Deposit Rates, Rate Cap Adjusted: 24-Month CD                                                                   NSA  21-Nov-2022  Monthly        
+NDRRCA36MCD                   National Deposit Rates, Rate Cap Adjusted: 36-Month CD                                                                   NSA  21-Nov-2022  Monthly        
+NDRRCA60MCD                   National Deposit Rates, Rate Cap Adjusted: 60-Month CD                                                                   NSA  21-Nov-2022  Monthly        
+NDRRCA6MCD                    National Deposit Rates, Rate Cap Adjusted: 6-Month CD                                                                    NSA  21-Nov-2022  Monthly        
+NDRRCACD                      National Deposit Rates, Rate Cap Adjusted: 3-Month CD                                                                    NSA  21-Nov-2022  Monthly        
+NDRRCP48MCD                   National Deposit Rates, Rate Cap Adjusted: 48-Month CD                                                                   NSA  21-Nov-2022  Monthly        
+NRC12MCD                      National Rate Cap: 12-Month CD                                                                                           NSA  21-Nov-2022  Monthly        
+NRC1MCD                       National Rate Cap: 1-Month CD                                                                                            NSA  21-Nov-2022  Monthly        
+NRC24MCD                      National Rate Cap: 24-Month CD                                                                                           NSA  21-Nov-2022  Monthly        
+NRC26MCD                      National Rate Cap: 36-Month CD                                                                                           NSA  21-Nov-2022  Monthly        
+NRC3MCD                       National Rate Cap: 3-Month CD                                                                                            NSA  21-Nov-2022  Monthly        
+NRC48MCD                      National Rate Cap: 48-Month CD                                                                                           NSA  21-Nov-2022  Monthly        
+NRC60MCD                      National Rate Cap: 60-Month CD                                                                                           NSA  21-Nov-2022  Monthly        
+NRC6MCD                       National Rate Cap: 6-Month CD                                                                                            NSA  21-Nov-2022  Monthly        
+SAVNRNJ                       National Rate on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)                                         NSA  29-Mar-2021  Weekly, As of Monday
+SAVRCNJ                       Rate Cap on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)                                              NSA  29-Mar-2021  Weekly, As of Monday
+SNDR                          National Deposit Rates: Savings                                                                                          NSA  21-Nov-2022  Monthly        
+SNDRRCA                       National Deposit Rates, Rate Cap Adjusted: Savings                                                                       NSA  21-Nov-2022  Monthly        
+SNRC                          National Rate Cap: Savings                                                                                               NSA  21-Nov-2022  Monthly        
+STY                           Treasury Yield: Savings                                                                                                  NSA  21-Nov-2022  Monthly        
+STYRCA                        Treasury Yield, Rate Cap Adjusted: Savings                                                                               NSA  21-Nov-2022  Monthly        
+TY12MCD                       Treasury Yield: 12-Month CD                                                                                              NSA  21-Nov-2022  Monthly        
+TY1MCD                        Treasury Yield: 1-Month CD                                                                                               NSA  21-Nov-2022  Monthly        
+TY24MCD                       Treasury Yield: 24-Month CD                                                                                              NSA  21-Nov-2022  Monthly        
+TY36MCD                       Treasury Yield: 36-Month CD                                                                                              NSA  21-Nov-2022  Monthly        
+TY3MCD                        Treasury Yield: 3-Month CD                                                                                               NSA  21-Nov-2022  Monthly        
+TY60MCD                       Treasury Yield: 60-Month CD                                                                                              NSA  21-Nov-2022  Monthly        
+TY6MCD                        Treasury Yield: 6-Month CD                                                                                               NSA  21-Nov-2022  Monthly        
+TYRCA12MCD                    Treasury Yield, Rate Cap Adjusted: 12-Month CD                                                                           NSA  21-Nov-2022  Monthly        
+TYRCA1MCD                     Treasury Yield, Rate Cap Adjusted: 1-Month CD                                                                            NSA  21-Nov-2022  Monthly        
+TYRCA24MCD                    Treasury Yield, Rate Cap Adjusted: 24-Month CD                                                                           NSA  21-Nov-2022  Monthly        
+TYRCA36MCD                    Treasury Yield, Rate Cap Adjusted: 36-Month CD                                                                           NSA  21-Nov-2022  Monthly        
+TYRCA3MCD                     Treasury Yield, Rate Cap Adjusted: 3-Month CD                                                                            NSA  21-Nov-2022  Monthly        
+TYRCA60MCD                    Treasury Yield, Rate Cap Adjusted: 60-Month CD                                                                           NSA  21-Nov-2022  Monthly        
+TYRCA6MCD                     Treasury Yield, Rate Cap Adjusted: 6-Month CD                                                                            NSA  21-Nov-2022  Monthly        

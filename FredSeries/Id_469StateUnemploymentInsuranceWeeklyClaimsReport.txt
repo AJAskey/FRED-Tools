@@ -1,213 +1,213 @@
 Id : 469  State Unemployment Insurance Weekly Claims Report
-AKCCLAIMS                               Continued Claims (Insured Unemployment) in Alaska                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-AKCEMPLOY                               Covered Employment in Alaska                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-AKICLAIMS                               Initial Claims in Alaska                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-AKINSUREDUR                             Insured Unemployment Rate in Alaska                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-ALCCLAIMS                               Continued Claims (Insured Unemployment) in Alabama                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-ALCEMPLOY                               Covered Employment in Alabama                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-ALICLAIMS                               Initial Claims in Alabama                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-ALINSUREDUR                             Insured Unemployment Rate in Alabama                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-ARCCLAIMS                               Continued Claims (Insured Unemployment) in Arkansas                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-ARCEMPLOY                               Covered Employment in Arkansas                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-ARICLAIMS                               Initial Claims in Arkansas                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-ARINSUREDUR                             Insured Unemployment Rate in Arkansas                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-AZCCLAIMS                               Continued Claims (Insured Unemployment) in Arizona                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-AZCEMPLOY                               Covered Employment in Arizona                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-AZICLAIMS                               Initial Claims in Arizona                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-AZINSUREDUR                             Insured Unemployment Rate in Arizona                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-CACCLAIMS                               Continued Claims (Insured Unemployment) in California                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-CACEMPLOY                               Covered Employment in California                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-CAICLAIMS                               Initial Claims in California                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-CAINSUREDUR                             Insured Unemployment Rate in California                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-COCCLAIMS                               Continued Claims (Insured Unemployment) in Colorado                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-COCEMPLOY                               Covered Employment in Colorado                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-COICLAIMS                               Initial Claims in Colorado                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-COINSUREDUR                             Insured Unemployment Rate in Colorado                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-CTCCLAIMS                               Continued Claims (Insured Unemployment) in Connecticut                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-CTCEMPLOY                               Covered Employment in Connecticut                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-CTICLAIMS                               Initial Claims in Connecticut                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-CTINSUREDUR                             Insured Unemployment Rate in Connecticut                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-DCCCLAIMS                               Continued Claims (Insured Unemployment) in the District of Columbia                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-DCCEMPLOY                               Covered Employment in the District of Columbia                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-DCICLAIMS                               Initial Claims in the District of Columbia                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-DCINSUREDUR                             Insured Unemployment Rate in the District of Columbia                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-DECCLAIMS                               Continued Claims (Insured Unemployment) in Delaware                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-DECEMPLOY                               Covered Employment in Delaware                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-DEICLAIMS                               Initial Claims in Delaware                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-DEINSUREDUR                             Insured Unemployment Rate in Delaware                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-FLCCLAIMS                               Continued Claims (Insured Unemployment) in Florida                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-FLCEMPLOY                               Covered Employment in Florida                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-FLICLAIMS                               Initial Claims in Florida                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-FLINSUREDUR                             Insured Unemployment Rate in Florida                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-GACCLAIMS                               Continued Claims (Insured Unemployment) in Georgia                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-GACEMPLOY                               Covered Employment in Georgia                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-GAICLAIMS                               Initial Claims in Georgia                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-GAINSUREDUR                             Insured Unemployment Rate in Georgia                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-HICCLAIMS                               Continued Claims (Insured Unemployment) in Hawaii                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-HICEMPLOY                               Covered Employment in Hawaii                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-HIICLAIMS                               Initial Claims in Hawaii                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-HIINSUREDUR                             Insured Unemployment Rate in Hawaii                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-IACCLAIMS                               Continued Claims (Insured Unemployment) in Iowa                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-IACEMPLOY                               Covered Employment in Iowa                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-IAICLAIMS                               Initial Claims in Iowa                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-IAINSUREDUR                             Insured Unemployment Rate in Iowa                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-IDCCLAIMS                               Continued Claims (Insured Unemployment) in Idaho                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-IDCEMPLOY                               Covered Employment in Idaho                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-IDICLAIMS                               Initial Claims in Idaho                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-IDINSUREDUR                             Insured Unemployment Rate in Idaho                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-ILCCLAIMS                               Continued Claims (Insured Unemployment) in Illinois                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-ILCEMPLOY                               Covered Employment in Illinois                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-ILICLAIMS                               Initial Claims in Illinois                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-ILINSUREDUR                             Insured Unemployment Rate in Illinois                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-INCCLAIMS                               Continued Claims (Insured Unemployment) in Indiana                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-INCEMPLOY                               Covered Employment in Indiana                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-INICLAIMS                               Initial Claims in Indiana                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-ININSUREDUR                             Insured Unemployment Rate in Indiana                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-KSCCLAIMS                               Continued Claims (Insured Unemployment) in Kansas                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-KSCEMPLOY                               Covered Employment in Kansas                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-KSICLAIMS                               Initial Claims in Kansas                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-KSINSUREDUR                             Insured Unemployment Rate in Kansas                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-KYCCLAIMS                               Continued Claims (Insured Unemployment) in Kentucky                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-KYCEMPLOY                               Covered Employment in Kentucky                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-KYICLAIMS                               Initial Claims in Kentucky                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-KYINSUREDUR                             Insured Unemployment Rate in Kentucky                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-LACCLAIMS                               Continued Claims (Insured Unemployment) in Louisiana                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-LACEMPLOY                               Covered Employment in Louisiana                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-LAICLAIMS                               Initial Claims in Louisiana                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-LAINSUREDUR                             Insured Unemployment Rate in Louisiana                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-MACCLAIMS                               Continued Claims (Insured Unemployment) in Massachusetts                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-MACEMPLOY                               Covered Employment in Massachusetts                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-MAICLAIMS                               Initial Claims in Massachusetts                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-MAINSUREDUR                             Insured Unemployment Rate in Massachusetts                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-MDCCLAIMS                               Continued Claims (Insured Unemployment) in Maryland                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-MDCEMPLOY                               Covered Employment in Maryland                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-MDICLAIMS                               Initial Claims in Maryland                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-MDINSUREDUR                             Insured Unemployment Rate in Maryland                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-MECCLAIMS                               Continued Claims (Insured Unemployment) in Maine                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-MECEMPLOY                               Covered Employment in Maine                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-MEICLAIMS                               Initial Claims in Maine                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-MEINSUREDUR                             Insured Unemployment Rate in Maine                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-MICCLAIMS                               Continued Claims (Insured Unemployment) in Michigan                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-MICEMPLOY                               Covered Employment in Michigan                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-MIICLAIMS                               Initial Claims in Michigan                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-MIINSUREDUR                             Insured Unemployment Rate in Michigan                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-MNCCLAIMS                               Continued Claims (Insured Unemployment) in Minnesota                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-MNCEMPLOY                               Covered Employment in Minnesota                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-MNICLAIMS                               Initial Claims in Minnesota                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-MNINSUREDUR                             Insured Unemployment Rate in Minnesota                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-MOCCLAIMS                               Continued Claims (Insured Unemployment) in Missouri                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-MOCEMPLOY                               Covered Employment in Missouri                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-MOICLAIMS                               Initial Claims in Missouri                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-MOINSUREDUR                             Insured Unemployment Rate in Missouri                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-MSCCLAIMS                               Continued Claims (Insured Unemployment) in Mississippi                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-MSCEMPLOY                               Covered Employment in Mississippi                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-MSICLAIMS                               Initial Claims in Mississippi                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-MSINSUREDUR                             Insured Unemployment Rate in Mississippi                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-MTCCLAIMS                               Continued Claims (Insured Unemployment) in Montana                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-MTCEMPLOY                               Covered Employment in Montana                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-MTICLAIMS                               Initial Claims in Montana                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-MTINSUREDUR                             Insured Unemployment Rate in Montana                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-NCCCLAIMS                               Continued Claims (Insured Unemployment) in North Carolina                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-NCCEMPLOY                               Covered Employment in North Carolina                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-NCICLAIMS                               Initial Claims in North Carolina                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-NCINSUREDUR                             Insured Unemployment Rate in North Carolina                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-NDCCLAIMS                               Continued Claims (Insured Unemployment) in North Dakota                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-NDCEMPLOY                               Covered Employment in North Dakota                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-NDICLAIMS                               Initial Claims in North Dakota                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-NDINSUREDUR                             Insured Unemployment Rate in North Dakota                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-NECCLAIMS                               Continued Claims (Insured Unemployment) in Nebraska                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-NECEMPLOY                               Covered Employment in Nebraska                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-NEICLAIMS                               Initial Claims in Nebraska                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-NEINSUREDUR                             Insured Unemployment Rate in Nebraska                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-NHCCLAIMS                               Continued Claims (Insured Unemployment) in New Hampshire                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-NHCEMPLOY                               Covered Employment in New Hampshire                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-NHICLAIMS                               Initial Claims in New Hampshire                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-NHINSUREDUR                             Insured Unemployment Rate in New Hampshire                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-NJCCLAIMS                               Continued Claims (Insured Unemployment) in New Jersey                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-NJCEMPLOY                               Covered Employment in New Jersey                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-NJICLAIMS                               Initial Claims in New Jersey                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-NJINSUREDUR                             Insured Unemployment Rate in New Jersey                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-NMCCLAIMS                               Continued Claims (Insured Unemployment) in New Mexico                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-NMCEMPLOY                               Covered Employment in New Mexico                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-NMICLAIMS                               Initial Claims in New Mexico                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-NMINSUREDUR                             Insured Unemployment Rate in New Mexico                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-NVCCLAIMS                               Continued Claims (Insured Unemployment) in Nevada                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-NVCEMPLOY                               Covered Employment in Nevada                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-NVICLAIMS                               Initial Claims in Nevada                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-NVINSUREDUR                             Insured Unemployment Rate in Nevada                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-NYCCLAIMS                               Continued Claims (Insured Unemployment) in New York                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-NYCEMPLOY                               Covered Employment in New York                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-NYICLAIMS                               Initial Claims in New York                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-NYINSUREDUR                             Insured Unemployment Rate in New York                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-OHCCLAIMS                               Continued Claims (Insured Unemployment) in Ohio                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-OHCEMPLOY                               Covered Employment in Ohio                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-OHICLAIMS                               Initial Claims in Ohio                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-OHINSUREDUR                             Insured Unemployment Rate in Ohio                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-OKCCLAIMS                               Continued Claims (Insured Unemployment) in Oklahoma                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-OKCEMPLOY                               Covered Employment in Oklahoma                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-OKICLAIMS                               Initial Claims in Oklahoma                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-OKINSUREDUR                             Insured Unemployment Rate in Oklahoma                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-ORCCLAIMS                               Continued Claims (Insured Unemployment) in Oregon                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-ORCEMPLOY                               Covered Employment in Oregon                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-ORICLAIMS                               Initial Claims in Oregon                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-ORINSUREDUR                             Insured Unemployment Rate in Oregon                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-PACCLAIMS                               Continued Claims (Insured Unemployment) in Pennsylvania                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-PACEMPLOY                               Covered Employment in Pennsylvania                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-PAICLAIMS                               Initial Claims in Pennsylvania                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-PAINSUREDUR                             Insured Unemployment Rate in Pennsylvania                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-PRICCLAIMS                              Continued Claims (Insured Unemployment) in Puerto Rico                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-PRICEMPLOY                              Covered Employment in Puerto Rico                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-PRIICLAIMS                              Initial Claims in Puerto Rico                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-PRIINSUREDUR                            Insured Unemployment Rate in Puerto Rico                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-RICCLAIMS                               Continued Claims (Insured Unemployment) in Rhode Island                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-RICEMPLOY                               Covered Employment in Rhode Island                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-RIICLAIMS                               Initial Claims in Rhode Island                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-RIINSUREDUR                             Insured Unemployment Rate in Rhode Island                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-SCCCLAIMS                               Continued Claims (Insured Unemployment) in South Carolina                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-SCCEMPLOY                               Covered Employment in South Carolina                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-SCICLAIMS                               Initial Claims in South Carolina                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-SCINSUREDUR                             Insured Unemployment Rate in South Carolina                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-SDCCLAIMS                               Continued Claims (Insured Unemployment) in South Dakota                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-SDCEMPLOY                               Covered Employment in South Dakota                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-SDICLAIMS                               Initial Claims in South Dakota                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-SDINSUREDUR                             Insured Unemployment Rate in South Dakota                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-TNCCLAIMS                               Continued Claims (Insured Unemployment) in Tennessee                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-TNCEMPLOY                               Covered Employment in Tennessee                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-TNICLAIMS                               Initial Claims in Tennessee                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-TNINSUREDUR                             Insured Unemployment Rate in Tennessee                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-TXCCLAIMS                               Continued Claims (Insured Unemployment) in Texas                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-TXCEMPLOY                               Covered Employment in Texas                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-TXICLAIMS                               Initial Claims in Texas                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-TXINSUREDUR                             Insured Unemployment Rate in Texas                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-UTCCLAIMS                               Continued Claims (Insured Unemployment) in Utah                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-UTCEMPLOY                               Covered Employment in Utah                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-UTICLAIMS                               Initial Claims in Utah                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-UTINSUREDUR                             Insured Unemployment Rate in Utah                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
-VACCLAIMS                               Continued Claims (Insured Unemployment) in Virginia                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-VACEMPLOY                               Covered Employment in Virginia                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
-VAICLAIMS                               Initial Claims in Virginia                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-VAINSUREDUR                             Insured Unemployment Rate in Virginia                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-VIRCCLAIMS                              Continued Claims (Insured Unemployment) in the U.S. Virgin Islands                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-VIRCEMPLOY                              Covered Employment in the U.S. Virgin Islands                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-VIRICLAIMS                              Initial Claims in the U.S. Virgin Islands                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-VIRINSUREDUR                            Insured Unemployment Rate in the U.S. Virgin Islands                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-VTCCLAIMS                               Continued Claims (Insured Unemployment) in Vermont                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-VTCEMPLOY                               Covered Employment in Vermont                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-VTICLAIMS                               Initial Claims in Vermont                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-VTINSUREDUR                             Insured Unemployment Rate in Vermont                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-WACCLAIMS                               Continued Claims (Insured Unemployment) in Washington                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
-WACEMPLOY                               Covered Employment in Washington                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
-WAICLAIMS                               Initial Claims in Washington                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
-WAINSUREDUR                             Insured Unemployment Rate in Washington                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
-WICCLAIMS                               Continued Claims (Insured Unemployment) in Wisconsin                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
-WICEMPLOY                               Covered Employment in Wisconsin                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-WIICLAIMS                               Initial Claims in Wisconsin                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
-WIINSUREDUR                             Insured Unemployment Rate in Wisconsin                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
-WVCCLAIMS                               Continued Claims (Insured Unemployment) in West Virginia                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
-WVCEMPLOY                               Covered Employment in West Virginia                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
-WVICLAIMS                               Initial Claims in West Virginia                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
-WVINSUREDUR                             Insured Unemployment Rate in West Virginia                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
-WYCCLAIMS                               Continued Claims (Insured Unemployment) in Wyoming                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
-WYCEMPLOY                               Covered Employment in Wyoming                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
-WYICLAIMS                               Initial Claims in Wyoming                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
-WYINSUREDUR                             Insured Unemployment Rate in Wyoming                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+AKCCLAIMS                     Continued Claims (Insured Unemployment) in Alaska                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+AKCEMPLOY                     Covered Employment in Alaska                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+AKICLAIMS                     Initial Claims in Alaska                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+AKINSUREDUR                   Insured Unemployment Rate in Alaska                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+ALCCLAIMS                     Continued Claims (Insured Unemployment) in Alabama                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+ALCEMPLOY                     Covered Employment in Alabama                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+ALICLAIMS                     Initial Claims in Alabama                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+ALINSUREDUR                   Insured Unemployment Rate in Alabama                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+ARCCLAIMS                     Continued Claims (Insured Unemployment) in Arkansas                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+ARCEMPLOY                     Covered Employment in Arkansas                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+ARICLAIMS                     Initial Claims in Arkansas                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+ARINSUREDUR                   Insured Unemployment Rate in Arkansas                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+AZCCLAIMS                     Continued Claims (Insured Unemployment) in Arizona                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+AZCEMPLOY                     Covered Employment in Arizona                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+AZICLAIMS                     Initial Claims in Arizona                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+AZINSUREDUR                   Insured Unemployment Rate in Arizona                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+CACCLAIMS                     Continued Claims (Insured Unemployment) in California                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+CACEMPLOY                     Covered Employment in California                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+CAICLAIMS                     Initial Claims in California                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+CAINSUREDUR                   Insured Unemployment Rate in California                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+COCCLAIMS                     Continued Claims (Insured Unemployment) in Colorado                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+COCEMPLOY                     Covered Employment in Colorado                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+COICLAIMS                     Initial Claims in Colorado                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+COINSUREDUR                   Insured Unemployment Rate in Colorado                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+CTCCLAIMS                     Continued Claims (Insured Unemployment) in Connecticut                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+CTCEMPLOY                     Covered Employment in Connecticut                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+CTICLAIMS                     Initial Claims in Connecticut                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+CTINSUREDUR                   Insured Unemployment Rate in Connecticut                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+DCCCLAIMS                     Continued Claims (Insured Unemployment) in the District of Columbia                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+DCCEMPLOY                     Covered Employment in the District of Columbia                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+DCICLAIMS                     Initial Claims in the District of Columbia                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+DCINSUREDUR                   Insured Unemployment Rate in the District of Columbia                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+DECCLAIMS                     Continued Claims (Insured Unemployment) in Delaware                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+DECEMPLOY                     Covered Employment in Delaware                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+DEICLAIMS                     Initial Claims in Delaware                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+DEINSUREDUR                   Insured Unemployment Rate in Delaware                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+FLCCLAIMS                     Continued Claims (Insured Unemployment) in Florida                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+FLCEMPLOY                     Covered Employment in Florida                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+FLICLAIMS                     Initial Claims in Florida                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+FLINSUREDUR                   Insured Unemployment Rate in Florida                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+GACCLAIMS                     Continued Claims (Insured Unemployment) in Georgia                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+GACEMPLOY                     Covered Employment in Georgia                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+GAICLAIMS                     Initial Claims in Georgia                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+GAINSUREDUR                   Insured Unemployment Rate in Georgia                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+HICCLAIMS                     Continued Claims (Insured Unemployment) in Hawaii                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+HICEMPLOY                     Covered Employment in Hawaii                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+HIICLAIMS                     Initial Claims in Hawaii                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+HIINSUREDUR                   Insured Unemployment Rate in Hawaii                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+IACCLAIMS                     Continued Claims (Insured Unemployment) in Iowa                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+IACEMPLOY                     Covered Employment in Iowa                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+IAICLAIMS                     Initial Claims in Iowa                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+IAINSUREDUR                   Insured Unemployment Rate in Iowa                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+IDCCLAIMS                     Continued Claims (Insured Unemployment) in Idaho                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+IDCEMPLOY                     Covered Employment in Idaho                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+IDICLAIMS                     Initial Claims in Idaho                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+IDINSUREDUR                   Insured Unemployment Rate in Idaho                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+ILCCLAIMS                     Continued Claims (Insured Unemployment) in Illinois                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+ILCEMPLOY                     Covered Employment in Illinois                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+ILICLAIMS                     Initial Claims in Illinois                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+ILINSUREDUR                   Insured Unemployment Rate in Illinois                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+INCCLAIMS                     Continued Claims (Insured Unemployment) in Indiana                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+INCEMPLOY                     Covered Employment in Indiana                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+INICLAIMS                     Initial Claims in Indiana                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+ININSUREDUR                   Insured Unemployment Rate in Indiana                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+KSCCLAIMS                     Continued Claims (Insured Unemployment) in Kansas                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+KSCEMPLOY                     Covered Employment in Kansas                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+KSICLAIMS                     Initial Claims in Kansas                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+KSINSUREDUR                   Insured Unemployment Rate in Kansas                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+KYCCLAIMS                     Continued Claims (Insured Unemployment) in Kentucky                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+KYCEMPLOY                     Covered Employment in Kentucky                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+KYICLAIMS                     Initial Claims in Kentucky                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+KYINSUREDUR                   Insured Unemployment Rate in Kentucky                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+LACCLAIMS                     Continued Claims (Insured Unemployment) in Louisiana                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+LACEMPLOY                     Covered Employment in Louisiana                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+LAICLAIMS                     Initial Claims in Louisiana                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+LAINSUREDUR                   Insured Unemployment Rate in Louisiana                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+MACCLAIMS                     Continued Claims (Insured Unemployment) in Massachusetts                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+MACEMPLOY                     Covered Employment in Massachusetts                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+MAICLAIMS                     Initial Claims in Massachusetts                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+MAINSUREDUR                   Insured Unemployment Rate in Massachusetts                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+MDCCLAIMS                     Continued Claims (Insured Unemployment) in Maryland                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+MDCEMPLOY                     Covered Employment in Maryland                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+MDICLAIMS                     Initial Claims in Maryland                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+MDINSUREDUR                   Insured Unemployment Rate in Maryland                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+MECCLAIMS                     Continued Claims (Insured Unemployment) in Maine                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+MECEMPLOY                     Covered Employment in Maine                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+MEICLAIMS                     Initial Claims in Maine                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+MEINSUREDUR                   Insured Unemployment Rate in Maine                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+MICCLAIMS                     Continued Claims (Insured Unemployment) in Michigan                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+MICEMPLOY                     Covered Employment in Michigan                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+MIICLAIMS                     Initial Claims in Michigan                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+MIINSUREDUR                   Insured Unemployment Rate in Michigan                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+MNCCLAIMS                     Continued Claims (Insured Unemployment) in Minnesota                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+MNCEMPLOY                     Covered Employment in Minnesota                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+MNICLAIMS                     Initial Claims in Minnesota                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+MNINSUREDUR                   Insured Unemployment Rate in Minnesota                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+MOCCLAIMS                     Continued Claims (Insured Unemployment) in Missouri                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+MOCEMPLOY                     Covered Employment in Missouri                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+MOICLAIMS                     Initial Claims in Missouri                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+MOINSUREDUR                   Insured Unemployment Rate in Missouri                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+MSCCLAIMS                     Continued Claims (Insured Unemployment) in Mississippi                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+MSCEMPLOY                     Covered Employment in Mississippi                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+MSICLAIMS                     Initial Claims in Mississippi                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+MSINSUREDUR                   Insured Unemployment Rate in Mississippi                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+MTCCLAIMS                     Continued Claims (Insured Unemployment) in Montana                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+MTCEMPLOY                     Covered Employment in Montana                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+MTICLAIMS                     Initial Claims in Montana                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+MTINSUREDUR                   Insured Unemployment Rate in Montana                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+NCCCLAIMS                     Continued Claims (Insured Unemployment) in North Carolina                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+NCCEMPLOY                     Covered Employment in North Carolina                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+NCICLAIMS                     Initial Claims in North Carolina                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+NCINSUREDUR                   Insured Unemployment Rate in North Carolina                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+NDCCLAIMS                     Continued Claims (Insured Unemployment) in North Dakota                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+NDCEMPLOY                     Covered Employment in North Dakota                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+NDICLAIMS                     Initial Claims in North Dakota                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+NDINSUREDUR                   Insured Unemployment Rate in North Dakota                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+NECCLAIMS                     Continued Claims (Insured Unemployment) in Nebraska                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+NECEMPLOY                     Covered Employment in Nebraska                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+NEICLAIMS                     Initial Claims in Nebraska                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+NEINSUREDUR                   Insured Unemployment Rate in Nebraska                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+NHCCLAIMS                     Continued Claims (Insured Unemployment) in New Hampshire                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+NHCEMPLOY                     Covered Employment in New Hampshire                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+NHICLAIMS                     Initial Claims in New Hampshire                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+NHINSUREDUR                   Insured Unemployment Rate in New Hampshire                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+NJCCLAIMS                     Continued Claims (Insured Unemployment) in New Jersey                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+NJCEMPLOY                     Covered Employment in New Jersey                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+NJICLAIMS                     Initial Claims in New Jersey                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+NJINSUREDUR                   Insured Unemployment Rate in New Jersey                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+NMCCLAIMS                     Continued Claims (Insured Unemployment) in New Mexico                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+NMCEMPLOY                     Covered Employment in New Mexico                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+NMICLAIMS                     Initial Claims in New Mexico                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+NMINSUREDUR                   Insured Unemployment Rate in New Mexico                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+NVCCLAIMS                     Continued Claims (Insured Unemployment) in Nevada                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+NVCEMPLOY                     Covered Employment in Nevada                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+NVICLAIMS                     Initial Claims in Nevada                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+NVINSUREDUR                   Insured Unemployment Rate in Nevada                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+NYCCLAIMS                     Continued Claims (Insured Unemployment) in New York                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+NYCEMPLOY                     Covered Employment in New York                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+NYICLAIMS                     Initial Claims in New York                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+NYINSUREDUR                   Insured Unemployment Rate in New York                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+OHCCLAIMS                     Continued Claims (Insured Unemployment) in Ohio                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+OHCEMPLOY                     Covered Employment in Ohio                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+OHICLAIMS                     Initial Claims in Ohio                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+OHINSUREDUR                   Insured Unemployment Rate in Ohio                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+OKCCLAIMS                     Continued Claims (Insured Unemployment) in Oklahoma                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+OKCEMPLOY                     Covered Employment in Oklahoma                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+OKICLAIMS                     Initial Claims in Oklahoma                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+OKINSUREDUR                   Insured Unemployment Rate in Oklahoma                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+ORCCLAIMS                     Continued Claims (Insured Unemployment) in Oregon                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+ORCEMPLOY                     Covered Employment in Oregon                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+ORICLAIMS                     Initial Claims in Oregon                                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+ORINSUREDUR                   Insured Unemployment Rate in Oregon                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+PACCLAIMS                     Continued Claims (Insured Unemployment) in Pennsylvania                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+PACEMPLOY                     Covered Employment in Pennsylvania                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+PAICLAIMS                     Initial Claims in Pennsylvania                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+PAINSUREDUR                   Insured Unemployment Rate in Pennsylvania                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+PRICCLAIMS                    Continued Claims (Insured Unemployment) in Puerto Rico                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+PRICEMPLOY                    Covered Employment in Puerto Rico                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+PRIICLAIMS                    Initial Claims in Puerto Rico                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+PRIINSUREDUR                  Insured Unemployment Rate in Puerto Rico                                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+RICCLAIMS                     Continued Claims (Insured Unemployment) in Rhode Island                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+RICEMPLOY                     Covered Employment in Rhode Island                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+RIICLAIMS                     Initial Claims in Rhode Island                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+RIINSUREDUR                   Insured Unemployment Rate in Rhode Island                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+SCCCLAIMS                     Continued Claims (Insured Unemployment) in South Carolina                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+SCCEMPLOY                     Covered Employment in South Carolina                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+SCICLAIMS                     Initial Claims in South Carolina                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+SCINSUREDUR                   Insured Unemployment Rate in South Carolina                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+SDCCLAIMS                     Continued Claims (Insured Unemployment) in South Dakota                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+SDCEMPLOY                     Covered Employment in South Dakota                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+SDICLAIMS                     Initial Claims in South Dakota                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+SDINSUREDUR                   Insured Unemployment Rate in South Dakota                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+TNCCLAIMS                     Continued Claims (Insured Unemployment) in Tennessee                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+TNCEMPLOY                     Covered Employment in Tennessee                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+TNICLAIMS                     Initial Claims in Tennessee                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+TNINSUREDUR                   Insured Unemployment Rate in Tennessee                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+TXCCLAIMS                     Continued Claims (Insured Unemployment) in Texas                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+TXCEMPLOY                     Covered Employment in Texas                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+TXICLAIMS                     Initial Claims in Texas                                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+TXINSUREDUR                   Insured Unemployment Rate in Texas                                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+UTCCLAIMS                     Continued Claims (Insured Unemployment) in Utah                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+UTCEMPLOY                     Covered Employment in Utah                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+UTICLAIMS                     Initial Claims in Utah                                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+UTINSUREDUR                   Insured Unemployment Rate in Utah                                                                                        NSA  09-Dec-2022  Weekly, Ending Saturday
+VACCLAIMS                     Continued Claims (Insured Unemployment) in Virginia                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+VACEMPLOY                     Covered Employment in Virginia                                                                                           NSA  09-Dec-2022  Weekly, Ending Saturday
+VAICLAIMS                     Initial Claims in Virginia                                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+VAINSUREDUR                   Insured Unemployment Rate in Virginia                                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+VIRCCLAIMS                    Continued Claims (Insured Unemployment) in the U.S. Virgin Islands                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+VIRCEMPLOY                    Covered Employment in the U.S. Virgin Islands                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+VIRICLAIMS                    Initial Claims in the U.S. Virgin Islands                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+VIRINSUREDUR                  Insured Unemployment Rate in the U.S. Virgin Islands                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+VTCCLAIMS                     Continued Claims (Insured Unemployment) in Vermont                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+VTCEMPLOY                     Covered Employment in Vermont                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+VTICLAIMS                     Initial Claims in Vermont                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+VTINSUREDUR                   Insured Unemployment Rate in Vermont                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+WACCLAIMS                     Continued Claims (Insured Unemployment) in Washington                                                                    NSA  09-Dec-2022  Weekly, Ending Saturday
+WACEMPLOY                     Covered Employment in Washington                                                                                         NSA  09-Dec-2022  Weekly, Ending Saturday
+WAICLAIMS                     Initial Claims in Washington                                                                                             NSA  09-Dec-2022  Weekly, Ending Saturday
+WAINSUREDUR                   Insured Unemployment Rate in Washington                                                                                  NSA  09-Dec-2022  Weekly, Ending Saturday
+WICCLAIMS                     Continued Claims (Insured Unemployment) in Wisconsin                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday
+WICEMPLOY                     Covered Employment in Wisconsin                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+WIICLAIMS                     Initial Claims in Wisconsin                                                                                              NSA  09-Dec-2022  Weekly, Ending Saturday
+WIINSUREDUR                   Insured Unemployment Rate in Wisconsin                                                                                   NSA  09-Dec-2022  Weekly, Ending Saturday
+WVCCLAIMS                     Continued Claims (Insured Unemployment) in West Virginia                                                                 NSA  09-Dec-2022  Weekly, Ending Saturday
+WVCEMPLOY                     Covered Employment in West Virginia                                                                                      NSA  09-Dec-2022  Weekly, Ending Saturday
+WVICLAIMS                     Initial Claims in West Virginia                                                                                          NSA  09-Dec-2022  Weekly, Ending Saturday
+WVINSUREDUR                   Insured Unemployment Rate in West Virginia                                                                               NSA  09-Dec-2022  Weekly, Ending Saturday
+WYCCLAIMS                     Continued Claims (Insured Unemployment) in Wyoming                                                                       NSA  09-Dec-2022  Weekly, Ending Saturday
+WYCEMPLOY                     Covered Employment in Wyoming                                                                                            NSA  09-Dec-2022  Weekly, Ending Saturday
+WYICLAIMS                     Initial Claims in Wyoming                                                                                                NSA  09-Dec-2022  Weekly, Ending Saturday
+WYINSUREDUR                   Insured Unemployment Rate in Wyoming                                                                                     NSA  09-Dec-2022  Weekly, Ending Saturday

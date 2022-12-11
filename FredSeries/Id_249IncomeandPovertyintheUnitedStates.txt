@@ -1,168 +1,168 @@
 Id : 249  Income and Poverty in the United States
-GINIAAF                                 Income Gini Ratio of Families by Race of Householder, Asian Alone                                                        NSA  13-Sep-2022  Annual
-GINIAAH                                 Income Gini Ratio for Households by Race of Householder, Asian Alone                                                     NSA  13-Sep-2022  Annual
-GINIAAOICF                              Income Gini Ratio of Families by Race of Householder, Asian Alone or in Combination                                      NSA  13-Sep-2022  Annual
-GINIAAOICH                              Income Gini Ratio for Households by Race of Householder, Asian Alone or in Combination                                   NSA  13-Sep-2022  Annual
-GINIALLRF                               Income Gini Ratio of Families by Race of Householder, All Races                                                          NSA  13-Sep-2022  Annual
-GINIALLRH                               Income Gini Ratio for Households by Race of Householder, All Races                                                       NSA  13-Sep-2022  Annual
-GINIBAF                                 Income Gini Ratio of Families by Race of Householder, Black Alone                                                        NSA  13-Sep-2022  Annual
-GINIBAH                                 Income Gini Ratio for Households by Race of Householder, Black Alone                                                     NSA  13-Sep-2022  Annual
-GINIBAOICF                              Income Gini Ratio of Families by Race of Householder, Black Alone or in Combination                                      NSA  13-Sep-2022  Annual
-GINIBAOICH                              Income Gini Ratio for Households by Race of Householder, Black Alone or in Combination                                   NSA  13-Sep-2022  Annual
-GINIBF                                  Income Gini Ratio of Families by Race of Householder, Black (DISCONTINUED)                                               NSA  13-Feb-2012  Annual
-GINIBH                                  Income Gini Ratio for Households by Race of Householder, Black (DISCONTINUED)                                            NSA  13-Feb-2012  Annual
-GINIHARF                                Income Gini Ratio of Families by Race of Householder, Hispanic Origin (Any Race)                                         NSA  13-Sep-2022  Annual
-GINIHARH                                Income Gini Ratio for Households by Race of Householder, Hispanic Origin (Any Race)                                      NSA  13-Sep-2022  Annual
-GINIWAF                                 Income Gini Ratio of Families by Race of Householder, White Alone                                                        NSA  13-Sep-2022  Annual
-GINIWAH                                 Income Gini Ratio for Households by Race of Householder, White Alone                                                     NSA  13-Sep-2022  Annual
-GINIWANHF                               Income Gini Ratio of Families by Race of Householder, White Alone Not Hispanic                                           NSA  13-Sep-2022  Annual
-GINIWANHH                               Income Gini Ratio for Households by Race of Householder, White Alone Not Hispanic                                        NSA  13-Sep-2022  Annual
-GINIWAOICH                              Income Gini Ratio for Households by Race of Householder, White Alone or in Combination (DISCONTINUED)                    NSA  17-Sep-2013  Annual
-GINIWF                                  Income Gini Ratio of Families by Race of Householder, White (DISCONTINUED)                                               NSA  13-Feb-2012  Annual
-GINIWH                                  Income Gini Ratio for Households by Race of Householder, White (DISCONTINUED)                                            NSA  13-Feb-2012  Annual
-GINIWNHF                                Income Gini Ratio of Families by Race of Householder, White Not Hispanic (DISCONTINUED)                                  NSA  13-Feb-2012  Annual
-GINIWNHH                                Income Gini Ratio for Households by Race of Householder, White Not Hispanic (DISCONTINUED)                               NSA  13-Feb-2012  Annual
-MAFAINUSA646N                           Mean Family Income in the United States                                                                                  NSA  13-Sep-2022  Annual
-MAFAINUSA672N                           Real Mean Family Income in the United States                                                                             NSA  13-Sep-2022  Annual
-MAFAINUSMWA646N                         Mean Family Income in Midwest Census Region                                                                              NSA  13-Sep-2022  Annual
-MAFAINUSMWA672N                         Real Mean Family Income in Midwest Census Region                                                                         NSA  13-Sep-2022  Annual
-MAFAINUSNEA646N                         Mean Family Income in Northeast Census Region                                                                            NSA  13-Sep-2022  Annual
-MAFAINUSNEA672N                         Real Mean Family Income in Northeast Census Region                                                                       NSA  13-Sep-2022  Annual
-MAFAINUSSOA646N                         Mean Family Income in South Census Region                                                                                NSA  13-Sep-2022  Annual
-MAFAINUSSOA672N                         Real Mean Family Income in South Census Region                                                                           NSA  13-Sep-2022  Annual
-MAFAINUSWEA646N                         Mean Family Income in West Census Region                                                                                 NSA  13-Sep-2022  Annual
-MAFAINUSWEA672N                         Real Mean Family Income in West Census Region                                                                            NSA  13-Sep-2022  Annual
-MAPAINUSA646N                           Mean Personal Income in the United States                                                                                NSA  13-Sep-2022  Annual
-MAPAINUSA672N                           Real Mean Personal Income in the United States                                                                           NSA  13-Sep-2022  Annual
-MAPAINUSMWA646N                         Mean Personal Income in Midwest Census Region                                                                            NSA  13-Sep-2022  Annual
-MAPAINUSMWA672N                         Real Mean Personal Income in Midwest Census Region                                                                       NSA  13-Sep-2022  Annual
-MAPAINUSNEA646N                         Mean Personal Income in Northeast Census Region                                                                          NSA  13-Sep-2022  Annual
-MAPAINUSNEA672N                         Real Mean Personal Income in Northeast Census Region                                                                     NSA  13-Sep-2022  Annual
-MAPAINUSSOA646N                         Mean Personal Income in South Census Region                                                                              NSA  13-Sep-2022  Annual
-MAPAINUSSOA672N                         Real Mean Personal Income in South Census Region                                                                         NSA  13-Sep-2022  Annual
-MAPAINUSWEA646N                         Mean Personal Income in West Census Region                                                                               NSA  13-Sep-2022  Annual
-MAPAINUSWEA672N                         Real Mean Personal Income in West Census Region                                                                          NSA  13-Sep-2022  Annual
-MEFAINUSA646N                           Median Family Income in the United States                                                                                NSA  13-Sep-2022  Annual
-MEFAINUSA672N                           Real Median Family Income in the United States                                                                           NSA  13-Sep-2022  Annual
-MEFAINUSMWA646N                         Median Family Income in Midwest Census Region                                                                            NSA  13-Sep-2022  Annual
-MEFAINUSMWA672N                         Real Median Family Income in Midwest Census Region                                                                       NSA  13-Sep-2022  Annual
-MEFAINUSNEA646N                         Median Family Income in Northeast Census Region                                                                          NSA  13-Sep-2022  Annual
-MEFAINUSNEA672N                         Real Median Family Income in Northeast Census Region                                                                     NSA  13-Sep-2022  Annual
-MEFAINUSSOA646N                         Median Family Income in South Census Region                                                                              NSA  13-Sep-2022  Annual
-MEFAINUSSOA672N                         Real Median Family Income in South Census Region                                                                         NSA  13-Sep-2022  Annual
-MEFAINUSWEA646N                         Median Family Income in West Census Region                                                                               NSA  13-Sep-2022  Annual
-MEFAINUSWEA672N                         Real Median Family Income in West Census Region                                                                          NSA  13-Sep-2022  Annual
-MEHOINUSA646N                           Median Household Income in the United States                                                                             NSA  13-Sep-2022  Annual
-MEHOINUSA672N                           Real Median Household Income in the United States                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSAKA646N                         Median Household Income in Alaska                                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSAKA672N                         Real Median Household Income in Alaska                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSALA646N                         Median Household Income in Alabama                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSALA672N                         Real Median Household Income in Alabama                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSARA646N                         Median Household Income in Arkansas                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSARA672N                         Real Median Household Income in Arkansas                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSAZA646N                         Median Household Income in Arizona                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSAZA672N                         Real Median Household Income in Arizona                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSCAA646N                         Median Household Income in California                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSCAA672N                         Real Median Household Income in California                                                                               NSA  13-Sep-2022  Annual
-MEHOINUSCOA646N                         Median Household Income in Colorado                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSCOA672N                         Real Median Household Income in Colorado                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSCTA646N                         Median Household Income in Connecticut                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSCTA672N                         Real Median Household Income in Connecticut                                                                              NSA  13-Sep-2022  Annual
-MEHOINUSDCA646N                         Median Household Income in District of Columbia                                                                          NSA  13-Sep-2022  Annual
-MEHOINUSDCA672N                         Real Median Household Income in the District of Columbia                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSDEA646N                         Median Household Income in Delaware                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSDEA672N                         Real Median Household Income in Delaware                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSFLA646N                         Median Household Income in Florida                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSFLA672N                         Real Median Household Income in Florida                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSGAA646N                         Median Household Income in Georgia                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSGAA672N                         Real Median Household Income in Georgia                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSHIA646N                         Median Household Income in Hawaii                                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSHIA672N                         Real Median Household Income in Hawaii                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSIAA646N                         Median Household Income in Iowa                                                                                          NSA  13-Sep-2022  Annual
-MEHOINUSIAA672N                         Real Median Household Income in Iowa                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSIDA646N                         Median Household Income in Idaho                                                                                         NSA  13-Sep-2022  Annual
-MEHOINUSIDA672N                         Real Median Household Income in Idaho                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSILA646N                         Median Household Income in Illinois                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSILA672N                         Real Median Household Income in Illinois                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSINA646N                         Median Household Income in Indiana                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSINA672N                         Real Median Household Income in Indiana                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSKSA646N                         Median Household Income in Kansas                                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSKSA672N                         Real Median Household Income in Kansas                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSKYA646N                         Median Household Income in Kentucky                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSKYA672N                         Real Median Household Income in Kentucky                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSLAA646N                         Median Household Income in Louisiana                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSLAA672N                         Real Median Household Income in Louisiana                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSMAA646N                         Median Household Income in Massachusetts                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSMAA672N                         Real Median Household Income in Massachusetts                                                                            NSA  13-Sep-2022  Annual
-MEHOINUSMDA646N                         Median Household Income in Maryland                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSMDA672N                         Real Median Household Income in Maryland                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSMEA646N                         Median Household Income in Maine                                                                                         NSA  13-Sep-2022  Annual
-MEHOINUSMEA672N                         Real Median Household Income in Maine                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSMIA646N                         Median Household Income in Michigan                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSMIA672N                         Real Median Household Income in Michigan                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSMNA646N                         Median Household Income in Minnesota                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSMNA672N                         Real Median Household Income in Minnesota                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSMOA646N                         Median Household Income in Missouri                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSMOA672N                         Real Median Household Income in Missouri                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSMSA646N                         Median Household Income in Mississippi                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSMSA672N                         Real Median Household Income in Mississippi                                                                              NSA  13-Sep-2022  Annual
-MEHOINUSMTA646N                         Median Household Income in Montana                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSMTA672N                         Real Median Household Income in Montana                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSNCA646N                         Median Household Income in North Carolina                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSNCA672N                         Real Median Household Income in North Carolina                                                                           NSA  13-Sep-2022  Annual
-MEHOINUSNDA646N                         Median Household Income in North Dakota                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSNDA672N                         Real Median Household Income in North Dakota                                                                             NSA  13-Sep-2022  Annual
-MEHOINUSNEA646N                         Median Household Income in Nebraska                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSNEA672N                         Real Median Household Income in Nebraska                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSNHA646N                         Median Household Income in New Hampshire                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSNHA672N                         Real Median Household Income in New Hampshire                                                                            NSA  13-Sep-2022  Annual
-MEHOINUSNJA646N                         Median Household Income in New Jersey                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSNJA672N                         Real Median Household Income in New Jersey                                                                               NSA  13-Sep-2022  Annual
-MEHOINUSNMA646N                         Median Household Income in New Mexico                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSNMA672N                         Real Median Household Income in New Mexico                                                                               NSA  13-Sep-2022  Annual
-MEHOINUSNVA646N                         Median Household Income in Nevada                                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSNVA672N                         Real Median Household Income in Nevada                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSNYA646N                         Median Household Income in New York                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSNYA672N                         Real Median Household Income in New York                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSOHA646N                         Median Household Income in Ohio                                                                                          NSA  13-Sep-2022  Annual
-MEHOINUSOHA672N                         Real Median Household Income in Ohio                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSOKA646N                         Median Household Income in Oklahoma                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSOKA672N                         Real Median Household Income in Oklahoma                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSORA646N                         Median Household Income in Oregon                                                                                        NSA  13-Sep-2022  Annual
-MEHOINUSORA672N                         Real Median Household Income in Oregon                                                                                   NSA  13-Sep-2022  Annual
-MEHOINUSPAA646N                         Median Household Income in Pennsylvania                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSPAA672N                         Real Median Household Income in Pennsylvania                                                                             NSA  13-Sep-2022  Annual
-MEHOINUSRIA646N                         Median Household Income in Rhode Island                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSRIA672N                         Real Median Household Income in Rhode Island                                                                             NSA  13-Sep-2022  Annual
-MEHOINUSSCA646N                         Median Household Income in South Carolina                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSSCA672N                         Real Median Household Income in South Carolina                                                                           NSA  13-Sep-2022  Annual
-MEHOINUSSDA646N                         Median Household Income in South Dakota                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSSDA672N                         Real Median Household Income in South Dakota                                                                             NSA  13-Sep-2022  Annual
-MEHOINUSTNA646N                         Median Household Income in Tennessee                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSTNA672N                         Real Median Household Income in Tennessee                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSTXA646N                         Median Household Income in Texas                                                                                         NSA  13-Sep-2022  Annual
-MEHOINUSTXA672N                         Real Median Household Income in Texas                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSUTA646N                         Median Household Income in Utah                                                                                          NSA  13-Sep-2022  Annual
-MEHOINUSUTA672N                         Real Median Household Income in Utah                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSVAA646N                         Median Household Income in Virginia                                                                                      NSA  13-Sep-2022  Annual
-MEHOINUSVAA672N                         Real Median Household Income in Virginia                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSVTA646N                         Median Household Income in Vermont                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSVTA672N                         Real Median Household Income in Vermont                                                                                  NSA  13-Sep-2022  Annual
-MEHOINUSWAA646N                         Median Household Income in Washington                                                                                    NSA  13-Sep-2022  Annual
-MEHOINUSWAA672N                         Real Median Household Income in Washington                                                                               NSA  13-Sep-2022  Annual
-MEHOINUSWIA646N                         Median Household Income in Wisconsin                                                                                     NSA  13-Sep-2022  Annual
-MEHOINUSWIA672N                         Real Median Household Income in Wisconsin                                                                                NSA  13-Sep-2022  Annual
-MEHOINUSWVA646N                         Median Household Income in West Virginia                                                                                 NSA  13-Sep-2022  Annual
-MEHOINUSWVA672N                         Real Median Household Income in West Virginia                                                                            NSA  13-Sep-2022  Annual
-MEHOINUSWYA646N                         Median Household Income in Wyoming                                                                                       NSA  13-Sep-2022  Annual
-MEHOINUSWYA672N                         Real Median Household Income in Wyoming                                                                                  NSA  13-Sep-2022  Annual
-MEPAINUSA646N                           Median Personal Income in the United States                                                                              NSA  13-Sep-2022  Annual
-MEPAINUSA672N                           Real Median Personal Income in the United States                                                                         NSA  13-Sep-2022  Annual
-MEPAINUSMWA646N                         Median Personal Income in Midwest Census Region                                                                          NSA  13-Sep-2022  Annual
-MEPAINUSMWA672N                         Real Median Personal Income in Midwest Census Region                                                                     NSA  13-Sep-2022  Annual
-MEPAINUSNEA646N                         Median Personal Income in Northeast Census Region                                                                        NSA  13-Sep-2022  Annual
-MEPAINUSNEA672N                         Real Median Personal Income in Northeast Census Region                                                                   NSA  13-Sep-2022  Annual
-MEPAINUSSOA646N                         Median Personal Income in South Census Region                                                                            NSA  13-Sep-2022  Annual
-MEPAINUSSOA672N                         Real Median Personal Income in South Census Region                                                                       NSA  13-Sep-2022  Annual
-MEPAINUSWEA646N                         Median Personal Income in West Census Region                                                                             NSA  13-Sep-2022  Annual
-MEPAINUSWEA672N                         Real Median Personal Income in West Census Region                                                                        NSA  13-Sep-2022  Annual
+GINIAAF                       Income Gini Ratio of Families by Race of Householder, Asian Alone                                                        NSA  13-Sep-2022  Annual         
+GINIAAH                       Income Gini Ratio for Households by Race of Householder, Asian Alone                                                     NSA  13-Sep-2022  Annual         
+GINIAAOICF                    Income Gini Ratio of Families by Race of Householder, Asian Alone or in Combination                                      NSA  13-Sep-2022  Annual         
+GINIAAOICH                    Income Gini Ratio for Households by Race of Householder, Asian Alone or in Combination                                   NSA  13-Sep-2022  Annual         
+GINIALLRF                     Income Gini Ratio of Families by Race of Householder, All Races                                                          NSA  13-Sep-2022  Annual         
+GINIALLRH                     Income Gini Ratio for Households by Race of Householder, All Races                                                       NSA  13-Sep-2022  Annual         
+GINIBAF                       Income Gini Ratio of Families by Race of Householder, Black Alone                                                        NSA  13-Sep-2022  Annual         
+GINIBAH                       Income Gini Ratio for Households by Race of Householder, Black Alone                                                     NSA  13-Sep-2022  Annual         
+GINIBAOICF                    Income Gini Ratio of Families by Race of Householder, Black Alone or in Combination                                      NSA  13-Sep-2022  Annual         
+GINIBAOICH                    Income Gini Ratio for Households by Race of Householder, Black Alone or in Combination                                   NSA  13-Sep-2022  Annual         
+GINIBF                        Income Gini Ratio of Families by Race of Householder, Black (DISCONTINUED)                                               NSA  13-Feb-2012  Annual         
+GINIBH                        Income Gini Ratio for Households by Race of Householder, Black (DISCONTINUED)                                            NSA  13-Feb-2012  Annual         
+GINIHARF                      Income Gini Ratio of Families by Race of Householder, Hispanic Origin (Any Race)                                         NSA  13-Sep-2022  Annual         
+GINIHARH                      Income Gini Ratio for Households by Race of Householder, Hispanic Origin (Any Race)                                      NSA  13-Sep-2022  Annual         
+GINIWAF                       Income Gini Ratio of Families by Race of Householder, White Alone                                                        NSA  13-Sep-2022  Annual         
+GINIWAH                       Income Gini Ratio for Households by Race of Householder, White Alone                                                     NSA  13-Sep-2022  Annual         
+GINIWANHF                     Income Gini Ratio of Families by Race of Householder, White Alone Not Hispanic                                           NSA  13-Sep-2022  Annual         
+GINIWANHH                     Income Gini Ratio for Households by Race of Householder, White Alone Not Hispanic                                        NSA  13-Sep-2022  Annual         
+GINIWAOICH                    Income Gini Ratio for Households by Race of Householder, White Alone or in Combination (DISCONTINUED)                    NSA  17-Sep-2013  Annual         
+GINIWF                        Income Gini Ratio of Families by Race of Householder, White (DISCONTINUED)                                               NSA  13-Feb-2012  Annual         
+GINIWH                        Income Gini Ratio for Households by Race of Householder, White (DISCONTINUED)                                            NSA  13-Feb-2012  Annual         
+GINIWNHF                      Income Gini Ratio of Families by Race of Householder, White Not Hispanic (DISCONTINUED)                                  NSA  13-Feb-2012  Annual         
+GINIWNHH                      Income Gini Ratio for Households by Race of Householder, White Not Hispanic (DISCONTINUED)                               NSA  13-Feb-2012  Annual         
+MAFAINUSA646N                 Mean Family Income in the United States                                                                                  NSA  13-Sep-2022  Annual         
+MAFAINUSA672N                 Real Mean Family Income in the United States                                                                             NSA  13-Sep-2022  Annual         
+MAFAINUSMWA646N               Mean Family Income in Midwest Census Region                                                                              NSA  13-Sep-2022  Annual         
+MAFAINUSMWA672N               Real Mean Family Income in Midwest Census Region                                                                         NSA  13-Sep-2022  Annual         
+MAFAINUSNEA646N               Mean Family Income in Northeast Census Region                                                                            NSA  13-Sep-2022  Annual         
+MAFAINUSNEA672N               Real Mean Family Income in Northeast Census Region                                                                       NSA  13-Sep-2022  Annual         
+MAFAINUSSOA646N               Mean Family Income in South Census Region                                                                                NSA  13-Sep-2022  Annual         
+MAFAINUSSOA672N               Real Mean Family Income in South Census Region                                                                           NSA  13-Sep-2022  Annual         
+MAFAINUSWEA646N               Mean Family Income in West Census Region                                                                                 NSA  13-Sep-2022  Annual         
+MAFAINUSWEA672N               Real Mean Family Income in West Census Region                                                                            NSA  13-Sep-2022  Annual         
+MAPAINUSA646N                 Mean Personal Income in the United States                                                                                NSA  13-Sep-2022  Annual         
+MAPAINUSA672N                 Real Mean Personal Income in the United States                                                                           NSA  13-Sep-2022  Annual         
+MAPAINUSMWA646N               Mean Personal Income in Midwest Census Region                                                                            NSA  13-Sep-2022  Annual         
+MAPAINUSMWA672N               Real Mean Personal Income in Midwest Census Region                                                                       NSA  13-Sep-2022  Annual         
+MAPAINUSNEA646N               Mean Personal Income in Northeast Census Region                                                                          NSA  13-Sep-2022  Annual         
+MAPAINUSNEA672N               Real Mean Personal Income in Northeast Census Region                                                                     NSA  13-Sep-2022  Annual         
+MAPAINUSSOA646N               Mean Personal Income in South Census Region                                                                              NSA  13-Sep-2022  Annual         
+MAPAINUSSOA672N               Real Mean Personal Income in South Census Region                                                                         NSA  13-Sep-2022  Annual         
+MAPAINUSWEA646N               Mean Personal Income in West Census Region                                                                               NSA  13-Sep-2022  Annual         
+MAPAINUSWEA672N               Real Mean Personal Income in West Census Region                                                                          NSA  13-Sep-2022  Annual         
+MEFAINUSA646N                 Median Family Income in the United States                                                                                NSA  13-Sep-2022  Annual         
+MEFAINUSA672N                 Real Median Family Income in the United States                                                                           NSA  13-Sep-2022  Annual         
+MEFAINUSMWA646N               Median Family Income in Midwest Census Region                                                                            NSA  13-Sep-2022  Annual         
+MEFAINUSMWA672N               Real Median Family Income in Midwest Census Region                                                                       NSA  13-Sep-2022  Annual         
+MEFAINUSNEA646N               Median Family Income in Northeast Census Region                                                                          NSA  13-Sep-2022  Annual         
+MEFAINUSNEA672N               Real Median Family Income in Northeast Census Region                                                                     NSA  13-Sep-2022  Annual         
+MEFAINUSSOA646N               Median Family Income in South Census Region                                                                              NSA  13-Sep-2022  Annual         
+MEFAINUSSOA672N               Real Median Family Income in South Census Region                                                                         NSA  13-Sep-2022  Annual         
+MEFAINUSWEA646N               Median Family Income in West Census Region                                                                               NSA  13-Sep-2022  Annual         
+MEFAINUSWEA672N               Real Median Family Income in West Census Region                                                                          NSA  13-Sep-2022  Annual         
+MEHOINUSA646N                 Median Household Income in the United States                                                                             NSA  13-Sep-2022  Annual         
+MEHOINUSA672N                 Real Median Household Income in the United States                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSAKA646N               Median Household Income in Alaska                                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSAKA672N               Real Median Household Income in Alaska                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSALA646N               Median Household Income in Alabama                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSALA672N               Real Median Household Income in Alabama                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSARA646N               Median Household Income in Arkansas                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSARA672N               Real Median Household Income in Arkansas                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSAZA646N               Median Household Income in Arizona                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSAZA672N               Real Median Household Income in Arizona                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSCAA646N               Median Household Income in California                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSCAA672N               Real Median Household Income in California                                                                               NSA  13-Sep-2022  Annual         
+MEHOINUSCOA646N               Median Household Income in Colorado                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSCOA672N               Real Median Household Income in Colorado                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSCTA646N               Median Household Income in Connecticut                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSCTA672N               Real Median Household Income in Connecticut                                                                              NSA  13-Sep-2022  Annual         
+MEHOINUSDCA646N               Median Household Income in District of Columbia                                                                          NSA  13-Sep-2022  Annual         
+MEHOINUSDCA672N               Real Median Household Income in the District of Columbia                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSDEA646N               Median Household Income in Delaware                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSDEA672N               Real Median Household Income in Delaware                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSFLA646N               Median Household Income in Florida                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSFLA672N               Real Median Household Income in Florida                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSGAA646N               Median Household Income in Georgia                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSGAA672N               Real Median Household Income in Georgia                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSHIA646N               Median Household Income in Hawaii                                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSHIA672N               Real Median Household Income in Hawaii                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSIAA646N               Median Household Income in Iowa                                                                                          NSA  13-Sep-2022  Annual         
+MEHOINUSIAA672N               Real Median Household Income in Iowa                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSIDA646N               Median Household Income in Idaho                                                                                         NSA  13-Sep-2022  Annual         
+MEHOINUSIDA672N               Real Median Household Income in Idaho                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSILA646N               Median Household Income in Illinois                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSILA672N               Real Median Household Income in Illinois                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSINA646N               Median Household Income in Indiana                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSINA672N               Real Median Household Income in Indiana                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSKSA646N               Median Household Income in Kansas                                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSKSA672N               Real Median Household Income in Kansas                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSKYA646N               Median Household Income in Kentucky                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSKYA672N               Real Median Household Income in Kentucky                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSLAA646N               Median Household Income in Louisiana                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSLAA672N               Real Median Household Income in Louisiana                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSMAA646N               Median Household Income in Massachusetts                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSMAA672N               Real Median Household Income in Massachusetts                                                                            NSA  13-Sep-2022  Annual         
+MEHOINUSMDA646N               Median Household Income in Maryland                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSMDA672N               Real Median Household Income in Maryland                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSMEA646N               Median Household Income in Maine                                                                                         NSA  13-Sep-2022  Annual         
+MEHOINUSMEA672N               Real Median Household Income in Maine                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSMIA646N               Median Household Income in Michigan                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSMIA672N               Real Median Household Income in Michigan                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSMNA646N               Median Household Income in Minnesota                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSMNA672N               Real Median Household Income in Minnesota                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSMOA646N               Median Household Income in Missouri                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSMOA672N               Real Median Household Income in Missouri                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSMSA646N               Median Household Income in Mississippi                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSMSA672N               Real Median Household Income in Mississippi                                                                              NSA  13-Sep-2022  Annual         
+MEHOINUSMTA646N               Median Household Income in Montana                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSMTA672N               Real Median Household Income in Montana                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSNCA646N               Median Household Income in North Carolina                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSNCA672N               Real Median Household Income in North Carolina                                                                           NSA  13-Sep-2022  Annual         
+MEHOINUSNDA646N               Median Household Income in North Dakota                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSNDA672N               Real Median Household Income in North Dakota                                                                             NSA  13-Sep-2022  Annual         
+MEHOINUSNEA646N               Median Household Income in Nebraska                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSNEA672N               Real Median Household Income in Nebraska                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSNHA646N               Median Household Income in New Hampshire                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSNHA672N               Real Median Household Income in New Hampshire                                                                            NSA  13-Sep-2022  Annual         
+MEHOINUSNJA646N               Median Household Income in New Jersey                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSNJA672N               Real Median Household Income in New Jersey                                                                               NSA  13-Sep-2022  Annual         
+MEHOINUSNMA646N               Median Household Income in New Mexico                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSNMA672N               Real Median Household Income in New Mexico                                                                               NSA  13-Sep-2022  Annual         
+MEHOINUSNVA646N               Median Household Income in Nevada                                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSNVA672N               Real Median Household Income in Nevada                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSNYA646N               Median Household Income in New York                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSNYA672N               Real Median Household Income in New York                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSOHA646N               Median Household Income in Ohio                                                                                          NSA  13-Sep-2022  Annual         
+MEHOINUSOHA672N               Real Median Household Income in Ohio                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSOKA646N               Median Household Income in Oklahoma                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSOKA672N               Real Median Household Income in Oklahoma                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSORA646N               Median Household Income in Oregon                                                                                        NSA  13-Sep-2022  Annual         
+MEHOINUSORA672N               Real Median Household Income in Oregon                                                                                   NSA  13-Sep-2022  Annual         
+MEHOINUSPAA646N               Median Household Income in Pennsylvania                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSPAA672N               Real Median Household Income in Pennsylvania                                                                             NSA  13-Sep-2022  Annual         
+MEHOINUSRIA646N               Median Household Income in Rhode Island                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSRIA672N               Real Median Household Income in Rhode Island                                                                             NSA  13-Sep-2022  Annual         
+MEHOINUSSCA646N               Median Household Income in South Carolina                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSSCA672N               Real Median Household Income in South Carolina                                                                           NSA  13-Sep-2022  Annual         
+MEHOINUSSDA646N               Median Household Income in South Dakota                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSSDA672N               Real Median Household Income in South Dakota                                                                             NSA  13-Sep-2022  Annual         
+MEHOINUSTNA646N               Median Household Income in Tennessee                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSTNA672N               Real Median Household Income in Tennessee                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSTXA646N               Median Household Income in Texas                                                                                         NSA  13-Sep-2022  Annual         
+MEHOINUSTXA672N               Real Median Household Income in Texas                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSUTA646N               Median Household Income in Utah                                                                                          NSA  13-Sep-2022  Annual         
+MEHOINUSUTA672N               Real Median Household Income in Utah                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSVAA646N               Median Household Income in Virginia                                                                                      NSA  13-Sep-2022  Annual         
+MEHOINUSVAA672N               Real Median Household Income in Virginia                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSVTA646N               Median Household Income in Vermont                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSVTA672N               Real Median Household Income in Vermont                                                                                  NSA  13-Sep-2022  Annual         
+MEHOINUSWAA646N               Median Household Income in Washington                                                                                    NSA  13-Sep-2022  Annual         
+MEHOINUSWAA672N               Real Median Household Income in Washington                                                                               NSA  13-Sep-2022  Annual         
+MEHOINUSWIA646N               Median Household Income in Wisconsin                                                                                     NSA  13-Sep-2022  Annual         
+MEHOINUSWIA672N               Real Median Household Income in Wisconsin                                                                                NSA  13-Sep-2022  Annual         
+MEHOINUSWVA646N               Median Household Income in West Virginia                                                                                 NSA  13-Sep-2022  Annual         
+MEHOINUSWVA672N               Real Median Household Income in West Virginia                                                                            NSA  13-Sep-2022  Annual         
+MEHOINUSWYA646N               Median Household Income in Wyoming                                                                                       NSA  13-Sep-2022  Annual         
+MEHOINUSWYA672N               Real Median Household Income in Wyoming                                                                                  NSA  13-Sep-2022  Annual         
+MEPAINUSA646N                 Median Personal Income in the United States                                                                              NSA  13-Sep-2022  Annual         
+MEPAINUSA672N                 Real Median Personal Income in the United States                                                                         NSA  13-Sep-2022  Annual         
+MEPAINUSMWA646N               Median Personal Income in Midwest Census Region                                                                          NSA  13-Sep-2022  Annual         
+MEPAINUSMWA672N               Real Median Personal Income in Midwest Census Region                                                                     NSA  13-Sep-2022  Annual         
+MEPAINUSNEA646N               Median Personal Income in Northeast Census Region                                                                        NSA  13-Sep-2022  Annual         
+MEPAINUSNEA672N               Real Median Personal Income in Northeast Census Region                                                                   NSA  13-Sep-2022  Annual         
+MEPAINUSSOA646N               Median Personal Income in South Census Region                                                                            NSA  13-Sep-2022  Annual         
+MEPAINUSSOA672N               Real Median Personal Income in South Census Region                                                                       NSA  13-Sep-2022  Annual         
+MEPAINUSWEA646N               Median Personal Income in West Census Region                                                                             NSA  13-Sep-2022  Annual         
+MEPAINUSWEA672N               Real Median Personal Income in West Census Region                                                                        NSA  13-Sep-2022  Annual         

@@ -1,5 +1,5 @@
 Id : 472  Daily Federal Funds Rate
-FFHTHIGH                                High Value of the Federal Funds Rate for the Indicated Date Published in The New York Herald-Tribune                     NSA  03-Jul-2020  Daily, 7-Day
-FFHTLOW                                 Low Value of the Federal Funds Rate for the Indicated Date Published in The New York Herald-Tribune                      NSA  03-Jul-2020  Daily, 7-Day
-FFWSJHIGH                               High Value of the Federal Funds Rate for the Indicated Date Published in The Wall Street Journal                         NSA  03-Jul-2020  Daily, 7-Day
-FFWSJLOW                                Low Value of the Federal Funds Rate for the Indicated Date Published in The Wall Street Journal                          NSA  03-Jul-2020  Daily, 7-Day
+FFHTHIGH                      High Value of the Federal Funds Rate for the Indicated Date Published in The New York Herald-Tribune                     NSA  03-Jul-2020  Daily, 7-Day   
+FFHTLOW                       Low Value of the Federal Funds Rate for the Indicated Date Published in The New York Herald-Tribune                      NSA  03-Jul-2020  Daily, 7-Day   
+FFWSJHIGH                     High Value of the Federal Funds Rate for the Indicated Date Published in The Wall Street Journal                         NSA  03-Jul-2020  Daily, 7-Day   
+FFWSJLOW                      Low Value of the Federal Funds Rate for the Indicated Date Published in The Wall Street Journal                          NSA  03-Jul-2020  Daily, 7-Day   

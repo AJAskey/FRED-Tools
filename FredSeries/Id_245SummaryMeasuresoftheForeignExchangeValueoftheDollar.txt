@@ -1,7 +1,7 @@
 Id : 245  Summary Measures of the Foreign Exchange Value of the Dollar
-RTWEXAFEGS                              Real Advanced Foreign Economies Dollar Index                                                                             NSA  01-Dec-2022  Monthly
-RTWEXBGS                                Real Broad Dollar Index                                                                                                  NSA  01-Dec-2022  Monthly
-RTWEXEMEGS                              Real Emerging Market Economies Dollar Index                                                                              NSA  01-Dec-2022  Monthly
-TWEXBPA                                 Real Broad Dollar Index (Goods Only) (DISCONTINUED)                                                                      NSA  02-Jan-2020  Monthly
-TWEXMPA                                 Real Major Dollar Index (Goods Only) (DISCONTINUED)                                                                      NSA  02-Jan-2020  Monthly
-TWEXOPA                                 Real OITP Dollar Index (Goods Only) (DISCONTINUED)                                                                       NSA  02-Jan-2020  Monthly
+RTWEXAFEGS                    Real Advanced Foreign Economies Dollar Index                                                                             NSA  01-Dec-2022  Monthly        
+RTWEXBGS                      Real Broad Dollar Index                                                                                                  NSA  01-Dec-2022  Monthly        
+RTWEXEMEGS                    Real Emerging Market Economies Dollar Index                                                                              NSA  01-Dec-2022  Monthly        
+TWEXBPA                       Real Broad Dollar Index (Goods Only) (DISCONTINUED)                                                                      NSA  02-Jan-2020  Monthly        
+TWEXMPA                       Real Major Dollar Index (Goods Only) (DISCONTINUED)                                                                      NSA  02-Jan-2020  Monthly        
+TWEXOPA                       Real OITP Dollar Index (Goods Only) (DISCONTINUED)                                                                       NSA  02-Jan-2020  Monthly        

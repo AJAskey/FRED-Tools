@@ -1,93 +1,93 @@
 Id : 296  Housing Vacancies and Homeownership
-ANHPIHORUSQ156N                         Homeownership Rates by Race and Ethnicity: All Other Races: Asian, Native Hawaiian and Pacific Islander Alone in the Un  NSA  02-Nov-2022  Quarterly
-AORHORUSQ156N                           Homeownership Rates by Race and Ethnicity: All Other Races: Total in the United States                                   NSA  02-Nov-2022  Quarterly
-BOAAAHORUSQ156N                         Homeownership Rates by Race and Ethnicity: Black Alone in the United States                                              NSA  02-Nov-2022  Quarterly
-EOCCMWQ176N                             Housing Inventory Estimate: Occupied Housing Units in the Midwest Census Region                                          NSA  02-Nov-2022  Quarterly
-EOCCNEQ176N                             Housing Inventory Estimate: Occupied Housing Units in the Northeast Census Region                                        NSA  02-Nov-2022  Quarterly
-EOCCSOQ176N                             Housing Inventory Estimate: Occupied Housing Units in the South Census Region                                            NSA  02-Nov-2022  Quarterly
-EOCCUSEMWQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the Midwest Census Region NSA  02-Nov-2022  Quarterly
-EOCCUSENEQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the Northeast Census Reg  NSA  02-Nov-2022  Quarterly
-EOCCUSESOQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the South Census Region   NSA  02-Nov-2022  Quarterly
-EOCCUSEUSQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the United States         NSA  02-Nov-2022  Quarterly
-EOCCUSEWEQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the West Census Region    NSA  02-Nov-2022  Quarterly
-EOCCUSQ176N                             Housing Inventory Estimate: Occupied Housing Units in the United States                                                  NSA  02-Nov-2022  Quarterly
-EOCCWEQ176N                             Housing Inventory Estimate: Occupied Housing Units in the West Census Region                                             NSA  02-Nov-2022  Quarterly
-EOFFMARMWQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the Midwest Census Region                        NSA  02-Nov-2022  Quarterly
-EOFFMARNEQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the Northeast Census Region                      NSA  02-Nov-2022  Quarterly
-EOFFMARSOQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the South Census Region                          NSA  02-Nov-2022  Quarterly
-EOFFMARUSQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the United States                                NSA  02-Nov-2022  Quarterly
-EOFFMARWEQ176N                          Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the West Census Region                           NSA  02-Nov-2022  Quarterly
-EOTHMWQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the Midwest Census  NSA  02-Nov-2022  Quarterly
-EOTHNEQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the Northeast Cens  NSA  02-Nov-2022  Quarterly
-EOTHSOQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the South Census R  NSA  02-Nov-2022  Quarterly
-EOTHUSQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the United States   NSA  02-Nov-2022  Quarterly
-EOTHWEQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the West Census Re  NSA  02-Nov-2022  Quarterly
-EOWNOCCMWQ176N                          Housing Inventory Estimate: Owner Occupied Housing Units in the Midwest Census Region                                    NSA  02-Nov-2022  Quarterly
-EOWNOCCNEQ176N                          Housing Inventory Estimate: Owner Occupied Housing Units in the Northeast Census Region                                  NSA  02-Nov-2022  Quarterly
-EOWNOCCSOQ176N                          Housing Inventory Estimate: Owner Occupied Housing Units in the South Census Region                                      NSA  02-Nov-2022  Quarterly
-EOWNOCCUSQ176N                          Housing Inventory Estimate: Owner Occupied Housing Units in the United States                                            NSA  02-Nov-2022  Quarterly
-EOWNOCCWEQ176N                          Housing Inventory Estimate: Owner Occupied Housing Units in the West Census Region                                       NSA  02-Nov-2022  Quarterly
-ERENTMWQ176N                            Housing Inventory Estimate: Vacant Housing Units for Rent in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly
-ERENTNEQ176N                            Housing Inventory Estimate: Vacant Housing Units for Rent in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly
-ERENTSOQ176N                            Housing Inventory Estimate: Vacant Housing Units for Rent in the South Census Region                                     NSA  02-Nov-2022  Quarterly
-ERENTUSQ176N                            Housing Inventory Estimate: Vacant Housing Units for Rent in the United States                                           NSA  02-Nov-2022  Quarterly
-ERENTWEQ176N                            Housing Inventory Estimate: Vacant Housing Units for Rent in the West Census Region                                      NSA  02-Nov-2022  Quarterly
-ERNTOCCMWQ176N                          Housing Inventory Estimate: Renter Occupied Housing Units in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly
-ERNTOCCNEQ176N                          Housing Inventory Estimate: Renter Occupied Housing Units in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly
-ERNTOCCSOQ176N                          Housing Inventory Estimate: Renter Occupied Housing Units in the South Census Region                                     NSA  02-Nov-2022  Quarterly
-ERNTOCCUSQ176N                          Housing Inventory Estimate: Renter Occupied Housing Units in the United States                                           NSA  02-Nov-2022  Quarterly
-ERNTOCCWEQ176N                          Housing Inventory Estimate: Renter Occupied Housing Units in the West Census Region                                      NSA  02-Nov-2022  Quarterly
-ERNTSLDMWQ176N                          Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the Midwest Census Region           NSA  02-Nov-2022  Quarterly
-ERNTSLDNEQ176N                          Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the Northeast Census Region         NSA  02-Nov-2022  Quarterly
-ERNTSLDSOQ176N                          Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the South Census Region             NSA  02-Nov-2022  Quarterly
-ERNTSLDUSQ176N                          Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the United States                   NSA  02-Nov-2022  Quarterly
-ERNTSLDWEQ176N                          Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the West Census Region              NSA  02-Nov-2022  Quarterly
-ESALEMWQ176N                            Housing Inventory Estimate: Vacant Housing Units for Sale in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly
-ESALENEQ176N                            Housing Inventory Estimate: Vacant Housing Units for Sale in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly
-ESALESOQ176N                            Housing Inventory Estimate: Vacant Housing Units for Sale in the South Census Region                                     NSA  02-Nov-2022  Quarterly
-ESALEUSQ176N                            Housing Inventory Estimate: Vacant Housing Units for Sale in the United States                                           NSA  02-Nov-2022  Quarterly
-ESALEWEQ176N                            Housing Inventory Estimate: Vacant Housing Units for Sale in the West Census Region                                      NSA  02-Nov-2022  Quarterly
-ESEASONMWQ176N                          Housing Inventory Estimate: Seasonal Housing Units in the Midwest Census Region                                          NSA  02-Nov-2022  Quarterly
-ESEASONNEQ176N                          Housing Inventory Estimate: Seasonal Housing Units in the Northeast Census Region                                        NSA  02-Nov-2022  Quarterly
-ESEASONSOQ176N                          Housing Inventory Estimate: Seasonal Housing Units in the South Census Region                                            NSA  02-Nov-2022  Quarterly
-ESEASONUSQ176N                          Housing Inventory Estimate: Seasonal Housing Units in the United States                                                  NSA  02-Nov-2022  Quarterly
-ESEASONWEQ176N                          Housing Inventory Estimate: Seasonal Housing Units in the West Census Region                                             NSA  02-Nov-2022  Quarterly
-ETOTALMWQ176N                           Housing Inventory Estimate: Total Housing Units in the Midwest Census Region                                             NSA  02-Nov-2022  Quarterly
-ETOTALNEQ176N                           Housing Inventory Estimate: Total Housing Units in the Northeast Census Region                                           NSA  02-Nov-2022  Quarterly
-ETOTALSOQ176N                           Housing Inventory Estimate: Total Housing Units in the South Census Region                                               NSA  02-Nov-2022  Quarterly
-ETOTALUSQ176N                           Housing Inventory Estimate: Total Housing Units in the United States                                                     NSA  02-Nov-2022  Quarterly
-ETOTALWEQ176N                           Housing Inventory Estimate: Total Housing Units in the West Census Region                                                NSA  02-Nov-2022  Quarterly
-EUREMWQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the Midwest Censu  NSA  02-Nov-2022  Quarterly
-EURENEQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the Northeast Cen  NSA  02-Nov-2022  Quarterly
-EURESOQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the South Census   NSA  02-Nov-2022  Quarterly
-EUREUSQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the United States  NSA  02-Nov-2022  Quarterly
-EUREWEQ176N                             Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the West Census R  NSA  02-Nov-2022  Quarterly
-EVACANTMWQ176N                          Housing Inventory Estimate: Vacant Housing Units in the Midwest Census Region                                            NSA  02-Nov-2022  Quarterly
-EVACANTNEQ176N                          Housing Inventory Estimate: Vacant Housing Units in the Northeast Census Region                                          NSA  02-Nov-2022  Quarterly
-EVACANTSOQ176N                          Housing Inventory Estimate: Vacant Housing Units in the South Census Region                                              NSA  02-Nov-2022  Quarterly
-EVACANTUSQ176N                          Housing Inventory Estimate: Vacant Housing Units in the United States                                                    NSA  02-Nov-2022  Quarterly
-EVACANTWEQ176N                          Housing Inventory Estimate: Vacant Housing Units in the West Census Region                                               NSA  02-Nov-2022  Quarterly
-EYRVACMWQ176N                           Housing Inventory Estimate: Year-Round Vacant Housing Units in the Midwest Census Region                                 NSA  02-Nov-2022  Quarterly
-EYRVACNEQ176N                           Housing Inventory Estimate: Year-Round Vacant Housing Units in the Northeast Census Region                               NSA  02-Nov-2022  Quarterly
-EYRVACSOQ176N                           Housing Inventory Estimate: Year-Round Vacant Housing Units in the South Census Region                                   NSA  02-Nov-2022  Quarterly
-EYRVACUSQ176N                           Housing Inventory Estimate: Year-Round Vacant Housing Units in the United States                                         NSA  02-Nov-2022  Quarterly
-EYRVACWEQ176N                           Housing Inventory Estimate: Year-Round Vacant Housing Units in the West Census Region                                    NSA  02-Nov-2022  Quarterly
-HOLHORUSQ156N                           Homeownership Rates by Race and Ethnicity: Hispanic (of Any Race) in the United States                                   NSA  02-Nov-2022  Quarterly
-NHWAHORUSQ156N                          Homeownership Rates by Race and Ethnicity: Non-Hispanic White Alone in the United States                                 NSA  02-Nov-2022  Quarterly
-RHORMWQ156N                             Homeownership Rate in the Midwest Census Region                                                                          NSA  02-Nov-2022  Quarterly
-RHORNEQ156N                             Homeownership Rate in the Northeast Census Region                                                                        NSA  02-Nov-2022  Quarterly
-RHORSOQ156N                             Homeownership Rate in the South Census Region                                                                            NSA  02-Nov-2022  Quarterly
-RHORUSQ156N                             Homeownership Rate in the United States                                                                                  NSA  02-Nov-2022  Quarterly
-RHORWEQ156N                             Homeownership Rate in the West Census Region                                                                             NSA  02-Nov-2022  Quarterly
-RHVRMWQ156N                             Homeowner Vacancy Rate in the Midwest Census Region                                                                      NSA  02-Nov-2022  Quarterly
-RHVRNEQ156N                             Homeowner Vacancy Rate in the Northeast Census Region                                                                    NSA  02-Nov-2022  Quarterly
-RHVRSOQ156N                             Homeowner Vacancy Rate in the South Census Region                                                                        NSA  02-Nov-2022  Quarterly
-RHVRUSQ156N                             Homeowner Vacancy Rate in the United States                                                                              NSA  02-Nov-2022  Quarterly
-RHVRWEQ156N                             Homeowner Vacancy Rate in the West Census Region                                                                         NSA  02-Nov-2022  Quarterly
-RRVRMWQ156N                             Rental Vacancy Rate in the Midwest Census Region                                                                         NSA  02-Nov-2022  Quarterly
-RRVRNEQ156N                             Rental Vacancy Rate in the Northeast Census Region                                                                       NSA  02-Nov-2022  Quarterly
-RRVRSOQ156N                             Rental Vacancy Rate in the South Census Region                                                                           NSA  02-Nov-2022  Quarterly
-RRVRUSQ156N                             Rental Vacancy Rate in the United States                                                                                 NSA  02-Nov-2022  Quarterly
-RRVRWEQ156N                             Rental Vacancy Rate in the West Census Region                                                                            NSA  02-Nov-2022  Quarterly
-RSAHORUSQ156S                           Homeownership Rate in the United States                                                                                  SA   02-Nov-2022  Quarterly
-TTLHHM156N                              Household Estimates                                                                                                      NSA  02-Nov-2022  Monthly
+ANHPIHORUSQ156N               Homeownership Rates by Race and Ethnicity: All Other Races: Asian, Native Hawaiian and Pacific Islander Alone in the Un  NSA  02-Nov-2022  Quarterly      
+AORHORUSQ156N                 Homeownership Rates by Race and Ethnicity: All Other Races: Total in the United States                                   NSA  02-Nov-2022  Quarterly      
+BOAAAHORUSQ156N               Homeownership Rates by Race and Ethnicity: Black Alone in the United States                                              NSA  02-Nov-2022  Quarterly      
+EOCCMWQ176N                   Housing Inventory Estimate: Occupied Housing Units in the Midwest Census Region                                          NSA  02-Nov-2022  Quarterly      
+EOCCNEQ176N                   Housing Inventory Estimate: Occupied Housing Units in the Northeast Census Region                                        NSA  02-Nov-2022  Quarterly      
+EOCCSOQ176N                   Housing Inventory Estimate: Occupied Housing Units in the South Census Region                                            NSA  02-Nov-2022  Quarterly      
+EOCCUSEMWQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the Midwest Census Region NSA  02-Nov-2022  Quarterly      
+EOCCUSENEQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the Northeast Census Reg  NSA  02-Nov-2022  Quarterly      
+EOCCUSESOQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the South Census Region   NSA  02-Nov-2022  Quarterly      
+EOCCUSEUSQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the United States         NSA  02-Nov-2022  Quarterly      
+EOCCUSEWEQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market and for Occasional Use in the West Census Region    NSA  02-Nov-2022  Quarterly      
+EOCCUSQ176N                   Housing Inventory Estimate: Occupied Housing Units in the United States                                                  NSA  02-Nov-2022  Quarterly      
+EOCCWEQ176N                   Housing Inventory Estimate: Occupied Housing Units in the West Census Region                                             NSA  02-Nov-2022  Quarterly      
+EOFFMARMWQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the Midwest Census Region                        NSA  02-Nov-2022  Quarterly      
+EOFFMARNEQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the Northeast Census Region                      NSA  02-Nov-2022  Quarterly      
+EOFFMARSOQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the South Census Region                          NSA  02-Nov-2022  Quarterly      
+EOFFMARUSQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the United States                                NSA  02-Nov-2022  Quarterly      
+EOFFMARWEQ176N                Housing Inventory Estimate: Vacant Housing Units Held Off the Market in the West Census Region                           NSA  02-Nov-2022  Quarterly      
+EOTHMWQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the Midwest Census  NSA  02-Nov-2022  Quarterly      
+EOTHNEQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the Northeast Cens  NSA  02-Nov-2022  Quarterly      
+EOTHSOQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the South Census R  NSA  02-Nov-2022  Quarterly      
+EOTHUSQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the United States   NSA  02-Nov-2022  Quarterly      
+EOTHWEQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Vacant for Other Reasons in the West Census Re  NSA  02-Nov-2022  Quarterly      
+EOWNOCCMWQ176N                Housing Inventory Estimate: Owner Occupied Housing Units in the Midwest Census Region                                    NSA  02-Nov-2022  Quarterly      
+EOWNOCCNEQ176N                Housing Inventory Estimate: Owner Occupied Housing Units in the Northeast Census Region                                  NSA  02-Nov-2022  Quarterly      
+EOWNOCCSOQ176N                Housing Inventory Estimate: Owner Occupied Housing Units in the South Census Region                                      NSA  02-Nov-2022  Quarterly      
+EOWNOCCUSQ176N                Housing Inventory Estimate: Owner Occupied Housing Units in the United States                                            NSA  02-Nov-2022  Quarterly      
+EOWNOCCWEQ176N                Housing Inventory Estimate: Owner Occupied Housing Units in the West Census Region                                       NSA  02-Nov-2022  Quarterly      
+ERENTMWQ176N                  Housing Inventory Estimate: Vacant Housing Units for Rent in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly      
+ERENTNEQ176N                  Housing Inventory Estimate: Vacant Housing Units for Rent in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly      
+ERENTSOQ176N                  Housing Inventory Estimate: Vacant Housing Units for Rent in the South Census Region                                     NSA  02-Nov-2022  Quarterly      
+ERENTUSQ176N                  Housing Inventory Estimate: Vacant Housing Units for Rent in the United States                                           NSA  02-Nov-2022  Quarterly      
+ERENTWEQ176N                  Housing Inventory Estimate: Vacant Housing Units for Rent in the West Census Region                                      NSA  02-Nov-2022  Quarterly      
+ERNTOCCMWQ176N                Housing Inventory Estimate: Renter Occupied Housing Units in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly      
+ERNTOCCNEQ176N                Housing Inventory Estimate: Renter Occupied Housing Units in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly      
+ERNTOCCSOQ176N                Housing Inventory Estimate: Renter Occupied Housing Units in the South Census Region                                     NSA  02-Nov-2022  Quarterly      
+ERNTOCCUSQ176N                Housing Inventory Estimate: Renter Occupied Housing Units in the United States                                           NSA  02-Nov-2022  Quarterly      
+ERNTOCCWEQ176N                Housing Inventory Estimate: Renter Occupied Housing Units in the West Census Region                                      NSA  02-Nov-2022  Quarterly      
+ERNTSLDMWQ176N                Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the Midwest Census Region           NSA  02-Nov-2022  Quarterly      
+ERNTSLDNEQ176N                Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the Northeast Census Region         NSA  02-Nov-2022  Quarterly      
+ERNTSLDSOQ176N                Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the South Census Region             NSA  02-Nov-2022  Quarterly      
+ERNTSLDUSQ176N                Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the United States                   NSA  02-Nov-2022  Quarterly      
+ERNTSLDWEQ176N                Housing Inventory Estimate: Vacant Housing Units Rented or Sold, Not Yet Occupied in the West Census Region              NSA  02-Nov-2022  Quarterly      
+ESALEMWQ176N                  Housing Inventory Estimate: Vacant Housing Units for Sale in the Midwest Census Region                                   NSA  02-Nov-2022  Quarterly      
+ESALENEQ176N                  Housing Inventory Estimate: Vacant Housing Units for Sale in the Northeast Census Region                                 NSA  02-Nov-2022  Quarterly      
+ESALESOQ176N                  Housing Inventory Estimate: Vacant Housing Units for Sale in the South Census Region                                     NSA  02-Nov-2022  Quarterly      
+ESALEUSQ176N                  Housing Inventory Estimate: Vacant Housing Units for Sale in the United States                                           NSA  02-Nov-2022  Quarterly      
+ESALEWEQ176N                  Housing Inventory Estimate: Vacant Housing Units for Sale in the West Census Region                                      NSA  02-Nov-2022  Quarterly      
+ESEASONMWQ176N                Housing Inventory Estimate: Seasonal Housing Units in the Midwest Census Region                                          NSA  02-Nov-2022  Quarterly      
+ESEASONNEQ176N                Housing Inventory Estimate: Seasonal Housing Units in the Northeast Census Region                                        NSA  02-Nov-2022  Quarterly      
+ESEASONSOQ176N                Housing Inventory Estimate: Seasonal Housing Units in the South Census Region                                            NSA  02-Nov-2022  Quarterly      
+ESEASONUSQ176N                Housing Inventory Estimate: Seasonal Housing Units in the United States                                                  NSA  02-Nov-2022  Quarterly      
+ESEASONWEQ176N                Housing Inventory Estimate: Seasonal Housing Units in the West Census Region                                             NSA  02-Nov-2022  Quarterly      
+ETOTALMWQ176N                 Housing Inventory Estimate: Total Housing Units in the Midwest Census Region                                             NSA  02-Nov-2022  Quarterly      
+ETOTALNEQ176N                 Housing Inventory Estimate: Total Housing Units in the Northeast Census Region                                           NSA  02-Nov-2022  Quarterly      
+ETOTALSOQ176N                 Housing Inventory Estimate: Total Housing Units in the South Census Region                                               NSA  02-Nov-2022  Quarterly      
+ETOTALUSQ176N                 Housing Inventory Estimate: Total Housing Units in the United States                                                     NSA  02-Nov-2022  Quarterly      
+ETOTALWEQ176N                 Housing Inventory Estimate: Total Housing Units in the West Census Region                                                NSA  02-Nov-2022  Quarterly      
+EUREMWQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the Midwest Censu  NSA  02-Nov-2022  Quarterly      
+EURENEQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the Northeast Cen  NSA  02-Nov-2022  Quarterly      
+EURESOQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the South Census   NSA  02-Nov-2022  Quarterly      
+EUREUSQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the United States  NSA  02-Nov-2022  Quarterly      
+EUREWEQ176N                   Housing Inventory Estimate: Vacant Housing Units Held Off the Market and Usual Residence Elsewhere in the West Census R  NSA  02-Nov-2022  Quarterly      
+EVACANTMWQ176N                Housing Inventory Estimate: Vacant Housing Units in the Midwest Census Region                                            NSA  02-Nov-2022  Quarterly      
+EVACANTNEQ176N                Housing Inventory Estimate: Vacant Housing Units in the Northeast Census Region                                          NSA  02-Nov-2022  Quarterly      
+EVACANTSOQ176N                Housing Inventory Estimate: Vacant Housing Units in the South Census Region                                              NSA  02-Nov-2022  Quarterly      
+EVACANTUSQ176N                Housing Inventory Estimate: Vacant Housing Units in the United States                                                    NSA  02-Nov-2022  Quarterly      
+EVACANTWEQ176N                Housing Inventory Estimate: Vacant Housing Units in the West Census Region                                               NSA  02-Nov-2022  Quarterly      
+EYRVACMWQ176N                 Housing Inventory Estimate: Year-Round Vacant Housing Units in the Midwest Census Region                                 NSA  02-Nov-2022  Quarterly      
+EYRVACNEQ176N                 Housing Inventory Estimate: Year-Round Vacant Housing Units in the Northeast Census Region                               NSA  02-Nov-2022  Quarterly      
+EYRVACSOQ176N                 Housing Inventory Estimate: Year-Round Vacant Housing Units in the South Census Region                                   NSA  02-Nov-2022  Quarterly      
+EYRVACUSQ176N                 Housing Inventory Estimate: Year-Round Vacant Housing Units in the United States                                         NSA  02-Nov-2022  Quarterly      
+EYRVACWEQ176N                 Housing Inventory Estimate: Year-Round Vacant Housing Units in the West Census Region                                    NSA  02-Nov-2022  Quarterly      
+HOLHORUSQ156N                 Homeownership Rates by Race and Ethnicity: Hispanic (of Any Race) in the United States                                   NSA  02-Nov-2022  Quarterly      
+NHWAHORUSQ156N                Homeownership Rates by Race and Ethnicity: Non-Hispanic White Alone in the United States                                 NSA  02-Nov-2022  Quarterly      
+RHORMWQ156N                   Homeownership Rate in the Midwest Census Region                                                                          NSA  02-Nov-2022  Quarterly      
+RHORNEQ156N                   Homeownership Rate in the Northeast Census Region                                                                        NSA  02-Nov-2022  Quarterly      
+RHORSOQ156N                   Homeownership Rate in the South Census Region                                                                            NSA  02-Nov-2022  Quarterly      
+RHORUSQ156N                   Homeownership Rate in the United States                                                                                  NSA  02-Nov-2022  Quarterly      
+RHORWEQ156N                   Homeownership Rate in the West Census Region                                                                             NSA  02-Nov-2022  Quarterly      
+RHVRMWQ156N                   Homeowner Vacancy Rate in the Midwest Census Region                                                                      NSA  02-Nov-2022  Quarterly      
+RHVRNEQ156N                   Homeowner Vacancy Rate in the Northeast Census Region                                                                    NSA  02-Nov-2022  Quarterly      
+RHVRSOQ156N                   Homeowner Vacancy Rate in the South Census Region                                                                        NSA  02-Nov-2022  Quarterly      
+RHVRUSQ156N                   Homeowner Vacancy Rate in the United States                                                                              NSA  02-Nov-2022  Quarterly      
+RHVRWEQ156N                   Homeowner Vacancy Rate in the West Census Region                                                                         NSA  02-Nov-2022  Quarterly      
+RRVRMWQ156N                   Rental Vacancy Rate in the Midwest Census Region                                                                         NSA  02-Nov-2022  Quarterly      
+RRVRNEQ156N                   Rental Vacancy Rate in the Northeast Census Region                                                                       NSA  02-Nov-2022  Quarterly      
+RRVRSOQ156N                   Rental Vacancy Rate in the South Census Region                                                                           NSA  02-Nov-2022  Quarterly      
+RRVRUSQ156N                   Rental Vacancy Rate in the United States                                                                                 NSA  02-Nov-2022  Quarterly      
+RRVRWEQ156N                   Rental Vacancy Rate in the West Census Region                                                                            NSA  02-Nov-2022  Quarterly      
+RSAHORUSQ156S                 Homeownership Rate in the United States                                                                                  SA   02-Nov-2022  Quarterly      
+TTLHHM156N                    Household Estimates                                                                                                      NSA  02-Nov-2022  Monthly        

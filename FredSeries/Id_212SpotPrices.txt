@@ -1,45 +1,45 @@
 Id : 212  Spot Prices
-ACOILBRENTEU                            Crude Oil Prices: Brent - Europe                                                                                         NSA  05-Jan-2022  Annual
-ACOILWTICO                              Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  05-Jan-2022  Annual
-ADFUELLA                                Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  05-Jan-2022  Annual
-ADFUELNYH                               Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  05-Jan-2022  Annual
-ADFUELUSGULF                            Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  05-Jan-2022  Annual
-AGASNYH                                 Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  05-Jan-2022  Annual
-AGASUSGULF                              Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  05-Jan-2022  Annual
-AHOILNYH                                No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  05-Jan-2022  Annual
-AJFUELUSGULF                            Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  05-Jan-2022  Annual
-APROPANEMBTX                            Propane Prices: Mont Belvieu, Texas                                                                                      NSA  05-Jan-2022  Annual
-ARGASLA                                 Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  05-Jan-2022  Annual
-DCOILBRENTEU                            Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Daily
-DCOILWTICO                              Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Daily
-DDFUELLA                                Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Daily
-DDFUELNYH                               Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Daily
-DDFUELUSGULF                            Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Daily
-DGASNYH                                 Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Daily
-DGASUSGULF                              Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Daily
-DHOILNYH                                No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Daily
-DJFUELUSGULF                            Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Daily
-DPROPANEMBTX                            Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Daily
-DRGASLA                                 Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Daily
-MCOILBRENTEU                            Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Monthly
-MCOILWTICO                              Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Monthly
-MDFUELLA                                Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Monthly
-MDFUELNYH                               Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Monthly
-MDFUELUSGULF                            Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Monthly
-MGASNYH                                 Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Monthly
-MGASUSGULF                              Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Monthly
-MHOILNYH                                No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Monthly
-MJFUELUSGULF                            Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Monthly
-MPROPANEMBTX                            Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Monthly
-MRGASLA                                 Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Monthly
-WCOILBRENTEU                            Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Weekly, Ending Friday
-WCOILWTICO                              Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Weekly, Ending Friday
-WDFUELLA                                Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
-WDFUELNYH                               Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Weekly, Ending Friday
-WDFUELUSGULF                            Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Weekly, Ending Friday
-WGASNYH                                 Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
-WGASUSGULF                              Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
-WHOILNYH                                No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Weekly, Ending Friday
-WJFUELUSGULF                            Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Weekly, Ending Friday
-WPROPANEMBTX                            Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Weekly, Ending Friday
-WRGASLA                                 Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Weekly, Ending Friday
+ACOILBRENTEU                  Crude Oil Prices: Brent - Europe                                                                                         NSA  05-Jan-2022  Annual         
+ACOILWTICO                    Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  05-Jan-2022  Annual         
+ADFUELLA                      Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  05-Jan-2022  Annual         
+ADFUELNYH                     Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  05-Jan-2022  Annual         
+ADFUELUSGULF                  Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  05-Jan-2022  Annual         
+AGASNYH                       Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  05-Jan-2022  Annual         
+AGASUSGULF                    Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  05-Jan-2022  Annual         
+AHOILNYH                      No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  05-Jan-2022  Annual         
+AJFUELUSGULF                  Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  05-Jan-2022  Annual         
+APROPANEMBTX                  Propane Prices: Mont Belvieu, Texas                                                                                      NSA  05-Jan-2022  Annual         
+ARGASLA                       Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  05-Jan-2022  Annual         
+DCOILBRENTEU                  Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Daily          
+DCOILWTICO                    Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Daily          
+DDFUELLA                      Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Daily          
+DDFUELNYH                     Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Daily          
+DDFUELUSGULF                  Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Daily          
+DGASNYH                       Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Daily          
+DGASUSGULF                    Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Daily          
+DHOILNYH                      No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Daily          
+DJFUELUSGULF                  Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Daily          
+DPROPANEMBTX                  Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Daily          
+DRGASLA                       Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Daily          
+MCOILBRENTEU                  Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Monthly        
+MCOILWTICO                    Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Monthly        
+MDFUELLA                      Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Monthly        
+MDFUELNYH                     Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Monthly        
+MDFUELUSGULF                  Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Monthly        
+MGASNYH                       Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Monthly        
+MGASUSGULF                    Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Monthly        
+MHOILNYH                      No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Monthly        
+MJFUELUSGULF                  Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Monthly        
+MPROPANEMBTX                  Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Monthly        
+MRGASLA                       Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Monthly        
+WCOILBRENTEU                  Crude Oil Prices: Brent - Europe                                                                                         NSA  07-Dec-2022  Weekly, Ending Friday
+WCOILWTICO                    Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma                                                      NSA  07-Dec-2022  Weekly, Ending Friday
+WDFUELLA                      Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
+WDFUELNYH                     Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor                                                               NSA  07-Dec-2022  Weekly, Ending Friday
+WDFUELUSGULF                  Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast                                                               NSA  07-Dec-2022  Weekly, Ending Friday
+WGASNYH                       Conventional Gasoline Prices: New York Harbor, Regular                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
+WGASUSGULF                    Conventional Gasoline Prices: U.S. Gulf Coast, Regular                                                                   NSA  07-Dec-2022  Weekly, Ending Friday
+WHOILNYH                      No. 2 Heating Oil Prices: New York Harbor                                                                                NSA  07-Dec-2022  Weekly, Ending Friday
+WJFUELUSGULF                  Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast                                                                           NSA  07-Dec-2022  Weekly, Ending Friday
+WPROPANEMBTX                  Propane Prices: Mont Belvieu, Texas                                                                                      NSA  07-Dec-2022  Weekly, Ending Friday
+WRGASLA                       Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Prices: Regular Gasoline: Los Angeles                     NSA  07-Dec-2022  Weekly, Ending Friday

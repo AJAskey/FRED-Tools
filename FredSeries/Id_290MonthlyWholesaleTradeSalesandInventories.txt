@@ -1,221 +1,221 @@
 Id : 290  Monthly Wholesale Trade: Sales and Inventories
-I4231IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly, End of Month
-I4231IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly, End of Month
-I4232IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly, End of Month
-I4232IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly, End of Month
-I4233IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly, End of Month
-I4233IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly, End of Month
-I42343M144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
-I42343M144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
-I4234IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
-I4234IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
-I4235IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly, End of Month
-I4235IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly, End of Month
-I4236IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly, End of Month
-I4236IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly, End of Month
-I4237IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly, End of Month
-I4237IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly, End of Month
-I4238IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly, End of Month
-I4238IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly, End of Month
-I4239IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly, End of Month
-I4239IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly, End of Month
-I423IMM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        NSA  09-Dec-2022  Monthly, End of Month
-I423IMM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        SA   09-Dec-2022  Monthly, End of Month
-I4241IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly, End of Month
-I4241IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly, End of Month
-I4242IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly, End of Month
-I4242IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly, End of Month
-I4243IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly, End of Month
-I4243IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly, End of Month
-I4244IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly, End of Month
-I4244IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly, End of Month
-I4245IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly, End of Month
-I4245IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly, End of Month
-I4246IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly, End of Month
-I4246IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly, End of Month
-I4247IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly, End of Month
-I4247IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly, End of Month
-I4248IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly, End of Month
-I4248IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly, End of Month
-I4249IM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly, End of Month
-I4249IM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly, End of Month
-I424IMM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     NSA  09-Dec-2022  Monthly, End of Month
-I424IMM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     SA   09-Dec-2022  Monthly, End of Month
-I42IMNM144NCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 NSA  09-Dec-2022  Monthly, End of Month
-I42IMSM144SCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 SA   09-Dec-2022  Monthly, End of Month
-M4231MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly
-M4232MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  NSA  09-Dec-2022  Monthly
-M4233MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly
-M42343M157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-M4234MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-M4235MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly
-M4236MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly
-M4237MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly
-M4238MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly
-M4239MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales NSA  09-Dec-2022  Monthly
-M423MPM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              NSA  09-Dec-2022  Monthly
-M4241MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales NSA  09-Dec-2022  Monthly
-M4242MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly
-M4243MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly
-M4244MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly
-M4245MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  NSA  09-Dec-2022  Monthly
-M4246MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly
-M4247MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly
-M4248MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly
-M4249MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly
-M424MPM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           NSA  09-Dec-2022  Monthly
-M42MPCM157NCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       NSA  09-Dec-2022  Monthly
-O4231MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly, End of Month
-O4232MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly, End of Month
-O4233MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly, End of Month
-O42343M157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
-O4234MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
-O4235MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly, End of Month
-O4236MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly, End of Month
-O4237MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly, End of Month
-O4238MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly, End of Month
-O4239MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly, End of Month
-O423MPM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        SA   09-Dec-2022  Monthly, End of Month
-O4241MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly, End of Month
-O4242MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly, End of Month
-O4243MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly, End of Month
-O4244MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly, End of Month
-O4245MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly, End of Month
-O4246MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly, End of Month
-O4247MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly, End of Month
-O4248MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly, End of Month
-O4249MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly, End of Month
-O424MPM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     SA   09-Dec-2022  Monthly, End of Month
-O42MPCM157SCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 SA   09-Dec-2022  Monthly, End of Month
-P4231MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly
-P4232MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  SA   09-Dec-2022  Monthly
-P4233MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly
-P42343M157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-P4234MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-P4235MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly
-P4236MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly
-P4237MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly
-P4238MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly
-P4239MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales SA   09-Dec-2022  Monthly
-P423MPM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              SA   09-Dec-2022  Monthly
-P4241MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales SA   09-Dec-2022  Monthly
-P4242MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly
-P4243MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly
-P4244MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly
-P4245MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  SA   09-Dec-2022  Monthly
-P4246MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly
-P4247MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly
-P4248MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly
-P4249MM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly
-P424MPM157SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           SA   09-Dec-2022  Monthly
-P42MPCM157SCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       SA   09-Dec-2022  Monthly
-R4231IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly
-R4231IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly
-R4232IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly
-R4232IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly
-R4233IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly
-R4233IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly
-R42343M163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-R42343M163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-R4234IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-R4234IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-R4235IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly
-R4235IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly
-R4236IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly
-R4236IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly
-R4237IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly
-R4237IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly
-R4238IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly
-R4238IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly
-R4239IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly
-R4239IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly
-R423IRM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories/Sales Ratio            NSA  09-Dec-2022  Monthly
-R423IRM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories/Sales Ratio            SA   09-Dec-2022  Monthly
-R4241IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly
-R4241IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly
-R4242IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly
-R4242IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly
-R4243IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly
-R4243IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly
-R4244IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly
-R4244IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly
-R4245IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly
-R4245IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly
-R4246IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly
-R4246IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly
-R4247IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly
-R4247IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly
-R4248IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly
-R4248IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly
-R4249IM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly
-R4249IM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly
-R424IRM163NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories/Sales Ratio         NSA  09-Dec-2022  Monthly
-R424IRM163SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories/Sales Ratio         SA   09-Dec-2022  Monthly
-R42IRNM163NCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories/Sales Ratio                     NSA  09-Dec-2022  Monthly
-R42IRSM163SCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories/Sales Ratio                     SA   09-Dec-2022  Monthly
-S4231SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly
-S4231SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly
-S4232SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  NSA  09-Dec-2022  Monthly
-S4232SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  SA   09-Dec-2022  Monthly
-S4233SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly
-S4233SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly
-S42343M144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-S42343M144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-S4234SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly
-S4234SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly
-S4235SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly
-S4235SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly
-S4236SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly
-S4236SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly
-S4237SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly
-S4237SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly
-S4238SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly
-S4238SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly
-S4239SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales NSA  09-Dec-2022  Monthly
-S4239SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales SA   09-Dec-2022  Monthly
-S423SMM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              NSA  09-Dec-2022  Monthly
-S423SMM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              SA   09-Dec-2022  Monthly
-S4241SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales NSA  09-Dec-2022  Monthly
-S4241SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales SA   09-Dec-2022  Monthly
-S4242SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly
-S4242SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly
-S4243SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly
-S4243SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly
-S4244SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly
-S4244SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly
-S4245SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  NSA  09-Dec-2022  Monthly
-S4245SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  SA   09-Dec-2022  Monthly
-S4246SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly
-S4246SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly
-S4247SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly
-S4247SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly
-S4248SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly
-S4248SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly
-S4249SM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly
-S4249SM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly
-S424SMM144NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           NSA  09-Dec-2022  Monthly
-S424SMM144SCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           SA   09-Dec-2022  Monthly
-S42SMNM144NCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       NSA  09-Dec-2022  Monthly
-S42SMSM144SCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       SA   09-Dec-2022  Monthly
-T4231MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly, End of Month
-T4232MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly, End of Month
-T4233MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly, End of Month
-T42343M157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
-T4234MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
-T4235MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly, End of Month
-T4236MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly, End of Month
-T4237MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly, End of Month
-T4238MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly, End of Month
-T4239MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly, End of Month
-T423MPM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        NSA  09-Dec-2022  Monthly, End of Month
-T4241MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly, End of Month
-T4242MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly, End of Month
-T4243MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly, End of Month
-T4244MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly, End of Month
-T4245MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly, End of Month
-T4246MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly, End of Month
-T4247MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly, End of Month
-T4248MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly, End of Month
-T4249MM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly, End of Month
-T424MPM157NCEN                          Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     NSA  09-Dec-2022  Monthly, End of Month
-T42MPCM157NCEN                          Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 NSA  09-Dec-2022  Monthly, End of Month
+I4231IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly, End of Month
+I4231IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly, End of Month
+I4232IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly, End of Month
+I4232IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly, End of Month
+I4233IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly, End of Month
+I4233IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly, End of Month
+I42343M144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
+I42343M144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
+I4234IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
+I4234IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
+I4235IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly, End of Month
+I4235IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly, End of Month
+I4236IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly, End of Month
+I4236IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly, End of Month
+I4237IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly, End of Month
+I4237IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly, End of Month
+I4238IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly, End of Month
+I4238IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly, End of Month
+I4239IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly, End of Month
+I4239IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly, End of Month
+I423IMM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        NSA  09-Dec-2022  Monthly, End of Month
+I423IMM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        SA   09-Dec-2022  Monthly, End of Month
+I4241IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly, End of Month
+I4241IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly, End of Month
+I4242IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly, End of Month
+I4242IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly, End of Month
+I4243IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly, End of Month
+I4243IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly, End of Month
+I4244IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly, End of Month
+I4244IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly, End of Month
+I4245IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly, End of Month
+I4245IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly, End of Month
+I4246IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly, End of Month
+I4246IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly, End of Month
+I4247IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly, End of Month
+I4247IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly, End of Month
+I4248IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly, End of Month
+I4248IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly, End of Month
+I4249IM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly, End of Month
+I4249IM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly, End of Month
+I424IMM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     NSA  09-Dec-2022  Monthly, End of Month
+I424IMM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     SA   09-Dec-2022  Monthly, End of Month
+I42IMNM144NCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 NSA  09-Dec-2022  Monthly, End of Month
+I42IMSM144SCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 SA   09-Dec-2022  Monthly, End of Month
+M4231MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly        
+M4232MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  NSA  09-Dec-2022  Monthly        
+M4233MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly        
+M42343M157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+M4234MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+M4235MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly        
+M4236MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly        
+M4237MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly        
+M4238MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly        
+M4239MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales NSA  09-Dec-2022  Monthly        
+M423MPM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              NSA  09-Dec-2022  Monthly        
+M4241MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales NSA  09-Dec-2022  Monthly        
+M4242MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly        
+M4243MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly        
+M4244MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly        
+M4245MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  NSA  09-Dec-2022  Monthly        
+M4246MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly        
+M4247MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly        
+M4248MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly        
+M4249MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly        
+M424MPM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           NSA  09-Dec-2022  Monthly        
+M42MPCM157NCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       NSA  09-Dec-2022  Monthly        
+O4231MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly, End of Month
+O4232MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly, End of Month
+O4233MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly, End of Month
+O42343M157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
+O4234MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly, End of Month
+O4235MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly, End of Month
+O4236MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly, End of Month
+O4237MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly, End of Month
+O4238MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly, End of Month
+O4239MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly, End of Month
+O423MPM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        SA   09-Dec-2022  Monthly, End of Month
+O4241MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly, End of Month
+O4242MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly, End of Month
+O4243MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly, End of Month
+O4244MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly, End of Month
+O4245MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly, End of Month
+O4246MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly, End of Month
+O4247MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly, End of Month
+O4248MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly, End of Month
+O4249MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly, End of Month
+O424MPM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     SA   09-Dec-2022  Monthly, End of Month
+O42MPCM157SCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 SA   09-Dec-2022  Monthly, End of Month
+P4231MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly        
+P4232MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  SA   09-Dec-2022  Monthly        
+P4233MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly        
+P42343M157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+P4234MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+P4235MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly        
+P4236MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly        
+P4237MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly        
+P4238MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly        
+P4239MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales SA   09-Dec-2022  Monthly        
+P423MPM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              SA   09-Dec-2022  Monthly        
+P4241MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales SA   09-Dec-2022  Monthly        
+P4242MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly        
+P4243MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly        
+P4244MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly        
+P4245MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  SA   09-Dec-2022  Monthly        
+P4246MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly        
+P4247MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly        
+P4248MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly        
+P4249MM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly        
+P424MPM157SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           SA   09-Dec-2022  Monthly        
+P42MPCM157SCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       SA   09-Dec-2022  Monthly        
+R4231IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly        
+R4231IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly        
+R4232IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly        
+R4232IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  SA   09-Dec-2022  Monthly        
+R4233IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly        
+R4233IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly        
+R42343M163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+R42343M163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+R4234IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+R4234IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+R4235IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly        
+R4235IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly        
+R4236IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly        
+R4236IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly        
+R4237IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly        
+R4237IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly        
+R4238IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly        
+R4238IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly        
+R4239IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly        
+R4239IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  SA   09-Dec-2022  Monthly        
+R423IRM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories/Sales Ratio            NSA  09-Dec-2022  Monthly        
+R423IRM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories/Sales Ratio            SA   09-Dec-2022  Monthly        
+R4241IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly        
+R4241IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  SA   09-Dec-2022  Monthly        
+R4242IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly        
+R4242IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly        
+R4243IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly        
+R4243IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly        
+R4244IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly        
+R4244IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly        
+R4245IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly        
+R4245IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  SA   09-Dec-2022  Monthly        
+R4246IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly        
+R4246IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly        
+R4247IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly        
+R4247IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly        
+R4248IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly        
+R4248IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly        
+R4249IM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly        
+R4249IM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly        
+R424IRM163NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories/Sales Ratio         NSA  09-Dec-2022  Monthly        
+R424IRM163SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories/Sales Ratio         SA   09-Dec-2022  Monthly        
+R42IRNM163NCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories/Sales Ratio                     NSA  09-Dec-2022  Monthly        
+R42IRSM163SCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories/Sales Ratio                     SA   09-Dec-2022  Monthly        
+S4231SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly        
+S4231SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   SA   09-Dec-2022  Monthly        
+S4232SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  NSA  09-Dec-2022  Monthly        
+S4232SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings S  SA   09-Dec-2022  Monthly        
+S4233SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly        
+S4233SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  SA   09-Dec-2022  Monthly        
+S42343M144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+S42343M144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+S4234SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly        
+S4234SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  SA   09-Dec-2022  Monthly        
+S4235SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly        
+S4235SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  SA   09-Dec-2022  Monthly        
+S4236SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly        
+S4236SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  SA   09-Dec-2022  Monthly        
+S4237SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly        
+S4237SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  SA   09-Dec-2022  Monthly        
+S4238SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly        
+S4238SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  SA   09-Dec-2022  Monthly        
+S4239SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales NSA  09-Dec-2022  Monthly        
+S4239SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales SA   09-Dec-2022  Monthly        
+S423SMM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              NSA  09-Dec-2022  Monthly        
+S423SMM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Sales                              SA   09-Dec-2022  Monthly        
+S4241SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales NSA  09-Dec-2022  Monthly        
+S4241SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Sales SA   09-Dec-2022  Monthly        
+S4242SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly        
+S4242SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  SA   09-Dec-2022  Monthly        
+S4243SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly        
+S4243SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  SA   09-Dec-2022  Monthly        
+S4244SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly        
+S4244SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   SA   09-Dec-2022  Monthly        
+S4245SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  NSA  09-Dec-2022  Monthly        
+S4245SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials Sa  SA   09-Dec-2022  Monthly        
+S4246SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly        
+S4246SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  SA   09-Dec-2022  Monthly        
+S4247SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly        
+S4247SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  SA   09-Dec-2022  Monthly        
+S4248SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly        
+S4248SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  SA   09-Dec-2022  Monthly        
+S4249SM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly        
+S4249SM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  SA   09-Dec-2022  Monthly        
+S424SMM144NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           NSA  09-Dec-2022  Monthly        
+S424SMM144SCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Sales                           SA   09-Dec-2022  Monthly        
+S42SMNM144NCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       NSA  09-Dec-2022  Monthly        
+S42SMSM144SCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales                                       SA   09-Dec-2022  Monthly        
+T4231MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle   NSA  09-Dec-2022  Monthly, End of Month
+T4232MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Furniture and Home Furnishings I  NSA  09-Dec-2022  Monthly, End of Month
+T4233MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Ma  NSA  09-Dec-2022  Monthly, End of Month
+T42343M157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
+T4234MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Professional and Commercial Equi  NSA  09-Dec-2022  Monthly, End of Month
+T4235MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Metals and Minerals, Except Petr  NSA  09-Dec-2022  Monthly, End of Month
+T4236MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Household Appliances and Electri  NSA  09-Dec-2022  Monthly, End of Month
+T4237MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Hardware, and Plumbing and Heati  NSA  09-Dec-2022  Monthly, End of Month
+T4238MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Machinery, Equipment, and Suppli  NSA  09-Dec-2022  Monthly, End of Month
+T4239MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Inve  NSA  09-Dec-2022  Monthly, End of Month
+T423MPM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods Inventories                        NSA  09-Dec-2022  Monthly, End of Month
+T4241MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Paper and Paper Products Inve  NSA  09-Dec-2022  Monthly, End of Month
+T4242MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Drugs and Druggists' Sundries  NSA  09-Dec-2022  Monthly, End of Month
+T4243MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Not  NSA  09-Dec-2022  Monthly, End of Month
+T4244MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Grocery and Related Products   NSA  09-Dec-2022  Monthly, End of Month
+T4245MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Farm Product Raw Materials In  NSA  09-Dec-2022  Monthly, End of Month
+T4246MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Chemicals and Allied Products  NSA  09-Dec-2022  Monthly, End of Month
+T4247MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Petroleum and Petroleum Produ  NSA  09-Dec-2022  Monthly, End of Month
+T4248MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alc  NSA  09-Dec-2022  Monthly, End of Month
+T4249MM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Miscellaneous Nondurable Good  NSA  09-Dec-2022  Monthly, End of Month
+T424MPM157NCEN                Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods Inventories                     NSA  09-Dec-2022  Monthly, End of Month
+T42MPCM157NCEN                Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Inventories                                 NSA  09-Dec-2022  Monthly, End of Month

@@ -1,36 +1,36 @@
 Id : 500  Inflation Expectations
-EXPINF10YR                              10-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF11YR                              11-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF12YR                              12-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF13YR                              13-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF14YR                              14-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF15YR                              15-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF16YR                              16-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF17YR                              17-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF18YR                              18-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF19YR                              19-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF1YR                               1-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF20YR                              20-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF21YR                              21-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF22YR                              22-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF23YR                              23-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF24YR                              24-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF25YR                              25-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF26YR                              26-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF27YR                              27-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF28YR                              28-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF29YR                              29-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF2YR                               2-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF30YR                              30-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly
-EXPINF3YR                               3-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF4YR                               4-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF5YR                               5-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF6YR                               6-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF7YR                               7-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF8YR                               8-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-EXPINF9YR                               9-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly
-REAINTRATREARAT10Y                      10-Year Real Interest Rate                                                                                               NSA  14-Nov-2022  Monthly
-REAINTRATREARAT1MO                      1-Month Real Interest Rate                                                                                               NSA  14-Nov-2022  Monthly
-REAINTRATREARAT1YE                      1-Year Real Interest Rate                                                                                                NSA  14-Nov-2022  Monthly
-TENEXPCHAINFRISPRE                      Inflation Risk Premium                                                                                                   NSA  14-Nov-2022  Monthly
-TENEXPCHAREARISPRE                      Real Risk Premium                                                                                                        NSA  14-Nov-2022  Monthly
+EXPINF10YR                    10-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF11YR                    11-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF12YR                    12-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF13YR                    13-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF14YR                    14-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF15YR                    15-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF16YR                    16-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF17YR                    17-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF18YR                    18-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF19YR                    19-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF1YR                     1-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF20YR                    20-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF21YR                    21-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF22YR                    22-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF23YR                    23-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF24YR                    24-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF25YR                    25-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF26YR                    26-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF27YR                    27-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF28YR                    28-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF29YR                    29-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF2YR                     2-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF30YR                    30-Year Expected Inflation                                                                                               NSA  14-Nov-2022  Monthly        
+EXPINF3YR                     3-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF4YR                     4-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF5YR                     5-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF6YR                     6-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF7YR                     7-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF8YR                     8-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+EXPINF9YR                     9-Year Expected Inflation                                                                                                NSA  14-Nov-2022  Monthly        
+REAINTRATREARAT10Y            10-Year Real Interest Rate                                                                                               NSA  14-Nov-2022  Monthly        
+REAINTRATREARAT1MO            1-Month Real Interest Rate                                                                                               NSA  14-Nov-2022  Monthly        
+REAINTRATREARAT1YE            1-Year Real Interest Rate                                                                                                NSA  14-Nov-2022  Monthly        
+TENEXPCHAINFRISPRE            Inflation Risk Premium                                                                                                   NSA  14-Nov-2022  Monthly        
+TENEXPCHAREARISPRE            Real Risk Premium                                                                                                        NSA  14-Nov-2022  Monthly        

@@ -1,71 +1,71 @@
 Id : 333  Chicago Fed Midwest Economy Index
-CONSTIAM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Construction Sector                           SA   30-Jun-2021  Monthly
-CONSTILM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Construction Sector                       SA   30-Jun-2021  Monthly
-CONSTINM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Construction Sector                        SA   30-Jun-2021  Monthly
-CONSTMIM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Construction Sector                       SA   30-Jun-2021  Monthly
-CONSTRM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Construction Sector                 SA   30-Jun-2021  Monthly
-CONSTRUCTIONM683SFRBCHI                 Contributions to the Chicago Fed Midwest Economy Index: Construction Contribution                                        SA   30-Jun-2021  Monthly
-CONSTWIM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Construction Sector                      SA   30-Jun-2021  Monthly
-CONSUIAM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Consumer Spending Sector                      SA   30-Jun-2021  Monthly
-CONSUILM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Consumer Spending Sector                  SA   30-Jun-2021  Monthly
-CONSUINM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Consumer Spending Sector                   SA   30-Jun-2021  Monthly
-CONSUMERM683SFRBCHI                     Contributions to the Chicago Fed Midwest Economy Index: Consumer Spending Contribution                                   SA   30-Jun-2021  Monthly
-CONSUMIM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Consumer Spending Sector                  SA   30-Jun-2021  Monthly
-CONSURM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Consumer Spending Sector            SA   30-Jun-2021  Monthly
-CONSUWIM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Consumer Spending Sector                 SA   30-Jun-2021  Monthly
-IAINDEXM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution                                                SA   30-Jun-2021  Monthly
-ILINDEXM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution                                            SA   30-Jun-2021  Monthly
-ININDEXM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution                                             SA   30-Jun-2021  Monthly
-MANUFACTURINGM683SFRBCHI                Contributions to the Chicago Fed Midwest Economy Index: Manufacturing Contribution                                       SA   30-Jun-2021  Monthly
-MANUIAM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Manufacturing Sector                          SA   30-Jun-2021  Monthly
-MANUILM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Manufacturing Sector                      SA   30-Jun-2021  Monthly
-MANUINM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Manufacturing Sector                       SA   30-Jun-2021  Monthly
-MANUMIM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Manufacturing Sector                      SA   30-Jun-2021  Monthly
-MANURM683SFRBCHI                        Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Manufacturing Sector                SA   30-Jun-2021  Monthly
-MANUWIM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Manufacturing Sector                     SA   30-Jun-2021  Monthly
-MEIM683SFRBCHI                          Chicago Fed Midwest Economy Index                                                                                        SA   30-Jun-2021  Monthly
-MIINDEXM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution                                            SA   30-Jun-2021  Monthly
-RCONSTIAM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Construction Sector                  SA   30-Jun-2021  Monthly
-RCONSTILM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Construction Sector              SA   30-Jun-2021  Monthly
-RCONSTINM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Construction Sector               SA   30-Jun-2021  Monthly
-RCONSTMIM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Construction Sector              SA   30-Jun-2021  Monthly
-RCONSTRM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Construction Sector        SA   30-Jun-2021  Monthly
-RCONSTRUCTIONM683SFRBCHI                Contributions to the Chicago Fed Relative Midwest Economy Index: Construction Contribution                               SA   30-Jun-2021  Monthly
-RCONSTWIM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Construction Sector             SA   30-Jun-2021  Monthly
-RCONSUIAM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Consumer Spending Sector             SA   30-Jun-2021  Monthly
-RCONSUILM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Consumer Spending Sector         SA   30-Jun-2021  Monthly
-RCONSUINM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Consumer Spending Sector          SA   30-Jun-2021  Monthly
-RCONSUMERM683SFRBCHI                    Contributions to the Chicago Fed Relative Midwest Economy Index: Consumer Spending Contribution                          SA   30-Jun-2021  Monthly
-RCONSUMIM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Consumer Spending Sector         SA   30-Jun-2021  Monthly
-RCONSURM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Consumer Spending Sector   SA   30-Jun-2021  Monthly
-RCONSUWIM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Consumer Spending Sector        SA   30-Jun-2021  Monthly
-REGIONALM683SFRBCHI                     Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution                                      SA   30-Jun-2021  Monthly
-RIAINDEXM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution                                       SA   30-Jun-2021  Monthly
-RILINDEXM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution                                   SA   30-Jun-2021  Monthly
-RININDEXM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution                                    SA   30-Jun-2021  Monthly
-RMANUFACTURINGM683SFRBCHI               Contributions to the Chicago Fed Relative Midwest Economy Index: Manufacturing Contribution                              SA   30-Jun-2021  Monthly
-RMANUIAM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Manufacturing Sector                 SA   30-Jun-2021  Monthly
-RMANUILM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Manufacturing Sector             SA   30-Jun-2021  Monthly
-RMANUINM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Manufacturing Sector              SA   30-Jun-2021  Monthly
-RMANUMIM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Manufacturing Sector             SA   30-Jun-2021  Monthly
-RMANURM683SFRBCHI                       Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Manufacturing Sector       SA   30-Jun-2021  Monthly
-RMANUWIM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Manufacturing Sector            SA   30-Jun-2021  Monthly
-RMEIM683SFRBCHI                         Chicago Fed Relative Midwest Economy Index                                                                               SA   30-Jun-2021  Monthly
-RMIINDEXM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution                                   SA   30-Jun-2021  Monthly
-RREGIONALM683SFRBCHI                    Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution                             SA   30-Jun-2021  Monthly
-RSERVIAM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Services Sector                      SA   30-Jun-2021  Monthly
-RSERVICESM683SFRBCHI                    Contributions to the Chicago Fed Relative Midwest Economy Index: Services Contribution                                   SA   30-Jun-2021  Monthly
-RSERVILM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Services Sector                  SA   30-Jun-2021  Monthly
-RSERVINM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Services Sector                   SA   30-Jun-2021  Monthly
-RSERVMIM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Services Sector                  SA   30-Jun-2021  Monthly
-RSERVRM683SFRBCHI                       Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Services Sector            SA   30-Jun-2021  Monthly
-RSERVWIM683SFRBCHI                      Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Services Sector                 SA   30-Jun-2021  Monthly
-RWIINDEXM683SFRBCHI                     Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution                                  SA   30-Jun-2021  Monthly
-SERVIAM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Services Sector                               SA   30-Jun-2021  Monthly
-SERVICESM683SFRBCHI                     Contributions to the Chicago Fed Midwest Economy Index: Services Contribution                                            SA   30-Jun-2021  Monthly
-SERVILM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Services Sector                           SA   30-Jun-2021  Monthly
-SERVINM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Services Sector                            SA   30-Jun-2021  Monthly
-SERVMIM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Services Sector                           SA   30-Jun-2021  Monthly
-SERVRM683SFRBCHI                        Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Services Sector                     SA   30-Jun-2021  Monthly
-SERVWIM683SFRBCHI                       Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Services Sector                          SA   30-Jun-2021  Monthly
-WIINDEXM683SFRBCHI                      Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution                                           SA   30-Jun-2021  Monthly
+CONSTIAM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Construction Sector                           SA   30-Jun-2021  Monthly        
+CONSTILM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Construction Sector                       SA   30-Jun-2021  Monthly        
+CONSTINM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Construction Sector                        SA   30-Jun-2021  Monthly        
+CONSTMIM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Construction Sector                       SA   30-Jun-2021  Monthly        
+CONSTRM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Construction Sector                 SA   30-Jun-2021  Monthly        
+CONSTRUCTIONM683SFRBCHI       Contributions to the Chicago Fed Midwest Economy Index: Construction Contribution                                        SA   30-Jun-2021  Monthly        
+CONSTWIM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Construction Sector                      SA   30-Jun-2021  Monthly        
+CONSUIAM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Consumer Spending Sector                      SA   30-Jun-2021  Monthly        
+CONSUILM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Consumer Spending Sector                  SA   30-Jun-2021  Monthly        
+CONSUINM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Consumer Spending Sector                   SA   30-Jun-2021  Monthly        
+CONSUMERM683SFRBCHI           Contributions to the Chicago Fed Midwest Economy Index: Consumer Spending Contribution                                   SA   30-Jun-2021  Monthly        
+CONSUMIM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Consumer Spending Sector                  SA   30-Jun-2021  Monthly        
+CONSURM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Consumer Spending Sector            SA   30-Jun-2021  Monthly        
+CONSUWIM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Consumer Spending Sector                 SA   30-Jun-2021  Monthly        
+IAINDEXM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution                                                SA   30-Jun-2021  Monthly        
+ILINDEXM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution                                            SA   30-Jun-2021  Monthly        
+ININDEXM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution                                             SA   30-Jun-2021  Monthly        
+MANUFACTURINGM683SFRBCHI      Contributions to the Chicago Fed Midwest Economy Index: Manufacturing Contribution                                       SA   30-Jun-2021  Monthly        
+MANUIAM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Manufacturing Sector                          SA   30-Jun-2021  Monthly        
+MANUILM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Manufacturing Sector                      SA   30-Jun-2021  Monthly        
+MANUINM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Manufacturing Sector                       SA   30-Jun-2021  Monthly        
+MANUMIM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Manufacturing Sector                      SA   30-Jun-2021  Monthly        
+MANURM683SFRBCHI              Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Manufacturing Sector                SA   30-Jun-2021  Monthly        
+MANUWIM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Manufacturing Sector                     SA   30-Jun-2021  Monthly        
+MEIM683SFRBCHI                Chicago Fed Midwest Economy Index                                                                                        SA   30-Jun-2021  Monthly        
+MIINDEXM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution                                            SA   30-Jun-2021  Monthly        
+RCONSTIAM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Construction Sector                  SA   30-Jun-2021  Monthly        
+RCONSTILM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Construction Sector              SA   30-Jun-2021  Monthly        
+RCONSTINM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Construction Sector               SA   30-Jun-2021  Monthly        
+RCONSTMIM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Construction Sector              SA   30-Jun-2021  Monthly        
+RCONSTRM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Construction Sector        SA   30-Jun-2021  Monthly        
+RCONSTRUCTIONM683SFRBCHI      Contributions to the Chicago Fed Relative Midwest Economy Index: Construction Contribution                               SA   30-Jun-2021  Monthly        
+RCONSTWIM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Construction Sector             SA   30-Jun-2021  Monthly        
+RCONSUIAM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Consumer Spending Sector             SA   30-Jun-2021  Monthly        
+RCONSUILM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Consumer Spending Sector         SA   30-Jun-2021  Monthly        
+RCONSUINM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Consumer Spending Sector          SA   30-Jun-2021  Monthly        
+RCONSUMERM683SFRBCHI          Contributions to the Chicago Fed Relative Midwest Economy Index: Consumer Spending Contribution                          SA   30-Jun-2021  Monthly        
+RCONSUMIM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Consumer Spending Sector         SA   30-Jun-2021  Monthly        
+RCONSURM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Consumer Spending Sector   SA   30-Jun-2021  Monthly        
+RCONSUWIM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Consumer Spending Sector        SA   30-Jun-2021  Monthly        
+REGIONALM683SFRBCHI           Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution                                      SA   30-Jun-2021  Monthly        
+RIAINDEXM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution                                       SA   30-Jun-2021  Monthly        
+RILINDEXM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution                                   SA   30-Jun-2021  Monthly        
+RININDEXM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution                                    SA   30-Jun-2021  Monthly        
+RMANUFACTURINGM683SFRBCHI     Contributions to the Chicago Fed Relative Midwest Economy Index: Manufacturing Contribution                              SA   30-Jun-2021  Monthly        
+RMANUIAM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Manufacturing Sector                 SA   30-Jun-2021  Monthly        
+RMANUILM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Manufacturing Sector             SA   30-Jun-2021  Monthly        
+RMANUINM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Manufacturing Sector              SA   30-Jun-2021  Monthly        
+RMANUMIM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Manufacturing Sector             SA   30-Jun-2021  Monthly        
+RMANURM683SFRBCHI             Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Manufacturing Sector       SA   30-Jun-2021  Monthly        
+RMANUWIM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Manufacturing Sector            SA   30-Jun-2021  Monthly        
+RMEIM683SFRBCHI               Chicago Fed Relative Midwest Economy Index                                                                               SA   30-Jun-2021  Monthly        
+RMIINDEXM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution                                   SA   30-Jun-2021  Monthly        
+RREGIONALM683SFRBCHI          Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution                             SA   30-Jun-2021  Monthly        
+RSERVIAM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Iowa Contribution: Services Sector                      SA   30-Jun-2021  Monthly        
+RSERVICESM683SFRBCHI          Contributions to the Chicago Fed Relative Midwest Economy Index: Services Contribution                                   SA   30-Jun-2021  Monthly        
+RSERVILM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Illinois Contribution: Services Sector                  SA   30-Jun-2021  Monthly        
+RSERVINM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Indiana Contribution: Services Sector                   SA   30-Jun-2021  Monthly        
+RSERVMIM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Michigan Contribution: Services Sector                  SA   30-Jun-2021  Monthly        
+RSERVRM683SFRBCHI             Contributions to the Chicago Fed Relative Midwest Economy Index: Midwest Region Contribution: Services Sector            SA   30-Jun-2021  Monthly        
+RSERVWIM683SFRBCHI            Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution: Services Sector                 SA   30-Jun-2021  Monthly        
+RWIINDEXM683SFRBCHI           Contributions to the Chicago Fed Relative Midwest Economy Index: Wisconsin Contribution                                  SA   30-Jun-2021  Monthly        
+SERVIAM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Iowa Contribution: Services Sector                               SA   30-Jun-2021  Monthly        
+SERVICESM683SFRBCHI           Contributions to the Chicago Fed Midwest Economy Index: Services Contribution                                            SA   30-Jun-2021  Monthly        
+SERVILM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Illinois Contribution: Services Sector                           SA   30-Jun-2021  Monthly        
+SERVINM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Indiana Contribution: Services Sector                            SA   30-Jun-2021  Monthly        
+SERVMIM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Michigan Contribution: Services Sector                           SA   30-Jun-2021  Monthly        
+SERVRM683SFRBCHI              Contributions to the Chicago Fed Midwest Economy Index: Midwest Region Contribution: Services Sector                     SA   30-Jun-2021  Monthly        
+SERVWIM683SFRBCHI             Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution: Services Sector                          SA   30-Jun-2021  Monthly        
+WIINDEXM683SFRBCHI            Contributions to the Chicago Fed Midwest Economy Index: Wisconsin Contribution                                           SA   30-Jun-2021  Monthly        

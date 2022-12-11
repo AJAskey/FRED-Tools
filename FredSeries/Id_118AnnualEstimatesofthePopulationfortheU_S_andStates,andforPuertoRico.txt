@@ -1,74 +1,74 @@
 Id : 118  Annual Estimates of the Population for the U.S. and States, and for Puerto Rico
-AKPOP                                   Resident Population in Alaska                                                                                            NSA  22-Dec-2021  Annual
-ALPOP                                   Resident Population in Alabama                                                                                           NSA  22-Dec-2021  Annual
-ARPOP                                   Resident Population in Arkansas                                                                                          NSA  22-Dec-2021  Annual
-AZPOP                                   Resident Population in Arizona                                                                                           NSA  22-Dec-2021  Annual
-BEAFWPOP                                Resident Population in the Far West BEA Region                                                                           NSA  22-Dec-2021  Annual
-BEAGLPOP                                Resident Population in the Great Lakes BEA Region                                                                        NSA  22-Dec-2021  Annual
-BEAMEPOP                                Resident Population in the Mideast BEA Region                                                                            NSA  22-Dec-2021  Annual
-BEANEPOP                                Resident Population in the New England BEA Region                                                                        NSA  22-Dec-2021  Annual
-BEAPLPOP                                Resident Population in the Plains BEA Region                                                                             NSA  22-Dec-2021  Annual
-BEARMPOP                                Resident Population in the Rocky Mountain BEA Region                                                                     NSA  22-Dec-2021  Annual
-BEASEPOP                                Resident Population in the Southeast BEA Region                                                                          NSA  22-Dec-2021  Annual
-BEASWPOP                                Resident Population in the Southwest BEA Region                                                                          NSA  22-Dec-2021  Annual
-CAPOP                                   Resident Population in California                                                                                        NSA  22-Dec-2021  Annual
-CENCPOP                                 Resident Population in the East North Central Census Division                                                            NSA  22-Dec-2021  Annual
-CESCPOP                                 Resident Population in the East South Central Census Division                                                            NSA  22-Dec-2021  Annual
-CMATPOP                                 Resident Population in the Middle Atlantic Census Division                                                               NSA  22-Dec-2021  Annual
-CMTNPOP                                 Resident Population in the Mountain Census Division                                                                      NSA  22-Dec-2021  Annual
-CMWRPOP                                 Resident Population in the Midwest Census Region                                                                         NSA  22-Dec-2021  Annual
-CNERPOP                                 Resident Population in the Northeast Census Region                                                                       NSA  22-Dec-2021  Annual
-CNEWPOP                                 Resident Population in the New England Census Division                                                                   NSA  22-Dec-2021  Annual
-COPOP                                   Resident Population in Colorado                                                                                          NSA  22-Dec-2021  Annual
-CPACPOP                                 Resident Population in the Pacific Census Division                                                                       NSA  22-Dec-2021  Annual
-CSATLPOP                                Resident Population in the South Atlantic Census Division                                                                NSA  22-Dec-2021  Annual
-CSOUPOP                                 Resident Population in the South Census Region                                                                           NSA  22-Dec-2021  Annual
-CTPOP                                   Resident Population in Connecticut                                                                                       NSA  22-Dec-2021  Annual
-CWNCPOP                                 Resident Population in the West North Central Census Division                                                            NSA  22-Dec-2021  Annual
-CWSCPOP                                 Resident Population in the West South Central Census Division                                                            NSA  22-Dec-2021  Annual
-CWSTPOP                                 Resident Population in the West Census Region                                                                            NSA  22-Dec-2021  Annual
-DCPOP                                   Resident Population in the District of Columbia                                                                          NSA  22-Dec-2021  Annual
-DEPOP                                   Resident Population in Delaware                                                                                          NSA  22-Dec-2021  Annual
-DSPOP                                   Resident Population in FRB-St. Louis District States (DISCONTINUED)                                                      NSA  24-Jan-2018  Annual
-FLPOP                                   Resident Population in Florida                                                                                           NSA  22-Dec-2021  Annual
-GAPOP                                   Resident Population in Georgia                                                                                           NSA  22-Dec-2021  Annual
-HIPOP                                   Resident Population in Hawaii                                                                                            NSA  22-Dec-2021  Annual
-IAPOP                                   Resident Population in Iowa                                                                                              NSA  22-Dec-2021  Annual
-IDPOP                                   Resident Population in Idaho                                                                                             NSA  22-Dec-2021  Annual
-ILPOP                                   Resident Population in Illinois                                                                                          NSA  22-Dec-2021  Annual
-INPOP                                   Resident Population in Indiana                                                                                           NSA  22-Dec-2021  Annual
-KSPOP                                   Resident Population in Kansas                                                                                            NSA  22-Dec-2021  Annual
-KYPOP                                   Resident Population in Kentucky                                                                                          NSA  22-Dec-2021  Annual
-LAPOP                                   Resident Population in Louisiana                                                                                         NSA  22-Dec-2021  Annual
-MAPOP                                   Resident Population in Massachusetts                                                                                     NSA  22-Dec-2021  Annual
-MDPOP                                   Resident Population in Maryland                                                                                          NSA  22-Dec-2021  Annual
-MEPOP                                   Resident Population in Maine                                                                                             NSA  22-Dec-2021  Annual
-MIPOP                                   Resident Population in Michigan                                                                                          NSA  22-Dec-2021  Annual
-MNPOP                                   Resident Population in Minnesota                                                                                         NSA  22-Dec-2021  Annual
-MOPOP                                   Resident Population in Missouri                                                                                          NSA  22-Dec-2021  Annual
-MSPOP                                   Resident Population in Mississippi                                                                                       NSA  22-Dec-2021  Annual
-MTPOP                                   Resident Population in Montana                                                                                           NSA  22-Dec-2021  Annual
-NCPOP                                   Resident Population in North Carolina                                                                                    NSA  22-Dec-2021  Annual
-NDPOP                                   Resident Population in North Dakota                                                                                      NSA  22-Dec-2021  Annual
-NEPOP                                   Resident Population in Nebraska                                                                                          NSA  22-Dec-2021  Annual
-NHPOP                                   Resident Population in New Hampshire                                                                                     NSA  22-Dec-2021  Annual
-NJPOP                                   Resident Population in New Jersey                                                                                        NSA  22-Dec-2021  Annual
-NMPOP                                   Resident Population in New Mexico                                                                                        NSA  22-Dec-2021  Annual
-NVPOP                                   Resident Population in Nevada                                                                                            NSA  22-Dec-2021  Annual
-NYPOP                                   Resident Population in New York                                                                                          NSA  22-Dec-2021  Annual
-OHPOP                                   Resident Population in Ohio                                                                                              NSA  22-Dec-2021  Annual
-OKPOP                                   Resident Population in Oklahoma                                                                                          NSA  22-Dec-2021  Annual
-ORPOP                                   Resident Population in Oregon                                                                                            NSA  22-Dec-2021  Annual
-PAPOP                                   Resident Population in Pennsylvania                                                                                      NSA  22-Dec-2021  Annual
-RIPOP                                   Resident Population in Rhode Island                                                                                      NSA  22-Dec-2021  Annual
-SCPOP                                   Resident Population in South Carolina                                                                                    NSA  22-Dec-2021  Annual
-SDPOP                                   Resident Population in South Dakota                                                                                      NSA  22-Dec-2021  Annual
-TNPOP                                   Resident Population in Tennessee                                                                                         NSA  22-Dec-2021  Annual
-TXPOP                                   Resident Population in Texas                                                                                             NSA  22-Dec-2021  Annual
-UTPOP                                   Resident Population in Utah                                                                                              NSA  22-Dec-2021  Annual
-VAPOP                                   Resident Population in Virginia                                                                                          NSA  22-Dec-2021  Annual
-VTPOP                                   Resident Population in Vermont                                                                                           NSA  22-Dec-2021  Annual
-WAPOP                                   Resident Population in Washington                                                                                        NSA  22-Dec-2021  Annual
-WIPOP                                   Resident Population in Wisconsin                                                                                         NSA  22-Dec-2021  Annual
-WVPOP                                   Resident Population in West Virginia                                                                                     NSA  22-Dec-2021  Annual
-WYPOP                                   Resident Population in Wyoming                                                                                           NSA  22-Dec-2021  Annual
+AKPOP                         Resident Population in Alaska                                                                                            NSA  22-Dec-2021  Annual         
+ALPOP                         Resident Population in Alabama                                                                                           NSA  22-Dec-2021  Annual         
+ARPOP                         Resident Population in Arkansas                                                                                          NSA  22-Dec-2021  Annual         
+AZPOP                         Resident Population in Arizona                                                                                           NSA  22-Dec-2021  Annual         
+BEAFWPOP                      Resident Population in the Far West BEA Region                                                                           NSA  22-Dec-2021  Annual         
+BEAGLPOP                      Resident Population in the Great Lakes BEA Region                                                                        NSA  22-Dec-2021  Annual         
+BEAMEPOP                      Resident Population in the Mideast BEA Region                                                                            NSA  22-Dec-2021  Annual         
+BEANEPOP                      Resident Population in the New England BEA Region                                                                        NSA  22-Dec-2021  Annual         
+BEAPLPOP                      Resident Population in the Plains BEA Region                                                                             NSA  22-Dec-2021  Annual         
+BEARMPOP                      Resident Population in the Rocky Mountain BEA Region                                                                     NSA  22-Dec-2021  Annual         
+BEASEPOP                      Resident Population in the Southeast BEA Region                                                                          NSA  22-Dec-2021  Annual         
+BEASWPOP                      Resident Population in the Southwest BEA Region                                                                          NSA  22-Dec-2021  Annual         
+CAPOP                         Resident Population in California                                                                                        NSA  22-Dec-2021  Annual         
+CENCPOP                       Resident Population in the East North Central Census Division                                                            NSA  22-Dec-2021  Annual         
+CESCPOP                       Resident Population in the East South Central Census Division                                                            NSA  22-Dec-2021  Annual         
+CMATPOP                       Resident Population in the Middle Atlantic Census Division                                                               NSA  22-Dec-2021  Annual         
+CMTNPOP                       Resident Population in the Mountain Census Division                                                                      NSA  22-Dec-2021  Annual         
+CMWRPOP                       Resident Population in the Midwest Census Region                                                                         NSA  22-Dec-2021  Annual         
+CNERPOP                       Resident Population in the Northeast Census Region                                                                       NSA  22-Dec-2021  Annual         
+CNEWPOP                       Resident Population in the New England Census Division                                                                   NSA  22-Dec-2021  Annual         
+COPOP                         Resident Population in Colorado                                                                                          NSA  22-Dec-2021  Annual         
+CPACPOP                       Resident Population in the Pacific Census Division                                                                       NSA  22-Dec-2021  Annual         
+CSATLPOP                      Resident Population in the South Atlantic Census Division                                                                NSA  22-Dec-2021  Annual         
+CSOUPOP                       Resident Population in the South Census Region                                                                           NSA  22-Dec-2021  Annual         
+CTPOP                         Resident Population in Connecticut                                                                                       NSA  22-Dec-2021  Annual         
+CWNCPOP                       Resident Population in the West North Central Census Division                                                            NSA  22-Dec-2021  Annual         
+CWSCPOP                       Resident Population in the West South Central Census Division                                                            NSA  22-Dec-2021  Annual         
+CWSTPOP                       Resident Population in the West Census Region                                                                            NSA  22-Dec-2021  Annual         
+DCPOP                         Resident Population in the District of Columbia                                                                          NSA  22-Dec-2021  Annual         
+DEPOP                         Resident Population in Delaware                                                                                          NSA  22-Dec-2021  Annual         
+DSPOP                         Resident Population in FRB-St. Louis District States (DISCONTINUED)                                                      NSA  24-Jan-2018  Annual         
+FLPOP                         Resident Population in Florida                                                                                           NSA  22-Dec-2021  Annual         
+GAPOP                         Resident Population in Georgia                                                                                           NSA  22-Dec-2021  Annual         
+HIPOP                         Resident Population in Hawaii                                                                                            NSA  22-Dec-2021  Annual         
+IAPOP                         Resident Population in Iowa                                                                                              NSA  22-Dec-2021  Annual         
+IDPOP                         Resident Population in Idaho                                                                                             NSA  22-Dec-2021  Annual         
+ILPOP                         Resident Population in Illinois                                                                                          NSA  22-Dec-2021  Annual         
+INPOP                         Resident Population in Indiana                                                                                           NSA  22-Dec-2021  Annual         
+KSPOP                         Resident Population in Kansas                                                                                            NSA  22-Dec-2021  Annual         
+KYPOP                         Resident Population in Kentucky                                                                                          NSA  22-Dec-2021  Annual         
+LAPOP                         Resident Population in Louisiana                                                                                         NSA  22-Dec-2021  Annual         
+MAPOP                         Resident Population in Massachusetts                                                                                     NSA  22-Dec-2021  Annual         
+MDPOP                         Resident Population in Maryland                                                                                          NSA  22-Dec-2021  Annual         
+MEPOP                         Resident Population in Maine                                                                                             NSA  22-Dec-2021  Annual         
+MIPOP                         Resident Population in Michigan                                                                                          NSA  22-Dec-2021  Annual         
+MNPOP                         Resident Population in Minnesota                                                                                         NSA  22-Dec-2021  Annual         
+MOPOP                         Resident Population in Missouri                                                                                          NSA  22-Dec-2021  Annual         
+MSPOP                         Resident Population in Mississippi                                                                                       NSA  22-Dec-2021  Annual         
+MTPOP                         Resident Population in Montana                                                                                           NSA  22-Dec-2021  Annual         
+NCPOP                         Resident Population in North Carolina                                                                                    NSA  22-Dec-2021  Annual         
+NDPOP                         Resident Population in North Dakota                                                                                      NSA  22-Dec-2021  Annual         
+NEPOP                         Resident Population in Nebraska                                                                                          NSA  22-Dec-2021  Annual         
+NHPOP                         Resident Population in New Hampshire                                                                                     NSA  22-Dec-2021  Annual         
+NJPOP                         Resident Population in New Jersey                                                                                        NSA  22-Dec-2021  Annual         
+NMPOP                         Resident Population in New Mexico                                                                                        NSA  22-Dec-2021  Annual         
+NVPOP                         Resident Population in Nevada                                                                                            NSA  22-Dec-2021  Annual         
+NYPOP                         Resident Population in New York                                                                                          NSA  22-Dec-2021  Annual         
+OHPOP                         Resident Population in Ohio                                                                                              NSA  22-Dec-2021  Annual         
+OKPOP                         Resident Population in Oklahoma                                                                                          NSA  22-Dec-2021  Annual         
+ORPOP                         Resident Population in Oregon                                                                                            NSA  22-Dec-2021  Annual         
+PAPOP                         Resident Population in Pennsylvania                                                                                      NSA  22-Dec-2021  Annual         
+RIPOP                         Resident Population in Rhode Island                                                                                      NSA  22-Dec-2021  Annual         
+SCPOP                         Resident Population in South Carolina                                                                                    NSA  22-Dec-2021  Annual         
+SDPOP                         Resident Population in South Dakota                                                                                      NSA  22-Dec-2021  Annual         
+TNPOP                         Resident Population in Tennessee                                                                                         NSA  22-Dec-2021  Annual         
+TXPOP                         Resident Population in Texas                                                                                             NSA  22-Dec-2021  Annual         
+UTPOP                         Resident Population in Utah                                                                                              NSA  22-Dec-2021  Annual         
+VAPOP                         Resident Population in Virginia                                                                                          NSA  22-Dec-2021  Annual         
+VTPOP                         Resident Population in Vermont                                                                                           NSA  22-Dec-2021  Annual         
+WAPOP                         Resident Population in Washington                                                                                        NSA  22-Dec-2021  Annual         
+WIPOP                         Resident Population in Wisconsin                                                                                         NSA  22-Dec-2021  Annual         
+WVPOP                         Resident Population in West Virginia                                                                                     NSA  22-Dec-2021  Annual         
+WYPOP                         Resident Population in Wyoming                                                                                           NSA  22-Dec-2021  Annual         

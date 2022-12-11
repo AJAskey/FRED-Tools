@@ -1,13 +1,13 @@
 Id : 372  Chicago Fed Survey of Economic Conditions
-CFSBCACTIVITY                           Chicago Fed Survey of Business Conditions: Activity Index in Federal Reserve District 7: Chicago                         NSA  10-Nov-2022  Monthly
-CFSBCACTIVITYMFG                        Chicago Fed Survey of Business Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago           NSA  10-Nov-2022  Monthly
-CFSBCACTIVITYNMFG                       Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago        NSA  10-Nov-2022  Monthly
-CFSBCCAPX                               Chicago Fed Survey of Business Conditions: Current Capital Spending Index in Federal Reserve District 7: Chicago         NSA  16-Oct-2019  Monthly
-CFSBCCAPXEXP                            Chicago Fed Survey of Business Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve Distr  NSA  10-Nov-2022  Monthly
-CFSBCHIRING                             Chicago Fed Survey of Business Conditions: Current Hiring Index in Federal Reserve District 7: Chicago                   NSA  10-Nov-2022  Monthly
-CFSBCHIRINGEXP                          Chicago Fed Survey of Business Conditions: Hiring Expectations in the next 12 Months in Federal Reserve District 7: Chi  NSA  10-Nov-2022  Monthly
-CFSBCLABORCOSTS                         Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago                      NSA  10-Nov-2022  Monthly
-CFSBCNONLABORCOSTS                      Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago                   NSA  10-Nov-2022  Monthly
-CFSBCNWAGECOSTS                         Chicago Fed Survey of Business Conditions: Nonwage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)     NSA  16-Oct-2019  Monthly
-CFSBCOUTLOOK                            Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago    NSA  10-Nov-2022  Monthly
-CFSBCWAGECOSTS                          Chicago Fed Survey of Business Conditions: Wage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)        NSA  16-Oct-2019  Monthly
+CFSBCACTIVITY                 Chicago Fed Survey of Business Conditions: Activity Index in Federal Reserve District 7: Chicago                         NSA  10-Nov-2022  Monthly        
+CFSBCACTIVITYMFG              Chicago Fed Survey of Business Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago           NSA  10-Nov-2022  Monthly        
+CFSBCACTIVITYNMFG             Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago        NSA  10-Nov-2022  Monthly        
+CFSBCCAPX                     Chicago Fed Survey of Business Conditions: Current Capital Spending Index in Federal Reserve District 7: Chicago         NSA  16-Oct-2019  Monthly        
+CFSBCCAPXEXP                  Chicago Fed Survey of Business Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve Distr  NSA  10-Nov-2022  Monthly        
+CFSBCHIRING                   Chicago Fed Survey of Business Conditions: Current Hiring Index in Federal Reserve District 7: Chicago                   NSA  10-Nov-2022  Monthly        
+CFSBCHIRINGEXP                Chicago Fed Survey of Business Conditions: Hiring Expectations in the next 12 Months in Federal Reserve District 7: Chi  NSA  10-Nov-2022  Monthly        
+CFSBCLABORCOSTS               Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago                      NSA  10-Nov-2022  Monthly        
+CFSBCNONLABORCOSTS            Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago                   NSA  10-Nov-2022  Monthly        
+CFSBCNWAGECOSTS               Chicago Fed Survey of Business Conditions: Nonwage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)     NSA  16-Oct-2019  Monthly        
+CFSBCOUTLOOK                  Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago    NSA  10-Nov-2022  Monthly        
+CFSBCWAGECOSTS                Chicago Fed Survey of Business Conditions: Wage Costs Index in Federal Reserve District 7: Chicago (DISCONTINUED)        NSA  16-Oct-2019  Monthly        

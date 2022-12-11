@@ -1,34 +1,34 @@
 Id : 93  Supplemental Estimates, Motor Vehicles
-AISRSA                                  Auto Inventory/Sales Ratio                                                                                               SA   01-Dec-2022  Monthly
-ALTSALES                                Light Weight Vehicle Sales: Autos and Light Trucks                                                                       SAAR 05-Dec-2022  Monthly
-AUENSA                                  Auto Exports                                                                                                             NSA  01-Dec-2022  Monthly
-AUESA                                   Auto Exports                                                                                                             SA   01-Dec-2022  Monthly
-AUINSA                                  Domestic Auto Inventories                                                                                                SA   01-Dec-2022  Monthly
-CAUINSA                                 Canadian Auto Imports                                                                                                    NSA  01-Dec-2022  Monthly
-CAUISA                                  Canadian Auto Imports                                                                                                    SA   01-Dec-2022  Monthly
-DAUPNSA                                 Domestic Auto Production                                                                                                 NSA  01-Dec-2022  Monthly
-DAUPSA                                  Domestic Auto Production                                                                                                 SA   01-Dec-2022  Monthly
-DAUTONSA                                Motor Vehicle Retail Sales: Domestic Autos                                                                               NSA  05-Dec-2022  Monthly
-DAUTOSA                                 Motor Vehicle Retail Sales: Domestic Autos                                                                               SA   05-Dec-2022  Monthly
-DAUTOSAAR                               Motor Vehicle Retail Sales: Domestic Autos                                                                               SAAR 05-Dec-2022  Monthly
-DLTRUCKSNSA                             Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 NSA  05-Dec-2022  Monthly
-DLTRUCKSSA                              Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 SA   05-Dec-2022  Monthly
-DLTRUCKSSAAR                            Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 SAAR 05-Dec-2022  Monthly
-FAUTONSA                                Motor Vehicle Retail Sales: Foreign Autos                                                                                NSA  05-Dec-2022  Monthly
-FAUTOSA                                 Motor Vehicle Retail Sales: Foreign Autos                                                                                SA   05-Dec-2022  Monthly
-FAUTOSAAR                               Motor Vehicle Retail Sales: Foreign Autos                                                                                SAAR 05-Dec-2022  Monthly
-FLTRUCKSNSA                             Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  NSA  05-Dec-2022  Monthly
-FLTRUCKSSA                              Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  SA   05-Dec-2022  Monthly
-FLTRUCKSSAAR                            Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  SAAR 05-Dec-2022  Monthly
-HTRUCKSNSA                              Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          NSA  05-Dec-2022  Monthly
-HTRUCKSSA                               Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          SA   05-Dec-2022  Monthly
-HTRUCKSSAAR                             Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          SAAR 05-Dec-2022  Monthly
-LAUTONSA                                Motor Vehicle Retail Sales: Domestic and Foreign Autos                                                                   NSA  05-Dec-2022  Monthly
-LAUTOSA                                 Motor Vehicle Retail Sales: Domestic and Foreign Autos                                                                   SAAR 05-Dec-2022  Monthly
-LTOTALNSA                               Light Weight Vehicle Sales                                                                                               NSA  05-Dec-2022  Monthly
-LTRUCKNSA                               Motor Vehicle Retail Sales: Light Weight Trucks                                                                          NSA  05-Dec-2022  Monthly
-LTRUCKSA                                Motor Vehicle Retail Sales: Light Weight Trucks                                                                          SAAR 05-Dec-2022  Monthly
-MAUINSA                                 Mexican Auto Imports                                                                                                     NSA  01-Dec-2022  Monthly
-MAUISA                                  Mexican Auto Imports                                                                                                     SA   01-Dec-2022  Monthly
-TOTALNSA                                Total Vehicle Sales                                                                                                      NSA  05-Dec-2022  Monthly
-TOTALSA                                 Total Vehicle Sales                                                                                                      SAAR 05-Dec-2022  Monthly
+AISRSA                        Auto Inventory/Sales Ratio                                                                                               SA   01-Dec-2022  Monthly        
+ALTSALES                      Light Weight Vehicle Sales: Autos and Light Trucks                                                                       SAAR 05-Dec-2022  Monthly        
+AUENSA                        Auto Exports                                                                                                             NSA  01-Dec-2022  Monthly        
+AUESA                         Auto Exports                                                                                                             SA   01-Dec-2022  Monthly        
+AUINSA                        Domestic Auto Inventories                                                                                                SA   01-Dec-2022  Monthly        
+CAUINSA                       Canadian Auto Imports                                                                                                    NSA  01-Dec-2022  Monthly        
+CAUISA                        Canadian Auto Imports                                                                                                    SA   01-Dec-2022  Monthly        
+DAUPNSA                       Domestic Auto Production                                                                                                 NSA  01-Dec-2022  Monthly        
+DAUPSA                        Domestic Auto Production                                                                                                 SA   01-Dec-2022  Monthly        
+DAUTONSA                      Motor Vehicle Retail Sales: Domestic Autos                                                                               NSA  05-Dec-2022  Monthly        
+DAUTOSA                       Motor Vehicle Retail Sales: Domestic Autos                                                                               SA   05-Dec-2022  Monthly        
+DAUTOSAAR                     Motor Vehicle Retail Sales: Domestic Autos                                                                               SAAR 05-Dec-2022  Monthly        
+DLTRUCKSNSA                   Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 NSA  05-Dec-2022  Monthly        
+DLTRUCKSSA                    Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 SA   05-Dec-2022  Monthly        
+DLTRUCKSSAAR                  Motor Vehicle Retail Sales: Domestic Light Weight Trucks                                                                 SAAR 05-Dec-2022  Monthly        
+FAUTONSA                      Motor Vehicle Retail Sales: Foreign Autos                                                                                NSA  05-Dec-2022  Monthly        
+FAUTOSA                       Motor Vehicle Retail Sales: Foreign Autos                                                                                SA   05-Dec-2022  Monthly        
+FAUTOSAAR                     Motor Vehicle Retail Sales: Foreign Autos                                                                                SAAR 05-Dec-2022  Monthly        
+FLTRUCKSNSA                   Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  NSA  05-Dec-2022  Monthly        
+FLTRUCKSSA                    Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  SA   05-Dec-2022  Monthly        
+FLTRUCKSSAAR                  Motor Vehicle Retail Sales: Foreign Light Weight Trucks                                                                  SAAR 05-Dec-2022  Monthly        
+HTRUCKSNSA                    Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          NSA  05-Dec-2022  Monthly        
+HTRUCKSSA                     Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          SA   05-Dec-2022  Monthly        
+HTRUCKSSAAR                   Motor Vehicle Retail Sales: Heavy Weight Trucks                                                                          SAAR 05-Dec-2022  Monthly        
+LAUTONSA                      Motor Vehicle Retail Sales: Domestic and Foreign Autos                                                                   NSA  05-Dec-2022  Monthly        
+LAUTOSA                       Motor Vehicle Retail Sales: Domestic and Foreign Autos                                                                   SAAR 05-Dec-2022  Monthly        
+LTOTALNSA                     Light Weight Vehicle Sales                                                                                               NSA  05-Dec-2022  Monthly        
+LTRUCKNSA                     Motor Vehicle Retail Sales: Light Weight Trucks                                                                          NSA  05-Dec-2022  Monthly        
+LTRUCKSA                      Motor Vehicle Retail Sales: Light Weight Trucks                                                                          SAAR 05-Dec-2022  Monthly        
+MAUINSA                       Mexican Auto Imports                                                                                                     NSA  01-Dec-2022  Monthly        
+MAUISA                        Mexican Auto Imports                                                                                                     SA   01-Dec-2022  Monthly        
+TOTALNSA                      Total Vehicle Sales                                                                                                      NSA  05-Dec-2022  Monthly        
+TOTALSA                       Total Vehicle Sales                                                                                                      SAAR 05-Dec-2022  Monthly        

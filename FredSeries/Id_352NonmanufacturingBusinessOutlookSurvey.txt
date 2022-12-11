@@ -1,129 +1,129 @@
 Id : 352  Nonmanufacturing Business Outlook Survey
-AWBNDEC156MNFRBPHI                      Current Average Employee Workweek; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly
-AWBNDEC156MSFRBPHI                      Current Average Employee Workweek; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly
-AWBNDIF066MNFRBPHI                      Current Average Employee Workweek; Diffusion Index for Federal Reserve District 3: Philadelphia                          NSA  22-Nov-2022  Monthly
-AWBNDIF066MSFRBPHI                      Current Average Employee Workweek; Diffusion Index for Federal Reserve District 3: Philadelphia                          SA   22-Nov-2022  Monthly
-AWBNINC156MNFRBPHI                      Current Average Employee Workweek; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly
-AWBNINC156MSFRBPHI                      Current Average Employee Workweek; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly
-AWBNNC156MNFRBPHI                       Current Average Employee Workweek; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly
-AWBNNC156MSFRBPHI                       Current Average Employee Workweek; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly
-CEBNDEC156MNFRBPHI                      Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve Dis  NSA  22-Nov-2022  Monthly
-CEBNDEC156MSFRBPHI                      Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve Dis  SA   22-Nov-2022  Monthly
-CEBNDIF066MNFRBPHI                      Current Equipment and Software Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia        NSA  22-Nov-2022  Monthly
-CEBNDIF066MSFRBPHI                      Current Equipment and Software Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia        SA   22-Nov-2022  Monthly
-CEBNINC156MNFRBPHI                      Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve Dis  NSA  22-Nov-2022  Monthly
-CEBNINC156MSFRBPHI                      Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve Dis  SA   22-Nov-2022  Monthly
-CEBNNC156MNFRBPHI                       Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve Dis  NSA  22-Nov-2022  Monthly
-CEBNNC156MSFRBPHI                       Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve Dis  SA   22-Nov-2022  Monthly
-CPBNDEC156MNFRBPHI                      Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly
-CPBNDEC156MSFRBPHI                      Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve District 3:  SA   22-Nov-2022  Monthly
-CPBNDIF066MNFRBPHI                      Current Physical Plant Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia                NSA  22-Nov-2022  Monthly
-CPBNDIF066MSFRBPHI                      Current Physical Plant Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia                SA   22-Nov-2022  Monthly
-CPBNINC156MNFRBPHI                      Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly
-CPBNINC156MSFRBPHI                      Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve District 3:  SA   22-Nov-2022  Monthly
-CPBNNC156MNFRBPHI                       Current Physical Plant Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly
-CPBNNC156MSFRBPHI                       Current Physical Plant Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve District 3:  SA   22-Nov-2022  Monthly
-GABNDEC156MNFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fed  NSA  22-Nov-2022  Monthly
-GABNDEC156MSFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fed  SA   22-Nov-2022  Monthly
-GABNDIF066MNFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Ph  NSA  22-Nov-2022  Monthly
-GABNDIF066MSFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Ph  SA   22-Nov-2022  Monthly
-GABNINC156MNFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fed  NSA  22-Nov-2022  Monthly
-GABNINC156MSFRBPHI                      Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fed  SA   22-Nov-2022  Monthly
-GABNNC156MNFRBPHI                       Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fed  NSA  22-Nov-2022  Monthly
-GABNNC156MSFRBPHI                       Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fed  SA   22-Nov-2022  Monthly
-GAFBNDEC156MNFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fede  NSA  22-Nov-2022  Monthly
-GAFBNDEC156MSFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fede  SA   22-Nov-2022  Monthly
-GAFBNDIF066MNFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Phi  NSA  22-Nov-2022  Monthly
-GAFBNDIF066MSFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Phi  SA   22-Nov-2022  Monthly
-GAFBNINC156MNFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fede  NSA  22-Nov-2022  Monthly
-GAFBNINC156MSFRBPHI                     Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fede  SA   22-Nov-2022  Monthly
-GAFBNNC156MNFRBPHI                      Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fede  NSA  22-Nov-2022  Monthly
-GAFBNNC156MSFRBPHI                      Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fede  SA   22-Nov-2022  Monthly
-GARBNDEC156MNFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fed  NSA  22-Nov-2022  Monthly
-GARBNDEC156MSFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fed  SA   22-Nov-2022  Monthly
-GARBNDIF066MNFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Ph  NSA  22-Nov-2022  Monthly
-GARBNDIF066MSFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Ph  SA   22-Nov-2022  Monthly
-GARBNINC156MNFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fed  NSA  22-Nov-2022  Monthly
-GARBNINC156MSFRBPHI                     Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fed  SA   22-Nov-2022  Monthly
-GARBNNC156MNFRBPHI                      Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fed  NSA  22-Nov-2022  Monthly
-GARBNNC156MSFRBPHI                      Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fed  SA   22-Nov-2022  Monthly
-GARFBNDEC156MNFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fede  NSA  22-Nov-2022  Monthly
-GARFBNDEC156MSFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fede  SA   22-Nov-2022  Monthly
-GARFBNDIF066MNFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Phi  NSA  22-Nov-2022  Monthly
-GARFBNDIF066MSFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Phi  SA   22-Nov-2022  Monthly
-GARFBNINC156MNFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fede  NSA  22-Nov-2022  Monthly
-GARFBNINC156MSFRBPHI                    Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fede  SA   22-Nov-2022  Monthly
-GARFBNNC156MNFRBPHI                     Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fede  NSA  22-Nov-2022  Monthly
-GARFBNNC156MSFRBPHI                     Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fede  SA   22-Nov-2022  Monthly
-IVBNDEC156MNFRBPHI                      Current Inventories; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-IVBNDEC156MSFRBPHI                      Current Inventories; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-IVBNDIF066MNFRBPHI                      Current Inventories; Diffusion Index for Federal Reserve District 3: Philadelphia                                        NSA  22-Nov-2022  Monthly
-IVBNDIF066MSFRBPHI                      Current Inventories; Diffusion Index for Federal Reserve District 3: Philadelphia                                        SA   22-Nov-2022  Monthly
-IVBNINC156MNFRBPHI                      Current Inventories; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-IVBNINC156MSFRBPHI                      Current Inventories; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-IVBNNC156MNFRBPHI                       Current Inventories; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-IVBNNC156MSFRBPHI                       Current Inventories; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-NFBNDEC156MNFRBPHI                      Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Decreases for Federal Reserve Distric  NSA  22-Nov-2022  Monthly
-NFBNDEC156MSFRBPHI                      Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Decreases for Federal Reserve Distric  SA   22-Nov-2022  Monthly
-NFBNDIF066MNFRBPHI                      Current Number of Full-Time Permanent Employees; Diffusion Index for Federal Reserve District 3: Philadelphia            NSA  22-Nov-2022  Monthly
-NFBNDIF066MSFRBPHI                      Current Number of Full-Time Permanent Employees; Diffusion Index for Federal Reserve District 3: Philadelphia            SA   22-Nov-2022  Monthly
-NFBNINC156MNFRBPHI                      Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Increases for Federal Reserve Distric  NSA  22-Nov-2022  Monthly
-NFBNINC156MSFRBPHI                      Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Increases for Federal Reserve Distric  SA   22-Nov-2022  Monthly
-NFBNNC156MNFRBPHI                       Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting No Change for Federal Reserve Distric  NSA  22-Nov-2022  Monthly
-NFBNNC156MSFRBPHI                       Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting No Change for Federal Reserve Distric  SA   22-Nov-2022  Monthly
-NOBNDEC156MNFRBPHI                      Current New Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly
-NOBNDEC156MSFRBPHI                      Current New Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly
-NOBNDIF066MNFRBPHI                      Current New Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                         NSA  22-Nov-2022  Monthly
-NOBNDIF066MSFRBPHI                      Current New Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                         SA   22-Nov-2022  Monthly
-NOBNINC156MNFRBPHI                      Current New Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly
-NOBNINC156MSFRBPHI                      Current New Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly
-NOBNNC156MNFRBPHI                       Current New Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly
-NOBNNC156MSFRBPHI                       Current New Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly
-NPBNDEC156MNFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Decreases for Federal   NSA  22-Nov-2022  Monthly
-NPBNDEC156MSFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Decreases for Federal   SA   22-Nov-2022  Monthly
-NPBNDIF066MNFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Diffusion Index for Federal Reserve District 3: Philade  NSA  22-Nov-2022  Monthly
-NPBNDIF066MSFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Diffusion Index for Federal Reserve District 3: Philade  SA   22-Nov-2022  Monthly
-NPBNINC156MNFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Increases for Federal   NSA  22-Nov-2022  Monthly
-NPBNINC156MSFRBPHI                      Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Increases for Federal   SA   22-Nov-2022  Monthly
-NPBNNC156MNFRBPHI                       Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting No Change for Federal   NSA  22-Nov-2022  Monthly
-NPBNNC156MSFRBPHI                       Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting No Change for Federal   SA   22-Nov-2022  Monthly
-PPBNDEC156MNFRBPHI                      Current Prices Paid; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-PPBNDEC156MSFRBPHI                      Current Prices Paid; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-PPBNDIF066MNFRBPHI                      Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia                                        NSA  22-Nov-2022  Monthly
-PPBNDIF066MSFRBPHI                      Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia                                        SA   22-Nov-2022  Monthly
-PPBNINC156MNFRBPHI                      Current Prices Paid; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-PPBNINC156MSFRBPHI                      Current Prices Paid; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-PPBNNC156MNFRBPHI                       Current Prices Paid; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly
-PPBNNC156MSFRBPHI                       Current Prices Paid; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly
-PRBNDEC156MNFRBPHI                      Current Prices Received; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-PRBNDEC156MSFRBPHI                      Current Prices Received; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-PRBNDIF066MNFRBPHI                      Current Prices Received; Diffusion Index for Federal Reserve District 3: Philadelphia                                    NSA  22-Nov-2022  Monthly
-PRBNDIF066MSFRBPHI                      Current Prices Received; Diffusion Index for Federal Reserve District 3: Philadelphia                                    SA   22-Nov-2022  Monthly
-PRBNINC156MNFRBPHI                      Current Prices Received; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-PRBNINC156MSFRBPHI                      Current Prices Received; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-PRBNNC156MNFRBPHI                       Current Prices Received; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-PRBNNC156MSFRBPHI                       Current Prices Received; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-SRBNDEC156MNFRBPHI                      Current Sales or Revenues; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly
-SRBNDEC156MSFRBPHI                      Current Sales or Revenues; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly
-SRBNDIF066MNFRBPHI                      Current Sales or Revenues; Diffusion Index for Federal Reserve District 3: Philadelphia                                  NSA  22-Nov-2022  Monthly
-SRBNDIF066MSFRBPHI                      Current Sales or Revenues; Diffusion Index for Federal Reserve District 3: Philadelphia                                  SA   22-Nov-2022  Monthly
-SRBNINC156MNFRBPHI                      Current Sales or Revenues; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly
-SRBNINC156MSFRBPHI                      Current Sales or Revenues; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly
-SRBNNC156MNFRBPHI                       Current Sales or Revenues; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly
-SRBNNC156MSFRBPHI                       Current Sales or Revenues; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly
-UOBNDEC156MNFRBPHI                      Current Unfilled Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-UOBNDEC156MSFRBPHI                      Current Unfilled Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-UOBNDIF066MNFRBPHI                      Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                    NSA  22-Nov-2022  Monthly
-UOBNDIF066MSFRBPHI                      Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                    SA   22-Nov-2022  Monthly
-UOBNINC156MNFRBPHI                      Current Unfilled Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-UOBNINC156MSFRBPHI                      Current Unfilled Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-UOBNNC156MNFRBPHI                       Current Unfilled Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly
-UOBNNC156MSFRBPHI                       Current Unfilled Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly
-WBBNDEC156MNFRBPHI                      Current Wages and Benefit Costs; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly
-WBBNDEC156MSFRBPHI                      Current Wages and Benefit Costs; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia SA   22-Nov-2022  Monthly
-WBBNDIF066MNFRBPHI                      Current Wages and Benefit Costs; Diffusion Index for Federal Reserve District 3: Philadelphia                            NSA  22-Nov-2022  Monthly
-WBBNDIF066MSFRBPHI                      Current Wages and Benefit Costs; Diffusion Index for Federal Reserve District 3: Philadelphia                            SA   22-Nov-2022  Monthly
-WBBNINC156MNFRBPHI                      Current Wages and Benefit Costs; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly
-WBBNINC156MSFRBPHI                      Current Wages and Benefit Costs; Percent of Respondents Reporting Increases for FRB - Philadelphia District              SA   22-Nov-2022  Monthly
-WBBNNC156MNFRBPHI                       Current Wages and Benefit Costs; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly
-WBBNNC156MSFRBPHI                       Current Wages and Benefit Costs; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia SA   22-Nov-2022  Monthly
+AWBNDEC156MNFRBPHI            Current Average Employee Workweek; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly        
+AWBNDEC156MSFRBPHI            Current Average Employee Workweek; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly        
+AWBNDIF066MNFRBPHI            Current Average Employee Workweek; Diffusion Index for Federal Reserve District 3: Philadelphia                          NSA  22-Nov-2022  Monthly        
+AWBNDIF066MSFRBPHI            Current Average Employee Workweek; Diffusion Index for Federal Reserve District 3: Philadelphia                          SA   22-Nov-2022  Monthly        
+AWBNINC156MNFRBPHI            Current Average Employee Workweek; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly        
+AWBNINC156MSFRBPHI            Current Average Employee Workweek; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly        
+AWBNNC156MNFRBPHI             Current Average Employee Workweek; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelp  NSA  22-Nov-2022  Monthly        
+AWBNNC156MSFRBPHI             Current Average Employee Workweek; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelp  SA   22-Nov-2022  Monthly        
+CEBNDEC156MNFRBPHI            Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve Dis  NSA  22-Nov-2022  Monthly        
+CEBNDEC156MSFRBPHI            Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve Dis  SA   22-Nov-2022  Monthly        
+CEBNDIF066MNFRBPHI            Current Equipment and Software Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia        NSA  22-Nov-2022  Monthly        
+CEBNDIF066MSFRBPHI            Current Equipment and Software Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia        SA   22-Nov-2022  Monthly        
+CEBNINC156MNFRBPHI            Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve Dis  NSA  22-Nov-2022  Monthly        
+CEBNINC156MSFRBPHI            Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve Dis  SA   22-Nov-2022  Monthly        
+CEBNNC156MNFRBPHI             Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve Dis  NSA  22-Nov-2022  Monthly        
+CEBNNC156MSFRBPHI             Current Equipment and Software Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve Dis  SA   22-Nov-2022  Monthly        
+CPBNDEC156MNFRBPHI            Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly        
+CPBNDEC156MSFRBPHI            Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Decreases for Federal Reserve District 3:  SA   22-Nov-2022  Monthly        
+CPBNDIF066MNFRBPHI            Current Physical Plant Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia                NSA  22-Nov-2022  Monthly        
+CPBNDIF066MSFRBPHI            Current Physical Plant Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia                SA   22-Nov-2022  Monthly        
+CPBNINC156MNFRBPHI            Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly        
+CPBNINC156MSFRBPHI            Current Physical Plant Capital Expenditures; Percent of Respondents Reporting Increases for Federal Reserve District 3:  SA   22-Nov-2022  Monthly        
+CPBNNC156MNFRBPHI             Current Physical Plant Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve District 3:  NSA  22-Nov-2022  Monthly        
+CPBNNC156MSFRBPHI             Current Physical Plant Capital Expenditures; Percent of Respondents Reporting No Change for Federal Reserve District 3:  SA   22-Nov-2022  Monthly        
+GABNDEC156MNFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fed  NSA  22-Nov-2022  Monthly        
+GABNDEC156MSFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fed  SA   22-Nov-2022  Monthly        
+GABNDIF066MNFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Ph  NSA  22-Nov-2022  Monthly        
+GABNDIF066MSFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Ph  SA   22-Nov-2022  Monthly        
+GABNINC156MNFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fed  NSA  22-Nov-2022  Monthly        
+GABNINC156MSFRBPHI            Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fed  SA   22-Nov-2022  Monthly        
+GABNNC156MNFRBPHI             Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fed  NSA  22-Nov-2022  Monthly        
+GABNNC156MSFRBPHI             Current General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fed  SA   22-Nov-2022  Monthly        
+GAFBNDEC156MNFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fede  NSA  22-Nov-2022  Monthly        
+GAFBNDEC156MSFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Decreases for Fede  SA   22-Nov-2022  Monthly        
+GAFBNDIF066MNFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Phi  NSA  22-Nov-2022  Monthly        
+GAFBNDIF066MSFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Diffusion Index for Federal Reserve District 3: Phi  SA   22-Nov-2022  Monthly        
+GAFBNINC156MNFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fede  NSA  22-Nov-2022  Monthly        
+GAFBNINC156MSFRBPHI           Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting Increases for Fede  SA   22-Nov-2022  Monthly        
+GAFBNNC156MNFRBPHI            Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fede  NSA  22-Nov-2022  Monthly        
+GAFBNNC156MSFRBPHI            Future General Activity, Perceptions of Respondents for their Firm; Percent of Respondents Reporting No Change for Fede  SA   22-Nov-2022  Monthly        
+GARBNDEC156MNFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fed  NSA  22-Nov-2022  Monthly        
+GARBNDEC156MSFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fed  SA   22-Nov-2022  Monthly        
+GARBNDIF066MNFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Ph  NSA  22-Nov-2022  Monthly        
+GARBNDIF066MSFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Ph  SA   22-Nov-2022  Monthly        
+GARBNINC156MNFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fed  NSA  22-Nov-2022  Monthly        
+GARBNINC156MSFRBPHI           Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fed  SA   22-Nov-2022  Monthly        
+GARBNNC156MNFRBPHI            Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fed  NSA  22-Nov-2022  Monthly        
+GARBNNC156MSFRBPHI            Current General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fed  SA   22-Nov-2022  Monthly        
+GARFBNDEC156MNFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fede  NSA  22-Nov-2022  Monthly        
+GARFBNDEC156MSFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Decreases for Fede  SA   22-Nov-2022  Monthly        
+GARFBNDIF066MNFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Phi  NSA  22-Nov-2022  Monthly        
+GARFBNDIF066MSFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Diffusion Index for Federal Reserve District 3: Phi  SA   22-Nov-2022  Monthly        
+GARFBNINC156MNFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fede  NSA  22-Nov-2022  Monthly        
+GARFBNINC156MSFRBPHI          Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting Increases for Fede  SA   22-Nov-2022  Monthly        
+GARFBNNC156MNFRBPHI           Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fede  NSA  22-Nov-2022  Monthly        
+GARFBNNC156MSFRBPHI           Future General Activity, Perceptions of Respondents for the Region; Percent of Respondents Reporting No Change for Fede  SA   22-Nov-2022  Monthly        
+IVBNDEC156MNFRBPHI            Current Inventories; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+IVBNDEC156MSFRBPHI            Current Inventories; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+IVBNDIF066MNFRBPHI            Current Inventories; Diffusion Index for Federal Reserve District 3: Philadelphia                                        NSA  22-Nov-2022  Monthly        
+IVBNDIF066MSFRBPHI            Current Inventories; Diffusion Index for Federal Reserve District 3: Philadelphia                                        SA   22-Nov-2022  Monthly        
+IVBNINC156MNFRBPHI            Current Inventories; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+IVBNINC156MSFRBPHI            Current Inventories; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+IVBNNC156MNFRBPHI             Current Inventories; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+IVBNNC156MSFRBPHI             Current Inventories; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+NFBNDEC156MNFRBPHI            Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Decreases for Federal Reserve Distric  NSA  22-Nov-2022  Monthly        
+NFBNDEC156MSFRBPHI            Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Decreases for Federal Reserve Distric  SA   22-Nov-2022  Monthly        
+NFBNDIF066MNFRBPHI            Current Number of Full-Time Permanent Employees; Diffusion Index for Federal Reserve District 3: Philadelphia            NSA  22-Nov-2022  Monthly        
+NFBNDIF066MSFRBPHI            Current Number of Full-Time Permanent Employees; Diffusion Index for Federal Reserve District 3: Philadelphia            SA   22-Nov-2022  Monthly        
+NFBNINC156MNFRBPHI            Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Increases for Federal Reserve Distric  NSA  22-Nov-2022  Monthly        
+NFBNINC156MSFRBPHI            Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting Increases for Federal Reserve Distric  SA   22-Nov-2022  Monthly        
+NFBNNC156MNFRBPHI             Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting No Change for Federal Reserve Distric  NSA  22-Nov-2022  Monthly        
+NFBNNC156MSFRBPHI             Current Number of Full-Time Permanent Employees; Percent of Respondents Reporting No Change for Federal Reserve Distric  SA   22-Nov-2022  Monthly        
+NOBNDEC156MNFRBPHI            Current New Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly        
+NOBNDEC156MSFRBPHI            Current New Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly        
+NOBNDIF066MNFRBPHI            Current New Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                         NSA  22-Nov-2022  Monthly        
+NOBNDIF066MSFRBPHI            Current New Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                         SA   22-Nov-2022  Monthly        
+NOBNINC156MNFRBPHI            Current New Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly        
+NOBNINC156MSFRBPHI            Current New Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly        
+NOBNNC156MNFRBPHI             Current New Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia              NSA  22-Nov-2022  Monthly        
+NOBNNC156MSFRBPHI             Current New Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia              SA   22-Nov-2022  Monthly        
+NPBNDEC156MNFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Decreases for Federal   NSA  22-Nov-2022  Monthly        
+NPBNDEC156MSFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Decreases for Federal   SA   22-Nov-2022  Monthly        
+NPBNDIF066MNFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Diffusion Index for Federal Reserve District 3: Philade  NSA  22-Nov-2022  Monthly        
+NPBNDIF066MSFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Diffusion Index for Federal Reserve District 3: Philade  SA   22-Nov-2022  Monthly        
+NPBNINC156MNFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Increases for Federal   NSA  22-Nov-2022  Monthly        
+NPBNINC156MSFRBPHI            Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting Increases for Federal   SA   22-Nov-2022  Monthly        
+NPBNNC156MNFRBPHI             Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting No Change for Federal   NSA  22-Nov-2022  Monthly        
+NPBNNC156MSFRBPHI             Current Number of Part-Time, Temporary, and Contract Employees; Percent of Respondents Reporting No Change for Federal   SA   22-Nov-2022  Monthly        
+PPBNDEC156MNFRBPHI            Current Prices Paid; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+PPBNDEC156MSFRBPHI            Current Prices Paid; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+PPBNDIF066MNFRBPHI            Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia                                        NSA  22-Nov-2022  Monthly        
+PPBNDIF066MSFRBPHI            Current Prices Paid; Diffusion Index for Federal Reserve District 3: Philadelphia                                        SA   22-Nov-2022  Monthly        
+PPBNINC156MNFRBPHI            Current Prices Paid; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+PPBNINC156MSFRBPHI            Current Prices Paid; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+PPBNNC156MNFRBPHI             Current Prices Paid; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             NSA  22-Nov-2022  Monthly        
+PPBNNC156MSFRBPHI             Current Prices Paid; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia             SA   22-Nov-2022  Monthly        
+PRBNDEC156MNFRBPHI            Current Prices Received; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+PRBNDEC156MSFRBPHI            Current Prices Received; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+PRBNDIF066MNFRBPHI            Current Prices Received; Diffusion Index for Federal Reserve District 3: Philadelphia                                    NSA  22-Nov-2022  Monthly        
+PRBNDIF066MSFRBPHI            Current Prices Received; Diffusion Index for Federal Reserve District 3: Philadelphia                                    SA   22-Nov-2022  Monthly        
+PRBNINC156MNFRBPHI            Current Prices Received; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+PRBNINC156MSFRBPHI            Current Prices Received; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+PRBNNC156MNFRBPHI             Current Prices Received; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+PRBNNC156MSFRBPHI             Current Prices Received; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+SRBNDEC156MNFRBPHI            Current Sales or Revenues; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly        
+SRBNDEC156MSFRBPHI            Current Sales or Revenues; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly        
+SRBNDIF066MNFRBPHI            Current Sales or Revenues; Diffusion Index for Federal Reserve District 3: Philadelphia                                  NSA  22-Nov-2022  Monthly        
+SRBNDIF066MSFRBPHI            Current Sales or Revenues; Diffusion Index for Federal Reserve District 3: Philadelphia                                  SA   22-Nov-2022  Monthly        
+SRBNINC156MNFRBPHI            Current Sales or Revenues; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly        
+SRBNINC156MSFRBPHI            Current Sales or Revenues; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly        
+SRBNNC156MNFRBPHI             Current Sales or Revenues; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia       NSA  22-Nov-2022  Monthly        
+SRBNNC156MSFRBPHI             Current Sales or Revenues; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia       SA   22-Nov-2022  Monthly        
+UOBNDEC156MNFRBPHI            Current Unfilled Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+UOBNDEC156MSFRBPHI            Current Unfilled Orders; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+UOBNDIF066MNFRBPHI            Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                    NSA  22-Nov-2022  Monthly        
+UOBNDIF066MSFRBPHI            Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                                    SA   22-Nov-2022  Monthly        
+UOBNINC156MNFRBPHI            Current Unfilled Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+UOBNINC156MSFRBPHI            Current Unfilled Orders; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+UOBNNC156MNFRBPHI             Current Unfilled Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         NSA  22-Nov-2022  Monthly        
+UOBNNC156MSFRBPHI             Current Unfilled Orders; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia         SA   22-Nov-2022  Monthly        
+WBBNDEC156MNFRBPHI            Current Wages and Benefit Costs; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly        
+WBBNDEC156MSFRBPHI            Current Wages and Benefit Costs; Percent of Respondents Reporting Decreases for Federal Reserve District 3: Philadelphia SA   22-Nov-2022  Monthly        
+WBBNDIF066MNFRBPHI            Current Wages and Benefit Costs; Diffusion Index for Federal Reserve District 3: Philadelphia                            NSA  22-Nov-2022  Monthly        
+WBBNDIF066MSFRBPHI            Current Wages and Benefit Costs; Diffusion Index for Federal Reserve District 3: Philadelphia                            SA   22-Nov-2022  Monthly        
+WBBNINC156MNFRBPHI            Current Wages and Benefit Costs; Percent of Respondents Reporting Increases for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly        
+WBBNINC156MSFRBPHI            Current Wages and Benefit Costs; Percent of Respondents Reporting Increases for FRB - Philadelphia District              SA   22-Nov-2022  Monthly        
+WBBNNC156MNFRBPHI             Current Wages and Benefit Costs; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia NSA  22-Nov-2022  Monthly        
+WBBNNC156MSFRBPHI             Current Wages and Benefit Costs; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia SA   22-Nov-2022  Monthly        

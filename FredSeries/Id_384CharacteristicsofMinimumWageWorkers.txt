@@ -1,184 +1,184 @@
 Id : 384  Characteristics of Minimum Wage Workers
-ACPRC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Academic Program                                           NSA  20-Apr-2022  Annual
-ACPRC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual
-ACPRC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual
-ACPRC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual
-ACPRC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual
-ACPRC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual
-ACPRC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Academic Program                                           NSA  20-Apr-2022  Annual
-ACPRC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual
-ACPRC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual
-ACPRC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual
-ACPRC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual
-ASDEC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Associate Degree                                           NSA  20-Apr-2022  Annual
-ASDEC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual
-ASDEC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual
-ASDEC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual
-ASDEC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual
-ASDEC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual
-ASDEC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Associate Degree                                           NSA  20-Apr-2022  Annual
-ASDEC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual
-ASDEC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual
-ASDEC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual
-ASDEC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual
-BADEC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Bachelor's Degree                                          NSA  20-Apr-2022  Annual
-BADEC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual
-BADEC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual
-BADEC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual
-BADEC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual
-BADEC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual
-BADEC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Bachelor's Degree                                          NSA  20-Apr-2022  Annual
-BADEC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual
-BADEC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual
-BADEC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual
-BADEC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual
-BDAHC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: College Graduates: Bachelor's Degree and Higher            NSA  20-Apr-2022  Annual
-BDAHC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual
-BDAHC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual
-BDAHC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual
-BDAHC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual
-BDAHC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual
-BDAHC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: College Graduates: Bachelor's Degree and Higher            NSA  20-Apr-2022  Annual
-BDAHC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual
-BDAHC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual
-BDAHC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual
-BDAHC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual
-DCDEC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Doctoral Degree                                            NSA  20-Apr-2022  Annual
-DCDEC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual
-DCDEC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual
-DCDEC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual
-DCDEC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual
-DCDEC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual
-DCDEC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Doctoral Degree                                            NSA  20-Apr-2022  Annual
-DCDEC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual
-DCDEC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual
-DCDEC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual
-DCDEC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual
-HDNCC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates, no College                          NSA  20-Apr-2022  Annual
-HDNCC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual
-HDNCC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual
-HDNCC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual
-HDNCC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual
-HDNCC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual
-HDNCC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates, no College                          NSA  20-Apr-2022  Annual
-HDNCC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual
-HDNCC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual
-HDNCC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual
-HDNCC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual
-HS13C1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 1 to 3 Years of High School                                NSA  20-Apr-2022  Annual
-HS13C10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual
-HS13C11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual
-HS13C2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual
-HS13C3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual
-HS13C4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual
-HS13C5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 1 to 3 Years of High School                                NSA  20-Apr-2022  Annual
-HS13C6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual
-HS13C7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual
-HS13C8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual
-HS13C9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual
-HS4NC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 4 Years of High School, no Diploma                         NSA  20-Apr-2022  Annual
-HS4NC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual
-HS4NC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual
-HS4NC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual
-HS4NC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual
-HS4NC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual
-HS4NC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 4 Years of High School, no Diploma                         NSA  20-Apr-2022  Annual
-HS4NC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual
-HS4NC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual
-HS4NC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual
-HS4NC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual
-HSGDC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates or more                              NSA  20-Apr-2022  Annual
-HSGDC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual
-HSGDC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual
-HSGDC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual
-HSGDC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual
-HSGDC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual
-HSGDC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates or more                              NSA  20-Apr-2022  Annual
-HSGDC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual
-HSGDC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual
-HSGDC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual
-HSGDC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual
-L1HSC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than 1 Year of High School                            NSA  20-Apr-2022  Annual
-L1HSC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual
-L1HSC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual
-L1HSC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual
-L1HSC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual
-L1HSC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual
-L1HSC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than 1 Year of High School                            NSA  20-Apr-2022  Annual
-L1HSC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual
-L1HSC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual
-L1HSC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual
-L1HSC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual
-LHSDC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than a High School Diploma                            NSA  20-Apr-2022  Annual
-LHSDC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual
-LHSDC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual
-LHSDC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual
-LHSDC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual
-LHSDC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual
-LHSDC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than a High School Diploma                            NSA  20-Apr-2022  Annual
-LHSDC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual
-LHSDC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual
-LHSDC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual
-LHSDC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual
-MADEC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Master's Degree                                            NSA  20-Apr-2022  Annual
-MADEC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual
-MADEC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual
-MADEC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual
-MADEC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual
-MADEC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual
-MADEC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Master's Degree                                            NSA  20-Apr-2022  Annual
-MADEC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual
-MADEC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual
-MADEC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual
-MADEC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual
-OCPRC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Occupational Program                                       NSA  20-Apr-2022  Annual
-OCPRC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual
-OCPRC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual
-OCPRC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual
-OCPRC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual
-OCPRC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual
-OCPRC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Occupational Program                                       NSA  20-Apr-2022  Annual
-OCPRC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual
-OCPRC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual
-OCPRC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual
-OCPRC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual
-PRDEC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Professional Degree                                        NSA  20-Apr-2022  Annual
-PRDEC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual
-PRDEC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual
-PRDEC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual
-PRDEC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual
-PRDEC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual
-PRDEC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Professional Degree                                        NSA  20-Apr-2022  Annual
-PRDEC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual
-PRDEC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual
-PRDEC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual
-PRDEC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual
-SCADC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College or Associate Degree                           NSA  20-Apr-2022  Annual
-SCADC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual
-SCADC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual
-SCADC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual
-SCADC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual
-SCADC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual
-SCADC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College or Associate Degree                           NSA  20-Apr-2022  Annual
-SCADC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual
-SCADC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual
-SCADC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual
-SCADC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual
-SCNDC1                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College, no Degree                                    NSA  20-Apr-2022  Annual
-SCNDC10                                 Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual
-SCNDC11                                 Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual
-SCNDC2                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual
-SCNDC3                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual
-SCNDC4                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual
-SCNDC5                                  Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College, no Degree                                    NSA  20-Apr-2022  Annual
-SCNDC6                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual
-SCNDC7                                  Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual
-SCNDC8                                  Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual
-SCNDC9                                  Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual
-T16OC1                                  Total Wage and Salary Workers Paid Hourly Rates: 16 Years and Over                                                       NSA  20-Apr-2022  Annual
-T16OC10                                 Total Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over                                 NSA  20-Apr-2022  Annual
-T16OC11                                 Total Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over                              NSA  20-Apr-2022  Annual
-T16OC2                                  Total Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over                        NSA  20-Apr-2022  Annual
-T16OC3                                  Total Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over                                 NSA  20-Apr-2022  Annual
-T16OC4                                  Total Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over                              NSA  20-Apr-2022  Annual
-T16OC9                                  Total Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over                        NSA  20-Apr-2022  Annual
+ACPRC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Academic Program                                           NSA  20-Apr-2022  Annual         
+ACPRC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual         
+ACPRC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual         
+ACPRC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual         
+ACPRC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual         
+ACPRC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual         
+ACPRC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Academic Program                                           NSA  20-Apr-2022  Annual         
+ACPRC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual         
+ACPRC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                     NSA  20-Apr-2022  Annual         
+ACPRC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program                  NSA  20-Apr-2022  Annual         
+ACPRC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Academic Program            NSA  20-Apr-2022  Annual         
+ASDEC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Associate Degree                                           NSA  20-Apr-2022  Annual         
+ASDEC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual         
+ASDEC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual         
+ASDEC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual         
+ASDEC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual         
+ASDEC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual         
+ASDEC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Associate Degree                                           NSA  20-Apr-2022  Annual         
+ASDEC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual         
+ASDEC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                     NSA  20-Apr-2022  Annual         
+ASDEC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree                  NSA  20-Apr-2022  Annual         
+ASDEC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Associate Degree            NSA  20-Apr-2022  Annual         
+BADEC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Bachelor's Degree                                          NSA  20-Apr-2022  Annual         
+BADEC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual         
+BADEC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual         
+BADEC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual         
+BADEC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual         
+BADEC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual         
+BADEC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Bachelor's Degree                                          NSA  20-Apr-2022  Annual         
+BADEC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual         
+BADEC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                    NSA  20-Apr-2022  Annual         
+BADEC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree                 NSA  20-Apr-2022  Annual         
+BADEC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Bachelor's Degree           NSA  20-Apr-2022  Annual         
+BDAHC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: College Graduates: Bachelor's Degree and Higher            NSA  20-Apr-2022  Annual         
+BDAHC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual         
+BDAHC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual         
+BDAHC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual         
+BDAHC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual         
+BDAHC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual         
+BDAHC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: College Graduates: Bachelor's Degree and Higher            NSA  20-Apr-2022  Annual         
+BDAHC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual         
+BDAHC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's Degre  NSA  20-Apr-2022  Annual         
+BDAHC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelor's De  NSA  20-Apr-2022  Annual         
+BDAHC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: College Graduates: Bachelo  NSA  20-Apr-2022  Annual         
+DCDEC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Doctoral Degree                                            NSA  20-Apr-2022  Annual         
+DCDEC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual         
+DCDEC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual         
+DCDEC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual         
+DCDEC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual         
+DCDEC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual         
+DCDEC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Doctoral Degree                                            NSA  20-Apr-2022  Annual         
+DCDEC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual         
+DCDEC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                      NSA  20-Apr-2022  Annual         
+DCDEC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree                   NSA  20-Apr-2022  Annual         
+DCDEC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Doctoral Degree             NSA  20-Apr-2022  Annual         
+HDNCC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates, no College                          NSA  20-Apr-2022  Annual         
+HDNCC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual         
+HDNCC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual         
+HDNCC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual         
+HDNCC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual         
+HDNCC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual         
+HDNCC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates, no College                          NSA  20-Apr-2022  Annual         
+HDNCC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual         
+HDNCC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College    NSA  20-Apr-2022  Annual         
+HDNCC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no College NSA  20-Apr-2022  Annual         
+HDNCC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates, no   NSA  20-Apr-2022  Annual         
+HS13C1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 1 to 3 Years of High School                                NSA  20-Apr-2022  Annual         
+HS13C10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual         
+HS13C11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual         
+HS13C2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual         
+HS13C3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual         
+HS13C4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual         
+HS13C5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 1 to 3 Years of High School                                NSA  20-Apr-2022  Annual         
+HS13C6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual         
+HS13C7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School          NSA  20-Apr-2022  Annual         
+HS13C8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School       NSA  20-Apr-2022  Annual         
+HS13C9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 1 to 3 Years of High School NSA  20-Apr-2022  Annual         
+HS4NC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 4 Years of High School, no Diploma                         NSA  20-Apr-2022  Annual         
+HS4NC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual         
+HS4NC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual         
+HS4NC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual         
+HS4NC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual         
+HS4NC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual         
+HS4NC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: 4 Years of High School, no Diploma                         NSA  20-Apr-2022  Annual         
+HS4NC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual         
+HS4NC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diploma   NSA  20-Apr-2022  Annual         
+HS4NC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no Diplo  NSA  20-Apr-2022  Annual         
+HS4NC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: 4 Years of High School, no  NSA  20-Apr-2022  Annual         
+HSGDC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates or more                              NSA  20-Apr-2022  Annual         
+HSGDC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual         
+HSGDC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual         
+HSGDC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual         
+HSGDC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual         
+HSGDC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual         
+HSGDC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: High School Graduates or more                              NSA  20-Apr-2022  Annual         
+HSGDC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual         
+HSGDC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more        NSA  20-Apr-2022  Annual         
+HSGDC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or more     NSA  20-Apr-2022  Annual         
+HSGDC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: High School Graduates or m  NSA  20-Apr-2022  Annual         
+L1HSC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than 1 Year of High School                            NSA  20-Apr-2022  Annual         
+L1HSC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual         
+L1HSC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual         
+L1HSC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual         
+L1HSC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual         
+L1HSC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual         
+L1HSC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than 1 Year of High School                            NSA  20-Apr-2022  Annual         
+L1HSC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual         
+L1HSC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School      NSA  20-Apr-2022  Annual         
+L1HSC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High School   NSA  20-Apr-2022  Annual         
+L1HSC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than 1 Year of High S  NSA  20-Apr-2022  Annual         
+LHSDC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than a High School Diploma                            NSA  20-Apr-2022  Annual         
+LHSDC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual         
+LHSDC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual         
+LHSDC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual         
+LHSDC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual         
+LHSDC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual         
+LHSDC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Less than a High School Diploma                            NSA  20-Apr-2022  Annual         
+LHSDC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual         
+LHSDC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma      NSA  20-Apr-2022  Annual         
+LHSDC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Diploma   NSA  20-Apr-2022  Annual         
+LHSDC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Less than a High School Di  NSA  20-Apr-2022  Annual         
+MADEC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Master's Degree                                            NSA  20-Apr-2022  Annual         
+MADEC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual         
+MADEC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual         
+MADEC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual         
+MADEC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual         
+MADEC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual         
+MADEC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Master's Degree                                            NSA  20-Apr-2022  Annual         
+MADEC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual         
+MADEC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                      NSA  20-Apr-2022  Annual         
+MADEC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree                   NSA  20-Apr-2022  Annual         
+MADEC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Master's Degree             NSA  20-Apr-2022  Annual         
+OCPRC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Occupational Program                                       NSA  20-Apr-2022  Annual         
+OCPRC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual         
+OCPRC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual         
+OCPRC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual         
+OCPRC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual         
+OCPRC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual         
+OCPRC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Occupational Program                                       NSA  20-Apr-2022  Annual         
+OCPRC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual         
+OCPRC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program                 NSA  20-Apr-2022  Annual         
+OCPRC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program              NSA  20-Apr-2022  Annual         
+OCPRC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Occupational Program        NSA  20-Apr-2022  Annual         
+PRDEC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Professional Degree                                        NSA  20-Apr-2022  Annual         
+PRDEC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual         
+PRDEC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual         
+PRDEC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual         
+PRDEC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual         
+PRDEC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual         
+PRDEC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Professional Degree                                        NSA  20-Apr-2022  Annual         
+PRDEC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual         
+PRDEC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree                  NSA  20-Apr-2022  Annual         
+PRDEC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree               NSA  20-Apr-2022  Annual         
+PRDEC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Professional Degree         NSA  20-Apr-2022  Annual         
+SCADC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College or Associate Degree                           NSA  20-Apr-2022  Annual         
+SCADC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual         
+SCADC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual         
+SCADC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual         
+SCADC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual         
+SCADC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual         
+SCADC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College or Associate Degree                           NSA  20-Apr-2022  Annual         
+SCADC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual         
+SCADC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree     NSA  20-Apr-2022  Annual         
+SCADC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate Degree  NSA  20-Apr-2022  Annual         
+SCADC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College or Associate   NSA  20-Apr-2022  Annual         
+SCNDC1                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College, no Degree                                    NSA  20-Apr-2022  Annual         
+SCNDC10                       Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual         
+SCNDC11                       Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual         
+SCNDC2                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual         
+SCNDC3                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual         
+SCNDC4                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual         
+SCNDC5                        Wage and Salary Workers Paid Hourly Rates: 16 Years and Over: Some College, no Degree                                    NSA  20-Apr-2022  Annual         
+SCNDC6                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual         
+SCNDC7                        Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree              NSA  20-Apr-2022  Annual         
+SCNDC8                        Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree           NSA  20-Apr-2022  Annual         
+SCNDC9                        Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over: Some College, no Degree     NSA  20-Apr-2022  Annual         
+T16OC1                        Total Wage and Salary Workers Paid Hourly Rates: 16 Years and Over                                                       NSA  20-Apr-2022  Annual         
+T16OC10                       Total Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over                                 NSA  20-Apr-2022  Annual         
+T16OC11                       Total Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over                              NSA  20-Apr-2022  Annual         
+T16OC2                        Total Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over                        NSA  20-Apr-2022  Annual         
+T16OC3                        Total Wage and Salary Workers Paid at Prevailing Federal Minimum Wage: 16 Years and Over                                 NSA  20-Apr-2022  Annual         
+T16OC4                        Total Wage and Salary Workers Paid Below Prevailing Federal Minimum Wage: 16 Years and Over                              NSA  20-Apr-2022  Annual         
+T16OC9                        Total Wage and Salary Workers Paid at or Below Prevailing Federal Minimum Wage: 16 Years and Over                        NSA  20-Apr-2022  Annual         

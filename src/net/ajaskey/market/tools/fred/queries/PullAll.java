@@ -21,8 +21,6 @@ package net.ajaskey.market.tools.fred.queries;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 import net.ajaskey.common.Debug;
@@ -35,14 +33,12 @@ import net.ajaskey.market.tools.fred.ApiKey;
  * FRED about every Series in each Release.
  * 
  * Files are output for use in subsequent processing tools. The
- * <b>LastUpdate</b> field is very useful.
+ * <b>lastUpdate</b> field is very useful.
  *
  */
 public class PullAll {
 
-  static public String seriesOutputFormat = "%-40s%-120s %-4s %-12s %s";
-
-  static List<String> summary = new ArrayList<>();
+  // static public String seriesOutputFormat = "%-40s%-120s %-4s %-12s %s";
 
   static PrintWriter allSeriesPw = null;
 
@@ -76,13 +72,6 @@ public class PullAll {
     System.out.printf("processed = %d%n", num);
 
     allSeriesPw.close();
-    Collections.sort(summary);
-    try (PrintWriter pw = new PrintWriter("out/FRED-Release-Summary.txt")) {
-      pw.println("Id\tName\tSeries Count");
-      for (String s : summary) {
-        pw.println(s);
-      }
-    }
   }
 
   /**
@@ -128,13 +117,11 @@ public class PullAll {
               t = t.substring(0, 119);
             }
 
-            String sum = String.format(seriesOutputFormat, ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getLastUpdate(), ser.getFrequency());
+            String sum = String.format("%-30s%-120s %-4s %-12s %-15s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getLastUpdate(),
+                ser.getFrequency());
             pw.println(sum);
 
-            allSeriesPw.printf("%s %-5s %-50s%n", sum, rel.getId(), rel.getName());
-
-            String relsum = String.format("%s\t%s\t%d", rel.getId(), rel.getName(), serList.size());
-            summary.add(relsum);
+            allSeriesPw.printf("%s  %-3s %-1s%n", sum, rel.getId(), rel.getName());
 
             totalProcessed++;
           }

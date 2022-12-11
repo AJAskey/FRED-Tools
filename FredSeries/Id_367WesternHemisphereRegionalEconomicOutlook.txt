@@ -1,407 +1,407 @@
 Id : 367  Western Hemisphere Regional Economic Outlook
-ARGBCAGDPBP6                            Balance of Payments for Argentina                                                                                        NSA  04-Nov-2022  Annual
-ARGGGEIGDP                              General Government Expense for Argentina                                                                                 NSA  29-Oct-2019  Annual
-ARGGGRGDP                               General Government Revenue for Argentina                                                                                 NSA  29-Oct-2019  Annual
-ARGGGXCNLGDP                            General Government Net Lending/Borrowing for Argentina                                                                   NSA  04-Nov-2022  Annual
-ARGGGXGDP                               General Government Total Expenditure for Argentina                                                                       NSA  29-Oct-2019  Annual
-ARGGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Argentina                                                           NSA  04-Nov-2022  Annual
-ARGGGXWDGGDP                            General Government Gross Debt for Argentina                                                                              NSA  04-Nov-2022  Annual
-ARGNGDPD                                Gross Domestic Product in U.S. Dollars for Argentina                                                                     NSA  29-Oct-2019  Annual
-ARGNGDPFY                               Fiscal Year Gross Domestic Product for Argentina                                                                         NSA  29-Oct-2019  Annual
-ARGNGDPRPCH                             Gross Domestic Product for Argentina                                                                                     NSA  04-Nov-2022  Annual
-ARGPCPIEPCH                             Consumer Prices for Argentina                                                                                            NSA  04-Nov-2022  Annual
-ARGPPPSH                                Purchasing Power Parity, Share of World for Argentina                                                                    NSA  29-Oct-2019  Annual
-ATGBCAGDPBP6                            Balance of Payments for Antigua and Barbuda                                                                              NSA  04-Nov-2022  Annual
-ATGGGEIGDP                              General Government Expense for Antigua and Barbuda                                                                       NSA  29-Oct-2019  Annual
-ATGGGRGDP                               General Government Revenue for Antigua and Barbuda                                                                       NSA  29-Oct-2019  Annual
-ATGGGXCNLGDP                            General Government Net Lending/Borrowing for Antigua and Barbuda                                                         NSA  04-Nov-2022  Annual
-ATGGGXGDP                               General Government Total Expenditure for Antigua and Barbuda                                                             NSA  29-Oct-2019  Annual
-ATGGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Antigua and Barbuda                                                 NSA  04-Nov-2022  Annual
-ATGGGXWDGGDP                            General Government Gross Debt for Antigua and Barbuda                                                                    NSA  04-Nov-2022  Annual
-ATGNGDPD                                Gross Domestic Product in U.S. Dollars for Antigua and Barbuda                                                           NSA  29-Oct-2019  Annual
-ATGNGDPFY                               Fiscal Year Gross Domestic Product for Antigua and Barbuda                                                               NSA  29-Oct-2019  Annual
-ATGNGDPRPCH                             Gross Domestic Product for Antigua and Barbuda                                                                           NSA  04-Nov-2022  Annual
-ATGPCPIEPCH                             Consumer Prices for Antigua and Barbuda                                                                                  NSA  04-Nov-2022  Annual
-ATGPPPSH                                Purchasing Power Parity, Share of World for Antigua and Barbuda                                                          NSA  29-Oct-2019  Annual
-BLZBCAGDPBP6                            Balance of Payments for Belize                                                                                           NSA  04-Nov-2022  Annual
-BLZGGEIGDP                              General Government Expense for Belize                                                                                    NSA  29-Oct-2019  Annual
-BLZGGRGDP                               General Government Revenue for Belize                                                                                    NSA  29-Oct-2019  Annual
-BLZGGXCNLGDP                            General Government Net Lending/Borrowing for Belize                                                                      NSA  04-Nov-2022  Annual
-BLZGGXGDP                               General Government Total Expenditure for Belize                                                                          NSA  29-Oct-2019  Annual
-BLZGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Belize                                                              NSA  04-Nov-2022  Annual
-BLZGGXWDGGDP                            General Government Gross Debt for Belize                                                                                 NSA  04-Nov-2022  Annual
-BLZNGDPD                                Gross Domestic Product in U.S. Dollars for Belize                                                                        NSA  29-Oct-2019  Annual
-BLZNGDPFY                               Fiscal Year Gross Domestic Product for Belize                                                                            NSA  29-Oct-2019  Annual
-BLZNGDPRPCH                             Gross Domestic Product for Belize                                                                                        NSA  04-Nov-2022  Annual
-BLZPCPIEPCH                             Consumer Prices for Belize                                                                                               NSA  04-Nov-2022  Annual
-BLZPPPSH                                Purchasing Power Parity, Share of World for Belize                                                                       NSA  29-Oct-2019  Annual
-BOLBCAGDPBP6                            Balance of Payments for Bolivia                                                                                          NSA  04-Nov-2022  Annual
-BOLGGEIGDP                              General Government Expense for Bolivia                                                                                   NSA  29-Oct-2019  Annual
-BOLGGRGDP                               General Government Revenue for Bolivia                                                                                   NSA  29-Oct-2019  Annual
-BOLGGXCNLGDP                            General Government Net Lending/Borrowing for Bolivia                                                                     NSA  04-Nov-2022  Annual
-BOLGGXGDP                               General Government Total Expenditure for Bolivia                                                                         NSA  29-Oct-2019  Annual
-BOLGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Bolivia                                                             NSA  04-Nov-2022  Annual
-BOLGGXWDGGDP                            General Government Gross Debt for Bolivia                                                                                NSA  04-Nov-2022  Annual
-BOLNGDPD                                Gross Domestic Product in U.S. Dollars for Bolivia                                                                       NSA  29-Oct-2019  Annual
-BOLNGDPFY                               Fiscal Year Gross Domestic Product for Bolivia                                                                           NSA  29-Oct-2019  Annual
-BOLNGDPRPCH                             Gross Domestic Product for Bolivia                                                                                       NSA  04-Nov-2022  Annual
-BOLPCPIEPCH                             Consumer Prices for Bolivia                                                                                              NSA  27-Apr-2022  Annual
-BOLPPPSH                                Purchasing Power Parity, Share of World for Bolivia                                                                      NSA  29-Oct-2019  Annual
-BRABCAGDPBP6                            Balance of Payments for Brazil                                                                                           NSA  04-Nov-2022  Annual
-BRAGGEIGDP                              General Government Expense for Brazil                                                                                    NSA  29-Oct-2019  Annual
-BRAGGRGDP                               General Government Revenue for Brazil                                                                                    NSA  29-Oct-2019  Annual
-BRAGGROPI                               General Government Revenue, interest income for Brazil                                                                   NSA  11-Oct-2016  Annual
-BRAGGXCNLGDP                            General Government Net Lending/Borrowing for Brazil                                                                      NSA  04-Nov-2022  Annual
-BRAGGXGDP                               General Government Total Expenditure for Brazil                                                                          NSA  29-Oct-2019  Annual
-BRAGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Brazil                                                              NSA  04-Nov-2022  Annual
-BRAGGXWDGGDP                            General Government Gross Debt for Brazil                                                                                 NSA  04-Nov-2022  Annual
-BRANGDPD                                Gross Domestic Product in U.S. Dollars for Brazil                                                                        NSA  29-Oct-2019  Annual
-BRANGDPFY                               Fiscal Year Gross Domestic Product for Brazil                                                                            NSA  29-Oct-2019  Annual
-BRANGDPRPCH                             Gross Domestic Product for Brazil                                                                                        NSA  04-Nov-2022  Annual
-BRAPCPIEPCH                             Consumer Prices for Brazil                                                                                               NSA  04-Nov-2022  Annual
-BRAPPPSH                                Purchasing Power Parity, Share of World for Brazil                                                                       NSA  29-Oct-2019  Annual
-BRBBCAGDPBP6                            Balance of Payments for Barbados                                                                                         NSA  04-Nov-2022  Annual
-BRBGGEIGDP                              General Government Expense for Barbados                                                                                  NSA  29-Oct-2019  Annual
-BRBGGRGDP                               General Government Revenue for Barbados                                                                                  NSA  29-Oct-2019  Annual
-BRBGGROPI                               General Government Revenue, interest income for Barbados                                                                 NSA  11-Oct-2016  Annual
-BRBGGXCNLGDP                            General Government Net Lending/Borrowing for Barbados                                                                    NSA  04-Nov-2022  Annual
-BRBGGXGDP                               General Government Total Expenditure for Barbados                                                                        NSA  29-Oct-2019  Annual
-BRBGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Barbados                                                            NSA  04-Nov-2022  Annual
-BRBGGXWDGGDP                            General Government Gross Debt for Barbados                                                                               NSA  04-Nov-2022  Annual
-BRBNGDPD                                Gross Domestic Product in U.S. Dollars for Barbados                                                                      NSA  29-Oct-2019  Annual
-BRBNGDPFY                               Fiscal Year Gross Domestic Product for Barbados                                                                          NSA  29-Oct-2019  Annual
-BRBNGDPRPCH                             Gross Domestic Product for Barbados                                                                                      NSA  04-Nov-2022  Annual
-BRBPCPIEPCH                             Consumer Prices for Barbados                                                                                             NSA  04-Nov-2022  Annual
-BRBPPPSH                                Purchasing Power Parity, Share of World for Barbados                                                                     NSA  29-Oct-2019  Annual
-CANBCAGDPBP6                            Balance of Payments for Canada                                                                                           NSA  04-Nov-2022  Annual
-CANGGEIGDP                              General Government Expense for Canada                                                                                    NSA  29-Oct-2019  Annual
-CANGGRGDP                               General Government Revenue for Canada                                                                                    NSA  29-Oct-2019  Annual
-CANGGROPI                               General Government Revenue, interest income for Canada                                                                   NSA  11-Oct-2016  Annual
-CANGGXCNLGDP                            General Government Net Lending/Borrowing for Canada                                                                      NSA  04-Nov-2022  Annual
-CANGGXGDP                               General Government Total Expenditure for Canada                                                                          NSA  29-Oct-2019  Annual
-CANGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Canada                                                              NSA  04-Nov-2022  Annual
-CANGGXWDGGDP                            General Government Gross Debt for Canada                                                                                 NSA  04-Nov-2022  Annual
-CANNGDPD                                Gross Domestic Product in U.S. Dollars for Canada                                                                        NSA  29-Oct-2019  Annual
-CANNGDPFY                               Fiscal Year Gross Domestic Product for Canada                                                                            NSA  29-Oct-2019  Annual
-CANNGDPRPCH                             Gross Domestic Product for Canada                                                                                        NSA  04-Nov-2022  Annual
-CANPCPIEPCH                             Consumer Prices for Canada                                                                                               NSA  04-Nov-2022  Annual
-CANPPPSH                                Purchasing Power Parity, Share of World for Canada                                                                       NSA  29-Oct-2019  Annual
-CHLBCAGDPBP6                            Balance of Payments for Chile                                                                                            NSA  04-Nov-2022  Annual
-CHLGGEIGDP                              General Government Expense for Chile                                                                                     NSA  29-Oct-2019  Annual
-CHLGGRGDP                               General Government Revenue for Chile                                                                                     NSA  29-Oct-2019  Annual
-CHLGGROPI                               General Government Revenue, interest income for Chile                                                                    NSA  11-Oct-2016  Annual
-CHLGGXCNLGDP                            General Government Net Lending/Borrowing for Chile                                                                       NSA  04-Nov-2022  Annual
-CHLGGXGDP                               General Government Total Expenditure for Chile                                                                           NSA  29-Oct-2019  Annual
-CHLGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Chile                                                               NSA  04-Nov-2022  Annual
-CHLGGXWDGGDP                            General Government Gross Debt for Chile                                                                                  NSA  04-Nov-2022  Annual
-CHLNGDPD                                Gross Domestic Product in U.S. Dollars for Chile                                                                         NSA  29-Oct-2019  Annual
-CHLNGDPFY                               Fiscal Year Gross Domestic Product for Chile                                                                             NSA  29-Oct-2019  Annual
-CHLNGDPRPCH                             Gross Domestic Product for Chile                                                                                         NSA  04-Nov-2022  Annual
-CHLPCPIEPCH                             Consumer Prices for Chile                                                                                                NSA  04-Nov-2022  Annual
-CHLPPPSH                                Purchasing Power Parity, Share of World for Chile                                                                        NSA  29-Oct-2019  Annual
-COLBCAGDPBP6                            Balance of Payments for Colombia                                                                                         NSA  04-Nov-2022  Annual
-COLGGEIGDP                              General Government Expense for Colombia                                                                                  NSA  29-Oct-2019  Annual
-COLGGRGDP                               General Government Revenue for Colombia                                                                                  NSA  29-Oct-2019  Annual
-COLGGROPI                               General Government Revenue, interest income for Colombia                                                                 NSA  11-Oct-2016  Annual
-COLGGXCNLGDP                            General Government Net Lending/Borrowing for Colombia                                                                    NSA  04-Nov-2022  Annual
-COLGGXGDP                               General Government Total Expenditure for Colombia                                                                        NSA  29-Oct-2019  Annual
-COLGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Colombia                                                            NSA  04-Nov-2022  Annual
-COLGGXWDGGDP                            General Government Gross Debt for Colombia                                                                               NSA  04-Nov-2022  Annual
-COLNGDPD                                Gross Domestic Product in U.S. Dollars for Colombia                                                                      NSA  29-Oct-2019  Annual
-COLNGDPFY                               Fiscal Year Gross Domestic Product for Colombia                                                                          NSA  29-Oct-2019  Annual
-COLNGDPRPCH                             Gross Domestic Product for Colombia                                                                                      NSA  04-Nov-2022  Annual
-COLPCPIEPCH                             Consumer Prices for Colombia                                                                                             NSA  04-Nov-2022  Annual
-COLPPPSH                                Purchasing Power Parity, Share of World for Colombia                                                                     NSA  29-Oct-2019  Annual
-CRBBCAGDPBP6                            Balance of Payments for Caribbean                                                                                        NSA  16-Apr-2020  Annual
-CRBGGRGDP                               General Government Revenue for Caribbean                                                                                 NSA  29-Oct-2019  Annual
-CRBGGXCNLGDP                            General Government Net Lending/Borrowing for Caribbean                                                                   NSA  16-Apr-2020  Annual
-CRBGGXGDP                               General Government Total Expenditure for Caribbean                                                                       NSA  29-Oct-2019  Annual
-CRBGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Caribbean                                                           NSA  29-Oct-2019  Annual
-CRBGGXWDGGDP                            General Government Gross Debt for Caribbean                                                                              NSA  29-Oct-2019  Annual
-CRBNGDPD                                Gross Domestic Product in U.S. Dollars for Caribbean                                                                     NSA  29-Oct-2019  Annual
-CRBNGDPRPCH                             Gross Domestic Product for Caribbean                                                                                     NSA  16-Apr-2020  Annual
-CRBPCPIEPCH                             Consumer Prices for Caribbean                                                                                            NSA  16-Apr-2020  Annual
-CRBPPPSH                                Purchasing Power Parity, Share of World for Caribbean                                                                    NSA  29-Oct-2019  Annual
-CRIBCAGDPBP6                            Balance of Payments for Costa Rica                                                                                       NSA  04-Nov-2022  Annual
-CRIGGEIGDP                              General Government Expense for Costa Rica                                                                                NSA  29-Oct-2019  Annual
-CRIGGRGDP                               General Government Revenue for Costa Rica                                                                                NSA  29-Oct-2019  Annual
-CRIGGXCNLGDP                            General Government Net Lending/Borrowing for Costa Rica                                                                  NSA  04-Nov-2022  Annual
-CRIGGXGDP                               General Government Total Expenditure for Costa Rica                                                                      NSA  29-Oct-2019  Annual
-CRIGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Costa Rica                                                          NSA  04-Nov-2022  Annual
-CRIGGXWDGGDP                            General Government Gross Debt for Costa Rica                                                                             NSA  04-Nov-2022  Annual
-CRINGDPD                                Gross Domestic Product in U.S. Dollars for Costa Rica                                                                    NSA  29-Oct-2019  Annual
-CRINGDPFY                               Fiscal Year Gross Domestic Product for Costa Rica                                                                        NSA  29-Oct-2019  Annual
-CRINGDPRPCH                             Gross Domestic Product for Costa Rica                                                                                    NSA  04-Nov-2022  Annual
-CRIPCPIEPCH                             Consumer Prices for Costa Rica                                                                                           NSA  04-Nov-2022  Annual
-CRIPPPSH                                Purchasing Power Parity, Share of World for Costa Rica                                                                   NSA  29-Oct-2019  Annual
-DMABCAGDPBP6                            Balance of Payments for Dominica                                                                                         NSA  04-Nov-2022  Annual
-DMAGGEIGDP                              General Government Expense for Dominica                                                                                  NSA  29-Oct-2019  Annual
-DMAGGRGDP                               General Government Revenue for Dominica                                                                                  NSA  29-Oct-2019  Annual
-DMAGGXCNLGDP                            General Government Net Lending/Borrowing for Dominica                                                                    NSA  04-Nov-2022  Annual
-DMAGGXGDP                               General Government Total Expenditure for Dominica                                                                        NSA  29-Oct-2019  Annual
-DMAGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Dominica                                                            NSA  04-Nov-2022  Annual
-DMAGGXWDGGDP                            General Government Gross Debt for Dominica                                                                               NSA  04-Nov-2022  Annual
-DMANGDPD                                Gross Domestic Product in U.S. Dollars for Dominica                                                                      NSA  29-Oct-2019  Annual
-DMANGDPFY                               Fiscal Year Gross Domestic Product for Dominica                                                                          NSA  29-Oct-2019  Annual
-DMANGDPRPCH                             Gross Domestic Product for Dominica                                                                                      NSA  04-Nov-2022  Annual
-DMAPCPIEPCH                             Consumer Prices for Dominica                                                                                             NSA  04-Nov-2022  Annual
-DMAPPPSH                                Purchasing Power Parity, Share of World for Dominica                                                                     NSA  29-Oct-2019  Annual
-DOMBCAGDPBP6                            Balance of Payments for Dominican Republic                                                                               NSA  04-Nov-2022  Annual
-DOMGGEIGDP                              General Government Expense for Dominican Republic                                                                        NSA  29-Oct-2019  Annual
-DOMGGRGDP                               General Government Revenue for Dominican Republic                                                                        NSA  29-Oct-2019  Annual
-DOMGGXCNLGDP                            General Government Net Lending/Borrowing for Dominican Republic                                                          NSA  04-Nov-2022  Annual
-DOMGGXGDP                               General Government Total Expenditure for Dominican Republic                                                              NSA  29-Oct-2019  Annual
-DOMGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Dominican Republic                                                  NSA  04-Nov-2022  Annual
-DOMGGXWDGGDP                            General Government Gross Debt for Dominican Republic                                                                     NSA  04-Nov-2022  Annual
-DOMNGDPD                                Gross Domestic Product in U.S. Dollars for Dominican Republic                                                            NSA  29-Oct-2019  Annual
-DOMNGDPFY                               Fiscal Year Gross Domestic Product for Dominican Republic                                                                NSA  29-Oct-2019  Annual
-DOMNGDPRPCH                             Gross Domestic Product for Dominican Republic                                                                            NSA  04-Nov-2022  Annual
-DOMPCPIEPCH                             Consumer Prices for Dominican Republic                                                                                   NSA  04-Nov-2022  Annual
-DOMPPPSH                                Purchasing Power Parity, Share of World for Dominican Republic                                                           NSA  29-Oct-2019  Annual
-ECUBCAGDPBP6                            Balance of Payments for Ecuador                                                                                          NSA  04-Nov-2022  Annual
-ECUGGEIGDP                              General Government Expense for Ecuador                                                                                   NSA  29-Oct-2019  Annual
-ECUGGRGDP                               General Government Revenue for Ecuador                                                                                   NSA  29-Oct-2019  Annual
-ECUGGXCNLGDP                            General Government Net Lending/Borrowing for Ecuador                                                                     NSA  04-Nov-2022  Annual
-ECUGGXGDP                               General Government Total Expenditure for Ecuador                                                                         NSA  29-Oct-2019  Annual
-ECUGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Ecuador                                                             NSA  04-Nov-2022  Annual
-ECUGGXWDGGDP                            General Government Gross Debt for Ecuador                                                                                NSA  04-Nov-2022  Annual
-ECUNGDPD                                Gross Domestic Product in U.S. Dollars for Ecuador                                                                       NSA  29-Oct-2019  Annual
-ECUNGDPFY                               Fiscal Year Gross Domestic Product for Ecuador                                                                           NSA  29-Oct-2019  Annual
-ECUNGDPRPCH                             Gross Domestic Product for Ecuador                                                                                       NSA  27-Apr-2022  Annual
-ECUPCPIEPCH                             Consumer Prices for Ecuador                                                                                              NSA  27-Apr-2022  Annual
-ECUPPPSH                                Purchasing Power Parity, Share of World for Ecuador                                                                      NSA  29-Oct-2019  Annual
-GRDBCAGDPBP6                            Balance of Payments for Grenada                                                                                          NSA  04-Nov-2022  Annual
-GRDGGEIGDP                              General Government Expense for Grenada                                                                                   NSA  29-Oct-2019  Annual
-GRDGGRGDP                               General Government Revenue for Grenada                                                                                   NSA  29-Oct-2019  Annual
-GRDGGXCNLGDP                            General Government Net Lending/Borrowing for Grenada                                                                     NSA  04-Nov-2022  Annual
-GRDGGXGDP                               General Government Total Expenditure for Grenada                                                                         NSA  29-Oct-2019  Annual
-GRDGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Grenada                                                             NSA  04-Nov-2022  Annual
-GRDGGXWDGGDP                            General Government Gross Debt for Grenada                                                                                NSA  04-Nov-2022  Annual
-GRDNGDPD                                Gross Domestic Product in U.S. Dollars for Grenada                                                                       NSA  29-Oct-2019  Annual
-GRDNGDPFY                               Fiscal Year Gross Domestic Product for Grenada                                                                           NSA  29-Oct-2019  Annual
-GRDNGDPRPCH                             Gross Domestic Product for Grenada                                                                                       NSA  27-Apr-2022  Annual
-GRDPCPIEPCH                             Consumer Prices for Grenada                                                                                              NSA  04-Nov-2022  Annual
-GRDPPPSH                                Purchasing Power Parity, Share of World for Grenada                                                                      NSA  29-Oct-2019  Annual
-GTMBCAGDPBP6                            Balance of Payments for Guatemala                                                                                        NSA  04-Nov-2022  Annual
-GTMGGEIGDP                              General Government Expense for Guatemala                                                                                 NSA  29-Oct-2019  Annual
-GTMGGRGDP                               General Government Revenue for Guatemala                                                                                 NSA  29-Oct-2019  Annual
-GTMGGXCNLGDP                            General Government Net Lending/Borrowing for Guatemala                                                                   NSA  04-Nov-2022  Annual
-GTMGGXGDP                               General Government Total Expenditure for Guatemala                                                                       NSA  29-Oct-2019  Annual
-GTMGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Guatemala                                                           NSA  04-Nov-2022  Annual
-GTMGGXWDGGDP                            General Government Gross Debt for Guatemala                                                                              NSA  04-Nov-2022  Annual
-GTMNGDPD                                Gross Domestic Product in U.S. Dollars for Guatemala                                                                     NSA  29-Oct-2019  Annual
-GTMNGDPFY                               Fiscal Year Gross Domestic Product for Guatemala                                                                         NSA  29-Oct-2019  Annual
-GTMNGDPRPCH                             Gross Domestic Product for Guatemala                                                                                     NSA  04-Nov-2022  Annual
-GTMPCPIEPCH                             Consumer Prices for Guatemala                                                                                            NSA  04-Nov-2022  Annual
-GTMPPPSH                                Purchasing Power Parity, Share of World for Guatemala                                                                    NSA  29-Oct-2019  Annual
-GUYBCAGDPBP6                            Balance of Payments for Guyana                                                                                           NSA  04-Nov-2022  Annual
-GUYGGEIGDP                              General Government Expense for Guyana                                                                                    NSA  29-Oct-2019  Annual
-GUYGGRGDP                               General Government Revenue for Guyana                                                                                    NSA  29-Oct-2019  Annual
-GUYGGXCNLGDP                            General Government Net Lending/Borrowing for Guyana                                                                      NSA  04-Nov-2022  Annual
-GUYGGXGDP                               General Government Total Expenditure for Guyana                                                                          NSA  29-Oct-2019  Annual
-GUYGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Guyana                                                              NSA  04-Nov-2022  Annual
-GUYGGXWDGGDP                            General Government Gross Debt for Guyana                                                                                 NSA  04-Nov-2022  Annual
-GUYNGDPD                                Gross Domestic Product in U.S. Dollars for Guyana                                                                        NSA  29-Oct-2019  Annual
-GUYNGDPFY                               Fiscal Year Gross Domestic Product for Guyana                                                                            NSA  29-Oct-2019  Annual
-GUYNGDPRPCH                             Gross Domestic Product for Guyana                                                                                        NSA  04-Nov-2022  Annual
-GUYPCPIEPCH                             Consumer Prices for Guyana                                                                                               NSA  04-Nov-2022  Annual
-GUYPPPSH                                Purchasing Power Parity, Share of World for Guyana                                                                       NSA  29-Oct-2019  Annual
-HNDBCAGDPBP6                            Balance of Payments for Honduras                                                                                         NSA  04-Nov-2022  Annual
-HNDGGEIGDP                              General Government Expense for Honduras                                                                                  NSA  29-Oct-2019  Annual
-HNDGGRGDP                               General Government Revenue for Honduras                                                                                  NSA  29-Oct-2019  Annual
-HNDGGROPI                               General Government Revenue, interest income for Honduras                                                                 NSA  11-Oct-2016  Annual
-HNDGGXCNLGDP                            General Government Net Lending/Borrowing for Honduras                                                                    NSA  04-Nov-2022  Annual
-HNDGGXGDP                               General Government Total Expenditure for Honduras                                                                        NSA  29-Oct-2019  Annual
-HNDGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Honduras                                                            NSA  04-Nov-2022  Annual
-HNDGGXWDGGDP                            General Government Gross Debt for Honduras                                                                               NSA  04-Nov-2022  Annual
-HNDNGDPD                                Gross Domestic Product in U.S. Dollars for Honduras                                                                      NSA  29-Oct-2019  Annual
-HNDNGDPFY                               Fiscal Year Gross Domestic Product for Honduras                                                                          NSA  29-Oct-2019  Annual
-HNDNGDPRPCH                             Gross Domestic Product for Honduras                                                                                      NSA  04-Nov-2022  Annual
-HNDPCPIEPCH                             Consumer Prices for Honduras                                                                                             NSA  04-Nov-2022  Annual
-HNDPPPSH                                Purchasing Power Parity, Share of World for Honduras                                                                     NSA  29-Oct-2019  Annual
-HTIBCAGDPBP6                            Balance of Payments for Haiti                                                                                            NSA  04-Nov-2022  Annual
-HTIGGEIGDP                              General Government Expense for Haiti                                                                                     NSA  29-Oct-2019  Annual
-HTIGGRGDP                               General Government Revenue for Haiti                                                                                     NSA  29-Oct-2019  Annual
-HTIGGXCNLGDP                            General Government Net Lending/Borrowing for Haiti                                                                       NSA  04-Nov-2022  Annual
-HTIGGXGDP                               General Government Total Expenditure for Haiti                                                                           NSA  29-Oct-2019  Annual
-HTIGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Haiti                                                               NSA  04-Nov-2022  Annual
-HTIGGXWDGGDP                            General Government Gross Debt for Haiti                                                                                  NSA  04-Nov-2022  Annual
-HTINGDPD                                Gross Domestic Product in U.S. Dollars for Haiti                                                                         NSA  29-Oct-2019  Annual
-HTINGDPFY                               Fiscal Year Gross Domestic Product for Haiti                                                                             NSA  29-Oct-2019  Annual
-HTINGDPRPCH                             Gross Domestic Product for Haiti                                                                                         NSA  04-Nov-2022  Annual
-HTIPCPIEPCH                             Consumer Prices for Haiti                                                                                                NSA  04-Nov-2022  Annual
-HTIPPPSH                                Purchasing Power Parity, Share of World for Haiti                                                                        NSA  29-Oct-2019  Annual
-JAMBCAGDPBP6                            Balance of Payments for Jamaica                                                                                          NSA  04-Nov-2022  Annual
-JAMGGEIGDP                              General Government Expense for Jamaica                                                                                   NSA  29-Oct-2019  Annual
-JAMGGRGDP                               General Government Revenue for Jamaica                                                                                   NSA  29-Oct-2019  Annual
-JAMGGXCNLGDP                            General Government Net Lending/Borrowing for Jamaica                                                                     NSA  04-Nov-2022  Annual
-JAMGGXGDP                               General Government Total Expenditure for Jamaica                                                                         NSA  29-Oct-2019  Annual
-JAMGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Jamaica                                                             NSA  04-Nov-2022  Annual
-JAMGGXWDGGDP                            General Government Gross Debt for Jamaica                                                                                NSA  04-Nov-2022  Annual
-JAMNGDPD                                Gross Domestic Product in U.S. Dollars for Jamaica                                                                       NSA  29-Oct-2019  Annual
-JAMNGDPFY                               Fiscal Year Gross Domestic Product for Jamaica                                                                           NSA  29-Oct-2019  Annual
-JAMNGDPRPCH                             Gross Domestic Product for Jamaica                                                                                       NSA  04-Nov-2022  Annual
-JAMPCPIEPCH                             Consumer Prices for Jamaica                                                                                              NSA  04-Nov-2022  Annual
-JAMPPPSH                                Purchasing Power Parity, Share of World for Jamaica                                                                      NSA  29-Oct-2019  Annual
-MEXBCAGDPBP6                            Balance of Payments for Mexico                                                                                           NSA  04-Nov-2022  Annual
-MEXGGEIGDP                              General Government Expense for Mexico                                                                                    NSA  29-Oct-2019  Annual
-MEXGGRGDP                               General Government Revenue for Mexico                                                                                    NSA  29-Oct-2019  Annual
-MEXGGXCNLGDP                            General Government Net Lending/Borrowing for Mexico                                                                      NSA  04-Nov-2022  Annual
-MEXGGXGDP                               General Government Total Expenditure for Mexico                                                                          NSA  29-Oct-2019  Annual
-MEXGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Mexico                                                              NSA  04-Nov-2022  Annual
-MEXGGXWDGGDP                            General Government Gross Debt for Mexico                                                                                 NSA  04-Nov-2022  Annual
-MEXNGDPD                                Gross Domestic Product in U.S. Dollars for Mexico                                                                        NSA  29-Oct-2019  Annual
-MEXNGDPFY                               Fiscal Year Gross Domestic Product for Mexico                                                                            NSA  29-Oct-2019  Annual
-MEXNGDPRPCH                             Gross Domestic Product for Mexico                                                                                        NSA  04-Nov-2022  Annual
-MEXPCPIEPCH                             Consumer Prices for Mexico                                                                                               NSA  04-Nov-2022  Annual
-MEXPPPSH                                Purchasing Power Parity, Share of World for Mexico                                                                       NSA  29-Oct-2019  Annual
-NICBCAGDPBP6                            Balance of Payments for Nicaragua                                                                                        NSA  04-Nov-2022  Annual
-NICGGEIGDP                              General Government Expense for Nicaragua                                                                                 NSA  29-Oct-2019  Annual
-NICGGRGDP                               General Government Revenue for Nicaragua                                                                                 NSA  29-Oct-2019  Annual
-NICGGROPI                               General Government Revenue, interest income for Nicaragua                                                                NSA  11-Oct-2016  Annual
-NICGGXCNLGDP                            General Government Net Lending/Borrowing for Nicaragua                                                                   NSA  04-Nov-2022  Annual
-NICGGXGDP                               General Government Total Expenditure for Nicaragua                                                                       NSA  29-Oct-2019  Annual
-NICGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Nicaragua                                                           NSA  04-Nov-2022  Annual
-NICGGXWDGGDP                            General Government Gross Debt for Nicaragua                                                                              NSA  04-Nov-2022  Annual
-NICNGDPD                                Gross Domestic Product in U.S. Dollars for Nicaragua                                                                     NSA  29-Oct-2019  Annual
-NICNGDPFY                               Fiscal Year Gross Domestic Product for Nicaragua                                                                         NSA  29-Oct-2019  Annual
-NICNGDPRPCH                             Gross Domestic Product for Nicaragua                                                                                     NSA  04-Nov-2022  Annual
-NICPCPIEPCH                             Consumer Prices for Nicaragua                                                                                            NSA  04-Nov-2022  Annual
-NICPPPSH                                Purchasing Power Parity, Share of World for Nicaragua                                                                    NSA  29-Oct-2019  Annual
-PANBCAGDPBP6                            Balance of Payments for Panama                                                                                           NSA  04-Nov-2022  Annual
-PANGGEIGDP                              General Government Expense for Panama                                                                                    NSA  29-Oct-2019  Annual
-PANGGRGDP                               General Government Revenue for Panama                                                                                    NSA  29-Oct-2019  Annual
-PANGGROPI                               General Government Revenue, interest income for Panama                                                                   NSA  11-Oct-2016  Annual
-PANGGXCNLGDP                            General Government Net Lending/Borrowing for Panama                                                                      NSA  04-Nov-2022  Annual
-PANGGXGDP                               General Government Total Expenditure for Panama                                                                          NSA  29-Oct-2019  Annual
-PANGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Panama                                                              NSA  04-Nov-2022  Annual
-PANGGXWDGGDP                            General Government Gross Debt for Panama                                                                                 NSA  04-Nov-2022  Annual
-PANNGDPD                                Gross Domestic Product in U.S. Dollars for Panama                                                                        NSA  29-Oct-2019  Annual
-PANNGDPFY                               Fiscal Year Gross Domestic Product for Panama                                                                            NSA  29-Oct-2019  Annual
-PANNGDPRPCH                             Gross Domestic Product for Panama                                                                                        NSA  04-Nov-2022  Annual
-PANPCPIEPCH                             Consumer Prices for Panama                                                                                               NSA  04-Nov-2022  Annual
-PANPPPSH                                Purchasing Power Parity, Share of World for Panama                                                                       NSA  29-Oct-2019  Annual
-PERBCAGDPBP6                            Balance of Payments for Peru                                                                                             NSA  04-Nov-2022  Annual
-PERGGEIGDP                              General Government Expense for Peru                                                                                      NSA  29-Oct-2019  Annual
-PERGGRGDP                               General Government Revenue for Peru                                                                                      NSA  29-Oct-2019  Annual
-PERGGROPI                               General Government Revenue, interest income for Peru                                                                     NSA  09-May-2016  Annual
-PERGGXCNLGDP                            General Government Net Lending/Borrowing for Peru                                                                        NSA  04-Nov-2022  Annual
-PERGGXGDP                               General Government Total Expenditure for Peru                                                                            NSA  29-Oct-2019  Annual
-PERGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Peru                                                                NSA  04-Nov-2022  Annual
-PERGGXWDGGDP                            General Government Gross Debt for Peru                                                                                   NSA  04-Nov-2022  Annual
-PERNGDPD                                Gross Domestic Product in U.S. Dollars for Peru                                                                          NSA  29-Oct-2019  Annual
-PERNGDPFY                               Fiscal Year Gross Domestic Product for Peru                                                                              NSA  29-Oct-2019  Annual
-PERNGDPRPCH                             Gross Domestic Product for Peru                                                                                          NSA  04-Nov-2022  Annual
-PERPCPIEPCH                             Consumer Prices for Peru                                                                                                 NSA  04-Nov-2022  Annual
-PERPPPSH                                Purchasing Power Parity, Share of World for Peru                                                                         NSA  29-Oct-2019  Annual
-PRYBCAGDPBP6                            Balance of Payments for Paraguay                                                                                         NSA  04-Nov-2022  Annual
-PRYGGEIGDP                              General Government Expense for Paraguay                                                                                  NSA  29-Oct-2019  Annual
-PRYGGRGDP                               General Government Revenue for Paraguay                                                                                  NSA  29-Oct-2019  Annual
-PRYGGXCNLGDP                            General Government Net Lending/Borrowing for Paraguay                                                                    NSA  04-Nov-2022  Annual
-PRYGGXGDP                               General Government Total Expenditure for Paraguay                                                                        NSA  29-Oct-2019  Annual
-PRYGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Paraguay                                                            NSA  04-Nov-2022  Annual
-PRYGGXWDGGDP                            General Government Gross Debt for Paraguay                                                                               NSA  04-Nov-2022  Annual
-PRYNGDPD                                Gross Domestic Product in U.S. Dollars for Paraguay                                                                      NSA  29-Oct-2019  Annual
-PRYNGDPFY                               Fiscal Year Gross Domestic Product for Paraguay                                                                          NSA  29-Oct-2019  Annual
-PRYNGDPRPCH                             Gross Domestic Product for Paraguay                                                                                      NSA  04-Nov-2022  Annual
-PRYPCPIEPCH                             Consumer Prices for Paraguay                                                                                             NSA  04-Nov-2022  Annual
-PRYPPPSH                                Purchasing Power Parity, Share of World for Paraguay                                                                     NSA  29-Oct-2019  Annual
-SKNBCAGDPBP6                            Balance of Payments for St. Kitts and Nevis                                                                              NSA  04-Nov-2022  Annual
-SKNGGEIGDP                              General Government Expense for St. Kitts and Nevis                                                                       NSA  29-Oct-2019  Annual
-SKNGGRGDP                               General Government Revenue for St. Kitts and Nevis                                                                       NSA  29-Oct-2019  Annual
-SKNGGROPI                               General Government Revenue, interest income for St. Kitts and Nevis                                                      NSA  01-Dec-2015  Annual
-SKNGGXCNLGDP                            General Government Net Lending/Borrowing for St. Kitts and Nevis                                                         NSA  04-Nov-2022  Annual
-SKNGGXGDP                               General Government Total Expenditure for St. Kitts and Nevis                                                             NSA  29-Oct-2019  Annual
-SKNGGXONLBGDP                           General Government Primary Net Lending/Borrowing for St. Kitts and Nevis                                                 NSA  04-Nov-2022  Annual
-SKNGGXWDGGDP                            General Government Gross Debt for St. Kitts and Nevis                                                                    NSA  04-Nov-2022  Annual
-SKNNGDPD                                Gross Domestic Product in U.S. Dollars for St. Kitts and Nevis                                                           NSA  29-Oct-2019  Annual
-SKNNGDPFY                               Fiscal Year Gross Domestic Product for St. Kitts and Nevis                                                               NSA  29-Oct-2019  Annual
-SKNNGDPRPCH                             Gross Domestic Product for St. Kitts and Nevis                                                                           NSA  04-Nov-2022  Annual
-SKNPCPIEPCH                             Consumer Prices for St. Kitts and Nevis                                                                                  NSA  04-Nov-2022  Annual
-SKNPPPSH                                Purchasing Power Parity, Share of World for St. Kitts and Nevis                                                          NSA  29-Oct-2019  Annual
-SLABCAGDPBP6                            Balance of Payments for St. Lucia                                                                                        NSA  04-Nov-2022  Annual
-SLAGGEIGDP                              General Government Expense for St. Lucia                                                                                 NSA  29-Oct-2019  Annual
-SLAGGRGDP                               General Government Revenue for St. Lucia                                                                                 NSA  29-Oct-2019  Annual
-SLAGGXCNLGDP                            General Government Net Lending/Borrowing for St. Lucia                                                                   NSA  04-Nov-2022  Annual
-SLAGGXGDP                               General Government Total Expenditure for St. Lucia                                                                       NSA  29-Oct-2019  Annual
-SLAGGXONLBGDP                           General Government Primary Net Lending/Borrowing for St. Lucia                                                           NSA  04-Nov-2022  Annual
-SLAGGXWDGGDP                            General Government Gross Debt for St. Lucia                                                                              NSA  04-Nov-2022  Annual
-SLANGDPD                                Gross Domestic Product in U.S. Dollars for St. Lucia                                                                     NSA  29-Oct-2019  Annual
-SLANGDPFY                               Fiscal Year Gross Domestic Product for St. Lucia                                                                         NSA  29-Oct-2019  Annual
-SLANGDPRPCH                             Gross Domestic Product for St. Lucia                                                                                     NSA  04-Nov-2022  Annual
-SLAPCPIEPCH                             Consumer Prices for St. Lucia                                                                                            NSA  04-Nov-2022  Annual
-SLAPPPSH                                Purchasing Power Parity, Share of World for St. Lucia                                                                    NSA  29-Oct-2019  Annual
-SLVBCAGDPBP6                            Balance of Payments for El Salvador                                                                                      NSA  04-Nov-2022  Annual
-SLVGGEIGDP                              General Government Expense for El Salvador                                                                               NSA  29-Oct-2019  Annual
-SLVGGRGDP                               General Government Revenue for El Salvador                                                                               NSA  29-Oct-2019  Annual
-SLVGGXCNLGDP                            General Government Net Lending/Borrowing for El Salvador                                                                 NSA  04-Nov-2022  Annual
-SLVGGXGDP                               General Government Total Expenditure for El Salvador                                                                     NSA  29-Oct-2019  Annual
-SLVGGXONLBGDP                           General Government Primary Net Lending/Borrowing for El Salvador                                                         NSA  04-Nov-2022  Annual
-SLVGGXWDGGDP                            General Government Gross Debt for El Salvador                                                                            NSA  04-Nov-2022  Annual
-SLVNGDPD                                Gross Domestic Product in U.S. Dollars for El Salvador                                                                   NSA  29-Oct-2019  Annual
-SLVNGDPFY                               Fiscal Year Gross Domestic Product for El Salvador                                                                       NSA  29-Oct-2019  Annual
-SLVNGDPRPCH                             Gross Domestic Product for El Salvador                                                                                   NSA  04-Nov-2022  Annual
-SLVPCPIEPCH                             Consumer Prices for El Salvador                                                                                          NSA  04-Nov-2022  Annual
-SLVPPPSH                                Purchasing Power Parity, Share of World for El Salvador                                                                  NSA  29-Oct-2019  Annual
-SURBCAGDPBP6                            Balance of Payments for Suriname                                                                                         NSA  04-Nov-2022  Annual
-SURGGEIGDP                              General Government Expense for Suriname                                                                                  NSA  29-Oct-2019  Annual
-SURGGRGDP                               General Government Revenue for Suriname                                                                                  NSA  29-Oct-2019  Annual
-SURGGXCNLGDP                            General Government Net Lending/Borrowing for Suriname                                                                    NSA  04-Nov-2022  Annual
-SURGGXGDP                               General Government Total Expenditure for Suriname                                                                        NSA  29-Oct-2019  Annual
-SURGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Suriname                                                            NSA  04-Nov-2022  Annual
-SURGGXWDGGDP                            General Government Gross Debt for Suriname                                                                               NSA  04-Nov-2022  Annual
-SURNGDPD                                Gross Domestic Product in U.S. Dollars for Suriname                                                                      NSA  29-Oct-2019  Annual
-SURNGDPFY                               Fiscal Year Gross Domestic Product for Suriname                                                                          NSA  29-Oct-2019  Annual
-SURNGDPRPCH                             Gross Domestic Product for Suriname                                                                                      NSA  04-Nov-2022  Annual
-SURPCPIEPCH                             Consumer Prices for Suriname                                                                                             NSA  04-Nov-2022  Annual
-SURPPPSH                                Purchasing Power Parity, Share of World for Suriname                                                                     NSA  29-Oct-2019  Annual
-SVGBCAGDPBP6                            Balance of Payments for St. Vincent and the Grenadines                                                                   NSA  04-Nov-2022  Annual
-SVGGGEIGDP                              General Government Expense for St. Vincent and the Grenadines                                                            NSA  29-Oct-2019  Annual
-SVGGGRGDP                               General Government Revenue for St. Vincent and the Grenadines                                                            NSA  29-Oct-2019  Annual
-SVGGGROPI                               General Government Revenue, interest income for St. Vincent and the Grenadines                                           NSA  11-Oct-2016  Annual
-SVGGGXCNLGDP                            General Government Net Lending/Borrowing for St. Vincent and the Grenadines                                              NSA  04-Nov-2022  Annual
-SVGGGXGDP                               General Government Total Expenditure for St. Vincent and the Grenadines                                                  NSA  29-Oct-2019  Annual
-SVGGGXONLBGDP                           General Government Primary Net Lending/Borrowing for St. Vincent and the Grenadines                                      NSA  04-Nov-2022  Annual
-SVGGGXWDGGDP                            General Government Gross Debt for St. Vincent and the Grenadines                                                         NSA  04-Nov-2022  Annual
-SVGNGDPD                                Gross Domestic Product in U.S. Dollars for St. Vincent and the Grenadines                                                NSA  29-Oct-2019  Annual
-SVGNGDPFY                               Fiscal Year Gross Domestic Product for St. Vincent and the Grenadines                                                    NSA  29-Oct-2019  Annual
-SVGNGDPRPCH                             Gross Domestic Product for St. Vincent and the Grenadines                                                                NSA  04-Nov-2022  Annual
-SVGPCPIEPCH                             Consumer Prices for St. Vincent and the Grenadines                                                                       NSA  04-Nov-2022  Annual
-SVGPPPSH                                Purchasing Power Parity, Share of World for St. Vincent and the Grenadines                                               NSA  29-Oct-2019  Annual
-TTOBCAGDPBP6                            Balance of Payments for Trinidad and Tobago                                                                              NSA  04-Nov-2022  Annual
-TTOGGEIGDP                              General Government Expense for Trinidad and Tobago                                                                       NSA  29-Oct-2019  Annual
-TTOGGRGDP                               General Government Revenue for Trinidad and Tobago                                                                       NSA  29-Oct-2019  Annual
-TTOGGXCNLGDP                            General Government Net Lending/Borrowing for Trinidad and Tobago                                                         NSA  04-Nov-2022  Annual
-TTOGGXGDP                               General Government Total Expenditure for Trinidad and Tobago                                                             NSA  29-Oct-2019  Annual
-TTOGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Trinidad and Tobago                                                 NSA  04-Nov-2022  Annual
-TTOGGXWDGGDP                            General Government Gross Debt for Trinidad and Tobago                                                                    NSA  04-Nov-2022  Annual
-TTONGDPD                                Gross Domestic Product in U.S. Dollars for Trinidad and Tobago                                                           NSA  29-Oct-2019  Annual
-TTONGDPFY                               Fiscal Year Gross Domestic Product for Trinidad and Tobago                                                               NSA  29-Oct-2019  Annual
-TTONGDPRPCH                             Gross Domestic Product for Trinidad and Tobago                                                                           NSA  04-Nov-2022  Annual
-TTOPCPIEPCH                             Consumer Prices for Trinidad and Tobago                                                                                  NSA  04-Nov-2022  Annual
-TTOPPPSH                                Purchasing Power Parity, Share of World for Trinidad and Tobago                                                          NSA  29-Oct-2019  Annual
-URYBCAGDPBP6                            Balance of Payments for Uruguay                                                                                          NSA  04-Nov-2022  Annual
-URYGGEIGDP                              General Government Expense for Uruguay                                                                                   NSA  29-Oct-2019  Annual
-URYGGRGDP                               General Government Revenue for Uruguay                                                                                   NSA  29-Oct-2019  Annual
-URYGGXCNLGDP                            General Government Net Lending/Borrowing for Uruguay                                                                     NSA  04-Nov-2022  Annual
-URYGGXGDP                               General Government Total Expenditure for Uruguay                                                                         NSA  29-Oct-2019  Annual
-URYGGXONLBGDP                           General Government Primary Net Lending/Borrowing for Uruguay                                                             NSA  04-Nov-2022  Annual
-URYGGXWDGGDP                            General Government Gross Debt for Uruguay                                                                                NSA  04-Nov-2022  Annual
-URYNGDPD                                Gross Domestic Product in U.S. Dollars for Uruguay                                                                       NSA  29-Oct-2019  Annual
-URYNGDPFY                               Fiscal Year Gross Domestic Product for Uruguay                                                                           NSA  29-Oct-2019  Annual
-URYNGDPRPCH                             Gross Domestic Product for Uruguay                                                                                       NSA  04-Nov-2022  Annual
-URYPCPIEPCH                             Consumer Prices for Uruguay                                                                                              NSA  04-Nov-2022  Annual
-URYPPPSH                                Purchasing Power Parity, Share of World for Uruguay                                                                      NSA  29-Oct-2019  Annual
-USABCAGDPBP6                            Balance of Payments for United States                                                                                    NSA  04-Nov-2022  Annual
-USAGGEIGDP                              General Government Expense for United States                                                                             NSA  29-Oct-2019  Annual
-USAGGRGDP                               General Government Revenue for United States                                                                             NSA  29-Oct-2019  Annual
-USAGGROPI                               General Government Revenue, interest income for United States                                                            NSA  29-Oct-2019  Annual
-USAGGXCNLGDP                            General Government Net Lending/Borrowing for United States                                                               NSA  04-Nov-2022  Annual
-USAGGXGDP                               General Government Total Expenditure for United States                                                                   NSA  29-Oct-2019  Annual
-USAGGXONLBGDP                           General Government Primary Net Lending/Borrowing for United States                                                       NSA  04-Nov-2022  Annual
-USAGGXWDGGDP                            General Government Gross Debt for United States                                                                          NSA  04-Nov-2022  Annual
-USANGDPD                                Gross Domestic Product in U.S. Dollars for United States                                                                 NSA  29-Oct-2019  Annual
-USANGDPFY                               Fiscal Year Gross Domestic Product for United States                                                                     NSA  29-Oct-2019  Annual
-USANGDPRPCH                             Gross Domestic Product for United States                                                                                 NSA  04-Nov-2022  Annual
-USAPCPIEPCH                             Consumer Prices for United States                                                                                        NSA  04-Nov-2022  Annual
-USAPPPSH                                Purchasing Power Parity, Share of World for United States                                                                NSA  29-Oct-2019  Annual
+ARGBCAGDPBP6                  Balance of Payments for Argentina                                                                                        NSA  04-Nov-2022  Annual         
+ARGGGEIGDP                    General Government Expense for Argentina                                                                                 NSA  29-Oct-2019  Annual         
+ARGGGRGDP                     General Government Revenue for Argentina                                                                                 NSA  29-Oct-2019  Annual         
+ARGGGXCNLGDP                  General Government Net Lending/Borrowing for Argentina                                                                   NSA  04-Nov-2022  Annual         
+ARGGGXGDP                     General Government Total Expenditure for Argentina                                                                       NSA  29-Oct-2019  Annual         
+ARGGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Argentina                                                           NSA  04-Nov-2022  Annual         
+ARGGGXWDGGDP                  General Government Gross Debt for Argentina                                                                              NSA  04-Nov-2022  Annual         
+ARGNGDPD                      Gross Domestic Product in U.S. Dollars for Argentina                                                                     NSA  29-Oct-2019  Annual         
+ARGNGDPFY                     Fiscal Year Gross Domestic Product for Argentina                                                                         NSA  29-Oct-2019  Annual         
+ARGNGDPRPCH                   Gross Domestic Product for Argentina                                                                                     NSA  04-Nov-2022  Annual         
+ARGPCPIEPCH                   Consumer Prices for Argentina                                                                                            NSA  04-Nov-2022  Annual         
+ARGPPPSH                      Purchasing Power Parity, Share of World for Argentina                                                                    NSA  29-Oct-2019  Annual         
+ATGBCAGDPBP6                  Balance of Payments for Antigua and Barbuda                                                                              NSA  04-Nov-2022  Annual         
+ATGGGEIGDP                    General Government Expense for Antigua and Barbuda                                                                       NSA  29-Oct-2019  Annual         
+ATGGGRGDP                     General Government Revenue for Antigua and Barbuda                                                                       NSA  29-Oct-2019  Annual         
+ATGGGXCNLGDP                  General Government Net Lending/Borrowing for Antigua and Barbuda                                                         NSA  04-Nov-2022  Annual         
+ATGGGXGDP                     General Government Total Expenditure for Antigua and Barbuda                                                             NSA  29-Oct-2019  Annual         
+ATGGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Antigua and Barbuda                                                 NSA  04-Nov-2022  Annual         
+ATGGGXWDGGDP                  General Government Gross Debt for Antigua and Barbuda                                                                    NSA  04-Nov-2022  Annual         
+ATGNGDPD                      Gross Domestic Product in U.S. Dollars for Antigua and Barbuda                                                           NSA  29-Oct-2019  Annual         
+ATGNGDPFY                     Fiscal Year Gross Domestic Product for Antigua and Barbuda                                                               NSA  29-Oct-2019  Annual         
+ATGNGDPRPCH                   Gross Domestic Product for Antigua and Barbuda                                                                           NSA  04-Nov-2022  Annual         
+ATGPCPIEPCH                   Consumer Prices for Antigua and Barbuda                                                                                  NSA  04-Nov-2022  Annual         
+ATGPPPSH                      Purchasing Power Parity, Share of World for Antigua and Barbuda                                                          NSA  29-Oct-2019  Annual         
+BLZBCAGDPBP6                  Balance of Payments for Belize                                                                                           NSA  04-Nov-2022  Annual         
+BLZGGEIGDP                    General Government Expense for Belize                                                                                    NSA  29-Oct-2019  Annual         
+BLZGGRGDP                     General Government Revenue for Belize                                                                                    NSA  29-Oct-2019  Annual         
+BLZGGXCNLGDP                  General Government Net Lending/Borrowing for Belize                                                                      NSA  04-Nov-2022  Annual         
+BLZGGXGDP                     General Government Total Expenditure for Belize                                                                          NSA  29-Oct-2019  Annual         
+BLZGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Belize                                                              NSA  04-Nov-2022  Annual         
+BLZGGXWDGGDP                  General Government Gross Debt for Belize                                                                                 NSA  04-Nov-2022  Annual         
+BLZNGDPD                      Gross Domestic Product in U.S. Dollars for Belize                                                                        NSA  29-Oct-2019  Annual         
+BLZNGDPFY                     Fiscal Year Gross Domestic Product for Belize                                                                            NSA  29-Oct-2019  Annual         
+BLZNGDPRPCH                   Gross Domestic Product for Belize                                                                                        NSA  04-Nov-2022  Annual         
+BLZPCPIEPCH                   Consumer Prices for Belize                                                                                               NSA  04-Nov-2022  Annual         
+BLZPPPSH                      Purchasing Power Parity, Share of World for Belize                                                                       NSA  29-Oct-2019  Annual         
+BOLBCAGDPBP6                  Balance of Payments for Bolivia                                                                                          NSA  04-Nov-2022  Annual         
+BOLGGEIGDP                    General Government Expense for Bolivia                                                                                   NSA  29-Oct-2019  Annual         
+BOLGGRGDP                     General Government Revenue for Bolivia                                                                                   NSA  29-Oct-2019  Annual         
+BOLGGXCNLGDP                  General Government Net Lending/Borrowing for Bolivia                                                                     NSA  04-Nov-2022  Annual         
+BOLGGXGDP                     General Government Total Expenditure for Bolivia                                                                         NSA  29-Oct-2019  Annual         
+BOLGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Bolivia                                                             NSA  04-Nov-2022  Annual         
+BOLGGXWDGGDP                  General Government Gross Debt for Bolivia                                                                                NSA  04-Nov-2022  Annual         
+BOLNGDPD                      Gross Domestic Product in U.S. Dollars for Bolivia                                                                       NSA  29-Oct-2019  Annual         
+BOLNGDPFY                     Fiscal Year Gross Domestic Product for Bolivia                                                                           NSA  29-Oct-2019  Annual         
+BOLNGDPRPCH                   Gross Domestic Product for Bolivia                                                                                       NSA  04-Nov-2022  Annual         
+BOLPCPIEPCH                   Consumer Prices for Bolivia                                                                                              NSA  27-Apr-2022  Annual         
+BOLPPPSH                      Purchasing Power Parity, Share of World for Bolivia                                                                      NSA  29-Oct-2019  Annual         
+BRABCAGDPBP6                  Balance of Payments for Brazil                                                                                           NSA  04-Nov-2022  Annual         
+BRAGGEIGDP                    General Government Expense for Brazil                                                                                    NSA  29-Oct-2019  Annual         
+BRAGGRGDP                     General Government Revenue for Brazil                                                                                    NSA  29-Oct-2019  Annual         
+BRAGGROPI                     General Government Revenue, interest income for Brazil                                                                   NSA  11-Oct-2016  Annual         
+BRAGGXCNLGDP                  General Government Net Lending/Borrowing for Brazil                                                                      NSA  04-Nov-2022  Annual         
+BRAGGXGDP                     General Government Total Expenditure for Brazil                                                                          NSA  29-Oct-2019  Annual         
+BRAGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Brazil                                                              NSA  04-Nov-2022  Annual         
+BRAGGXWDGGDP                  General Government Gross Debt for Brazil                                                                                 NSA  04-Nov-2022  Annual         
+BRANGDPD                      Gross Domestic Product in U.S. Dollars for Brazil                                                                        NSA  29-Oct-2019  Annual         
+BRANGDPFY                     Fiscal Year Gross Domestic Product for Brazil                                                                            NSA  29-Oct-2019  Annual         
+BRANGDPRPCH                   Gross Domestic Product for Brazil                                                                                        NSA  04-Nov-2022  Annual         
+BRAPCPIEPCH                   Consumer Prices for Brazil                                                                                               NSA  04-Nov-2022  Annual         
+BRAPPPSH                      Purchasing Power Parity, Share of World for Brazil                                                                       NSA  29-Oct-2019  Annual         
+BRBBCAGDPBP6                  Balance of Payments for Barbados                                                                                         NSA  04-Nov-2022  Annual         
+BRBGGEIGDP                    General Government Expense for Barbados                                                                                  NSA  29-Oct-2019  Annual         
+BRBGGRGDP                     General Government Revenue for Barbados                                                                                  NSA  29-Oct-2019  Annual         
+BRBGGROPI                     General Government Revenue, interest income for Barbados                                                                 NSA  11-Oct-2016  Annual         
+BRBGGXCNLGDP                  General Government Net Lending/Borrowing for Barbados                                                                    NSA  04-Nov-2022  Annual         
+BRBGGXGDP                     General Government Total Expenditure for Barbados                                                                        NSA  29-Oct-2019  Annual         
+BRBGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Barbados                                                            NSA  04-Nov-2022  Annual         
+BRBGGXWDGGDP                  General Government Gross Debt for Barbados                                                                               NSA  04-Nov-2022  Annual         
+BRBNGDPD                      Gross Domestic Product in U.S. Dollars for Barbados                                                                      NSA  29-Oct-2019  Annual         
+BRBNGDPFY                     Fiscal Year Gross Domestic Product for Barbados                                                                          NSA  29-Oct-2019  Annual         
+BRBNGDPRPCH                   Gross Domestic Product for Barbados                                                                                      NSA  04-Nov-2022  Annual         
+BRBPCPIEPCH                   Consumer Prices for Barbados                                                                                             NSA  04-Nov-2022  Annual         
+BRBPPPSH                      Purchasing Power Parity, Share of World for Barbados                                                                     NSA  29-Oct-2019  Annual         
+CANBCAGDPBP6                  Balance of Payments for Canada                                                                                           NSA  04-Nov-2022  Annual         
+CANGGEIGDP                    General Government Expense for Canada                                                                                    NSA  29-Oct-2019  Annual         
+CANGGRGDP                     General Government Revenue for Canada                                                                                    NSA  29-Oct-2019  Annual         
+CANGGROPI                     General Government Revenue, interest income for Canada                                                                   NSA  11-Oct-2016  Annual         
+CANGGXCNLGDP                  General Government Net Lending/Borrowing for Canada                                                                      NSA  04-Nov-2022  Annual         
+CANGGXGDP                     General Government Total Expenditure for Canada                                                                          NSA  29-Oct-2019  Annual         
+CANGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Canada                                                              NSA  04-Nov-2022  Annual         
+CANGGXWDGGDP                  General Government Gross Debt for Canada                                                                                 NSA  04-Nov-2022  Annual         
+CANNGDPD                      Gross Domestic Product in U.S. Dollars for Canada                                                                        NSA  29-Oct-2019  Annual         
+CANNGDPFY                     Fiscal Year Gross Domestic Product for Canada                                                                            NSA  29-Oct-2019  Annual         
+CANNGDPRPCH                   Gross Domestic Product for Canada                                                                                        NSA  04-Nov-2022  Annual         
+CANPCPIEPCH                   Consumer Prices for Canada                                                                                               NSA  04-Nov-2022  Annual         
+CANPPPSH                      Purchasing Power Parity, Share of World for Canada                                                                       NSA  29-Oct-2019  Annual         
+CHLBCAGDPBP6                  Balance of Payments for Chile                                                                                            NSA  04-Nov-2022  Annual         
+CHLGGEIGDP                    General Government Expense for Chile                                                                                     NSA  29-Oct-2019  Annual         
+CHLGGRGDP                     General Government Revenue for Chile                                                                                     NSA  29-Oct-2019  Annual         
+CHLGGROPI                     General Government Revenue, interest income for Chile                                                                    NSA  11-Oct-2016  Annual         
+CHLGGXCNLGDP                  General Government Net Lending/Borrowing for Chile                                                                       NSA  04-Nov-2022  Annual         
+CHLGGXGDP                     General Government Total Expenditure for Chile                                                                           NSA  29-Oct-2019  Annual         
+CHLGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Chile                                                               NSA  04-Nov-2022  Annual         
+CHLGGXWDGGDP                  General Government Gross Debt for Chile                                                                                  NSA  04-Nov-2022  Annual         
+CHLNGDPD                      Gross Domestic Product in U.S. Dollars for Chile                                                                         NSA  29-Oct-2019  Annual         
+CHLNGDPFY                     Fiscal Year Gross Domestic Product for Chile                                                                             NSA  29-Oct-2019  Annual         
+CHLNGDPRPCH                   Gross Domestic Product for Chile                                                                                         NSA  04-Nov-2022  Annual         
+CHLPCPIEPCH                   Consumer Prices for Chile                                                                                                NSA  04-Nov-2022  Annual         
+CHLPPPSH                      Purchasing Power Parity, Share of World for Chile                                                                        NSA  29-Oct-2019  Annual         
+COLBCAGDPBP6                  Balance of Payments for Colombia                                                                                         NSA  04-Nov-2022  Annual         
+COLGGEIGDP                    General Government Expense for Colombia                                                                                  NSA  29-Oct-2019  Annual         
+COLGGRGDP                     General Government Revenue for Colombia                                                                                  NSA  29-Oct-2019  Annual         
+COLGGROPI                     General Government Revenue, interest income for Colombia                                                                 NSA  11-Oct-2016  Annual         
+COLGGXCNLGDP                  General Government Net Lending/Borrowing for Colombia                                                                    NSA  04-Nov-2022  Annual         
+COLGGXGDP                     General Government Total Expenditure for Colombia                                                                        NSA  29-Oct-2019  Annual         
+COLGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Colombia                                                            NSA  04-Nov-2022  Annual         
+COLGGXWDGGDP                  General Government Gross Debt for Colombia                                                                               NSA  04-Nov-2022  Annual         
+COLNGDPD                      Gross Domestic Product in U.S. Dollars for Colombia                                                                      NSA  29-Oct-2019  Annual         
+COLNGDPFY                     Fiscal Year Gross Domestic Product for Colombia                                                                          NSA  29-Oct-2019  Annual         
+COLNGDPRPCH                   Gross Domestic Product for Colombia                                                                                      NSA  04-Nov-2022  Annual         
+COLPCPIEPCH                   Consumer Prices for Colombia                                                                                             NSA  04-Nov-2022  Annual         
+COLPPPSH                      Purchasing Power Parity, Share of World for Colombia                                                                     NSA  29-Oct-2019  Annual         
+CRBBCAGDPBP6                  Balance of Payments for Caribbean                                                                                        NSA  16-Apr-2020  Annual         
+CRBGGRGDP                     General Government Revenue for Caribbean                                                                                 NSA  29-Oct-2019  Annual         
+CRBGGXCNLGDP                  General Government Net Lending/Borrowing for Caribbean                                                                   NSA  16-Apr-2020  Annual         
+CRBGGXGDP                     General Government Total Expenditure for Caribbean                                                                       NSA  29-Oct-2019  Annual         
+CRBGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Caribbean                                                           NSA  29-Oct-2019  Annual         
+CRBGGXWDGGDP                  General Government Gross Debt for Caribbean                                                                              NSA  29-Oct-2019  Annual         
+CRBNGDPD                      Gross Domestic Product in U.S. Dollars for Caribbean                                                                     NSA  29-Oct-2019  Annual         
+CRBNGDPRPCH                   Gross Domestic Product for Caribbean                                                                                     NSA  16-Apr-2020  Annual         
+CRBPCPIEPCH                   Consumer Prices for Caribbean                                                                                            NSA  16-Apr-2020  Annual         
+CRBPPPSH                      Purchasing Power Parity, Share of World for Caribbean                                                                    NSA  29-Oct-2019  Annual         
+CRIBCAGDPBP6                  Balance of Payments for Costa Rica                                                                                       NSA  04-Nov-2022  Annual         
+CRIGGEIGDP                    General Government Expense for Costa Rica                                                                                NSA  29-Oct-2019  Annual         
+CRIGGRGDP                     General Government Revenue for Costa Rica                                                                                NSA  29-Oct-2019  Annual         
+CRIGGXCNLGDP                  General Government Net Lending/Borrowing for Costa Rica                                                                  NSA  04-Nov-2022  Annual         
+CRIGGXGDP                     General Government Total Expenditure for Costa Rica                                                                      NSA  29-Oct-2019  Annual         
+CRIGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Costa Rica                                                          NSA  04-Nov-2022  Annual         
+CRIGGXWDGGDP                  General Government Gross Debt for Costa Rica                                                                             NSA  04-Nov-2022  Annual         
+CRINGDPD                      Gross Domestic Product in U.S. Dollars for Costa Rica                                                                    NSA  29-Oct-2019  Annual         
+CRINGDPFY                     Fiscal Year Gross Domestic Product for Costa Rica                                                                        NSA  29-Oct-2019  Annual         
+CRINGDPRPCH                   Gross Domestic Product for Costa Rica                                                                                    NSA  04-Nov-2022  Annual         
+CRIPCPIEPCH                   Consumer Prices for Costa Rica                                                                                           NSA  04-Nov-2022  Annual         
+CRIPPPSH                      Purchasing Power Parity, Share of World for Costa Rica                                                                   NSA  29-Oct-2019  Annual         
+DMABCAGDPBP6                  Balance of Payments for Dominica                                                                                         NSA  04-Nov-2022  Annual         
+DMAGGEIGDP                    General Government Expense for Dominica                                                                                  NSA  29-Oct-2019  Annual         
+DMAGGRGDP                     General Government Revenue for Dominica                                                                                  NSA  29-Oct-2019  Annual         
+DMAGGXCNLGDP                  General Government Net Lending/Borrowing for Dominica                                                                    NSA  04-Nov-2022  Annual         
+DMAGGXGDP                     General Government Total Expenditure for Dominica                                                                        NSA  29-Oct-2019  Annual         
+DMAGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Dominica                                                            NSA  04-Nov-2022  Annual         
+DMAGGXWDGGDP                  General Government Gross Debt for Dominica                                                                               NSA  04-Nov-2022  Annual         
+DMANGDPD                      Gross Domestic Product in U.S. Dollars for Dominica                                                                      NSA  29-Oct-2019  Annual         
+DMANGDPFY                     Fiscal Year Gross Domestic Product for Dominica                                                                          NSA  29-Oct-2019  Annual         
+DMANGDPRPCH                   Gross Domestic Product for Dominica                                                                                      NSA  04-Nov-2022  Annual         
+DMAPCPIEPCH                   Consumer Prices for Dominica                                                                                             NSA  04-Nov-2022  Annual         
+DMAPPPSH                      Purchasing Power Parity, Share of World for Dominica                                                                     NSA  29-Oct-2019  Annual         
+DOMBCAGDPBP6                  Balance of Payments for Dominican Republic                                                                               NSA  04-Nov-2022  Annual         
+DOMGGEIGDP                    General Government Expense for Dominican Republic                                                                        NSA  29-Oct-2019  Annual         
+DOMGGRGDP                     General Government Revenue for Dominican Republic                                                                        NSA  29-Oct-2019  Annual         
+DOMGGXCNLGDP                  General Government Net Lending/Borrowing for Dominican Republic                                                          NSA  04-Nov-2022  Annual         
+DOMGGXGDP                     General Government Total Expenditure for Dominican Republic                                                              NSA  29-Oct-2019  Annual         
+DOMGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Dominican Republic                                                  NSA  04-Nov-2022  Annual         
+DOMGGXWDGGDP                  General Government Gross Debt for Dominican Republic                                                                     NSA  04-Nov-2022  Annual         
+DOMNGDPD                      Gross Domestic Product in U.S. Dollars for Dominican Republic                                                            NSA  29-Oct-2019  Annual         
+DOMNGDPFY                     Fiscal Year Gross Domestic Product for Dominican Republic                                                                NSA  29-Oct-2019  Annual         
+DOMNGDPRPCH                   Gross Domestic Product for Dominican Republic                                                                            NSA  04-Nov-2022  Annual         
+DOMPCPIEPCH                   Consumer Prices for Dominican Republic                                                                                   NSA  04-Nov-2022  Annual         
+DOMPPPSH                      Purchasing Power Parity, Share of World for Dominican Republic                                                           NSA  29-Oct-2019  Annual         
+ECUBCAGDPBP6                  Balance of Payments for Ecuador                                                                                          NSA  04-Nov-2022  Annual         
+ECUGGEIGDP                    General Government Expense for Ecuador                                                                                   NSA  29-Oct-2019  Annual         
+ECUGGRGDP                     General Government Revenue for Ecuador                                                                                   NSA  29-Oct-2019  Annual         
+ECUGGXCNLGDP                  General Government Net Lending/Borrowing for Ecuador                                                                     NSA  04-Nov-2022  Annual         
+ECUGGXGDP                     General Government Total Expenditure for Ecuador                                                                         NSA  29-Oct-2019  Annual         
+ECUGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Ecuador                                                             NSA  04-Nov-2022  Annual         
+ECUGGXWDGGDP                  General Government Gross Debt for Ecuador                                                                                NSA  04-Nov-2022  Annual         
+ECUNGDPD                      Gross Domestic Product in U.S. Dollars for Ecuador                                                                       NSA  29-Oct-2019  Annual         
+ECUNGDPFY                     Fiscal Year Gross Domestic Product for Ecuador                                                                           NSA  29-Oct-2019  Annual         
+ECUNGDPRPCH                   Gross Domestic Product for Ecuador                                                                                       NSA  27-Apr-2022  Annual         
+ECUPCPIEPCH                   Consumer Prices for Ecuador                                                                                              NSA  27-Apr-2022  Annual         
+ECUPPPSH                      Purchasing Power Parity, Share of World for Ecuador                                                                      NSA  29-Oct-2019  Annual         
+GRDBCAGDPBP6                  Balance of Payments for Grenada                                                                                          NSA  04-Nov-2022  Annual         
+GRDGGEIGDP                    General Government Expense for Grenada                                                                                   NSA  29-Oct-2019  Annual         
+GRDGGRGDP                     General Government Revenue for Grenada                                                                                   NSA  29-Oct-2019  Annual         
+GRDGGXCNLGDP                  General Government Net Lending/Borrowing for Grenada                                                                     NSA  04-Nov-2022  Annual         
+GRDGGXGDP                     General Government Total Expenditure for Grenada                                                                         NSA  29-Oct-2019  Annual         
+GRDGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Grenada                                                             NSA  04-Nov-2022  Annual         
+GRDGGXWDGGDP                  General Government Gross Debt for Grenada                                                                                NSA  04-Nov-2022  Annual         
+GRDNGDPD                      Gross Domestic Product in U.S. Dollars for Grenada                                                                       NSA  29-Oct-2019  Annual         
+GRDNGDPFY                     Fiscal Year Gross Domestic Product for Grenada                                                                           NSA  29-Oct-2019  Annual         
+GRDNGDPRPCH                   Gross Domestic Product for Grenada                                                                                       NSA  27-Apr-2022  Annual         
+GRDPCPIEPCH                   Consumer Prices for Grenada                                                                                              NSA  04-Nov-2022  Annual         
+GRDPPPSH                      Purchasing Power Parity, Share of World for Grenada                                                                      NSA  29-Oct-2019  Annual         
+GTMBCAGDPBP6                  Balance of Payments for Guatemala                                                                                        NSA  04-Nov-2022  Annual         
+GTMGGEIGDP                    General Government Expense for Guatemala                                                                                 NSA  29-Oct-2019  Annual         
+GTMGGRGDP                     General Government Revenue for Guatemala                                                                                 NSA  29-Oct-2019  Annual         
+GTMGGXCNLGDP                  General Government Net Lending/Borrowing for Guatemala                                                                   NSA  04-Nov-2022  Annual         
+GTMGGXGDP                     General Government Total Expenditure for Guatemala                                                                       NSA  29-Oct-2019  Annual         
+GTMGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Guatemala                                                           NSA  04-Nov-2022  Annual         
+GTMGGXWDGGDP                  General Government Gross Debt for Guatemala                                                                              NSA  04-Nov-2022  Annual         
+GTMNGDPD                      Gross Domestic Product in U.S. Dollars for Guatemala                                                                     NSA  29-Oct-2019  Annual         
+GTMNGDPFY                     Fiscal Year Gross Domestic Product for Guatemala                                                                         NSA  29-Oct-2019  Annual         
+GTMNGDPRPCH                   Gross Domestic Product for Guatemala                                                                                     NSA  04-Nov-2022  Annual         
+GTMPCPIEPCH                   Consumer Prices for Guatemala                                                                                            NSA  04-Nov-2022  Annual         
+GTMPPPSH                      Purchasing Power Parity, Share of World for Guatemala                                                                    NSA  29-Oct-2019  Annual         
+GUYBCAGDPBP6                  Balance of Payments for Guyana                                                                                           NSA  04-Nov-2022  Annual         
+GUYGGEIGDP                    General Government Expense for Guyana                                                                                    NSA  29-Oct-2019  Annual         
+GUYGGRGDP                     General Government Revenue for Guyana                                                                                    NSA  29-Oct-2019  Annual         
+GUYGGXCNLGDP                  General Government Net Lending/Borrowing for Guyana                                                                      NSA  04-Nov-2022  Annual         
+GUYGGXGDP                     General Government Total Expenditure for Guyana                                                                          NSA  29-Oct-2019  Annual         
+GUYGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Guyana                                                              NSA  04-Nov-2022  Annual         
+GUYGGXWDGGDP                  General Government Gross Debt for Guyana                                                                                 NSA  04-Nov-2022  Annual         
+GUYNGDPD                      Gross Domestic Product in U.S. Dollars for Guyana                                                                        NSA  29-Oct-2019  Annual         
+GUYNGDPFY                     Fiscal Year Gross Domestic Product for Guyana                                                                            NSA  29-Oct-2019  Annual         
+GUYNGDPRPCH                   Gross Domestic Product for Guyana                                                                                        NSA  04-Nov-2022  Annual         
+GUYPCPIEPCH                   Consumer Prices for Guyana                                                                                               NSA  04-Nov-2022  Annual         
+GUYPPPSH                      Purchasing Power Parity, Share of World for Guyana                                                                       NSA  29-Oct-2019  Annual         
+HNDBCAGDPBP6                  Balance of Payments for Honduras                                                                                         NSA  04-Nov-2022  Annual         
+HNDGGEIGDP                    General Government Expense for Honduras                                                                                  NSA  29-Oct-2019  Annual         
+HNDGGRGDP                     General Government Revenue for Honduras                                                                                  NSA  29-Oct-2019  Annual         
+HNDGGROPI                     General Government Revenue, interest income for Honduras                                                                 NSA  11-Oct-2016  Annual         
+HNDGGXCNLGDP                  General Government Net Lending/Borrowing for Honduras                                                                    NSA  04-Nov-2022  Annual         
+HNDGGXGDP                     General Government Total Expenditure for Honduras                                                                        NSA  29-Oct-2019  Annual         
+HNDGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Honduras                                                            NSA  04-Nov-2022  Annual         
+HNDGGXWDGGDP                  General Government Gross Debt for Honduras                                                                               NSA  04-Nov-2022  Annual         
+HNDNGDPD                      Gross Domestic Product in U.S. Dollars for Honduras                                                                      NSA  29-Oct-2019  Annual         
+HNDNGDPFY                     Fiscal Year Gross Domestic Product for Honduras                                                                          NSA  29-Oct-2019  Annual         
+HNDNGDPRPCH                   Gross Domestic Product for Honduras                                                                                      NSA  04-Nov-2022  Annual         
+HNDPCPIEPCH                   Consumer Prices for Honduras                                                                                             NSA  04-Nov-2022  Annual         
+HNDPPPSH                      Purchasing Power Parity, Share of World for Honduras                                                                     NSA  29-Oct-2019  Annual         
+HTIBCAGDPBP6                  Balance of Payments for Haiti                                                                                            NSA  04-Nov-2022  Annual         
+HTIGGEIGDP                    General Government Expense for Haiti                                                                                     NSA  29-Oct-2019  Annual         
+HTIGGRGDP                     General Government Revenue for Haiti                                                                                     NSA  29-Oct-2019  Annual         
+HTIGGXCNLGDP                  General Government Net Lending/Borrowing for Haiti                                                                       NSA  04-Nov-2022  Annual         
+HTIGGXGDP                     General Government Total Expenditure for Haiti                                                                           NSA  29-Oct-2019  Annual         
+HTIGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Haiti                                                               NSA  04-Nov-2022  Annual         
+HTIGGXWDGGDP                  General Government Gross Debt for Haiti                                                                                  NSA  04-Nov-2022  Annual         
+HTINGDPD                      Gross Domestic Product in U.S. Dollars for Haiti                                                                         NSA  29-Oct-2019  Annual         
+HTINGDPFY                     Fiscal Year Gross Domestic Product for Haiti                                                                             NSA  29-Oct-2019  Annual         
+HTINGDPRPCH                   Gross Domestic Product for Haiti                                                                                         NSA  04-Nov-2022  Annual         
+HTIPCPIEPCH                   Consumer Prices for Haiti                                                                                                NSA  04-Nov-2022  Annual         
+HTIPPPSH                      Purchasing Power Parity, Share of World for Haiti                                                                        NSA  29-Oct-2019  Annual         
+JAMBCAGDPBP6                  Balance of Payments for Jamaica                                                                                          NSA  04-Nov-2022  Annual         
+JAMGGEIGDP                    General Government Expense for Jamaica                                                                                   NSA  29-Oct-2019  Annual         
+JAMGGRGDP                     General Government Revenue for Jamaica                                                                                   NSA  29-Oct-2019  Annual         
+JAMGGXCNLGDP                  General Government Net Lending/Borrowing for Jamaica                                                                     NSA  04-Nov-2022  Annual         
+JAMGGXGDP                     General Government Total Expenditure for Jamaica                                                                         NSA  29-Oct-2019  Annual         
+JAMGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Jamaica                                                             NSA  04-Nov-2022  Annual         
+JAMGGXWDGGDP                  General Government Gross Debt for Jamaica                                                                                NSA  04-Nov-2022  Annual         
+JAMNGDPD                      Gross Domestic Product in U.S. Dollars for Jamaica                                                                       NSA  29-Oct-2019  Annual         
+JAMNGDPFY                     Fiscal Year Gross Domestic Product for Jamaica                                                                           NSA  29-Oct-2019  Annual         
+JAMNGDPRPCH                   Gross Domestic Product for Jamaica                                                                                       NSA  04-Nov-2022  Annual         
+JAMPCPIEPCH                   Consumer Prices for Jamaica                                                                                              NSA  04-Nov-2022  Annual         
+JAMPPPSH                      Purchasing Power Parity, Share of World for Jamaica                                                                      NSA  29-Oct-2019  Annual         
+MEXBCAGDPBP6                  Balance of Payments for Mexico                                                                                           NSA  04-Nov-2022  Annual         
+MEXGGEIGDP                    General Government Expense for Mexico                                                                                    NSA  29-Oct-2019  Annual         
+MEXGGRGDP                     General Government Revenue for Mexico                                                                                    NSA  29-Oct-2019  Annual         
+MEXGGXCNLGDP                  General Government Net Lending/Borrowing for Mexico                                                                      NSA  04-Nov-2022  Annual         
+MEXGGXGDP                     General Government Total Expenditure for Mexico                                                                          NSA  29-Oct-2019  Annual         
+MEXGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Mexico                                                              NSA  04-Nov-2022  Annual         
+MEXGGXWDGGDP                  General Government Gross Debt for Mexico                                                                                 NSA  04-Nov-2022  Annual         
+MEXNGDPD                      Gross Domestic Product in U.S. Dollars for Mexico                                                                        NSA  29-Oct-2019  Annual         
+MEXNGDPFY                     Fiscal Year Gross Domestic Product for Mexico                                                                            NSA  29-Oct-2019  Annual         
+MEXNGDPRPCH                   Gross Domestic Product for Mexico                                                                                        NSA  04-Nov-2022  Annual         
+MEXPCPIEPCH                   Consumer Prices for Mexico                                                                                               NSA  04-Nov-2022  Annual         
+MEXPPPSH                      Purchasing Power Parity, Share of World for Mexico                                                                       NSA  29-Oct-2019  Annual         
+NICBCAGDPBP6                  Balance of Payments for Nicaragua                                                                                        NSA  04-Nov-2022  Annual         
+NICGGEIGDP                    General Government Expense for Nicaragua                                                                                 NSA  29-Oct-2019  Annual         
+NICGGRGDP                     General Government Revenue for Nicaragua                                                                                 NSA  29-Oct-2019  Annual         
+NICGGROPI                     General Government Revenue, interest income for Nicaragua                                                                NSA  11-Oct-2016  Annual         
+NICGGXCNLGDP                  General Government Net Lending/Borrowing for Nicaragua                                                                   NSA  04-Nov-2022  Annual         
+NICGGXGDP                     General Government Total Expenditure for Nicaragua                                                                       NSA  29-Oct-2019  Annual         
+NICGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Nicaragua                                                           NSA  04-Nov-2022  Annual         
+NICGGXWDGGDP                  General Government Gross Debt for Nicaragua                                                                              NSA  04-Nov-2022  Annual         
+NICNGDPD                      Gross Domestic Product in U.S. Dollars for Nicaragua                                                                     NSA  29-Oct-2019  Annual         
+NICNGDPFY                     Fiscal Year Gross Domestic Product for Nicaragua                                                                         NSA  29-Oct-2019  Annual         
+NICNGDPRPCH                   Gross Domestic Product for Nicaragua                                                                                     NSA  04-Nov-2022  Annual         
+NICPCPIEPCH                   Consumer Prices for Nicaragua                                                                                            NSA  04-Nov-2022  Annual         
+NICPPPSH                      Purchasing Power Parity, Share of World for Nicaragua                                                                    NSA  29-Oct-2019  Annual         
+PANBCAGDPBP6                  Balance of Payments for Panama                                                                                           NSA  04-Nov-2022  Annual         
+PANGGEIGDP                    General Government Expense for Panama                                                                                    NSA  29-Oct-2019  Annual         
+PANGGRGDP                     General Government Revenue for Panama                                                                                    NSA  29-Oct-2019  Annual         
+PANGGROPI                     General Government Revenue, interest income for Panama                                                                   NSA  11-Oct-2016  Annual         
+PANGGXCNLGDP                  General Government Net Lending/Borrowing for Panama                                                                      NSA  04-Nov-2022  Annual         
+PANGGXGDP                     General Government Total Expenditure for Panama                                                                          NSA  29-Oct-2019  Annual         
+PANGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Panama                                                              NSA  04-Nov-2022  Annual         
+PANGGXWDGGDP                  General Government Gross Debt for Panama                                                                                 NSA  04-Nov-2022  Annual         
+PANNGDPD                      Gross Domestic Product in U.S. Dollars for Panama                                                                        NSA  29-Oct-2019  Annual         
+PANNGDPFY                     Fiscal Year Gross Domestic Product for Panama                                                                            NSA  29-Oct-2019  Annual         
+PANNGDPRPCH                   Gross Domestic Product for Panama                                                                                        NSA  04-Nov-2022  Annual         
+PANPCPIEPCH                   Consumer Prices for Panama                                                                                               NSA  04-Nov-2022  Annual         
+PANPPPSH                      Purchasing Power Parity, Share of World for Panama                                                                       NSA  29-Oct-2019  Annual         
+PERBCAGDPBP6                  Balance of Payments for Peru                                                                                             NSA  04-Nov-2022  Annual         
+PERGGEIGDP                    General Government Expense for Peru                                                                                      NSA  29-Oct-2019  Annual         
+PERGGRGDP                     General Government Revenue for Peru                                                                                      NSA  29-Oct-2019  Annual         
+PERGGROPI                     General Government Revenue, interest income for Peru                                                                     NSA  09-May-2016  Annual         
+PERGGXCNLGDP                  General Government Net Lending/Borrowing for Peru                                                                        NSA  04-Nov-2022  Annual         
+PERGGXGDP                     General Government Total Expenditure for Peru                                                                            NSA  29-Oct-2019  Annual         
+PERGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Peru                                                                NSA  04-Nov-2022  Annual         
+PERGGXWDGGDP                  General Government Gross Debt for Peru                                                                                   NSA  04-Nov-2022  Annual         
+PERNGDPD                      Gross Domestic Product in U.S. Dollars for Peru                                                                          NSA  29-Oct-2019  Annual         
+PERNGDPFY                     Fiscal Year Gross Domestic Product for Peru                                                                              NSA  29-Oct-2019  Annual         
+PERNGDPRPCH                   Gross Domestic Product for Peru                                                                                          NSA  04-Nov-2022  Annual         
+PERPCPIEPCH                   Consumer Prices for Peru                                                                                                 NSA  04-Nov-2022  Annual         
+PERPPPSH                      Purchasing Power Parity, Share of World for Peru                                                                         NSA  29-Oct-2019  Annual         
+PRYBCAGDPBP6                  Balance of Payments for Paraguay                                                                                         NSA  04-Nov-2022  Annual         
+PRYGGEIGDP                    General Government Expense for Paraguay                                                                                  NSA  29-Oct-2019  Annual         
+PRYGGRGDP                     General Government Revenue for Paraguay                                                                                  NSA  29-Oct-2019  Annual         
+PRYGGXCNLGDP                  General Government Net Lending/Borrowing for Paraguay                                                                    NSA  04-Nov-2022  Annual         
+PRYGGXGDP                     General Government Total Expenditure for Paraguay                                                                        NSA  29-Oct-2019  Annual         
+PRYGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Paraguay                                                            NSA  04-Nov-2022  Annual         
+PRYGGXWDGGDP                  General Government Gross Debt for Paraguay                                                                               NSA  04-Nov-2022  Annual         
+PRYNGDPD                      Gross Domestic Product in U.S. Dollars for Paraguay                                                                      NSA  29-Oct-2019  Annual         
+PRYNGDPFY                     Fiscal Year Gross Domestic Product for Paraguay                                                                          NSA  29-Oct-2019  Annual         
+PRYNGDPRPCH                   Gross Domestic Product for Paraguay                                                                                      NSA  04-Nov-2022  Annual         
+PRYPCPIEPCH                   Consumer Prices for Paraguay                                                                                             NSA  04-Nov-2022  Annual         
+PRYPPPSH                      Purchasing Power Parity, Share of World for Paraguay                                                                     NSA  29-Oct-2019  Annual         
+SKNBCAGDPBP6                  Balance of Payments for St. Kitts and Nevis                                                                              NSA  04-Nov-2022  Annual         
+SKNGGEIGDP                    General Government Expense for St. Kitts and Nevis                                                                       NSA  29-Oct-2019  Annual         
+SKNGGRGDP                     General Government Revenue for St. Kitts and Nevis                                                                       NSA  29-Oct-2019  Annual         
+SKNGGROPI                     General Government Revenue, interest income for St. Kitts and Nevis                                                      NSA  01-Dec-2015  Annual         
+SKNGGXCNLGDP                  General Government Net Lending/Borrowing for St. Kitts and Nevis                                                         NSA  04-Nov-2022  Annual         
+SKNGGXGDP                     General Government Total Expenditure for St. Kitts and Nevis                                                             NSA  29-Oct-2019  Annual         
+SKNGGXONLBGDP                 General Government Primary Net Lending/Borrowing for St. Kitts and Nevis                                                 NSA  04-Nov-2022  Annual         
+SKNGGXWDGGDP                  General Government Gross Debt for St. Kitts and Nevis                                                                    NSA  04-Nov-2022  Annual         
+SKNNGDPD                      Gross Domestic Product in U.S. Dollars for St. Kitts and Nevis                                                           NSA  29-Oct-2019  Annual         
+SKNNGDPFY                     Fiscal Year Gross Domestic Product for St. Kitts and Nevis                                                               NSA  29-Oct-2019  Annual         
+SKNNGDPRPCH                   Gross Domestic Product for St. Kitts and Nevis                                                                           NSA  04-Nov-2022  Annual         
+SKNPCPIEPCH                   Consumer Prices for St. Kitts and Nevis                                                                                  NSA  04-Nov-2022  Annual         
+SKNPPPSH                      Purchasing Power Parity, Share of World for St. Kitts and Nevis                                                          NSA  29-Oct-2019  Annual         
+SLABCAGDPBP6                  Balance of Payments for St. Lucia                                                                                        NSA  04-Nov-2022  Annual         
+SLAGGEIGDP                    General Government Expense for St. Lucia                                                                                 NSA  29-Oct-2019  Annual         
+SLAGGRGDP                     General Government Revenue for St. Lucia                                                                                 NSA  29-Oct-2019  Annual         
+SLAGGXCNLGDP                  General Government Net Lending/Borrowing for St. Lucia                                                                   NSA  04-Nov-2022  Annual         
+SLAGGXGDP                     General Government Total Expenditure for St. Lucia                                                                       NSA  29-Oct-2019  Annual         
+SLAGGXONLBGDP                 General Government Primary Net Lending/Borrowing for St. Lucia                                                           NSA  04-Nov-2022  Annual         
+SLAGGXWDGGDP                  General Government Gross Debt for St. Lucia                                                                              NSA  04-Nov-2022  Annual         
+SLANGDPD                      Gross Domestic Product in U.S. Dollars for St. Lucia                                                                     NSA  29-Oct-2019  Annual         
+SLANGDPFY                     Fiscal Year Gross Domestic Product for St. Lucia                                                                         NSA  29-Oct-2019  Annual         
+SLANGDPRPCH                   Gross Domestic Product for St. Lucia                                                                                     NSA  04-Nov-2022  Annual         
+SLAPCPIEPCH                   Consumer Prices for St. Lucia                                                                                            NSA  04-Nov-2022  Annual         
+SLAPPPSH                      Purchasing Power Parity, Share of World for St. Lucia                                                                    NSA  29-Oct-2019  Annual         
+SLVBCAGDPBP6                  Balance of Payments for El Salvador                                                                                      NSA  04-Nov-2022  Annual         
+SLVGGEIGDP                    General Government Expense for El Salvador                                                                               NSA  29-Oct-2019  Annual         
+SLVGGRGDP                     General Government Revenue for El Salvador                                                                               NSA  29-Oct-2019  Annual         
+SLVGGXCNLGDP                  General Government Net Lending/Borrowing for El Salvador                                                                 NSA  04-Nov-2022  Annual         
+SLVGGXGDP                     General Government Total Expenditure for El Salvador                                                                     NSA  29-Oct-2019  Annual         
+SLVGGXONLBGDP                 General Government Primary Net Lending/Borrowing for El Salvador                                                         NSA  04-Nov-2022  Annual         
+SLVGGXWDGGDP                  General Government Gross Debt for El Salvador                                                                            NSA  04-Nov-2022  Annual         
+SLVNGDPD                      Gross Domestic Product in U.S. Dollars for El Salvador                                                                   NSA  29-Oct-2019  Annual         
+SLVNGDPFY                     Fiscal Year Gross Domestic Product for El Salvador                                                                       NSA  29-Oct-2019  Annual         
+SLVNGDPRPCH                   Gross Domestic Product for El Salvador                                                                                   NSA  04-Nov-2022  Annual         
+SLVPCPIEPCH                   Consumer Prices for El Salvador                                                                                          NSA  04-Nov-2022  Annual         
+SLVPPPSH                      Purchasing Power Parity, Share of World for El Salvador                                                                  NSA  29-Oct-2019  Annual         
+SURBCAGDPBP6                  Balance of Payments for Suriname                                                                                         NSA  04-Nov-2022  Annual         
+SURGGEIGDP                    General Government Expense for Suriname                                                                                  NSA  29-Oct-2019  Annual         
+SURGGRGDP                     General Government Revenue for Suriname                                                                                  NSA  29-Oct-2019  Annual         
+SURGGXCNLGDP                  General Government Net Lending/Borrowing for Suriname                                                                    NSA  04-Nov-2022  Annual         
+SURGGXGDP                     General Government Total Expenditure for Suriname                                                                        NSA  29-Oct-2019  Annual         
+SURGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Suriname                                                            NSA  04-Nov-2022  Annual         
+SURGGXWDGGDP                  General Government Gross Debt for Suriname                                                                               NSA  04-Nov-2022  Annual         
+SURNGDPD                      Gross Domestic Product in U.S. Dollars for Suriname                                                                      NSA  29-Oct-2019  Annual         
+SURNGDPFY                     Fiscal Year Gross Domestic Product for Suriname                                                                          NSA  29-Oct-2019  Annual         
+SURNGDPRPCH                   Gross Domestic Product for Suriname                                                                                      NSA  04-Nov-2022  Annual         
+SURPCPIEPCH                   Consumer Prices for Suriname                                                                                             NSA  04-Nov-2022  Annual         
+SURPPPSH                      Purchasing Power Parity, Share of World for Suriname                                                                     NSA  29-Oct-2019  Annual         
+SVGBCAGDPBP6                  Balance of Payments for St. Vincent and the Grenadines                                                                   NSA  04-Nov-2022  Annual         
+SVGGGEIGDP                    General Government Expense for St. Vincent and the Grenadines                                                            NSA  29-Oct-2019  Annual         
+SVGGGRGDP                     General Government Revenue for St. Vincent and the Grenadines                                                            NSA  29-Oct-2019  Annual         
+SVGGGROPI                     General Government Revenue, interest income for St. Vincent and the Grenadines                                           NSA  11-Oct-2016  Annual         
+SVGGGXCNLGDP                  General Government Net Lending/Borrowing for St. Vincent and the Grenadines                                              NSA  04-Nov-2022  Annual         
+SVGGGXGDP                     General Government Total Expenditure for St. Vincent and the Grenadines                                                  NSA  29-Oct-2019  Annual         
+SVGGGXONLBGDP                 General Government Primary Net Lending/Borrowing for St. Vincent and the Grenadines                                      NSA  04-Nov-2022  Annual         
+SVGGGXWDGGDP                  General Government Gross Debt for St. Vincent and the Grenadines                                                         NSA  04-Nov-2022  Annual         
+SVGNGDPD                      Gross Domestic Product in U.S. Dollars for St. Vincent and the Grenadines                                                NSA  29-Oct-2019  Annual         
+SVGNGDPFY                     Fiscal Year Gross Domestic Product for St. Vincent and the Grenadines                                                    NSA  29-Oct-2019  Annual         
+SVGNGDPRPCH                   Gross Domestic Product for St. Vincent and the Grenadines                                                                NSA  04-Nov-2022  Annual         
+SVGPCPIEPCH                   Consumer Prices for St. Vincent and the Grenadines                                                                       NSA  04-Nov-2022  Annual         
+SVGPPPSH                      Purchasing Power Parity, Share of World for St. Vincent and the Grenadines                                               NSA  29-Oct-2019  Annual         
+TTOBCAGDPBP6                  Balance of Payments for Trinidad and Tobago                                                                              NSA  04-Nov-2022  Annual         
+TTOGGEIGDP                    General Government Expense for Trinidad and Tobago                                                                       NSA  29-Oct-2019  Annual         
+TTOGGRGDP                     General Government Revenue for Trinidad and Tobago                                                                       NSA  29-Oct-2019  Annual         
+TTOGGXCNLGDP                  General Government Net Lending/Borrowing for Trinidad and Tobago                                                         NSA  04-Nov-2022  Annual         
+TTOGGXGDP                     General Government Total Expenditure for Trinidad and Tobago                                                             NSA  29-Oct-2019  Annual         
+TTOGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Trinidad and Tobago                                                 NSA  04-Nov-2022  Annual         
+TTOGGXWDGGDP                  General Government Gross Debt for Trinidad and Tobago                                                                    NSA  04-Nov-2022  Annual         
+TTONGDPD                      Gross Domestic Product in U.S. Dollars for Trinidad and Tobago                                                           NSA  29-Oct-2019  Annual         
+TTONGDPFY                     Fiscal Year Gross Domestic Product for Trinidad and Tobago                                                               NSA  29-Oct-2019  Annual         
+TTONGDPRPCH                   Gross Domestic Product for Trinidad and Tobago                                                                           NSA  04-Nov-2022  Annual         
+TTOPCPIEPCH                   Consumer Prices for Trinidad and Tobago                                                                                  NSA  04-Nov-2022  Annual         
+TTOPPPSH                      Purchasing Power Parity, Share of World for Trinidad and Tobago                                                          NSA  29-Oct-2019  Annual         
+URYBCAGDPBP6                  Balance of Payments for Uruguay                                                                                          NSA  04-Nov-2022  Annual         
+URYGGEIGDP                    General Government Expense for Uruguay                                                                                   NSA  29-Oct-2019  Annual         
+URYGGRGDP                     General Government Revenue for Uruguay                                                                                   NSA  29-Oct-2019  Annual         
+URYGGXCNLGDP                  General Government Net Lending/Borrowing for Uruguay                                                                     NSA  04-Nov-2022  Annual         
+URYGGXGDP                     General Government Total Expenditure for Uruguay                                                                         NSA  29-Oct-2019  Annual         
+URYGGXONLBGDP                 General Government Primary Net Lending/Borrowing for Uruguay                                                             NSA  04-Nov-2022  Annual         
+URYGGXWDGGDP                  General Government Gross Debt for Uruguay                                                                                NSA  04-Nov-2022  Annual         
+URYNGDPD                      Gross Domestic Product in U.S. Dollars for Uruguay                                                                       NSA  29-Oct-2019  Annual         
+URYNGDPFY                     Fiscal Year Gross Domestic Product for Uruguay                                                                           NSA  29-Oct-2019  Annual         
+URYNGDPRPCH                   Gross Domestic Product for Uruguay                                                                                       NSA  04-Nov-2022  Annual         
+URYPCPIEPCH                   Consumer Prices for Uruguay                                                                                              NSA  04-Nov-2022  Annual         
+URYPPPSH                      Purchasing Power Parity, Share of World for Uruguay                                                                      NSA  29-Oct-2019  Annual         
+USABCAGDPBP6                  Balance of Payments for United States                                                                                    NSA  04-Nov-2022  Annual         
+USAGGEIGDP                    General Government Expense for United States                                                                             NSA  29-Oct-2019  Annual         
+USAGGRGDP                     General Government Revenue for United States                                                                             NSA  29-Oct-2019  Annual         
+USAGGROPI                     General Government Revenue, interest income for United States                                                            NSA  29-Oct-2019  Annual         
+USAGGXCNLGDP                  General Government Net Lending/Borrowing for United States                                                               NSA  04-Nov-2022  Annual         
+USAGGXGDP                     General Government Total Expenditure for United States                                                                   NSA  29-Oct-2019  Annual         
+USAGGXONLBGDP                 General Government Primary Net Lending/Borrowing for United States                                                       NSA  04-Nov-2022  Annual         
+USAGGXWDGGDP                  General Government Gross Debt for United States                                                                          NSA  04-Nov-2022  Annual         
+USANGDPD                      Gross Domestic Product in U.S. Dollars for United States                                                                 NSA  29-Oct-2019  Annual         
+USANGDPFY                     Fiscal Year Gross Domestic Product for United States                                                                     NSA  29-Oct-2019  Annual         
+USANGDPRPCH                   Gross Domestic Product for United States                                                                                 NSA  04-Nov-2022  Annual         
+USAPCPIEPCH                   Consumer Prices for United States                                                                                        NSA  04-Nov-2022  Annual         
+USAPPPSH                      Purchasing Power Parity, Share of World for United States                                                                NSA  29-Oct-2019  Annual         

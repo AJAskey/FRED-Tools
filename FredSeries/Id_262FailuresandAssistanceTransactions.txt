@@ -1,23 +1,23 @@
 Id : 262  Failures and Assistance Transactions
-BKATTLA641N                             Assistance Transactions of all Institutions for the United States and Other Areas                                        NSA  03-Nov-2022  Annual
-BKCCLNA641N                             Failures and Assistance Transactions of National Chartered Commercial Banks Supervised by the Office of the Comptroller  NSA  03-Nov-2022  Annual
-BKCCNMA641N                             Failures and Assistance Transactions of State Charter Fed Nonmember Commercial Banks Supervised by the FDIC (NM) for th  NSA  03-Nov-2022  Annual
-BKCCSAA641N                             Failures and Assistance Transactions of State or Federal Charter Savings Associations Supervised by the Office of Thrif  NSA  21-Feb-2020  Annual
-BKCCSBA641N                             Failures and Assistance Transactions of State Charter Savings Banks Supervised by the FDIC (SB) for the United States a  NSA  03-Nov-2022  Annual
-BKCCSMA641N                             Failures and Assistance Transactions of State Charter Fed Member Commercial Banks Supervised by the Federal Reserve (SM  NSA  03-Nov-2022  Annual
-BKFTTLA641N                             Failures of all Institutions for the United States and Other Areas                                                       NSA  03-Nov-2022  Annual
-BKIBIFA641N                             Failures and Assistance Transactions of all Institutions by Bank Insurance Fund (BIF) for the United States and Other A  NSA  03-Nov-2022  Annual
-BKIDIFA641N                             Failures and Assistance Transactions of all Institutions by Deposit Insurance Fund (DIF) for the United States and Othe  NSA  03-Nov-2022  Annual
-BKIFDCA641N                             Failures and Assistance Transactions of all Institutions by Federal Deposit Insurance Corporation (FDIC) for the United  NSA  21-Feb-2020  Annual
-BKIFSCA641N                             Failures and Assistance Transactions of all Institutions by Federal Savings and Loan Insurance Corporation (FSLIC) for   NSA  03-Nov-2022  Annual
-BKIRTCA641N                             Failures and Assistance Transactions of all Institutions by Resolution Trust Fund (RTC) for the United States and Other  NSA  21-Feb-2020  Annual
-BKISAFA641N                             Failures and Assistance Transactions of all Institutions by Savings Association Insurance Fund (SAIF) for the United St  NSA  21-Feb-2020  Annual
-BKTIDTA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Insured Deposit Transfer (IDT)) for the U  NSA  03-Nov-2022  Annual
-BKTMGRA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (MGR) for the United States and Other Areas NSA  21-Feb-2020  Annual
-BKTPAAA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (P&A)) for the Un  NSA  21-Feb-2020  Annual
-BKTREPA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Reprivatization (REP)) for the United Sta  NSA  21-Feb-2020  Annual
-BKTTAAA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Assistance Transactions (A/A)) for the Un  NSA  21-Feb-2020  Annual
-BKTTPAA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (PA)) for the Uni  NSA  02-Nov-2020  Annual
-BKTTPIA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (PI)) for the Uni  NSA  21-Feb-2020  Annual
-BKTTPOA641N                             Failures and Assistance Transactions of all Institutions by Transaction Type (Payout (PO)) for the United States and Ot  NSA  03-Nov-2022  Annual
-BNKTTLA641N                             Failures and Assistance Transactions of all Institutions for the United States and Other Areas                           NSA  03-Nov-2022  Annual
+BKATTLA641N                   Assistance Transactions of all Institutions for the United States and Other Areas                                        NSA  03-Nov-2022  Annual         
+BKCCLNA641N                   Failures and Assistance Transactions of National Chartered Commercial Banks Supervised by the Office of the Comptroller  NSA  03-Nov-2022  Annual         
+BKCCNMA641N                   Failures and Assistance Transactions of State Charter Fed Nonmember Commercial Banks Supervised by the FDIC (NM) for th  NSA  03-Nov-2022  Annual         
+BKCCSAA641N                   Failures and Assistance Transactions of State or Federal Charter Savings Associations Supervised by the Office of Thrif  NSA  21-Feb-2020  Annual         
+BKCCSBA641N                   Failures and Assistance Transactions of State Charter Savings Banks Supervised by the FDIC (SB) for the United States a  NSA  03-Nov-2022  Annual         
+BKCCSMA641N                   Failures and Assistance Transactions of State Charter Fed Member Commercial Banks Supervised by the Federal Reserve (SM  NSA  03-Nov-2022  Annual         
+BKFTTLA641N                   Failures of all Institutions for the United States and Other Areas                                                       NSA  03-Nov-2022  Annual         
+BKIBIFA641N                   Failures and Assistance Transactions of all Institutions by Bank Insurance Fund (BIF) for the United States and Other A  NSA  03-Nov-2022  Annual         
+BKIDIFA641N                   Failures and Assistance Transactions of all Institutions by Deposit Insurance Fund (DIF) for the United States and Othe  NSA  03-Nov-2022  Annual         
+BKIFDCA641N                   Failures and Assistance Transactions of all Institutions by Federal Deposit Insurance Corporation (FDIC) for the United  NSA  21-Feb-2020  Annual         
+BKIFSCA641N                   Failures and Assistance Transactions of all Institutions by Federal Savings and Loan Insurance Corporation (FSLIC) for   NSA  03-Nov-2022  Annual         
+BKIRTCA641N                   Failures and Assistance Transactions of all Institutions by Resolution Trust Fund (RTC) for the United States and Other  NSA  21-Feb-2020  Annual         
+BKISAFA641N                   Failures and Assistance Transactions of all Institutions by Savings Association Insurance Fund (SAIF) for the United St  NSA  21-Feb-2020  Annual         
+BKTIDTA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Insured Deposit Transfer (IDT)) for the U  NSA  03-Nov-2022  Annual         
+BKTMGRA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (MGR) for the United States and Other Areas NSA  21-Feb-2020  Annual         
+BKTPAAA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (P&A)) for the Un  NSA  21-Feb-2020  Annual         
+BKTREPA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Reprivatization (REP)) for the United Sta  NSA  21-Feb-2020  Annual         
+BKTTAAA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Assistance Transactions (A/A)) for the Un  NSA  21-Feb-2020  Annual         
+BKTTPAA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (PA)) for the Uni  NSA  02-Nov-2020  Annual         
+BKTTPIA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Purchase and Assumption (PI)) for the Uni  NSA  21-Feb-2020  Annual         
+BKTTPOA641N                   Failures and Assistance Transactions of all Institutions by Transaction Type (Payout (PO)) for the United States and Ot  NSA  03-Nov-2022  Annual         
+BNKTTLA641N                   Failures and Assistance Transactions of all Institutions for the United States and Other Areas                           NSA  03-Nov-2022  Annual         

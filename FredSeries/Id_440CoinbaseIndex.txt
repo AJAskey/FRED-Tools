@@ -1,2 +1,2 @@
 Id : 440  Coinbase Index
-CBCCIND                                 Coinbase Index (DISCONTINUED)                                                                                            NSA  26-May-2020  Daily, 7-Day
+CBCCIND                       Coinbase Index (DISCONTINUED)                                                                                            NSA  26-May-2020  Daily, 7-Day   

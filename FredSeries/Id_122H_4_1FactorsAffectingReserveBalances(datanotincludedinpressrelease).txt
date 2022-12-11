@@ -1,4 +1,4 @@
 Id : 122  H.4.1 Factors Affecting Reserve Balances (data not included in press release)
-CURRCIR                                 Currency in Circulation                                                                                                  NSA  01-Dec-2022  Monthly
-RSBKCRNS                                Reserve Bank Credit                                                                                                      NSA  01-Dec-2022  Monthly
-TREASURY                                Treasury Deposits with Federal Reserve Banks                                                                             NSA  01-Dec-2022  Monthly
+CURRCIR                       Currency in Circulation                                                                                                  NSA  01-Dec-2022  Monthly        
+RSBKCRNS                      Reserve Bank Credit                                                                                                      NSA  01-Dec-2022  Monthly        
+TREASURY                      Treasury Deposits with Federal Reserve Banks                                                                             NSA  01-Dec-2022  Monthly        

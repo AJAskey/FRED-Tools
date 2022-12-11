@@ -1,58 +1,58 @@
 Id : 450  Quarterly Survey of Public Pensions
-QPRHLDBNDAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Corporate Bonds (DISCONTINUED)                                   NSA  19-Nov-2019  Quarterly
-QPRHLDCBDBNDHOLDINGSUSNO                State and Local Government: Corporate Bonds: Domestic                                                                    NSA  29-Sep-2022  Quarterly
-QPRHLDCBFBNDHOLDINGSUSNO                State and Local Government: Corporate Bonds: Foreign                                                                     NSA  29-Sep-2022  Quarterly
-QPRHLDCCDCSHHOLDINGSUSNO                State and Local Government: Cash and Short-Term Investments: Cash and Checkable Deposits                                 NSA  29-Sep-2022  Quarterly
-QPRHLDCEDCEQHOLDINGSUSNO                State and Local Government: Corporate Equity: Domestic                                                                   NSA  29-Sep-2022  Quarterly
-QPRHLDCEFCEQHOLDINGSUSNO                State and Local Government: Corporate Equity: Foreign                                                                    NSA  29-Sep-2022  Quarterly
-QPRHLDCPCSHHOLDINGSUSNO                 State and Local Government: Cash and Short-Term Investments: Commercial Paper                                            NSA  29-Sep-2022  Quarterly
-QPRHLDCSHAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Cash and Short-Term Investments (DISCONTINUED)                   NSA  19-Nov-2019  Quarterly
-QPRHLDDHMMIVHOLDINGSUSNO                State and Local Government: Other Investments: Directly Held Mortgages                                                   NSA  29-Sep-2022  Quarterly
-QPRHLDDRPMIVHOLDINGSUSNO                State and Local Government: Other Investments: Directly Held Real Property                                               NSA  29-Sep-2022  Quarterly
-QPRHLDETFINDHOLDINGSUSNO                State and Local Government: Other Indirectly Held Assets: Exchange Traded Funds                                          NSA  29-Sep-2022  Quarterly
-QPRHLDFASAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Federal Agency Securities (DISCONTINUED)                         NSA  28-May-2019  Quarterly
-QPRHLDFGSAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Federal Government Securities (DISCONTINUED)                     NSA  19-Nov-2019  Quarterly
-QPRHLDFTSFEDHOLDINGSUSNO                State and Local Government: Federal Government Securities: Federal Treasury Securities                                   NSA  29-Sep-2022  Quarterly
-QPRHLDIFAFEDHOLDINGSUSNO                State and Local Government: Federal Government Securities: Securities Issued by Federal Agencies                         NSA  29-Sep-2022  Quarterly
-QPRHLDINTAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: International Securities (DISCONTINUED)                          NSA  19-Nov-2019  Quarterly
-QPRHLDMMFCSHHOLDINGSUSNO                State and Local Government: Cash and Short-Term Investments: Money Market Funds                                          NSA  29-Sep-2022  Quarterly
-QPRHLDMTGAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Mortgages (DISCONTINUED)                                         NSA  19-Nov-2019  Quarterly
-QPRHLDOIAINDHOLDINGSUSNO                State and Local Government: Total Other Indirectly Held Assets                                                           NSA  29-Sep-2022  Quarterly
-QPRHLDOMIMIVHOLDINGSUSNO                State and Local Government: Other Investments: Other Miscellaneous Investments                                           NSA  29-Sep-2022  Quarterly
-QPRHLDOPFINDHOLDINGSUSNO                State and Local Government: Other Indirectly Held Assets: Other Private Funds                                            NSA  29-Sep-2022  Quarterly
-QPRHLDOSTCSHHOLDINGSUSNO                State and Local Government: Cash and Short-Term Investments: Other Short-Term Investments                                NSA  29-Sep-2022  Quarterly
-QPRHLDOTHAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Other Securities (DISCONTINUED)                                  NSA  19-Nov-2019  Quarterly
-QPRHLDREIINDHOLDINGSUSNO                State and Local Government: Other Indirectly Held Assets: Real Estate Investment Trusts (REITs)                          NSA  29-Sep-2022  Quarterly
-QPRHLDRRACSHHOLDINGSUSNO                State and Local Government: Cash and Short-Term Investments: Reverse Repurchase Agreements                               NSA  29-Sep-2022  Quarterly
-QPRHLDSLSAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: State and Local Government Securities (DISCONTINUED)             NSA  19-Nov-2019  Quarterly
-QPRHLDSTKAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Corporate Stocks (DISCONTINUED)                                  NSA  19-Nov-2019  Quarterly
-QPRHLDTCBBNDHOLDINGSUSNO                State and Local Government: Total Corporate Bonds                                                                        NSA  29-Sep-2022  Quarterly
-QPRHLDTCECEQHOLDINGSUSNO                State and Local Government: Total Corporate Equity                                                                       NSA  29-Sep-2022  Quarterly
-QPRHLDTCSCSHHOLDINGSUSNO                State and Local Government: Total Cash and Short-Term Investments                                                        NSA  29-Sep-2022  Quarterly
-QPRHLDTFGFEDHOLDINGSUSNO                State and Local Government: Total Federal Government Securities                                                          NSA  29-Sep-2022  Quarterly
-QPRHLDTHFINDHOLDINGSUSNO                State and Local Government: Other Indirectly Held Assets: Hedge Funds                                                    NSA  29-Sep-2022  Quarterly
-QPRHLDTMFINDHOLDINGSUSNO                State and Local Government: Other Indirectly Held Assets: Mutual Funds                                                   NSA  29-Sep-2022  Quarterly
-QPRHLDTOIMIVHOLDINGSUSNO                State and Local Government: Total Other Investments                                                                      NSA  29-Sep-2022  Quarterly
-QPRHLDTOTAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: Total Cash and Security Holdings (DISCONTINUED)                  NSA  19-Nov-2019  Quarterly
-QPRHLDTOTTOTHOLDINGSUSNO                State and Local Government: Total Cash and Security Holdings                                                             NSA  29-Sep-2022  Quarterly
-QPRHLDTPEPEQHOLDINGSUSNO                State and Local Government: Total Private Equity                                                                         NSA  29-Sep-2022  Quarterly
-QPRHLDTSDCSHHOLDINGSUSNO                State and Local Government: Cash and Short-Term Investments: Time and Savings Deposits                                   NSA  29-Sep-2022  Quarterly
-QPRHLDUSTAMTHOLDINGSUSNO                State and Local Government: Cash and Security Holdings: United States Treasuries (DISCONTINUED)                          NSA  28-May-2019  Quarterly
-QPRPCTBNDPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Corporate Bonds (DISCONTINUED)                     NSA  19-Nov-2019  Quarterly
-QPRPCTCSHPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Cash and Short-Term Investments (DISCONTINUED)     NSA  27-Jun-2019  Quarterly
-QPRPCTFASPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Federal Agency Securities (DISCONTINUED)           NSA  28-May-2019  Quarterly
-QPRPCTFGSPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Federal Government Securities (DISCONTINUED)       NSA  19-Nov-2019  Quarterly
-QPRPCTINTPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent International Securities (DISCONTINUED)            NSA  19-Nov-2019  Quarterly
-QPRPCTMTGPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Mortgages (DISCONTINUED)                           NSA  19-Nov-2019  Quarterly
-QPRPCTOTHPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Other Securities (DISCONTINUED)                    NSA  19-Nov-2019  Quarterly
-QPRPCTSLSPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent State and Local Government Securities (DISCONTINU  NSA  27-Jun-2019  Quarterly
-QPRPCTSTKPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent Corporate Stocks (DISCONTINUED)                    NSA  19-Nov-2019  Quarterly
-QPRPCTUSTPCTHOLDINGSUSNO                State and Local Government: Percent Distribution of Holdings: Percent United States Treasuries (DISCONTINUED)            NSA  28-May-2019  Quarterly
-QPRRVBNFTAMTREVENUESUSNO                State and Local Government: Revenues: Benefits (DISCONTINUED)                                                            NSA  19-Nov-2019  Quarterly
-QPRRVCNTEAMTREVENUESUSNO                State and Local Government: Revenues: Employee Contributions (DISCONTINUED)                                              NSA  19-Nov-2019  Quarterly
-QPRRVCNTGAMTREVENUESUSNO                State and Local Government: Revenues: Government Contributions (DISCONTINUED)                                            NSA  19-Nov-2019  Quarterly
-QPRRVCNTTAMTREVENUESUSNO                State and Local Government: Revenues: Total Contributions (DISCONTINUED)                                                 NSA  19-Nov-2019  Quarterly
-QPRRVEARNAMTREVENUESUSNO                State and Local Government: Revenues: Earnings on Investments (DISCONTINUED)                                             NSA  19-Nov-2019  Quarterly
-QPRRVPMTSAMTREVENUESUSNO                State and Local Government: Revenues: Total Payments (DISCONTINUED)                                                      NSA  19-Nov-2019  Quarterly
-QPRRVTOTAMTREVENUESUSNO                 State and Local Government: Revenues: Total Receipts (DISCONTINUED)                                                      NSA  28-May-2019  Quarterly
-QPRRVWDLSAMTREVENUESUSNO                State and Local Government: Revenues: Withdrawals (DISCONTINUED)                                                         NSA  19-Nov-2019  Quarterly
+QPRHLDBNDAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Corporate Bonds (DISCONTINUED)                                   NSA  19-Nov-2019  Quarterly      
+QPRHLDCBDBNDHOLDINGSUSNO      State and Local Government: Corporate Bonds: Domestic                                                                    NSA  29-Sep-2022  Quarterly      
+QPRHLDCBFBNDHOLDINGSUSNO      State and Local Government: Corporate Bonds: Foreign                                                                     NSA  29-Sep-2022  Quarterly      
+QPRHLDCCDCSHHOLDINGSUSNO      State and Local Government: Cash and Short-Term Investments: Cash and Checkable Deposits                                 NSA  29-Sep-2022  Quarterly      
+QPRHLDCEDCEQHOLDINGSUSNO      State and Local Government: Corporate Equity: Domestic                                                                   NSA  29-Sep-2022  Quarterly      
+QPRHLDCEFCEQHOLDINGSUSNO      State and Local Government: Corporate Equity: Foreign                                                                    NSA  29-Sep-2022  Quarterly      
+QPRHLDCPCSHHOLDINGSUSNO       State and Local Government: Cash and Short-Term Investments: Commercial Paper                                            NSA  29-Sep-2022  Quarterly      
+QPRHLDCSHAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Cash and Short-Term Investments (DISCONTINUED)                   NSA  19-Nov-2019  Quarterly      
+QPRHLDDHMMIVHOLDINGSUSNO      State and Local Government: Other Investments: Directly Held Mortgages                                                   NSA  29-Sep-2022  Quarterly      
+QPRHLDDRPMIVHOLDINGSUSNO      State and Local Government: Other Investments: Directly Held Real Property                                               NSA  29-Sep-2022  Quarterly      
+QPRHLDETFINDHOLDINGSUSNO      State and Local Government: Other Indirectly Held Assets: Exchange Traded Funds                                          NSA  29-Sep-2022  Quarterly      
+QPRHLDFASAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Federal Agency Securities (DISCONTINUED)                         NSA  28-May-2019  Quarterly      
+QPRHLDFGSAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Federal Government Securities (DISCONTINUED)                     NSA  19-Nov-2019  Quarterly      
+QPRHLDFTSFEDHOLDINGSUSNO      State and Local Government: Federal Government Securities: Federal Treasury Securities                                   NSA  29-Sep-2022  Quarterly      
+QPRHLDIFAFEDHOLDINGSUSNO      State and Local Government: Federal Government Securities: Securities Issued by Federal Agencies                         NSA  29-Sep-2022  Quarterly      
+QPRHLDINTAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: International Securities (DISCONTINUED)                          NSA  19-Nov-2019  Quarterly      
+QPRHLDMMFCSHHOLDINGSUSNO      State and Local Government: Cash and Short-Term Investments: Money Market Funds                                          NSA  29-Sep-2022  Quarterly      
+QPRHLDMTGAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Mortgages (DISCONTINUED)                                         NSA  19-Nov-2019  Quarterly      
+QPRHLDOIAINDHOLDINGSUSNO      State and Local Government: Total Other Indirectly Held Assets                                                           NSA  29-Sep-2022  Quarterly      
+QPRHLDOMIMIVHOLDINGSUSNO      State and Local Government: Other Investments: Other Miscellaneous Investments                                           NSA  29-Sep-2022  Quarterly      
+QPRHLDOPFINDHOLDINGSUSNO      State and Local Government: Other Indirectly Held Assets: Other Private Funds                                            NSA  29-Sep-2022  Quarterly      
+QPRHLDOSTCSHHOLDINGSUSNO      State and Local Government: Cash and Short-Term Investments: Other Short-Term Investments                                NSA  29-Sep-2022  Quarterly      
+QPRHLDOTHAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Other Securities (DISCONTINUED)                                  NSA  19-Nov-2019  Quarterly      
+QPRHLDREIINDHOLDINGSUSNO      State and Local Government: Other Indirectly Held Assets: Real Estate Investment Trusts (REITs)                          NSA  29-Sep-2022  Quarterly      
+QPRHLDRRACSHHOLDINGSUSNO      State and Local Government: Cash and Short-Term Investments: Reverse Repurchase Agreements                               NSA  29-Sep-2022  Quarterly      
+QPRHLDSLSAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: State and Local Government Securities (DISCONTINUED)             NSA  19-Nov-2019  Quarterly      
+QPRHLDSTKAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Corporate Stocks (DISCONTINUED)                                  NSA  19-Nov-2019  Quarterly      
+QPRHLDTCBBNDHOLDINGSUSNO      State and Local Government: Total Corporate Bonds                                                                        NSA  29-Sep-2022  Quarterly      
+QPRHLDTCECEQHOLDINGSUSNO      State and Local Government: Total Corporate Equity                                                                       NSA  29-Sep-2022  Quarterly      
+QPRHLDTCSCSHHOLDINGSUSNO      State and Local Government: Total Cash and Short-Term Investments                                                        NSA  29-Sep-2022  Quarterly      
+QPRHLDTFGFEDHOLDINGSUSNO      State and Local Government: Total Federal Government Securities                                                          NSA  29-Sep-2022  Quarterly      
+QPRHLDTHFINDHOLDINGSUSNO      State and Local Government: Other Indirectly Held Assets: Hedge Funds                                                    NSA  29-Sep-2022  Quarterly      
+QPRHLDTMFINDHOLDINGSUSNO      State and Local Government: Other Indirectly Held Assets: Mutual Funds                                                   NSA  29-Sep-2022  Quarterly      
+QPRHLDTOIMIVHOLDINGSUSNO      State and Local Government: Total Other Investments                                                                      NSA  29-Sep-2022  Quarterly      
+QPRHLDTOTAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: Total Cash and Security Holdings (DISCONTINUED)                  NSA  19-Nov-2019  Quarterly      
+QPRHLDTOTTOTHOLDINGSUSNO      State and Local Government: Total Cash and Security Holdings                                                             NSA  29-Sep-2022  Quarterly      
+QPRHLDTPEPEQHOLDINGSUSNO      State and Local Government: Total Private Equity                                                                         NSA  29-Sep-2022  Quarterly      
+QPRHLDTSDCSHHOLDINGSUSNO      State and Local Government: Cash and Short-Term Investments: Time and Savings Deposits                                   NSA  29-Sep-2022  Quarterly      
+QPRHLDUSTAMTHOLDINGSUSNO      State and Local Government: Cash and Security Holdings: United States Treasuries (DISCONTINUED)                          NSA  28-May-2019  Quarterly      
+QPRPCTBNDPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Corporate Bonds (DISCONTINUED)                     NSA  19-Nov-2019  Quarterly      
+QPRPCTCSHPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Cash and Short-Term Investments (DISCONTINUED)     NSA  27-Jun-2019  Quarterly      
+QPRPCTFASPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Federal Agency Securities (DISCONTINUED)           NSA  28-May-2019  Quarterly      
+QPRPCTFGSPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Federal Government Securities (DISCONTINUED)       NSA  19-Nov-2019  Quarterly      
+QPRPCTINTPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent International Securities (DISCONTINUED)            NSA  19-Nov-2019  Quarterly      
+QPRPCTMTGPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Mortgages (DISCONTINUED)                           NSA  19-Nov-2019  Quarterly      
+QPRPCTOTHPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Other Securities (DISCONTINUED)                    NSA  19-Nov-2019  Quarterly      
+QPRPCTSLSPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent State and Local Government Securities (DISCONTINU  NSA  27-Jun-2019  Quarterly      
+QPRPCTSTKPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent Corporate Stocks (DISCONTINUED)                    NSA  19-Nov-2019  Quarterly      
+QPRPCTUSTPCTHOLDINGSUSNO      State and Local Government: Percent Distribution of Holdings: Percent United States Treasuries (DISCONTINUED)            NSA  28-May-2019  Quarterly      
+QPRRVBNFTAMTREVENUESUSNO      State and Local Government: Revenues: Benefits (DISCONTINUED)                                                            NSA  19-Nov-2019  Quarterly      
+QPRRVCNTEAMTREVENUESUSNO      State and Local Government: Revenues: Employee Contributions (DISCONTINUED)                                              NSA  19-Nov-2019  Quarterly      
+QPRRVCNTGAMTREVENUESUSNO      State and Local Government: Revenues: Government Contributions (DISCONTINUED)                                            NSA  19-Nov-2019  Quarterly      
+QPRRVCNTTAMTREVENUESUSNO      State and Local Government: Revenues: Total Contributions (DISCONTINUED)                                                 NSA  19-Nov-2019  Quarterly      
+QPRRVEARNAMTREVENUESUSNO      State and Local Government: Revenues: Earnings on Investments (DISCONTINUED)                                             NSA  19-Nov-2019  Quarterly      
+QPRRVPMTSAMTREVENUESUSNO      State and Local Government: Revenues: Total Payments (DISCONTINUED)                                                      NSA  19-Nov-2019  Quarterly      
+QPRRVTOTAMTREVENUESUSNO       State and Local Government: Revenues: Total Receipts (DISCONTINUED)                                                      NSA  28-May-2019  Quarterly      
+QPRRVWDLSAMTREVENUESUSNO      State and Local Government: Revenues: Withdrawals (DISCONTINUED)                                                         NSA  19-Nov-2019  Quarterly      

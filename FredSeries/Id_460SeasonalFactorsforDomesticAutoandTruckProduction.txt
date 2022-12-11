@@ -1,8 +1,8 @@
 Id : 460  Seasonal Factors for Domestic Auto and Truck Production
-G17MVSFAUTOS                            Regular Seasonal Factors: Auto Production                                                                                NSA  31-Mar-2022  Monthly
-G17MVSFLTRUCKS                          Regular Seasonal Factors: Light Truck Production                                                                         NSA  31-Mar-2022  Monthly
-G17MVSFTTRUCKS                          Regular Seasonal Factors: Total Truck Production                                                                         NSA  31-Mar-2022  Monthly
-G17MVSFWAUTOS                           Weekday-Basis Seasonal Factors: Auto Production                                                                          NSA  31-Mar-2022  Monthly
-G17MVSFWLTRUCKS                         Weekday-Basis Seasonal Factors: Light Truck Production                                                                   NSA  31-Mar-2022  Monthly
-G17MVSFWTTRUCKS                         Weekday-Basis Seasonal Factors: Total Truck Production                                                                   NSA  31-Mar-2022  Monthly
-G17MVSFWWKDAYS                          Weekday-Basis Seasonal Factors: Weekdays for Calculation                                                                 NSA  31-Mar-2022  Monthly
+G17MVSFAUTOS                  Regular Seasonal Factors: Auto Production                                                                                NSA  31-Mar-2022  Monthly        
+G17MVSFLTRUCKS                Regular Seasonal Factors: Light Truck Production                                                                         NSA  31-Mar-2022  Monthly        
+G17MVSFTTRUCKS                Regular Seasonal Factors: Total Truck Production                                                                         NSA  31-Mar-2022  Monthly        
+G17MVSFWAUTOS                 Weekday-Basis Seasonal Factors: Auto Production                                                                          NSA  31-Mar-2022  Monthly        
+G17MVSFWLTRUCKS               Weekday-Basis Seasonal Factors: Light Truck Production                                                                   NSA  31-Mar-2022  Monthly        
+G17MVSFWTTRUCKS               Weekday-Basis Seasonal Factors: Total Truck Production                                                                   NSA  31-Mar-2022  Monthly        
+G17MVSFWWKDAYS                Weekday-Basis Seasonal Factors: Weekdays for Calculation                                                                 NSA  31-Mar-2022  Monthly        

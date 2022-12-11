@@ -1,292 +1,292 @@
 Id : 242  Recession Indicators Series
-4BIGEUROREC                             OECD based Recession Indicators for Four Big European Countries from the Period following the Peak through the Trough    NSA  09-Dec-2022  Monthly
-4BIGEURORECD                            OECD based Recession Indicators for Four Big European Countries from the Period following the Peak through the Trough    NSA  09-Dec-2022  Daily, 7-Day
-4BIGEURORECDM                           OECD based Recession Indicators for Four Big European Countries from the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-4BIGEURORECDP                           OECD based Recession Indicators for Four Big European Countries from the Peak through the Period preceding the Trough    NSA  09-Dec-2022  Daily, 7-Day
-4BIGEURORECM                            OECD based Recession Indicators for Four Big European Countries from the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-4BIGEURORECP                            OECD based Recession Indicators for Four Big European Countries from the Peak through the Period preceding the Trough    NSA  09-Dec-2022  Monthly
-AUSREC                                  OECD based Recession Indicators for Australia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly
-AUSRECD                                 OECD based Recession Indicators for Australia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-AUSRECDM                                OECD based Recession Indicators for Australia from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day
-AUSRECDP                                OECD based Recession Indicators for Australia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-AUSRECM                                 OECD based Recession Indicators for Australia from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly
-AUSRECP                                 OECD based Recession Indicators for Australia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly
-AUTREC                                  OECD based Recession Indicators for Austria from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-AUTRECD                                 OECD based Recession Indicators for Austria from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-AUTRECDM                                OECD based Recession Indicators for Austria from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-AUTRECDP                                OECD based Recession Indicators for Austria from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-AUTRECM                                 OECD based Recession Indicators for Austria from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-AUTRECP                                 OECD based Recession Indicators for Austria from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-BELREC                                  OECD based Recession Indicators for Belgium from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-BELRECD                                 OECD based Recession Indicators for Belgium from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-BELRECDM                                OECD based Recession Indicators for Belgium from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-BELRECDP                                OECD based Recession Indicators for Belgium from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-BELRECM                                 OECD based Recession Indicators for Belgium from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-BELRECP                                 OECD based Recession Indicators for Belgium from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-BRAREC                                  OECD based Recession Indicators for Brazil from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Monthly
-BRARECD                                 OECD based Recession Indicators for Brazil from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Daily, 7-Day
-BRARECDM                                OECD based Recession Indicators for Brazil from the Peak through the Trough                                              NSA  10-Nov-2022  Daily, 7-Day
-BRARECDP                                OECD based Recession Indicators for Brazil from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Daily, 7-Day
-BRARECM                                 OECD based Recession Indicators for Brazil from the Peak through the Trough                                              NSA  10-Nov-2022  Monthly
-BRARECP                                 OECD based Recession Indicators for Brazil from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Monthly
-CANREC                                  OECD based Recession Indicators for Canada from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-CANRECD                                 OECD based Recession Indicators for Canada from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-CANRECDM                                OECD based Recession Indicators for Canada from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-CANRECDP                                OECD based Recession Indicators for Canada from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-CANRECM                                 OECD based Recession Indicators for Canada from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-CANRECP                                 OECD based Recession Indicators for Canada from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-CHEREC                                  OECD based Recession Indicators for Switzerland from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly
-CHERECD                                 OECD based Recession Indicators for Switzerland from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-CHERECDM                                OECD based Recession Indicators for Switzerland from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day
-CHERECDP                                OECD based Recession Indicators for Switzerland from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-CHERECM                                 OECD based Recession Indicators for Switzerland from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly
-CHERECP                                 OECD based Recession Indicators for Switzerland from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly
-CHLREC                                  OECD based Recession Indicators for Chile from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-CHLRECD                                 OECD based Recession Indicators for Chile from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-CHLRECDM                                OECD based Recession Indicators for Chile from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-CHLRECDP                                OECD based Recession Indicators for Chile from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-CHLRECM                                 OECD based Recession Indicators for Chile from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-CHLRECP                                 OECD based Recession Indicators for Chile from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-CHNREC                                  OECD based Recession Indicators for China from the Period following the Peak through the Trough                          NSA  10-Nov-2022  Monthly
-CHNRECD                                 OECD based Recession Indicators for China from the Period following the Peak through the Trough                          NSA  10-Nov-2022  Daily, 7-Day
-CHNRECDM                                OECD based Recession Indicators for China from the Peak through the Trough                                               NSA  10-Nov-2022  Daily, 7-Day
-CHNRECDP                                OECD based Recession Indicators for China from the Peak through the Period preceding the Trough                          NSA  10-Nov-2022  Daily, 7-Day
-CHNRECM                                 OECD based Recession Indicators for China from the Peak through the Trough                                               NSA  10-Nov-2022  Monthly
-CHNRECP                                 OECD based Recession Indicators for China from the Peak through the Period preceding the Trough                          NSA  10-Nov-2022  Monthly
-CZEREC                                  OECD based Recession Indicators for the Czech Republic from the Period following the Peak through the Trough             NSA  09-Dec-2022  Monthly
-CZERECD                                 OECD based Recession Indicators for the Czech Republic from the Period following the Peak through the Trough             NSA  09-Dec-2022  Daily, 7-Day
-CZERECDM                                OECD based Recession Indicators for the Czech Republic from the Peak through the Trough                                  NSA  09-Dec-2022  Daily, 7-Day
-CZERECDP                                OECD based Recession Indicators for the Czech Republic from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Daily, 7-Day
-CZERECM                                 OECD based Recession Indicators for the Czech Republic from the Peak through the Trough                                  NSA  09-Dec-2022  Monthly
-CZERECP                                 OECD based Recession Indicators for the Czech Republic from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Monthly
-DEUREC                                  OECD based Recession Indicators for Germany from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-DEURECD                                 OECD based Recession Indicators for Germany from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-DEURECDM                                OECD based Recession Indicators for Germany from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-DEURECDP                                OECD based Recession Indicators for Germany from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-DEURECM                                 OECD based Recession Indicators for Germany from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-DEURECP                                 OECD based Recession Indicators for Germany from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-DNKREC                                  OECD based Recession Indicators for Denmark from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-DNKRECD                                 OECD based Recession Indicators for Denmark from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-DNKRECDM                                OECD based Recession Indicators for Denmark from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-DNKRECDP                                OECD based Recession Indicators for Denmark from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-DNKRECM                                 OECD based Recession Indicators for Denmark from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-DNKRECP                                 OECD based Recession Indicators for Denmark from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-ESPREC                                  OECD based Recession Indicators for Spain from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-ESPRECD                                 OECD based Recession Indicators for Spain from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-ESPRECDM                                OECD based Recession Indicators for Spain from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-ESPRECDP                                OECD based Recession Indicators for Spain from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-ESPRECM                                 OECD based Recession Indicators for Spain from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-ESPRECP                                 OECD based Recession Indicators for Spain from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-ESTREC                                  OECD based Recession Indicators for Estonia from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-ESTRECD                                 OECD based Recession Indicators for Estonia from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-ESTRECDM                                OECD based Recession Indicators for Estonia from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-ESTRECDP                                OECD based Recession Indicators for Estonia from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-ESTRECM                                 OECD based Recession Indicators for Estonia from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-ESTRECP                                 OECD based Recession Indicators for Estonia from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-EUROREC                                 OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly
-EURORECD                                OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-EURORECDM                               OECD based Recession Indicators for Euro Area from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day
-EURORECDP                               OECD based Recession Indicators for Euro Area from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-EURORECM                                OECD based Recession Indicators for Euro Area from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly
-EURORECP                                OECD based Recession Indicators for Euro Area from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly
-FINREC                                  OECD based Recession Indicators for Finland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-FINRECD                                 OECD based Recession Indicators for Finland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-FINRECDM                                OECD based Recession Indicators for Finland from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-FINRECDP                                OECD based Recession Indicators for Finland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-FINRECM                                 OECD based Recession Indicators for Finland from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-FINRECP                                 OECD based Recession Indicators for Finland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-FRAREC                                  OECD based Recession Indicators for France from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-FRARECD                                 OECD based Recession Indicators for France from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-FRARECDM                                OECD based Recession Indicators for France from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-FRARECDP                                OECD based Recession Indicators for France from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-FRARECM                                 OECD based Recession Indicators for France from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-FRARECP                                 OECD based Recession Indicators for France from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-GBRREC                                  OECD based Recession Indicators for the United Kingdom from the Period following the Peak through the Trough             NSA  09-Dec-2022  Monthly
-GBRRECD                                 OECD based Recession Indicators for the United Kingdom from the Period following the Peak through the Trough             NSA  09-Dec-2022  Daily, 7-Day
-GBRRECDM                                OECD based Recession Indicators for the United Kingdom from the Peak through the Trough                                  NSA  09-Dec-2022  Daily, 7-Day
-GBRRECDP                                OECD based Recession Indicators for the United Kingdom from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Daily, 7-Day
-GBRRECM                                 OECD based Recession Indicators for the United Kingdom from the Peak through the Trough                                  NSA  09-Dec-2022  Monthly
-GBRRECP                                 OECD based Recession Indicators for the United Kingdom from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Monthly
-GRCREC                                  OECD based Recession Indicators for Greece from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-GRCRECD                                 OECD based Recession Indicators for Greece from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-GRCRECDM                                OECD based Recession Indicators for Greece from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-GRCRECDP                                OECD based Recession Indicators for Greece from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-GRCRECM                                 OECD based Recession Indicators for Greece from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-GRCRECP                                 OECD based Recession Indicators for Greece from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-HUNREC                                  OECD based Recession Indicators for Hungary from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-HUNRECD                                 OECD based Recession Indicators for Hungary from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-HUNRECDM                                OECD based Recession Indicators for Hungary from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-HUNRECDP                                OECD based Recession Indicators for Hungary from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-HUNRECM                                 OECD based Recession Indicators for Hungary from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-HUNRECP                                 OECD based Recession Indicators for Hungary from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-IDNREC                                  OECD based Recession Indicators for Indonesia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly
-IDNRECD                                 OECD based Recession Indicators for Indonesia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-IDNRECDM                                OECD based Recession Indicators for Indonesia from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day
-IDNRECDP                                OECD based Recession Indicators for Indonesia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day
-IDNRECM                                 OECD based Recession Indicators for Indonesia from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly
-IDNRECP                                 OECD based Recession Indicators for Indonesia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly
-INDREC                                  OECD based Recession Indicators for India from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-INDRECD                                 OECD based Recession Indicators for India from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-INDRECDM                                OECD based Recession Indicators for India from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-INDRECDP                                OECD based Recession Indicators for India from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-INDRECM                                 OECD based Recession Indicators for India from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-INDRECP                                 OECD based Recession Indicators for India from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-IRLREC                                  OECD based Recession Indicators for Ireland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly
-IRLRECD                                 OECD based Recession Indicators for Ireland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-IRLRECDM                                OECD based Recession Indicators for Ireland from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day
-IRLRECDP                                OECD based Recession Indicators for Ireland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day
-IRLRECM                                 OECD based Recession Indicators for Ireland from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly
-IRLRECP                                 OECD based Recession Indicators for Ireland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly
-ISRREC                                  OECD based Recession Indicators for Israel from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-ISRRECD                                 OECD based Recession Indicators for Israel from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-ISRRECDM                                OECD based Recession Indicators for Israel from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-ISRRECDP                                OECD based Recession Indicators for Israel from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-ISRRECM                                 OECD based Recession Indicators for Israel from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-ISRRECP                                 OECD based Recession Indicators for Israel from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-ITAREC                                  OECD based Recession Indicators for Italy from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-ITARECD                                 OECD based Recession Indicators for Italy from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-ITARECDM                                OECD based Recession Indicators for Italy from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-ITARECDP                                OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-ITARECM                                 OECD based Recession Indicators for Italy from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-ITARECP                                 OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-JPNREC                                  OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-JPNRECD                                 OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-JPNRECDM                                OECD based Recession Indicators for Japan from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-JPNRECDP                                OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-JPNRECM                                 OECD based Recession Indicators for Japan from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-JPNRECP                                 OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-KORREC                                  OECD based Recession Indicators for Korea from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly
-KORRECD                                 OECD based Recession Indicators for Korea from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-KORRECDM                                OECD based Recession Indicators for Korea from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day
-KORRECDP                                OECD based Recession Indicators for Korea from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day
-KORRECM                                 OECD based Recession Indicators for Korea from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly
-KORRECP                                 OECD based Recession Indicators for Korea from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly
-LUXREC                                  OECD based Recession Indicators for Luxembourg from the Period following the Peak through the Trough                     NSA  10-Nov-2022  Monthly
-LUXRECD                                 OECD based Recession Indicators for Luxembourg from the Period following the Peak through the Trough                     NSA  10-Nov-2022  Daily, 7-Day
-LUXRECDM                                OECD based Recession Indicators for Luxembourg from the Peak through the Trough                                          NSA  10-Nov-2022  Daily, 7-Day
-LUXRECDP                                OECD based Recession Indicators for Luxembourg from the Peak through the Period preceding the Trough                     NSA  10-Nov-2022  Daily, 7-Day
-LUXRECM                                 OECD based Recession Indicators for Luxembourg from the Peak through the Trough                                          NSA  10-Nov-2022  Monthly
-LUXRECP                                 OECD based Recession Indicators for Luxembourg from the Peak through the Period preceding the Trough                     NSA  10-Nov-2022  Monthly
-MAJOR5ASIAREC                           OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Monthly
-MAJOR5ASIARECD                          OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Daily, 7-Day
-MAJOR5ASIARECDM                         OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                        NSA  09-Dec-2022  Daily, 7-Day
-MAJOR5ASIARECDP                         OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Daily, 7-Day
-MAJOR5ASIARECM                          OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                        NSA  09-Dec-2022  Monthly
-MAJOR5ASIARECP                          OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Monthly
-MEXREC                                  OECD based Recession Indicators for Mexico from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-MEXRECD                                 OECD based Recession Indicators for Mexico from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-MEXRECDM                                OECD based Recession Indicators for Mexico from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-MEXRECDP                                OECD based Recession Indicators for Mexico from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-MEXRECM                                 OECD based Recession Indicators for Mexico from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-MEXRECP                                 OECD based Recession Indicators for Mexico from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-MSCREC                                  OECD based Recession Indicators for Major Seven Countries from the Period following the Peak through the Trough          NSA  09-Dec-2022  Monthly
-MSCRECD                                 OECD based Recession Indicators for Major Seven Countries from the Period following the Peak through the Trough          NSA  09-Dec-2022  Daily, 7-Day
-MSCRECDM                                OECD based Recession Indicators for Major Seven Countries from the Peak through the Trough                               NSA  09-Dec-2022  Daily, 7-Day
-MSCRECDP                                OECD based Recession Indicators for Major Seven Countries from the Peak through the Period preceding the Trough          NSA  09-Dec-2022  Daily, 7-Day
-MSCRECM                                 OECD based Recession Indicators for Major Seven Countries from the Peak through the Trough                               NSA  09-Dec-2022  Monthly
-MSCRECP                                 OECD based Recession Indicators for Major Seven Countries from the Peak through the Period preceding the Trough          NSA  09-Dec-2022  Monthly
-NAFTAREC                                OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough                     NSA  09-Dec-2022  Monthly
-NAFTARECD                               OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough                     NSA  09-Dec-2022  Daily, 7-Day
-NAFTARECDM                              OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                                          NSA  09-Dec-2022  Daily, 7-Day
-NAFTARECDP                              OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough                     NSA  09-Dec-2022  Daily, 7-Day
-NAFTARECM                               OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                                          NSA  09-Dec-2022  Monthly
-NAFTARECP                               OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough                     NSA  09-Dec-2022  Monthly
-NDLREC                                  OECD based Recession Indicators for Netherlands from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly
-NDLRECD                                 OECD based Recession Indicators for Netherlands from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-NDLRECDM                                OECD based Recession Indicators for Netherlands from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day
-NDLRECDP                                OECD based Recession Indicators for Netherlands from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-NDLRECM                                 OECD based Recession Indicators for Netherlands from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly
-NDLRECP                                 OECD based Recession Indicators for Netherlands from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly
-NORREC                                  OECD based Recession Indicators for Norway from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-NORRECD                                 OECD based Recession Indicators for Norway from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-NORRECDM                                OECD based Recession Indicators for Norway from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-NORRECDP                                OECD based Recession Indicators for Norway from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-NORRECM                                 OECD based Recession Indicators for Norway from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-NORRECP                                 OECD based Recession Indicators for Norway from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-NZLREC                                  OECD based Recession Indicators for New Zealand from the Period following the Peak through the Trough                    NSA  10-Nov-2022  Monthly
-NZLRECD                                 OECD based Recession Indicators for New Zealand from the Period following the Peak through the Trough                    NSA  10-Nov-2022  Daily, 7-Day
-NZLRECDM                                OECD based Recession Indicators for New Zealand from the Peak through the Trough                                         NSA  10-Nov-2022  Daily, 7-Day
-NZLRECDP                                OECD based Recession Indicators for New Zealand from the Peak through the Period preceding the Trough                    NSA  10-Nov-2022  Daily, 7-Day
-NZLRECM                                 OECD based Recession Indicators for New Zealand from the Peak through the Trough                                         NSA  10-Nov-2022  Monthly
-NZLRECP                                 OECD based Recession Indicators for New Zealand from the Peak through the Period preceding the Trough                    NSA  10-Nov-2022  Monthly
-OECDEUROPEREC                           OECD based Recession Indicators for OECD Europe from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly
-OECDEUROPERECD                          OECD based Recession Indicators for OECD Europe from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-OECDEUROPERECDM                         OECD based Recession Indicators for OECD Europe from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day
-OECDEUROPERECDP                         OECD based Recession Indicators for OECD Europe from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day
-OECDEUROPERECM                          OECD based Recession Indicators for OECD Europe from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly
-OECDEUROPERECP                          OECD based Recession Indicators for OECD Europe from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly
-OECDNMEREC                              OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough  NSA  09-Dec-2022  Monthly
-OECDNMERECD                             OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough  NSA  09-Dec-2022  Daily, 7-Day
-OECDNMERECDM                            OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day
-OECDNMERECDP                            OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough  NSA  09-Dec-2022  Daily, 7-Day
-OECDNMERECM                             OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                       NSA  09-Dec-2022  Monthly
-OECDNMERECP                             OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough  NSA  09-Dec-2022  Monthly
-OECDREC                                 OECD based Recession Indicators for the OECD Total Area from the Period following the Peak through the Trough            NSA  09-Dec-2022  Monthly
-OECDRECD                                OECD based Recession Indicators for the OECD Total Area from the Period following the Peak through the Trough            NSA  09-Dec-2022  Daily, 7-Day
-OECDRECDM                               OECD based Recession Indicators for the OECD Total Area from the Peak through the Trough                                 NSA  09-Dec-2022  Daily, 7-Day
-OECDRECDP                               OECD based Recession Indicators for the OECD Total Area from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Daily, 7-Day
-OECDRECM                                OECD based Recession Indicators for the OECD Total Area from the Peak through the Trough                                 NSA  09-Dec-2022  Monthly
-OECDRECP                                OECD based Recession Indicators for the OECD Total Area from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Monthly
-POLREC                                  OECD based Recession Indicators for Poland from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-POLRECD                                 OECD based Recession Indicators for Poland from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-POLRECDM                                OECD based Recession Indicators for Poland from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-POLRECDP                                OECD based Recession Indicators for Poland from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-POLRECM                                 OECD based Recession Indicators for Poland from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-POLRECP                                 OECD based Recession Indicators for Poland from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-PRTREC                                  OECD based Recession Indicators for Portugal from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Monthly
-PRTRECD                                 OECD based Recession Indicators for Portugal from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day
-PRTRECDM                                OECD based Recession Indicators for Portugal from the Peak through the Trough                                            NSA  09-Dec-2022  Daily, 7-Day
-PRTRECDP                                OECD based Recession Indicators for Portugal from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Daily, 7-Day
-PRTRECM                                 OECD based Recession Indicators for Portugal from the Peak through the Trough                                            NSA  09-Dec-2022  Monthly
-PRTRECP                                 OECD based Recession Indicators for Portugal from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Monthly
-RUSREC                                  OECD based Recession Indicators for the Russian Federation from the Period following the Peak through the Trough         NSA  09-Nov-2022  Monthly
-RUSRECD                                 OECD based Recession Indicators for Russian Federation from the Period following the Peak through the Trough             NSA  10-Nov-2022  Daily, 7-Day
-RUSRECDM                                OECD based Recession Indicators for Russian Federation from the Peak through the Trough                                  NSA  10-Nov-2022  Daily, 7-Day
-RUSRECDP                                OECD based Recession Indicators for Russian Federation from the Peak through the Period preceding the Trough             NSA  10-Nov-2022  Daily, 7-Day
-RUSRECM                                 OECD based Recession Indicators for Russian Federation from the Peak through the Trough                                  NSA  09-Nov-2022  Monthly
-RUSRECP                                 OECD based Recession Indicators for Russian Federation from the Peak through the Period preceding the Trough             NSA  09-Nov-2022  Monthly
-SVKREC                                  OECD based Recession Indicators for the Slovak Republic from the Period following the Peak through the Trough            NSA  09-Dec-2022  Monthly
-SVKRECD                                 OECD based Recession Indicators for the Slovak Republic from the Period following the Peak through the Trough            NSA  09-Dec-2022  Daily, 7-Day
-SVKRECDM                                OECD based Recession Indicators for the Slovak Republic from the Peak through the Trough                                 NSA  09-Dec-2022  Daily, 7-Day
-SVKRECDP                                OECD based Recession Indicators for the Slovak Republic from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Daily, 7-Day
-SVKRECM                                 OECD based Recession Indicators for the Slovak Republic from the Peak through the Trough                                 NSA  09-Dec-2022  Monthly
-SVKRECP                                 OECD based Recession Indicators for the Slovak Republic from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Monthly
-SVNREC                                  OECD based Recession Indicators for Slovenia from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Monthly
-SVNRECD                                 OECD based Recession Indicators for Slovenia from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day
-SVNRECDM                                OECD based Recession Indicators for Slovenia from the Peak through the Trough                                            NSA  09-Dec-2022  Daily, 7-Day
-SVNRECDP                                OECD based Recession Indicators for Slovenia from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Daily, 7-Day
-SVNRECM                                 OECD based Recession Indicators for Slovenia from the Peak through the Trough                                            NSA  09-Dec-2022  Monthly
-SVNRECP                                 OECD based Recession Indicators for Slovenia from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Monthly
-SWEREC                                  OECD based Recession Indicators for Sweden from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly
-SWERECD                                 OECD based Recession Indicators for Sweden from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-SWERECDM                                OECD based Recession Indicators for Sweden from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day
-SWERECDP                                OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day
-SWERECM                                 OECD based Recession Indicators for Sweden from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly
-SWERECP                                 OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly
-TURREC                                  OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                         NSA  09-Nov-2022  Monthly
-TURRECD                                 OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Daily, 7-Day
-TURRECDM                                OECD based Recession Indicators for Turkey from the Peak through the Trough                                              NSA  10-Nov-2022  Daily, 7-Day
-TURRECDP                                OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Daily, 7-Day
-TURRECM                                 OECD based Recession Indicators for Turkey from the Peak through the Trough                                              NSA  10-Nov-2022  Monthly
-TURRECP                                 OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                         NSA  09-Nov-2022  Monthly
-USAREC                                  OECD based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Monthly
-USARECD                                 OECD based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Daily, 7-Day
-USARECDM                                OECD based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Daily, 7-Day
-USARECDP                                OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Daily, 7-Day
-USARECM                                 OECD based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Monthly
-USARECP                                 OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Monthly
-USREC                                   NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  01-Dec-2022  Monthly
-USRECD                                  NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Daily, 7-Day
-USRECDM                                 NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Daily, 7-Day
-USRECDP                                 NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Daily, 7-Day
-USRECM                                  NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  01-Dec-2022  Monthly
-USRECP                                  NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  01-Dec-2022  Monthly
-USRECQ                                  NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  03-Oct-2022  Quarterly
-USRECQM                                 NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  03-Oct-2022  Quarterly
-USRECQP                                 NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  03-Oct-2022  Quarterly
-ZAFREC                                  OECD based Recession Indicators for South Africa from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Monthly
-ZAFRECD                                 OECD based Recession Indicators for South Africa from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Daily, 7-Day
-ZAFRECDM                                OECD based Recession Indicators for South Africa from the Peak through the Trough                                        NSA  09-Dec-2022  Daily, 7-Day
-ZAFRECDP                                OECD based Recession Indicators for South Africa from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Daily, 7-Day
-ZAFRECM                                 OECD based Recession Indicators for South Africa from the Peak through the Trough                                        NSA  09-Dec-2022  Monthly
-ZAFRECP                                 OECD based Recession Indicators for South Africa from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Monthly
+4BIGEUROREC                   OECD based Recession Indicators for Four Big European Countries from the Period following the Peak through the Trough    NSA  09-Dec-2022  Monthly        
+4BIGEURORECD                  OECD based Recession Indicators for Four Big European Countries from the Period following the Peak through the Trough    NSA  09-Dec-2022  Daily, 7-Day   
+4BIGEURORECDM                 OECD based Recession Indicators for Four Big European Countries from the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+4BIGEURORECDP                 OECD based Recession Indicators for Four Big European Countries from the Peak through the Period preceding the Trough    NSA  09-Dec-2022  Daily, 7-Day   
+4BIGEURORECM                  OECD based Recession Indicators for Four Big European Countries from the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+4BIGEURORECP                  OECD based Recession Indicators for Four Big European Countries from the Peak through the Period preceding the Trough    NSA  09-Dec-2022  Monthly        
+AUSREC                        OECD based Recession Indicators for Australia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly        
+AUSRECD                       OECD based Recession Indicators for Australia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+AUSRECDM                      OECD based Recession Indicators for Australia from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day   
+AUSRECDP                      OECD based Recession Indicators for Australia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+AUSRECM                       OECD based Recession Indicators for Australia from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly        
+AUSRECP                       OECD based Recession Indicators for Australia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly        
+AUTREC                        OECD based Recession Indicators for Austria from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+AUTRECD                       OECD based Recession Indicators for Austria from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+AUTRECDM                      OECD based Recession Indicators for Austria from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+AUTRECDP                      OECD based Recession Indicators for Austria from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+AUTRECM                       OECD based Recession Indicators for Austria from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+AUTRECP                       OECD based Recession Indicators for Austria from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+BELREC                        OECD based Recession Indicators for Belgium from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+BELRECD                       OECD based Recession Indicators for Belgium from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+BELRECDM                      OECD based Recession Indicators for Belgium from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+BELRECDP                      OECD based Recession Indicators for Belgium from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+BELRECM                       OECD based Recession Indicators for Belgium from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+BELRECP                       OECD based Recession Indicators for Belgium from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+BRAREC                        OECD based Recession Indicators for Brazil from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Monthly        
+BRARECD                       OECD based Recession Indicators for Brazil from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Daily, 7-Day   
+BRARECDM                      OECD based Recession Indicators for Brazil from the Peak through the Trough                                              NSA  10-Nov-2022  Daily, 7-Day   
+BRARECDP                      OECD based Recession Indicators for Brazil from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Daily, 7-Day   
+BRARECM                       OECD based Recession Indicators for Brazil from the Peak through the Trough                                              NSA  10-Nov-2022  Monthly        
+BRARECP                       OECD based Recession Indicators for Brazil from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Monthly        
+CANREC                        OECD based Recession Indicators for Canada from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+CANRECD                       OECD based Recession Indicators for Canada from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+CANRECDM                      OECD based Recession Indicators for Canada from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+CANRECDP                      OECD based Recession Indicators for Canada from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+CANRECM                       OECD based Recession Indicators for Canada from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+CANRECP                       OECD based Recession Indicators for Canada from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+CHEREC                        OECD based Recession Indicators for Switzerland from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly        
+CHERECD                       OECD based Recession Indicators for Switzerland from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+CHERECDM                      OECD based Recession Indicators for Switzerland from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day   
+CHERECDP                      OECD based Recession Indicators for Switzerland from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+CHERECM                       OECD based Recession Indicators for Switzerland from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly        
+CHERECP                       OECD based Recession Indicators for Switzerland from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly        
+CHLREC                        OECD based Recession Indicators for Chile from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+CHLRECD                       OECD based Recession Indicators for Chile from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+CHLRECDM                      OECD based Recession Indicators for Chile from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+CHLRECDP                      OECD based Recession Indicators for Chile from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+CHLRECM                       OECD based Recession Indicators for Chile from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+CHLRECP                       OECD based Recession Indicators for Chile from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+CHNREC                        OECD based Recession Indicators for China from the Period following the Peak through the Trough                          NSA  10-Nov-2022  Monthly        
+CHNRECD                       OECD based Recession Indicators for China from the Period following the Peak through the Trough                          NSA  10-Nov-2022  Daily, 7-Day   
+CHNRECDM                      OECD based Recession Indicators for China from the Peak through the Trough                                               NSA  10-Nov-2022  Daily, 7-Day   
+CHNRECDP                      OECD based Recession Indicators for China from the Peak through the Period preceding the Trough                          NSA  10-Nov-2022  Daily, 7-Day   
+CHNRECM                       OECD based Recession Indicators for China from the Peak through the Trough                                               NSA  10-Nov-2022  Monthly        
+CHNRECP                       OECD based Recession Indicators for China from the Peak through the Period preceding the Trough                          NSA  10-Nov-2022  Monthly        
+CZEREC                        OECD based Recession Indicators for the Czech Republic from the Period following the Peak through the Trough             NSA  09-Dec-2022  Monthly        
+CZERECD                       OECD based Recession Indicators for the Czech Republic from the Period following the Peak through the Trough             NSA  09-Dec-2022  Daily, 7-Day   
+CZERECDM                      OECD based Recession Indicators for the Czech Republic from the Peak through the Trough                                  NSA  09-Dec-2022  Daily, 7-Day   
+CZERECDP                      OECD based Recession Indicators for the Czech Republic from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Daily, 7-Day   
+CZERECM                       OECD based Recession Indicators for the Czech Republic from the Peak through the Trough                                  NSA  09-Dec-2022  Monthly        
+CZERECP                       OECD based Recession Indicators for the Czech Republic from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Monthly        
+DEUREC                        OECD based Recession Indicators for Germany from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+DEURECD                       OECD based Recession Indicators for Germany from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+DEURECDM                      OECD based Recession Indicators for Germany from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+DEURECDP                      OECD based Recession Indicators for Germany from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+DEURECM                       OECD based Recession Indicators for Germany from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+DEURECP                       OECD based Recession Indicators for Germany from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+DNKREC                        OECD based Recession Indicators for Denmark from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+DNKRECD                       OECD based Recession Indicators for Denmark from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+DNKRECDM                      OECD based Recession Indicators for Denmark from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+DNKRECDP                      OECD based Recession Indicators for Denmark from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+DNKRECM                       OECD based Recession Indicators for Denmark from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+DNKRECP                       OECD based Recession Indicators for Denmark from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+ESPREC                        OECD based Recession Indicators for Spain from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+ESPRECD                       OECD based Recession Indicators for Spain from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+ESPRECDM                      OECD based Recession Indicators for Spain from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+ESPRECDP                      OECD based Recession Indicators for Spain from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+ESPRECM                       OECD based Recession Indicators for Spain from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+ESPRECP                       OECD based Recession Indicators for Spain from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+ESTREC                        OECD based Recession Indicators for Estonia from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+ESTRECD                       OECD based Recession Indicators for Estonia from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+ESTRECDM                      OECD based Recession Indicators for Estonia from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+ESTRECDP                      OECD based Recession Indicators for Estonia from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+ESTRECM                       OECD based Recession Indicators for Estonia from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+ESTRECP                       OECD based Recession Indicators for Estonia from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+EUROREC                       OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly        
+EURORECD                      OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+EURORECDM                     OECD based Recession Indicators for Euro Area from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day   
+EURORECDP                     OECD based Recession Indicators for Euro Area from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+EURORECM                      OECD based Recession Indicators for Euro Area from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly        
+EURORECP                      OECD based Recession Indicators for Euro Area from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly        
+FINREC                        OECD based Recession Indicators for Finland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+FINRECD                       OECD based Recession Indicators for Finland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+FINRECDM                      OECD based Recession Indicators for Finland from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+FINRECDP                      OECD based Recession Indicators for Finland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+FINRECM                       OECD based Recession Indicators for Finland from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+FINRECP                       OECD based Recession Indicators for Finland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+FRAREC                        OECD based Recession Indicators for France from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+FRARECD                       OECD based Recession Indicators for France from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+FRARECDM                      OECD based Recession Indicators for France from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+FRARECDP                      OECD based Recession Indicators for France from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+FRARECM                       OECD based Recession Indicators for France from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+FRARECP                       OECD based Recession Indicators for France from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+GBRREC                        OECD based Recession Indicators for the United Kingdom from the Period following the Peak through the Trough             NSA  09-Dec-2022  Monthly        
+GBRRECD                       OECD based Recession Indicators for the United Kingdom from the Period following the Peak through the Trough             NSA  09-Dec-2022  Daily, 7-Day   
+GBRRECDM                      OECD based Recession Indicators for the United Kingdom from the Peak through the Trough                                  NSA  09-Dec-2022  Daily, 7-Day   
+GBRRECDP                      OECD based Recession Indicators for the United Kingdom from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Daily, 7-Day   
+GBRRECM                       OECD based Recession Indicators for the United Kingdom from the Peak through the Trough                                  NSA  09-Dec-2022  Monthly        
+GBRRECP                       OECD based Recession Indicators for the United Kingdom from the Peak through the Period preceding the Trough             NSA  09-Dec-2022  Monthly        
+GRCREC                        OECD based Recession Indicators for Greece from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+GRCRECD                       OECD based Recession Indicators for Greece from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+GRCRECDM                      OECD based Recession Indicators for Greece from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+GRCRECDP                      OECD based Recession Indicators for Greece from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+GRCRECM                       OECD based Recession Indicators for Greece from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+GRCRECP                       OECD based Recession Indicators for Greece from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+HUNREC                        OECD based Recession Indicators for Hungary from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+HUNRECD                       OECD based Recession Indicators for Hungary from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+HUNRECDM                      OECD based Recession Indicators for Hungary from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+HUNRECDP                      OECD based Recession Indicators for Hungary from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+HUNRECM                       OECD based Recession Indicators for Hungary from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+HUNRECP                       OECD based Recession Indicators for Hungary from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+IDNREC                        OECD based Recession Indicators for Indonesia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Monthly        
+IDNRECD                       OECD based Recession Indicators for Indonesia from the Period following the Peak through the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+IDNRECDM                      OECD based Recession Indicators for Indonesia from the Peak through the Trough                                           NSA  09-Dec-2022  Daily, 7-Day   
+IDNRECDP                      OECD based Recession Indicators for Indonesia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Daily, 7-Day   
+IDNRECM                       OECD based Recession Indicators for Indonesia from the Peak through the Trough                                           NSA  09-Dec-2022  Monthly        
+IDNRECP                       OECD based Recession Indicators for Indonesia from the Peak through the Period preceding the Trough                      NSA  09-Dec-2022  Monthly        
+INDREC                        OECD based Recession Indicators for India from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+INDRECD                       OECD based Recession Indicators for India from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+INDRECDM                      OECD based Recession Indicators for India from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+INDRECDP                      OECD based Recession Indicators for India from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+INDRECM                       OECD based Recession Indicators for India from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+INDRECP                       OECD based Recession Indicators for India from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+IRLREC                        OECD based Recession Indicators for Ireland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Monthly        
+IRLRECD                       OECD based Recession Indicators for Ireland from the Period following the Peak through the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+IRLRECDM                      OECD based Recession Indicators for Ireland from the Peak through the Trough                                             NSA  09-Dec-2022  Daily, 7-Day   
+IRLRECDP                      OECD based Recession Indicators for Ireland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Daily, 7-Day   
+IRLRECM                       OECD based Recession Indicators for Ireland from the Peak through the Trough                                             NSA  09-Dec-2022  Monthly        
+IRLRECP                       OECD based Recession Indicators for Ireland from the Peak through the Period preceding the Trough                        NSA  09-Dec-2022  Monthly        
+ISRREC                        OECD based Recession Indicators for Israel from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+ISRRECD                       OECD based Recession Indicators for Israel from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+ISRRECDM                      OECD based Recession Indicators for Israel from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+ISRRECDP                      OECD based Recession Indicators for Israel from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+ISRRECM                       OECD based Recession Indicators for Israel from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+ISRRECP                       OECD based Recession Indicators for Israel from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+ITAREC                        OECD based Recession Indicators for Italy from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+ITARECD                       OECD based Recession Indicators for Italy from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+ITARECDM                      OECD based Recession Indicators for Italy from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+ITARECDP                      OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+ITARECM                       OECD based Recession Indicators for Italy from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+ITARECP                       OECD based Recession Indicators for Italy from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+JPNREC                        OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+JPNRECD                       OECD based Recession Indicators for Japan from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+JPNRECDM                      OECD based Recession Indicators for Japan from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+JPNRECDP                      OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+JPNRECM                       OECD based Recession Indicators for Japan from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+JPNRECP                       OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+KORREC                        OECD based Recession Indicators for Korea from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Monthly        
+KORRECD                       OECD based Recession Indicators for Korea from the Period following the Peak through the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+KORRECDM                      OECD based Recession Indicators for Korea from the Peak through the Trough                                               NSA  09-Dec-2022  Daily, 7-Day   
+KORRECDP                      OECD based Recession Indicators for Korea from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Daily, 7-Day   
+KORRECM                       OECD based Recession Indicators for Korea from the Peak through the Trough                                               NSA  09-Dec-2022  Monthly        
+KORRECP                       OECD based Recession Indicators for Korea from the Peak through the Period preceding the Trough                          NSA  09-Dec-2022  Monthly        
+LUXREC                        OECD based Recession Indicators for Luxembourg from the Period following the Peak through the Trough                     NSA  10-Nov-2022  Monthly        
+LUXRECD                       OECD based Recession Indicators for Luxembourg from the Period following the Peak through the Trough                     NSA  10-Nov-2022  Daily, 7-Day   
+LUXRECDM                      OECD based Recession Indicators for Luxembourg from the Peak through the Trough                                          NSA  10-Nov-2022  Daily, 7-Day   
+LUXRECDP                      OECD based Recession Indicators for Luxembourg from the Peak through the Period preceding the Trough                     NSA  10-Nov-2022  Daily, 7-Day   
+LUXRECM                       OECD based Recession Indicators for Luxembourg from the Peak through the Trough                                          NSA  10-Nov-2022  Monthly        
+LUXRECP                       OECD based Recession Indicators for Luxembourg from the Peak through the Period preceding the Trough                     NSA  10-Nov-2022  Monthly        
+MAJOR5ASIAREC                 OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Monthly        
+MAJOR5ASIARECD                OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Daily, 7-Day   
+MAJOR5ASIARECDM               OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                        NSA  09-Dec-2022  Daily, 7-Day   
+MAJOR5ASIARECDP               OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Daily, 7-Day   
+MAJOR5ASIARECM                OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                        NSA  09-Dec-2022  Monthly        
+MAJOR5ASIARECP                OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Monthly        
+MEXREC                        OECD based Recession Indicators for Mexico from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+MEXRECD                       OECD based Recession Indicators for Mexico from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+MEXRECDM                      OECD based Recession Indicators for Mexico from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+MEXRECDP                      OECD based Recession Indicators for Mexico from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+MEXRECM                       OECD based Recession Indicators for Mexico from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+MEXRECP                       OECD based Recession Indicators for Mexico from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+MSCREC                        OECD based Recession Indicators for Major Seven Countries from the Period following the Peak through the Trough          NSA  09-Dec-2022  Monthly        
+MSCRECD                       OECD based Recession Indicators for Major Seven Countries from the Period following the Peak through the Trough          NSA  09-Dec-2022  Daily, 7-Day   
+MSCRECDM                      OECD based Recession Indicators for Major Seven Countries from the Peak through the Trough                               NSA  09-Dec-2022  Daily, 7-Day   
+MSCRECDP                      OECD based Recession Indicators for Major Seven Countries from the Peak through the Period preceding the Trough          NSA  09-Dec-2022  Daily, 7-Day   
+MSCRECM                       OECD based Recession Indicators for Major Seven Countries from the Peak through the Trough                               NSA  09-Dec-2022  Monthly        
+MSCRECP                       OECD based Recession Indicators for Major Seven Countries from the Peak through the Period preceding the Trough          NSA  09-Dec-2022  Monthly        
+NAFTAREC                      OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough                     NSA  09-Dec-2022  Monthly        
+NAFTARECD                     OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough                     NSA  09-Dec-2022  Daily, 7-Day   
+NAFTARECDM                    OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                                          NSA  09-Dec-2022  Daily, 7-Day   
+NAFTARECDP                    OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough                     NSA  09-Dec-2022  Daily, 7-Day   
+NAFTARECM                     OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                                          NSA  09-Dec-2022  Monthly        
+NAFTARECP                     OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough                     NSA  09-Dec-2022  Monthly        
+NDLREC                        OECD based Recession Indicators for Netherlands from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly        
+NDLRECD                       OECD based Recession Indicators for Netherlands from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+NDLRECDM                      OECD based Recession Indicators for Netherlands from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day   
+NDLRECDP                      OECD based Recession Indicators for Netherlands from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+NDLRECM                       OECD based Recession Indicators for Netherlands from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly        
+NDLRECP                       OECD based Recession Indicators for Netherlands from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly        
+NORREC                        OECD based Recession Indicators for Norway from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+NORRECD                       OECD based Recession Indicators for Norway from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+NORRECDM                      OECD based Recession Indicators for Norway from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+NORRECDP                      OECD based Recession Indicators for Norway from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+NORRECM                       OECD based Recession Indicators for Norway from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+NORRECP                       OECD based Recession Indicators for Norway from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+NZLREC                        OECD based Recession Indicators for New Zealand from the Period following the Peak through the Trough                    NSA  10-Nov-2022  Monthly        
+NZLRECD                       OECD based Recession Indicators for New Zealand from the Period following the Peak through the Trough                    NSA  10-Nov-2022  Daily, 7-Day   
+NZLRECDM                      OECD based Recession Indicators for New Zealand from the Peak through the Trough                                         NSA  10-Nov-2022  Daily, 7-Day   
+NZLRECDP                      OECD based Recession Indicators for New Zealand from the Peak through the Period preceding the Trough                    NSA  10-Nov-2022  Daily, 7-Day   
+NZLRECM                       OECD based Recession Indicators for New Zealand from the Peak through the Trough                                         NSA  10-Nov-2022  Monthly        
+NZLRECP                       OECD based Recession Indicators for New Zealand from the Peak through the Period preceding the Trough                    NSA  10-Nov-2022  Monthly        
+OECDEUROPEREC                 OECD based Recession Indicators for OECD Europe from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Monthly        
+OECDEUROPERECD                OECD based Recession Indicators for OECD Europe from the Period following the Peak through the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+OECDEUROPERECDM               OECD based Recession Indicators for OECD Europe from the Peak through the Trough                                         NSA  09-Dec-2022  Daily, 7-Day   
+OECDEUROPERECDP               OECD based Recession Indicators for OECD Europe from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Daily, 7-Day   
+OECDEUROPERECM                OECD based Recession Indicators for OECD Europe from the Peak through the Trough                                         NSA  09-Dec-2022  Monthly        
+OECDEUROPERECP                OECD based Recession Indicators for OECD Europe from the Peak through the Period preceding the Trough                    NSA  09-Dec-2022  Monthly        
+OECDNMEREC                    OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough  NSA  09-Dec-2022  Monthly        
+OECDNMERECD                   OECD based Recession Indicators for OECD and Non-member Economies from the Period following the Peak through the Trough  NSA  09-Dec-2022  Daily, 7-Day   
+OECDNMERECDM                  OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day   
+OECDNMERECDP                  OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough  NSA  09-Dec-2022  Daily, 7-Day   
+OECDNMERECM                   OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough                       NSA  09-Dec-2022  Monthly        
+OECDNMERECP                   OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Period preceding the Trough  NSA  09-Dec-2022  Monthly        
+OECDREC                       OECD based Recession Indicators for the OECD Total Area from the Period following the Peak through the Trough            NSA  09-Dec-2022  Monthly        
+OECDRECD                      OECD based Recession Indicators for the OECD Total Area from the Period following the Peak through the Trough            NSA  09-Dec-2022  Daily, 7-Day   
+OECDRECDM                     OECD based Recession Indicators for the OECD Total Area from the Peak through the Trough                                 NSA  09-Dec-2022  Daily, 7-Day   
+OECDRECDP                     OECD based Recession Indicators for the OECD Total Area from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Daily, 7-Day   
+OECDRECM                      OECD based Recession Indicators for the OECD Total Area from the Peak through the Trough                                 NSA  09-Dec-2022  Monthly        
+OECDRECP                      OECD based Recession Indicators for the OECD Total Area from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Monthly        
+POLREC                        OECD based Recession Indicators for Poland from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+POLRECD                       OECD based Recession Indicators for Poland from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+POLRECDM                      OECD based Recession Indicators for Poland from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+POLRECDP                      OECD based Recession Indicators for Poland from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+POLRECM                       OECD based Recession Indicators for Poland from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+POLRECP                       OECD based Recession Indicators for Poland from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+PRTREC                        OECD based Recession Indicators for Portugal from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Monthly        
+PRTRECD                       OECD based Recession Indicators for Portugal from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day   
+PRTRECDM                      OECD based Recession Indicators for Portugal from the Peak through the Trough                                            NSA  09-Dec-2022  Daily, 7-Day   
+PRTRECDP                      OECD based Recession Indicators for Portugal from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Daily, 7-Day   
+PRTRECM                       OECD based Recession Indicators for Portugal from the Peak through the Trough                                            NSA  09-Dec-2022  Monthly        
+PRTRECP                       OECD based Recession Indicators for Portugal from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Monthly        
+RUSREC                        OECD based Recession Indicators for the Russian Federation from the Period following the Peak through the Trough         NSA  09-Nov-2022  Monthly        
+RUSRECD                       OECD based Recession Indicators for Russian Federation from the Period following the Peak through the Trough             NSA  10-Nov-2022  Daily, 7-Day   
+RUSRECDM                      OECD based Recession Indicators for Russian Federation from the Peak through the Trough                                  NSA  10-Nov-2022  Daily, 7-Day   
+RUSRECDP                      OECD based Recession Indicators for Russian Federation from the Peak through the Period preceding the Trough             NSA  10-Nov-2022  Daily, 7-Day   
+RUSRECM                       OECD based Recession Indicators for Russian Federation from the Peak through the Trough                                  NSA  09-Nov-2022  Monthly        
+RUSRECP                       OECD based Recession Indicators for Russian Federation from the Peak through the Period preceding the Trough             NSA  09-Nov-2022  Monthly        
+SVKREC                        OECD based Recession Indicators for the Slovak Republic from the Period following the Peak through the Trough            NSA  09-Dec-2022  Monthly        
+SVKRECD                       OECD based Recession Indicators for the Slovak Republic from the Period following the Peak through the Trough            NSA  09-Dec-2022  Daily, 7-Day   
+SVKRECDM                      OECD based Recession Indicators for the Slovak Republic from the Peak through the Trough                                 NSA  09-Dec-2022  Daily, 7-Day   
+SVKRECDP                      OECD based Recession Indicators for the Slovak Republic from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Daily, 7-Day   
+SVKRECM                       OECD based Recession Indicators for the Slovak Republic from the Peak through the Trough                                 NSA  09-Dec-2022  Monthly        
+SVKRECP                       OECD based Recession Indicators for the Slovak Republic from the Peak through the Period preceding the Trough            NSA  09-Dec-2022  Monthly        
+SVNREC                        OECD based Recession Indicators for Slovenia from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Monthly        
+SVNRECD                       OECD based Recession Indicators for Slovenia from the Period following the Peak through the Trough                       NSA  09-Dec-2022  Daily, 7-Day   
+SVNRECDM                      OECD based Recession Indicators for Slovenia from the Peak through the Trough                                            NSA  09-Dec-2022  Daily, 7-Day   
+SVNRECDP                      OECD based Recession Indicators for Slovenia from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Daily, 7-Day   
+SVNRECM                       OECD based Recession Indicators for Slovenia from the Peak through the Trough                                            NSA  09-Dec-2022  Monthly        
+SVNRECP                       OECD based Recession Indicators for Slovenia from the Peak through the Period preceding the Trough                       NSA  09-Dec-2022  Monthly        
+SWEREC                        OECD based Recession Indicators for Sweden from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Monthly        
+SWERECD                       OECD based Recession Indicators for Sweden from the Period following the Peak through the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+SWERECDM                      OECD based Recession Indicators for Sweden from the Peak through the Trough                                              NSA  09-Dec-2022  Daily, 7-Day   
+SWERECDP                      OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Daily, 7-Day   
+SWERECM                       OECD based Recession Indicators for Sweden from the Peak through the Trough                                              NSA  09-Dec-2022  Monthly        
+SWERECP                       OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                         NSA  09-Dec-2022  Monthly        
+TURREC                        OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                         NSA  09-Nov-2022  Monthly        
+TURRECD                       OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                         NSA  10-Nov-2022  Daily, 7-Day   
+TURRECDM                      OECD based Recession Indicators for Turkey from the Peak through the Trough                                              NSA  10-Nov-2022  Daily, 7-Day   
+TURRECDP                      OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                         NSA  10-Nov-2022  Daily, 7-Day   
+TURRECM                       OECD based Recession Indicators for Turkey from the Peak through the Trough                                              NSA  10-Nov-2022  Monthly        
+TURRECP                       OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                         NSA  09-Nov-2022  Monthly        
+USAREC                        OECD based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Monthly        
+USARECD                       OECD based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Daily, 7-Day   
+USARECDM                      OECD based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Daily, 7-Day   
+USARECDP                      OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Daily, 7-Day   
+USARECM                       OECD based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Monthly        
+USARECP                       OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Monthly        
+USREC                         NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  01-Dec-2022  Monthly        
+USRECD                        NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  09-Dec-2022  Daily, 7-Day   
+USRECDM                       NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  09-Dec-2022  Daily, 7-Day   
+USRECDP                       NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  09-Dec-2022  Daily, 7-Day   
+USRECM                        NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  01-Dec-2022  Monthly        
+USRECP                        NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  01-Dec-2022  Monthly        
+USRECQ                        NBER based Recession Indicators for the United States from the Period following the Peak through the Trough              NSA  03-Oct-2022  Quarterly      
+USRECQM                       NBER based Recession Indicators for the United States from the Peak through the Trough                                   NSA  03-Oct-2022  Quarterly      
+USRECQP                       NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough              NSA  03-Oct-2022  Quarterly      
+ZAFREC                        OECD based Recession Indicators for South Africa from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Monthly        
+ZAFRECD                       OECD based Recession Indicators for South Africa from the Period following the Peak through the Trough                   NSA  09-Dec-2022  Daily, 7-Day   
+ZAFRECDM                      OECD based Recession Indicators for South Africa from the Peak through the Trough                                        NSA  09-Dec-2022  Daily, 7-Day   
+ZAFRECDP                      OECD based Recession Indicators for South Africa from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Daily, 7-Day   
+ZAFRECM                       OECD based Recession Indicators for South Africa from the Peak through the Trough                                        NSA  09-Dec-2022  Monthly        
+ZAFRECP                       OECD based Recession Indicators for South Africa from the Peak through the Period preceding the Trough                   NSA  09-Dec-2022  Monthly        

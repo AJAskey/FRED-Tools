@@ -1,7 +1,7 @@
 Id : 363  Monthly Treasury Statement
-MTSDS133FMS                             Federal Surplus or Deficit [-]                                                                                           NSA  10-Nov-2022  Monthly
-MTSMFBOM133FMS                          Means of Financing: by Other Means                                                                                       NSA  10-Nov-2022  Monthly
-MTSMFBP133FMS                           Means of Financing: Borrowing from the Public                                                                            NSA  10-Nov-2022  Monthly
-MTSMFROC133FMS                          Means of Financing: Reduction of Operating Cash, Increase (-)                                                            NSA  10-Nov-2022  Monthly
-MTSO133FMS                              Total Federal Outlays                                                                                                    NSA  10-Nov-2022  Monthly
-MTSR133FMS                              Total Federal Receipts                                                                                                   NSA  10-Nov-2022  Monthly
+MTSDS133FMS                   Federal Surplus or Deficit [-]                                                                                           NSA  10-Nov-2022  Monthly        
+MTSMFBOM133FMS                Means of Financing: by Other Means                                                                                       NSA  10-Nov-2022  Monthly        
+MTSMFBP133FMS                 Means of Financing: Borrowing from the Public                                                                            NSA  10-Nov-2022  Monthly        
+MTSMFROC133FMS                Means of Financing: Reduction of Operating Cash, Increase (-)                                                            NSA  10-Nov-2022  Monthly        
+MTSO133FMS                    Total Federal Outlays                                                                                                    NSA  10-Nov-2022  Monthly        
+MTSR133FMS                    Total Federal Receipts                                                                                                   NSA  10-Nov-2022  Monthly        

@@ -1,7 +1,7 @@
 Id : 342  Natural Gas Spot and Futures Prices (NYMEX)
-AHHNGSP                                 Henry Hub Natural Gas Spot Price                                                                                         NSA  05-Jan-2022  Annual
-ANGLCP                                  U.S. Natural Gas Liquid Composite Price                                                                                  NSA  02-Mar-2022  Annual
-DHHNGSP                                 Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Daily
-MHHNGSP                                 Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Monthly
-MNGLCP                                  U.S. Natural Gas Liquid Composite Price                                                                                  NSA  30-Nov-2022  Monthly
-WHHNGSP                                 Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Weekly
+AHHNGSP                       Henry Hub Natural Gas Spot Price                                                                                         NSA  05-Jan-2022  Annual         
+ANGLCP                        U.S. Natural Gas Liquid Composite Price                                                                                  NSA  02-Mar-2022  Annual         
+DHHNGSP                       Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Daily          
+MHHNGSP                       Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Monthly        
+MNGLCP                        U.S. Natural Gas Liquid Composite Price                                                                                  NSA  30-Nov-2022  Monthly        
+WHHNGSP                       Henry Hub Natural Gas Spot Price                                                                                         NSA  07-Dec-2022  Weekly         

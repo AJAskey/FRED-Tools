@@ -1,5 +1,5 @@
 Id : 172  Japan Foreign Exchange Intervention
-JPINTDDMEJPY                            Japan Intervention: Japanese Bank purchases of DM/Euro against JPY                                                       NSA  10-Nov-2022  Daily, 7-Day
-JPINTDEXR                               Japan Intervention: Japanese Bank purchases of USD against DM                                                            NSA  10-Nov-2022  Daily, 7-Day
-JPINTDUSDJPY                            Japan Intervention: Japanese Bank purchases of USD against JPY                                                           NSA  10-Nov-2022  Daily, 7-Day
-JPINTDUSDRP                             Japan Intervention: Japanese Bank purchases of USD against Rupiah                                                        NSA  10-Nov-2022  Daily, 7-Day
+JPINTDDMEJPY                  Japan Intervention: Japanese Bank purchases of DM/Euro against JPY                                                       NSA  10-Nov-2022  Daily, 7-Day   
+JPINTDEXR                     Japan Intervention: Japanese Bank purchases of USD against DM                                                            NSA  10-Nov-2022  Daily, 7-Day   
+JPINTDUSDJPY                  Japan Intervention: Japanese Bank purchases of USD against JPY                                                           NSA  10-Nov-2022  Daily, 7-Day   
+JPINTDUSDRP                   Japan Intervention: Japanese Bank purchases of USD against Rupiah                                                        NSA  10-Nov-2022  Daily, 7-Day   

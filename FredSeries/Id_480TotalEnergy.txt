@@ -1,25 +1,25 @@
 Id : 480  Total Energy
-EMISSCO2TOTVCCCOA                       Coal Commercial Sector Carbon Dioxide Emissions                                                                          NSA  30-Nov-2022  Annual
-EMISSCO2TOTVECCOA                       Coal Electric Power Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual
-EMISSCO2TOTVECPEA                       Petroleum Electric Power Sector Carbon Dioxide Emissions                                                                 NSA  30-Nov-2022  Annual
-EMISSCO2TOTVICCOA                       Coal Industrial Sector Carbon Dioxide Emissions                                                                          NSA  30-Nov-2022  Annual
-EMISSCO2TOTVRCCOA                       Coal Residential Sector Carbon Dioxide Emissions                                                                         NSA  27-Sep-2021  Annual
-EMISSCO2TOTVRCPEA                       Petroleum Residential Sector Carbon Dioxide Emissions                                                                    NSA  30-Nov-2022  Annual
-EMISSCO2TOTVTCCOA                       Coal Transportation Sector Carbon Dioxide Emissions                                                                      NSA  29-Mar-2022  Annual
-EMISSCO2TOTVTCNGA                       Natural Gas Transportation Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual
-EMISSCO2VAVACBA                         Aviation Gasoline Transportation Sector Carbon Dioxide Emissions                                                         NSA  29-Mar-2022  Annual
-EMISSCO2VDFACBA                         Distillate Fuel (Excluding Biodiesel) Transportation Sector Carbon Dioxide Emissions                                     NSA  30-Nov-2022  Annual
-EMISSCO2VDFCCBA                         Distillate Fuel Commercial Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual
-EMISSCO2VDFICBA                         Distillate Fuel Industrial Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual
-EMISSCO2VDFRCBA                         Distillate Fuel Residential Sector Carbon Dioxide Emissions                                                              NSA  30-Nov-2022  Annual
-EMISSCO2VJFACBA                         Jet Fuel Transportation Sector Carbon Dioxide Emissions                                                                  NSA  30-Nov-2022  Annual
-EMISSCO2VKSCCBA                         Kerosene Commercial Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual
-EMISSCO2VKSICBA                         Kerosene Industrial Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual
-EMISSCO2VKSRCBA                         Kerosene Residential Sector Carbon Dioxide Emissions                                                                     NSA  30-Nov-2022  Annual
-EMISSCO2VLUACBA                         Lubricants Transportation Sector Carbon Dioxide Emissions                                                                NSA  30-Nov-2022  Annual
-EMISSCO2VLUICBA                         Lubricants Industrial Sector Carbon Dioxide Emissions                                                                    NSA  30-Nov-2022  Annual
-EMISSCO2VPCEIBA                         Petroleum Coke Electric Power Sector Carbon Dioxide Emissions                                                            NSA  30-Nov-2022  Annual
-EMISSCO2VRFACBA                         Residual Fuel Transportation Sector Carbon Dioxide Emissions                                                             NSA  29-Mar-2022  Annual
-EMISSCO2VRFCCBA                         Residual Fuel Commercial Sector Carbon Dioxide Emissions                                                                 NSA  29-Mar-2022  Annual
-EMISSCO2VRFEIBA                         Residual Fuel Electric Power Sector Carbon Dioxide Emissions                                                             NSA  29-Mar-2022  Annual
-EMISSCO2VRFICBA                         Residual Fuel Industrial Sector Carbon Dioxide Emissions                                                                 NSA  30-Nov-2022  Annual
+EMISSCO2TOTVCCCOA             Coal Commercial Sector Carbon Dioxide Emissions                                                                          NSA  30-Nov-2022  Annual         
+EMISSCO2TOTVECCOA             Coal Electric Power Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual         
+EMISSCO2TOTVECPEA             Petroleum Electric Power Sector Carbon Dioxide Emissions                                                                 NSA  30-Nov-2022  Annual         
+EMISSCO2TOTVICCOA             Coal Industrial Sector Carbon Dioxide Emissions                                                                          NSA  30-Nov-2022  Annual         
+EMISSCO2TOTVRCCOA             Coal Residential Sector Carbon Dioxide Emissions                                                                         NSA  27-Sep-2021  Annual         
+EMISSCO2TOTVRCPEA             Petroleum Residential Sector Carbon Dioxide Emissions                                                                    NSA  30-Nov-2022  Annual         
+EMISSCO2TOTVTCCOA             Coal Transportation Sector Carbon Dioxide Emissions                                                                      NSA  29-Mar-2022  Annual         
+EMISSCO2TOTVTCNGA             Natural Gas Transportation Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual         
+EMISSCO2VAVACBA               Aviation Gasoline Transportation Sector Carbon Dioxide Emissions                                                         NSA  29-Mar-2022  Annual         
+EMISSCO2VDFACBA               Distillate Fuel (Excluding Biodiesel) Transportation Sector Carbon Dioxide Emissions                                     NSA  30-Nov-2022  Annual         
+EMISSCO2VDFCCBA               Distillate Fuel Commercial Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual         
+EMISSCO2VDFICBA               Distillate Fuel Industrial Sector Carbon Dioxide Emissions                                                               NSA  30-Nov-2022  Annual         
+EMISSCO2VDFRCBA               Distillate Fuel Residential Sector Carbon Dioxide Emissions                                                              NSA  30-Nov-2022  Annual         
+EMISSCO2VJFACBA               Jet Fuel Transportation Sector Carbon Dioxide Emissions                                                                  NSA  30-Nov-2022  Annual         
+EMISSCO2VKSCCBA               Kerosene Commercial Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual         
+EMISSCO2VKSICBA               Kerosene Industrial Sector Carbon Dioxide Emissions                                                                      NSA  30-Nov-2022  Annual         
+EMISSCO2VKSRCBA               Kerosene Residential Sector Carbon Dioxide Emissions                                                                     NSA  30-Nov-2022  Annual         
+EMISSCO2VLUACBA               Lubricants Transportation Sector Carbon Dioxide Emissions                                                                NSA  30-Nov-2022  Annual         
+EMISSCO2VLUICBA               Lubricants Industrial Sector Carbon Dioxide Emissions                                                                    NSA  30-Nov-2022  Annual         
+EMISSCO2VPCEIBA               Petroleum Coke Electric Power Sector Carbon Dioxide Emissions                                                            NSA  30-Nov-2022  Annual         
+EMISSCO2VRFACBA               Residual Fuel Transportation Sector Carbon Dioxide Emissions                                                             NSA  29-Mar-2022  Annual         
+EMISSCO2VRFCCBA               Residual Fuel Commercial Sector Carbon Dioxide Emissions                                                                 NSA  29-Mar-2022  Annual         
+EMISSCO2VRFEIBA               Residual Fuel Electric Power Sector Carbon Dioxide Emissions                                                             NSA  29-Mar-2022  Annual         
+EMISSCO2VRFICBA               Residual Fuel Industrial Sector Carbon Dioxide Emissions                                                                 NSA  30-Nov-2022  Annual         

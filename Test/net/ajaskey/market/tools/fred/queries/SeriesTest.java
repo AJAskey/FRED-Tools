@@ -21,6 +21,10 @@ class SeriesTest {
 
     Series ser2 = Series.query("GDP", 10, 2, "FredLib");
     System.out.println(ser2);
+
+    // JTU7100QUL
+    Series ser3 = Series.query("JTU7100QUL", 10, 2, "FredLib");
+    System.out.println(ser3);
   }
 
   @Test
