@@ -241,15 +241,26 @@ public class ParseFredSeriesData {
     if (this.name.startsWith("IP")) {
       if (this.frequency.equals("Monthly")) {
         if (this.seasonality.equals("NSA")) {
-          return true;
-        }
-        else {
-          return false;
+          long count = this.title.chars().filter(ch -> ch == ':').count();
+          if (count < 2) {
+            return true;
+          }
         }
       }
-      else {
-        return false;
+      return false;
+    }
+
+    // Add in Capacity Utilization SA Monthly
+    if (this.release.contains("Industrial Production and Capacity Utilization")) {
+      if (this.name.startsWith("CAP")) {
+        if (this.frequency.equals("Monthly")) {
+          long count = this.title.chars().filter(ch -> ch == ':').count();
+          if (count < 2) {
+            return true;
+          }
+        }
       }
+      return false;
     }
 
     // Filter Employment Situation
@@ -282,17 +293,6 @@ public class ParseFredSeriesData {
       return false;
     }
 
-    // Filter Id : 51 International Trade in Goods and Services. Desired are in
-    // useful list.
-    if (this.release.contains("International Trade in Goods and Services")) {
-      return false;
-    }
-
-    // Filter Id : 53 Gross Domestic Product. Desired are in useful list.
-    if (this.release.contains("Gross Domestic Product")) {
-      return false;
-    }
-
     // Filter Id : 20 H.4.1. Desired are in useful list.
     if (this.release.contains("H.4.1")) {
       return false;
@@ -300,6 +300,34 @@ public class ParseFredSeriesData {
 
     // Filter Id : 22 H.4.1. Desired are in useful list.
     if (this.release.contains("H.8 Assets and Liabilities")) {
+      return false;
+    }
+
+    // Filter Id : 46 Producer Price Index.
+    if (this.release.contains("Producer Price Index")) {
+      if (this.name.length() == 9) {
+        long count = this.title.chars().filter(ch -> ch == ':').count();
+        if (count < 2) {
+          return true;
+        }
+      }
+      return false;
+    }
+
+    // Filter Id : 51 International Trade in Goods and Services. Desired are in
+    // useful list.
+    if (this.release.contains("International Trade in Goods and Services")) {
+      return false;
+    }
+
+    // Filter Id : 52 Z.1 Financial Accounts of the United States. Desired are in
+    // useful list.
+    if (this.release.contains("Z.1 Financial Accounts of the United States")) {
+      return false;
+    }
+
+    // Filter Id : 53 Gross Domestic Product. Desired are in useful list.
+    if (this.release.contains("Gross Domestic Product")) {
       return false;
     }
 
@@ -319,9 +347,29 @@ public class ParseFredSeriesData {
       return false;
     }
 
+    // Filter Id : 205 Main Economic Indicators. Desired are in
+    // useful list.
+    if (this.release.contains("Main Economic Indicators")) {
+      return false;
+    }
+
     // Filter Id : 321 Empire State Manufacturing Survey. Desired are in useful
     // list.
     if (this.release.contains("Empire State Manufacturing Survey")) {
+      return false;
+    }
+
+    // Filter Id : 322 Business Leaders Survey.
+    if (this.release.contains("Business Leaders Survey")) {
+      if (this.title.contains("Diffusion Index for FRB")) {
+        return true;
+      }
+      return false;
+    }
+
+    // Filter Id : 352 Nonmanufacturing Business Outlook Survey. Desired are in
+    // useful list.
+    if (this.release.contains("Nonmanufacturing Business Outlook Survey")) {
       return false;
     }
 
@@ -339,38 +387,6 @@ public class ParseFredSeriesData {
     if (this.release.contains("Texas Retail Outlook Survey")) {
       if (this.title.contains("Diffusion Index")) {
         if (this.seasonality.equals("NSA")) {
-          return true;
-        }
-      }
-      return false;
-    }
-
-    // Add in Capacity Utilization SA Monthly
-    if (this.release.contains("Industrial Production and Capacity Utilization")) {
-      if (this.name.startsWith("CAP")) {
-        if (this.frequency.equals("Monthly")) {
-          return true;
-        }
-      }
-    }
-
-    // Filter Id : 352 Nonmanufacturing Business Outlook Survey. Desired are in
-    // useful list.
-    if (this.release.contains("Nonmanufacturing Business Outlook Survey")) {
-      return false;
-    }
-
-    // Filter Id : 205 Main Economic Indicators. Desired are in
-    // useful list.
-    if (this.release.contains("Main Economic Indicators")) {
-      return false;
-    }
-
-    // Filter Id : 46 Producer Price Index.
-    if (this.release.contains("Producer Price Index")) {
-      if (this.name.length() == 9) {
-        long count = this.title.chars().filter(ch -> ch == ':').count();
-        if (count < 2) {
           return true;
         }
       }
