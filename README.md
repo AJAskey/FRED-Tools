@@ -32,33 +32,34 @@
  The **data** directory contains a file named *fred-series-info.txt* which contains the series IDs I have found useful over the past 10+ years. The file is tab delimited and imports well into Excel for column width control.
  
 ---
+
+## FRED Tools Classes
+ The most useful classes are in the **net.ajaskey.market.tools.fred.queries** package. These are setup to query FRED. What you do with the queries is up to you. 
+ 
+ The **net.ajaskey.market.tools.fred.executables** package contains examples of how I use the queries.
+ 
+1. Release - Queries FRED for all the Release data available.
+2. Series - Queries FRED for individual Series or all Series associated with a Release.
+3. Category - Queries FRED for Category data available. *(This one needs some more work.)*
+ 
  
 ## Executables
 
  These are usable now but still need testing (which is ongoing).
  
- **FredInitLibary** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredInitLibrary). This program will download date/value pairs for codes from input file. A CSV file of downloaded data will be in the **out** directory. 
+ **FredInitLibary** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredInitLibrary). This program will download date/value pairs for codes from input file. The program has an input file and output file(s). I use my tools to create an input file of Series Ids I want.
  
- Input is the *fred-series-info.txt* file from the **data** directory. A much smaller version called *fred-series-info-test.txt* is also available.
- Output is set to go to the **out** directory.
- Debug is set to go to the **debug** directory.
- You can change these easily.
- 
- **FredUpdate** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredUpdate). This program will download out-of-date date/value pairs for codes from input file. A CSV file of downloaded data will be in the **out** directory. 
- 
- Input is the *fred-series-info.txt* file from the **data** directory. A much smaller version called *fred-series-info-test.txt* is also available.
- Debug is set to go to the **debug** directory.
- You can change these easily.
+ Note that I am re-writing this to be more efficient with the query classes I have written.
  
 ---
  
  FRED API work flow:
  
- 1. Retrieve DataSeriesInfo with API call. This data provides context into the latest update available at FRED.
- 2. Retrieve a list of DataSeries and DataValues (list of date/value pairs) associated with the DataSeriesInfo.
+ 1. Retrieve Series with API call. This data provides context into the latest update available at FRED.
+ 2. Retrieve a list of DataValues (list of date/value pairs) associated with the Series.
  3. Do what you wish with the data programmatically. I write this to a file to be used by my charting software.
  
- DataSeriesInfo debug data:
+ Series debug data:
  
     INFO: Retrieved DSI for Code TLCOMCON
 
