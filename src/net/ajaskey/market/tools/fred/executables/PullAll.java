@@ -16,7 +16,7 @@
  *
  * Original author : Andy Askey (ajaskey34@gmail.com)
  */
-package net.ajaskey.market.tools.fred.queries;
+package net.ajaskey.market.tools.fred.executables;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,6 +26,9 @@ import java.util.List;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
+import net.ajaskey.market.tools.fred.LocalFormat;
+import net.ajaskey.market.tools.fred.queries.Release;
+import net.ajaskey.market.tools.fred.queries.Series;
 
 /**
  * 
@@ -38,28 +41,44 @@ import net.ajaskey.market.tools.fred.ApiKey;
  */
 public class PullAll {
 
-  // static public String seriesOutputFormat = "%-40s%-120s %-4s %-12s %s";
-
   static PrintWriter allSeriesPw = null;
 
   /**
    * 
-   * @param args
-   * @throws FileNotFoundException
+   * Queries all releases and series description data and writes it to organized
+   * files.
+   * 
+   * @param args None expected.
    */
-  public static void main(String[] args) throws FileNotFoundException {
+  public static void main(String[] args) {
 
     Debug.init("debug/PullAll.dbg", java.util.logging.Level.INFO);
 
     ApiKey.set();
 
-    processAll("FredSeries", "FredLib", 6, 7);
+    try {
+      // Check the debug log to see if retries and/or delays needs to be modified. I
+      // have found that 7 and 15 works well but it is a tradeoff between processing
+      // time and internal retry loops.
+      processAll("FredSeries", "FredLib", 6, 7);
+    }
+    catch (FileNotFoundException e) {
+      e.printStackTrace();
+    }
   }
 
   /**
+   * Main is used as wrapper here so processAll can be call from and external
+   * class.
    * 
-   * @param fredlib
-   * @throws FileNotFoundException
+   * @param relList   A list of Release names to process
+   * @param seriesLib Directory where Series data is to be stored.
+   * @param fredlib   Directory where Date/Value pairs are stored.
+   * @param retries   FRED server times out a lot (depending on use). The URL is
+   *                  sent to FRED 'retries' times.
+   * @param delay     Time to delay between URL retries in seconds.
+   * 
+   * @throws FileNotFoundException File problems exception.
    */
   public static void processAll(String serieslib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
@@ -67,7 +86,7 @@ public class PullAll {
 
     List<Release> relList = Release.queryReleases();
 
-    int num = process(relList, retries, delay, serieslib, fredlib);
+    int num = process(relList, serieslib, fredlib, retries, delay);
 
     System.out.printf("processed = %d%n", num);
 
@@ -76,14 +95,18 @@ public class PullAll {
 
   /**
    * 
-   * @param relList
-   * @param retries
-   * @param delay
-   * @param fredlib
-   * @return
-   * @throws FileNotFoundException
+   * @param relList   A list of Release names to process
+   * @param seriesLib Directory where Series data is to be stored.
+   * @param fredlib   Directory where Date/Value pairs are stored.
+   * @param retries   FRED server times out a lot (depending on use). The URL is
+   *                  sent to FRED 'retries' times.
+   * @param delay     Time to delay between URL retries in seconds.
+   * 
+   * @return Number of items processed
+   * 
+   * @throws FileNotFoundException File problems exception.
    */
-  private static int process(List<Release> relList, int retries, int delay, String seriesLib, String fredlib) throws FileNotFoundException {
+  private static int process(List<Release> relList, String seriesLib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
     int totalProcessed = 0;
 
@@ -102,23 +125,18 @@ public class PullAll {
 
       try (PrintWriter pw = new PrintWriter(fn)) {
 
-        String s = String.format("Id : %s  %s", rel.getId(), rel.getName());
+        String s = String.format("Release  Id : %s\t%s", rel.getId(), rel.getName());
         pw.println(s);
 
-        List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay, "FredLib");
+        List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay);
 
         System.out.println(String.format("Processed querySeriesPerRelease for %-25s %5d  %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
 
         if (serList.size() > 0) {
           for (Series ser : serList) {
 
-            String t = ser.getTitle().trim();
-            if (t.length() > 120) {
-              t = t.substring(0, 119);
-            }
-
-            String sum = String.format("%-30s%-120s %-4s %-12s %-15s", ser.getId(), t, ser.getSeasonalAdjustmentShort(), ser.getLastUpdate(),
-                ser.getFrequency());
+            LocalFormat lf = new LocalFormat(ser, rel.getId(), rel.getName(), fredlib);
+            String sum = lf.formatline();
             pw.println(sum);
 
             allSeriesPw.printf("%s  %-3s %-1s%n", sum, rel.getId(), rel.getName());

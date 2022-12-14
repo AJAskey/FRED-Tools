@@ -1,6 +1,7 @@
 out/*
 bin/*
 debug/*
+backup/*
 tools/target/*
 data/*.csv
 FredLib/*

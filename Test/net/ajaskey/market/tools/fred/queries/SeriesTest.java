@@ -16,14 +16,14 @@ class SeriesTest {
 
     ApiKey.set();
 
-    Series ser1 = Series.query("CMWRPOP", 10, 2, "FredLib");
+    Series ser1 = Series.query("CMWRPOP", 10, 2);
     System.out.println(ser1);
 
-    Series ser2 = Series.query("GDP", 10, 2, "FredLib");
+    Series ser2 = Series.query("GDP", 10, 2);
     System.out.println(ser2);
 
     // JTU7100QUL
-    Series ser3 = Series.query("JTU7100QUL", 10, 2, "FredLib");
+    Series ser3 = Series.query("JTU7100QUL", 10, 2);
     System.out.println(ser3);
   }
 
@@ -33,15 +33,13 @@ class SeriesTest {
 
     ApiKey.set();
 
-    final List<Series> serList = Series.querySeriesPerRelease("53", 2, 15, "FredLib");
+    final List<Series> serList = Series.querySeriesPerRelease("53", 2, 15);
 
     System.out.println("Series knt : " + serList.size());
 
     int knt = 0;
     String dbg = "All Seried Ids returned : " + Utils.NL;
     for (Series s : serList) {
-
-      s.setFileDate("D:\\github\\FRED-Git\\FRED-Tools\\FredLib");
 
       knt++;
       Debug.LOGGER.info(knt + "  " + s);
