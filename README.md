@@ -32,7 +32,8 @@
  
 1. Release - Queries FRED for all the Release data available.
 2. Series - Queries FRED for individual Series or all Series associated with a Release.
-3. Category - Queries FRED for Category data available. *(This one needs some more work.)*
+3. Observations - Queries FRED for date/value pairs associated with a Series.
+4. Category - Queries FRED for Category data available. *(This one needs some more work.)*
  
 ---
  
