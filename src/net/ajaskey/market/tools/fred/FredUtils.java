@@ -267,7 +267,7 @@ public class FredUtils {
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + dsi.getFileDt());
       pwShort.println("Date," + dsi.getName());
-      for (final DataValues dv : ds.getDvList()) {
+      for (final DateValue dv : ds.getDvList()) {
         final String date = dv.getDate().format("yyyy-MM-dd");
         final double d = dv.getValue() * scaler;
         pw.printf("%s,%.2f%n", date, d);

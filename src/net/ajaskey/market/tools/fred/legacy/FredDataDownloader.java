@@ -30,7 +30,7 @@ import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.DataSeries;
 import net.ajaskey.market.tools.fred.DataSeries.AggregationMethodType;
 import net.ajaskey.market.tools.fred.DataSeriesInfo;
-import net.ajaskey.market.tools.fred.DataValues;
+import net.ajaskey.market.tools.fred.DateValue;
 
 public class FredDataDownloader {
 
@@ -103,7 +103,7 @@ public class FredDataDownloader {
 
     Debug.Log("Querying for data values ...\n");
 
-    List<DataValues> dvList = null;
+    List<DateValue> dvList = null;
     for (int i = 0; i <= FredDataDownloader.maxRetries; i++) {
       Utils.sleep(1000 * 5 * i + 250);
       dvList = ds.getValues(0.0, false, false);

@@ -37,10 +37,10 @@ public class DateValueSorter implements Comparator<DateValue> {
 
     try {
       int ret = 0;
-      if (d1.date.isGreaterThan(d2.date)) {
+      if (d1.getDate().isGreaterThan(d2.getDate())) {
         ret = 1;
       }
-      else if (d1.date.isLessThan(d2.date)) {
+      else if (d1.getDate().isLessThan(d2.getDate())) {
         ret = -1;
       }
       return ret;

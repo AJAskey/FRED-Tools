@@ -19,62 +19,75 @@
 
 package net.ajaskey.market.tools.fred;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import net.ajaskey.common.DateTime;
 
 public class DateValue {
 
-  public final static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-
-  public DateTime date;
-  public boolean  valid;
-
-  public double value;
+  private DateTime date;
+  private double   value;
+  private boolean  valid;
 
   /**
+   * 
    * This method serves as a constructor for the class.
    *
-   * @param dv
+   * @param sDate
+   * @param sVal
    */
-  public DateValue(final DateValue dv) {
+  public DateValue(final String sDate, final String sVal) {
 
-    this.date = dv.date;
-    this.value = dv.value;
     this.valid = true;
-  }
-
-  /**
-   * This method serves as a constructor for the class.
-   *
-   */
-  public DateValue(final String str, final int fptr) {
-
-    this.valid = false;
     try {
-      if (str.trim().length() > 10) {
-        final String fld[] = str.trim().split(",");
-        if (fld.length > 1) {
-          final Date dat = DateValue.sdf.parse(fld[0].trim());
-          this.date = new DateTime(dat);
-          final String field = fld[fptr].replaceAll("\"", "").replaceAll(",", "").trim();
-          this.value = Double.parseDouble(field);
-          this.valid = true;
-        }
+      if (sDate.length() == 10) {
+        this.date = new DateTime(sDate, "yyyy-MM-dd");
       }
+      else {
+        this.valid = false;
+      }
+      this.value = Double.parseDouble(sVal);
     }
     catch (final Exception e) {
-      this.date = null;
       this.value = 0.0;
       this.valid = false;
     }
   }
 
+  public DateValue(final DateTime dt, final double val) {
+
+    this.valid = true;
+    try {
+      this.date = new DateTime(dt);
+      this.value = val;
+    }
+    catch (final Exception e) {
+      this.value = 0.0;
+      this.valid = false;
+    }
+  }
+
+  /**
+   * @return the date
+   */
+  public DateTime getDate() {
+
+    return this.date;
+  }
+
+  /**
+   * @return the value
+   */
+  public double getValue() {
+
+    return this.value;
+  }
+
   @Override
   public String toString() {
 
-    final String ret = String.format("%s\t%.2f", this.date, this.value);
-    return ret;
+    return String.format("%s\t%f", this.date, this.value);
+  }
+
+  public boolean isValid() {
+    return valid;
   }
 }

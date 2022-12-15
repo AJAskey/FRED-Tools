@@ -27,11 +27,9 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -42,7 +40,7 @@ import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.DataSeriesInfo;
-import net.ajaskey.market.tools.fred.DataValues;
+import net.ajaskey.market.tools.fred.DateValue;
 import net.ajaskey.market.tools.fred.FredUtils;
 
 public class FredCommon {
@@ -348,47 +346,6 @@ public class FredCommon {
     }
 
     return null;
-  }
-
-  /**
-   *
-   * net.ajaskey.market.tools.fred.readFromOptuma
-   *
-   * @param fname
-   * @return
-   */
-  public static List<DataValues> readFromOptuma(final String fname) {
-
-    final List<DataValues> ret = new ArrayList<>();
-    try (BufferedReader reader = new BufferedReader(new FileReader(fname))) {
-
-      String line;
-      // Utils.printCalendar(d.getDate());
-      while ((line = reader.readLine()) != null) {
-        final String str = line.trim();
-        if (str.length() > 4 && !str.toLowerCase().contains("date")) {
-          final String fld[] = str.split(",");
-          final Date d = DataValues.sdf.parse(fld[0].trim());
-          final DateTime dt = new DateTime(d);
-          final double val = Double.parseDouble(fld[1].trim());
-          final DataValues dv = new DataValues(dt, val);
-          ret.add(dv);
-        }
-
-      }
-    }
-    catch (final FileNotFoundException e) {
-      ret.clear();
-    }
-    catch (final IOException e) {
-      ret.clear();
-    }
-    catch (final ParseException e) {
-      ret.clear();
-    }
-
-    return ret;
-
   }
 
   public static List<DataSeriesInfo> readSeriesInfo(final String fname) throws FileNotFoundException, IOException {
@@ -703,7 +660,7 @@ public class FredCommon {
    * @param seriesName
    * @param freq
    */
-  public static void writeToOptuma(final List<DataValues> data, final String fullFileName, final String seriesName, final String units,
+  public static void writeToOptuma(final List<DateValue> data, final String fullFileName, final String seriesName, final String units,
       final String freq, final boolean propagate) {
 
     final double scaler = FredCommon.getScaler(units);
@@ -721,7 +678,7 @@ public class FredCommon {
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + seriesName);
       pwShort.println("Date," + seriesName);
-      for (final DataValues dv : data) {
+      for (final DateValue dv : data) {
         final String date = dv.getDate().format("yyyy-MM-dd");
         final double d = dv.getValue() * scaler;
         pw.printf("%s,%.2f%n", date, d);

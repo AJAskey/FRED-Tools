@@ -18,13 +18,10 @@
  */
 package net.ajaskey.market.tools.fred.queries;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.StringReader;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -46,11 +43,10 @@ import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataSeries;
 import net.ajaskey.market.tools.fred.DataSeries.ResponseType;
-import net.ajaskey.market.tools.fred.FredUtils;
 
 public class Series {
 
-  public final static SimpleDateFormat        sdf       = new SimpleDateFormat("yyyy-MM-dd");
+  public final static SimpleDateFormat        sdf       = new SimpleDateFormat("dd-MMM-yyyy");
   private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder  = null;
 
@@ -71,7 +67,7 @@ public class Series {
    * @param delay
    * @return
    */
-  public static List<Series> querySeriesPerRelease(String release_id, int retries, int delay, String fredlib) {
+  public static List<Series> querySeriesPerRelease(String release_id, int retries, int delay) {
 
     Series.seriesList.clear();
 
@@ -79,7 +75,9 @@ public class Series {
     boolean readmore = true;
     while (readmore) {
       Debug.LOGGER.info(String.format("%n---------%ncalling fredSeriesPerSeriesQuery.  release_id=%s  offset=%d", release_id, offset));
-      final int num = Series.fredSeriesPerReleaseQuery(release_id, offset, retries, delay, fredlib);
+
+      final int num = Series.processSeriesPerReleaseQuery(release_id, offset, retries, delay);
+
       if (num < 1000) {
         readmore = false;
       }
@@ -99,13 +97,11 @@ public class Series {
    * @param fredlib
    * @return
    */
-  public static Series query(String id, int retries, int delay, String fredlib) {
+  public static Series query(String id, int retries, int delay) {
 
     Series ser = new Series();
 
     try {
-
-      // https://api.stlouisfed.org/fred/series?series_id=GNPCA&api_key=
 
       // URL to query a list of series associated with the release_id parameter
       final String url = String.format("https://api.stlouisfed.org/fred/series?series_id=%s&api_key=%s", id, ApiKey.get());
@@ -113,7 +109,7 @@ public class Series {
       // XML representing the series data
       final String resp = Utils.getFromUrl(url, retries, delay);
 
-      ser = processResponse(resp, url, fredlib);
+      ser = processResponse(resp, url);
 
     }
     catch (final Exception e) {
@@ -127,16 +123,17 @@ public class Series {
   }
 
   /**
+   * Private method performing actual query to FRED.
    * 
    * @param response
    * @param url
    * @param fredlib
-   * @return
+   * @return One instance of Series data
    * @throws SAXException
    * @throws IOException
    * @throws ParserConfigurationException
    */
-  private static Series processResponse(String response, String url, String fredlib) throws SAXException, IOException, ParserConfigurationException {
+  private static Series processResponse(String response, String url) throws SAXException, IOException, ParserConfigurationException {
 
     Series ser = new Series();
 
@@ -171,38 +168,13 @@ public class Series {
           ser.setLastUpdate(eElement.getAttribute("last_updated").trim());
           ser.setFirstObservation(eElement.getAttribute("observation_start").trim());
           ser.setLastObservation(eElement.getAttribute("observation_end").trim());
-          ser.setFileDate(null);
-          if (ser.title.length() > 0) {
-            ser.setFullfilename(FredUtils.toFullFileName(ser.id, ser.title));
-          }
           ser.notes = eElement.getAttribute("notes").trim();
 
           final boolean newSer = Series.uniqSeries.add(ser.id);
           if (newSer) {
 
-            try {
-              String fname = String.format("%s/%s.csv", fredlib, ser.getId());
-              File f = new File(fname);
-              if (f.exists()) {
-                ser.setLocalfile(fname);
-                ser.setLocalfiledate(new DateTime(f.lastModified()));
-                ser.setUpdateAvailable(ser.localfiledate.isLessThan(ser.lastUpdate));
-              }
-              else {
-                ser.setLocalfile("");
-                ser.setLocalfiledate(null);
-              }
-            }
-            catch (Exception e) {
-              ser.setLocalfile("");
-              ser.setLocalfiledate(null);
-              e.printStackTrace();
-            }
-
             ser.setValid(true);
-            Debug.LOGGER.info(String.format("Adding series data. %s", ser.getId()));
 
-            Series.seriesList.add(ser);
           }
           else {
             /**
@@ -214,6 +186,9 @@ public class Series {
           }
         }
       }
+    }
+    else {
+      Debug.LOGGER.info("Warning. No response data returned from FRED.");
     }
 
     return ser;
@@ -228,7 +203,7 @@ public class Series {
    * 
    * Another query is executed with the offset parameter incremented by 1000.
    * 
-   * Experiements have found the FRED often returns two blocks of 1000 data items
+   * Experiments have found the FRED often returns two blocks of 1000 data items
    * when only 1500 are available. Processing stops an Id to be added to the data
    * more than once.
    * 
@@ -239,9 +214,9 @@ public class Series {
    * @param offset
    * @param retries
    * @param delay
-   * @return
+   * @return a List of Query data
    */
-  private static int fredSeriesPerReleaseQuery(String release_id, int offset, int retries, int delay, String fredlib) {
+  private static int processSeriesPerReleaseQuery(String release_id, int offset, int retries, int delay) {
 
     int totalProcessed = 0;
 
@@ -289,34 +264,11 @@ public class Series {
             ser.setLastUpdate(eElement.getAttribute("last_updated").trim());
             ser.setFirstObservation(eElement.getAttribute("observation_start").trim());
             ser.setLastObservation(eElement.getAttribute("observation_end").trim());
-            ser.setFileDate(null);
-            if (ser.title.length() > 0) {
-              ser.setFullfilename(FredUtils.toFullFileName(ser.id, ser.title));
-            }
+
             ser.notes = eElement.getAttribute("notes").trim();
 
             final boolean newSer = Series.uniqSeries.add(ser.id);
             if (newSer) {
-
-              try {
-                String fname = String.format("%s/%s.csv", fredlib, ser.getId());
-                File f = new File(fname);
-                if (f.exists()) {
-                  ser.setLocalfile(fname);
-                  ser.setLocalfiledate(new DateTime(f.lastModified()));
-                  ser.setUpdateAvailable(ser.localfiledate.isLessThan(ser.lastUpdate));
-
-                }
-                else {
-                  ser.setLocalfile("");
-                  ser.setLocalfiledate(null);
-                }
-              }
-              catch (Exception e) {
-                ser.setLocalfile("");
-                ser.setLocalfiledate(null);
-                e.printStackTrace();
-              }
 
               ser.setValid(true);
               Debug.LOGGER.info(String.format("Adding series data. %s", ser.getId()));
@@ -335,6 +287,9 @@ public class Series {
           }
         }
       }
+      else {
+        Debug.LOGGER.info("Warning. No response data returned from FRED.");
+      }
     }
     catch (final Exception e) {
       e.printStackTrace();
@@ -348,28 +303,38 @@ public class Series {
   private String   id;
   private String   title;
   private String   frequency;
-  private DateTime firstObservation;
-  private DateTime lastObservation;
+  private String   firstObservation;
+  private String   lastObservation;
   private DateTime lastUpdate;
-  private String   fullfilename;
   private String   seasonalAdjustment;
   private String   seasonalAdjustmentShort;
   private String   units;
   private String   notes;
   private String   releaseId;
-  private String   localfile;
-  private DateTime localfiledate;
-  private boolean  updateAvailable;
-  private boolean  valid;
+
+  private boolean valid;
 
   private DataSeries.ResponseType type;
 
   public Series() {
-    this.updateAvailable = false;
+
+    url = "";
+    id = "";
+    title = "";
+    frequency = "";
+    firstObservation = null;
+    lastObservation = null;
+    lastUpdate = null;
+    seasonalAdjustment = "";
+    seasonalAdjustmentShort = "";
+    units = "";
+    notes = "";
+    releaseId = "";
+
     this.valid = false;
   }
 
-  public DateTime getFirstObservation() {
+  public String getFirstObservation() {
     return this.firstObservation;
   }
 
@@ -377,28 +342,16 @@ public class Series {
     return this.frequency;
   }
 
-  public String getFullfilename() {
-    return this.fullfilename;
-  }
-
   public String getId() {
     return this.id;
   }
 
-  public DateTime getLastObservation() {
+  public String getLastObservation() {
     return this.lastObservation;
   }
 
   public DateTime getLastUpdate() {
     return this.lastUpdate;
-  }
-
-  public String getLocalfile() {
-    return this.localfile;
-  }
-
-  public DateTime getLocalfiledate() {
-    return this.localfiledate;
   }
 
   public String getNotes() {
@@ -437,25 +390,6 @@ public class Series {
     return this.valid;
   }
 
-  public void setFileDate(String fredLib) {
-    final String fname = String.format("%s/%s.csv", fredLib, this.getId());
-    final File f = new File(fname);
-    if (f.exists()) {
-      this.localfiledate = new DateTime(f.lastModified());
-    }
-    else {
-      this.localfiledate = null;
-    }
-  }
-
-  public void setLocalfile(String localfile) {
-    this.localfile = localfile;
-  }
-
-  public void setLocalfiledate(DateTime localfiledate) {
-    this.localfiledate = localfiledate;
-  }
-
   @Override
   public String toString() {
 
@@ -467,7 +401,6 @@ public class Series {
     ret += " Adjustment        : " + this.seasonalAdjustment + Utils.NL;
     ret += " Adjustment S      : " + this.seasonalAdjustmentShort + Utils.NL;
     ret += " Type              : " + this.type + Utils.NL;
-    ret += " Full filename     : " + this.fullfilename + Utils.NL;
     ret += " Notes             : " + this.notes + Utils.NL;
     if (this.lastUpdate != null) {
       ret += " Last Update       : " + this.lastUpdate + Utils.NL;
@@ -478,60 +411,46 @@ public class Series {
     if (this.lastObservation != null) {
       ret += " Last Observation  : " + this.lastObservation + Utils.NL;
     }
-    if (this.localfiledate != null) {
-      ret += " Local File        : " + this.localfile + "   " + this.localfiledate.toFullString() + "   Update=" + this.updateAvailable;
-    }
-    else {
-      ret += " File Date         : " + "File not found.";
-    }
     ret += Utils.NL;
     ret += this.url + Utils.NL;
     return ret;
   }
 
+  /**
+   * 
+   * @param dateTimeStr
+   */
   void setFirstObservation(String dateTimeStr) {
-    Date d;
-    try {
-      d = Series.sdf.parse(dateTimeStr);
-      this.firstObservation = new DateTime(d);
-    }
-    catch (final ParseException e) {
-      e.printStackTrace();
-    }
+    this.firstObservation = dateTimeStr;
   }
 
   void setFrequency(String frequency) {
     this.frequency = frequency;
   }
 
-  void setFullfilename(String fullfilename) {
-    this.fullfilename = fullfilename;
-  }
-
   void setId(String id) {
     this.id = id;
   }
 
+  /**
+   * 
+   * @param dateTimeStr
+   */
   void setLastObservation(String dateTimeStr) {
-    Date d;
-    try {
-      d = Series.sdf.parse(dateTimeStr);
-      this.lastObservation = new DateTime(d);
-    }
-    catch (final ParseException e) {
-      e.printStackTrace();
-    }
+    this.lastObservation = dateTimeStr;
   }
 
+  /**
+   * 
+   * @param dateTimeStr
+   */
   void setLastUpdate(String dateTimeStr) {
-    Date d;
-    try {
-      d = Series.sdf.parse(dateTimeStr);
-      this.lastUpdate = new DateTime(d);
-    }
-    catch (final ParseException e) {
-      e.printStackTrace();
-    }
+    String tmp = dateTimeStr.substring(0, 19);
+    this.lastUpdate = new DateTime(tmp, "yyyy-MM-dd hh:mm:ss");
+  }
+
+  void setLastUpdate(DateTime dt) {
+    this.lastUpdate = new DateTime(dt);
   }
 
   void setNotes(String note) {
@@ -566,11 +485,4 @@ public class Series {
     this.valid = valid;
   }
 
-  public boolean isUpdateAvailable() {
-    return updateAvailable;
-  }
-
-  void setUpdateAvailable(boolean updateAvailable) {
-    this.updateAvailable = updateAvailable;
-  }
 }

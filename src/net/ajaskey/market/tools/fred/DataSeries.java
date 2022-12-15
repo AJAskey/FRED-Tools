@@ -86,9 +86,9 @@ public class DataSeries {
       ds.setAggType(AggregationMethodType.EOP);
       // ds.setOrder(OrderType.DESC);
       ds.setRespType(ResponseType.LIN);
-      final List<DataValues> dvList = ds.getValues(1.0, true, false);
+      final List<DateValue> dvList = ds.getValues(1.0, true, false);
 
-      for (final DataValues d : dvList) {
+      for (final DateValue d : dvList) {
         System.out.println(d.getDate() + "  " + d.getValue());
       }
 
@@ -111,7 +111,7 @@ public class DataSeries {
   private int                          respKnt;
   private ResponseType                 respType;
   private boolean                      valid;
-  private List<DataValues>             dvList;
+  private List<DateValue>             dvList;
 
   /**
    * This method serves as a constructor for the class.
@@ -191,7 +191,7 @@ public class DataSeries {
     return "&aggregation_type=" + this.aggType.toString().toLowerCase();
   }
 
-  public List<DataValues> getDvList() {
+  public List<DateValue> getDvList() {
     return this.dvList;
   }
 
@@ -274,9 +274,9 @@ public class DataSeries {
    * @param estimateData
    * @return
    */
-  public List<DataValues> getValues(final double futureChg, final boolean noZeroValues, final boolean estimateData) {
+  public List<DateValue> getValues(final double futureChg, final boolean noZeroValues, final boolean estimateData) {
 
-    final List<DataValues> retList = new ArrayList<>();
+    final List<DateValue> retList = new ArrayList<>();
 
     final String url = "https://api.stlouisfed.org/fred/series/observations?series_id=" + this.name + this.getAggType() + this.getFileType()
         + this.getLimit() + this.getOffset() + this.getOrder() + this.getRespType() + "&api_key=" + ApiKey.get();
@@ -307,7 +307,7 @@ public class DataSeries {
           final Node nNode = nList.item(ptr);
           if (nNode.getNodeType() == Node.ELEMENT_NODE) {
             final Element eElement = (Element) nNode;
-            final DataValues dv = new DataValues(eElement.getAttribute("date"), eElement.getAttribute("value"));
+            final DateValue dv = new DateValue(eElement.getAttribute("date"), eElement.getAttribute("value"));
             final int zeroCheck = (int) (dv.getValue() * 1000.0);
 
             if (noZeroValues && zeroCheck == 0) {
@@ -441,7 +441,7 @@ public class DataSeries {
    * @param retList
    * @param futureChg
    */
-  private void appendEstimates(final List<DataValues> retList, final double futureChg) {
+  private void appendEstimates(final List<DateValue> retList, final double futureChg) {
 
     this.setPeriod(this.info.getFrequency());
 
@@ -472,14 +472,14 @@ public class DataSeries {
     dtLast.add(duration, periodKnt);
 
     final double val = last + last * (futureChg / 100.0);
-    final DataValues dv = new DataValues(dtLast, val);
+    final DateValue dv = new DateValue(dtLast, val);
     retList.add(dv);
 
     final DateTime tmp = new DateTime(dtLast.getCal());
     while (tmp.isLessThan(dt)) {
       final DateTime nCal = new DateTime(tmp.getCal());
       nCal.add(duration, periodKnt);
-      final DataValues dv1 = new DataValues(nCal, val);
+      final DateValue dv1 = new DateValue(nCal, val);
       retList.add(dv1);
       tmp.set(nCal.getCal().get(DateTime.YEAR), nCal.getCal().get(DateTime.MONTH), nCal.getCal().get(DateTime.DATE));
     }

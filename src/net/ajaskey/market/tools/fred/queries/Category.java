@@ -68,7 +68,7 @@ public class Category {
 
       String url = String.format("https://api.stlouisfed.org/fred/category?category_id=%d&api_key=&api_key=%s", id, ApiKey.get());
 
-      final String resp = Utils.getFromUrl(url, 6, 7);
+      final String resp = Utils.getFromUrl(url, 6, 15);
 
       if (resp.length() > 0) {
 
