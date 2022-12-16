@@ -271,7 +271,7 @@ public class Series {
             if (newSer) {
 
               ser.setValid(true);
-              Debug.LOGGER.info(String.format("Adding series data. %s", ser.getId()));
+              Debug.LOGGER.info(String.format("Adding series data.%n%s", ser));
 
               Series.seriesList.add(ser);
             }
@@ -288,7 +288,7 @@ public class Series {
         }
       }
       else {
-        Debug.LOGGER.info("Warning. No response data returned from FRED.");
+        Debug.LOGGER.info(String.format("Warning. No response data returned from FRED for ReleaseId=%s  offset=%d", release_id, offset));
       }
     }
     catch (final Exception e) {
@@ -299,21 +299,19 @@ public class Series {
     return totalProcessed;
   }
 
-  private String   url;
-  private String   id;
-  private String   title;
-  private String   frequency;
-  private String   firstObservation;
-  private String   lastObservation;
-  private DateTime lastUpdate;
-  private String   seasonalAdjustment;
-  private String   seasonalAdjustmentShort;
-  private String   units;
-  private String   notes;
-  private String   releaseId;
-
-  private boolean valid;
-
+  private String                  url;
+  private String                  id;
+  private String                  title;
+  private String                  frequency;
+  private String                  units;
+  private String                  firstObservation;
+  private String                  lastObservation;
+  private DateTime                lastUpdate;
+  private String                  seasonalAdjustment;
+  private String                  seasonalAdjustmentShort;
+  private String                  notes;
+  private String                  releaseId;
+  private boolean                 valid;
   private DataSeries.ResponseType type;
 
   public Series() {

@@ -49,13 +49,13 @@ public class Observations {
 
     ApiKey.set();
 
-    final Observations obs = Observations.queryObservation("GDP");
+    final Observations obs = Observations.queryObservation("GDP", 7, 8);
 
     System.out.println(obs);
 
   }
 
-  public static Observations queryObservation(String id) {
+  public static Observations queryObservation(String id, int retries, int delay) {
 
     final Observations obs = new Observations(id);
 
@@ -63,7 +63,7 @@ public class Observations {
 
       final String url = String.format("https://api.stlouisfed.org/fred/series/observations?series_id=%s&api_key=%s", id, ApiKey.get());
 
-      final String resp = Utils.getFromUrl(url, 6, 7);
+      final String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
 
@@ -124,10 +124,12 @@ public class Observations {
             }
           }
         }
+        obs.valid = true;
       }
     }
     catch (final Exception e) {
       e.printStackTrace();
+      obs.valid = false;
     }
 
     return obs;
@@ -135,19 +137,19 @@ public class Observations {
 
   private final String id;
 
-  private String                 realtimeStart;
-  private String                 realtimeEnd;
-  private String                 observationStart;
-  private String                 observationEnd;
-  private String                 units;
-  private String                 outputType;
-  private String                 fileType;
-  private String                 orderBy;
-  private String                 sortOrder;
-  private int                    count;
-  private int                    offset;
-  private int                    limit;
-  private boolean                valid;
+  private String                realtimeStart;
+  private String                realtimeEnd;
+  private String                observationStart;
+  private String                observationEnd;
+  private String                units;
+  private String                outputType;
+  private String                fileType;
+  private String                orderBy;
+  private String                sortOrder;
+  private int                   count;
+  private int                   offset;
+  private int                   limit;
+  private boolean               valid;
   private final List<DateValue> dvList;
 
   /**
@@ -157,6 +159,7 @@ public class Observations {
    */
   public Observations(String id) {
     this.id = id;
+    this.valid = false;
     this.dvList = new ArrayList<>();
   }
 
@@ -230,14 +233,15 @@ public class Observations {
     ret += "Order By          : " + this.orderBy + Utils.NL;
     ret += "Offset            : " + this.offset + Utils.NL;
     ret += "Limit             : " + this.limit + Utils.NL;
-    ret += "Realtime Start    : " + this.realtimeStart + Utils.NL;
-    ret += "Realtime End      : " + this.realtimeEnd + Utils.NL;
-    ret += "Observation Start : " + this.observationStart + Utils.NL;
-    ret += "Observation End   : " + this.observationEnd + Utils.NL;
+//    ret += "Realtime Start    : " + this.realtimeStart + Utils.NL;
+//    ret += "Realtime End      : " + this.realtimeEnd + Utils.NL;
+//    ret += "Observation Start : " + this.observationStart + Utils.NL;
+//    ret += "Observation End   : " + this.observationEnd + Utils.NL;
     ret += "Count             : " + this.count + Utils.NL;
-    for (DateValue dv : this.dvList) {
-      ret += " Date / Value     : " + dv.getDate() + " / " + dv.getValue() + Utils.NL;
-    }
+    ret += String.format("First/Last Date   : %s  %s", dvList.get(0).getDate(), dvList.get(dvList.size() - 1).getDate());
+//    for (DateValue dv : this.dvList) {
+//      ret += " Date / Value     : " + dv.getDate() + " / " + dv.getValue() + Utils.NL;
+//    }
 
     return ret;
   }

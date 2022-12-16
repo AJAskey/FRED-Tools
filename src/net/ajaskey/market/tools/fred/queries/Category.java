@@ -55,6 +55,55 @@ public class Category {
     this.valid = false;
   }
 
+  public static List<Category> queryCategoriesPerSeries(String series_id) {
+
+    List<Category> catList = new ArrayList<>();
+
+    try {
+
+      String url = String.format("https://api.stlouisfed.org/fred/series/categories?series_id=%s&api_key=&api_key=%s", series_id, ApiKey.get());
+
+      final String resp = Utils.getFromUrl(url, 6, 8);
+
+      if (resp.length() > 0) {
+        if (dBuilder == null) {
+          dBuilder = dbFactory.newDocumentBuilder();
+        }
+
+        final Document doc = dBuilder.parse(new InputSource(new StringReader(resp)));
+
+        doc.getDocumentElement().normalize();
+
+        final NodeList nResp = doc.getElementsByTagName("category");
+
+        for (int knt = 0; knt < nResp.getLength(); knt++) {
+
+          final Node nodeResp = nResp.item(knt);
+
+          if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
+
+            Category cat = new Category();
+
+            final Element eElement = (Element) nodeResp;
+
+            cat.id = eElement.getAttribute("id").trim();
+            cat.name = eElement.getAttribute("name").trim();
+            cat.parent_id = eElement.getAttribute("parent_id").trim();
+            cat.valid = true;
+            catList.add(cat);
+
+            Debug.LOGGER.info(String.format("Processed Serid_id=%s  cat : %s", series_id, cat));
+          }
+        }
+      }
+    }
+    catch (Exception e) {
+      e.printStackTrace();
+    }
+
+    return catList;
+  }
+
   /**
    * 
    * @param id Numerical id of the FRED category.
@@ -116,7 +165,7 @@ public class Category {
     ApiKey.set();
     Debug.init("debug/Category.dbg", java.util.logging.Level.INFO);
 
-    List<Category> catList = new ArrayList<>();
+    List<Category> catList = queryCategoriesPerSeries("EXJPUS");
 
     final Set<Integer> uniqPids = new HashSet<>();
 

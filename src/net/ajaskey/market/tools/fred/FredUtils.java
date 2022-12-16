@@ -14,6 +14,7 @@ import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
 import net.ajaskey.common.Utils;
+import net.ajaskey.market.tools.fred.queries.Observations;
 
 public class FredUtils {
 
@@ -279,6 +280,53 @@ public class FredUtils {
       e.printStackTrace();
     }
     dsi.setLastUpdate(new DateTime(file.lastModified()));
+  }
+
+  public static void writeToLibNew(Observations obs, LocalFormat lf, String dir) {
+
+    double scaler = 0.0;
+    if (lf.getUnits().equals("B")) {
+      scaler = FredUtils.BILLION;
+    }
+    else if (lf.getUnits().equals("M")) {
+      scaler = FredUtils.MILLION;
+    }
+    else if (lf.getUnits().equals("T")) {
+      scaler = FredUtils.THOUSAND;
+    }
+
+    final String fullFileName = FredUtils.toFullFileName(obs.getId(), lf.getTitle());
+
+    String ffn = dir + "/" + fullFileName.replace(">", "greater") + ".csv";
+    final File file = new File(ffn);
+    final File fileshort = new File(dir + "/" + obs.getId() + ".csv");
+
+    Debug.LOGGER.info(String.format("Long File=%s    ShortFile=%s", file.getAbsoluteFile(), fileshort.getAbsoluteFile()));
+
+    // Remove existing file so new file will show date of creation. Must be a
+    // Windows feature to keep original file date when it is overwritten with new.
+    if (file.exists()) {
+      file.delete();
+    }
+    if (fileshort.exists()) {
+      fileshort.delete();
+    }
+
+    try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
+      pw.println("Date," + obs.getId());
+      pwShort.println("Date," + obs.getId());
+      for (final DateValue dv : obs.getDvList()) {
+        final String sDate = dv.getDate().format("yyyy-MM-dd");
+        final double d = dv.getValue() * scaler;
+        pw.printf("%s,%.2f%n", sDate, d);
+        pwShort.printf("%s,%.2f%n", sDate, d);
+      }
+    }
+    catch (final FileNotFoundException e) {
+      ffn = "Error";
+      e.printStackTrace();
+      Debug.LOGGER.info(String.format("Exception caught for %s", lf.getId()));
+    }
   }
 
   /**

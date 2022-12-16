@@ -91,6 +91,8 @@ public class PullAll {
     System.out.printf("processed = %d%n", num);
 
     allSeriesPw.close();
+
+    Debug.LOGGER.info(Utils.NL + "-----------------------" + Utils.NL + "Processing complete!");
   }
 
   /**
