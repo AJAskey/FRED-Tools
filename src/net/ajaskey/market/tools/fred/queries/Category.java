@@ -20,10 +20,7 @@ package net.ajaskey.market.tools.fred.queries;
 
 import java.io.StringReader;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -55,7 +52,7 @@ public class Category {
     this.valid = false;
   }
 
-  public static List<Category> queryCategoriesPerSeries(String series_id) {
+  public static List<Category> queryCategoriesPerSeries(String series_id, int retries, int delay) {
 
     List<Category> catList = new ArrayList<>();
 
@@ -63,7 +60,7 @@ public class Category {
 
       String url = String.format("https://api.stlouisfed.org/fred/series/categories?series_id=%s&api_key=&api_key=%s", series_id, ApiKey.get());
 
-      final String resp = Utils.getFromUrl(url, 6, 8);
+      final String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
         if (dBuilder == null) {
@@ -109,7 +106,7 @@ public class Category {
    * @param id Numerical id of the FRED category.
    * @return Data from the category
    */
-  public static Category queryCategory(int id) {
+  public static Category queryCategory(int id, int retries, int delay) {
 
     Category cat = new Category();
 
@@ -117,7 +114,7 @@ public class Category {
 
       String url = String.format("https://api.stlouisfed.org/fred/category?category_id=%d&api_key=&api_key=%s", id, ApiKey.get());
 
-      final String resp = Utils.getFromUrl(url, 6, 15);
+      final String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
 
@@ -164,42 +161,6 @@ public class Category {
 
     ApiKey.set();
     Debug.init("debug/Category.dbg", java.util.logging.Level.INFO);
-
-    List<Category> catList = queryCategoriesPerSeries("EXJPUS");
-
-    final Set<Integer> uniqPids = new HashSet<>();
-
-    for (int i = 0; i < 115; i++) {
-
-      Category cat = queryCategory(i);
-      if (cat.isValid()) {
-        catList.add(cat);
-        try {
-          int pid = Integer.parseInt(cat.parent_id);
-          if (pid > 115) {
-            uniqPids.add(pid);
-          }
-        }
-        catch (Exception e) {
-        }
-        System.out.println(cat);
-      }
-    }
-
-    List<Integer> pidList = new ArrayList<>(uniqPids);
-    Collections.sort(pidList);
-
-    for (int pid : pidList) {
-      Category cat = queryCategory(pid);
-      if (cat.isValid()) {
-        catList.add(cat);
-        System.out.println(cat);
-      }
-    }
-
-//    for (Category cat : catList) {
-//      System.out.println(cat);
-//    }
 
   }
 

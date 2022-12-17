@@ -197,7 +197,12 @@ public class Utils {
       if (resp.length() > 0) {
         return resp;
       }
-      Debug.LOGGER.info(String.format("Response with zero length. Retry=%d  Sleep=%d", i + 1, delay));
+      if (i == 0) {
+        Debug.LOGGER.info(String.format("Response with zero length. Retry=%d  Sleep=%d%n%s", i + 1, delay, url));
+      }
+      else {
+        Debug.LOGGER.info(String.format("Response with zero length. Retry=%d  Sleep=%d", i + 1, delay));
+      }
       Utils.sleep(sleeptime);
     }
     return "";
