@@ -34,7 +34,7 @@ import org.xml.sax.InputSource;
 
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
-import net.ajaskey.market.tools.fred.DateValue;
+import net.ajaskey.market.tools.fred.DataValue;
 
 /**
  * Class is used to query observation data from FRED.
@@ -108,7 +108,7 @@ public class Observations {
 
             // System.out.printf("%s\t%s%n", sDate, sValue);
 
-            final DateValue dv = new DateValue(sDate, sValue);
+            final DataValue dv = new DataValue(sDate, sValue);
             if (dv.isValid()) {
               obs.dvList.add(dv);
             }
@@ -140,7 +140,7 @@ public class Observations {
   private int                   offset;
   private int                   limit;
   private boolean               valid;
-  private final List<DateValue> dvList;
+  private final List<DataValue> dvList;
 
   /**
    * Constructor
@@ -157,7 +157,7 @@ public class Observations {
     return this.count;
   }
 
-  public List<DateValue> getDvList() {
+  public List<DataValue> getDvList() {
     return this.dvList;
   }
 

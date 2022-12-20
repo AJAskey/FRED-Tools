@@ -21,13 +21,20 @@ package net.ajaskey.market.tools.fred;
 
 import net.ajaskey.common.DateTime;
 
-public class DateValue {
+public class DataValue {
 
   private DateTime date;
   private double   value;
   private boolean  valid;
 
-  public DateValue(final DateTime dt, final double val) {
+  /**
+   * 
+   * This method serves as a constructor for the class.
+   * 
+   * @param dt
+   * @param val
+   */
+  public DataValue(final DateTime dt, final double val) {
 
     this.valid = true;
     try {
@@ -47,7 +54,7 @@ public class DateValue {
    * @param sDate
    * @param sVal
    */
-  public DateValue(final String sDate, final String sVal) {
+  public DataValue(final String sDate, final String sVal) {
 
     this.valid = true;
     try {

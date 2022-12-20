@@ -10,7 +10,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
 import net.ajaskey.common.Utils;
@@ -173,115 +172,6 @@ public class FredUtils {
     return ret;
   }
 
-  /**
-   *
-   * @param dsi
-   * @param pw
-   * @throws FileNotFoundException
-   */
-  public static void writeSeriesInfo(final List<DataSeriesInfo> dsiList, final String filename) throws FileNotFoundException {
-
-    final DateTime dt = new DateTime();
-
-    final File f = new File(filename);
-    if (f.exists()) {
-      f.delete();
-    }
-
-    try (PrintWriter pw = new PrintWriter(filename)) {
-      pw.printf("%s\t%s%n", FredUtils.infoHeader, dt.toFullString());
-      for (final DataSeriesInfo dsi : dsiList) {
-
-        if (dsi != null) {
-          pw.printf("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s%n", dsi.getName(), dsi.getTitle(), dsi.getSeasonalAdjusted(), dsi.getFrequency(),
-              dsi.getUnits(), dsi.getType().toString(), dsi.getLastUpdate(), dsi.getLastObservation(), dsi.getFirstObservation(),
-              dsi.getFullfilename());
-        }
-      }
-    }
-  }
-
-  /**
-   *
-   * @param dsiList
-   * @param filename
-   * @throws FileNotFoundException
-   */
-  public static void writeSeriesInfoCsv(final List<DataSeriesInfo> dsiList, final String filename) throws FileNotFoundException {
-
-    final DateTime dt = new DateTime();
-
-    try (PrintWriter pw = new PrintWriter(filename)) {
-      pw.printf("%s,%s%n", FredUtils.infoHeaderCsv, dt.toFullString());
-      for (final DataSeriesInfo dsi : dsiList) {
-
-        if (dsi != null) {
-          pw.printf("%s,%s,%s,%s,%s,%s,%s,%s, %s%n", dsi.getName(), dsi.getTitle().replaceAll(",", ";"),
-              dsi.getSeasonalAdjusted().replaceAll(",", ";"), dsi.getFrequency().replaceAll(",", ";"), dsi.getUnits().replaceAll(",", ";"),
-              dsi.getType().toString().replaceAll(",", ";"), dsi.getLastUpdate(), dsi.getLastObservation(), dsi.getFirstObservation());
-        }
-      }
-    }
-  }
-
-  /**
-   * Write the data retrieved from FRED into file pairs per code. One file has the
-   * code as the file name. The other file has a longer description of what is in
-   * the file within '[]'.
-   *
-   * @param fil
-   */
-  public static void writeToLib(DataSeriesInfo dsi, DataSeries ds, String dir) {
-
-    String ffn = "None";
-
-    if (dsi != null && ds != null) {
-      if (!dsi.isValid() || !ds.isValid()) {
-        Debug.LOGGER.info(String.format("Warning. Valid FIL incomplete. Data null %n%s%n%s", dsi, ds));
-        return;
-      }
-      else if (dsi == null || ds == null) {
-        Debug.LOGGER.info(String.format("Warning. FIL incomplete. Data null."));
-        return;
-      }
-    }
-
-    final double scaler = FredUtils.getScaler(dsi.getUnits());
-
-    final String fullFileName = FredUtils.toFullFileName(dsi.getName(), dsi.getTitle());
-
-    ffn = dir + "/" + fullFileName.replace(">", "greater") + ".csv";
-    final File file = new File(ffn);
-    final File fileshort = new File(dir + "/" + dsi.getName() + ".csv");
-
-    Debug.LOGGER.info(String.format("Long File=%s    ShortFile=%s", file.getAbsoluteFile(), fileshort.getAbsoluteFile()));
-
-    // Remove existing file so new file will show date of creation. Must be a
-    // Windows feature to keep original file date when it is overwritten with new.
-    if (file.exists()) {
-      file.delete();
-    }
-    if (fileshort.exists()) {
-      fileshort.delete();
-    }
-
-    try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
-      pw.println("Date," + dsi.getFileDt());
-      pwShort.println("Date," + dsi.getName());
-      for (final DateValue dv : ds.getDvList()) {
-        final String date = dv.getDate().format("yyyy-MM-dd");
-        final double d = dv.getValue() * scaler;
-        pw.printf("%s,%.2f%n", date, d);
-        pwShort.printf("%s,%.2f%n", date, d);
-      }
-    }
-    catch (final FileNotFoundException e) {
-      ffn = "Error";
-      e.printStackTrace();
-    }
-    dsi.setLastUpdate(new DateTime(file.lastModified()));
-  }
-
   public static void writeToLibNew(Observations obs, LocalFormat lf, String dir) {
 
     double scaler = 1.0;
@@ -315,7 +205,7 @@ public class FredUtils {
     try (PrintWriter pw = new PrintWriter(file); PrintWriter pwShort = new PrintWriter(fileshort)) {
       pw.println("Date," + obs.getId());
       pwShort.println("Date," + obs.getId());
-      for (final DateValue dv : obs.getDvList()) {
+      for (final DataValue dv : obs.getDvList()) {
         final String sDate = dv.getDate().format("yyyy-MM-dd");
         final double d = dv.getValue() * scaler;
         pw.printf("%s,%.2f%n", sDate, d);
