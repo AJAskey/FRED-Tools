@@ -54,14 +54,47 @@ public class Series {
   private static Set<String>  uniqSeries = new HashSet<>();
 
   /**
+   *
+   * @param id
+   * @param retries
+   * @param delay
+   * @param fredlib
+   * @return
+   */
+  public static Series query(String id, int retries, int delay) {
+
+    Series ser = new Series();
+
+    try {
+
+      // URL to query a list of series associated with the release_id parameter
+      final String url = String.format("https://api.stlouisfed.org/fred/series?series_id=%s&api_key=%s", id, ApiKey.get());
+
+      // XML representing the series data
+      final String resp = Utils.getFromUrl(url, retries, delay);
+
+      ser = Series.processResponse(resp, url);
+
+    }
+    catch (final Exception e) {
+      e.printStackTrace();
+      ser.setValid(false);
+    }
+
+    Debug.LOGGER.info(String.format("Returning from query."));
+
+    return ser;
+  }
+
+  /**
    * Query FRED for all Series within a Release. Note that FRED returns a maximum
    * of 1000 series per query.
-   * 
+   *
    * If data of 1000 Series are found then another query is run for 1000 more
    * (using the offset parameter). Logic in the processing method determines if
    * FRED has sent the same data twice. A return of less than 1000 series means
    * that all the data has been found at FRED and the queries stop.
-   * 
+   *
    * @param release_id
    * @param retries
    * @param delay
@@ -90,41 +123,8 @@ public class Series {
   }
 
   /**
-   * 
-   * @param id
-   * @param retries
-   * @param delay
-   * @param fredlib
-   * @return
-   */
-  public static Series query(String id, int retries, int delay) {
-
-    Series ser = new Series();
-
-    try {
-
-      // URL to query a list of series associated with the release_id parameter
-      final String url = String.format("https://api.stlouisfed.org/fred/series?series_id=%s&api_key=%s", id, ApiKey.get());
-
-      // XML representing the series data
-      final String resp = Utils.getFromUrl(url, retries, delay);
-
-      ser = processResponse(resp, url);
-
-    }
-    catch (final Exception e) {
-      e.printStackTrace();
-      ser.setValid(false);
-    }
-
-    Debug.LOGGER.info(String.format("Returning from query."));
-
-    return ser;
-  }
-
-  /**
    * Private method performing actual query to FRED.
-   * 
+   *
    * @param response
    * @param url
    * @param fredlib
@@ -135,7 +135,7 @@ public class Series {
    */
   private static Series processResponse(String response, String url) throws SAXException, IOException, ParserConfigurationException {
 
-    Series ser = new Series();
+    final Series ser = new Series();
 
     if (response.length() > 0) {
 
@@ -143,7 +143,7 @@ public class Series {
         Series.dBuilder = Series.dbFactory.newDocumentBuilder();
       }
 
-      final Document doc = dBuilder.parse(new InputSource(new StringReader(response)));
+      final Document doc = Series.dBuilder.parse(new InputSource(new StringReader(response)));
 
       doc.getDocumentElement().normalize();
 
@@ -195,18 +195,18 @@ public class Series {
   }
 
   /**
-   * 
+   *
    * Private method performing actual query to FRED.
-   * 
+   *
    * If the query returns 1000 items (max from FRED) then it is assumed more data
    * is available.
-   * 
+   *
    * Another query is executed with the offset parameter incremented by 1000.
-   * 
+   *
    * Experiments have found the FRED often returns two blocks of 1000 data items
    * when only 1500 are available. Processing stops an Id to be added to the data
    * more than once.
-   * 
+   *
    * The total number of unique items is returned. When this number is less than
    * 1000 then caller should stop the query loop.
    *
@@ -310,24 +310,24 @@ public class Series {
   private String                  seasonalAdjustment;
   private String                  seasonalAdjustmentShort;
   private String                  notes;
-  private String                  releaseId;
+  private final String            releaseId;
   private boolean                 valid;
   private DataSeries.ResponseType type;
 
   public Series() {
 
-    url = "";
-    id = "";
-    title = "";
-    frequency = "";
-    firstObservation = null;
-    lastObservation = null;
-    lastUpdate = null;
-    seasonalAdjustment = "";
-    seasonalAdjustmentShort = "";
-    units = "";
-    notes = "";
-    releaseId = "";
+    this.url = "";
+    this.id = "";
+    this.title = "";
+    this.frequency = "";
+    this.firstObservation = null;
+    this.lastObservation = null;
+    this.lastUpdate = null;
+    this.seasonalAdjustment = "";
+    this.seasonalAdjustmentShort = "";
+    this.units = "";
+    this.notes = "";
+    this.releaseId = "";
 
     this.valid = false;
   }
@@ -415,7 +415,7 @@ public class Series {
   }
 
   /**
-   * 
+   *
    * @param dateTimeStr
    */
   void setFirstObservation(String dateTimeStr) {
@@ -431,24 +431,24 @@ public class Series {
   }
 
   /**
-   * 
+   *
    * @param dateTimeStr
    */
   void setLastObservation(String dateTimeStr) {
     this.lastObservation = dateTimeStr;
   }
 
+  void setLastUpdate(DateTime dt) {
+    this.lastUpdate = new DateTime(dt);
+  }
+
   /**
-   * 
+   *
    * @param dateTimeStr
    */
   void setLastUpdate(String dateTimeStr) {
-    String tmp = dateTimeStr.substring(0, 19);
+    final String tmp = dateTimeStr.substring(0, 19);
     this.lastUpdate = new DateTime(tmp, "yyyy-MM-dd hh:mm:ss");
-  }
-
-  void setLastUpdate(DateTime dt) {
-    this.lastUpdate = new DateTime(dt);
   }
 
   void setNotes(String note) {

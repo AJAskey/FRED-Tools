@@ -43,10 +43,10 @@ public class Logging {
 
   /**
    * Sets up java.util.logging to a file.
-   * 
+   *
    * Must be called before logging any data. Calling subsequent times has no
    * affect.
-   * 
+   *
    * @param logfileName File to capture all logging.
    */
   public static void init(final String logfileName) {

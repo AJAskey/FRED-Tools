@@ -31,9 +31,9 @@ import net.ajaskey.market.tools.fred.queries.Series;
  *
  * The <b>PullAll</b> class queries for all FRED Releases and the associated
  * Series descriptions.
- * 
+ *
  * This class parses that data and creates files for external use.
- * 
+ *
  * This class is an example of one way to process the data. Every user will find
  * specific ways to process the data to meet their needs.
  *
@@ -48,10 +48,10 @@ public class ParseFredSeriesData {
 
   /**
    * Main processing procedure.
-   * 
+   *
    * This procedure is an example of what can be done. It is not required if you
    * don't like. Write your own.
-   * 
+   *
    * @param args None expected at this time.
    */
   public static void main(String[] args) {
@@ -116,7 +116,7 @@ public class ParseFredSeriesData {
         pw.println(lf);
       }
     }
-    catch (Exception e) {
+    catch (final Exception e) {
       e.printStackTrace();
     }
     System.out.println(lfList.size());
@@ -135,7 +135,7 @@ public class ParseFredSeriesData {
 
   /**
    * Checks Series id against a list to process if found.
-   * 
+   *
    * @param n
    * @return
    */
@@ -162,8 +162,7 @@ public class ParseFredSeriesData {
       return true;
     }
 
-    if (lfdata.getTitle().toUpperCase().contains("DISCONTINUED") || lfdata.getTitle().toUpperCase().contains("(DISC")
-        || lfdata.getLastUpdate().isLessThan(ParseFredSeriesData.usefulDate)) {
+    if (lfdata.getTitle().contains("(DISC") || lfdata.getLastUpdate().isLessThan(ParseFredSeriesData.usefulDate)) {
       return false;
     }
 
@@ -244,23 +243,15 @@ public class ParseFredSeriesData {
 
     // Filter Id : 51 International Trade in Goods and Services. Desired are in
     // useful list.
-    if (lfdata.getReleaseName().contains("International Trade in Goods and Services")) {
-      return false;
-    }
 
     // Filter Id : 52 Z.1 Financial Accounts of the United States. Desired are in
     // useful list.
-    if (lfdata.getReleaseName().contains("Z.1 Financial Accounts of the United States")) {
-      return false;
-    }
 
     // Filter Id : 53 Gross Domestic Product. Desired are in useful list.
-    if (lfdata.getReleaseName().contains("Gross Domestic Product")) {
-      return false;
-    }
-
     // Filter Id : 86 Commercial Paper. Desired are in useful list.
-    if (lfdata.getReleaseName().contains("Commercial Paper")) {
+    if (lfdata.getReleaseName().contains("International Trade in Goods and Services")
+        || lfdata.getReleaseName().contains("Z.1 Financial Accounts of the United States")
+        || lfdata.getReleaseName().contains("Gross Domestic Product") || lfdata.getReleaseName().contains("Commercial Paper")) {
       return false;
     }
 
@@ -277,13 +268,9 @@ public class ParseFredSeriesData {
 
     // Filter Id : 205 Main Economic Indicators. Desired are in
     // useful list.
-    if (lfdata.getReleaseName().contains("Main Economic Indicators")) {
-      return false;
-    }
-
     // Filter Id : 321 Empire State Manufacturing Survey. Desired are in useful
     // list.
-    if (lfdata.getReleaseName().contains("Empire State Manufacturing Survey")) {
+    if (lfdata.getReleaseName().contains("Main Economic Indicators") || lfdata.getReleaseName().contains("Empire State Manufacturing Survey")) {
       return false;
     }
 
@@ -384,7 +371,7 @@ public class ParseFredSeriesData {
   }
 
   /**
-   * 
+   *
    */
   private static void setUsefulList() {
 

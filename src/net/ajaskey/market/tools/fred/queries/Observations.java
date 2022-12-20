@@ -45,16 +45,6 @@ public class Observations {
   private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder  = null;
 
-  public static void main(String[] args) {
-
-    ApiKey.set();
-
-    final Observations obs = Observations.queryObservation("GDP", 7, 8);
-
-    System.out.println(obs);
-
-  }
-
   public static Observations queryObservation(String id, int retries, int delay) {
 
     final Observations obs = new Observations(id);
@@ -238,7 +228,7 @@ public class Observations {
 //    ret += "Observation Start : " + this.observationStart + Utils.NL;
 //    ret += "Observation End   : " + this.observationEnd + Utils.NL;
     ret += "Count             : " + this.count + Utils.NL;
-    ret += String.format("First/Last Date   : %s  %s", dvList.get(0).getDate(), dvList.get(dvList.size() - 1).getDate());
+    ret += String.format("First/Last Date   : %s  %s", this.dvList.get(0).getDate(), this.dvList.get(this.dvList.size() - 1).getDate());
 //    for (DateValue dv : this.dvList) {
 //      ret += " Date / Value     : " + dv.getDate() + " / " + dv.getValue() + Utils.NL;
 //    }

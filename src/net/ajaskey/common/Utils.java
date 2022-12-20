@@ -52,9 +52,11 @@ public class Utils {
 
   private static DecimalFormat dfmt = new DecimalFormat("#,###");
 
+  public static int ERR = -9999999;
+
   /**
    * Returns String from Map based on requested key
-   * 
+   *
    * @param map Map of key:value pairs
    * @param key Requested key
    * @return String
@@ -71,7 +73,7 @@ public class Utils {
 
   /**
    * Formats a double
-   * 
+   *
    * @param d   Value to format
    * @param len Length of output
    * @return String
@@ -92,8 +94,28 @@ public class Utils {
   }
 
   /**
+   * Returns files from a directory
+   *
+   * @param dir Directory
+   * @param ext Array of String extensions to return, other extensions are ignored
+   * @return List of File
+   */
+  public static List<File> getDir(final String dir, final String[] ext) {
+
+    if (dir != null && ext != null) {
+      final File d = new File(dir);
+      if (d.exists()) {
+        final List<File> retFiles = (List<File>) FileUtils.listFiles(d, ext, false);
+        return retFiles;
+      }
+    }
+    return null;
+
+  }
+
+  /**
    * Returns files from a directory tree from the request top directory
-   * 
+   *
    * @param top Directory
    * @param ext Array of String extensions to return, other extensions are ignored
    * @return List of File
@@ -110,28 +132,8 @@ public class Utils {
   }
 
   /**
-   * Returns files from a directory
-   * 
-   * @param dir Directory
-   * @param ext Array of String extensions to return, other extensions are ignored
-   * @return List of File
-   */
-  public static List<File> getDir(final String dir, final String[] ext) {
-
-    if ((dir != null) && (ext != null)) {
-      final File d = new File(dir);
-      if (d.exists()) {
-        final List<File> retFiles = (List<File>) FileUtils.listFiles(d, ext, false);
-        return retFiles;
-      }
-    }
-    return null;
-
-  }
-
-  /**
    * Returns a file name without extension
-   * 
+   *
    * @param f File
    * @return File name without extension
    */
@@ -146,7 +148,7 @@ public class Utils {
 
   /**
    * Returns a file extension
-   * 
+   *
    * @param f File
    * @return String extension
    */
@@ -160,7 +162,7 @@ public class Utils {
 
   /**
    * Connects to URL and returns response
-   * 
+   *
    * @param url URL
    * @return Response
    */
@@ -191,9 +193,9 @@ public class Utils {
 
   public static String getFromUrl(final String url, int retries, int delay) {
 
-    int sleeptime = delay * 1000;
+    final int sleeptime = delay * 1000;
     for (int i = 0; i < retries; i++) {
-      String resp = getFromUrl(url);
+      final String resp = Utils.getFromUrl(url);
       if (resp.length() > 0) {
         return resp;
       }
@@ -210,7 +212,7 @@ public class Utils {
 
   /**
    * Formats an integer
-   * 
+   *
    * @param i   Value to format
    * @param len Length of output
    * @return String
@@ -222,7 +224,7 @@ public class Utils {
 
   /**
    * Formats a long
-   * 
+   *
    * @param i   Value to format
    * @param len Length of output
    * @return String
@@ -236,7 +238,7 @@ public class Utils {
 
   /**
    * Creates request directory if it does not already exist
-   * 
+   *
    * @param dir Directory to create
    */
   static public void makeDir(final String dir) {
@@ -250,7 +252,7 @@ public class Utils {
   /**
    * Creates requested directory (including sub-directories) if any do not already
    * exist
-   * 
+   *
    * @param dir Directory to create
    */
   static public void makeDirs(final String dir) {
@@ -262,8 +264,56 @@ public class Utils {
   }
 
   /**
+   *
+   * @param str
+   * @return
+   */
+  public static double parseDouble(String str) {
+    double ret = Utils.ERR;
+    try {
+      ret = Double.parseDouble(str);
+    }
+    catch (final Exception e) {
+      ret = Utils.ERR;
+    }
+    return ret;
+  }
+
+  /**
+   *
+   * @param str
+   * @return
+   */
+  public static int parseInteger(String str) {
+    int ret = Utils.ERR;
+    try {
+      ret = Integer.parseInt(str);
+    }
+    catch (final Exception e) {
+      ret = Utils.ERR;
+    }
+    return ret;
+  }
+
+  /**
+   *
+   * @param str
+   * @return
+   */
+  public static long parseLong(String str) {
+    long ret = Utils.ERR;
+    try {
+      ret = Long.parseLong(str);
+    }
+    catch (final Exception e) {
+      ret = Utils.ERR;
+    }
+    return ret;
+  }
+
+  /**
    * Compares DateTime pair using only date and ignore time
-   * 
+   *
    * @param dt1 DateTime1
    * @param dt2 DateTime2
    * @return TRUE if same date, FALSE otherwise
@@ -285,7 +335,7 @@ public class Utils {
 
   /**
    * Compares DateTime pair month
-   * 
+   *
    * @param dt1 DateTime1
    * @param dt2 DateTime2
    * @return TRUE if months match, FALSE otherwise
@@ -305,7 +355,7 @@ public class Utils {
 
   /**
    * Pauses processing
-   * 
+   *
    * @param milliseconds Time to pause
    */
   public static void sleep(final int milliseconds) {
@@ -324,7 +374,7 @@ public class Utils {
 
   /**
    * Writes file to Zip format
-   * 
+   *
    * @param path      File path
    * @param zipStream Stream for output
    * @throws FileNotFoundException Error
@@ -345,56 +395,6 @@ public class Utils {
 
       zipStream.closeEntry();
     }
-  }
-
-  public static int ERR = -9999999;
-
-  /**
-   *
-   * @param str
-   * @return
-   */
-  public static double parseDouble(String str) {
-    double ret = (double) ERR;
-    try {
-      ret = Double.parseDouble(str);
-    }
-    catch (final Exception e) {
-      ret = (double) ERR;
-    }
-    return ret;
-  }
-
-  /**
-   *
-   * @param str
-   * @return
-   */
-  public static int parseInteger(String str) {
-    int ret = ERR;
-    try {
-      ret = Integer.parseInt(str);
-    }
-    catch (final Exception e) {
-      ret = ERR;
-    }
-    return ret;
-  }
-
-  /**
-   * 
-   * @param str
-   * @return
-   */
-  public static long parseLong(String str) {
-    long ret = (long) ERR;
-    try {
-      ret = Long.parseLong(str);
-    }
-    catch (final Exception e) {
-      ret = (long) ERR;
-    }
-    return ret;
   }
 
 }

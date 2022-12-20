@@ -36,7 +36,7 @@ public class TextUtils {
 
   /**
    * Prints a List of String to Standard output
-   * 
+   *
    * @param list List of String
    */
   public static void print(List<String> list) {
@@ -45,7 +45,7 @@ public class TextUtils {
 
   /**
    * Prints a String to Standard output
-   * 
+   *
    * @param s String to print
    */
   public static void printline(String s) {
@@ -54,7 +54,7 @@ public class TextUtils {
 
   /**
    * Reads a file that has been Gzipped
-   * 
+   *
    * @param file         File
    * @param ignoreBlanks Does not return blank lines from file if TRUE
    * @return List of String
@@ -85,7 +85,7 @@ public class TextUtils {
 
   /**
    * Reads a file that has been Gzipped
-   * 
+   *
    * @param fname        File name
    * @param ignoreBlanks Does not return blank lines from file if TRUE
    * @return List of String
@@ -99,7 +99,7 @@ public class TextUtils {
 
   /**
    * Reads a text file
-   * 
+   *
    * @param file         File
    * @param ignoreBlanks Does not return blank lines from file if TRUE
    * @return List of String
@@ -136,7 +136,7 @@ public class TextUtils {
 
   /**
    * Reads a text file
-   * 
+   *
    * @param fname        File name
    * @param ignoreBlanks Does not return blank lines from file if TRUE
    * @return List of String
@@ -150,7 +150,7 @@ public class TextUtils {
 
   /**
    * Returns a newline delimited String from List of String
-   * 
+   *
    * @param list List of String
    * @return String
    */

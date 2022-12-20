@@ -105,7 +105,7 @@ class CategoryTest {
     ApiKey.set();
     Debug.init("debug/CategoryListTest.dbg", java.util.logging.Level.INFO);
 
-    final int MAXCATS = 50;
+    final int MAXCATS = 5000;
 
     final List<LocalFormat> lfList = LocalFormat.readSeriesList("out/filteredSeriesSummary.txt", "FredLib");
 
@@ -117,6 +117,7 @@ class CategoryTest {
     parentCategories.add(32998);
     parentCategories.add(32263);
     parentCategories.add(32991);
+    parentCategories.add(3008);
 
     // Add Categories
     for (final LocalFormat lf : lfList) {
@@ -172,7 +173,7 @@ class CategoryTest {
     ApiKey.set();
     Debug.init("debug/CategoryOneTest.dbg", java.util.logging.Level.INFO);
 
-    final int id = 32991;
+    final int id = 3008;
 
     final Category cat = Category.queryCategory(id, 3, 10);
     System.out.println(cat);

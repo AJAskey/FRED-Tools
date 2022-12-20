@@ -183,7 +183,7 @@ public class FredUtils {
 
     final DateTime dt = new DateTime();
 
-    File f = new File(filename);
+    final File f = new File(filename);
     if (f.exists()) {
       f.delete();
     }
@@ -235,12 +235,12 @@ public class FredUtils {
 
     String ffn = "None";
 
-    if ((dsi != null) && (ds != null)) {
+    if (dsi != null && ds != null) {
       if (!dsi.isValid() || !ds.isValid()) {
         Debug.LOGGER.info(String.format("Warning. Valid FIL incomplete. Data null %n%s%n%s", dsi, ds));
         return;
       }
-      else if ((dsi == null) || (ds == null)) {
+      else if (dsi == null || ds == null) {
         Debug.LOGGER.info(String.format("Warning. FIL incomplete. Data null."));
         return;
       }
@@ -284,7 +284,7 @@ public class FredUtils {
 
   public static void writeToLibNew(Observations obs, LocalFormat lf, String dir) {
 
-    double scaler = 0.0;
+    double scaler = 1.0;
     if (lf.getUnits().equals("B")) {
       scaler = FredUtils.BILLION;
     }
@@ -436,7 +436,7 @@ public class FredUtils {
    */
   private static String toSentenceCase(final String title) {
 
-    String str = title.trim();
+    final String str = title.trim();
 
     final StringBuilder sb = new StringBuilder();
 

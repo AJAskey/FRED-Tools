@@ -33,7 +33,6 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
-import net.ajaskey.common.Debug;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 
@@ -44,25 +43,9 @@ public class Release {
   private final static DocumentBuilderFactory dbFactory    = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder     = null;
 
-  public static void main(String[] args) {
-
-    Debug.init("debug/QueryReleases.dbg", java.util.logging.Level.INFO);
-
-    ApiKey.set();
-
-    final List<Release> relList = Release.queryReleases();
-
-    String dbg = Utils.NL + "All Releases" + Utils.NL;
-    for (final Release rel : relList) {
-      Debug.LOGGER.info(rel.toString());
-      dbg += rel.toString() + Utils.NL;
-    }
-    Debug.LOGGER.info(dbg);
-  }
-
   /**
    * Public query to return all the releases available at FRED.
-   * 
+   *
    * @return List of Releases
    */
   public static List<Release> queryReleases() {

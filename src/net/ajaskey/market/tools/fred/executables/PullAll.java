@@ -31,10 +31,10 @@ import net.ajaskey.market.tools.fred.queries.Release;
 import net.ajaskey.market.tools.fred.queries.Series;
 
 /**
- * 
+ *
  * Class is designed to query FRED for a list of all Releases. Then it queries
  * FRED about every Series in each Release.
- * 
+ *
  * Files are output for use in subsequent processing tools. The
  * <b>lastUpdate</b> field is very useful.
  *
@@ -44,10 +44,10 @@ public class PullAll {
   static PrintWriter allSeriesPw = null;
 
   /**
-   * 
+   *
    * Queries all releases and series description data and writes it to organized
    * files.
-   * 
+   *
    * @param args None expected.
    */
   public static void main(String[] args) {
@@ -60,9 +60,9 @@ public class PullAll {
       // Check the debug log to see if retries and/or delays needs to be modified. I
       // have found that 7 and 15 works well but it is a tradeoff between processing
       // time and internal retry loops.
-      processAll("FredSeries", "FredLib", 6, 7);
+      PullAll.processAll("FredSeries", "FredLib", 6, 7);
     }
-    catch (FileNotFoundException e) {
+    catch (final FileNotFoundException e) {
       e.printStackTrace();
     }
   }
@@ -70,78 +70,78 @@ public class PullAll {
   /**
    * Main is used as wrapper here so processAll can be call from and external
    * class.
-   * 
+   *
    * @param relList   A list of Release names to process
    * @param seriesLib Directory where Series data is to be stored.
    * @param fredlib   Directory where Date/Value pairs are stored.
    * @param retries   FRED server times out a lot (depending on use). The URL is
    *                  sent to FRED 'retries' times.
    * @param delay     Time to delay between URL retries in seconds.
-   * 
+   *
    * @throws FileNotFoundException File problems exception.
    */
   public static void processAll(String serieslib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
-    allSeriesPw = new PrintWriter("out/allSeriesSummary.txt");
+    PullAll.allSeriesPw = new PrintWriter("out/allSeriesSummary.txt");
 
-    List<Release> relList = Release.queryReleases();
+    final List<Release> relList = Release.queryReleases();
 
-    int num = process(relList, serieslib, fredlib, retries, delay);
+    final int num = PullAll.process(relList, serieslib, fredlib, retries, delay);
 
     System.out.printf("processed = %d%n", num);
 
-    allSeriesPw.close();
+    PullAll.allSeriesPw.close();
 
     Debug.LOGGER.info(Utils.NL + "-----------------------" + Utils.NL + "Processing complete!");
   }
 
   /**
-   * 
+   *
    * @param relList   A list of Release names to process
    * @param seriesLib Directory where Series data is to be stored.
    * @param fredlib   Directory where Date/Value pairs are stored.
    * @param retries   FRED server times out a lot (depending on use). The URL is
    *                  sent to FRED 'retries' times.
    * @param delay     Time to delay between URL retries in seconds.
-   * 
+   *
    * @return Number of items processed
-   * 
+   *
    * @throws FileNotFoundException File problems exception.
    */
   private static int process(List<Release> relList, String seriesLib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
     int totalProcessed = 0;
 
-    for (Release rel : relList) {
+    for (final Release rel : relList) {
 
-      String cleanname = rel.getName().replaceAll("/", "").replaceAll(":", "").replaceAll("\\.", "_").replaceAll("\"", "").replaceAll("&", "_");
-      String tmp = String.format("%s/Id_%s%s.txt", seriesLib, rel.getId(), cleanname);
-      String fn = tmp.replaceAll(" ", "");
+      final String cleanname = rel.getName().replaceAll("/", "").replaceAll(":", "").replaceAll("\\.", "_").replaceAll("\"", "").replaceAll("&", "_");
+      final String tmp = String.format("%s/Id_%s%s.txt", seriesLib, rel.getId(), cleanname);
+      final String fn = tmp.replaceAll(" ", "");
 
       // Remove existing file so new file will show date of creation. Must be a
       // Windows feature.
-      File f = new File(fn);
+      final File f = new File(fn);
       if (f.exists()) {
         f.delete();
       }
 
       try (PrintWriter pw = new PrintWriter(fn)) {
 
-        String s = String.format("Release  Id : %s\t%s", rel.getId(), rel.getName());
+        final String s = String.format("Release  Id : %s\t%s", rel.getId(), rel.getName());
         pw.println(s);
 
-        List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay);
+        final List<Series> serList = Series.querySeriesPerRelease(rel.getId(), retries, delay);
 
         System.out.println(String.format("Processed querySeriesPerRelease for %-25s %5d  %-120s %s", rel.getId(), serList.size(), rel.getName(), fn));
 
         if (serList.size() > 0) {
-          for (Series ser : serList) {
+          for (final Series ser : serList) {
 
-            LocalFormat lf = new LocalFormat(ser, rel.getId(), rel.getName(), fredlib);
-            String sum = lf.formatline();
+            final LocalFormat lf = new LocalFormat(ser, rel.getId(), rel.getName(), fredlib);
+            final String sum = lf.formatline();
             pw.println(sum);
 
-            allSeriesPw.printf("%s  %-3s %-1s%n", sum, rel.getId(), rel.getName());
+            PullAll.allSeriesPw.printf("%s  %-3s %-1s%n", sum, rel.getId(), rel.getName());
 
             totalProcessed++;
           }

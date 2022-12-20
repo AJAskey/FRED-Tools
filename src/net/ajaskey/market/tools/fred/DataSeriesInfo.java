@@ -346,10 +346,6 @@ public class DataSeriesInfo {
     this.fileDt = fileDt;
   }
 
-  public void setResponse(String r) {
-    this.response = r;
-  }
-
   /**
    *
    * @param attribute
@@ -364,6 +360,22 @@ public class DataSeriesInfo {
     catch (final ParseException e) {
       e.printStackTrace();
     }
+  }
+
+  /**
+   * @param frequency the frequency to set
+   */
+  public void setFrequency(final String frequency) {
+
+    this.frequency = frequency;
+  }
+
+  /**
+   * @param fullFilename to set
+   */
+  public void setFullFilename(final String ffn) {
+
+    this.fullfilename = ffn;
   }
 
   /**
@@ -386,11 +398,51 @@ public class DataSeriesInfo {
   }
 
   /**
+   * net.ajaskey.market.tools.fred.setLastUpdate
+   *
+   * @param attribute
+   */
+  public void setLastUpdate(final String attribute) {
+
+    try {
+      final int idx = attribute.lastIndexOf("-");
+      final String dstr = attribute.substring(0, idx);
+      final Date d = DataSeriesInfo.sdf.parse(dstr);
+      this.lastUpdate = new DateTime(d);
+    }
+    catch (final ParseException e) {
+      e.printStackTrace();
+    }
+
+  }
+
+  /**
+   * @param name the name to set
+   */
+  public void setName(final String name) {
+
+    this.name = name;
+  }
+
+  public void setResponse(String r) {
+    this.response = r;
+  }
+
+  /**
    * @param seasonalAdjusted the seasonalAdjusted to set
    */
   public void setSeasonalAdjustment(final String adjustment) {
 
     this.seasonalAdjustment = adjustment;
+  }
+
+  /**
+   * @param title the title to set
+   */
+  public void setTitle(final String title) {
+
+    final String filtered = title.replaceAll("[^\\x00-\\x7F]", " ");
+    this.title = filtered.trim();
   }
 
   /**
@@ -412,14 +464,6 @@ public class DataSeriesInfo {
   public void setUnits(final String units) {
 
     this.units = units;
-  }
-
-  /**
-   * @param fullFilename to set
-   */
-  public void setFullFilename(final String ffn) {
-
-    this.fullfilename = ffn;
   }
 
   public String toCsvString() {
@@ -453,50 +497,6 @@ public class DataSeriesInfo {
       ret += "  File Date         : " + this.fileDt.toFullString();
     }
     return ret;
-  }
-
-  /**
-   * @param frequency the frequency to set
-   */
-  public void setFrequency(final String frequency) {
-
-    this.frequency = frequency;
-  }
-
-  /**
-   * net.ajaskey.market.tools.fred.setLastUpdate
-   *
-   * @param attribute
-   */
-  public void setLastUpdate(final String attribute) {
-
-    try {
-      final int idx = attribute.lastIndexOf("-");
-      final String dstr = attribute.substring(0, idx);
-      final Date d = DataSeriesInfo.sdf.parse(dstr);
-      this.lastUpdate = new DateTime(d);
-    }
-    catch (final ParseException e) {
-      e.printStackTrace();
-    }
-
-  }
-
-  /**
-   * @param name the name to set
-   */
-  public void setName(final String name) {
-
-    this.name = name;
-  }
-
-  /**
-   * @param title the title to set
-   */
-  public void setTitle(final String title) {
-
-    final String filtered = title.replaceAll("[^\\x00-\\x7F]", " ");
-    this.title = filtered.trim();
   }
 
 }

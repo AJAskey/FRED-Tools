@@ -37,37 +37,36 @@ import net.ajaskey.market.tools.fred.ApiKey;
 
 public class Category {
 
-  private String  id;
-  private String  name;
-  private String  parent_id;
-  private boolean valid;
-
   private final static DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
   private static DocumentBuilder              dBuilder  = null;
 
   /**
-   * 
+   *
+   * @param args
    */
-  public Category() {
-    this.valid = false;
+  public static void main(String[] args) {
+
+    ApiKey.set();
+    Debug.init("debug/Category.dbg", java.util.logging.Level.INFO);
+
   }
 
   public static List<Category> queryCategoriesPerSeries(String series_id, int retries, int delay) {
 
-    List<Category> catList = new ArrayList<>();
+    final List<Category> catList = new ArrayList<>();
 
     try {
 
-      String url = String.format("https://api.stlouisfed.org/fred/series/categories?series_id=%s&api_key=&api_key=%s", series_id, ApiKey.get());
+      final String url = String.format("https://api.stlouisfed.org/fred/series/categories?series_id=%s&api_key=&api_key=%s", series_id, ApiKey.get());
 
       final String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
-        if (dBuilder == null) {
-          dBuilder = dbFactory.newDocumentBuilder();
+        if (Category.dBuilder == null) {
+          Category.dBuilder = Category.dbFactory.newDocumentBuilder();
         }
 
-        final Document doc = dBuilder.parse(new InputSource(new StringReader(resp)));
+        final Document doc = Category.dBuilder.parse(new InputSource(new StringReader(resp)));
 
         doc.getDocumentElement().normalize();
 
@@ -79,7 +78,7 @@ public class Category {
 
           if (nodeResp.getNodeType() == Node.ELEMENT_NODE) {
 
-            Category cat = new Category();
+            final Category cat = new Category();
 
             final Element eElement = (Element) nodeResp;
 
@@ -94,7 +93,7 @@ public class Category {
         }
       }
     }
-    catch (Exception e) {
+    catch (final Exception e) {
       e.printStackTrace();
     }
 
@@ -102,27 +101,27 @@ public class Category {
   }
 
   /**
-   * 
+   *
    * @param id Numerical id of the FRED category.
    * @return Data from the category
    */
   public static Category queryCategory(int id, int retries, int delay) {
 
-    Category cat = new Category();
+    final Category cat = new Category();
 
     try {
 
-      String url = String.format("https://api.stlouisfed.org/fred/category?category_id=%d&api_key=&api_key=%s", id, ApiKey.get());
+      final String url = String.format("https://api.stlouisfed.org/fred/category?category_id=%d&api_key=&api_key=%s", id, ApiKey.get());
 
       final String resp = Utils.getFromUrl(url, retries, delay);
 
       if (resp.length() > 0) {
 
-        if (dBuilder == null) {
-          dBuilder = dbFactory.newDocumentBuilder();
+        if (Category.dBuilder == null) {
+          Category.dBuilder = Category.dbFactory.newDocumentBuilder();
         }
 
-        final Document doc = dBuilder.parse(new InputSource(new StringReader(resp)));
+        final Document doc = Category.dBuilder.parse(new InputSource(new StringReader(resp)));
 
         doc.getDocumentElement().normalize();
 
@@ -146,44 +145,48 @@ public class Category {
         }
       }
     }
-    catch (Exception e) {
+    catch (final Exception e) {
       e.printStackTrace();
     }
     return cat;
 
   }
 
+  private String id;
+
+  private String name;
+
+  private String parent_id;
+
+  private boolean valid;
+
   /**
-   * 
-   * @param args
+   *
    */
-  public static void main(String[] args) {
-
-    ApiKey.set();
-    Debug.init("debug/Category.dbg", java.util.logging.Level.INFO);
-
+  public Category() {
+    this.valid = false;
   }
 
-  String getId() {
-    return id;
-  }
-
-  String getName() {
-    return name;
-  }
-
-  String getParentId() {
-    return parent_id;
+  public boolean isValid() {
+    return this.valid;
   }
 
   @Override
   public String toString() {
-    String ret = String.format("id=%5s    name=%s   parent_id=%s", id, name, parent_id);
+    final String ret = String.format("id=%5s    name=%s   parent_id=%s", this.id, this.name, this.parent_id);
     return ret;
   }
 
-  public boolean isValid() {
-    return valid;
+  String getId() {
+    return this.id;
+  }
+
+  String getName() {
+    return this.name;
+  }
+
+  String getParentId() {
+    return this.parent_id;
   }
 
 }

@@ -111,7 +111,7 @@ public class DataSeries {
   private int                          respKnt;
   private ResponseType                 respType;
   private boolean                      valid;
-  private List<DateValue>             dvList;
+  private List<DateValue>              dvList;
 
   /**
    * This method serves as a constructor for the class.

@@ -430,7 +430,7 @@ public class DateTime implements Serializable {
   }
 
   public long getDeltaSeconds(DateTime dt2) {
-    long ret = getDeltaMilliSeconds(dt2);
+    long ret = this.getDeltaMilliSeconds(dt2);
     ret *= 1000L;
     return ret;
   }
@@ -807,6 +807,10 @@ public class DateTime implements Serializable {
     }
   }
 
+  public void set(int constant, int value) {
+    this.cal.set(constant, value);
+  }
+
   /**
    *
    * @param year
@@ -818,16 +822,6 @@ public class DateTime implements Serializable {
       this.cal = Calendar.getInstance();
     }
     this.cal.set(year, month, day);
-  }
-
-  public void set(int constant, int value) {
-    this.cal.set(constant, value);
-  }
-
-  public void settime(final int hour, final int minute, final int second) {
-    this.set(DateTime.HOUR_OF_DAY, hour);
-    this.set(DateTime.MINUTE, minute);
-    this.set(DateTime.SECOND, second);
   }
 
   /**
@@ -849,6 +843,12 @@ public class DateTime implements Serializable {
    */
   public void setSdf(final SimpleDateFormat simpledateformat) {
     this.sdf = simpledateformat;
+  }
+
+  public void settime(final int hour, final int minute, final int second) {
+    this.set(DateTime.HOUR_OF_DAY, hour);
+    this.set(DateTime.MINUTE, minute);
+    this.set(DateTime.SECOND, second);
   }
 
   /**

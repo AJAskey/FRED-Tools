@@ -16,4 +16,4 @@
  *
  * Original author : Andy Askey (ajaskey34@gmail.com)
  */
-package net.ajaskey.common; 
+package net.ajaskey.common;

@@ -27,8 +27,21 @@ public class DateValue {
   private double   value;
   private boolean  valid;
 
+  public DateValue(final DateTime dt, final double val) {
+
+    this.valid = true;
+    try {
+      this.date = new DateTime(dt);
+      this.value = val;
+    }
+    catch (final Exception e) {
+      this.value = 0.0;
+      this.valid = false;
+    }
+  }
+
   /**
-   * 
+   *
    * This method serves as a constructor for the class.
    *
    * @param sDate
@@ -52,19 +65,6 @@ public class DateValue {
     }
   }
 
-  public DateValue(final DateTime dt, final double val) {
-
-    this.valid = true;
-    try {
-      this.date = new DateTime(dt);
-      this.value = val;
-    }
-    catch (final Exception e) {
-      this.value = 0.0;
-      this.valid = false;
-    }
-  }
-
   /**
    * @return the date
    */
@@ -81,13 +81,13 @@ public class DateValue {
     return this.value;
   }
 
+  public boolean isValid() {
+    return this.valid;
+  }
+
   @Override
   public String toString() {
 
     return String.format("%s\t%f", this.date, this.value);
-  }
-
-  public boolean isValid() {
-    return valid;
   }
 }

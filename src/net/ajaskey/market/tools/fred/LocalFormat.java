@@ -11,22 +11,19 @@ import net.ajaskey.market.tools.fred.queries.Series;
 
 public class LocalFormat {
 
-  /**
-   * 
-   * @param args
-   */
-  public static void main(final String[] args) {
-
-    new File("FredSeries");
-    final List<LocalFormat> list = LocalFormat.readReleaseSeriesInfoDir("FredSeries", "FredLib");
+  public static LocalFormat findInList(String id, List<LocalFormat> list) {
 
     for (final LocalFormat lf : list) {
-      System.out.printf("%-30s %-120s %s %s%n", lf.id, lf.title, lf.releaseId, lf.releaseName);
+      if (lf.getId().equalsIgnoreCase(id)) {
+        return lf;
+      }
     }
+
+    return null;
   }
 
   /**
-   * 
+   *
    * @param releaseId
    * @param seriesLib
    * @param fredlib
@@ -44,12 +41,14 @@ public class LocalFormat {
         final LocalFormat lf = new LocalFormat(data.get(0), fredlib);
         lf.parseline(data.get(i));
         if (lf.isValid()) {
-          // Update local file date to actual
-          if (lf.localFile.exists()) {
-            lf.localFileDate = new DateTime(lf.localFile.lastModified());
-          }
-          else {
-            lf.localFileDate = null;
+          if (lf.localFile != null) {
+            // Update local file date to actual
+            if (lf.localFile.exists()) {
+              lf.localFileDate = new DateTime(lf.localFile.lastModified());
+            }
+            else {
+              lf.localFileDate = null;
+            }
           }
           lfList.add(lf);
         }
@@ -58,33 +57,8 @@ public class LocalFormat {
     return lfList;
   }
 
-  public static List<LocalFormat> readSeriesList(String filename, String fredlib) {
-
-    final List<LocalFormat> lfList = new ArrayList<>();
-
-    final List<String> data = TextUtils.readTextFile(filename, false);
-
-    for (String s : data) {
-      final LocalFormat lf = new LocalFormat("01\tdummy", fredlib);
-      lf.parseline(s);
-      if (lf.isValid()) {
-        // Update local file date to actual
-        if (lf.localFile != null) {
-          if (lf.localFile.exists()) {
-            lf.localFileDate = new DateTime(lf.localFile.lastModified());
-          }
-          else {
-            lf.localFileDate = null;
-          }
-        }
-        lfList.add(lf);
-      }
-    }
-    return lfList;
-  }
-
   /**
-   * 
+   *
    * @param seriesLib
    * @param fredlib
    * @return
@@ -108,34 +82,47 @@ public class LocalFormat {
     return lfList;
   }
 
-  private String       id;
-  private String       title;
-  private String       seasonality;
-  private String       frequency;
-  private String       units;
-  private DateTime     lastUpdate;
-  private final String releaseId;
-  private final String releaseName;
-  private File         localFile;
-  private DateTime     localFileDate;
-  private String       filename;
-  private final String fredlib;
-  private boolean      valid;
+  public static List<LocalFormat> readSeriesList(String filename, String fredlib) {
 
-  @Override
-  public String toString() {
-    String ret = "Id        : " + this.id + Utils.NL;
-    ret += "Title        : " + this.title + Utils.NL;
-    ret += "Seasonality  : " + this.seasonality + Utils.NL;
-    ret += "Frequency    : " + this.frequency + Utils.NL;
-    ret += "Units        : " + this.units + Utils.NL;
-    ret += "LastUpdate   : " + this.lastUpdate + Utils.NL;
-    ret += "Release      : " + this.releaseId + Utils.TAB + this.releaseName + Utils.NL;
-    if (this.localFileDate != null) {
-      ret += "Local File   : " + this.localFile + Utils.TAB + this.localFileDate + Utils.NL;
+    final List<LocalFormat> lfList = new ArrayList<>();
+
+    final List<String> data = TextUtils.readTextFile(filename, false);
+
+    for (final String s : data) {
+      final LocalFormat lf = new LocalFormat("999\tdummy", fredlib);
+      lf.parseline(s);
+      if (lf.isValid()) {
+        // Update local file date to actual
+        if (lf.localFile != null) {
+          if (lf.localFile.exists()) {
+            lf.localFileDate = new DateTime(lf.localFile.lastModified());
+          }
+          else {
+            lf.localFileDate = null;
+          }
+        }
+        lfList.add(lf);
+      }
     }
-    ret += "Valid       : " + this.valid;
-    return ret;
+    return lfList;
+  }
+
+  private String   id;
+  private String   title;
+  private String   seasonality;
+  private String   frequency;
+  private String   units;
+  private DateTime lastUpdate;
+  private String   releaseId;
+  private String   releaseName;
+  private File     localFile;
+  private DateTime localFileDate;
+  private String   filename;
+  private String   fredlib;
+  private boolean  valid;
+
+  public LocalFormat() {
+    // TODO Auto-generated constructor stub
   }
 
   /**
@@ -205,7 +192,7 @@ public class LocalFormat {
     }
 
     String scaler = " ";
-    String unt = this.units.trim().toLowerCase();
+    final String unt = this.units.trim().toLowerCase();
     if (unt.length() == 1) {
       scaler = this.units;
     }
@@ -218,7 +205,7 @@ public class LocalFormat {
     else if (unt.contains("thousand")) {
       scaler = "T";
     }
-    else if (unt.contains("percent")) {
+    else if (unt.contains("percent") || unt.equalsIgnoreCase("rate")) {
       scaler = "P";
     }
     else if (unt.equalsIgnoreCase("ratio")) {
@@ -271,6 +258,10 @@ public class LocalFormat {
     return this.title;
   }
 
+  public String getUnits() {
+    return this.units;
+  }
+
   public boolean isValid() {
     return this.valid;
   }
@@ -297,8 +288,14 @@ public class LocalFormat {
         this.seasonality = stmp.trim();
         stmp = line.substring(158, 169);
         this.lastUpdate = new DateTime(stmp, "dd-MMM-yyyy");
-        stmp = line.substring(182);
+        stmp = line.substring(182, 200);
         this.frequency = stmp.trim();
+
+        if (len > 201) {
+          stmp = line.substring(202);
+          this.releaseId = stmp.substring(0, 3).trim();
+          this.releaseName = stmp.substring(4).trim();
+        }
 
         this.localFile = new File(String.format("%s/%s.csv", this.fredlib, this.id));
 
@@ -322,8 +319,32 @@ public class LocalFormat {
     }
   }
 
-  public String getUnits() {
-    return units;
+  public void setId(String id, String fredlib) {
+    this.id = id;
+    this.fredlib = fredlib;
+
+    final String tmp = String.format("%s/%s.csv", this.fredlib, this.id);
+    this.localFile = new File(tmp);
+    if (this.localFile.exists()) {
+      this.localFileDate = new DateTime(this.localFile.lastModified());
+    }
+
+  }
+
+  @Override
+  public String toString() {
+    String ret = "Id           : " + this.id + Utils.NL;
+    ret += "Title        : " + this.title + Utils.NL;
+    ret += "Seasonality  : " + this.seasonality + Utils.NL;
+    ret += "Frequency    : " + this.frequency + Utils.NL;
+    ret += "Units        : " + this.units + Utils.NL;
+    ret += "LastUpdate   : " + this.lastUpdate + Utils.NL;
+    ret += "Release      : " + this.releaseId + Utils.TAB + this.releaseName + Utils.NL;
+    if (this.localFileDate != null) {
+      ret += "Local File   : " + this.localFile + Utils.TAB + this.localFileDate + Utils.NL;
+    }
+    ret += "Valid        : " + this.valid;
+    return ret;
   }
 
 }

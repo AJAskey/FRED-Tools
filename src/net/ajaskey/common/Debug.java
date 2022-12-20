@@ -39,12 +39,6 @@ public class Debug {
 
   public final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
-  public static void Log(String dbg) {
-    if (isInit) {
-      LOGGER.info(dbg);
-    }
-  }
-
   /**
    *
    * net.ajaskey.market.tools.fred.init
@@ -57,7 +51,7 @@ public class Debug {
       return;
     }
 
-    dolog = true;
+    Debug.dolog = true;
 
     Handler fileHandler = null;
     Formatter simpleFormatter = null;
@@ -80,6 +74,12 @@ public class Debug {
     }
     catch (final Exception e) {
       e.printStackTrace();
+    }
+  }
+
+  public static void Log(String dbg) {
+    if (Debug.isInit) {
+      Debug.LOGGER.info(dbg);
     }
   }
 }

@@ -24,11 +24,8 @@ import net.ajaskey.common.DateTime;
 
 public class PriceData {
 
-  public PriceData(String c) {
-    // TODO Auto-generated constructor stub
-  }
+  public double close;
 
-  public double   close;
   public DateTime date;
   public double   high;
   public double   low;
@@ -38,7 +35,7 @@ public class PriceData {
 
   /**
    * This method serves as a constructor for the class.
-   * 
+   *
    * @param dt DateTime of data
    * @param o  Open price
    * @param h  High price
@@ -57,9 +54,13 @@ public class PriceData {
       this.volume = v;
       this.valid = true;
     }
-    catch (Exception e) {
+    catch (final Exception e) {
       this.valid = false;
     }
+  }
+
+  public PriceData(String c) {
+    // TODO Auto-generated constructor stub
   }
 
   public boolean isValid() {
@@ -67,6 +68,13 @@ public class PriceData {
     // valid = this.date.isValid();
 
     return this.valid;
+  }
+
+  public String toOptumaString(String desc, double scaler) {
+
+    final String ret = String.format("%s, %s, %.2f, %.2f, %.2f, %.2f, %d, 0", desc, this.date.format("yyyyMMdd"), this.open / scaler,
+        this.high / scaler, this.low / scaler, this.close / scaler, this.volume);
+    return ret;
   }
 
   public String toShortString() {
@@ -78,13 +86,6 @@ public class PriceData {
   public String toShortString(double scaler) {
 
     final String ret = String.format("%s, %.2f", this.date.format("yyyy-MM-dd"), this.close / scaler);
-    return ret;
-  }
-
-  public String toOptumaString(String desc, double scaler) {
-
-    final String ret = String.format("%s, %s, %.2f, %.2f, %.2f, %.2f, %d, 0", desc, this.date.format("yyyyMMdd"), this.open / scaler,
-        this.high / scaler, this.low / scaler, this.close / scaler, this.volume);
     return ret;
   }
 

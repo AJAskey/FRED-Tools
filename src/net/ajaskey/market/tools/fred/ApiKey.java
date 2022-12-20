@@ -36,7 +36,9 @@ public class ApiKey {
    */
   public static void set() {
     ApiKey.apiKey = System.getenv("FRED_APIKEY");
-    if (Debug.dolog) Debug.LOGGER.info("ApiKey set.");
+    if (Debug.dolog) {
+      Debug.LOGGER.info("ApiKey set.");
+    }
   }
 
 }
