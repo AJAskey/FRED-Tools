@@ -1,64 +1,64 @@
-Id : 326  Summary of Economic Projections
-FEDTARCTH                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High                                      NSA  21-Sep-2022  Annual         
-FEDTARCTHLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High                           NSA  21-Sep-2022  Not Applicable 
-FEDTARCTL                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low                                       NSA  21-Sep-2022  Annual         
-FEDTARCTLLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low                            NSA  21-Sep-2022  Not Applicable 
-FEDTARCTM                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint                                  NSA  21-Sep-2022  Annual         
-FEDTARCTMLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint                       NSA  21-Sep-2022  Not Applicable 
-FEDTARMD                      FOMC Summary of Economic Projections for the Fed Funds Rate, Median                                                      NSA  21-Sep-2022  Annual         
-FEDTARMDLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median                                           NSA  21-Sep-2022  Not Applicable 
-FEDTARRH                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High                                                 NSA  21-Sep-2022  Annual         
-FEDTARRHLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High                                      NSA  21-Sep-2022  Not Applicable 
-FEDTARRL                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low                                                  NSA  21-Sep-2022  Annual         
-FEDTARRLLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low                                       NSA  21-Sep-2022  Not Applicable 
-FEDTARRM                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint                                             NSA  21-Sep-2022  Annual         
-FEDTARRMLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint                                  NSA  21-Sep-2022  Not Applicable 
-GDPC1CTH                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, High          NSA  21-Sep-2022  Annual         
-GDPC1CTHLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, H  NSA  21-Sep-2022  Not Applicable 
-GDPC1CTL                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Low           NSA  21-Sep-2022  Annual         
-GDPC1CTLLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, L  NSA  21-Sep-2022  Not Applicable 
-GDPC1CTM                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint      NSA  21-Sep-2022  Annual         
-GDPC1CTMLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, M  NSA  21-Sep-2022  Not Applicable 
-GDPC1MD                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median                          NSA  21-Sep-2022  Annual         
-GDPC1MDLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median               NSA  21-Sep-2022  Not Applicable 
-GDPC1RH                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, High                     NSA  21-Sep-2022  Annual         
-GDPC1RHLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, High          NSA  21-Sep-2022  Not Applicable 
-GDPC1RL                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Low                      NSA  21-Sep-2022  Annual         
-GDPC1RLLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Low           NSA  21-Sep-2022  Not Applicable 
-GDPC1RM                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Midpoint                 NSA  21-Sep-2022  Annual         
-GDPC1RMLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Midpoint      NSA  21-Sep-2022  Not Applicable 
-JCXFECTH                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  NSA  21-Sep-2022  Annual         
-JCXFECTL                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  NSA  21-Sep-2022  Annual         
-JCXFECTM                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  NSA  21-Sep-2022  Annual         
-JCXFEMD                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Med  NSA  21-Sep-2022  Annual         
-JCXFERH                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  NSA  21-Sep-2022  Annual         
-JCXFERL                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  NSA  21-Sep-2022  Annual         
-JCXFERM                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  NSA  21-Sep-2022  Annual         
-PCECTPICTH                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High    NSA  21-Sep-2022  Annual         
-PCECTPICTHLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  NSA  21-Sep-2022  Not Applicable 
-PCECTPICTL                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low     NSA  21-Sep-2022  Annual         
-PCECTPICTLLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  NSA  21-Sep-2022  Not Applicable 
-PCECTPICTM                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoi  NSA  21-Sep-2022  Annual         
-PCECTPICTMLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  NSA  21-Sep-2022  Not Applicable 
-PCECTPIMD                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median                    NSA  21-Sep-2022  Annual         
-PCECTPIMDLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median         NSA  21-Sep-2022  Not Applicable 
-PCECTPIRH                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High               NSA  21-Sep-2022  Annual         
-PCECTPIRHLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High    NSA  21-Sep-2022  Not Applicable 
-PCECTPIRL                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low                NSA  21-Sep-2022  Annual         
-PCECTPIRLLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low     NSA  21-Sep-2022  Not Applicable 
-PCECTPIRM                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoint           NSA  21-Sep-2022  Annual         
-PCECTPIRMLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoi  NSA  21-Sep-2022  Not Applicable 
-UNRATECTH                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, High                          NSA  21-Sep-2022  Annual         
-UNRATECTHLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, High               NSA  21-Sep-2022  Not Applicable 
-UNRATECTL                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Low                           NSA  21-Sep-2022  Annual         
-UNRATECTLLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Low                NSA  21-Sep-2022  Not Applicable 
-UNRATECTM                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Midpoint                      NSA  21-Sep-2022  Annual         
-UNRATECTMLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Midpoint           NSA  21-Sep-2022  Not Applicable 
-UNRATEMD                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median                                          NSA  21-Sep-2022  Annual         
-UNRATEMDLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median                               NSA  21-Sep-2022  Not Applicable 
-UNRATERH                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, High                                     NSA  21-Sep-2022  Annual         
-UNRATERHLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, High                          NSA  21-Sep-2022  Not Applicable 
-UNRATERL                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Low                                      NSA  21-Sep-2022  Annual         
-UNRATERLLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Low                           NSA  21-Sep-2022  Not Applicable 
-UNRATERM                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Midpoint                                 NSA  21-Sep-2022  Annual         
-UNRATERMLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Midpoint                      NSA  21-Sep-2022  Not Applicable 
+Release  Id : 326	Summary of Economic Projections
+FEDTARCTH                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High                                      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARCTHLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High                           P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARCTL                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low                                       P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARCTLLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low                            P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARCTM                     FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint                                  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARCTMLR                   Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint                       P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARMD                      FOMC Summary of Economic Projections for the Fed Funds Rate, Median                                                      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARMDLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median                                           P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARRH                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High                                                 P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARRHLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High                                      P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARRL                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low                                                  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARRLLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low                                       P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+FEDTARRM                      FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint                                             P NSA  14-Dec-2022 01-Jan-2025             Annual             
+FEDTARRMLR                    Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint                                  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1CTH                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, High          P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1CTHLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, H  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1CTL                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Low           P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1CTLLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, L  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1CTM                      FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1CTMLR                    Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, M  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1MD                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median                          P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1MDLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median               P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1RH                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, High                     P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1RHLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, High          P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1RL                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Low                      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1RLLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Low           P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+GDPC1RM                       FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Midpoint                 P NSA  14-Dec-2022 01-Jan-2025             Annual             
+GDPC1RMLR                     Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Range, Midpoint      P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+JCXFECTH                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFECTL                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFECTM                      FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Cen  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFEMD                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Med  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFERH                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFERL                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+JCXFERM                       FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Ran  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPICTH                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High    P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPICTHLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPICTL                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low     P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPICTLLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPICTM                    FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoi  P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPICTMLR                  Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tende  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPIMD                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median                    P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPIMDLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median         P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPIRH                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High               P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPIRHLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High    P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPIRL                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low                P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPIRLLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low     P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+PCECTPIRM                     FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoint           P NSA  14-Dec-2022 01-Jan-2025             Annual             
+PCECTPIRMLR                   Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Midpoi  P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATECTH                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, High                          P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATECTHLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, High               P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATECTL                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Low                           P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATECTLLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Low                P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATECTM                     FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Midpoint                      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATECTMLR                   Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Central Tendency, Midpoint           P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATEMD                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median                                          P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATEMDLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median                               P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATERH                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, High                                     P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATERHLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, High                          P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATERL                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Low                                      P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATERLLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Low                           P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     
+UNRATERM                      FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Midpoint                                 P NSA  14-Dec-2022 01-Jan-2025             Annual             
+UNRATERMLR                    Longer Run FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Range, Midpoint                      P NSA  14-Dec-2022 14-Dec-2022             Not Applicable     

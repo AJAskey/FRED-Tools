@@ -1,41 +1,41 @@
-Id : 25  Manufacturing and Trade Inventories and Sales
-BUSINV                        Total Business Inventories                                                                                               SA   16-Nov-2022  Monthly, End of Period
-ISRATIO                       Total Business: Inventories to Sales Ratio                                                                               SA   16-Nov-2022  Monthly, End of Period
-MNFCTRIMNSA                   Manufacturers Inventories                                                                                                NSA  16-Nov-2022  Monthly, End of Period
-MNFCTRIMSA                    Manufacturers Inventories                                                                                                SA   16-Nov-2022  Monthly, End of Period
-MNFCTRIRNSA                   Manufacturers: Inventories to Sales Ratio                                                                                NSA  16-Nov-2022  Monthly, End of Period
-MNFCTRIRSA                    Manufacturers: Inventories to Sales Ratio                                                                                SA   16-Nov-2022  Monthly, End of Period
-MNFCTRMPCIMNSA                Manufacturers Inventories                                                                                                NSA  16-Nov-2022  Monthly, End of Period
-MNFCTRMPCIMSA                 Manufacturers Inventories                                                                                                SA   16-Nov-2022  Monthly, End of Period
-MNFCTRMPCSMNSA                Manufacturers Sales                                                                                                      NSA  16-Nov-2022  Monthly        
-MNFCTRMPCSMSA                 Manufacturers Sales                                                                                                      SA   16-Nov-2022  Monthly        
-MNFCTRSMNSA                   Manufacturers Sales                                                                                                      NSA  16-Nov-2022  Monthly        
-MNFCTRSMSA                    Manufacturers Sales                                                                                                      SA   16-Nov-2022  Monthly        
-RETAILIMNSA                   Retailers Inventories                                                                                                    NSA  16-Nov-2022  Monthly, End of Period
-RETAILIMSA                    Retailers Inventories                                                                                                    SA   16-Nov-2022  Monthly, End of Period
-RETAILIRNSA                   Retailers: Inventories to Sales Ratio                                                                                    NSA  16-Nov-2022  Monthly, End of Period
-RETAILIRSA                    Retailers: Inventories to Sales Ratio                                                                                    SA   16-Nov-2022  Monthly, End of Period
-RETAILMPCIMNSA                Retailers Inventories                                                                                                    NSA  16-Nov-2022  Monthly, End of Period
-RETAILMPCIMSA                 Retailers Inventories                                                                                                    SA   16-Nov-2022  Monthly, End of Period
-RETAILMPCSMNSA                Retailers Sales                                                                                                          NSA  16-Nov-2022  Monthly        
-RETAILMPCSMSA                 Retailers Sales                                                                                                          SA   16-Nov-2022  Monthly        
-RETAILSMNSA                   Retailers Sales                                                                                                          NSA  16-Nov-2022  Monthly        
-RETAILSMSA                    Retailers Sales                                                                                                          SA   16-Nov-2022  Monthly        
-TOTBUSIMNSA                   Total Business Inventories                                                                                               NSA  16-Nov-2022  Monthly, End of Period
-TOTBUSIRNSA                   Total Business: Inventories to Sales Ratio                                                                               NSA  16-Nov-2022  Monthly, End of Period
-TOTBUSMPCIMNSA                Total Business Inventories                                                                                               NSA  16-Nov-2022  Monthly, End of Period
-TOTBUSMPCIMSA                 Total Business Inventories                                                                                               SA   16-Nov-2022  Monthly, End of Period
-TOTBUSMPCSMNSA                Total Business Sales                                                                                                     NSA  16-Nov-2022  Monthly        
-TOTBUSMPCSMSA                 Total Business Sales                                                                                                     SA   16-Nov-2022  Monthly        
-TOTBUSSMNSA                   Total Business Sales                                                                                                     NSA  16-Nov-2022  Monthly        
-TOTBUSSMSA                    Total Business Sales                                                                                                     SA   16-Nov-2022  Monthly        
-WHLSLRIMNSA                   Merchant Wholesalers Inventories                                                                                         NSA  16-Nov-2022  Monthly, End of Period
-WHLSLRIMSA                    Merchant Wholesalers Inventories                                                                                         SA   16-Nov-2022  Monthly, End of Period
-WHLSLRIRNSA                   Merchant Wholesalers: Inventories to Sales Ratio                                                                         NSA  16-Nov-2022  Monthly, End of Period
-WHLSLRIRSA                    Merchant Wholesalers: Inventories to Sales Ratio                                                                         SA   16-Nov-2022  Monthly, End of Period
-WHLSLRMPCIMNSA                Merchant Wholesalers Inventories                                                                                         NSA  16-Nov-2022  Monthly, End of Period
-WHLSLRMPCIMSA                 Merchant Wholesalers Inventories                                                                                         SA   16-Nov-2022  Monthly, End of Period
-WHLSLRMPCSMNSA                Merchant Wholesalers Sales                                                                                               NSA  16-Nov-2022  Monthly        
-WHLSLRMPCSMSA                 Merchant Wholesalers Sales                                                                                               SA   16-Nov-2022  Monthly        
-WHLSLRSMNSA                   Merchant Wholesalers Sales                                                                                               NSA  16-Nov-2022  Monthly        
-WHLSLRSMSA                    Merchant Wholesalers Sales                                                                                               SA   16-Nov-2022  Monthly        
+Release  Id : 25	Manufacturing and Trade Inventories and Sales
+BUSINV                        Total Business Inventories                                                                                               M SA   15-Dec-2022 01-Oct-2022 20-Dec-2022 Monthly, End of Pe 
+ISRATIO                       Total Business: Inventories to Sales Ratio                                                                               R SA   15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+MNFCTRIMNSA                   Manufacturers Inventories                                                                                                M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+MNFCTRIMSA                    Manufacturers Inventories                                                                                                M SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+MNFCTRIRNSA                   Manufacturers: Inventories to Sales Ratio                                                                                R NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+MNFCTRIRSA                    Manufacturers: Inventories to Sales Ratio                                                                                R SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+MNFCTRMPCIMNSA                Manufacturers Inventories                                                                                                P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+MNFCTRMPCIMSA                 Manufacturers Inventories                                                                                                P SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+MNFCTRMPCSMNSA                Manufacturers Sales                                                                                                      P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+MNFCTRMPCSMSA                 Manufacturers Sales                                                                                                      P SA   15-Dec-2022 01-Oct-2022             Monthly            
+MNFCTRSMNSA                   Manufacturers Sales                                                                                                      M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+MNFCTRSMSA                    Manufacturers Sales                                                                                                      M SA   15-Dec-2022 01-Oct-2022             Monthly            
+RETAILIMNSA                   Retailers Inventories                                                                                                    M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+RETAILIMSA                    Retailers Inventories                                                                                                    M SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+RETAILIRNSA                   Retailers: Inventories to Sales Ratio                                                                                    R NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+RETAILIRSA                    Retailers: Inventories to Sales Ratio                                                                                    R SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+RETAILMPCIMNSA                Retailers Inventories                                                                                                    P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+RETAILMPCIMSA                 Retailers Inventories                                                                                                    P SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+RETAILMPCSMNSA                Retailers Sales                                                                                                          P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+RETAILMPCSMSA                 Retailers Sales                                                                                                          P SA   15-Dec-2022 01-Oct-2022             Monthly            
+RETAILSMNSA                   Retailers Sales                                                                                                          M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+RETAILSMSA                    Retailers Sales                                                                                                          M SA   15-Dec-2022 01-Oct-2022             Monthly            
+TOTBUSIMNSA                   Total Business Inventories                                                                                               M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+TOTBUSIRNSA                   Total Business: Inventories to Sales Ratio                                                                               R NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+TOTBUSMPCIMNSA                Total Business Inventories                                                                                               P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+TOTBUSMPCIMSA                 Total Business Inventories                                                                                               P SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+TOTBUSMPCSMNSA                Total Business Sales                                                                                                     P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TOTBUSMPCSMSA                 Total Business Sales                                                                                                     P SA   15-Dec-2022 01-Oct-2022             Monthly            
+TOTBUSSMNSA                   Total Business Sales                                                                                                     M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TOTBUSSMSA                    Total Business Sales                                                                                                     M SA   15-Dec-2022 01-Oct-2022             Monthly            
+WHLSLRIMNSA                   Merchant Wholesalers Inventories                                                                                         M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+WHLSLRIMSA                    Merchant Wholesalers Inventories                                                                                         M SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+WHLSLRIRNSA                   Merchant Wholesalers: Inventories to Sales Ratio                                                                         R NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+WHLSLRIRSA                    Merchant Wholesalers: Inventories to Sales Ratio                                                                         R SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+WHLSLRMPCIMNSA                Merchant Wholesalers Inventories                                                                                         P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly, End of Pe 
+WHLSLRMPCIMSA                 Merchant Wholesalers Inventories                                                                                         P SA   15-Dec-2022 01-Oct-2022             Monthly, End of Pe 
+WHLSLRMPCSMNSA                Merchant Wholesalers Sales                                                                                               P NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+WHLSLRMPCSMSA                 Merchant Wholesalers Sales                                                                                               P SA   15-Dec-2022 01-Oct-2022             Monthly            
+WHLSLRSMNSA                   Merchant Wholesalers Sales                                                                                               M NSA  15-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+WHLSLRSMSA                    Merchant Wholesalers Sales                                                                                               M SA   15-Dec-2022 01-Oct-2022             Monthly            

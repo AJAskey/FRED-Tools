@@ -1,3 +1,3 @@
-Id : 92  Selected Real Retail Sales Series
-RRSFS                         Advance Real Retail and Food Services Sales                                                                              SA   16-Nov-2022  Monthly        
-RSALES                        Real Retail Sales (DISCONTINUED)                                                                                         SA   30-Sep-2005  Monthly        
+Release  Id : 92	Selected Real Retail Sales Series
+RRSFS                         Advance Real Retail and Food Services Sales                                                                              M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSALES                        Real Retail Sales (DISCONTINUED)                                                                                         M SA   30-Sep-2005 01-Apr-2001             Monthly            

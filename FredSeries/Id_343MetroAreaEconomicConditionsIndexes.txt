@@ -1,69 +1,69 @@
-Id : 343  Metro Area Economic Conditions Indexes
-ABQAGRIDX                     Economic Conditions Index for Albuquerque, NM (MSA) (DISCONTINUED)                                                       SAAR 14-Apr-2020  Monthly        
-ALBAGRIDX                     Economic Conditions Index for Albany-Schenectady-Troy, NY (MSA) (DISCONTINUED)                                           SAAR 14-Apr-2020  Monthly        
-ALLAGRIDX                     Economic Conditions Index for Allentown-Bethlehem-Easton, PA-NJ (MSA) (DISCONTINUED)                                     SAAR 14-Apr-2020  Monthly        
-ATLAGRIDX                     Economic Conditions Index for Atlanta-Sandy Springs-Marietta, GA (MSA) (DISCONTINUED)                                    SAAR 14-Apr-2020  Monthly        
-AUSAGRIDX                     Economic Conditions Index for Austin-Round Rock, TX (MSA) (DISCONTINUED)                                                 SAAR 14-Apr-2020  Monthly        
-BAKAGRIDX                     Economic Conditions Index for Bakersfield, CA (MSA) (DISCONTINUED)                                                       SAAR 14-Apr-2020  Monthly        
-BIRAGRIDX                     Economic Conditions Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                                 SAAR 14-Apr-2020  Monthly        
-BSLAGRIDX                     Economic Conditions Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                                        SAAR 14-Apr-2020  Monthly        
-BTMAGRIDX                     Economic Conditions Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                                  SAAR 14-Apr-2020  Monthly        
-BUFAGRIDX                     Economic Conditions Index for Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                                 SAAR 14-Apr-2020  Monthly        
-CBAAGRIDX                     Economic Conditions Index for Columbia, SC (MSA) (DISCONTINUED)                                                          SAAR 14-Apr-2020  Monthly        
-CGRAGRIDX                     Economic Conditions Index for Charlotte-Concord-Gastonia, NC-SC (MSA) (DISCONTINUED)                                     SAAR 14-Apr-2020  Monthly        
-CHIAGRIDX                     Economic Conditions Index for Chicago-Naperville-Joliet, IL-IN-WI (MSA) (DISCONTINUED)                                   SAAR 14-Apr-2020  Monthly        
-COLAGRIDX                     Economic Conditions Index for Columbus, OH (MSA) (DISCONTINUED)                                                          SAAR 14-Apr-2020  Monthly        
-CTIAGRIDX                     Economic Conditions Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                                       SAAR 14-Apr-2020  Monthly        
-CVLAGRIDX                     Economic Conditions Index for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                                  SAAR 14-Apr-2020  Monthly        
-DFWAGRIDX                     Economic Conditions Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                                       SAAR 14-Apr-2020  Monthly        
-DNVAGRIDX                     Economic Conditions Index for Denver-Aurora-Lakewood, CO (MSA) (DISCONTINUED)                                            SAAR 14-Apr-2020  Monthly        
-DWLAGRIDX                     Economic Conditions Index for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                                           SAAR 14-Apr-2020  Monthly        
-GNSAGRIDX                     Economic Conditions Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                             SAAR 14-Apr-2020  Monthly        
-GNVAGRIDX                     Economic Conditions Index for Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                                       SAAR 14-Apr-2020  Monthly        
-GRRAGRIDX                     Economic Conditions Index for Grand Rapids-Wyoming, MI (MSA) (DISCONTINUED)                                              SAAR 14-Apr-2020  Monthly        
-HNBAGRIDX                     Economic Conditions Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                              SAAR 14-Apr-2020  Monthly        
-HTNAGRIDX                     Economic Conditions Index for Houston-The Woodlands-Sugar Land, TX (MSA) (DISCONTINUED)                                  SAAR 14-Apr-2020  Monthly        
-INDAGRIDX                     Economic Conditions Index for Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                                      SAAR 14-Apr-2020  Monthly        
-JAXAGRIDX                     Economic Conditions Index for Jacksonville, FL (MSA) (DISCONTINUED)                                                      SAAR 14-Apr-2020  Monthly        
-KNCAGRIDX                     Economic Conditions Index for Kansas City, MO-KS (MSA) (DISCONTINUED)                                                    SAAR 14-Apr-2020  Monthly        
-LASAGRIDX                     Economic Conditions Index for Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)                                  SAAR 14-Jan-2020  Monthly        
-LOIAGRIDX                     Economic Conditions Index for Louisville/Jefferson County, KY-IN (MSA) (DISCONTINUED)                                    SAAR 14-Apr-2020  Monthly        
-LRSAGRIDX                     Economic Conditions Index for Little Rock-North Little Rock-Conway, AR (MSA) (DISCONTINUED)                              SAAR 14-Apr-2020  Monthly        
-LSVAGRIDX                     Economic Conditions Index for Las Vegas-Henderson-Paradise, NV (MSA) (DISCONTINUED)                                      SAAR 14-Apr-2020  Monthly        
-MIMAGRIDX                     Economic Conditions Index for Miami-Fort Lauderdale-West Palm Beach, FL (MSA) (DISCONTINUED)                             SAAR 14-Apr-2020  Monthly        
-MPHAGRIDX                     Economic Conditions Index for Memphis, TN-MS-AR (MSA) (DISCONTINUED)                                                     SAAR 14-Apr-2020  Monthly        
-MSPAGRIDX                     Economic Conditions Index for Minneapolis-St. Paul-Bloomington, MN-WI (MSA) (DISCONTINUED)                               SAAR 14-Apr-2020  Monthly        
-MWKAGRIDX                     Economic Conditions Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                                     SAAR 14-Apr-2020  Monthly        
-NFKAGRIDX                     Economic Conditions Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                            SAAR 14-Apr-2020  Monthly        
-NHAAGRIDX                     Economic Conditions Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                                 SAAR 14-Apr-2020  Monthly        
-NHRAGRIDX                     Economic Conditions Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                                       SAAR 14-Apr-2020  Monthly        
-NORAGRIDX                     Economic Conditions Index for New Orleans-Metairie, LA (MSA) (DISCONTINUED)                                              SAAR 14-Apr-2020  Monthly        
-NVLAGRIDX                     Economic Conditions Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA) (DISCONTINUED)                        SAAR 14-Apr-2020  Monthly        
-NYLAGRIDX                     Economic Conditions Index for New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)                                 SAAR 14-Apr-2020  Monthly        
-OKCAGRIDX                     Economic Conditions Index for Oklahoma City, OK (MSA) (DISCONTINUED)                                                     SAAR 14-Apr-2020  Monthly        
-ORLAGRIDX                     Economic Conditions Index for Orlando-Kissimmee-Sanford, FL (MSA) (DISCONTINUED)                                         SAAR 14-Apr-2020  Monthly        
-PCWAGRIDX                     Economic Conditions Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                           SAAR 14-Apr-2020  Monthly        
-PHXAGRIDX                     Economic Conditions Index for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                           SAAR 14-Apr-2020  Monthly        
-PITAGRIDX                     Economic Conditions Index for Pittsburgh, PA (MSA) (DISCONTINUED)                                                        SAAR 14-Apr-2020  Monthly        
-PORAGRIDX                     Economic Conditions Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                                   SAAR 14-Apr-2020  Monthly        
-PPWAGRIDX                     Economic Conditions Index for Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                                             SAAR 14-Apr-2020  Monthly        
-RCPAGRIDX                     Economic Conditions Index for Richmond, VA (MSA) (DISCONTINUED)                                                          SAAR 14-Apr-2020  Monthly        
-RCYAGRIDX                     Economic Conditions Index for Raleigh, NC (MSA) (DISCONTINUED)                                                           SAAR 14-Apr-2020  Monthly        
-ROHAGRIDX                     Economic Conditions Index for Rochester, NY (MSA) (DISCONTINUED)                                                         SAAR 14-Apr-2020  Monthly        
-RSBAGRIDX                     Economic Conditions Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                  SAAR 14-Apr-2020  Monthly        
-SARAGRIDX                     Economic Conditions Index for North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                                     SAAR 14-Apr-2020  Monthly        
-SATAGRIDX                     Economic Conditions Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                         SAAR 14-Apr-2020  Monthly        
-SDIAGRIDX                     Economic Conditions Index for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                                SAAR 14-Apr-2020  Monthly        
-SFCAGRIDX                     Economic Conditions Index for San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                     SAAR 14-Apr-2020  Monthly        
-SLCAGRIDX                     Economic Conditions Index for Salt Lake City, UT (MSA) (DISCONTINUED)                                                    SAAR 14-Apr-2020  Monthly        
-SSCAGRIDX                     Economic Conditions Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                    SAAR 14-Apr-2020  Monthly        
-STLAGRIDX                     Economic Conditions Index for St. Louis, MO-IL (MSA) (DISCONTINUED)                                                      SAAR 14-Apr-2020  Monthly        
-STWAGRIDX                     Economic Conditions Index for Seattle-Tacoma-Bellevue, WA (MSA) (DISCONTINUED)                                           SAAR 14-Apr-2020  Monthly        
-SYOAGRIDX                     Economic Conditions Index for Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                               SAAR 14-Apr-2020  Monthly        
-TMAAGRIDX                     Economic Conditions Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                                   SAAR 14-Apr-2020  Monthly        
-TUCAGRIDX                     Economic Conditions Index for Tucson, AZ (MSA) (DISCONTINUED)                                                            SAAR 14-Apr-2020  Monthly        
-TULAGRIDX                     Economic Conditions Index for Tulsa, OK (MSA) (DISCONTINUED)                                                             SAAR 14-Apr-2020  Monthly        
-URHAGRIDX                     Economic Conditions Index for Urban Honolulu, HI (MSA) (DISCONTINUED)                                                    SAAR 14-Apr-2020  Monthly        
-VENAGRIDX                     Economic Conditions Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                      SAAR 14-Apr-2020  Monthly        
-WAAAGRIDX                     Economic Conditions Index for Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (DISCONTINUED)                          SAAR 14-Apr-2020  Monthly        
-WTRAGRIDX                     Economic Conditions Index for Worcester, MA-CT (MSA) (DISCONTINUED)                                                      SAAR 14-Apr-2020  Monthly        
+Release  Id : 343	Metro Area Economic Conditions Indexes
+ABQAGRIDX                     Economic Conditions Index for Albuquerque, NM (MSA) (DISCONTINUED)                                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+ALBAGRIDX                     Economic Conditions Index for Albany-Schenectady-Troy, NY (MSA) (DISCONTINUED)                                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+ALLAGRIDX                     Economic Conditions Index for Allentown-Bethlehem-Easton, PA-NJ (MSA) (DISCONTINUED)                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+ATLAGRIDX                     Economic Conditions Index for Atlanta-Sandy Springs-Marietta, GA (MSA) (DISCONTINUED)                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+AUSAGRIDX                     Economic Conditions Index for Austin-Round Rock, TX (MSA) (DISCONTINUED)                                                 P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+BAKAGRIDX                     Economic Conditions Index for Bakersfield, CA (MSA) (DISCONTINUED)                                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+BIRAGRIDX                     Economic Conditions Index for Birmingham-Hoover, AL (MSA) (DISCONTINUED)                                                 P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+BSLAGRIDX                     Economic Conditions Index for Boston-Cambridge-Quincy, MA-NH (MSA) (DISCONTINUED)                                        P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+BTMAGRIDX                     Economic Conditions Index for Baltimore-Towson, MD (MSA) (DISCONTINUED)                                                  P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+BUFAGRIDX                     Economic Conditions Index for Buffalo-Cheektowaga-Niagara Falls, NY (MSA) (DISCONTINUED)                                 P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+CBAAGRIDX                     Economic Conditions Index for Columbia, SC (MSA) (DISCONTINUED)                                                          P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+CGRAGRIDX                     Economic Conditions Index for Charlotte-Concord-Gastonia, NC-SC (MSA) (DISCONTINUED)                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+CHIAGRIDX                     Economic Conditions Index for Chicago-Naperville-Joliet, IL-IN-WI (MSA) (DISCONTINUED)                                   P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+COLAGRIDX                     Economic Conditions Index for Columbus, OH (MSA) (DISCONTINUED)                                                          P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+CTIAGRIDX                     Economic Conditions Index for Cincinnati-Middletown, OH-KY-IN (MSA) (DISCONTINUED)                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+CVLAGRIDX                     Economic Conditions Index for Cleveland-Elyria, OH (MSA) (DISCONTINUED)                                                  P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+DFWAGRIDX                     Economic Conditions Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+DNVAGRIDX                     Economic Conditions Index for Denver-Aurora-Lakewood, CO (MSA) (DISCONTINUED)                                            P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+DWLAGRIDX                     Economic Conditions Index for Detroit-Warren-Dearborn, MI (MSA) (DISCONTINUED)                                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+GNSAGRIDX                     Economic Conditions Index for Greensboro-High Point, NC (MSA) (DISCONTINUED)                                             P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+GNVAGRIDX                     Economic Conditions Index for Greenville-Anderson-Mauldin, SC (MSA) (DISCONTINUED)                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+GRRAGRIDX                     Economic Conditions Index for Grand Rapids-Wyoming, MI (MSA) (DISCONTINUED)                                              P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+HNBAGRIDX                     Economic Conditions Index for Hartford-West Hartford-East Hartford, CT (MSA) (DISCONTINUED)                              P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+HTNAGRIDX                     Economic Conditions Index for Houston-The Woodlands-Sugar Land, TX (MSA) (DISCONTINUED)                                  P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+INDAGRIDX                     Economic Conditions Index for Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+JAXAGRIDX                     Economic Conditions Index for Jacksonville, FL (MSA) (DISCONTINUED)                                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+KNCAGRIDX                     Economic Conditions Index for Kansas City, MO-KS (MSA) (DISCONTINUED)                                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+LASAGRIDX                     Economic Conditions Index for Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)                                  P SAAR 14-Jan-2020 01-Sep-2019             Monthly            
+LOIAGRIDX                     Economic Conditions Index for Louisville/Jefferson County, KY-IN (MSA) (DISCONTINUED)                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+LRSAGRIDX                     Economic Conditions Index for Little Rock-North Little Rock-Conway, AR (MSA) (DISCONTINUED)                              P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+LSVAGRIDX                     Economic Conditions Index for Las Vegas-Henderson-Paradise, NV (MSA) (DISCONTINUED)                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+MIMAGRIDX                     Economic Conditions Index for Miami-Fort Lauderdale-West Palm Beach, FL (MSA) (DISCONTINUED)                             P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+MPHAGRIDX                     Economic Conditions Index for Memphis, TN-MS-AR (MSA) (DISCONTINUED)                                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+MSPAGRIDX                     Economic Conditions Index for Minneapolis-St. Paul-Bloomington, MN-WI (MSA) (DISCONTINUED)                               P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+MWKAGRIDX                     Economic Conditions Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NFKAGRIDX                     Economic Conditions Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)                            P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NHAAGRIDX                     Economic Conditions Index for New Haven-Milford, CT (MSA) (DISCONTINUED)                                                 P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NHRAGRIDX                     Economic Conditions Index for Bridgeport-Stamford-Norwalk, CT (MSA) (DISCONTINUED)                                       P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NORAGRIDX                     Economic Conditions Index for New Orleans-Metairie, LA (MSA) (DISCONTINUED)                                              P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NVLAGRIDX                     Economic Conditions Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA) (DISCONTINUED)                        P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+NYLAGRIDX                     Economic Conditions Index for New York-Newark-Jersey City, NY-NJ-PA (MSA) (DISCONTINUED)                                 P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+OKCAGRIDX                     Economic Conditions Index for Oklahoma City, OK (MSA) (DISCONTINUED)                                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+ORLAGRIDX                     Economic Conditions Index for Orlando-Kissimmee-Sanford, FL (MSA) (DISCONTINUED)                                         P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+PCWAGRIDX                     Economic Conditions Index for Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA) (DISCONTINUED)                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+PHXAGRIDX                     Economic Conditions Index for Phoenix-Mesa-Scottsdale, AZ (MSA) (DISCONTINUED)                                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+PITAGRIDX                     Economic Conditions Index for Pittsburgh, PA (MSA) (DISCONTINUED)                                                        P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+PORAGRIDX                     Economic Conditions Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)                                   P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+PPWAGRIDX                     Economic Conditions Index for Providence-Warwick, RI-MA (MSA) (DISCONTINUED)                                             P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+RCPAGRIDX                     Economic Conditions Index for Richmond, VA (MSA) (DISCONTINUED)                                                          P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+RCYAGRIDX                     Economic Conditions Index for Raleigh, NC (MSA) (DISCONTINUED)                                                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+ROHAGRIDX                     Economic Conditions Index for Rochester, NY (MSA) (DISCONTINUED)                                                         P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+RSBAGRIDX                     Economic Conditions Index for Riverside-San Bernardino-Ontario, CA (MSA) (DISCONTINUED)                                  P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SARAGRIDX                     Economic Conditions Index for North Port-Sarasota-Bradenton, FL (MSA) (DISCONTINUED)                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SATAGRIDX                     Economic Conditions Index for San Antonio-New Braunfels, TX (MSA) (DISCONTINUED)                                         P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SDIAGRIDX                     Economic Conditions Index for San Diego-Carlsbad, CA (MSA) (DISCONTINUED)                                                P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SFCAGRIDX                     Economic Conditions Index for San Francisco-Oakland-Hayward, CA (MSA) (DISCONTINUED)                                     P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SLCAGRIDX                     Economic Conditions Index for Salt Lake City, UT (MSA) (DISCONTINUED)                                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SSCAGRIDX                     Economic Conditions Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+STLAGRIDX                     Economic Conditions Index for St. Louis, MO-IL (MSA) (DISCONTINUED)                                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+STWAGRIDX                     Economic Conditions Index for Seattle-Tacoma-Bellevue, WA (MSA) (DISCONTINUED)                                           P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+SYOAGRIDX                     Economic Conditions Index for Sacramento--Roseville--Arden-Arcade, CA (MSA) (DISCONTINUED)                               P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+TMAAGRIDX                     Economic Conditions Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)                                   P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+TUCAGRIDX                     Economic Conditions Index for Tucson, AZ (MSA) (DISCONTINUED)                                                            P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+TULAGRIDX                     Economic Conditions Index for Tulsa, OK (MSA) (DISCONTINUED)                                                             P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+URHAGRIDX                     Economic Conditions Index for Urban Honolulu, HI (MSA) (DISCONTINUED)                                                    P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+VENAGRIDX                     Economic Conditions Index for Oxnard-Thousand Oaks-Ventura, CA (MSA) (DISCONTINUED)                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+WAAAGRIDX                     Economic Conditions Index for Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA) (DISCONTINUED)                          P SAAR 14-Apr-2020 01-Dec-2019             Monthly            
+WTRAGRIDX                     Economic Conditions Index for Worcester, MA-CT (MSA) (DISCONTINUED)                                                      P SAAR 14-Apr-2020 01-Dec-2019             Monthly            

@@ -1,6 +1,6 @@
-Id : 305  Swiss National Bank Monthly Statistical Bulletin
-SNBFORCURPOS                  Relevant Foreign Currency Positions of Swiss National Bank                                                               NSA  21-Nov-2022  Monthly        
-SNBMMT                        Money Market Transactions Conducted by Swiss National Bank                                                               NSA  21-Nov-2022  Monthly        
-SNBMONTBASE                   Swiss Monetary Base Aggregate                                                                                            NSA  21-Nov-2022  Monthly        
-SNBREMBALPOS                  Balance of the Remaining Balance Sheet Positions of Swiss National Bank                                                  NSA  21-Nov-2022  Monthly        
-SNBSECRPORT                   Securities Portfolio of Swiss National Bank                                                                              NSA  21-Nov-2022  Monthly        
+Release  Id : 305	Swiss National Bank Monthly Statistical Bulletin
+SNBFORCURPOS                  Relevant Foreign Currency Positions of Swiss National Bank                                                               M NSA  21-Dec-2022 01-Oct-2022             Monthly            
+SNBMMT                        Money Market Transactions Conducted by Swiss National Bank                                                               M NSA  21-Dec-2022 01-Oct-2022             Monthly            
+SNBMONTBASE                   Swiss Monetary Base Aggregate                                                                                            M NSA  21-Dec-2022 01-Nov-2022             Monthly            
+SNBREMBALPOS                  Balance of the Remaining Balance Sheet Positions of Swiss National Bank                                                  M NSA  21-Dec-2022 01-Oct-2022             Monthly            
+SNBSECRPORT                   Securities Portfolio of Swiss National Bank                                                                              M NSA  21-Dec-2022 01-Oct-2022             Monthly            

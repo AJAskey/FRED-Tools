@@ -1,2 +1,2 @@
-Id : 104  Federal Reserve Bulletin
-DISCOUNT                      Discount Rate Changes: Historical Dates of Changes and Rates (DISCONTINUED)                                              NSA  23-Jul-2003  Not Applicable 
+Release  Id : 104	Federal Reserve Bulletin
+DISCOUNT                      Discount Rate Changes: Historical Dates of Changes and Rates (DISCONTINUED)                                              P NSA  23-Jul-2003 06-Nov-2002             Not Applicable     

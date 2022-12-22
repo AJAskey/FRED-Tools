@@ -1,5 +1,5 @@
-Id : 101  FOMC Press Release
-CDC                           Rate for Credit Under the Century Date Change Special Liquidity Facility (DISCONTINUED)                                  NSA  02-Feb-2000  Not Applicable 
-DFEDTAR                       Federal Funds Target Rate (DISCONTINUED)                                                                                 NSA  04-May-2015  Daily, 7-Day   
-DFEDTARL                      Federal Funds Target Range - Lower Limit                                                                                 NSA  11-Dec-2022  Daily, 7-Day   
-DFEDTARU                      Federal Funds Target Range - Upper Limit                                                                                 NSA  11-Dec-2022  Daily, 7-Day   
+Release  Id : 101	FOMC Press Release
+CDC                           Rate for Credit Under the Century Date Change Special Liquidity Facility (DISCONTINUED)                                  P NSA  02-Feb-2000 02-Feb-2000             Not Applicable     
+DFEDTAR                       Federal Funds Target Rate (DISCONTINUED)                                                                                 P NSA  04-May-2015 15-Dec-2008             Daily, 7-Day       
+DFEDTARL                      Federal Funds Target Range - Lower Limit                                                                                 P NSA  22-Dec-2022 22-Dec-2022 21-Dec-2022 Daily, 7-Day       
+DFEDTARU                      Federal Funds Target Range - Upper Limit                                                                                 P NSA  22-Dec-2022 22-Dec-2022 21-Dec-2022 Daily, 7-Day       

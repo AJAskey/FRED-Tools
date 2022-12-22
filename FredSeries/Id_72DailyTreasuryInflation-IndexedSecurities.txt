@@ -1,79 +1,79 @@
-Id : 72  Daily Treasury Inflation-Indexed Securities
-DTP10J07                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                             NSA  12-Jan-2007  Daily          
-DTP10J08                      10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                             NSA  16-Jan-2008  Daily          
-DTP10J09                      10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                             NSA  14-Jan-2009  Daily          
-DTP10J10                      10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                             NSA  14-Jan-2010  Daily          
-DTP10J11                      10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                             NSA  18-Jan-2011  Daily          
-DTP10J12                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                             NSA  17-Jan-2012  Daily          
-DTP10J14                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                 NSA  16-Jan-2014  Daily          
-DTP10J15                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                             NSA  16-Jan-2015  Daily          
-DTP10J16                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                 NSA  19-Jan-2016  Daily          
-DTP10J17                      10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                             NSA  17-Jan-2017  Daily          
-DTP10J18                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                             NSA  16-Jan-2018  Daily          
-DTP10J19                      10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                             NSA  16-Jan-2019  Daily          
-DTP10J20                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                             NSA  16-Jan-2020  Daily          
-DTP10J21                      10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                             NSA  14-Jan-2021  Daily          
-DTP10J22                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2022 (DISCONTINUED)                                             NSA  18-Jan-2022  Daily          
-DTP10J23                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2023                                                            NSA  09-Dec-2022  Daily          
-DTP10J24                      10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 1/15/2024                                                            NSA  09-Dec-2022  Daily          
-DTP10J25                      10-Year 0-1/4% Treasury Inflation-Indexed Note, Due 1/15/2025                                                            NSA  09-Dec-2022  Daily          
-DTP10J26                      10-Year 0.625% Treasury Inflation-Indexed Note, Due 1/15/2026                                                            NSA  09-Dec-2022  Daily          
-DTP10J27                      10-Year 0.375 Treasury Inflation-Indexed Note, Due 1/15/2027                                                             NSA  09-Dec-2022  Daily          
-DTP10J28                      10-Year 0.5% Treasury Inflation-Indexed Note, Due 1/15/2028                                                              NSA  09-Dec-2022  Daily          
-DTP10J29                      10-Year 0.875% Treasury Inflation-Indexed Note, Due 1/15/2029                                                            NSA  09-Dec-2022  Daily          
-DTP10J30                      10-Year 0.125% Treasury Inflation-Indexed Bond, Due 01/15/2030                                                           NSA  09-Dec-2022  Daily          
-DTP10L12                      10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                 NSA  16-Jul-2012  Daily          
-DTP10L13                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                             NSA  15-Jul-2013  Daily          
-DTP10L14                      10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                 NSA  16-Jul-2014  Daily          
-DTP10L15                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                             NSA  16-Jul-2015  Daily          
-DTP10L16                      10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                             NSA  18-Jul-2016  Daily          
-DTP10L17                      10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                             NSA  14-Jul-2017  Daily          
-DTP10L18                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                             NSA  12-Jul-2018  Daily          
-DTP10L19                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                             NSA  16-Jul-2019  Daily          
-DTP10L20                      10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                             NSA  16-Jul-2020  Daily          
-DTP10L21                      10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 7/15/2021 (DISCONTINUED)                                             NSA  16-Jul-2021  Daily          
-DTP10L22                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2022 (DISCONTINUED)                                             NSA  14-Jul-2022  Daily          
-DTP10L23                      10-Year 0-3/8% Treasury Inflation-Indexed Note, Due 7/15/2023                                                            NSA  09-Dec-2022  Daily          
-DTP10L24                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2024                                                            NSA  09-Dec-2022  Daily          
-DTP10L25                      10-Year 0.375% Treasury Inflation-Indexed Note, Due 07/15/2025                                                           NSA  09-Dec-2022  Daily          
-DTP10L26                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2026                                                            NSA  09-Dec-2022  Daily          
-DTP10L27                      10-Year 0.375% Treasury Inflation-Indexed Note, Due 7/15/2027                                                            NSA  09-Dec-2022  Daily          
-DTP10L28                      10-Year 0.75% Treasury Inflation-Indexed Note, Due 7/15/2028                                                             NSA  09-Dec-2022  Daily          
-DTP10L29                      10-Year 0.25% Treasury Inflation-Indexed Note, Due 7/15/2029                                                             NSA  09-Dec-2022  Daily          
-DTP20J25                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025                                                            NSA  09-Dec-2022  Daily          
-DTP20J26                      20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026                                                                NSA  09-Dec-2022  Daily          
-DTP20J27                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027                                                            NSA  09-Dec-2022  Daily          
-DTP20J28                      20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028                                                            NSA  09-Dec-2022  Daily          
-DTP20J29                      20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029                                                            NSA  09-Dec-2022  Daily          
-DTP30A28                      30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028                                                            NSA  09-Dec-2022  Daily          
-DTP30A29                      30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029                                                            NSA  09-Dec-2022  Daily          
-DTP30F40                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040                                                            NSA  09-Dec-2022  Daily          
-DTP30F41                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041                                                            NSA  09-Dec-2022  Daily          
-DTP30F42                      30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2042                                                            NSA  09-Dec-2022  Daily          
-DTP30F43                      30-Year 0-5/8% Treasury Inflation-Indexed Bond, Due 2/15/2043                                                            NSA  09-Dec-2022  Daily          
-DTP30F44                      30-Year 1-3/8% Treasury Inflation-Indexed Note, Due 2/15/2044                                                            NSA  09-Dec-2022  Daily          
-DTP30F45                      30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2045                                                            NSA  09-Dec-2022  Daily          
-DTP30F46                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2046                                                              NSA  09-Dec-2022  Daily          
-DTP30F47                      30-Year 0.875% Treasury Inflation-Indexed Bond, Due 2/15/2047                                                            NSA  09-Dec-2022  Daily          
-DTP30F48                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2048                                                              NSA  09-Dec-2022  Daily          
-DTP30F49                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049                                                              NSA  09-Dec-2022  Daily          
-DTP30F50                      30-Year 0.250% Treasury Inflation-Indexed Bond, Due 02/15/2050                                                           NSA  09-Dec-2022  Daily          
-DTP3HA32                      30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032                                                        NSA  09-Dec-2022  Daily          
-DTP5A10                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                     NSA  16-Apr-2010  Daily          
-DTP5A11                       5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                              NSA  15-Apr-2011  Daily          
-DTP5A12                       5-Year 2% Treasury Inflation-Indexed Note, Due 4/15/2012 (DISCONTINUED)                                                  NSA  16-Apr-2012  Daily          
-DTP5A13                       5-Year 5/8% Treasury Inflation-Indexed Note, Due 4/15/2013 (DISCONTINUED)                                                NSA  15-Apr-2013  Daily          
-DTP5A14                       5-Year 1-1/4% Treasury Inflation-Indexed Note, Due 4/15/2014 (DISCONTINUED)                                              NSA  16-Apr-2014  Daily          
-DTP5A15                       5-Year 0-1/2% Treasury Inflation-Indexed Note, Due 4/15/2015 (DISCONTINUED)                                              NSA  16-Apr-2015  Daily          
-DTP5A16                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2016 (DISCONTINUED)                                              NSA  18-Apr-2016  Daily          
-DTP5A17                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2017 (DISCONTINUED)                                              NSA  13-Apr-2017  Daily          
-DTP5A18                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2018 (DISCONTINUED)                                              NSA  16-Apr-2018  Daily          
-DTP5A19                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2019 (DISCONTINUED)                                              NSA  16-Apr-2019  Daily          
-DTP5A20                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2020 (DISCONTINUED)                                              NSA  15-Apr-2020  Daily          
-DTP5A21                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2021 (DISCONTINUED)                                                     NSA  15-Apr-2021  Daily          
-DTP5A22                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2022 (DISCONTINUED)                                              NSA  15-Apr-2022  Daily          
-DTP5A23                       5-Year 0.625% Treasury Inflation-Indexed Note, Due 4/15/2023                                                             NSA  09-Dec-2022  Daily          
-DTP5A24                       5-Year 0.500% Treasury Inflation-Indexed Note, Due 4/15/2024                                                             NSA  09-Dec-2022  Daily          
-DTP5A25                       5-Year 0.125% Treasury Inflation-Indexed Bond, Due 4/15/2025                                                             NSA  09-Dec-2022  Daily          
-DTP5C24                       5-Year 0.125% Treasury Inflation-Indexed Bond, Due 10/15/2024                                                            NSA  09-Dec-2022  Daily          
-DTP5L02                       5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                     NSA  10-Dec-2002  Daily          
+Release  Id : 72	Daily Treasury Inflation-Indexed Securities
+DTP10J07                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                             P NSA  12-Jan-2007 11-Jan-2007             Daily              
+DTP10J08                      10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                             P NSA  16-Jan-2008 15-Jan-2008             Daily              
+DTP10J09                      10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                             P NSA  14-Jan-2009 13-Jan-2009             Daily              
+DTP10J10                      10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                             P NSA  14-Jan-2010 13-Jan-2010             Daily              
+DTP10J11                      10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                             P NSA  18-Jan-2011 14-Jan-2011             Daily              
+DTP10J12                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                             P NSA  17-Jan-2012 13-Jan-2012             Daily              
+DTP10J14                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                 P NSA  16-Jan-2014 15-Jan-2014             Daily              
+DTP10J15                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                             P NSA  16-Jan-2015 15-Jan-2015             Daily              
+DTP10J16                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                 P NSA  19-Jan-2016 15-Jan-2016             Daily              
+DTP10J17                      10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                             P NSA  17-Jan-2017 13-Jan-2017             Daily              
+DTP10J18                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                             P NSA  16-Jan-2018 12-Jan-2018             Daily              
+DTP10J19                      10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                             P NSA  16-Jan-2019 15-Jan-2019             Daily              
+DTP10J20                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                             P NSA  16-Jan-2020 15-Jan-2020             Daily              
+DTP10J21                      10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                             P NSA  14-Jan-2021 13-Jan-2021             Daily              
+DTP10J22                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2022 (DISCONTINUED)                                             P NSA  18-Jan-2022 14-Jan-2022             Daily              
+DTP10J23                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2023                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J24                      10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 1/15/2024                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J25                      10-Year 0-1/4% Treasury Inflation-Indexed Note, Due 1/15/2025                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J26                      10-Year 0.625% Treasury Inflation-Indexed Note, Due 1/15/2026                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J27                      10-Year 0.375 Treasury Inflation-Indexed Note, Due 1/15/2027                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J28                      10-Year 0.5% Treasury Inflation-Indexed Note, Due 1/15/2028                                                              P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J29                      10-Year 0.875% Treasury Inflation-Indexed Note, Due 1/15/2029                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10J30                      10-Year 0.125% Treasury Inflation-Indexed Bond, Due 01/15/2030                                                           P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L12                      10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                 P NSA  16-Jul-2012 13-Jul-2012             Daily              
+DTP10L13                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                             P NSA  15-Jul-2013 12-Jul-2013             Daily              
+DTP10L14                      10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                 P NSA  16-Jul-2014 15-Jul-2014             Daily              
+DTP10L15                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                             P NSA  16-Jul-2015 15-Jul-2015             Daily              
+DTP10L16                      10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                             P NSA  18-Jul-2016 15-Jul-2016             Daily              
+DTP10L17                      10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                             P NSA  14-Jul-2017 13-Jul-2017             Daily              
+DTP10L18                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                             P NSA  12-Jul-2018 11-Jul-2018             Daily              
+DTP10L19                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                             P NSA  16-Jul-2019 15-Jul-2019             Daily              
+DTP10L20                      10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                             P NSA  16-Jul-2020 15-Jul-2020             Daily              
+DTP10L21                      10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 7/15/2021 (DISCONTINUED)                                             P NSA  16-Jul-2021 15-Jul-2021             Daily              
+DTP10L22                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2022 (DISCONTINUED)                                             P NSA  14-Jul-2022 13-Jul-2022             Daily              
+DTP10L23                      10-Year 0-3/8% Treasury Inflation-Indexed Note, Due 7/15/2023                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L24                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2024                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L25                      10-Year 0.375% Treasury Inflation-Indexed Note, Due 07/15/2025                                                           P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L26                      10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2026                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L27                      10-Year 0.375% Treasury Inflation-Indexed Note, Due 7/15/2027                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L28                      10-Year 0.75% Treasury Inflation-Indexed Note, Due 7/15/2028                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP10L29                      10-Year 0.25% Treasury Inflation-Indexed Note, Due 7/15/2029                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP20J25                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP20J26                      20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026                                                                P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP20J27                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP20J28                      20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP20J29                      20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30A28                      30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30A29                      30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F40                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F41                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F42                      30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2042                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F43                      30-Year 0-5/8% Treasury Inflation-Indexed Bond, Due 2/15/2043                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F44                      30-Year 1-3/8% Treasury Inflation-Indexed Note, Due 2/15/2044                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F45                      30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2045                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F46                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2046                                                              P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F47                      30-Year 0.875% Treasury Inflation-Indexed Bond, Due 2/15/2047                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F48                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2048                                                              P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F49                      30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049                                                              P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP30F50                      30-Year 0.250% Treasury Inflation-Indexed Bond, Due 02/15/2050                                                           P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP3HA32                      30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032                                                        P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP5A10                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                     P NSA  16-Apr-2010 15-Apr-2010             Daily              
+DTP5A11                       5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                              P NSA  15-Apr-2011 14-Apr-2011             Daily              
+DTP5A12                       5-Year 2% Treasury Inflation-Indexed Note, Due 4/15/2012 (DISCONTINUED)                                                  P NSA  16-Apr-2012 13-Apr-2012             Daily              
+DTP5A13                       5-Year 5/8% Treasury Inflation-Indexed Note, Due 4/15/2013 (DISCONTINUED)                                                P NSA  15-Apr-2013 12-Apr-2013             Daily              
+DTP5A14                       5-Year 1-1/4% Treasury Inflation-Indexed Note, Due 4/15/2014 (DISCONTINUED)                                              P NSA  16-Apr-2014 15-Apr-2014             Daily              
+DTP5A15                       5-Year 0-1/2% Treasury Inflation-Indexed Note, Due 4/15/2015 (DISCONTINUED)                                              P NSA  16-Apr-2015 15-Apr-2015             Daily              
+DTP5A16                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2016 (DISCONTINUED)                                              P NSA  18-Apr-2016 15-Apr-2016             Daily              
+DTP5A17                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2017 (DISCONTINUED)                                              P NSA  13-Apr-2017 12-Apr-2017             Daily              
+DTP5A18                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2018 (DISCONTINUED)                                              P NSA  16-Apr-2018 13-Apr-2018             Daily              
+DTP5A19                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2019 (DISCONTINUED)                                              P NSA  16-Apr-2019 15-Apr-2019             Daily              
+DTP5A20                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2020 (DISCONTINUED)                                              P NSA  15-Apr-2020 14-Apr-2020             Daily              
+DTP5A21                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2021 (DISCONTINUED)                                                     P NSA  15-Apr-2021 14-Apr-2021             Daily              
+DTP5A22                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2022 (DISCONTINUED)                                              P NSA  15-Apr-2022 14-Apr-2022             Daily              
+DTP5A23                       5-Year 0.625% Treasury Inflation-Indexed Note, Due 4/15/2023                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP5A24                       5-Year 0.500% Treasury Inflation-Indexed Note, Due 4/15/2024                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP5A25                       5-Year 0.125% Treasury Inflation-Indexed Bond, Due 4/15/2025                                                             P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP5C24                       5-Year 0.125% Treasury Inflation-Indexed Bond, Due 10/15/2024                                                            P NSA  13-Dec-2022 12-Dec-2022             Daily              
+DTP5L02                       5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                     P NSA  10-Dec-2002 15-Feb-2002             Daily              

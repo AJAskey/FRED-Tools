@@ -1,2 +1,2 @@
-Id : 268  United Kingdom Main Aggregates of National Accounts
-UKNGDP                        Gross Domestic Product for United Kingdom                                                                                SA   14-Nov-2022  Quarterly      
+Release  Id : 268	United Kingdom Main Aggregates of National Accounts
+UKNGDP                        Gross Domestic Product for United Kingdom                                                                                M SA   22-Dec-2022 01-Jul-2022             Quarterly          

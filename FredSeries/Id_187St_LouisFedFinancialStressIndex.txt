@@ -1,5 +1,5 @@
-Id : 187  St. Louis Fed Financial Stress Index
-STLFSI                        St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                      NSA  19-Mar-2020  Weekly, Ending Friday
-STLFSI2                       St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                      NSA  13-Jan-2022  Weekly, Ending Friday
-STLFSI3                       St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                      NSA  03-Nov-2022  Weekly, Ending Friday
-STLFSI4                       St. Louis Fed Financial Stress Index                                                                                     NSA  08-Dec-2022  Weekly, Ending Friday
+Release  Id : 187	St. Louis Fed Financial Stress Index
+STLFSI                        St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                        NSA  19-Mar-2020 13-Mar-2020             Weekly, Ending Fri 
+STLFSI2                       St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                        NSA  13-Jan-2022 07-Jan-2022             Weekly, Ending Fri 
+STLFSI3                       St. Louis Fed Financial Stress Index (DISCONTINUED)                                                                        NSA  03-Nov-2022 28-Oct-2022             Weekly, Ending Fri 
+STLFSI4                       St. Louis Fed Financial Stress Index                                                                                       NSA  22-Dec-2022 16-Dec-2022 15-Dec-2022 Weekly, Ending Fri 

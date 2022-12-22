@@ -1,31 +1,31 @@
-Id : 201  International Indexes of Consumer Prices
-AUSCPIBLS                     Consumer Price Index in Australia (DISCONTINUED)                                                                         NSA  11-Mar-2013  Annual         
-AUTCPIBLS                     Consumer Price Index in Austria (DISCONTINUED)                                                                           NSA  11-Mar-2013  Annual         
-AUTHICPBLS                    Harmonized Index of Consumer Prices in Austria (DISCONTINUED)                                                            NSA  11-Mar-2013  Annual         
-BELCPIBLS                     Consumer Price Index in Belgium (DISCONTINUED)                                                                           NSA  11-Mar-2013  Annual         
-BELHICPBLS                    Harmonized Index of Consumer Prices in Belgium (DISCONTINUED)                                                            NSA  11-Mar-2013  Annual         
-CANCPIBLS                     Consumer Price Index in Canada (DISCONTINUED)                                                                            NSA  11-Mar-2013  Annual         
-CHECPIBLS                     Consumer Price Index in Switzerland (DISCONTINUED)                                                                       NSA  11-Mar-2013  Annual         
-CHEHICPBLS                    Harmonized Index of Consumer Prices in Switzerland (DISCONTINUED)                                                        NSA  11-Mar-2013  Annual         
-DEUCPIBLS                     Consumer Price Index in Germany (DISCONTINUED)                                                                           NSA  11-Mar-2013  Annual         
-DEUHICPBLS                    Harmonized Index of Consumer Prices in Germany (DISCONTINUED)                                                            NSA  11-Mar-2013  Annual         
-DNKCPIBLS                     Consumer Price Index in Denmark (DISCONTINUED)                                                                           NSA  11-Mar-2013  Annual         
-DNKHICPBLS                    Harmonized Index of Consumer Prices in Denmark (DISCONTINUED)                                                            NSA  11-Mar-2013  Annual         
-ESPCPIBLS                     Consumer Price Index in Spain (DISCONTINUED)                                                                             NSA  11-Mar-2013  Annual         
-ESPHICPBLS                    Harmonized Index of Consumer Prices in Spain (DISCONTINUED)                                                              NSA  11-Mar-2013  Annual         
-FRACPIBLS                     Consumer Price Index in France (DISCONTINUED)                                                                            NSA  11-Mar-2013  Annual         
-FRAHICPBLS                    Harmonized Index of Consumer Prices in France (DISCONTINUED)                                                             NSA  11-Mar-2013  Annual         
-GBRCPIBLS                     Consumer Price Index in the United Kingdom (DISCONTINUED)                                                                NSA  11-Mar-2013  Annual         
-GBRHICPBLS                    Harmonized Index of Consumer Prices in the United Kingdom (DISCONTINUED)                                                 NSA  11-Mar-2013  Annual         
-ITACPIBLS                     Consumer Price Index in Italy (DISCONTINUED)                                                                             NSA  11-Mar-2013  Annual         
-ITAHICPBLS                    Harmonized Index of Consumer Prices in Italy (DISCONTINUED)                                                              NSA  11-Mar-2013  Annual         
-JPNCPIBLS                     Consumer Price Index in Japan (DISCONTINUED)                                                                             NSA  11-Mar-2013  Annual         
-JPNHICPBLS                    Harmonized Index of Consumer Prices in Japan (DISCONTINUED)                                                              NSA  11-Mar-2013  Annual         
-NLDCPIBLS                     Consumer Price Index in Netherlands (DISCONTINUED)                                                                       NSA  11-Mar-2013  Annual         
-NLDHICPBLS                    Harmonized Index of Consumer Prices in Netherlands (DISCONTINUED)                                                        NSA  11-Mar-2013  Annual         
-NORCPIBLS                     Consumer Price Index in Norway (DISCONTINUED)                                                                            NSA  11-Mar-2013  Annual         
-NORHICPBLS                    Harmonized Index of Consumer Prices in Norway (DISCONTINUED)                                                             NSA  11-Mar-2013  Annual         
-SWECPIBLS                     Consumer Price Index in Sweden (DISCONTINUED)                                                                            NSA  11-Mar-2013  Annual         
-SWEHICPBLS                    Harmonized Index of Consumer Prices in Sweden (DISCONTINUED)                                                             NSA  11-Mar-2013  Annual         
-USACPIBLS                     Consumer Price Index in the United States (DISCONTINUED)                                                                 NSA  11-Mar-2013  Annual         
-USAHICPBLS                    Harmonized Index of Consumer Prices in the United States (DISCONTINUED)                                                  NSA  11-Mar-2013  Annual         
+Release  Id : 201	International Indexes of Consumer Prices
+AUSCPIBLS                     Consumer Price Index in Australia (DISCONTINUED)                                                                           NSA  11-Mar-2013 01-Jan-2012             Annual             
+AUTCPIBLS                     Consumer Price Index in Austria (DISCONTINUED)                                                                             NSA  11-Mar-2013 01-Jan-2012             Annual             
+AUTHICPBLS                    Harmonized Index of Consumer Prices in Austria (DISCONTINUED)                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+BELCPIBLS                     Consumer Price Index in Belgium (DISCONTINUED)                                                                             NSA  11-Mar-2013 01-Jan-2012             Annual             
+BELHICPBLS                    Harmonized Index of Consumer Prices in Belgium (DISCONTINUED)                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+CANCPIBLS                     Consumer Price Index in Canada (DISCONTINUED)                                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+CHECPIBLS                     Consumer Price Index in Switzerland (DISCONTINUED)                                                                         NSA  11-Mar-2013 01-Jan-2012             Annual             
+CHEHICPBLS                    Harmonized Index of Consumer Prices in Switzerland (DISCONTINUED)                                                          NSA  11-Mar-2013 01-Jan-2012             Annual             
+DEUCPIBLS                     Consumer Price Index in Germany (DISCONTINUED)                                                                             NSA  11-Mar-2013 01-Jan-2012             Annual             
+DEUHICPBLS                    Harmonized Index of Consumer Prices in Germany (DISCONTINUED)                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+DNKCPIBLS                     Consumer Price Index in Denmark (DISCONTINUED)                                                                             NSA  11-Mar-2013 01-Jan-2012             Annual             
+DNKHICPBLS                    Harmonized Index of Consumer Prices in Denmark (DISCONTINUED)                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+ESPCPIBLS                     Consumer Price Index in Spain (DISCONTINUED)                                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+ESPHICPBLS                    Harmonized Index of Consumer Prices in Spain (DISCONTINUED)                                                                NSA  11-Mar-2013 01-Jan-2012             Annual             
+FRACPIBLS                     Consumer Price Index in France (DISCONTINUED)                                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+FRAHICPBLS                    Harmonized Index of Consumer Prices in France (DISCONTINUED)                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+GBRCPIBLS                     Consumer Price Index in the United Kingdom (DISCONTINUED)                                                                  NSA  11-Mar-2013 01-Jan-2012             Annual             
+GBRHICPBLS                    Harmonized Index of Consumer Prices in the United Kingdom (DISCONTINUED)                                                   NSA  11-Mar-2013 01-Jan-2012             Annual             
+ITACPIBLS                     Consumer Price Index in Italy (DISCONTINUED)                                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+ITAHICPBLS                    Harmonized Index of Consumer Prices in Italy (DISCONTINUED)                                                                NSA  11-Mar-2013 01-Jan-2012             Annual             
+JPNCPIBLS                     Consumer Price Index in Japan (DISCONTINUED)                                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+JPNHICPBLS                    Harmonized Index of Consumer Prices in Japan (DISCONTINUED)                                                                NSA  11-Mar-2013 01-Jan-2012             Annual             
+NLDCPIBLS                     Consumer Price Index in Netherlands (DISCONTINUED)                                                                         NSA  11-Mar-2013 01-Jan-2012             Annual             
+NLDHICPBLS                    Harmonized Index of Consumer Prices in Netherlands (DISCONTINUED)                                                          NSA  11-Mar-2013 01-Jan-2012             Annual             
+NORCPIBLS                     Consumer Price Index in Norway (DISCONTINUED)                                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+NORHICPBLS                    Harmonized Index of Consumer Prices in Norway (DISCONTINUED)                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+SWECPIBLS                     Consumer Price Index in Sweden (DISCONTINUED)                                                                              NSA  11-Mar-2013 01-Jan-2012             Annual             
+SWEHICPBLS                    Harmonized Index of Consumer Prices in Sweden (DISCONTINUED)                                                               NSA  11-Mar-2013 01-Jan-2012             Annual             
+USACPIBLS                     Consumer Price Index in the United States (DISCONTINUED)                                                                   NSA  11-Mar-2013 01-Jan-2012             Annual             
+USAHICPBLS                    Harmonized Index of Consumer Prices in the United States (DISCONTINUED)                                                    NSA  11-Mar-2013 01-Jan-2012             Annual             

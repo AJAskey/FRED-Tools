@@ -1,3 +1,3 @@
-Id : 165  Australian Foreign Exchange Transactions
-AUINTDDL                      Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Dealers (AUD Millions)                         NSA  03-Mar-2008  Daily, 7-Day   
-AUINTDGT                      Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Government and other Counterparties (AUD Mill  NSA  03-Mar-2008  Daily, 7-Day   
+Release  Id : 165	Australian Foreign Exchange Transactions
+AUINTDDL                      Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Dealers (AUD Millions)                         M NSA  03-Mar-2008 29-Dec-2006             Daily, 7-Day       
+AUINTDGT                      Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Government and other Counterparties (AUD Mill  M NSA  03-Mar-2008 29-Dec-2006             Daily, 7-Day       

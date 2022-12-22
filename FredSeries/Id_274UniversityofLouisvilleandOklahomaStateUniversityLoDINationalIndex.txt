@@ -1,2 +1,2 @@
-Id : 274  University of Louisville and Oklahoma State University: LoDI National Index
-LODINIM066N                   University of Louisville and Oklahoma State University: LoDI National Index                                              NSA  30-Nov-2022  Monthly        
+Release  Id : 274	University of Louisville and Oklahoma State University: LoDI National Index
+LODINIM066N                   University of Louisville and Oklahoma State University: LoDI National Index                                                NSA  30-Nov-2022 01-Dec-2022 15-Dec-2022 Monthly            

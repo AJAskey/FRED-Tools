@@ -1,145 +1,145 @@
-Id : 329  Education Statistics
-BARTERICMP25UPZSAFG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Islamic Republ  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSALB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Albania             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSARE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Arab Em  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSARG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Argentina           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSARM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Armenia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSAUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Australia           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSAUT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Austria             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBDI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Burundi             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBEL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Belgium             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Benin               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBGD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bangladesh          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBGR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bulgaria            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBHR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bahrain             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBLZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Belize              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Plurinational   NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBRA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Brazil              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBRB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Barbados            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBRN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Brunei Darussalam   NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSBWA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Botswana            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCAF           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Central Africa  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCAN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Canada              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCHE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Switzerland         NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCHL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Chile               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCHN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for China               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCIV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Co  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCMR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cameroon            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCOD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Democratic Rep  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCOG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of th  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Colombia            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCRI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Costa Rica          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCUB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cuba                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCYP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cyprus              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSCZE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Czech Republic  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSDEU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Germany             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSDNK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Denmark             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSDOM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Dominican Repu  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSDZA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Algeria             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSECU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ecuador             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSEGY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Egypt               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSESP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Spain               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSEST           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Estonia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSFIN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Finland             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSFJI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Fiji                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSFRA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for France              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGAB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Gabon               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGBR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Kingdom  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGHA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ghana               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGMB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of th  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGRC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Greece              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGTM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Guatemala           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSGUY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Guyana              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSHKG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Hong Kong SAR, Chi  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSHND           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Honduras            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSHRV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Croatia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSHTI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Haiti               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSHUN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Hungary             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSIDN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Indonesia           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSIND           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for India               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSIRL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ireland             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSIRN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Islamic Republ  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSIRQ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Iraq                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSISL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Iceland             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSISR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Israel              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSITA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Italy               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSJAM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Jamaica             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSJOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Jordan              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSJPN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Japan               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKAZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kazakhstan          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kenya               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKGZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Kyrgyz Republic NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKHM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cambodia            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Ko  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSKWT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kuwait              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLAO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Lao People's D  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLBR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Liberia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLBY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Libyan Arab Jamahi  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLKA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sri Lanka           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLSO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Lesotho             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLTU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Lithuania           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLUX           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Luxembourg          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSLVA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Latvia              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMAC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Macao               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMAR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Morocco             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMDA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Mo  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMDV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Maldives            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMEX           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mexico              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMLI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mali                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMLT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malta               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMMR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Myanmar             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMNG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mongolia            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMOZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mozambique          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMRT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mauritania          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mauritius           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMWI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malawi              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSMYS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malaysia            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNAM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Namibia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNER           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Niger               NSA  21-May-2014  5 Year         
-BARTERICMP25UPZSNIC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Nicaragua           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNLD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Netherlands     NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Norway              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNPL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Nepal               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSNZL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for New Zealand         NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPAK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Pakistan            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPAN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Panama              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPER           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Peru                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPHL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Philippines     NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPNG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Papua New Guinea    NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Poland              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPRT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Portugal            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSPRY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Paraguay            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSQAT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Qatar               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSROU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Romania             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSRUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Russian Federa  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSRWA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Rwanda              NSA  21-May-2014  5 Year         
-BARTERICMP25UPZSSAU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Saudi Arabia        NSA  21-May-2014  5 Year         
-BARTERICMP25UPZSSDN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Sudan           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Senegal             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSGP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Singapore           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSLE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sierra Leone        NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSLV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for El Salvador         NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSRB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Serbia              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSVK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Slovak Republic NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSVN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Slovenia            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSWE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sweden              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSWZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Swaziland           NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSSYR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Syrian Arab Re  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTGO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Togo                NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTHA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Thailand            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTJK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tajikistan          NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTON           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tonga               NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTTO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Trinidad and Tobago NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTUN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tunisia             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTUR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Turkey              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSTZA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Republi  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSUGA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Uganda              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSUKR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ukraine             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSURY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Uruguay             NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSUSA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United States   NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSVEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Bolivarian Rep  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSVNM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Viet Nam            NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSYEM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Ye  NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSZAF           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for South Africa        NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSZMB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Zambia              NSA  14-Feb-2017  5 Year         
-BARTERICMP25UPZSZWE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Zimbabwe            NSA  14-Feb-2017  5 Year         
+Release  Id : 329	Education Statistics
+BARTERICMP25UPZSAFG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Islamic Republ  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSALB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Albania             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSARE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Arab Em  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSARG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Argentina           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSARM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Armenia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSAUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Australia           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSAUT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Austria             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBDI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Burundi             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBEL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Belgium             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Benin               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBGD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bangladesh          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBGR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bulgaria            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBHR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Bahrain             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBLZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Belize              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Plurinational   P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBRA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Brazil              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBRB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Barbados            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBRN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Brunei Darussalam   P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSBWA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Botswana            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCAF           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Central Africa  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCAN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Canada              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCHE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Switzerland         P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCHL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Chile               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCHN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for China               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCIV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Co  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCMR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cameroon            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCOD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Democratic Rep  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCOG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of th  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Colombia            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCRI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Costa Rica          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCUB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cuba                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCYP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cyprus              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSCZE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Czech Republic  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSDEU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Germany             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSDNK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Denmark             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSDOM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Dominican Repu  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSDZA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Algeria             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSECU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ecuador             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSEGY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Egypt               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSESP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Spain               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSEST           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Estonia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSFIN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Finland             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSFJI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Fiji                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSFRA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for France              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGAB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Gabon               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGBR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Kingdom  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGHA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ghana               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGMB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of th  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGRC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Greece              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGTM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Guatemala           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSGUY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Guyana              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSHKG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Hong Kong SAR, Chi  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSHND           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Honduras            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSHRV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Croatia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSHTI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Haiti               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSHUN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Hungary             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSIDN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Indonesia           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSIND           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for India               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSIRL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ireland             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSIRN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Islamic Republ  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSIRQ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Iraq                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSISL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Iceland             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSISR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Israel              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSITA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Italy               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSJAM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Jamaica             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSJOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Jordan              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSJPN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Japan               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKAZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kazakhstan          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kenya               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKGZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Kyrgyz Republic P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKHM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Cambodia            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Ko  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSKWT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Kuwait              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLAO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Lao People's D  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLBR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Liberia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLBY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Libyan Arab Jamahi  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLKA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sri Lanka           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLSO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Lesotho             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLTU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Lithuania           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLUX           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Luxembourg          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSLVA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Latvia              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMAC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Macao               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMAR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Morocco             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMDA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Mo  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMDV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Maldives            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMEX           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mexico              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMLI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mali                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMLT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malta               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMMR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Myanmar             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMNG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mongolia            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMOZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mozambique          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMRT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mauritania          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Mauritius           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMWI           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malawi              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSMYS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Malaysia            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNAM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Namibia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNER           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Niger               P NSA  21-May-2014 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNIC           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Nicaragua           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNLD           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Netherlands     P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNOR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Norway              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNPL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Nepal               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSNZL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for New Zealand         P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPAK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Pakistan            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPAN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Panama              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPER           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Peru                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPHL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Philippines     P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPNG           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Papua New Guinea    P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPOL           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Poland              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPRT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Portugal            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSPRY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Paraguay            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSQAT           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Qatar               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSROU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Romania             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSRUS           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Russian Federa  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSRWA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Rwanda              P NSA  21-May-2014 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSAU           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Saudi Arabia        P NSA  21-May-2014 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSDN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Sudan           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Senegal             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSGP           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Singapore           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSLE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sierra Leone        P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSLV           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for El Salvador         P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSRB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Serbia              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSVK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Slovak Republic P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSVN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Slovenia            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSWE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Sweden              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSWZ           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Swaziland           P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSSYR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Syrian Arab Re  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTGO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Togo                P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTHA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Thailand            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTJK           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tajikistan          P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTON           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tonga               P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTTO           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Trinidad and Tobago P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTUN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Tunisia             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTUR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Turkey              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSTZA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United Republi  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSUGA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Uganda              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSUKR           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Ukraine             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSURY           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Uruguay             P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSUSA           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the United States   P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSVEN           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Bolivarian Rep  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSVNM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Viet Nam            P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSYEM           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for the Republic of Ye  P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSZAF           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for South Africa        P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSZMB           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Zambia              P NSA  14-Feb-2017 01-Jan-2010             5 Year             
+BARTERICMP25UPZSZWE           Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary) for Zimbabwe            P NSA  14-Feb-2017 01-Jan-2010             5 Year             

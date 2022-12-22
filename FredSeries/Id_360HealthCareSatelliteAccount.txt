@@ -1,223 +1,223 @@
-Id : 360  Health Care Satellite Account
-CEORPEEXPBLEND                Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, Blended Accoun  NSA  19-Jan-2022  Annual         
-CEORPEEXPMEPS                 Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEPS Account B  NSA  19-Jan-2022  Annual         
-CEORPEPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Certain Conditions Originating in the Perinatal Period, Ble  NSA  19-Jan-2022  Annual         
-CEORPEPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEP  NSA  19-Jan-2022  Annual         
-CEORPEPIBLEND                 Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, Bl  NSA  19-Jan-2022  Annual         
-CEORPEPIMEPS                  Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, ME  NSA  19-Jan-2022  Annual         
-CEORPEREXBLEND                Real Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, Blended A  NSA  19-Jan-2022  Annual         
-CEORPEREXMEPS                 Real Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEPS Acco  NSA  19-Jan-2022  Annual         
-COEYEQEXPHCSA                 Corrective Eyeglasses and Contact Lenses Expenditures                                                                    NSA  19-Jan-2022  Annual         
-COEYEQPCHCSA                  Corrective Eyeglasses and Contact Lenses Expenditures per Capita                                                         NSA  19-Jan-2022  Annual         
-COEYEQPIHCSA                  Corrective Eyeglasses and Contact Lenses Expenditures Price Index                                                        NSA  19-Jan-2022  Annual         
-COEYEQREXHCSA                 Real Corrective Eyeglasses and Contact Lenses Expenditures                                                               NSA  19-Jan-2022  Annual         
-COGANOEXPBLEND                Medical Services Expenditures by Disease: Other: Congenital Anomalies , Blended Account Basis                            NSA  19-Jan-2022  Annual         
-COGANOEXPMEPS                 Medical Services Expenditures by Disease: Other: Congenital Anomalies , MEPS Account Basis                               NSA  19-Jan-2022  Annual         
-COGANOPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Congenital Anomalies , Blended Account Basis                 NSA  19-Jan-2022  Annual         
-COGANOPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Congenital Anomalies , MEPS Account Basis                    NSA  19-Jan-2022  Annual         
-COGANOPIBLEND                 Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, Blended Account Basis                 NSA  19-Jan-2022  Annual         
-COGANOPIMEPS                  Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, MEPS Account Basis                    NSA  19-Jan-2022  Annual         
-COGANOREXBLEND                Real Medical Services Expenditures by Disease: Other: Congenital Anomalies , Blended Account Basis                       NSA  19-Jan-2022  Annual         
-COGANOREXMEPS                 Real Medical Services Expenditures by Disease: Other: Congenital Anomalies , MEPS Account Basis                          NSA  19-Jan-2022  Annual         
-COPRCHEXPBLEND                Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blended Account B  NSA  19-Jan-2022  Annual         
-COPRCHEXPMEPS                 Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS Account Basis NSA  19-Jan-2022  Annual         
-COPRCHPCBLEND                 Medical Services Expenditures per Capita by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blende  NSA  19-Jan-2022  Annual         
-COPRCHPCMEPS                  Medical Services Expenditures per Capita by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS A  NSA  19-Jan-2022  Annual         
-COPRCHPIBLEND                 Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, Blend  NSA  19-Jan-2022  Annual         
-COPRCHPIMEPS                  Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, MEPS   NSA  19-Jan-2022  Annual         
-COPRCHREXBLEND                Real Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blended Acco  NSA  19-Jan-2022  Annual         
-COPRCHREXMEPS                 Real Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS Account  NSA  19-Jan-2022  Annual         
-DENSEREXPHCSA                 Medical Services Expenditures by Provider: Dental Services                                                               NSA  19-Jan-2022  Annual         
-DENSERPCHCSA                  Medical Services Expenditures per Capita by Provider: Dental Services                                                    NSA  19-Jan-2022  Annual         
-DENSERPIHCSA                  Medical Services Expenditures by Provider: Dental Services Price Index                                                   NSA  19-Jan-2022  Annual         
-DENSERREXHCSA                 Real Medical Services Expenditures by Provider: Dental Services                                                          NSA  19-Jan-2022  Annual         
-DIBLBOEXPBLEND                Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Account Basis   NSA  19-Jan-2022  Annual         
-DIBLBOEXPMEPS                 Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Account Basis      NSA  19-Jan-2022  Annual         
-DIBLBOPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Acc  NSA  19-Jan-2022  Annual         
-DIBLBOPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Accoun  NSA  19-Jan-2022  Annual         
-DIBLBOPIBLEND                 Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, Blended Ac  NSA  19-Jan-2022  Annual         
-DIBLBOPIMEPS                  Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, MEPS Accou  NSA  19-Jan-2022  Annual         
-DIBLBOREXBLEND                Real Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Account B  NSA  19-Jan-2022  Annual         
-DIBLBOREXMEPS                 Real Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Account Basis NSA  19-Jan-2022  Annual         
-DICISYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Circulatory System, Blended Account Basis                      NSA  19-Jan-2022  Annual         
-DICISYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Circulatory System, MEPS Account Basis                         NSA  19-Jan-2022  Annual         
-DICISYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Circulatory System, Blended Account Basis           NSA  19-Jan-2022  Annual         
-DICISYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Circulatory System, MEPS Account Basis              NSA  19-Jan-2022  Annual         
-DICISYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, Blended Account Basis          NSA  19-Jan-2022  Annual         
-DICISYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, MEPS Account Basis             NSA  19-Jan-2022  Annual         
-DICISYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Circulatory System, Blended Account Basis                 NSA  19-Jan-2022  Annual         
-DICISYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Circulatory System, MEPS Account Basis                    NSA  19-Jan-2022  Annual         
-DIDISYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Digestive System, Blended Account Basis                        NSA  19-Jan-2022  Annual         
-DIDISYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Digestive System, MEPS Account Basis                           NSA  19-Jan-2022  Annual         
-DIDISYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Digestive System, Blended Account Basis             NSA  19-Jan-2022  Annual         
-DIDISYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Digestive System, MEPS Account Basis                NSA  19-Jan-2022  Annual         
-DIDISYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, Blended Account Basis            NSA  19-Jan-2022  Annual         
-DIDISYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, MEPS Account Basis               NSA  19-Jan-2022  Annual         
-DIDISYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Digestive System, Blended Account Basis                   NSA  19-Jan-2022  Annual         
-DIDISYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Digestive System, MEPS Account Basis                      NSA  19-Jan-2022  Annual         
-DIGESYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Genitourinary System, Blended Account Basis                    NSA  19-Jan-2022  Annual         
-DIGESYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Genitourinary System, MEPS Account Basis                       NSA  19-Jan-2022  Annual         
-DIGESYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Genitourinary System, Blended Account Basis         NSA  19-Jan-2022  Annual         
-DIGESYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Genitourinary System, MEPS Account Basis            NSA  19-Jan-2022  Annual         
-DIGESYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, Blended Account Basis        NSA  19-Jan-2022  Annual         
-DIGESYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, MEPS Account Basis           NSA  19-Jan-2022  Annual         
-DIGESYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Genitourinary System, Blended Account Basis               NSA  19-Jan-2022  Annual         
-DIGESYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Genitourinary System, MEPS Account Basis                  NSA  19-Jan-2022  Annual         
-DIMSCTEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blended Account  NSA  19-Jan-2022  Annual         
-DIMSCTEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS Account Ba  NSA  19-Jan-2022  Annual         
-DIMSCTPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blen  NSA  19-Jan-2022  Annual         
-DIMSCTPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS  NSA  19-Jan-2022  Annual         
-DIMSCTPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, Ble  NSA  19-Jan-2022  Annual         
-DIMSCTPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, MEP  NSA  19-Jan-2022  Annual         
-DIMSCTREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blended Ac  NSA  19-Jan-2022  Annual         
-DIMSCTREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS Accou  NSA  19-Jan-2022  Annual         
-DIRESYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Respiratory System, Blended Account Basis                      NSA  19-Jan-2022  Annual         
-DIRESYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Respiratory System, MEPS Account Basis                         NSA  19-Jan-2022  Annual         
-DIRESYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Respiratory System, Blended Account Basis           NSA  19-Jan-2022  Annual         
-DIRESYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Respiratory System, MEPS Account Basis              NSA  19-Jan-2022  Annual         
-DIRESYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, Blended Account Basis          NSA  19-Jan-2022  Annual         
-DIRESYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, MEPS Account Basis             NSA  19-Jan-2022  Annual         
-DIRESYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Respiratory System, Blended Account Basis                 NSA  19-Jan-2022  Annual         
-DIRESYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Respiratory System, MEPS Account Basis                    NSA  19-Jan-2022  Annual         
-DISKSOEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis            NSA  19-Jan-2022  Annual         
-DISKSOEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis               NSA  19-Jan-2022  Annual         
-DISKSOPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis NSA  19-Jan-2022  Annual         
-DISKSOPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis    NSA  19-Jan-2022  Annual         
-DISKSOPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, Blended Account Bas  NSA  19-Jan-2022  Annual         
-DISKSOPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, MEPS Account Basis   NSA  19-Jan-2022  Annual         
-DISKSOREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis       NSA  19-Jan-2022  Annual         
-DISKSOREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis          NSA  19-Jan-2022  Annual         
-DISOTHEXPBLEND                Medical Services Expenditures by Disease: Other, Blended Account Basis                                                   NSA  19-Jan-2022  Annual         
-DISOTHEXPMEPS                 Medical Services Expenditures by Disease: Other, MEPS Account Basis                                                      NSA  19-Jan-2022  Annual         
-DISOTHPCBLEND                 Medical Services Expenditures per Capita by Disease: Other, Blended Account Basis                                        NSA  19-Jan-2022  Annual         
-DISOTHPCMEPS                  Medical Services Expenditures per Capita by Disease: Other, MEPS Account Basis                                           NSA  19-Jan-2022  Annual         
-DISOTHPIBLEND                 Medical Services Expenditures by Disease: Other Price Index, Blended Account Basis                                       NSA  19-Jan-2022  Annual         
-DISOTHPIMEPS                  Medical Services Expenditures by Disease: Other Price Index, MEPS Account Basis                                          NSA  19-Jan-2022  Annual         
-DISOTHREXBLEND                Real Medical Services Expenditures by Disease: Other, Blended Account Basis                                              NSA  19-Jan-2022  Annual         
-DISOTHREXMEPS                 Real Medical Services Expenditures by Disease: Other, MEPS Account Basis                                                 NSA  19-Jan-2022  Annual         
-DONSSOEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, Blended Account Basis         NSA  19-Jan-2022  Annual         
-DONSSOEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis            NSA  19-Jan-2022  Annual         
-DONSSOPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Nervous System and Sense Organs, Blended Account B  NSA  19-Jan-2022  Annual         
-DONSSOPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis NSA  19-Jan-2022  Annual         
-DONSSOPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, Blended Account   NSA  19-Jan-2022  Annual         
-DONSSOPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, MEPS Account Bas  NSA  19-Jan-2022  Annual         
-DONSSOREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, Blended Account Basis    NSA  19-Jan-2022  Annual         
-DONSSOREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis       NSA  19-Jan-2022  Annual         
-EDCNMIEXPBLEND                Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, Blende  NSA  19-Jan-2022  Annual         
-EDCNMIEXPMEPS                 Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, MEPS A  NSA  19-Jan-2022  Annual         
-EDCNMIPCBLEND                 Medical Services Expenditures per Capita by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disord  NSA  19-Jan-2022  Annual         
-EDCNMIPCMEPS                  Medical Services Expenditures per Capita by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disord  NSA  19-Jan-2022  Annual         
-EDCNMIPIBLEND                 Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price I  NSA  19-Jan-2022  Annual         
-EDCNMIPIMEPS                  Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price I  NSA  19-Jan-2022  Annual         
-EDCNMIREXBLEND                Real Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, B  NSA  19-Jan-2022  Annual         
-EDCNMIREXMEPS                 Real Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, M  NSA  19-Jan-2022  Annual         
-HLTHSCEXPHCSA                 Health Expenditures                                                                                                      NSA  19-Jan-2022  Annual         
-HLTHSCPCHCSA                  Health Expenditures per Capita                                                                                           NSA  19-Jan-2022  Annual         
-HLTHSCPIBLEND                 Health Expenditures Price Index, Blended Account Basis                                                                   NSA  19-Jan-2022  Annual         
-HLTHSCPIMEPS                  Health Expenditures Price Index, MEPS Account Basis                                                                      NSA  19-Jan-2022  Annual         
-HLTHSCREXBLEND                Real Health Expenditures, Blended Account Basis                                                                          NSA  19-Jan-2022  Annual         
-HLTHSCREXMEPS                 Real Health Expenditures, MEPS Account Basis                                                                             NSA  19-Jan-2022  Annual         
-HLTHSEEXPHCSA                 Health Services Expenditures                                                                                             NSA  19-Jan-2022  Annual         
-HLTHSEPCHCSA                  Health Services Expenditures per Capita                                                                                  NSA  19-Jan-2022  Annual         
-HLTHSEPIBLEND                 Health Services Expenditures Price Index, Blended Account Basis                                                          NSA  19-Jan-2022  Annual         
-HLTHSEPIMEPS                  Health Services Expenditures Price Index, MEPS Account Basis                                                             NSA  19-Jan-2022  Annual         
-HLTHSEREXBLEND                Real Health Services Expenditures, Blended Account Basis                                                                 NSA  19-Jan-2022  Annual         
-HLTHSEREXMEPS                 Real Health Services Expenditures, MEPS Account Basis                                                                    NSA  19-Jan-2022  Annual         
-INFAPSEXPBLEND                Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, Blended Account Basis                       NSA  19-Jan-2022  Annual         
-INFAPSEXPMEPS                 Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, MEPS Account Basis                          NSA  19-Jan-2022  Annual         
-INFAPSPCBLEND                 Medical Services Expenditures per Capita by Disease: Infectious and Parasitic Diseases, Blended Account Basis            NSA  19-Jan-2022  Annual         
-INFAPSPCMEPS                  Medical Services Expenditures per Capita by Disease: Infectious and Parasitic Diseases, MEPS Account Basis               NSA  19-Jan-2022  Annual         
-INFAPSPIBLEND                 Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, Blended Account Basis           NSA  19-Jan-2022  Annual         
-INFAPSPIMEPS                  Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, MEPS Account Basis              NSA  19-Jan-2022  Annual         
-INFAPSREXBLEND                Real Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, Blended Account Basis                  NSA  19-Jan-2022  Annual         
-INFAPSREXMEPS                 Real Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, MEPS Account Basis                     NSA  19-Jan-2022  Annual         
-INJPOIEXPBLEND                Medical Services Expenditures by Disease: Injury and Poisoning, Blended Account Basis                                    NSA  19-Jan-2022  Annual         
-INJPOIEXPMEPS                 Medical Services Expenditures by Disease: Injury and Poisoning, MEPS Account Basis                                       NSA  19-Jan-2022  Annual         
-INJPOIPCBLEND                 Medical Services Expenditures per Capita by Disease: Injury and Poisoning, Blended Account Basis                         NSA  19-Jan-2022  Annual         
-INJPOIPCMEPS                  Medical Services Expenditures per Capita by Disease: Injury and Poisoning, MEPS Account Basis                            NSA  19-Jan-2022  Annual         
-INJPOIPIBLEND                 Medical Services Expenditures by Disease: Injury and Poisoning Price Index, Blended Account Basis                        NSA  19-Jan-2022  Annual         
-INJPOIPIMEPS                  Medical Services Expenditures by Disease: Injury and Poisoning Price Index, MEPS Account Basis                           NSA  19-Jan-2022  Annual         
-INJPOIREXBLEND                Real Medical Services Expenditures by Disease: Injury and Poisoning, Blended Account Basis                               NSA  19-Jan-2022  Annual         
-INJPOIREXMEPS                 Real Medical Services Expenditures by Disease: Injury and Poisoning, MEPS Account Basis                                  NSA  19-Jan-2022  Annual         
-MDSBDSEXPHCSA                 Medical Services Expenditures by Disease                                                                                 NSA  19-Jan-2022  Annual         
-MDSBDSPCHCSA                  Medical Services Expenditures per Capita by Disease                                                                      NSA  19-Jan-2022  Annual         
-MDSBDSPIBLEND                 Medical Services Expenditures by Disease Price Index, Blended Account Basis                                              NSA  19-Jan-2022  Annual         
-MDSBDSPIMEPS                  Medical Services Expenditures by Disease Price Index, MEPS Account Basis                                                 NSA  19-Jan-2022  Annual         
-MDSBDSREXBLEND                Real Medical Services Expenditures by Disease , Blended Account Basis                                                    NSA  19-Jan-2022  Annual         
-MDSBDSREXMEPS                 Real Medical Services Expenditures by Disease , MEPS Account Basis                                                       NSA  19-Jan-2022  Annual         
-MEAPEQEXPHCSA                 Medical Products, Appliances and Equipment Expenditures                                                                  NSA  19-Jan-2022  Annual         
-MEAPEQPCHCSA                  Medical Products, Appliances and Equipment Expenditures per Capita                                                       NSA  19-Jan-2022  Annual         
-MEAPEQPIHCSA                  Medical Products, Appliances and Equipment Expenditures Price Index                                                      NSA  19-Jan-2022  Annual         
-MEAPEQREXHCSA                 Real Medical Products, Appliances and Equipment Expenditures                                                             NSA  19-Jan-2022  Annual         
-MESEPREXPHCSA                 Medical Services Expenditures by Provider                                                                                NSA  19-Jan-2022  Annual         
-MESEPRPCHCSA                  Medical Services Expenditures per Capita by Provider                                                                     NSA  19-Jan-2022  Annual         
-MESEPRPIHCSA                  Medical Services Expenditures by Provider Price Index                                                                    NSA  19-Jan-2022  Annual         
-MESEPRREXHCSA                 Real Medical Services Expenditures by Provider                                                                           NSA  19-Jan-2022  Annual         
-MNINEIEXPBLEND                Medical Services Expenditures by Disease: Mental Illness , Blended Account Basis                                         NSA  19-Jan-2022  Annual         
-MNINEIEXPMEPS                 Medical Services Expenditures by Disease: Mental Illness , MEPS Account Basis                                            NSA  19-Jan-2022  Annual         
-MNINEIPCBLEND                 Medical Services Expenditures per Capita by Disease: Mental Illness , Blended Account Basis                              NSA  19-Jan-2022  Annual         
-MNINEIPCMEPS                  Medical Services Expenditures per Capita by Disease: Mental Illness , MEPS Account Basis                                 NSA  19-Jan-2022  Annual         
-MNINEIPIBLEND                 Medical Services Expenditures by Disease: Mental Illness Price Index, Blended Account Basis                              NSA  19-Jan-2022  Annual         
-MNINEIPIMEPS                  Medical Services Expenditures by Disease: Mental Illness Price Index, MEPS Account Basis                                 NSA  19-Jan-2022  Annual         
-MNINEIREXBLEND                Real Medical Services Expenditures by Disease: Mental Illness , Blended Account Basis                                    NSA  19-Jan-2022  Annual         
-MNINEIREXMEPS                 Real Medical Services Expenditures by Disease: Mental Illness , MEPS Account Basis                                       NSA  19-Jan-2022  Annual         
-NONDRGEXPHCSA                 Nonprescription Drugs Expenditures                                                                                       NSA  19-Jan-2022  Annual         
-NONDRGPCHCSA                  Nonprescription Drugs Expenditures per Capita                                                                            NSA  19-Jan-2022  Annual         
-NONDRGPIHCSA                  Nonprescription Drugs Expenditures Price Index                                                                           NSA  19-Jan-2022  Annual         
-NONDRGREXHCSA                 Real Nonprescription Drugs Expenditures                                                                                  NSA  19-Jan-2022  Annual         
-NONUHOEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households                 NSA  19-Jan-2022  Annual         
-NONUHOPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households      NSA  19-Jan-2022  Annual         
-NONUHOPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households Price Index     NSA  19-Jan-2022  Annual         
-NONUHOREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households            NSA  19-Jan-2022  Annual         
-NPSMSMEXPBLEND                Medical Services Expenditures by Disease: Neoplasms, Blended Account Basis                                               NSA  19-Jan-2022  Annual         
-NPSMSMEXPMEPS                 Medical Services Expenditures by Disease: Neoplasms, MEPS Account Basis                                                  NSA  19-Jan-2022  Annual         
-NPSMSMPCBLEND                 Medical Services Expenditures per Capita by Disease: Neoplasms, Blended Account Basis                                    NSA  19-Jan-2022  Annual         
-NPSMSMPCMEPS                  Medical Services Expenditures per Capita by Disease: Neoplasms, MEPS Account Basis                                       NSA  19-Jan-2022  Annual         
-NPSMSMPIBLEND                 Medical Services Expenditures by Disease: Neoplasms Price Index, Blended Account Basis                                   NSA  19-Jan-2022  Annual         
-NPSMSMPIMEPS                  Medical Services Expenditures by Disease: Neoplasms Price Index, MEPS Account Basis                                      NSA  19-Jan-2022  Annual         
-NPSMSMREXBLEND                Real Medical Services Expenditures by Disease: Neoplasms, Blended Account Basis                                          NSA  19-Jan-2022  Annual         
-NPSMSMREXMEPS                 Real Medical Services Expenditures by Disease: Neoplasms, MEPS Account Basis                                             NSA  19-Jan-2022  Annual         
-NURHOMEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes                                                                 NSA  19-Jan-2022  Annual         
-NURHOMPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes                                                      NSA  19-Jan-2022  Annual         
-NURHOMPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes Price Index                                                     NSA  19-Jan-2022  Annual         
-NURHOMREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes                                                            NSA  19-Jan-2022  Annual         
-OTMEPREXPHCSA                 Other Medical Products Expenditures                                                                                      NSA  19-Jan-2022  Annual         
-OTMEPRPCHCSA                  Other Medical Products Expenditures per Capita                                                                           NSA  19-Jan-2022  Annual         
-OTMEPRPIHCSA                  Other Medical Products Expenditures Price Index                                                                          NSA  19-Jan-2022  Annual         
-OTMEPRREXHCSA                 Real Other Medical Products Expenditures                                                                                 NSA  19-Jan-2022  Annual         
-PHMEPREXPHCSA                 Pharmaceutical and Other Medical Products Expenditures                                                                   NSA  19-Jan-2022  Annual         
-PHMEPRPCHCSA                  Pharmaceutical and Other Medical Products Expenditures per Capita                                                        NSA  19-Jan-2022  Annual         
-PHMEPRPIHCSA                  Pharmaceutical and Other Medical Products Expenditures Price Index                                                       NSA  19-Jan-2022  Annual         
-PHMEPRREXHCSA                 Real Pharmaceutical and Other Medical Products Expenditures                                                              NSA  19-Jan-2022  Annual         
-PHPRDREXPHCSA                 Pharmaceutical Products (Without Prescription Drugs) Expenditures                                                        NSA  19-Jan-2022  Annual         
-PHPRDRPCHCSA                  Pharmaceutical Products (Without Prescription Drugs) Expenditures per Capita                                             NSA  19-Jan-2022  Annual         
-PHPRDRPIHCSA                  Pharmaceutical Products (Without Prescription Drugs) Expenditures Price Index                                            NSA  19-Jan-2022  Annual         
-PHPRDRREXHCSA                 Real Pharmaceutical Products (Without Prescription Drugs) Expenditures                                                   NSA  19-Jan-2022  Annual         
-PRGONUEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes                       NSA  19-Jan-2022  Annual         
-PRGONUPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes: Proprietary and Government Nursing Homes            NSA  19-Jan-2022  Annual         
-PRGONUPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes Price Index           NSA  19-Jan-2022  Annual         
-PRGONUREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes                  NSA  19-Jan-2022  Annual         
-RECOUNEXPBLEND                Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account Basis        NSA  19-Jan-2022  Annual         
-RECOUNEXPMEPS                 Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Basis           NSA  19-Jan-2022  Annual         
-RECOUNPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account   NSA  19-Jan-2022  Annual         
-RECOUNPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Bas  NSA  19-Jan-2022  Annual         
-RECOUNPIBLEND                 Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, Blended Account  NSA  19-Jan-2022  Annual         
-RECOUNPIMEPS                  Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, MEPS Account Ba  NSA  19-Jan-2022  Annual         
-RECOUNREXBLEND                Real Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account Basis   NSA  19-Jan-2022  Annual         
-RECOUNREXMEPS                 Real Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Basis      NSA  19-Jan-2022  Annual         
-SYSIILEXPBLEND                Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis            NSA  19-Jan-2022  Annual         
-SYSIILEXPMEPS                 Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis               NSA  19-Jan-2022  Annual         
-SYSIILPCBLEND                 Medical Services Expenditures per Capita by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis NSA  19-Jan-2022  Annual         
-SYSIILPCMEPS                  Medical Services Expenditures per Capita by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis    NSA  19-Jan-2022  Annual         
-SYSIILPIBLEND                 Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, Blended Account Basis NSA  19-Jan-2022  Annual         
-SYSIILPIMEPS                  Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, MEPS Account Basis    NSA  19-Jan-2022  Annual         
-SYSIILREXBLEND                Real Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis       NSA  19-Jan-2022  Annual         
-SYSIILREXMEPS                 Real Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis          NSA  19-Jan-2022  Annual         
-THAPEQEXPHCSA                 Therapeutic Appliances and Equipment Expenditures                                                                        NSA  19-Jan-2022  Annual         
-THAPEQPCHCSA                  Therapeutic Appliances and Equipment Expenditures per Capita                                                             NSA  19-Jan-2022  Annual         
-THAPEQPIHCSA                  Therapeutic Appliances and Equipment Expenditures Price Index                                                            NSA  19-Jan-2022  Annual         
-THAPEQREXHCSA                 Real Therapeutic Appliances and Equipment Expenditures                                                                   NSA  19-Jan-2022  Annual         
-THMEEQEXPHCSA                 Therapeutic Medical Equipment Expenditures                                                                               NSA  19-Jan-2022  Annual         
-THMEEQPCHCSA                  Therapeutic Medical Equipment Expenditures per Capita                                                                    NSA  19-Jan-2022  Annual         
-THMEEQPIHCSA                  Therapeutic Medical Equipment Expenditures Price Index                                                                   NSA  19-Jan-2022  Annual         
-THMEEQREXHCSA                 Real Therapeutic Medical Equipment Expenditures                                                                          NSA  19-Jan-2022  Annual         
+Release  Id : 360	Health Care Satellite Account
+CEORPEEXPBLEND                Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, Blended Accoun  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEEXPMEPS                 Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEPS Account B  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Certain Conditions Originating in the Perinatal Period, Ble    NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEP    NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEPIBLEND                 Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, Bl    NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEPIMEPS                  Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period Price Index, ME    NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEREXBLEND                Real Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, Blended A  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+CEORPEREXMEPS                 Real Medical Services Expenditures by Disease: Other: Certain Conditions Originating in the Perinatal Period, MEPS Acco  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COEYEQEXPHCSA                 Corrective Eyeglasses and Contact Lenses Expenditures                                                                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COEYEQPCHCSA                  Corrective Eyeglasses and Contact Lenses Expenditures per Capita                                                           NSA  19-Jan-2022 01-Jan-2019             Annual             
+COEYEQPIHCSA                  Corrective Eyeglasses and Contact Lenses Expenditures Price Index                                                          NSA  19-Jan-2022 01-Jan-2019             Annual             
+COEYEQREXHCSA                 Real Corrective Eyeglasses and Contact Lenses Expenditures                                                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOEXPBLEND                Medical Services Expenditures by Disease: Other: Congenital Anomalies , Blended Account Basis                            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOEXPMEPS                 Medical Services Expenditures by Disease: Other: Congenital Anomalies , MEPS Account Basis                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Congenital Anomalies , Blended Account Basis                   NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Congenital Anomalies , MEPS Account Basis                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOPIBLEND                 Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, Blended Account Basis                   NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOPIMEPS                  Medical Services Expenditures by Disease: Other: Congenital Anomalies Price Index, MEPS Account Basis                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOREXBLEND                Real Medical Services Expenditures by Disease: Other: Congenital Anomalies , Blended Account Basis                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COGANOREXMEPS                 Real Medical Services Expenditures by Disease: Other: Congenital Anomalies , MEPS Account Basis                          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHEXPBLEND                Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blended Account B  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHEXPMEPS                 Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS Account Basis B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHPCBLEND                 Medical Services Expenditures per Capita by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blende    NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHPCMEPS                  Medical Services Expenditures per Capita by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS A    NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHPIBLEND                 Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, Blend    NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHPIMEPS                  Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium Price Index, MEPS     NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHREXBLEND                Real Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, Blended Acco  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+COPRCHREXMEPS                 Real Medical Services Expenditures by Disease: Complications of Pregnancy; Childbirth; and the Puerperium, MEPS Account  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DENSEREXPHCSA                 Medical Services Expenditures by Provider: Dental Services                                                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DENSERPCHCSA                  Medical Services Expenditures per Capita by Provider: Dental Services                                                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+DENSERPIHCSA                  Medical Services Expenditures by Provider: Dental Services Price Index                                                     NSA  19-Jan-2022 01-Jan-2019             Annual             
+DENSERREXHCSA                 Real Medical Services Expenditures by Provider: Dental Services                                                          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOEXPBLEND                Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Account Basis   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOEXPMEPS                 Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Account Basis      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Acc    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Accoun    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOPIBLEND                 Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, Blended Ac    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOPIMEPS                  Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs Price Index, MEPS Accou    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOREXBLEND                Real Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, Blended Account B  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIBLBOREXMEPS                 Real Medical Services Expenditures by Disease: Other: Diseases of the Blood and Blood-Forming Organs, MEPS Account Basis B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Circulatory System, Blended Account Basis                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Circulatory System, MEPS Account Basis                         B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Circulatory System, Blended Account Basis             NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Circulatory System, MEPS Account Basis                NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, Blended Account Basis            NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Circulatory System Price Index, MEPS Account Basis               NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Circulatory System, Blended Account Basis                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DICISYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Circulatory System, MEPS Account Basis                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Digestive System, Blended Account Basis                        B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Digestive System, MEPS Account Basis                           B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Digestive System, Blended Account Basis               NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Digestive System, MEPS Account Basis                  NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, Blended Account Basis              NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Digestive System Price Index, MEPS Account Basis                 NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Digestive System, Blended Account Basis                   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIDISYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Digestive System, MEPS Account Basis                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Genitourinary System, Blended Account Basis                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Genitourinary System, MEPS Account Basis                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Genitourinary System, Blended Account Basis           NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Genitourinary System, MEPS Account Basis              NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, Blended Account Basis          NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Genitourinary System Price Index, MEPS Account Basis             NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Genitourinary System, Blended Account Basis               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIGESYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Genitourinary System, MEPS Account Basis                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blended Account  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS Account Ba  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blen    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, Ble    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue Price Index, MEP    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, Blended Ac  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIMSCTREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Musculoskeletal System and Connective Tissue, MEPS Accou  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Respiratory System, Blended Account Basis                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Respiratory System, MEPS Account Basis                         B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Respiratory System, Blended Account Basis             NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Respiratory System, MEPS Account Basis                NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, Blended Account Basis            NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Respiratory System Price Index, MEPS Account Basis               NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Respiratory System, Blended Account Basis                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DIRESYREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Respiratory System, MEPS Account Basis                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis   NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis      NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, Blended Account Bas    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs Price Index, MEPS Account Basis     NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, Blended Account Basis       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISKSOREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Skin and Subcutaneous Organs, MEPS Account Basis          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHEXPBLEND                Medical Services Expenditures by Disease: Other, Blended Account Basis                                                   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHEXPMEPS                 Medical Services Expenditures by Disease: Other, MEPS Account Basis                                                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHPCBLEND                 Medical Services Expenditures per Capita by Disease: Other, Blended Account Basis                                          NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHPCMEPS                  Medical Services Expenditures per Capita by Disease: Other, MEPS Account Basis                                             NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHPIBLEND                 Medical Services Expenditures by Disease: Other Price Index, Blended Account Basis                                         NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHPIMEPS                  Medical Services Expenditures by Disease: Other Price Index, MEPS Account Basis                                            NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHREXBLEND                Real Medical Services Expenditures by Disease: Other, Blended Account Basis                                              B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DISOTHREXMEPS                 Real Medical Services Expenditures by Disease: Other, MEPS Account Basis                                                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOEXPBLEND                Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, Blended Account Basis         B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOEXPMEPS                 Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOPCBLEND                 Medical Services Expenditures per Capita by Disease: Diseases of the Nervous System and Sense Organs, Blended Account B    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOPCMEPS                  Medical Services Expenditures per Capita by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis   NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOPIBLEND                 Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, Blended Account     NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOPIMEPS                  Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs Price Index, MEPS Account Bas    NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOREXBLEND                Real Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, Blended Account Basis    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+DONSSOREXMEPS                 Real Medical Services Expenditures by Disease: Diseases of the Nervous System and Sense Organs, MEPS Account Basis       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIEXPBLEND                Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, Blende  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIEXPMEPS                 Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, MEPS A  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIPCBLEND                 Medical Services Expenditures per Capita by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disord    NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIPCMEPS                  Medical Services Expenditures per Capita by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disord    NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIPIBLEND                 Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price I    NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIPIMEPS                  Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders Price I    NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIREXBLEND                Real Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, B  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+EDCNMIREXMEPS                 Real Medical Services Expenditures by Disease: Endocrine; Nutritional; and Metabolic Diseases and Immunity Disorders, M  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCEXPHCSA                 Health Expenditures                                                                                                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCPCHCSA                  Health Expenditures per Capita                                                                                             NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCPIBLEND                 Health Expenditures Price Index, Blended Account Basis                                                                     NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCPIMEPS                  Health Expenditures Price Index, MEPS Account Basis                                                                        NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCREXBLEND                Real Health Expenditures, Blended Account Basis                                                                          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSCREXMEPS                 Real Health Expenditures, MEPS Account Basis                                                                             B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEEXPHCSA                 Health Services Expenditures                                                                                             B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEPCHCSA                  Health Services Expenditures per Capita                                                                                    NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEPIBLEND                 Health Services Expenditures Price Index, Blended Account Basis                                                            NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEPIMEPS                  Health Services Expenditures Price Index, MEPS Account Basis                                                               NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEREXBLEND                Real Health Services Expenditures, Blended Account Basis                                                                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+HLTHSEREXMEPS                 Real Health Services Expenditures, MEPS Account Basis                                                                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSEXPBLEND                Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, Blended Account Basis                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSEXPMEPS                 Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, MEPS Account Basis                          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSPCBLEND                 Medical Services Expenditures per Capita by Disease: Infectious and Parasitic Diseases, Blended Account Basis              NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSPCMEPS                  Medical Services Expenditures per Capita by Disease: Infectious and Parasitic Diseases, MEPS Account Basis                 NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSPIBLEND                 Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, Blended Account Basis             NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSPIMEPS                  Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, MEPS Account Basis                NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSREXBLEND                Real Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, Blended Account Basis                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INFAPSREXMEPS                 Real Medical Services Expenditures by Disease: Infectious and Parasitic Diseases, MEPS Account Basis                     B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIEXPBLEND                Medical Services Expenditures by Disease: Injury and Poisoning, Blended Account Basis                                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIEXPMEPS                 Medical Services Expenditures by Disease: Injury and Poisoning, MEPS Account Basis                                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIPCBLEND                 Medical Services Expenditures per Capita by Disease: Injury and Poisoning, Blended Account Basis                           NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIPCMEPS                  Medical Services Expenditures per Capita by Disease: Injury and Poisoning, MEPS Account Basis                              NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIPIBLEND                 Medical Services Expenditures by Disease: Injury and Poisoning Price Index, Blended Account Basis                          NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIPIMEPS                  Medical Services Expenditures by Disease: Injury and Poisoning Price Index, MEPS Account Basis                             NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIREXBLEND                Real Medical Services Expenditures by Disease: Injury and Poisoning, Blended Account Basis                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+INJPOIREXMEPS                 Real Medical Services Expenditures by Disease: Injury and Poisoning, MEPS Account Basis                                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSEXPHCSA                 Medical Services Expenditures by Disease                                                                                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSPCHCSA                  Medical Services Expenditures per Capita by Disease                                                                        NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSPIBLEND                 Medical Services Expenditures by Disease Price Index, Blended Account Basis                                                NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSPIMEPS                  Medical Services Expenditures by Disease Price Index, MEPS Account Basis                                                   NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSREXBLEND                Real Medical Services Expenditures by Disease , Blended Account Basis                                                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MDSBDSREXMEPS                 Real Medical Services Expenditures by Disease , MEPS Account Basis                                                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MEAPEQEXPHCSA                 Medical Products, Appliances and Equipment Expenditures                                                                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MEAPEQPCHCSA                  Medical Products, Appliances and Equipment Expenditures per Capita                                                         NSA  19-Jan-2022 01-Jan-2019             Annual             
+MEAPEQPIHCSA                  Medical Products, Appliances and Equipment Expenditures Price Index                                                        NSA  19-Jan-2022 01-Jan-2019             Annual             
+MEAPEQREXHCSA                 Real Medical Products, Appliances and Equipment Expenditures                                                             B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MESEPREXPHCSA                 Medical Services Expenditures by Provider                                                                                B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MESEPRPCHCSA                  Medical Services Expenditures per Capita by Provider                                                                       NSA  19-Jan-2022 01-Jan-2019             Annual             
+MESEPRPIHCSA                  Medical Services Expenditures by Provider Price Index                                                                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+MESEPRREXHCSA                 Real Medical Services Expenditures by Provider                                                                           B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIEXPBLEND                Medical Services Expenditures by Disease: Mental Illness , Blended Account Basis                                         B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIEXPMEPS                 Medical Services Expenditures by Disease: Mental Illness , MEPS Account Basis                                            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIPCBLEND                 Medical Services Expenditures per Capita by Disease: Mental Illness , Blended Account Basis                                NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIPCMEPS                  Medical Services Expenditures per Capita by Disease: Mental Illness , MEPS Account Basis                                   NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIPIBLEND                 Medical Services Expenditures by Disease: Mental Illness Price Index, Blended Account Basis                                NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIPIMEPS                  Medical Services Expenditures by Disease: Mental Illness Price Index, MEPS Account Basis                                   NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIREXBLEND                Real Medical Services Expenditures by Disease: Mental Illness , Blended Account Basis                                    B NSA  19-Jan-2022 01-Jan-2019             Annual             
+MNINEIREXMEPS                 Real Medical Services Expenditures by Disease: Mental Illness , MEPS Account Basis                                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONDRGEXPHCSA                 Nonprescription Drugs Expenditures                                                                                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONDRGPCHCSA                  Nonprescription Drugs Expenditures per Capita                                                                              NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONDRGPIHCSA                  Nonprescription Drugs Expenditures Price Index                                                                             NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONDRGREXHCSA                 Real Nonprescription Drugs Expenditures                                                                                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONUHOEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONUHOPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households        NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONUHOPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households Price Index       NSA  19-Jan-2022 01-Jan-2019             Annual             
+NONUHOREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes: Nonprofit Nursing Homes Services to Households            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMEXPBLEND                Medical Services Expenditures by Disease: Neoplasms, Blended Account Basis                                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMEXPMEPS                 Medical Services Expenditures by Disease: Neoplasms, MEPS Account Basis                                                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMPCBLEND                 Medical Services Expenditures per Capita by Disease: Neoplasms, Blended Account Basis                                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMPCMEPS                  Medical Services Expenditures per Capita by Disease: Neoplasms, MEPS Account Basis                                         NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMPIBLEND                 Medical Services Expenditures by Disease: Neoplasms Price Index, Blended Account Basis                                     NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMPIMEPS                  Medical Services Expenditures by Disease: Neoplasms Price Index, MEPS Account Basis                                        NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMREXBLEND                Real Medical Services Expenditures by Disease: Neoplasms, Blended Account Basis                                          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NPSMSMREXMEPS                 Real Medical Services Expenditures by Disease: Neoplasms, MEPS Account Basis                                             B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NURHOMEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes                                                                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+NURHOMPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes                                                        NSA  19-Jan-2022 01-Jan-2019             Annual             
+NURHOMPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes Price Index                                                       NSA  19-Jan-2022 01-Jan-2019             Annual             
+NURHOMREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes                                                            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+OTMEPREXPHCSA                 Other Medical Products Expenditures                                                                                      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+OTMEPRPCHCSA                  Other Medical Products Expenditures per Capita                                                                             NSA  19-Jan-2022 01-Jan-2019             Annual             
+OTMEPRPIHCSA                  Other Medical Products Expenditures Price Index                                                                            NSA  19-Jan-2022 01-Jan-2019             Annual             
+OTMEPRREXHCSA                 Real Other Medical Products Expenditures                                                                                 B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHMEPREXPHCSA                 Pharmaceutical and Other Medical Products Expenditures                                                                   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHMEPRPCHCSA                  Pharmaceutical and Other Medical Products Expenditures per Capita                                                          NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHMEPRPIHCSA                  Pharmaceutical and Other Medical Products Expenditures Price Index                                                         NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHMEPRREXHCSA                 Real Pharmaceutical and Other Medical Products Expenditures                                                              B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHPRDREXPHCSA                 Pharmaceutical Products (Without Prescription Drugs) Expenditures                                                        B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHPRDRPCHCSA                  Pharmaceutical Products (Without Prescription Drugs) Expenditures per Capita                                               NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHPRDRPIHCSA                  Pharmaceutical Products (Without Prescription Drugs) Expenditures Price Index                                              NSA  19-Jan-2022 01-Jan-2019             Annual             
+PHPRDRREXHCSA                 Real Pharmaceutical Products (Without Prescription Drugs) Expenditures                                                   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PRGONUEXPHCSA                 Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes                       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+PRGONUPCHCSA                  Medical Services Expenditures per Capita by Provider: Nursing Homes: Proprietary and Government Nursing Homes              NSA  19-Jan-2022 01-Jan-2019             Annual             
+PRGONUPIHCSA                  Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes Price Index             NSA  19-Jan-2022 01-Jan-2019             Annual             
+PRGONUREXHCSA                 Real Medical Services Expenditures by Provider: Nursing Homes: Proprietary and Government Nursing Homes                  B NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNEXPBLEND                Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account Basis        B NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNEXPMEPS                 Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Basis           B NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNPCBLEND                 Medical Services Expenditures per Capita by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account     NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNPCMEPS                  Medical Services Expenditures per Capita by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Bas    NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNPIBLEND                 Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, Blended Account    NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNPIMEPS                  Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes Price Index, MEPS Account Ba    NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNREXBLEND                Real Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, Blended Account Basis   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+RECOUNREXMEPS                 Real Medical Services Expenditures by Disease: Other: Residual Codes; Unclassified; All E Codes, MEPS Account Basis      B NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILEXPBLEND                Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis            B NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILEXPMEPS                 Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILPCBLEND                 Medical Services Expenditures per Capita by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis   NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILPCMEPS                  Medical Services Expenditures per Capita by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis      NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILPIBLEND                 Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, Blended Account Basis   NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILPIMEPS                  Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions Price Index, MEPS Account Basis      NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILREXBLEND                Real Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , Blended Account Basis       B NSA  19-Jan-2022 01-Jan-2019             Annual             
+SYSIILREXMEPS                 Real Medical Services Expenditures by Disease: Symptoms; Signs; and Ill-Defined Conditions , MEPS Account Basis          B NSA  19-Jan-2022 01-Jan-2019             Annual             
+THAPEQEXPHCSA                 Therapeutic Appliances and Equipment Expenditures                                                                        B NSA  19-Jan-2022 01-Jan-2019             Annual             
+THAPEQPCHCSA                  Therapeutic Appliances and Equipment Expenditures per Capita                                                               NSA  19-Jan-2022 01-Jan-2019             Annual             
+THAPEQPIHCSA                  Therapeutic Appliances and Equipment Expenditures Price Index                                                              NSA  19-Jan-2022 01-Jan-2019             Annual             
+THAPEQREXHCSA                 Real Therapeutic Appliances and Equipment Expenditures                                                                   B NSA  19-Jan-2022 01-Jan-2019             Annual             
+THMEEQEXPHCSA                 Therapeutic Medical Equipment Expenditures                                                                               B NSA  19-Jan-2022 01-Jan-2019             Annual             
+THMEEQPCHCSA                  Therapeutic Medical Equipment Expenditures per Capita                                                                      NSA  19-Jan-2022 01-Jan-2019             Annual             
+THMEEQPIHCSA                  Therapeutic Medical Equipment Expenditures Price Index                                                                     NSA  19-Jan-2022 01-Jan-2019             Annual             
+THMEEQREXHCSA                 Real Therapeutic Medical Equipment Expenditures                                                                          B NSA  19-Jan-2022 01-Jan-2019             Annual             

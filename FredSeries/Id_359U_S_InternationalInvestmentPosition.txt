@@ -1,33 +1,33 @@
-Id : 359  U.S. International Investment Position
-IIPASSEA                      U.S. Assets Excluding Financial Derivatives                                                                              NSA  28-Jun-2022  Annual, End of Period
-IIPASSEQ                      U.S. Assets Excluding Financial Derivatives                                                                              NSA  28-Sep-2022  Quarterly, End of Period
-IIPDIREAMVA                   U.S. Assets: Direct Investment at Market Value                                                                           NSA  28-Jun-2022  Annual, End of Period
-IIPDIREAMVQ                   U.S. Assets: Direct Investment at Market Value                                                                           NSA  28-Sep-2022  Quarterly, End of Period
-IIPDIRELMVA                   U.S. Liabilities: Direct Investment at Market Value                                                                      NSA  28-Jun-2022  Annual, End of Period
-IIPDIRELMVQ                   U.S. Liabilities: Direct Investment at Market Value                                                                      NSA  28-Sep-2022  Quarterly, End of Period
-IIPFINAAGA                    U.S. Assets: Financial Derivatives Other Than Reserves, Gross Positive Fair Value                                        NSA  28-Jun-2022  Annual, End of Period
-IIPFINAAGQ                    U.S. Assets: Financial Derivatives Other Than Reserves, Gross Positive Fair Value                                        NSA  28-Sep-2022  Quarterly, End of Period
-IIPFINALGA                    U.S. Liabilities: Financial Derivatives Other Than Reserves, Gross Negative Fair Value                                   NSA  28-Jun-2022  Annual, End of Period
-IIPFINALGQ                    U.S. Liabilities: Financial Derivatives Other Than Reserves, Gross Negative Fair Value                                   NSA  28-Sep-2022  Quarterly, End of Period
-IIPFINANCNA                   U.S. Financial Derivatives Other Than Reserves, Net                                                                      NSA  28-Jun-2022  Annual, End of Period
-IIPFINANCNQ                   U.S. Financial Derivatives Other Than Reserves, Net                                                                      NSA  28-Sep-2022  Quarterly, End of Period
-IIPLIABA                      U.S. Liabilities Excluding Financial Derivatives                                                                         NSA  28-Jun-2022  Annual, End of Period
-IIPLIABQ                      U.S. Liabilities Excluding Financial Derivatives                                                                         NSA  28-Sep-2022  Quarterly, End of Period
-IIPNETINA                     U.S. Net International Investment Position Excluding Financial Derivatives                                               NSA  28-Jun-2022  Annual, End of Period
-IIPNETINQ                     U.S. Net International Investment Position Excluding Financial Derivatives                                               NSA  28-Sep-2022  Quarterly, End of Period
-IIPOTHEAA                     U.S. Assets: Other Investment                                                                                            NSA  28-Jun-2022  Annual, End of Period
-IIPOTHEAQ                     U.S. Assets: Other Investment                                                                                            NSA  28-Sep-2022  Quarterly, End of Period
-IIPOTHELA                     U.S. Liabilities: Other Investment                                                                                       NSA  28-Jun-2022  Annual, End of Period
-IIPOTHELQ                     U.S. Liabilities: Other Investment                                                                                       NSA  28-Sep-2022  Quarterly, End of Period
-IIPPORTAA                     U.S. Assets: Portfolio Investment                                                                                        NSA  28-Jun-2022  Annual, End of Period
-IIPPORTAQ                     U.S. Assets: Portfolio Investment                                                                                        NSA  28-Sep-2022  Quarterly, End of Period
-IIPPORTLA                     U.S. Liabilities: Portfolio Investment                                                                                   NSA  28-Jun-2022  Annual, End of Period
-IIPPORTLQ                     U.S. Liabilities: Portfolio Investment                                                                                   NSA  28-Sep-2022  Quarterly, End of Period
-IIPRESEA                      U.S. Assets: Reserve Assets                                                                                              NSA  29-Mar-2022  Annual, End of Period
-IIPRESEQ                      U.S. Assets: Reserve Assets                                                                                              NSA  28-Sep-2022  Quarterly, End of Period
-IIPUSASSA                     U.S. Assets                                                                                                              NSA  28-Jun-2022  Annual, End of Period
-IIPUSASSQ                     U.S. Assets                                                                                                              NSA  28-Sep-2022  Quarterly, End of Period
-IIPUSLIAA                     U.S. Liabilities                                                                                                         NSA  28-Jun-2022  Annual, End of Period
-IIPUSLIAQ                     U.S. Liabilities                                                                                                         NSA  28-Sep-2022  Quarterly, End of Period
-IIPUSNETIA                    U.S. Net International Investment Position                                                                               NSA  28-Jun-2022  Annual, End of Period
-IIPUSNETIQ                    U.S. Net International Investment Position                                                                               NSA  28-Sep-2022  Quarterly, End of Period
+Release  Id : 359	U.S. International Investment Position
+IIPASSEA                      U.S. Assets Excluding Financial Derivatives                                                                              M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPASSEQ                      U.S. Assets Excluding Financial Derivatives                                                                              M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPDIREAMVA                   U.S. Assets: Direct Investment at Market Value                                                                           M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPDIREAMVQ                   U.S. Assets: Direct Investment at Market Value                                                                           M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPDIRELMVA                   U.S. Liabilities: Direct Investment at Market Value                                                                      M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPDIRELMVQ                   U.S. Liabilities: Direct Investment at Market Value                                                                      M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPFINAAGA                    U.S. Assets: Financial Derivatives Other Than Reserves, Gross Positive Fair Value                                        M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPFINAAGQ                    U.S. Assets: Financial Derivatives Other Than Reserves, Gross Positive Fair Value                                        M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPFINALGA                    U.S. Liabilities: Financial Derivatives Other Than Reserves, Gross Negative Fair Value                                   M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPFINALGQ                    U.S. Liabilities: Financial Derivatives Other Than Reserves, Gross Negative Fair Value                                   M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPFINANCNA                   U.S. Financial Derivatives Other Than Reserves, Net                                                                      M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPFINANCNQ                   U.S. Financial Derivatives Other Than Reserves, Net                                                                      M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPLIABA                      U.S. Liabilities Excluding Financial Derivatives                                                                         M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPLIABQ                      U.S. Liabilities Excluding Financial Derivatives                                                                         M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPNETINA                     U.S. Net International Investment Position Excluding Financial Derivatives                                               M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPNETINQ                     U.S. Net International Investment Position Excluding Financial Derivatives                                               M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPOTHEAA                     U.S. Assets: Other Investment                                                                                            M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPOTHEAQ                     U.S. Assets: Other Investment                                                                                            M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPOTHELA                     U.S. Liabilities: Other Investment                                                                                       M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPOTHELQ                     U.S. Liabilities: Other Investment                                                                                       M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPPORTAA                     U.S. Assets: Portfolio Investment                                                                                        M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPPORTAQ                     U.S. Assets: Portfolio Investment                                                                                        M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPPORTLA                     U.S. Liabilities: Portfolio Investment                                                                                   M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPPORTLQ                     U.S. Liabilities: Portfolio Investment                                                                                   M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPRESEA                      U.S. Assets: Reserve Assets                                                                                              M NSA  29-Mar-2022 01-Jan-2021             Annual, End of Per 
+IIPRESEQ                      U.S. Assets: Reserve Assets                                                                                              M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPUSASSA                     U.S. Assets                                                                                                              M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPUSASSQ                     U.S. Assets                                                                                                              M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPUSLIAA                     U.S. Liabilities                                                                                                         M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPUSLIAQ                     U.S. Liabilities                                                                                                         M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  
+IIPUSNETIA                    U.S. Net International Investment Position                                                                               M NSA  28-Jun-2022 01-Jan-2021             Annual, End of Per 
+IIPUSNETIQ                    U.S. Net International Investment Position                                                                               M NSA  28-Sep-2022 01-Apr-2022 15-Dec-2022 Quarterly, End of  

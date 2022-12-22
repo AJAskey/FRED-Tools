@@ -1,40 +1,40 @@
-Id : 202  International Unemployment Rates and Employment Indexes
-AUSEIAM                       Adjusted Employment Index in Australia (DISCONTINUED)                                                                    SA   03-Sep-2013  Monthly        
-AUSEIAQ                       Adjusted Employment Index in Australia (DISCONTINUED)                                                                    SA   03-Sep-2013  Quarterly      
-AUSURAMS                      Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                   SA   03-Sep-2013  Monthly        
-AUSURAQS                      Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                   SA   03-Sep-2013  Quarterly      
-CANEIAM                       Adjusted Employment Index in Canada (DISCONTINUED)                                                                       SA   03-Sep-2013  Monthly        
-CANEIAQ                       Adjusted Employment Index in Canada (DISCONTINUED)                                                                       SA   03-Sep-2013  Quarterly      
-CANURAMS                      Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                      SA   03-Sep-2013  Monthly        
-CANURAQS                      Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                      SA   03-Sep-2013  Quarterly      
-DEUEIAM                       Adjusted Employment Index in Germany (DISCONTINUED)                                                                      SA   03-Sep-2013  Monthly        
-DEUEIAQ                       Adjusted Employment Index in Germany (DISCONTINUED)                                                                      SA   03-Sep-2013  Quarterly      
-DEUURAMS                      Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                     SA   03-Sep-2013  Monthly        
-DEUURAQS                      Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                     SA   03-Sep-2013  Quarterly      
-FRAEIAQ                       Adjusted Employment Index in France (DISCONTINUED)                                                                       SA   03-Sep-2013  Quarterly      
-FRAURAMS                      Adjusted Unemployment Rate in France (DISCONTINUED)                                                                      SA   03-Sep-2013  Monthly        
-FRAURAQS                      Adjusted Unemployment Rate in France (DISCONTINUED)                                                                      SA   03-Sep-2013  Quarterly      
-GBREIAM                       Adjusted Employment Index in the United Kingdom (DISCONTINUED)                                                           SA   03-Sep-2013  Monthly        
-GBREIAQ                       Employment Index in the United Kingdom (DISCONTINUED)                                                                    SA   05-Jul-2013  Quarterly      
-GBRURAMS                      Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                          SA   03-Sep-2013  Monthly        
-GBRURAQS                      Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                          SA   05-Jul-2013  Quarterly      
-ITAEIAM                       Adjusted Employment Index in Italy (DISCONTINUED)                                                                        SA   03-Sep-2013  Monthly        
-ITAEIAQ                       Adjusted Employment Index in Italy (DISCONTINUED)                                                                        SA   03-Sep-2013  Quarterly      
-ITAURAMS                      Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                       SA   03-Sep-2013  Monthly        
-ITAURAQS                      Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                       SA   03-Sep-2013  Quarterly      
-JPNEIAM                       Adjusted Employment Index in Japan (DISCONTINUED)                                                                        SA   03-Sep-2013  Monthly        
-JPNEIAQ                       Adjusted Employment Index in Japan (DISCONTINUED)                                                                        SA   03-Sep-2013  Quarterly      
-JPNURAMS                      Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                       SA   03-Sep-2013  Monthly        
-JPNURAQS                      Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                       SA   03-Sep-2013  Quarterly      
-NLDEIAM                       Adjusted Employment Index in Netherlands (DISCONTINUED)                                                                  SA   03-Sep-2013  Monthly        
-NLDEIAQ                       Adjusted Employment Index in Netherlands (DISCONTINUED)                                                                  SA   03-Sep-2013  Quarterly      
-NLDURAMS                      Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                 SA   03-Sep-2013  Monthly        
-NLDURAQS                      Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                 SA   03-Sep-2013  Quarterly      
-SWEEIAM                       Adjusted Employment Index in Sweden (DISCONTINUED)                                                                       SA   03-Sep-2013  Monthly        
-SWEEIAQ                       Adjusted Employment Index in Sweden (DISCONTINUED)                                                                       SA   03-Sep-2013  Quarterly      
-SWEURAMS                      Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                      SA   03-Sep-2013  Monthly        
-SWEURAQS                      Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                      SA   03-Sep-2013  Quarterly      
-USAEIAM                       Employment Index in the United States (DISCONTINUED)                                                                     SA   03-Sep-2013  Monthly        
-USAEIAQ                       Employment Index in the United States (DISCONTINUED)                                                                     SA   03-Sep-2013  Quarterly      
-USAURAMS                      Unemployment Rate in the United States (DISCONTINUED)                                                                    SA   03-Sep-2013  Monthly        
-USAURAQS                      Unemployment Rate in the United States (DISCONTINUED)                                                                    SA   03-Sep-2013  Quarterly      
+Release  Id : 202	International Unemployment Rates and Employment Indexes
+AUSEIAM                       Adjusted Employment Index in Australia (DISCONTINUED)                                                                      SA   03-Sep-2013 01-Jun-2013             Monthly            
+AUSEIAQ                       Adjusted Employment Index in Australia (DISCONTINUED)                                                                      SA   03-Sep-2013 01-Apr-2013             Quarterly          
+AUSURAMS                      Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                   P SA   03-Sep-2013 01-Jun-2013             Monthly            
+AUSURAQS                      Adjusted Unemployment Rate in Australia (DISCONTINUED)                                                                   P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+CANEIAM                       Adjusted Employment Index in Canada (DISCONTINUED)                                                                         SA   03-Sep-2013 01-Jun-2013             Monthly            
+CANEIAQ                       Adjusted Employment Index in Canada (DISCONTINUED)                                                                         SA   03-Sep-2013 01-Apr-2013             Quarterly          
+CANURAMS                      Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Jun-2013             Monthly            
+CANURAQS                      Adjusted Unemployment Rate in Canada (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+DEUEIAM                       Adjusted Employment Index in Germany (DISCONTINUED)                                                                        SA   03-Sep-2013 01-Jun-2013             Monthly            
+DEUEIAQ                       Adjusted Employment Index in Germany (DISCONTINUED)                                                                        SA   03-Sep-2013 01-Apr-2013             Quarterly          
+DEUURAMS                      Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                     P SA   03-Sep-2013 01-Jun-2013             Monthly            
+DEUURAQS                      Adjusted Unemployment Rate in Germany (DISCONTINUED)                                                                     P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+FRAEIAQ                       Adjusted Employment Index in France (DISCONTINUED)                                                                         SA   03-Sep-2013 01-Apr-2013             Quarterly          
+FRAURAMS                      Adjusted Unemployment Rate in France (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Jun-2013             Monthly            
+FRAURAQS                      Adjusted Unemployment Rate in France (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+GBREIAM                       Adjusted Employment Index in the United Kingdom (DISCONTINUED)                                                             SA   03-Sep-2013 01-Apr-2013             Monthly            
+GBREIAQ                       Employment Index in the United Kingdom (DISCONTINUED)                                                                      SA   05-Jul-2013 01-Jan-2013             Quarterly          
+GBRURAMS                      Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                          P SA   03-Sep-2013 01-Apr-2013             Monthly            
+GBRURAQS                      Adjusted Unemployment Rate in the United Kingdom (DISCONTINUED)                                                          P SA   05-Jul-2013 01-Jan-2013             Quarterly          
+ITAEIAM                       Adjusted Employment Index in Italy (DISCONTINUED)                                                                          SA   03-Sep-2013 01-Jun-2013             Monthly            
+ITAEIAQ                       Adjusted Employment Index in Italy (DISCONTINUED)                                                                          SA   03-Sep-2013 01-Apr-2013             Quarterly          
+ITAURAMS                      Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                       P SA   03-Sep-2013 01-Jun-2013             Monthly            
+ITAURAQS                      Adjusted Unemployment Rate in Italy (DISCONTINUED)                                                                       P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+JPNEIAM                       Adjusted Employment Index in Japan (DISCONTINUED)                                                                          SA   03-Sep-2013 01-Jun-2013             Monthly            
+JPNEIAQ                       Adjusted Employment Index in Japan (DISCONTINUED)                                                                          SA   03-Sep-2013 01-Apr-2013             Quarterly          
+JPNURAMS                      Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                       P SA   03-Sep-2013 01-Jun-2013             Monthly            
+JPNURAQS                      Adjusted Unemployment Rate in Japan (DISCONTINUED)                                                                       P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+NLDEIAM                       Adjusted Employment Index in Netherlands (DISCONTINUED)                                                                    SA   03-Sep-2013 01-Jun-2013             Monthly            
+NLDEIAQ                       Adjusted Employment Index in Netherlands (DISCONTINUED)                                                                    SA   03-Sep-2013 01-Apr-2013             Quarterly          
+NLDURAMS                      Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                 P SA   03-Sep-2013 01-Jun-2013             Monthly            
+NLDURAQS                      Adjusted Unemployment Rate in Netherlands (DISCONTINUED)                                                                 P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+SWEEIAM                       Adjusted Employment Index in Sweden (DISCONTINUED)                                                                         SA   03-Sep-2013 01-Jun-2013             Monthly            
+SWEEIAQ                       Adjusted Employment Index in Sweden (DISCONTINUED)                                                                         SA   03-Sep-2013 01-Apr-2013             Quarterly          
+SWEURAMS                      Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Jun-2013             Monthly            
+SWEURAQS                      Adjusted Unemployment Rate in Sweden (DISCONTINUED)                                                                      P SA   03-Sep-2013 01-Apr-2013             Quarterly          
+USAEIAM                       Employment Index in the United States (DISCONTINUED)                                                                       SA   03-Sep-2013 01-Jun-2013             Monthly            
+USAEIAQ                       Employment Index in the United States (DISCONTINUED)                                                                       SA   03-Sep-2013 01-Apr-2013             Quarterly          
+USAURAMS                      Unemployment Rate in the United States (DISCONTINUED)                                                                    P SA   03-Sep-2013 01-Jun-2013             Monthly            
+USAURAQS                      Unemployment Rate in the United States (DISCONTINUED)                                                                    P SA   03-Sep-2013 01-Apr-2013             Quarterly          

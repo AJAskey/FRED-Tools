@@ -1,59 +1,59 @@
-Id : 206  Quarterly National Accounts
-AUSCOMPQDSNAQ                 Compensation of Employees in Australia                                                                                   SA   03-Oct-2022  Quarterly      
-AUSPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Australia                                               SA   02-Nov-2022  Quarterly      
-CANCOMPQDSNAQ                 Compensation of Employees in Canada                                                                                      SA   01-Dec-2022  Quarterly      
-CANEXPORTQDSNAQ               Exports of Goods and Services in Canada                                                                                  SA   01-Dec-2022  Quarterly      
-CANGFCEQDSNAQ                 Government Final Consumption Expenditure in Canada                                                                       SA   01-Dec-2022  Quarterly      
-CANGFCFQDSNAQ                 Gross Fixed Capital Formation in Canada                                                                                  SA   01-Dec-2022  Quarterly      
-CANIMPORTQDSNAQ               Imports of Goods and Services in Canada                                                                                  SA   01-Dec-2022  Quarterly      
-CANPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Canada                                                  SA   01-Dec-2022  Quarterly      
-CANPFCEQDSNAQ                 Private Final Consumption Expenditure in Canada                                                                          SA   01-Dec-2022  Quarterly      
-CANRGDPQDSNAQ                 Gross Domestic Product in Canada (DISCONTINUED)                                                                          SA   29-Oct-2012  Quarterly      
-DEUCOMPQDSNAQ                 Compensation of Employees in Germany                                                                                     SA   01-Dec-2022  Quarterly      
-DEUEXPORTQDSNAQ               Exports of Goods and Services in Germany                                                                                 SA   01-Dec-2022  Quarterly      
-DEUGFCEQDSNAQ                 Government Final Consumption Expenditure in Germany                                                                      SA   01-Dec-2022  Quarterly      
-DEUGFCFQDSNAQ                 Gross Fixed Capital Formation in Germany                                                                                 SA   01-Dec-2022  Quarterly      
-DEUIMPORTQDSNAQ               Imports of Goods and Services in Germany                                                                                 SA   01-Dec-2022  Quarterly      
-DEUPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Germany                                                 SA   01-Dec-2022  Quarterly      
-DEUPFCEQDSNAQ                 Private Final Consumption Expenditure in Germany                                                                         SA   01-Dec-2022  Quarterly      
-DEURGDPQDSNAQ                 Gross Domestic Product in Germany                                                                                        SA   01-Dec-2022  Quarterly      
-FRACOMPQDSNAQ                 Compensation of Employees in France                                                                                      SA   01-Dec-2022  Quarterly      
-FRAEXPORTQDSNAQ               Exports of Goods and Services in France                                                                                  SA   01-Dec-2022  Quarterly      
-FRAGFCEQDSNAQ                 Government Final Consumption Expenditure in France                                                                       SA   01-Dec-2022  Quarterly      
-FRAGFCFQDSNAQ                 Gross Fixed Capital Formation in France                                                                                  SA   01-Dec-2022  Quarterly      
-FRAIMPORTQDSNAQ               Imports of Goods and Services in France                                                                                  SA   01-Dec-2022  Quarterly      
-FRAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in France                                                  SA   01-Dec-2022  Quarterly      
-FRAPFCEQDSNAQ                 Private Final Consumption Expenditure in France                                                                          SA   01-Dec-2022  Quarterly      
-FRARGDPQDSNAQ                 Gross Domestic Product in France                                                                                         SA   01-Dec-2022  Quarterly      
-GBRCOMPQDSNAQ                 Compensation of Employees in the United Kingdom                                                                          SA   01-Dec-2022  Quarterly      
-GBREXPORTQDSNAQ               Exports of Goods and Services in the United Kingdom                                                                      SA   01-Dec-2022  Quarterly      
-GBRGFCEQDSNAQ                 Government Final Consumption Expenditure in the United Kingdom                                                           SA   01-Dec-2022  Quarterly      
-GBRGFCFQDSNAQ                 Gross Fixed Capital Formation in the United Kingdom                                                                      SA   01-Dec-2022  Quarterly      
-GBRIMPORTQDSNAQ               Imports of Goods and Services in the United Kingdom                                                                      SA   01-Dec-2022  Quarterly      
-GBRPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in the United Kingdom                                      SA   01-Dec-2022  Quarterly      
-GBRPFCEQDSNAQ                 Private Final Consumption Expenditure in the United Kingdom                                                              SA   01-Dec-2022  Quarterly      
-GBRRGDPQDSNAQ                 Gross Domestic Product in the United Kingdom                                                                             SA   01-Dec-2022  Quarterly      
-ITACOMPQDSNAQ                 Compensation of Employees in Italy                                                                                       SA   01-Dec-2022  Quarterly      
-ITAEXPORTQDSNAQ               Exports of Goods and Services in Italy                                                                                   SA   01-Dec-2022  Quarterly      
-ITAGFCEQDSNAQ                 Government Final Consumption Expenditure in Italy                                                                        SA   01-Dec-2022  Quarterly      
-ITAGFCFQDSNAQ                 Gross Fixed Capital Formation in Italy                                                                                   SA   01-Dec-2022  Quarterly      
-ITAIMPORTQDSNAQ               Imports of Goods and Services in Italy                                                                                   SA   01-Dec-2022  Quarterly      
-ITAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Italy                                                   SA   01-Dec-2022  Quarterly      
-ITAPFCEQDSNAQ                 Private Final Consumption Expenditure in Italy                                                                           SA   01-Dec-2022  Quarterly      
-ITARGDPQDSNAQ                 Gross Domestic Product in Italy                                                                                          SA   01-Dec-2022  Quarterly      
-JPNCOMPQDSNAQ                 Compensation of Employees in Japan                                                                                       SA   01-Feb-2018  Quarterly      
-JPNEXPORTQDSNAQ               Exports of Goods and Services in Japan                                                                                   SA   01-Dec-2022  Quarterly      
-JPNGFCEQDSNAQ                 Government Final Consumption Expenditure in Japan                                                                        SA   01-Dec-2022  Quarterly      
-JPNGFCFQDSNAQ                 Gross Fixed Capital Formation in Japan                                                                                   SA   01-Dec-2022  Quarterly      
-JPNIMPORTQDSNAQ               Imports of Goods and Services in Japan                                                                                   SA   01-Dec-2022  Quarterly      
-JPNPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Japan                                                   SA   01-Dec-2022  Quarterly      
-JPNPFCEQDSNAQ                 Private Final Consumption Expenditure in Japan                                                                           SA   01-Dec-2022  Quarterly      
-JPNRGDPQDSNAQ                 Gross Domestic Product in Japan                                                                                          SA   01-Dec-2022  Quarterly      
-USACOMPQDSNAQ                 Compensation of Employees in United States                                                                               SA   01-Nov-2017  Quarterly      
-USAEXPORTQDSNAQ               Exports of Goods and Services in United States                                                                           SA   01-Dec-2022  Quarterly      
-USAGFCEQDSNAQ                 Government Final Consumption Expenditure in United States                                                                SA   01-Dec-2022  Quarterly      
-USAGFCFQDSNAQ                 Gross Fixed Capital Formation in United States                                                                           SA   01-Dec-2022  Quarterly      
-USAIMPORTQDSNAQ               Imports of Goods and Services in United States                                                                           SA   01-Dec-2022  Quarterly      
-USAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in the United States                                       SA   01-Dec-2022  Quarterly      
-USAPFCEQDSNAQ                 Private Final Consumption Expenditure in United States                                                                   SA   01-Dec-2022  Quarterly      
-USARGDPQDSNAQ                 Gross Domestic Product in United States                                                                                  SA   01-Dec-2022  Quarterly      
+Release  Id : 206	Quarterly National Accounts
+AUSCOMPQDSNAQ                 Compensation of Employees in Australia                                                                                     SA   03-Oct-2022 01-Apr-2022             Quarterly          
+AUSPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Australia                                                 SA   02-Nov-2022 01-Apr-2022             Quarterly          
+CANCOMPQDSNAQ                 Compensation of Employees in Canada                                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANEXPORTQDSNAQ               Exports of Goods and Services in Canada                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANGFCEQDSNAQ                 Government Final Consumption Expenditure in Canada                                                                         SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANGFCFQDSNAQ                 Gross Fixed Capital Formation in Canada                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANIMPORTQDSNAQ               Imports of Goods and Services in Canada                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Canada                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANPFCEQDSNAQ                 Private Final Consumption Expenditure in Canada                                                                            SA   01-Dec-2022 01-Jul-2022             Quarterly          
+CANRGDPQDSNAQ                 Gross Domestic Product in Canada (DISCONTINUED)                                                                          M SA   29-Oct-2012 01-Jan-2012             Quarterly          
+DEUCOMPQDSNAQ                 Compensation of Employees in Germany                                                                                       SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUEXPORTQDSNAQ               Exports of Goods and Services in Germany                                                                                   SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUGFCEQDSNAQ                 Government Final Consumption Expenditure in Germany                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUGFCFQDSNAQ                 Gross Fixed Capital Formation in Germany                                                                                   SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUIMPORTQDSNAQ               Imports of Goods and Services in Germany                                                                                   SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Germany                                                   SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEUPFCEQDSNAQ                 Private Final Consumption Expenditure in Germany                                                                           SA   01-Dec-2022 01-Jul-2022             Quarterly          
+DEURGDPQDSNAQ                 Gross Domestic Product in Germany                                                                                          SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRACOMPQDSNAQ                 Compensation of Employees in France                                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAEXPORTQDSNAQ               Exports of Goods and Services in France                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAGFCEQDSNAQ                 Government Final Consumption Expenditure in France                                                                         SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAGFCFQDSNAQ                 Gross Fixed Capital Formation in France                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAIMPORTQDSNAQ               Imports of Goods and Services in France                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in France                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRAPFCEQDSNAQ                 Private Final Consumption Expenditure in France                                                                            SA   01-Dec-2022 01-Jul-2022             Quarterly          
+FRARGDPQDSNAQ                 Gross Domestic Product in France                                                                                           SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRCOMPQDSNAQ                 Compensation of Employees in the United Kingdom                                                                            SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBREXPORTQDSNAQ               Exports of Goods and Services in the United Kingdom                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRGFCEQDSNAQ                 Government Final Consumption Expenditure in the United Kingdom                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRGFCFQDSNAQ                 Gross Fixed Capital Formation in the United Kingdom                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRIMPORTQDSNAQ               Imports of Goods and Services in the United Kingdom                                                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in the United Kingdom                                        SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRPFCEQDSNAQ                 Private Final Consumption Expenditure in the United Kingdom                                                                SA   01-Dec-2022 01-Jul-2022             Quarterly          
+GBRRGDPQDSNAQ                 Gross Domestic Product in the United Kingdom                                                                               SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITACOMPQDSNAQ                 Compensation of Employees in Italy                                                                                         SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAEXPORTQDSNAQ               Exports of Goods and Services in Italy                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAGFCEQDSNAQ                 Government Final Consumption Expenditure in Italy                                                                          SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAGFCFQDSNAQ                 Gross Fixed Capital Formation in Italy                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAIMPORTQDSNAQ               Imports of Goods and Services in Italy                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Italy                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITAPFCEQDSNAQ                 Private Final Consumption Expenditure in Italy                                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+ITARGDPQDSNAQ                 Gross Domestic Product in Italy                                                                                            SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNCOMPQDSNAQ                 Compensation of Employees in Japan                                                                                         SA   01-Feb-2018 01-Jul-2017             Quarterly          
+JPNEXPORTQDSNAQ               Exports of Goods and Services in Japan                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNGFCEQDSNAQ                 Government Final Consumption Expenditure in Japan                                                                          SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNGFCFQDSNAQ                 Gross Fixed Capital Formation in Japan                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNIMPORTQDSNAQ               Imports of Goods and Services in Japan                                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in Japan                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNPFCEQDSNAQ                 Private Final Consumption Expenditure in Japan                                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+JPNRGDPQDSNAQ                 Gross Domestic Product in Japan                                                                                            SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USACOMPQDSNAQ                 Compensation of Employees in United States                                                                                 SA   01-Nov-2017 01-Apr-2017             Quarterly          
+USAEXPORTQDSNAQ               Exports of Goods and Services in United States                                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USAGFCEQDSNAQ                 Government Final Consumption Expenditure in United States                                                                  SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USAGFCFQDSNAQ                 Gross Fixed Capital Formation in United States                                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USAIMPORTQDSNAQ               Imports of Goods and Services in United States                                                                             SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USAPCEDEFQISNAQ               Private Final Consumption Expenditure Implicit Price Deflator in the United States                                         SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USAPFCEQDSNAQ                 Private Final Consumption Expenditure in United States                                                                     SA   01-Dec-2022 01-Jul-2022             Quarterly          
+USARGDPQDSNAQ                 Gross Domestic Product in United States                                                                                    SA   01-Dec-2022 01-Jul-2022             Quarterly          

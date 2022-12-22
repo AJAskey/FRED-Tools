@@ -1,225 +1,225 @@
-Id : 377  Texas Retail Outlook Survey
-TROSAVGWKDSAMFRBDAL           TROS Current Hours Worked; Percent Reporting Decreases for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSAVGWKDUAMFRBDAL           TROS Current Hours Worked; Percent Reporting Decreases for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSAVGWKISAMFRBDAL           TROS Current Hours Worked; Percent Reporting Increases for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSAVGWKIUAMFRBDAL           TROS Current Hours Worked; Percent Reporting Increases for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSAVGWKNSAMFRBDAL           TROS Current Hours Worked; Percent Reporting No Change for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSAVGWKNUAMFRBDAL           TROS Current Hours Worked; Percent Reporting No Change for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSAVGWKSAMFRBDAL            TROS Current Hours Worked; Diffusion Index for Texas                                                                     SA   29-Nov-2022  Monthly        
-TROSAVGWKUAMFRBDAL            TROS Current Hours Worked; Diffusion Index for Texas                                                                     NSA  29-Nov-2022  Monthly        
-TROSBACTDSAMFRBDAL            TROS Current General Business Activity; Percent Reporting Decreases for Texas                                            SA   29-Nov-2022  Monthly        
-TROSBACTDUAMFRBDAL            TROS Current General Business Activity; Percent Reporting Decreases for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSBACTISAMFRBDAL            TROS Current General Business Activity; Percent Reporting Increases for Texas                                            SA   29-Nov-2022  Monthly        
-TROSBACTIUAMFRBDAL            TROS Current General Business Activity; Percent Reporting Increases for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSBACTNSAMFRBDAL            TROS Current General Business Activity; Percent Reporting No Change for Texas                                            SA   29-Nov-2022  Monthly        
-TROSBACTNUAMFRBDAL            TROS Current General Business Activity; Percent Reporting No Change for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSBACTSAMFRBDAL             TROS Current General Business Activity; Diffusion Index for Texas                                                        SA   29-Nov-2022  Monthly        
-TROSBACTUAMFRBDAL             TROS Current General Business Activity; Diffusion Index for Texas                                                        NSA  29-Nov-2022  Monthly        
-TROSCATREVDSAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                             SA   26-Jul-2016  Monthly        
-TROSCATREVDUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                             NSA  26-Jul-2016  Monthly        
-TROSCATREVISAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                             SA   26-Jul-2016  Monthly        
-TROSCATREVIUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                             NSA  26-Jul-2016  Monthly        
-TROSCATREVNSAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                             SA   26-Jul-2016  Monthly        
-TROSCATREVNUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                             NSA  26-Jul-2016  Monthly        
-TROSCATREVSAMFRBDAL           TROS Current Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                         SA   26-Jul-2016  Monthly        
-TROSCATREVUAMFRBDAL           TROS Current Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                         NSA  26-Jul-2016  Monthly        
-TROSCEXPDSAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSCEXPDUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSCEXPISAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Increases for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSCEXPIUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Increases for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSCEXPNSAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting No Change for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSCEXPNUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting No Change for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSCEXPSAMFRBDAL             TROS Current Capital Expenditures; Diffusion Index for Texas                                                             SA   29-Nov-2022  Monthly        
-TROSCEXPUAMFRBDAL             TROS Current Capital Expenditures; Diffusion Index for Texas                                                             NSA  29-Nov-2022  Monthly        
-TROSCOLKDSAMFRBDAL            TROS Current Company Outlook; Percent Reporting Decreases for Texas                                                      SA   29-Nov-2022  Monthly        
-TROSCOLKDUAMFRBDAL            TROS Current Company Outlook; Percent Reporting Decreases for Texas                                                      NSA  29-Nov-2022  Monthly        
-TROSCOLKISAMFRBDAL            TROS Current Company Outlook; Percent Reporting Increases for Texas                                                      SA   29-Nov-2022  Monthly        
-TROSCOLKIUAMFRBDAL            TROS Current Company Outlook; Percent Reporting Increases for Texas                                                      NSA  29-Nov-2022  Monthly        
-TROSCOLKNSAMFRBDAL            TROS Current Company Outlook; Percent Reporting No Change for Texas                                                      SA   29-Nov-2022  Monthly        
-TROSCOLKNUAMFRBDAL            TROS Current Company Outlook; Percent Reporting No Change for Texas                                                      NSA  29-Nov-2022  Monthly        
-TROSCOLKSAMFRBDAL             TROS Current Company Outlook; Diffusion Index for Texas                                                                  SA   29-Nov-2022  Monthly        
-TROSCOLKUAMFRBDAL             TROS Current Company Outlook; Diffusion Index for Texas                                                                  NSA  29-Nov-2022  Monthly        
-TROSEMPDSAMFRBDAL             TROS Current Employment; Percent Reporting Decreases for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSEMPDUAMFRBDAL             TROS Current Employment; Percent Reporting Decreases for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSEMPISAMFRBDAL             TROS Current Employment; Percent Reporting Increases for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSEMPIUAMFRBDAL             TROS Current Employment; Percent Reporting Increases for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSEMPNSAMFRBDAL             TROS Current Employment; Percent Reporting No Change for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSEMPNUAMFRBDAL             TROS Current Employment; Percent Reporting No Change for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSEMPSAMFRBDAL              TROS Current Employment; Diffusion Index for Texas                                                                       SA   29-Nov-2022  Monthly        
-TROSEMPUAMFRBDAL              TROS Current Employment; Diffusion Index for Texas                                                                       NSA  29-Nov-2022  Monthly        
-TROSFAVGWKDSAMFRBDAL          TROS Future Hours Worked; Percent Reporting Decreases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFAVGWKDUAMFRBDAL          TROS Future Hours Worked; Percent Reporting Decreases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFAVGWKISAMFRBDAL          TROS Future Hours Worked; Percent Reporting Increases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFAVGWKIUAMFRBDAL          TROS Future Hours Worked; Percent Reporting Increases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFAVGWKNSAMFRBDAL          TROS Future Hours Worked; Percent Reporting No Change for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFAVGWKNUAMFRBDAL          TROS Future Hours Worked; Percent Reporting No Change for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFAVGWKSAMFRBDAL           TROS Future Hours Worked; Diffusion Index for Texas                                                                      SA   29-Nov-2022  Monthly        
-TROSFAVGWKUAMFRBDAL           TROS Future Hours Worked; Diffusion Index for Texas                                                                      NSA  29-Nov-2022  Monthly        
-TROSFBACTDSAMFRBDAL           TROS Future General Business Activity; Percent Reporting Decreases for Texas                                             SA   29-Nov-2022  Monthly        
-TROSFBACTDUAMFRBDAL           TROS Future General Business Activity; Percent Reporting Decreases for Texas                                             NSA  29-Nov-2022  Monthly        
-TROSFBACTISAMFRBDAL           TROS Future General Business Activity; Percent Reporting Increases for Texas                                             SA   29-Nov-2022  Monthly        
-TROSFBACTIUAMFRBDAL           TROS Future General Business Activity; Percent Reporting Increases for Texas                                             NSA  29-Nov-2022  Monthly        
-TROSFBACTNSAMFRBDAL           TROS Future General Business Activity; Percent Reporting No Change for Texas                                             SA   29-Nov-2022  Monthly        
-TROSFBACTNUAMFRBDAL           TROS Future General Business Activity; Percent Reporting No Change for Texas                                             NSA  29-Nov-2022  Monthly        
-TROSFBACTSAMFRBDAL            TROS Future General Business Activity; Diffusion Index for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSFBACTUAMFRBDAL            TROS Future General Business Activity; Diffusion Index for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSFCATREVDSAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                              SA   26-Jul-2016  Monthly        
-TROSFCATREVDUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                              NSA  26-Jul-2016  Monthly        
-TROSFCATREVISAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                              SA   26-Jul-2016  Monthly        
-TROSFCATREVIUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                              NSA  26-Jul-2016  Monthly        
-TROSFCATREVNSAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                              SA   26-Jul-2016  Monthly        
-TROSFCATREVNUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                              NSA  26-Jul-2016  Monthly        
-TROSFCATREVSAMFRBDAL          TROS Future Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                          SA   26-Jul-2016  Monthly        
-TROSFCATREVUAMFRBDAL          TROS Future Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                          NSA  26-Jul-2016  Monthly        
-TROSFCEXPDSAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFCEXPDUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFCEXPISAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Increases for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFCEXPIUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Increases for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFCEXPNSAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting No Change for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFCEXPNUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting No Change for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFCEXPSAMFRBDAL            TROS Future Capital Expenditures; Diffusion Index for Texas                                                              SA   29-Nov-2022  Monthly        
-TROSFCEXPUAMFRBDAL            TROS Future Capital Expenditures; Diffusion Index for Texas                                                              NSA  29-Nov-2022  Monthly        
-TROSFCOLKDSAMFRBDAL           TROS Future Company Outlook; Percent Reporting Decreases for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSFCOLKDUAMFRBDAL           TROS Future Company Outlook; Percent Reporting Decreases for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSFCOLKISAMFRBDAL           TROS Future Company Outlook; Percent Reporting Increases for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSFCOLKIUAMFRBDAL           TROS Future Company Outlook; Percent Reporting Increases for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSFCOLKNSAMFRBDAL           TROS Future Company Outlook; Percent Reporting No Change for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSFCOLKNUAMFRBDAL           TROS Future Company Outlook; Percent Reporting No Change for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSFCOLKSAMFRBDAL            TROS Future Company Outlook; Diffusion Index for Texas                                                                   SA   29-Nov-2022  Monthly        
-TROSFCOLKUAMFRBDAL            TROS Future Company Outlook; Diffusion Index for Texas                                                                   NSA  29-Nov-2022  Monthly        
-TROSFEMPDSAMFRBDAL            TROS Future Employment; Percent Reporting Decreases for Texas                                                            SA   29-Nov-2022  Monthly        
-TROSFEMPDUAMFRBDAL            TROS Future Employment; Percent Reporting Decreases for Texas                                                            NSA  29-Nov-2022  Monthly        
-TROSFEMPISAMFRBDAL            TROS Future Employment; Percent Reporting Increases for Texas                                                            SA   29-Nov-2022  Monthly        
-TROSFEMPIUAMFRBDAL            TROS Future Employment; Percent Reporting Increases for Texas                                                            NSA  29-Nov-2022  Monthly        
-TROSFEMPNSAMFRBDAL            TROS Future Employment; Percent Reporting No Change for Texas                                                            SA   29-Nov-2022  Monthly        
-TROSFEMPNUAMFRBDAL            TROS Future Employment; Percent Reporting No Change for Texas                                                            NSA  29-Nov-2022  Monthly        
-TROSFEMPSAMFRBDAL             TROS Future Employment; Diffusion Index for Texas                                                                        SA   29-Nov-2022  Monthly        
-TROSFEMPUAMFRBDAL             TROS Future Employment; Diffusion Index for Texas                                                                        NSA  29-Nov-2022  Monthly        
-TROSFINPDSAMFRBDAL            TROS Future Input Prices; Percent Reporting Decreases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFINPDUAMFRBDAL            TROS Future Input Prices; Percent Reporting Decreases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFINPISAMFRBDAL            TROS Future Input Prices; Percent Reporting Increases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFINPIUAMFRBDAL            TROS Future Input Prices; Percent Reporting Increases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFINPNSAMFRBDAL            TROS Future Input Prices; Percent Reporting No Change for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSFINPNUAMFRBDAL            TROS Future Input Prices; Percent Reporting No Change for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSFINPSAMFRBDAL             TROS Future Input Prices; Diffusion Index for Texas                                                                      SA   29-Nov-2022  Monthly        
-TROSFINPUAMFRBDAL             TROS Future Input Prices; Diffusion Index for Texas                                                                      NSA  29-Nov-2022  Monthly        
-TROSFINTREVDSAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Decreases for Texas                                            SA   29-Nov-2022  Monthly        
-TROSFINTREVDUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Decreases for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSFINTREVISAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Increases for Texas                                            SA   29-Nov-2022  Monthly        
-TROSFINTREVIUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Increases for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSFINTREVNSAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting No Change for Texas                                            SA   29-Nov-2022  Monthly        
-TROSFINTREVNUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting No Change for Texas                                            NSA  29-Nov-2022  Monthly        
-TROSFINTREVSAMFRBDAL          TROS Future Companywide Internet Sales; Diffusion Index for Texas                                                        SA   29-Nov-2022  Monthly        
-TROSFINTREVUAMFRBDAL          TROS Future Companywide Internet Sales; Diffusion Index for Texas                                                        NSA  29-Nov-2022  Monthly        
-TROSFINVDSAMFRBDAL            TROS Future Inventories; Percent Reporting Decreases for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSFINVDUAMFRBDAL            TROS Future Inventories; Percent Reporting Decreases for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSFINVISAMFRBDAL            TROS Future Inventories; Percent Reporting Increases for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSFINVIUAMFRBDAL            TROS Future Inventories; Percent Reporting Increases for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSFINVNSAMFRBDAL            TROS Future Inventories; Percent Reporting No Change for Texas                                                           SA   29-Nov-2022  Monthly        
-TROSFINVNUAMFRBDAL            TROS Future Inventories; Percent Reporting No Change for Texas                                                           NSA  29-Nov-2022  Monthly        
-TROSFINVSAMFRBDAL             TROS Future Inventories; Diffusion Index for Texas                                                                       SA   29-Nov-2022  Monthly        
-TROSFINVUAMFRBDAL             TROS Future Inventories; Diffusion Index for Texas                                                                       NSA  29-Nov-2022  Monthly        
-TROSFPEMPDSAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFPEMPDUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFPEMPISAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Increases for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFPEMPIUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Increases for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFPEMPNSAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting No Change for Texas                                                  SA   29-Nov-2022  Monthly        
-TROSFPEMPNUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting No Change for Texas                                                  NSA  29-Nov-2022  Monthly        
-TROSFPEMPSAMFRBDAL            TROS Future Part-Time Employment; Diffusion Index for Texas                                                              SA   29-Nov-2022  Monthly        
-TROSFPEMPUAMFRBDAL            TROS Future Part-Time Employment; Diffusion Index for Texas                                                              NSA  29-Nov-2022  Monthly        
-TROSFREVDSAMFRBDAL            TROS Future Sales; Percent Reporting Decreases for Texas                                                                 SA   29-Nov-2022  Monthly        
-TROSFREVDUAMFRBDAL            TROS Future Sales; Percent Reporting Decreases for Texas                                                                 NSA  29-Nov-2022  Monthly        
-TROSFREVISAMFRBDAL            TROS Future Sales; Percent Reporting Increases for Texas                                                                 SA   29-Nov-2022  Monthly        
-TROSFREVIUAMFRBDAL            TROS Future Sales; Percent Reporting Increases for Texas                                                                 NSA  29-Nov-2022  Monthly        
-TROSFREVNSAMFRBDAL            TROS Future Sales; Percent Reporting No Change for Texas                                                                 SA   29-Nov-2022  Monthly        
-TROSFREVNUAMFRBDAL            TROS Future Sales; Percent Reporting No Change for Texas                                                                 NSA  29-Nov-2022  Monthly        
-TROSFREVSAMFRBDAL             TROS Future Sales; Diffusion Index for Texas                                                                             SA   29-Nov-2022  Monthly        
-TROSFREVUAMFRBDAL             TROS Future Sales; Diffusion Index for Texas                                                                             NSA  29-Nov-2022  Monthly        
-TROSFSELLDSAMFRBDAL           TROS Future Selling Prices; Percent Reporting Decreases for Texas                                                        SA   29-Nov-2022  Monthly        
-TROSFSELLDUAMFRBDAL           TROS Future Selling Prices; Percent Reporting Decreases for Texas                                                        NSA  29-Nov-2022  Monthly        
-TROSFSELLISAMFRBDAL           TROS Future Selling Prices; Percent Reporting Increases for Texas                                                        SA   29-Nov-2022  Monthly        
-TROSFSELLIUAMFRBDAL           TROS Future Selling Prices; Percent Reporting Increases for Texas                                                        NSA  29-Nov-2022  Monthly        
-TROSFSELLNSAMFRBDAL           TROS Future Selling Prices; Percent Reporting No Change for Texas                                                        SA   29-Nov-2022  Monthly        
-TROSFSELLNUAMFRBDAL           TROS Future Selling Prices; Percent Reporting No Change for Texas                                                        NSA  29-Nov-2022  Monthly        
-TROSFSELLSAMFRBDAL            TROS Future Selling Prices; Diffusion Index for Texas                                                                    SA   29-Nov-2022  Monthly        
-TROSFSELLUAMFRBDAL            TROS Future Selling Prices; Diffusion Index for Texas                                                                    NSA  29-Nov-2022  Monthly        
-TROSFTREVDSAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Decreases for Texas                                                     SA   29-Nov-2022  Monthly        
-TROSFTREVDUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Decreases for Texas                                                     NSA  29-Nov-2022  Monthly        
-TROSFTREVISAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Increases for Texas                                                     SA   29-Nov-2022  Monthly        
-TROSFTREVIUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Increases for Texas                                                     NSA  29-Nov-2022  Monthly        
-TROSFTREVNSAMFRBDAL           TROS Future Companywide Sales; Percent Reporting No Change for Texas                                                     SA   29-Nov-2022  Monthly        
-TROSFTREVNUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting No Change for Texas                                                     NSA  29-Nov-2022  Monthly        
-TROSFTREVSAMFRBDAL            TROS Future Companywide Sales; Diffusion Index for Texas                                                                 SA   29-Nov-2022  Monthly        
-TROSFTREVUAMFRBDAL            TROS Future Companywide Sales; Diffusion Index for Texas                                                                 NSA  29-Nov-2022  Monthly        
-TROSFWGSDSAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSFWGSDUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSFWGSISAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Increases for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSFWGSIUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Increases for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSFWGSNSAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting No Change for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSFWGSNUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting No Change for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSFWGSSAMFRBDAL             TROS Future Wages and Benefits; Diffusion Index for Texas                                                                SA   29-Nov-2022  Monthly        
-TROSFWGSUAMFRBDAL             TROS Future Wages and Benefits; Diffusion Index for Texas                                                                NSA  29-Nov-2022  Monthly        
-TROSINPDSAMFRBDAL             TROS Current Input Prices; Percent Reporting Decreases for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSINPDUAMFRBDAL             TROS Current Input Prices; Percent Reporting Decreases for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSINPISAMFRBDAL             TROS Current Input Prices; Percent Reporting Increases for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSINPIUAMFRBDAL             TROS Current Input Prices; Percent Reporting Increases for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSINPNSAMFRBDAL             TROS Current Input Prices; Percent Reporting No Change for Texas                                                         SA   29-Nov-2022  Monthly        
-TROSINPNUAMFRBDAL             TROS Current Input Prices; Percent Reporting No Change for Texas                                                         NSA  29-Nov-2022  Monthly        
-TROSINPSAMFRBDAL              TROS Current Input Prices; Diffusion Index for Texas                                                                     SA   29-Nov-2022  Monthly        
-TROSINPUAMFRBDAL              TROS Current Input Prices; Diffusion Index for Texas                                                                     NSA  29-Nov-2022  Monthly        
-TROSINTREVDSAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Decreases for Texas                                           SA   29-Nov-2022  Monthly        
-TROSINTREVDUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Decreases for Texas                                           NSA  29-Nov-2022  Monthly        
-TROSINTREVISAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Increases for Texas                                           SA   29-Nov-2022  Monthly        
-TROSINTREVIUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Increases for Texas                                           NSA  29-Nov-2022  Monthly        
-TROSINTREVNSAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting No Change for Texas                                           SA   29-Nov-2022  Monthly        
-TROSINTREVNUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting No Change for Texas                                           NSA  29-Nov-2022  Monthly        
-TROSINTREVSAMFRBDAL           TROS Current Companywide Internet Sales; Diffusion Index for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSINTREVUAMFRBDAL           TROS Current Companywide Internet Sales; Diffusion Index for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSINVDSAMFRBDAL             TROS Current Inventories; Percent Reporting Decreases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSINVDUAMFRBDAL             TROS Current Inventories; Percent Reporting Decreases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSINVISAMFRBDAL             TROS Current Inventories; Percent Reporting Increases for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSINVIUAMFRBDAL             TROS Current Inventories; Percent Reporting Increases for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSINVNSAMFRBDAL             TROS Current Inventories; Percent Reporting No Change for Texas                                                          SA   29-Nov-2022  Monthly        
-TROSINVNUAMFRBDAL             TROS Current Inventories; Percent Reporting No Change for Texas                                                          NSA  29-Nov-2022  Monthly        
-TROSINVSAMFRBDAL              TROS Current Inventories; Diffusion Index for Texas                                                                      SA   29-Nov-2022  Monthly        
-TROSINVUAMFRBDAL              TROS Current Inventories; Diffusion Index for Texas                                                                      NSA  29-Nov-2022  Monthly        
-TROSPEMPDSAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSPEMPDUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSPEMPISAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Increases for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSPEMPIUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Increases for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSPEMPNSAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting No Change for Texas                                                 SA   29-Nov-2022  Monthly        
-TROSPEMPNUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting No Change for Texas                                                 NSA  29-Nov-2022  Monthly        
-TROSPEMPSAMFRBDAL             TROS Current Part-Time Employment; Diffusion Index for Texas                                                             SA   29-Nov-2022  Monthly        
-TROSPEMPUAMFRBDAL             TROS Current Part-Time Employment; Diffusion Index for Texas                                                             NSA  29-Nov-2022  Monthly        
-TROSREVDSAMFRBDAL             TROS Current Sales; Percent Reporting Decreases for Texas                                                                SA   29-Nov-2022  Monthly        
-TROSREVDUAMFRBDAL             TROS Current Sales; Percent Reporting Decreases for Texas                                                                NSA  29-Nov-2022  Monthly        
-TROSREVISAMFRBDAL             TROS Current Sales; Percent Reporting Increases for Texas                                                                SA   29-Nov-2022  Monthly        
-TROSREVIUAMFRBDAL             TROS Current Sales; Percent Reporting Increases for Texas                                                                NSA  29-Nov-2022  Monthly        
-TROSREVNSAMFRBDAL             TROS Current Sales; Percent Reporting No Change for Texas                                                                SA   29-Nov-2022  Monthly        
-TROSREVNUAMFRBDAL             TROS Current Sales; Percent Reporting No Change for Texas                                                                NSA  29-Nov-2022  Monthly        
-TROSREVSAMFRBDAL              TROS Current Sales; Diffusion Index for Texas                                                                            SA   29-Nov-2022  Monthly        
-TROSREVUAMFRBDAL              TROS Current Sales; Diffusion Index for Texas                                                                            NSA  29-Nov-2022  Monthly        
-TROSSELLDSAMFRBDAL            TROS Current Selling Prices; Percent Reporting Decreases for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSSELLDUAMFRBDAL            TROS Current Selling Prices; Percent Reporting Decreases for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSSELLISAMFRBDAL            TROS Current Selling Prices; Percent Reporting Increases for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSSELLIUAMFRBDAL            TROS Current Selling Prices; Percent Reporting Increases for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSSELLNSAMFRBDAL            TROS Current Selling Prices; Percent Reporting No Change for Texas                                                       SA   29-Nov-2022  Monthly        
-TROSSELLNUAMFRBDAL            TROS Current Selling Prices; Percent Reporting No Change for Texas                                                       NSA  29-Nov-2022  Monthly        
-TROSSELLSAMFRBDAL             TROS Current Selling Prices; Diffusion Index for Texas                                                                   SA   29-Nov-2022  Monthly        
-TROSSELLUAMFRBDAL             TROS Current Selling Prices; Diffusion Index for Texas                                                                   NSA  29-Nov-2022  Monthly        
-TROSTREVDSAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Decreases for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSTREVDUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Decreases for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSTREVISAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Increases for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSTREVIUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Increases for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSTREVNSAMFRBDAL            TROS Current Companywide Sales; Percent Reporting No Change for Texas                                                    SA   29-Nov-2022  Monthly        
-TROSTREVNUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting No Change for Texas                                                    NSA  29-Nov-2022  Monthly        
-TROSTREVSAMFRBDAL             TROS Current Companywide Sales; Diffusion Index for Texas                                                                SA   29-Nov-2022  Monthly        
-TROSTREVUAMFRBDAL             TROS Current Companywide Sales; Diffusion Index for Texas                                                                NSA  29-Nov-2022  Monthly        
-TROSWGSDSAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                   SA   29-Nov-2022  Monthly        
-TROSWGSDUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                   NSA  29-Nov-2022  Monthly        
-TROSWGSISAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Increases for Texas                                                   SA   29-Nov-2022  Monthly        
-TROSWGSIUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Increases for Texas                                                   NSA  29-Nov-2022  Monthly        
-TROSWGSNSAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting No Change for Texas                                                   SA   29-Nov-2022  Monthly        
-TROSWGSNUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting No Change for Texas                                                   NSA  29-Nov-2022  Monthly        
-TROSWGSSAMFRBDAL              TROS Current Wages and Benefits; Diffusion Index for Texas                                                               SA   29-Nov-2022  Monthly        
-TROSWGSUAMFRBDAL              TROS Current Wages and Benefits; Diffusion Index for Texas                                                               NSA  29-Nov-2022  Monthly        
+Release  Id : 377	Texas Retail Outlook Survey
+TROSAVGWKDSAMFRBDAL           TROS Current Hours Worked; Percent Reporting Decreases for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKDUAMFRBDAL           TROS Current Hours Worked; Percent Reporting Decreases for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKISAMFRBDAL           TROS Current Hours Worked; Percent Reporting Increases for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKIUAMFRBDAL           TROS Current Hours Worked; Percent Reporting Increases for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKNSAMFRBDAL           TROS Current Hours Worked; Percent Reporting No Change for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKNUAMFRBDAL           TROS Current Hours Worked; Percent Reporting No Change for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKSAMFRBDAL            TROS Current Hours Worked; Diffusion Index for Texas                                                                       SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSAVGWKUAMFRBDAL            TROS Current Hours Worked; Diffusion Index for Texas                                                                       NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSBACTDSAMFRBDAL            TROS Current General Business Activity; Percent Reporting Decreases for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTDUAMFRBDAL            TROS Current General Business Activity; Percent Reporting Decreases for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTISAMFRBDAL            TROS Current General Business Activity; Percent Reporting Increases for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTIUAMFRBDAL            TROS Current General Business Activity; Percent Reporting Increases for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTNSAMFRBDAL            TROS Current General Business Activity; Percent Reporting No Change for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTNUAMFRBDAL            TROS Current General Business Activity; Percent Reporting No Change for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTSAMFRBDAL             TROS Current General Business Activity; Diffusion Index for Texas                                                          SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSBACTUAMFRBDAL             TROS Current General Business Activity; Diffusion Index for Texas                                                          NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSCATREVDSAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                             P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVDUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                             P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVISAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                             P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVIUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                             P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVNSAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                             P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVNUAMFRBDAL          TROS Current Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                             P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVSAMFRBDAL           TROS Current Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                           SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSCATREVUAMFRBDAL           TROS Current Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                           NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSCEXPDSAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPDUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Decreases for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPISAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Increases for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPIUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting Increases for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPNSAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting No Change for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPNUAMFRBDAL            TROS Current Capital Expenditures; Percent Reporting No Change for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPSAMFRBDAL             TROS Current Capital Expenditures; Diffusion Index for Texas                                                               SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCEXPUAMFRBDAL             TROS Current Capital Expenditures; Diffusion Index for Texas                                                               NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSCOLKDSAMFRBDAL            TROS Current Company Outlook; Percent Reporting Decreases for Texas                                                      P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKDUAMFRBDAL            TROS Current Company Outlook; Percent Reporting Decreases for Texas                                                      P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKISAMFRBDAL            TROS Current Company Outlook; Percent Reporting Increases for Texas                                                      P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKIUAMFRBDAL            TROS Current Company Outlook; Percent Reporting Increases for Texas                                                      P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKNSAMFRBDAL            TROS Current Company Outlook; Percent Reporting No Change for Texas                                                      P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKNUAMFRBDAL            TROS Current Company Outlook; Percent Reporting No Change for Texas                                                      P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKSAMFRBDAL             TROS Current Company Outlook; Diffusion Index for Texas                                                                    SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSCOLKUAMFRBDAL             TROS Current Company Outlook; Diffusion Index for Texas                                                                    NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSEMPDSAMFRBDAL             TROS Current Employment; Percent Reporting Decreases for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPDUAMFRBDAL             TROS Current Employment; Percent Reporting Decreases for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPISAMFRBDAL             TROS Current Employment; Percent Reporting Increases for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPIUAMFRBDAL             TROS Current Employment; Percent Reporting Increases for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPNSAMFRBDAL             TROS Current Employment; Percent Reporting No Change for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPNUAMFRBDAL             TROS Current Employment; Percent Reporting No Change for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPSAMFRBDAL              TROS Current Employment; Diffusion Index for Texas                                                                         SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSEMPUAMFRBDAL              TROS Current Employment; Diffusion Index for Texas                                                                         NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFAVGWKDSAMFRBDAL          TROS Future Hours Worked; Percent Reporting Decreases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKDUAMFRBDAL          TROS Future Hours Worked; Percent Reporting Decreases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKISAMFRBDAL          TROS Future Hours Worked; Percent Reporting Increases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKIUAMFRBDAL          TROS Future Hours Worked; Percent Reporting Increases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKNSAMFRBDAL          TROS Future Hours Worked; Percent Reporting No Change for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKNUAMFRBDAL          TROS Future Hours Worked; Percent Reporting No Change for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKSAMFRBDAL           TROS Future Hours Worked; Diffusion Index for Texas                                                                        SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFAVGWKUAMFRBDAL           TROS Future Hours Worked; Diffusion Index for Texas                                                                        NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFBACTDSAMFRBDAL           TROS Future General Business Activity; Percent Reporting Decreases for Texas                                             P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTDUAMFRBDAL           TROS Future General Business Activity; Percent Reporting Decreases for Texas                                             P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTISAMFRBDAL           TROS Future General Business Activity; Percent Reporting Increases for Texas                                             P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTIUAMFRBDAL           TROS Future General Business Activity; Percent Reporting Increases for Texas                                             P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTNSAMFRBDAL           TROS Future General Business Activity; Percent Reporting No Change for Texas                                             P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTNUAMFRBDAL           TROS Future General Business Activity; Percent Reporting No Change for Texas                                             P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTSAMFRBDAL            TROS Future General Business Activity; Diffusion Index for Texas                                                           SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFBACTUAMFRBDAL            TROS Future General Business Activity; Diffusion Index for Texas                                                           NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFCATREVDSAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                              P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVDUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Decreases for Texas (DISCONTINUED)                              P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVISAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                              P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVIUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting Increases for Texas (DISCONTINUED)                              P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVNSAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                              P SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVNUAMFRBDAL         TROS Future Companywide Catalog Sales; Percent Reporting No Change for Texas (DISCONTINUED)                              P NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVSAMFRBDAL          TROS Future Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                            SA   26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCATREVUAMFRBDAL          TROS Future Companywide Catalog Sales; Diffusion Index for Texas (DISCONTINUED)                                            NSA  26-Jul-2016 01-Jul-2016             Monthly            
+TROSFCEXPDSAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPDUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Decreases for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPISAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Increases for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPIUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting Increases for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPNSAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting No Change for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPNUAMFRBDAL           TROS Future Capital Expenditures; Percent Reporting No Change for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPSAMFRBDAL            TROS Future Capital Expenditures; Diffusion Index for Texas                                                                SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCEXPUAMFRBDAL            TROS Future Capital Expenditures; Diffusion Index for Texas                                                                NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFCOLKDSAMFRBDAL           TROS Future Company Outlook; Percent Reporting Decreases for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKDUAMFRBDAL           TROS Future Company Outlook; Percent Reporting Decreases for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKISAMFRBDAL           TROS Future Company Outlook; Percent Reporting Increases for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKIUAMFRBDAL           TROS Future Company Outlook; Percent Reporting Increases for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKNSAMFRBDAL           TROS Future Company Outlook; Percent Reporting No Change for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKNUAMFRBDAL           TROS Future Company Outlook; Percent Reporting No Change for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKSAMFRBDAL            TROS Future Company Outlook; Diffusion Index for Texas                                                                     SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFCOLKUAMFRBDAL            TROS Future Company Outlook; Diffusion Index for Texas                                                                     NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFEMPDSAMFRBDAL            TROS Future Employment; Percent Reporting Decreases for Texas                                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPDUAMFRBDAL            TROS Future Employment; Percent Reporting Decreases for Texas                                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPISAMFRBDAL            TROS Future Employment; Percent Reporting Increases for Texas                                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPIUAMFRBDAL            TROS Future Employment; Percent Reporting Increases for Texas                                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPNSAMFRBDAL            TROS Future Employment; Percent Reporting No Change for Texas                                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPNUAMFRBDAL            TROS Future Employment; Percent Reporting No Change for Texas                                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPSAMFRBDAL             TROS Future Employment; Diffusion Index for Texas                                                                          SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFEMPUAMFRBDAL             TROS Future Employment; Diffusion Index for Texas                                                                          NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFINPDSAMFRBDAL            TROS Future Input Prices; Percent Reporting Decreases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPDUAMFRBDAL            TROS Future Input Prices; Percent Reporting Decreases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPISAMFRBDAL            TROS Future Input Prices; Percent Reporting Increases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPIUAMFRBDAL            TROS Future Input Prices; Percent Reporting Increases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPNSAMFRBDAL            TROS Future Input Prices; Percent Reporting No Change for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPNUAMFRBDAL            TROS Future Input Prices; Percent Reporting No Change for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPSAMFRBDAL             TROS Future Input Prices; Diffusion Index for Texas                                                                        SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINPUAMFRBDAL             TROS Future Input Prices; Diffusion Index for Texas                                                                        NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFINTREVDSAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Decreases for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVDUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Decreases for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVISAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Increases for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVIUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting Increases for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVNSAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting No Change for Texas                                            P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVNUAMFRBDAL         TROS Future Companywide Internet Sales; Percent Reporting No Change for Texas                                            P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVSAMFRBDAL          TROS Future Companywide Internet Sales; Diffusion Index for Texas                                                          SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINTREVUAMFRBDAL          TROS Future Companywide Internet Sales; Diffusion Index for Texas                                                          NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFINVDSAMFRBDAL            TROS Future Inventories; Percent Reporting Decreases for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVDUAMFRBDAL            TROS Future Inventories; Percent Reporting Decreases for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVISAMFRBDAL            TROS Future Inventories; Percent Reporting Increases for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVIUAMFRBDAL            TROS Future Inventories; Percent Reporting Increases for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVNSAMFRBDAL            TROS Future Inventories; Percent Reporting No Change for Texas                                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVNUAMFRBDAL            TROS Future Inventories; Percent Reporting No Change for Texas                                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVSAMFRBDAL             TROS Future Inventories; Diffusion Index for Texas                                                                         SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFINVUAMFRBDAL             TROS Future Inventories; Diffusion Index for Texas                                                                         NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFPEMPDSAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPDUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Decreases for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPISAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Increases for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPIUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting Increases for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPNSAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting No Change for Texas                                                  P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPNUAMFRBDAL           TROS Future Part-Time Employment; Percent Reporting No Change for Texas                                                  P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPSAMFRBDAL            TROS Future Part-Time Employment; Diffusion Index for Texas                                                                SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFPEMPUAMFRBDAL            TROS Future Part-Time Employment; Diffusion Index for Texas                                                                NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFREVDSAMFRBDAL            TROS Future Sales; Percent Reporting Decreases for Texas                                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVDUAMFRBDAL            TROS Future Sales; Percent Reporting Decreases for Texas                                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVISAMFRBDAL            TROS Future Sales; Percent Reporting Increases for Texas                                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVIUAMFRBDAL            TROS Future Sales; Percent Reporting Increases for Texas                                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVNSAMFRBDAL            TROS Future Sales; Percent Reporting No Change for Texas                                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVNUAMFRBDAL            TROS Future Sales; Percent Reporting No Change for Texas                                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVSAMFRBDAL             TROS Future Sales; Diffusion Index for Texas                                                                               SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFREVUAMFRBDAL             TROS Future Sales; Diffusion Index for Texas                                                                               NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFSELLDSAMFRBDAL           TROS Future Selling Prices; Percent Reporting Decreases for Texas                                                        P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLDUAMFRBDAL           TROS Future Selling Prices; Percent Reporting Decreases for Texas                                                        P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLISAMFRBDAL           TROS Future Selling Prices; Percent Reporting Increases for Texas                                                        P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLIUAMFRBDAL           TROS Future Selling Prices; Percent Reporting Increases for Texas                                                        P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLNSAMFRBDAL           TROS Future Selling Prices; Percent Reporting No Change for Texas                                                        P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLNUAMFRBDAL           TROS Future Selling Prices; Percent Reporting No Change for Texas                                                        P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLSAMFRBDAL            TROS Future Selling Prices; Diffusion Index for Texas                                                                      SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFSELLUAMFRBDAL            TROS Future Selling Prices; Diffusion Index for Texas                                                                      NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFTREVDSAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Decreases for Texas                                                     P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVDUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Decreases for Texas                                                     P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVISAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Increases for Texas                                                     P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVIUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting Increases for Texas                                                     P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVNSAMFRBDAL           TROS Future Companywide Sales; Percent Reporting No Change for Texas                                                     P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVNUAMFRBDAL           TROS Future Companywide Sales; Percent Reporting No Change for Texas                                                     P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVSAMFRBDAL            TROS Future Companywide Sales; Diffusion Index for Texas                                                                   SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFTREVUAMFRBDAL            TROS Future Companywide Sales; Diffusion Index for Texas                                                                   NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSFWGSDSAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSDUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Decreases for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSISAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Increases for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSIUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting Increases for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSNSAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting No Change for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSNUAMFRBDAL            TROS Future Wages and Benefits; Percent Reporting No Change for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSSAMFRBDAL             TROS Future Wages and Benefits; Diffusion Index for Texas                                                                  SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSFWGSUAMFRBDAL             TROS Future Wages and Benefits; Diffusion Index for Texas                                                                  NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSINPDSAMFRBDAL             TROS Current Input Prices; Percent Reporting Decreases for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPDUAMFRBDAL             TROS Current Input Prices; Percent Reporting Decreases for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPISAMFRBDAL             TROS Current Input Prices; Percent Reporting Increases for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPIUAMFRBDAL             TROS Current Input Prices; Percent Reporting Increases for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPNSAMFRBDAL             TROS Current Input Prices; Percent Reporting No Change for Texas                                                         P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPNUAMFRBDAL             TROS Current Input Prices; Percent Reporting No Change for Texas                                                         P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPSAMFRBDAL              TROS Current Input Prices; Diffusion Index for Texas                                                                       SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINPUAMFRBDAL              TROS Current Input Prices; Diffusion Index for Texas                                                                       NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSINTREVDSAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Decreases for Texas                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVDUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Decreases for Texas                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVISAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Increases for Texas                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVIUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting Increases for Texas                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVNSAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting No Change for Texas                                           P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVNUAMFRBDAL          TROS Current Companywide Internet Sales; Percent Reporting No Change for Texas                                           P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVSAMFRBDAL           TROS Current Companywide Internet Sales; Diffusion Index for Texas                                                         SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINTREVUAMFRBDAL           TROS Current Companywide Internet Sales; Diffusion Index for Texas                                                         NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSINVDSAMFRBDAL             TROS Current Inventories; Percent Reporting Decreases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVDUAMFRBDAL             TROS Current Inventories; Percent Reporting Decreases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVISAMFRBDAL             TROS Current Inventories; Percent Reporting Increases for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVIUAMFRBDAL             TROS Current Inventories; Percent Reporting Increases for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVNSAMFRBDAL             TROS Current Inventories; Percent Reporting No Change for Texas                                                          P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVNUAMFRBDAL             TROS Current Inventories; Percent Reporting No Change for Texas                                                          P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVSAMFRBDAL              TROS Current Inventories; Diffusion Index for Texas                                                                        SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSINVUAMFRBDAL              TROS Current Inventories; Diffusion Index for Texas                                                                        NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSPEMPDSAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPDUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Decreases for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPISAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Increases for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPIUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting Increases for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPNSAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting No Change for Texas                                                 P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPNUAMFRBDAL            TROS Current Part-Time Employment; Percent Reporting No Change for Texas                                                 P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPSAMFRBDAL             TROS Current Part-Time Employment; Diffusion Index for Texas                                                               SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSPEMPUAMFRBDAL             TROS Current Part-Time Employment; Diffusion Index for Texas                                                               NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSREVDSAMFRBDAL             TROS Current Sales; Percent Reporting Decreases for Texas                                                                P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVDUAMFRBDAL             TROS Current Sales; Percent Reporting Decreases for Texas                                                                P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVISAMFRBDAL             TROS Current Sales; Percent Reporting Increases for Texas                                                                P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVIUAMFRBDAL             TROS Current Sales; Percent Reporting Increases for Texas                                                                P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVNSAMFRBDAL             TROS Current Sales; Percent Reporting No Change for Texas                                                                P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVNUAMFRBDAL             TROS Current Sales; Percent Reporting No Change for Texas                                                                P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVSAMFRBDAL              TROS Current Sales; Diffusion Index for Texas                                                                              SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSREVUAMFRBDAL              TROS Current Sales; Diffusion Index for Texas                                                                              NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSSELLDSAMFRBDAL            TROS Current Selling Prices; Percent Reporting Decreases for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLDUAMFRBDAL            TROS Current Selling Prices; Percent Reporting Decreases for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLISAMFRBDAL            TROS Current Selling Prices; Percent Reporting Increases for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLIUAMFRBDAL            TROS Current Selling Prices; Percent Reporting Increases for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLNSAMFRBDAL            TROS Current Selling Prices; Percent Reporting No Change for Texas                                                       P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLNUAMFRBDAL            TROS Current Selling Prices; Percent Reporting No Change for Texas                                                       P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLSAMFRBDAL             TROS Current Selling Prices; Diffusion Index for Texas                                                                     SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSSELLUAMFRBDAL             TROS Current Selling Prices; Diffusion Index for Texas                                                                     NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSTREVDSAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Decreases for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVDUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Decreases for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVISAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Increases for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVIUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting Increases for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVNSAMFRBDAL            TROS Current Companywide Sales; Percent Reporting No Change for Texas                                                    P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVNUAMFRBDAL            TROS Current Companywide Sales; Percent Reporting No Change for Texas                                                    P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVSAMFRBDAL             TROS Current Companywide Sales; Diffusion Index for Texas                                                                  SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSTREVUAMFRBDAL             TROS Current Companywide Sales; Diffusion Index for Texas                                                                  NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+TROSWGSDSAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                   P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSDUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Decreases for Texas                                                   P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSISAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Increases for Texas                                                   P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSIUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting Increases for Texas                                                   P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSNSAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting No Change for Texas                                                   P SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSNUAMFRBDAL             TROS Current Wages and Benefits; Percent Reporting No Change for Texas                                                   P NSA  29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSSAMFRBDAL              TROS Current Wages and Benefits; Diffusion Index for Texas                                                                 SA   29-Nov-2022 01-Nov-2022             Monthly            
+TROSWGSUAMFRBDAL              TROS Current Wages and Benefits; Diffusion Index for Texas                                                                 NSA  29-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            

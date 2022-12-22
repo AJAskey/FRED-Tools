@@ -1,145 +1,145 @@
-Id : 229  Construction Spending
-MPCP00XXS                     Total Public Construction Spending: Residential in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCP02XXS                     Total Public Construction Spending: Office in the United States                                                          SA   01-Dec-2022  Monthly        
-MPCP03XXS                     Total Public Construction Spending: Commercial in the United States                                                      SA   01-Dec-2022  Monthly        
-MPCP04XXS                     Total Public Construction Spending: Health Care in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCP05XXS                     Total Public Construction Spending: Educational in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCP07XXS                     Total Public Construction Spending: Public Safety in the United States                                                   SA   01-Dec-2022  Monthly        
-MPCP08XXS                     Total Public Construction Spending: Amusement and Recreation in the United States                                        SA   01-Dec-2022  Monthly        
-MPCP09XXS                     Total Public Construction Spending: Transportation in the United States                                                  SA   01-Dec-2022  Monthly        
-MPCP11XXS                     Total Public Construction Spending: Power in the United States                                                           SA   01-Dec-2022  Monthly        
-MPCP12XXS                     Total Public Construction Spending: Highway and Street in the United States                                              SA   01-Dec-2022  Monthly        
-MPCP13XXS                     Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       SA   01-Dec-2022  Monthly        
-MPCP14XXS                     Total Public Construction Spending: Water Supply in the United States                                                    SA   01-Dec-2022  Monthly        
-MPCP15XXS                     Total Public Construction Spending: Conservation and Development in the United States                                    SA   01-Dec-2022  Monthly        
-MPCPNRXXS                     Total Public Construction Spending: Nonresidential in the United States                                                  SA   01-Dec-2022  Monthly        
-MPCPXXXXS                     Total Public Construction Spending: Total Construction in the United States                                              SA   01-Dec-2022  Monthly        
-MPCT00XXS                     Total Construction Spending: Residential in the United States                                                            SA   01-Dec-2022  Monthly        
-MPCT01XXS                     Total Construction Spending: Lodging in the United States                                                                SA   01-Dec-2022  Monthly        
-MPCT02XXS                     Total Construction Spending: Office in the United States                                                                 SA   01-Dec-2022  Monthly        
-MPCT03XXS                     Total Construction Spending: Commercial in the United States                                                             SA   01-Dec-2022  Monthly        
-MPCT04XXS                     Total Construction Spending: Health Care in the United States                                                            SA   01-Dec-2022  Monthly        
-MPCT05XXS                     Total Construction Spending: Educational in the United States                                                            SA   01-Dec-2022  Monthly        
-MPCT06XXS                     Total Construction Spending: Religious in the United States                                                              SA   01-Dec-2022  Monthly        
-MPCT07XXS                     Total Construction Spending: Public Safety in the United States                                                          SA   01-Dec-2022  Monthly        
-MPCT08XXS                     Total Construction Spending: Amusement and Recreation in the United States                                               SA   01-Dec-2022  Monthly        
-MPCT09XXS                     Total Construction Spending: Transportation in the United States                                                         SA   01-Dec-2022  Monthly        
-MPCT10XXS                     Total Construction Spending: Communication in the United States                                                          SA   01-Dec-2022  Monthly        
-MPCT11XXS                     Total Construction Spending: Power in the United States                                                                  SA   01-Dec-2022  Monthly        
-MPCT12XXS                     Total Construction Spending: Highway and Street in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCT13XXS                     Total Construction Spending: Sewage and Waste Disposal in the United States                                              SA   01-Dec-2022  Monthly        
-MPCT14XXS                     Total Construction Spending: Water Supply in the United States                                                           SA   01-Dec-2022  Monthly        
-MPCT15XXS                     Total Construction Spending: Conservation and Development in the United States                                           SA   01-Dec-2022  Monthly        
-MPCT20IXS                     Total Construction Spending: Manufacturing in the United States                                                          SA   01-Dec-2022  Monthly        
-MPCTNRXXS                     Total Construction Spending: Nonresidential in the United States                                                         SA   01-Dec-2022  Monthly        
-MPCTXXXXS                     Total Construction Spending: Total Construction in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCV00XXS                     Total Private Construction Spending: Residential in the United States                                                    SA   01-Dec-2022  Monthly        
-MPCV01XXS                     Total Private Construction Spending: Lodging in the United States                                                        SA   01-Dec-2022  Monthly        
-MPCV02XXS                     Total Private Construction Spending: Office in the United States                                                         SA   01-Dec-2022  Monthly        
-MPCV03XXS                     Total Private Construction Spending: Commercial in the United States                                                     SA   01-Dec-2022  Monthly        
-MPCV04XXS                     Total Private Construction Spending: Health Care in the United States                                                    SA   01-Dec-2022  Monthly        
-MPCV05XXS                     Total Private Construction Spending: Educational in the United States                                                    SA   01-Dec-2022  Monthly        
-MPCV06XXS                     Total Private Construction Spending: Religious in the United States                                                      SA   01-Dec-2022  Monthly        
-MPCV08XXS                     Total Private Construction Spending: Amusement and Recreation in the United States                                       SA   01-Dec-2022  Monthly        
-MPCV09XXS                     Total Private Construction Spending: Transportation in the United States                                                 SA   01-Dec-2022  Monthly        
-MPCV10XXS                     Total Private Construction Spending: Communication in the United States                                                  SA   01-Dec-2022  Monthly        
-MPCV11XXS                     Total Private Construction Spending: Power in the United States                                                          SA   01-Dec-2022  Monthly        
-MPCV20IXS                     Total Private Construction Spending: Manufacturing in the United States                                                  SA   01-Dec-2022  Monthly        
-MPCVNRXXS                     Total Private Construction Spending: Nonresidential in the United States                                                 SA   01-Dec-2022  Monthly        
-MPCVXXXXS                     Total Private Construction Spending: Total Construction in the United States                                             SA   01-Dec-2022  Monthly        
-PBAMUSCON                     Total Public Construction Spending: Amusement and Recreation in the United States                                        NSA  01-Dec-2022  Monthly        
-PBAMUSCONS                    Total Public Construction Spending: Amusement and Recreation in the United States                                        SAAR 01-Dec-2022  Monthly        
-PBCADCON                      Total Public Construction Spending: Conservation and Development in the United States                                    NSA  01-Dec-2022  Monthly        
-PBCADCONS                     Total Public Construction Spending: Conservation and Development in the United States                                    SAAR 01-Dec-2022  Monthly        
-PBCOMCON                      Total Public Construction Spending: Commercial in the United States                                                      NSA  01-Dec-2022  Monthly        
-PBCOMCONS                     Total Public Construction Spending: Commercial in the United States                                                      SAAR 01-Dec-2022  Monthly        
-PBEDUCON                      Total Public Construction Spending: Educational in the United States                                                     NSA  01-Dec-2022  Monthly        
-PBEDUCONS                     Total Public Construction Spending: Educational in the United States                                                     SAAR 01-Dec-2022  Monthly        
-PBHLTHCON                     Total Public Construction Spending: Health Care in the United States                                                     NSA  01-Dec-2022  Monthly        
-PBHLTHCONS                    Total Public Construction Spending: Health Care in the United States                                                     SAAR 01-Dec-2022  Monthly        
-PBHWYCON                      Total Public Construction Spending: Highway and Street in the United States                                              NSA  01-Dec-2022  Monthly        
-PBHWYCONS                     Total Public Construction Spending: Highway and Street in the United States                                              SAAR 01-Dec-2022  Monthly        
-PBNRESCON                     Total Public Construction Spending: Nonresidential in the United States                                                  NSA  01-Dec-2022  Monthly        
-PBNRESCONS                    Total Public Construction Spending: Nonresidential in the United States                                                  SAAR 01-Dec-2022  Monthly        
-PBOFCON                       Total Public Construction Spending: Office in the United States                                                          NSA  01-Dec-2022  Monthly        
-PBOFCONS                      Total Public Construction Spending: Office in the United States                                                          SAAR 01-Dec-2022  Monthly        
-PBPSCON                       Total Public Construction Spending: Public Safety in the United States                                                   NSA  01-Dec-2022  Monthly        
-PBPSCONS                      Total Public Construction Spending: Public Safety in the United States                                                   SAAR 01-Dec-2022  Monthly        
-PBPWRCON                      Total Public Construction Spending: Power in the United States                                                           NSA  01-Dec-2022  Monthly        
-PBPWRCONS                     Total Public Construction Spending: Power in the United States                                                           SAAR 01-Dec-2022  Monthly        
-PBRESCON                      Total Public Construction Spending: Residential in the United States                                                     NSA  01-Dec-2022  Monthly        
-PBRESCONS                     Total Public Construction Spending: Residential in the United States                                                     SAAR 01-Dec-2022  Monthly        
-PBSWGCON                      Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       NSA  01-Dec-2022  Monthly        
-PBSWGCONS                     Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       SAAR 01-Dec-2022  Monthly        
-PBTRANSCON                    Total Public Construction Spending: Transportation in the United States                                                  NSA  01-Dec-2022  Monthly        
-PBTRANSCONS                   Total Public Construction Spending: Transportation in the United States                                                  SAAR 01-Dec-2022  Monthly        
-PBWSCON                       Total Public Construction Spending: Water Supply in the United States                                                    NSA  01-Dec-2022  Monthly        
-PBWSCONS                      Total Public Construction Spending: Water Supply in the United States                                                    SAAR 01-Dec-2022  Monthly        
-PLODGCON                      Total Private Construction Spending: Lodging in the United States                                                        NSA  01-Dec-2022  Monthly        
-PLODGCONS                     Total Private Construction Spending: Lodging in the United States                                                        SAAR 01-Dec-2022  Monthly        
-PNRESCON                      Total Private Construction Spending: Nonresidential in the United States                                                 NSA  01-Dec-2022  Monthly        
-PNRESCONS                     Total Private Construction Spending: Nonresidential in the United States                                                 SAAR 01-Dec-2022  Monthly        
-PRAMUSCON                     Total Private Construction Spending: Amusement and Recreation in the United States                                       NSA  01-Dec-2022  Monthly        
-PRAMUSCONS                    Total Private Construction Spending: Amusement and Recreation in the United States                                       SAAR 01-Dec-2022  Monthly        
-PRCMUCON                      Total Private Construction Spending: Communication in the United States                                                  NSA  01-Dec-2022  Monthly        
-PRCMUCONS                     Total Private Construction Spending: Communication in the United States                                                  SAAR 01-Dec-2022  Monthly        
-PRCOMCON                      Total Private Construction Spending: Commercial in the United States                                                     NSA  01-Dec-2022  Monthly        
-PRCOMCONS                     Total Private Construction Spending: Commercial in the United States                                                     SAAR 01-Dec-2022  Monthly        
-PREDUCON                      Total Private Construction Spending: Educational in the United States                                                    NSA  01-Dec-2022  Monthly        
-PREDUCONS                     Total Private Construction Spending: Educational in the United States                                                    SAAR 01-Dec-2022  Monthly        
-PRHLTHCON                     Total Private Construction Spending: Health Care in the United States                                                    NSA  01-Dec-2022  Monthly        
-PRHLTHCONS                    Total Private Construction Spending: Health Care in the United States                                                    SAAR 01-Dec-2022  Monthly        
-PRMFGCON                      Total Private Construction Spending: Manufacturing in the United States                                                  NSA  01-Dec-2022  Monthly        
-PRMFGCONS                     Total Private Construction Spending: Manufacturing in the United States                                                  SAAR 01-Dec-2022  Monthly        
-PROFCON                       Total Private Construction Spending: Office in the United States                                                         NSA  01-Dec-2022  Monthly        
-PROFCONS                      Total Private Construction Spending: Office in the United States                                                         SAAR 01-Dec-2022  Monthly        
-PRPWRCON                      Total Private Construction Spending: Power in the United States                                                          NSA  01-Dec-2022  Monthly        
-PRPWRCONS                     Total Private Construction Spending: Power in the United States                                                          SAAR 01-Dec-2022  Monthly        
-PRRELCON                      Total Private Construction Spending: Religious in the United States                                                      NSA  01-Dec-2022  Monthly        
-PRRELCONS                     Total Private Construction Spending: Religious in the United States                                                      SAAR 01-Dec-2022  Monthly        
-PRRESCON                      Total Private Construction Spending: Residential in the United States                                                    NSA  01-Dec-2022  Monthly        
-PRRESCONS                     Total Private Construction Spending: Residential in the United States                                                    SAAR 01-Dec-2022  Monthly        
-PRTRANSCON                    Total Private Construction Spending: Transportation in the United States                                                 NSA  01-Dec-2022  Monthly        
-PRTRANSCONS                   Total Private Construction Spending: Transportation in the United States                                                 SAAR 01-Dec-2022  Monthly        
-TLAMUSCON                     Total Construction Spending: Amusement and Recreation in the United States                                               NSA  01-Dec-2022  Monthly        
-TLAMUSCONS                    Total Construction Spending: Amusement and Recreation in the United States                                               SAAR 01-Dec-2022  Monthly        
-TLCADCON                      Total Construction Spending: Conservation and Development in the United States                                           NSA  01-Dec-2022  Monthly        
-TLCADCONS                     Total Construction Spending: Conservation and Development in the United States                                           SAAR 01-Dec-2022  Monthly        
-TLCMUCON                      Total Construction Spending: Communication in the United States                                                          NSA  01-Dec-2022  Monthly        
-TLCMUCONS                     Total Construction Spending: Communication in the United States                                                          SAAR 01-Dec-2022  Monthly        
-TLCOMCON                      Total Construction Spending: Commercial in the United States                                                             NSA  01-Dec-2022  Monthly        
-TLCOMCONS                     Total Construction Spending: Commercial in the United States                                                             SAAR 01-Dec-2022  Monthly        
-TLEDUCON                      Total Construction Spending: Educational in the United States                                                            NSA  01-Dec-2022  Monthly        
-TLEDUCONS                     Total Construction Spending: Educational in the United States                                                            SAAR 01-Dec-2022  Monthly        
-TLHLTHCON                     Total Construction Spending: Health Care in the United States                                                            NSA  01-Dec-2022  Monthly        
-TLHLTHCONS                    Total Construction Spending: Health Care in the United States                                                            SAAR 01-Dec-2022  Monthly        
-TLHWYCON                      Total Construction Spending: Highway and Street in the United States                                                     NSA  01-Dec-2022  Monthly        
-TLHWYCONS                     Total Construction Spending: Highway and Street in the United States                                                     SAAR 01-Dec-2022  Monthly        
-TLLODGCON                     Total Construction Spending: Lodging in the United States                                                                NSA  01-Dec-2022  Monthly        
-TLLODGCONS                    Total Construction Spending: Lodging in the United States                                                                SAAR 01-Dec-2022  Monthly        
-TLMFGCON                      Total Construction Spending: Manufacturing in the United States                                                          NSA  01-Dec-2022  Monthly        
-TLMFGCONS                     Total Construction Spending: Manufacturing in the United States                                                          SAAR 01-Dec-2022  Monthly        
-TLNRESCON                     Total Construction Spending: Nonresidential in the United States                                                         NSA  01-Dec-2022  Monthly        
-TLNRESCONS                    Total Construction Spending: Nonresidential in the United States                                                         SAAR 01-Dec-2022  Monthly        
-TLOFCON                       Total Construction Spending: Office in the United States                                                                 NSA  01-Dec-2022  Monthly        
-TLOFCONS                      Total Construction Spending: Office in the United States                                                                 SAAR 01-Dec-2022  Monthly        
-TLPBLCON                      Total Public Construction Spending: Total Construction in the United States                                              NSA  01-Dec-2022  Monthly        
-TLPBLCONS                     Total Public Construction Spending: Total Construction in the United States                                              SAAR 01-Dec-2022  Monthly        
-TLPRVCON                      Total Private Construction Spending: Total Construction in the United States                                             NSA  01-Dec-2022  Monthly        
-TLPRVCONS                     Total Private Construction Spending: Total Construction in the United States                                             SAAR 01-Dec-2022  Monthly        
-TLPSCON                       Total Construction Spending: Public Safety in the United States                                                          NSA  01-Dec-2022  Monthly        
-TLPSCONS                      Total Construction Spending: Public Safety in the United States                                                          SAAR 01-Dec-2022  Monthly        
-TLPWRCON                      Total Construction Spending: Power in the United States                                                                  NSA  01-Dec-2022  Monthly        
-TLPWRCONS                     Total Construction Spending: Power in the United States                                                                  SAAR 01-Dec-2022  Monthly        
-TLRELCON                      Total Construction Spending: Religious in the United States                                                              NSA  01-Dec-2022  Monthly        
-TLRELCONS                     Total Construction Spending: Religious in the United States                                                              SAAR 01-Dec-2022  Monthly        
-TLRESCON                      Total Construction Spending: Residential in the United States                                                            NSA  01-Dec-2022  Monthly        
-TLRESCONS                     Total Construction Spending: Residential in the United States                                                            SAAR 01-Dec-2022  Monthly        
-TLSWDCON                      Total Construction Spending: Sewage and Waste Disposal in the United States                                              NSA  01-Dec-2022  Monthly        
-TLSWDCONS                     Total Construction Spending: Sewage and Waste Disposal in the United States                                              SAAR 01-Dec-2022  Monthly        
-TLTRANSCON                    Total Construction Spending: Transportation in the United States                                                         NSA  01-Dec-2022  Monthly        
-TLTRANSCONS                   Total Construction Spending: Transportation in the United States                                                         SAAR 01-Dec-2022  Monthly        
-TLWSCON                       Total Construction Spending: Water Supply in the United States                                                           NSA  01-Dec-2022  Monthly        
-TLWSCONS                      Total Construction Spending: Water Supply in the United States                                                           SAAR 01-Dec-2022  Monthly        
-TTLCON                        Total Construction Spending: Total Construction in the United States                                                     NSA  01-Dec-2022  Monthly        
-TTLCONS                       Total Construction Spending: Total Construction in the United States                                                     SAAR 01-Dec-2022  Monthly        
+Release  Id : 229	Construction Spending
+MPCP00XXS                     Total Public Construction Spending: Residential in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP02XXS                     Total Public Construction Spending: Office in the United States                                                          P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP03XXS                     Total Public Construction Spending: Commercial in the United States                                                      P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP04XXS                     Total Public Construction Spending: Health Care in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP05XXS                     Total Public Construction Spending: Educational in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP07XXS                     Total Public Construction Spending: Public Safety in the United States                                                   P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP08XXS                     Total Public Construction Spending: Amusement and Recreation in the United States                                        P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP09XXS                     Total Public Construction Spending: Transportation in the United States                                                  P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP11XXS                     Total Public Construction Spending: Power in the United States                                                           P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP12XXS                     Total Public Construction Spending: Highway and Street in the United States                                              P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP13XXS                     Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP14XXS                     Total Public Construction Spending: Water Supply in the United States                                                    P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCP15XXS                     Total Public Construction Spending: Conservation and Development in the United States                                    P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCPNRXXS                     Total Public Construction Spending: Nonresidential in the United States                                                  P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCPXXXXS                     Total Public Construction Spending: Total Construction in the United States                                              P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT00XXS                     Total Construction Spending: Residential in the United States                                                            P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT01XXS                     Total Construction Spending: Lodging in the United States                                                                P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT02XXS                     Total Construction Spending: Office in the United States                                                                 P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT03XXS                     Total Construction Spending: Commercial in the United States                                                             P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT04XXS                     Total Construction Spending: Health Care in the United States                                                            P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT05XXS                     Total Construction Spending: Educational in the United States                                                            P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT06XXS                     Total Construction Spending: Religious in the United States                                                              P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT07XXS                     Total Construction Spending: Public Safety in the United States                                                          P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT08XXS                     Total Construction Spending: Amusement and Recreation in the United States                                               P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT09XXS                     Total Construction Spending: Transportation in the United States                                                         P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT10XXS                     Total Construction Spending: Communication in the United States                                                          P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT11XXS                     Total Construction Spending: Power in the United States                                                                  P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT12XXS                     Total Construction Spending: Highway and Street in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT13XXS                     Total Construction Spending: Sewage and Waste Disposal in the United States                                              P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT14XXS                     Total Construction Spending: Water Supply in the United States                                                           P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT15XXS                     Total Construction Spending: Conservation and Development in the United States                                           P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCT20IXS                     Total Construction Spending: Manufacturing in the United States                                                          P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCTNRXXS                     Total Construction Spending: Nonresidential in the United States                                                         P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCTXXXXS                     Total Construction Spending: Total Construction in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV00XXS                     Total Private Construction Spending: Residential in the United States                                                    P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV01XXS                     Total Private Construction Spending: Lodging in the United States                                                        P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV02XXS                     Total Private Construction Spending: Office in the United States                                                         P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV03XXS                     Total Private Construction Spending: Commercial in the United States                                                     P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV04XXS                     Total Private Construction Spending: Health Care in the United States                                                    P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV05XXS                     Total Private Construction Spending: Educational in the United States                                                    P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV06XXS                     Total Private Construction Spending: Religious in the United States                                                      P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV08XXS                     Total Private Construction Spending: Amusement and Recreation in the United States                                       P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV09XXS                     Total Private Construction Spending: Transportation in the United States                                                 P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV10XXS                     Total Private Construction Spending: Communication in the United States                                                  P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV11XXS                     Total Private Construction Spending: Power in the United States                                                          P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCV20IXS                     Total Private Construction Spending: Manufacturing in the United States                                                  P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCVNRXXS                     Total Private Construction Spending: Nonresidential in the United States                                                 P SA   01-Dec-2022 01-Oct-2022             Monthly            
+MPCVXXXXS                     Total Private Construction Spending: Total Construction in the United States                                             P SA   01-Dec-2022 01-Oct-2022             Monthly            
+PBAMUSCON                     Total Public Construction Spending: Amusement and Recreation in the United States                                        M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBAMUSCONS                    Total Public Construction Spending: Amusement and Recreation in the United States                                        M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBCADCON                      Total Public Construction Spending: Conservation and Development in the United States                                    M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBCADCONS                     Total Public Construction Spending: Conservation and Development in the United States                                    M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBCOMCON                      Total Public Construction Spending: Commercial in the United States                                                      M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBCOMCONS                     Total Public Construction Spending: Commercial in the United States                                                      M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBEDUCON                      Total Public Construction Spending: Educational in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBEDUCONS                     Total Public Construction Spending: Educational in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBHLTHCON                     Total Public Construction Spending: Health Care in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBHLTHCONS                    Total Public Construction Spending: Health Care in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBHWYCON                      Total Public Construction Spending: Highway and Street in the United States                                              M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBHWYCONS                     Total Public Construction Spending: Highway and Street in the United States                                              M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBNRESCON                     Total Public Construction Spending: Nonresidential in the United States                                                  M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBNRESCONS                    Total Public Construction Spending: Nonresidential in the United States                                                  M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBOFCON                       Total Public Construction Spending: Office in the United States                                                          M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBOFCONS                      Total Public Construction Spending: Office in the United States                                                          M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBPSCON                       Total Public Construction Spending: Public Safety in the United States                                                   M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBPSCONS                      Total Public Construction Spending: Public Safety in the United States                                                   M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBPWRCON                      Total Public Construction Spending: Power in the United States                                                           M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBPWRCONS                     Total Public Construction Spending: Power in the United States                                                           M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBRESCON                      Total Public Construction Spending: Residential in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBRESCONS                     Total Public Construction Spending: Residential in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBSWGCON                      Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBSWGCONS                     Total Public Construction Spending: Sewage and Waste Disposal in the United States                                       M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBTRANSCON                    Total Public Construction Spending: Transportation in the United States                                                  M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBTRANSCONS                   Total Public Construction Spending: Transportation in the United States                                                  M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PBWSCON                       Total Public Construction Spending: Water Supply in the United States                                                    M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PBWSCONS                      Total Public Construction Spending: Water Supply in the United States                                                    M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PLODGCON                      Total Private Construction Spending: Lodging in the United States                                                        M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PLODGCONS                     Total Private Construction Spending: Lodging in the United States                                                        M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PNRESCON                      Total Private Construction Spending: Nonresidential in the United States                                                 M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PNRESCONS                     Total Private Construction Spending: Nonresidential in the United States                                                 M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRAMUSCON                     Total Private Construction Spending: Amusement and Recreation in the United States                                       M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRAMUSCONS                    Total Private Construction Spending: Amusement and Recreation in the United States                                       M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRCMUCON                      Total Private Construction Spending: Communication in the United States                                                  M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRCMUCONS                     Total Private Construction Spending: Communication in the United States                                                  M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRCOMCON                      Total Private Construction Spending: Commercial in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRCOMCONS                     Total Private Construction Spending: Commercial in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PREDUCON                      Total Private Construction Spending: Educational in the United States                                                    M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PREDUCONS                     Total Private Construction Spending: Educational in the United States                                                    M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRHLTHCON                     Total Private Construction Spending: Health Care in the United States                                                    M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRHLTHCONS                    Total Private Construction Spending: Health Care in the United States                                                    M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRMFGCON                      Total Private Construction Spending: Manufacturing in the United States                                                  M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRMFGCONS                     Total Private Construction Spending: Manufacturing in the United States                                                  M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PROFCON                       Total Private Construction Spending: Office in the United States                                                         M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PROFCONS                      Total Private Construction Spending: Office in the United States                                                         M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRPWRCON                      Total Private Construction Spending: Power in the United States                                                          M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRPWRCONS                     Total Private Construction Spending: Power in the United States                                                          M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRRELCON                      Total Private Construction Spending: Religious in the United States                                                      M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRRELCONS                     Total Private Construction Spending: Religious in the United States                                                      M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRRESCON                      Total Private Construction Spending: Residential in the United States                                                    M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRRESCONS                     Total Private Construction Spending: Residential in the United States                                                    M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+PRTRANSCON                    Total Private Construction Spending: Transportation in the United States                                                 M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PRTRANSCONS                   Total Private Construction Spending: Transportation in the United States                                                 M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLAMUSCON                     Total Construction Spending: Amusement and Recreation in the United States                                               M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLAMUSCONS                    Total Construction Spending: Amusement and Recreation in the United States                                               M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLCADCON                      Total Construction Spending: Conservation and Development in the United States                                           M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLCADCONS                     Total Construction Spending: Conservation and Development in the United States                                           M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLCMUCON                      Total Construction Spending: Communication in the United States                                                          M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLCMUCONS                     Total Construction Spending: Communication in the United States                                                          M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLCOMCON                      Total Construction Spending: Commercial in the United States                                                             M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLCOMCONS                     Total Construction Spending: Commercial in the United States                                                             M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLEDUCON                      Total Construction Spending: Educational in the United States                                                            M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLEDUCONS                     Total Construction Spending: Educational in the United States                                                            M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLHLTHCON                     Total Construction Spending: Health Care in the United States                                                            M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLHLTHCONS                    Total Construction Spending: Health Care in the United States                                                            M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLHWYCON                      Total Construction Spending: Highway and Street in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLHWYCONS                     Total Construction Spending: Highway and Street in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLLODGCON                     Total Construction Spending: Lodging in the United States                                                                M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLLODGCONS                    Total Construction Spending: Lodging in the United States                                                                M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLMFGCON                      Total Construction Spending: Manufacturing in the United States                                                          M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLMFGCONS                     Total Construction Spending: Manufacturing in the United States                                                          M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLNRESCON                     Total Construction Spending: Nonresidential in the United States                                                         M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLNRESCONS                    Total Construction Spending: Nonresidential in the United States                                                         M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLOFCON                       Total Construction Spending: Office in the United States                                                                 M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLOFCONS                      Total Construction Spending: Office in the United States                                                                 M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLPBLCON                      Total Public Construction Spending: Total Construction in the United States                                              M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLPBLCONS                     Total Public Construction Spending: Total Construction in the United States                                              M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLPRVCON                      Total Private Construction Spending: Total Construction in the United States                                             M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLPRVCONS                     Total Private Construction Spending: Total Construction in the United States                                             M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLPSCON                       Total Construction Spending: Public Safety in the United States                                                          M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLPSCONS                      Total Construction Spending: Public Safety in the United States                                                          M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLPWRCON                      Total Construction Spending: Power in the United States                                                                  M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLPWRCONS                     Total Construction Spending: Power in the United States                                                                  M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLRELCON                      Total Construction Spending: Religious in the United States                                                              M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLRELCONS                     Total Construction Spending: Religious in the United States                                                              M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLRESCON                      Total Construction Spending: Residential in the United States                                                            M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLRESCONS                     Total Construction Spending: Residential in the United States                                                            M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLSWDCON                      Total Construction Spending: Sewage and Waste Disposal in the United States                                              M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLSWDCONS                     Total Construction Spending: Sewage and Waste Disposal in the United States                                              M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLTRANSCON                    Total Construction Spending: Transportation in the United States                                                         M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLTRANSCONS                   Total Construction Spending: Transportation in the United States                                                         M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TLWSCON                       Total Construction Spending: Water Supply in the United States                                                           M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TLWSCONS                      Total Construction Spending: Water Supply in the United States                                                           M SAAR 01-Dec-2022 01-Oct-2022             Monthly            
+TTLCON                        Total Construction Spending: Total Construction in the United States                                                     M NSA  01-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TTLCONS                       Total Construction Spending: Total Construction in the United States                                                     M SAAR 01-Dec-2022 01-Oct-2022             Monthly            

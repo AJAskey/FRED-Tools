@@ -1,17 +1,17 @@
-Id : 173  BEA Regions Housing Units Authorized By Building Permits
-BEAFWBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Far West BEA Region                  NSA  27-Jul-2017  Monthly        
-BEAFWBPPRIV                   New Private Housing Units Authorized by Building Permit for the Far West BEA Region                                      NSA  27-Jul-2017  Monthly        
-BEAGLBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Great Lakes BEA Region               NSA  27-Jul-2017  Monthly        
-BEAGLBPPRIV                   New Private Housing Units Authorized by Building Permit for the Great Lakes BEA Region                                   NSA  27-Jul-2017  Monthly        
-BEAMEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mideast BEA Region                   NSA  27-Jul-2017  Monthly        
-BEAMEBPPRIV                   New Private Housing Units Authorized by Building Permit for the Mideast BEA Region                                       NSA  27-Jul-2017  Monthly        
-BEANEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the New England BEA Region               NSA  27-Jul-2017  Monthly        
-BEANEBPPRIV                   New Private Housing Units Authorized by Building Permit for the New England BEA Region                                   NSA  27-Jul-2017  Monthly        
-BEAPLBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Plains BEA Region                    NSA  27-Jul-2017  Monthly        
-BEAPLBPPRIV                   New Private Housing Units Authorized by Building Permit for the Plains BEA Region                                        NSA  27-Jul-2017  Monthly        
-BEARMBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Rocky Mountain BEA Region            NSA  27-Jul-2017  Monthly        
-BEARMBPPRIV                   New Private Housing Units Authorized by Building Permit for the Rocky Mountain BEA Region                                NSA  27-Jul-2017  Monthly        
-BEASEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Southeast BEA Region                 NSA  27-Jul-2017  Monthly        
-BEASEBPPRIV                   New Private Housing Units Authorized by Building Permit for the Southeast BEA Region                                     NSA  27-Jul-2017  Monthly        
-BEASWBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Southwest BEA Region                 NSA  27-Jul-2017  Monthly        
-BEASWBPPRIV                   New Private Housing Units Authorized by Building Permit for the Southwest BEA Region                                     NSA  27-Jul-2017  Monthly        
+Release  Id : 173	BEA Regions Housing Units Authorized By Building Permits
+BEAFWBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Far West BEA Region                    NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAFWBPPRIV                   New Private Housing Units Authorized by Building Permit for the Far West BEA Region                                        NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAGLBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Great Lakes BEA Region                 NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAGLBPPRIV                   New Private Housing Units Authorized by Building Permit for the Great Lakes BEA Region                                     NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAMEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mideast BEA Region                     NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAMEBPPRIV                   New Private Housing Units Authorized by Building Permit for the Mideast BEA Region                                         NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEANEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the New England BEA Region                 NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEANEBPPRIV                   New Private Housing Units Authorized by Building Permit for the New England BEA Region                                     NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAPLBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Plains BEA Region                      NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEAPLBPPRIV                   New Private Housing Units Authorized by Building Permit for the Plains BEA Region                                          NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEARMBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Rocky Mountain BEA Region              NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEARMBPPRIV                   New Private Housing Units Authorized by Building Permit for the Rocky Mountain BEA Region                                  NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEASEBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Southeast BEA Region                   NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEASEBPPRIV                   New Private Housing Units Authorized by Building Permit for the Southeast BEA Region                                       NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEASWBP1FH                    New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Southwest BEA Region                   NSA  27-Jul-2017 01-Jun-2017             Monthly            
+BEASWBPPRIV                   New Private Housing Units Authorized by Building Permit for the Southwest BEA Region                                       NSA  27-Jul-2017 01-Jun-2017             Monthly            

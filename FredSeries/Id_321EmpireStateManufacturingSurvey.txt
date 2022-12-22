@@ -1,177 +1,177 @@
-Id : 321  Empire State Manufacturing Survey
-AWCDINA066MNFRBNY             Current Average Employee Workweek; Diffusion Index for New York                                                          NSA  15-Nov-2022  Monthly        
-AWCDISA066MSFRBNY             Current Average Employee Workweek; Diffusion Index for New York                                                          SA   15-Nov-2022  Monthly        
-AWCDNA156MNFRBNY              Current Average Employee Workweek; Percent Reporting Decreases for New York                                              NSA  15-Nov-2022  Monthly        
-AWCDSA156MSFRBNY              Current Average Employee Workweek; Percent Reporting Decreases for New York                                              SA   15-Nov-2022  Monthly        
-AWCINA156MNFRBNY              Current Average Employee Workweek; Percent Reporting Increases for New York                                              NSA  15-Nov-2022  Monthly        
-AWCISA156MSFRBNY              Current Average Employee Workweek; Percent Reporting Increases for New York                                              SA   15-Nov-2022  Monthly        
-AWCNNA156MNFRBNY              Current Average Employee Workweek; Percent Reporting No Change for New York                                              NSA  15-Nov-2022  Monthly        
-AWCNSA156MSFRBNY              Current Average Employee Workweek; Percent Reporting No Change for New York                                              SA   15-Nov-2022  Monthly        
-AWFDINA066MNFRBNY             Future Average Employee Workweek; Diffusion Index for New York                                                           NSA  15-Nov-2022  Monthly        
-AWFDISA066MSFRBNY             Future Average Employee Workweek; Diffusion Index for New York                                                           SA   15-Nov-2022  Monthly        
-AWFDNA156MNFRBNY              Future Average Employee Workweek; Percent Expecting Decreases for New York                                               NSA  15-Nov-2022  Monthly        
-AWFDSA156MSFRBNY              Future Average Employee Workweek; Percent Expecting Decreases for New York                                               SA   15-Nov-2022  Monthly        
-AWFINA156MNFRBNY              Future Average Employee Workweek; Percent Expecting Increases for New York                                               NSA  15-Nov-2022  Monthly        
-AWFISA156MSFRBNY              Future Average Employee Workweek; Percent Expecting Increases for New York                                               SA   15-Nov-2022  Monthly        
-AWFNNA156MNFRBNY              Future Average Employee Workweek; Percent Expecting No Change for New York                                               NSA  15-Nov-2022  Monthly        
-AWFNSA156MSFRBNY              Future Average Employee Workweek; Percent Expecting No Change for New York                                               SA   15-Nov-2022  Monthly        
-CEFDINA066MNFRBNY             Future Capital Expenditures; Diffusion Index for New York                                                                NSA  15-Nov-2022  Monthly        
-CEFDISA066MSFRBNY             Future Capital Expenditures; Diffusion Index for New York                                                                SA   15-Nov-2022  Monthly        
-CEFDNA156MNFRBNY              Future Capital Expenditures; Percent Expecting Decreases for New York                                                    NSA  15-Nov-2022  Monthly        
-CEFDSA156MSFRBNY              Future Capital Expenditures; Percent Expecting Decreases for New York                                                    SA   15-Nov-2022  Monthly        
-CEFINA156MNFRBNY              Future Capital Expenditures; Percent Expecting Increases for New York                                                    NSA  15-Nov-2022  Monthly        
-CEFISA156MSFRBNY              Future Capital Expenditures; Percent Expecting Increases for New York                                                    SA   15-Nov-2022  Monthly        
-CEFNNA156MNFRBNY              Future Capital Expenditures; Percent Expecting No Change for New York                                                    NSA  15-Nov-2022  Monthly        
-CEFNSA156MSFRBNY              Future Capital Expenditures; Percent Expecting No Change for New York                                                    SA   15-Nov-2022  Monthly        
-DTCDINA066MNFRBNY             Current Delivery Time; Diffusion Index for New York                                                                      NSA  15-Nov-2022  Monthly        
-DTCDISA066MSFRBNY             Current Delivery Time; Diffusion Index for New York                                                                      SA   15-Nov-2022  Monthly        
-DTCDNA156MNFRBNY              Current Delivery Time; Percent Reporting Decreases for New York                                                          NSA  15-Nov-2022  Monthly        
-DTCDSA156MSFRBNY              Current Delivery Time; Percent Reporting Decreases for New York                                                          SA   15-Nov-2022  Monthly        
-DTCINA156MNFRBNY              Current Delivery Time; Percent Reporting Increases for New York                                                          NSA  15-Nov-2022  Monthly        
-DTCISA156MSFRBNY              Current Delivery Time; Percent Reporting Increases for New York                                                          SA   15-Nov-2022  Monthly        
-DTCNNA156MNFRBNY              Current Delivery Time; Percent Reporting No Change for New York                                                          NSA  15-Nov-2022  Monthly        
-DTCNSA156MSFRBNY              Current Delivery Time; Percent Reporting No Change for New York                                                          SA   15-Nov-2022  Monthly        
-DTFDINA066MNFRBNY             Future Delivery Time; Diffusion Index for New York                                                                       NSA  15-Nov-2022  Monthly        
-DTFDISA066MSFRBNY             Future Delivery Time; Diffusion Index for New York                                                                       SA   15-Nov-2022  Monthly        
-DTFDNA156MNFRBNY              Future Delivery Time; Percent Expecting Decreases for New York                                                           NSA  15-Nov-2022  Monthly        
-DTFDSA156MSFRBNY              Future Delivery Time; Percent Expecting Decreases for New York                                                           SA   15-Nov-2022  Monthly        
-DTFINA156MNFRBNY              Future Delivery Time; Percent Expecting Increases for New York                                                           NSA  15-Nov-2022  Monthly        
-DTFISA156MSFRBNY              Future Delivery Time; Percent Expecting Increases for New York                                                           SA   15-Nov-2022  Monthly        
-DTFNNA156MNFRBNY              Future Delivery Time; Percent Expecting No Change for New York                                                           NSA  15-Nov-2022  Monthly        
-DTFNSA156MSFRBNY              Future Delivery Time; Percent Expecting No Change for New York                                                           SA   15-Nov-2022  Monthly        
-GACDINA066MNFRBNY             Current General Business Conditions; Diffusion Index for New York                                                        NSA  15-Nov-2022  Monthly        
-GACDISA066MSFRBNY             Current General Business Conditions; Diffusion Index for New York                                                        SA   15-Nov-2022  Monthly        
-GACDNA156MNFRBNY              Current General Business Conditions; Percent Reporting Decreases for New York                                            NSA  15-Nov-2022  Monthly        
-GACDSA156MSFRBNY              Current General Business Conditions; Percent Reporting Decreases for New York                                            SA   15-Nov-2022  Monthly        
-GACINA156MNFRBNY              Current General Business Conditions; Percent Reporting Increases for New York                                            NSA  15-Nov-2022  Monthly        
-GACISA156MSFRBNY              Current General Business Conditions; Percent Reporting Increases for New York                                            SA   15-Nov-2022  Monthly        
-GACNNA156MNFRBNY              Current General Business Conditions; Percent Reporting No Change for New York                                            NSA  15-Nov-2022  Monthly        
-GACNSA156MSFRBNY              Current General Business Conditions; Percent Reporting No Change for New York                                            SA   15-Nov-2022  Monthly        
-GAFDINA066MNFRBNY             Future General Business Conditions; Diffusion Index for New York                                                         NSA  15-Nov-2022  Monthly        
-GAFDISA066MSFRBNY             Future General Business Conditions; Diffusion Index for New York                                                         SA   15-Nov-2022  Monthly        
-GAFDNA156MNFRBNY              Future General Business Conditions; Percent Expecting Decreases for New York                                             NSA  15-Nov-2022  Monthly        
-GAFDSA156MSFRBNY              Future General Business Conditions; Percent Expecting Decreases for New York                                             SA   15-Nov-2022  Monthly        
-GAFINA156MNFRBNY              Future General Business Conditions; Percent Expecting Increases for New York                                             NSA  15-Nov-2022  Monthly        
-GAFISA156MSFRBNY              Future General Business Conditions; Percent Expecting Increases for New York                                             SA   15-Nov-2022  Monthly        
-GAFNNA156MNFRBNY              Future General Business Conditions; Percent Expecting No Change for New York                                             NSA  15-Nov-2022  Monthly        
-GAFNSA156MSFRBNY              Future General Business Conditions; Percent Expecting No Change for New York                                             SA   15-Nov-2022  Monthly        
-IVCDINA066MNFRBNY             Current Inventories; Diffusion Index for New York                                                                        NSA  15-Nov-2022  Monthly        
-IVCDISA066MSFRBNY             Current Inventories; Diffusion Index for New York                                                                        SA   15-Nov-2022  Monthly        
-IVCDNA156MNFRBNY              Current Inventories; Percent Reporting Decreases for New York                                                            NSA  15-Nov-2022  Monthly        
-IVCDSA156MSFRBNY              Current Inventories; Percent Reporting Decreases for New York                                                            SA   15-Nov-2022  Monthly        
-IVCINA156MNFRBNY              Current Inventories; Percent Reporting Increases for New York                                                            NSA  15-Nov-2022  Monthly        
-IVCISA156MSFRBNY              Current Inventories; Percent Reporting Increases for New York                                                            SA   15-Nov-2022  Monthly        
-IVCNNA156MNFRBNY              Current Inventories; Percent Reporting No Change for New York                                                            NSA  15-Nov-2022  Monthly        
-IVCNSA156MSFRBNY              Current Inventories; Percent Reporting No Change for New York                                                            SA   15-Nov-2022  Monthly        
-IVFDINA066MNFRBNY             Future Inventories; Diffusion Index for New York                                                                         NSA  15-Nov-2022  Monthly        
-IVFDISA066MSFRBNY             Future Inventories; Diffusion Index for New York                                                                         SA   15-Nov-2022  Monthly        
-IVFDNA156MNFRBNY              Future Inventories; Percent Expecting Decreases for New York                                                             NSA  15-Nov-2022  Monthly        
-IVFDSA156MSFRBNY              Future Inventories; Percent Expecting Decreases for New York                                                             SA   15-Nov-2022  Monthly        
-IVFINA156MNFRBNY              Future Inventories; Percent Expecting Increases for New York                                                             NSA  15-Nov-2022  Monthly        
-IVFISA156MSFRBNY              Future Inventories; Percent Expecting Increases for New York                                                             SA   15-Nov-2022  Monthly        
-IVFNNA156MNFRBNY              Future Inventories; Percent Expecting No Change for New York                                                             NSA  15-Nov-2022  Monthly        
-IVFNSA156MSFRBNY              Future Inventories; Percent Expecting No Change for New York                                                             SA   15-Nov-2022  Monthly        
-NECDINA066MNFRBNY             Current Number of Employees; Diffusion Index for New York                                                                NSA  15-Nov-2022  Monthly        
-NECDISA066MSFRBNY             Current Number of Employees; Diffusion Index for New York                                                                SA   15-Nov-2022  Monthly        
-NECDNA156MNFRBNY              Current Number of Employees; Percent Reporting Decreases for New York                                                    NSA  15-Nov-2022  Monthly        
-NECDSA156MSFRBNY              Current Number of Employees; Percent Reporting Decreases for New York                                                    SA   15-Nov-2022  Monthly        
-NECINA156MNFRBNY              Current Number of Employees; Percent Reporting Increases for New York                                                    NSA  15-Nov-2022  Monthly        
-NECISA156MSFRBNY              Current Number of Employees; Percent Reporting Increases for New York                                                    SA   15-Nov-2022  Monthly        
-NECNNA156MNFRBNY              Current Number of Employees; Percent Reporting No Change for New York                                                    NSA  15-Nov-2022  Monthly        
-NECNSA156MSFRBNY              Current Number of Employees; Percent Reporting No Change for New York                                                    SA   15-Nov-2022  Monthly        
-NEFDINA066MNFRBNY             Future Number of Employees; Diffusion Index for New York                                                                 NSA  15-Nov-2022  Monthly        
-NEFDISA066MSFRBNY             Future Number of Employees; Diffusion Index for New York                                                                 SA   15-Nov-2022  Monthly        
-NEFDNA156MNFRBNY              Future Number of Employees; Percent Expecting Decreases for New York                                                     NSA  15-Nov-2022  Monthly        
-NEFDSA156MSFRBNY              Future Number of Employees; Percent Expecting Decreases for New York                                                     SA   15-Nov-2022  Monthly        
-NEFINA156MNFRBNY              Future Number of Employees; Percent Expecting Increases for New York                                                     NSA  15-Nov-2022  Monthly        
-NEFISA156MSFRBNY              Future Number of Employees; Percent Expecting Increases for New York                                                     SA   15-Nov-2022  Monthly        
-NEFNNA156MNFRBNY              Future Number of Employees; Percent Expecting No Change for New York                                                     NSA  15-Nov-2022  Monthly        
-NEFNSA156MSFRBNY              Future Number of Employees; Percent Expecting No Change for New York                                                     SA   15-Nov-2022  Monthly        
-NOCDINA066MNFRBNY             Current New Orders; Diffusion Index for New York                                                                         NSA  15-Nov-2022  Monthly        
-NOCDISA066MSFRBNY             Current New Orders; Diffusion Index for New York                                                                         SA   15-Nov-2022  Monthly        
-NOCDNA156MNFRBNY              Current New Orders; Percent Reporting Decreases for New York                                                             NSA  15-Nov-2022  Monthly        
-NOCDSA156MSFRBNY              Current New Orders; Percent Reporting Decreases for New York                                                             SA   15-Nov-2022  Monthly        
-NOCINA156MNFRBNY              Current New Orders; Percent Reporting Increases for New York                                                             NSA  15-Nov-2022  Monthly        
-NOCISA156MSFRBNY              Current New Orders; Percent Reporting Increases for New York                                                             SA   15-Nov-2022  Monthly        
-NOCNNA156MNFRBNY              Current New Orders; Percent Reporting No Change for New York                                                             NSA  15-Nov-2022  Monthly        
-NOCNSA156MSFRBNY              Current New Orders; Percent Reporting No Change for New York                                                             SA   15-Nov-2022  Monthly        
-NOFDINA066MNFRBNY             Future New Orders; Diffusion Index for New York                                                                          NSA  15-Nov-2022  Monthly        
-NOFDISA066MSFRBNY             Future New Orders; Diffusion Index for New York                                                                          SA   15-Nov-2022  Monthly        
-NOFDNA156MNFRBNY              Future New Orders; Percent Expecting Decreases for New York                                                              NSA  15-Nov-2022  Monthly        
-NOFDSA156MSFRBNY              Future New Orders; Percent Expecting Decreases for New York                                                              SA   15-Nov-2022  Monthly        
-NOFINA156MNFRBNY              Future New Orders; Percent Expecting Increases for New York                                                              NSA  15-Nov-2022  Monthly        
-NOFISA156MSFRBNY              Future New Orders; Percent Expecting Increases for New York                                                              SA   15-Nov-2022  Monthly        
-NOFNNA156MNFRBNY              Future New Orders; Percent Expecting No Change for New York                                                              NSA  15-Nov-2022  Monthly        
-NOFNSA156MSFRBNY              Future New Orders; Percent Expecting No Change for New York                                                              SA   15-Nov-2022  Monthly        
-PPCDINA066MNEMFRBNY           Current Prices Paid; Diffusion Index for New York                                                                        NSA  15-Nov-2022  Monthly        
-PPCDISA066MSFRBNY             Current Prices Paid; Diffusion Index for New York                                                                        SA   15-Nov-2022  Monthly        
-PPCDNA156MNEMFRBNY            Current Prices Paid; Percent Reporting Decreases for New York                                                            NSA  15-Nov-2022  Monthly        
-PPCDSA156MSFRBNY              Current Prices Paid; Percent Reporting Decreases for New York                                                            SA   15-Nov-2022  Monthly        
-PPCINA156MNEMFRBNY            Current Prices Paid; Percent Reporting Increases for New York                                                            NSA  15-Nov-2022  Monthly        
-PPCISA156MSFRBNY              Current Prices Paid; Percent Reporting Increases for New York                                                            SA   15-Nov-2022  Monthly        
-PPCNNA156MNEMFRBNY            Current Prices Paid; Percent Reporting No Change for New York                                                            NSA  15-Nov-2022  Monthly        
-PPCNSA156MSFRBNY              Current Prices Paid; Percent Reporting No Change for New York                                                            SA   15-Nov-2022  Monthly        
-PPFDINA066MNEMFRBNY           Future Prices Paid; Diffusion Index for New York                                                                         NSA  15-Nov-2022  Monthly        
-PPFDISA066MSFRBNY             Future Prices Paid; Diffusion Index for New York                                                                         SA   15-Nov-2022  Monthly        
-PPFDNA156MNEMFRBNY            Future Prices Paid; Percent Expecting Decreases for New York                                                             NSA  15-Nov-2022  Monthly        
-PPFDSA156MSFRBNY              Future Prices Paid; Percent Expecting Decreases for New York                                                             SA   15-Nov-2022  Monthly        
-PPFINA156MNEMFRBNY            Future Prices Paid; Percent Expecting Increases for New York                                                             NSA  15-Nov-2022  Monthly        
-PPFISA156MSFRBNY              Future Prices Paid; Percent Expecting Increases for New York                                                             SA   15-Nov-2022  Monthly        
-PPFNNA156MNEMFRBNY            Future Prices Paid; Percent Expecting No Change for New York                                                             NSA  15-Nov-2022  Monthly        
-PPFNSA156MSFRBNY              Future Prices Paid; Percent Expecting No Change for New York                                                             SA   15-Nov-2022  Monthly        
-PRCDINA066MNEMFRBNY           Current Prices Received; Diffusion Index for New York                                                                    NSA  15-Nov-2022  Monthly        
-PRCDISA066MSFRBNY             Current Prices Received; Diffusion Index for New York                                                                    SA   15-Nov-2022  Monthly        
-PRCDNA156MNEMFRBNY            Current Prices Received; Percent Reporting Decreases for New York                                                        NSA  15-Nov-2022  Monthly        
-PRCDSA156MSFRBNY              Current Prices Received; Percent Reporting Decreases for New York                                                        SA   15-Nov-2022  Monthly        
-PRCINA156MNEMFRBNY            Current Prices Received; Percent Reporting Increases for New York                                                        NSA  15-Nov-2022  Monthly        
-PRCISA156MSFRBNY              Current Prices Received; Percent Reporting Increases for New York                                                        SA   15-Nov-2022  Monthly        
-PRCNNA156MNEMFRBNY            Current Prices Received; Percent Reporting No Change for New York                                                        NSA  15-Nov-2022  Monthly        
-PRCNSA156MSFRBNY              Current Prices Received; Percent Reporting No Change for New York                                                        SA   15-Nov-2022  Monthly        
-PRFDINA066MNEMFRBNY           Future Prices Received; Diffusion Index for New York                                                                     NSA  15-Nov-2022  Monthly        
-PRFDISA066MSFRBNY             Future Prices Received; Diffusion Index for New York                                                                     SA   15-Nov-2022  Monthly        
-PRFDNA156MNEMFRBNY            Future Prices Received; Percent Expecting Decreases for New York                                                         NSA  15-Nov-2022  Monthly        
-PRFDSA156MSFRBNY              Future Prices Received; Percent Expecting Decreases for New York                                                         SA   15-Nov-2022  Monthly        
-PRFINA156MNEMFRBNY            Future Prices Received; Percent Expecting Increases for New York                                                         NSA  15-Nov-2022  Monthly        
-PRFISA156MSFRBNY              Future Prices Received; Percent Expecting Increases for New York                                                         SA   15-Nov-2022  Monthly        
-PRFNNA156MNEMFRBNY            Future Prices Received; Percent Expecting No Change for New York                                                         NSA  15-Nov-2022  Monthly        
-PRFNSA156MSFRBNY              Future Prices Received; Percent Expecting No Change for New York                                                         SA   15-Nov-2022  Monthly        
-SHCDINA066MNFRBNY             Current Shipments; Diffusion Index for New York                                                                          NSA  15-Nov-2022  Monthly        
-SHCDISA066MSFRBNY             Current Shipments; Diffusion Index for New York                                                                          SA   15-Nov-2022  Monthly        
-SHCDNA156MNFRBNY              Current Shipments; Percent Reporting Decreases for New York                                                              NSA  15-Nov-2022  Monthly        
-SHCDSA156MSFRBNY              Current Shipments; Percent Reporting Decreases for New York                                                              SA   15-Nov-2022  Monthly        
-SHCINA156MNFRBNY              Current Shipments; Percent Reporting Increases for New York                                                              NSA  15-Nov-2022  Monthly        
-SHCISA156MSFRBNY              Current Shipments; Percent Reporting Increases for New York                                                              SA   15-Nov-2022  Monthly        
-SHCNNA156MNFRBNY              Current Shipments; Percent Reporting No Change for New York                                                              NSA  15-Nov-2022  Monthly        
-SHCNSA156MSFRBNY              Current Shipments; Percent Reporting No Change for New York                                                              SA   15-Nov-2022  Monthly        
-SHFDINA066MNFRBNY             Future Shipments; Diffusion Index for New York                                                                           NSA  15-Nov-2022  Monthly        
-SHFDISA066MSFRBNY             Future Shipments; Diffusion Index for New York                                                                           SA   15-Nov-2022  Monthly        
-SHFDNA156MNFRBNY              Future Shipments; Percent Expecting Decreases for New York                                                               NSA  15-Nov-2022  Monthly        
-SHFDSA156MSFRBNY              Future Shipments; Percent Expecting Decreases for New York                                                               SA   15-Nov-2022  Monthly        
-SHFINA156MNFRBNY              Future Shipments; Percent Expecting Increases for New York                                                               NSA  15-Nov-2022  Monthly        
-SHFISA156MSFRBNY              Future Shipments; Percent Expecting Increases for New York                                                               SA   15-Nov-2022  Monthly        
-SHFNNA156MNFRBNY              Future Shipments; Percent Expecting No Change for New York                                                               NSA  15-Nov-2022  Monthly        
-SHFNSA156MSFRBNY              Future Shipments; Percent Expecting No Change for New York                                                               SA   15-Nov-2022  Monthly        
-TSFDINA066MNFRBNY             Future Technology Spending; Diffusion Index for New York                                                                 NSA  15-Nov-2022  Monthly        
-TSFDISA066MSFRBNY             Future Technology Spending; Diffusion Index for New York                                                                 SA   15-Nov-2022  Monthly        
-TSFDNA156MNFRBNY              Future Technology Spending; Percent Expecting Decreases for New York                                                     NSA  15-Nov-2022  Monthly        
-TSFDSA156MSFRBNY              Future Technology Spending; Percent Expecting Decreases for New York                                                     SA   15-Nov-2022  Monthly        
-TSFINA156MNFRBNY              Future Technology Spending; Percent Expecting Increases for New York                                                     NSA  15-Nov-2022  Monthly        
-TSFISA156MSFRBNY              Future Technology Spending; Percent Expecting Increases for New York                                                     SA   15-Nov-2022  Monthly        
-TSFNNA156MNFRBNY              Future Technology Spending; Percent Expecting No Change for New York                                                     NSA  15-Nov-2022  Monthly        
-TSFNSA156MSFRBNY              Future Technology Spending; Percent Expecting No Change for New York                                                     SA   15-Nov-2022  Monthly        
-UOCDINA066MNFRBNY             Current Unfilled Orders; Diffusion Index for New York                                                                    NSA  15-Nov-2022  Monthly        
-UOCDISA066MSFRBNY             Current Unfilled Orders; Diffusion Index for New York                                                                    SA   15-Nov-2022  Monthly        
-UOCDNA156MNFRBNY              Current Unfilled Orders; Percent Reporting Decreases for New York                                                        NSA  15-Nov-2022  Monthly        
-UOCDSA156MSFRBNY              Current Unfilled Orders; Percent Reporting Decreases for New York                                                        SA   15-Nov-2022  Monthly        
-UOCINA156MNFRBNY              Current Unfilled Orders; Percent Reporting Increases for New York                                                        NSA  15-Nov-2022  Monthly        
-UOCISA156MSFRBNY              Current Unfilled Orders; Percent Reporting Increases for New York                                                        SA   15-Nov-2022  Monthly        
-UOCNNA156MNFRBNY              Current Unfilled Orders; Percent Reporting No Change for New York                                                        NSA  15-Nov-2022  Monthly        
-UOCNSA156MSFRBNY              Current Unfilled Orders; Percent Reporting No Change for New York                                                        SA   15-Nov-2022  Monthly        
-UOFDINA066MNFRBNY             Future Unfilled Orders; Diffusion Index for New York                                                                     NSA  15-Nov-2022  Monthly        
-UOFDISA066MSFRBNY             Future Unfilled Orders; Diffusion Index for New York                                                                     SA   15-Nov-2022  Monthly        
-UOFDNA156MNFRBNY              Future Unfilled Orders; Percent Expecting Decreases for New York                                                         NSA  15-Nov-2022  Monthly        
-UOFDSA156MSFRBNY              Future Unfilled Orders; Percent Expecting Decreases for New York                                                         SA   15-Nov-2022  Monthly        
-UOFINA156MNFRBNY              Future Unfilled Orders; Percent Expecting Increases for New York                                                         NSA  15-Nov-2022  Monthly        
-UOFISA156MSFRBNY              Future Unfilled Orders; Percent Expecting Increases for New York                                                         SA   15-Nov-2022  Monthly        
-UOFNNA156MNFRBNY              Future Unfilled Orders; Percent Expecting No Change for New York                                                         NSA  15-Nov-2022  Monthly        
-UOFNSA156MSFRBNY              Future Unfilled Orders; Percent Expecting No Change for New York                                                         SA   15-Nov-2022  Monthly        
+Release  Id : 321	Empire State Manufacturing Survey
+AWCDINA066MNFRBNY             Current Average Employee Workweek; Diffusion Index for New York                                                            NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWCDISA066MSFRBNY             Current Average Employee Workweek; Diffusion Index for New York                                                            SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWCDNA156MNFRBNY              Current Average Employee Workweek; Percent Reporting Decreases for New York                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWCDSA156MSFRBNY              Current Average Employee Workweek; Percent Reporting Decreases for New York                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWCINA156MNFRBNY              Current Average Employee Workweek; Percent Reporting Increases for New York                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWCISA156MSFRBNY              Current Average Employee Workweek; Percent Reporting Increases for New York                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWCNNA156MNFRBNY              Current Average Employee Workweek; Percent Reporting No Change for New York                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWCNSA156MSFRBNY              Current Average Employee Workweek; Percent Reporting No Change for New York                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWFDINA066MNFRBNY             Future Average Employee Workweek; Diffusion Index for New York                                                             NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWFDISA066MSFRBNY             Future Average Employee Workweek; Diffusion Index for New York                                                             SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWFDNA156MNFRBNY              Future Average Employee Workweek; Percent Expecting Decreases for New York                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWFDSA156MSFRBNY              Future Average Employee Workweek; Percent Expecting Decreases for New York                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWFINA156MNFRBNY              Future Average Employee Workweek; Percent Expecting Increases for New York                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWFISA156MSFRBNY              Future Average Employee Workweek; Percent Expecting Increases for New York                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+AWFNNA156MNFRBNY              Future Average Employee Workweek; Percent Expecting No Change for New York                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+AWFNSA156MSFRBNY              Future Average Employee Workweek; Percent Expecting No Change for New York                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+CEFDINA066MNFRBNY             Future Capital Expenditures; Diffusion Index for New York                                                                  NSA  15-Dec-2022 01-Dec-2022 15-Dec-2022 Monthly            
+CEFDISA066MSFRBNY             Future Capital Expenditures; Diffusion Index for New York                                                                  SA   15-Dec-2022 01-Dec-2022             Monthly            
+CEFDNA156MNFRBNY              Future Capital Expenditures; Percent Expecting Decreases for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+CEFDSA156MSFRBNY              Future Capital Expenditures; Percent Expecting Decreases for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+CEFINA156MNFRBNY              Future Capital Expenditures; Percent Expecting Increases for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+CEFISA156MSFRBNY              Future Capital Expenditures; Percent Expecting Increases for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+CEFNNA156MNFRBNY              Future Capital Expenditures; Percent Expecting No Change for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+CEFNSA156MSFRBNY              Future Capital Expenditures; Percent Expecting No Change for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTCDINA066MNFRBNY             Current Delivery Time; Diffusion Index for New York                                                                        NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTCDISA066MSFRBNY             Current Delivery Time; Diffusion Index for New York                                                                        SA   15-Dec-2022 01-Dec-2022 15-Dec-2022 Monthly            
+DTCDNA156MNFRBNY              Current Delivery Time; Percent Reporting Decreases for New York                                                          P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTCDSA156MSFRBNY              Current Delivery Time; Percent Reporting Decreases for New York                                                          P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTCINA156MNFRBNY              Current Delivery Time; Percent Reporting Increases for New York                                                          P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTCISA156MSFRBNY              Current Delivery Time; Percent Reporting Increases for New York                                                          P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTCNNA156MNFRBNY              Current Delivery Time; Percent Reporting No Change for New York                                                          P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTCNSA156MSFRBNY              Current Delivery Time; Percent Reporting No Change for New York                                                          P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTFDINA066MNFRBNY             Future Delivery Time; Diffusion Index for New York                                                                         NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTFDISA066MSFRBNY             Future Delivery Time; Diffusion Index for New York                                                                         SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTFDNA156MNFRBNY              Future Delivery Time; Percent Expecting Decreases for New York                                                           P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTFDSA156MSFRBNY              Future Delivery Time; Percent Expecting Decreases for New York                                                           P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTFINA156MNFRBNY              Future Delivery Time; Percent Expecting Increases for New York                                                           P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTFISA156MSFRBNY              Future Delivery Time; Percent Expecting Increases for New York                                                           P SA   15-Dec-2022 01-Dec-2022             Monthly            
+DTFNNA156MNFRBNY              Future Delivery Time; Percent Expecting No Change for New York                                                           P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+DTFNSA156MSFRBNY              Future Delivery Time; Percent Expecting No Change for New York                                                           P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GACDINA066MNFRBNY             Current General Business Conditions; Diffusion Index for New York                                                          NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GACDISA066MSFRBNY             Current General Business Conditions; Diffusion Index for New York                                                          SA   15-Dec-2022 01-Dec-2022 15-Dec-2022 Monthly            
+GACDNA156MNFRBNY              Current General Business Conditions; Percent Reporting Decreases for New York                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GACDSA156MSFRBNY              Current General Business Conditions; Percent Reporting Decreases for New York                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GACINA156MNFRBNY              Current General Business Conditions; Percent Reporting Increases for New York                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GACISA156MSFRBNY              Current General Business Conditions; Percent Reporting Increases for New York                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GACNNA156MNFRBNY              Current General Business Conditions; Percent Reporting No Change for New York                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GACNSA156MSFRBNY              Current General Business Conditions; Percent Reporting No Change for New York                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GAFDINA066MNFRBNY             Future General Business Conditions; Diffusion Index for New York                                                           NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GAFDISA066MSFRBNY             Future General Business Conditions; Diffusion Index for New York                                                           SA   15-Dec-2022 01-Dec-2022             Monthly            
+GAFDNA156MNFRBNY              Future General Business Conditions; Percent Expecting Decreases for New York                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GAFDSA156MSFRBNY              Future General Business Conditions; Percent Expecting Decreases for New York                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GAFINA156MNFRBNY              Future General Business Conditions; Percent Expecting Increases for New York                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GAFISA156MSFRBNY              Future General Business Conditions; Percent Expecting Increases for New York                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+GAFNNA156MNFRBNY              Future General Business Conditions; Percent Expecting No Change for New York                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+GAFNSA156MSFRBNY              Future General Business Conditions; Percent Expecting No Change for New York                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVCDINA066MNFRBNY             Current Inventories; Diffusion Index for New York                                                                          NSA  15-Dec-2022 01-Dec-2022 15-Dec-2022 Monthly            
+IVCDISA066MSFRBNY             Current Inventories; Diffusion Index for New York                                                                          SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVCDNA156MNFRBNY              Current Inventories; Percent Reporting Decreases for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVCDSA156MSFRBNY              Current Inventories; Percent Reporting Decreases for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVCINA156MNFRBNY              Current Inventories; Percent Reporting Increases for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVCISA156MSFRBNY              Current Inventories; Percent Reporting Increases for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVCNNA156MNFRBNY              Current Inventories; Percent Reporting No Change for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVCNSA156MSFRBNY              Current Inventories; Percent Reporting No Change for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVFDINA066MNFRBNY             Future Inventories; Diffusion Index for New York                                                                           NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVFDISA066MSFRBNY             Future Inventories; Diffusion Index for New York                                                                           SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVFDNA156MNFRBNY              Future Inventories; Percent Expecting Decreases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVFDSA156MSFRBNY              Future Inventories; Percent Expecting Decreases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVFINA156MNFRBNY              Future Inventories; Percent Expecting Increases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVFISA156MSFRBNY              Future Inventories; Percent Expecting Increases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+IVFNNA156MNFRBNY              Future Inventories; Percent Expecting No Change for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+IVFNSA156MSFRBNY              Future Inventories; Percent Expecting No Change for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NECDINA066MNFRBNY             Current Number of Employees; Diffusion Index for New York                                                                  NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NECDISA066MSFRBNY             Current Number of Employees; Diffusion Index for New York                                                                  SA   15-Dec-2022 01-Dec-2022             Monthly            
+NECDNA156MNFRBNY              Current Number of Employees; Percent Reporting Decreases for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NECDSA156MSFRBNY              Current Number of Employees; Percent Reporting Decreases for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NECINA156MNFRBNY              Current Number of Employees; Percent Reporting Increases for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NECISA156MSFRBNY              Current Number of Employees; Percent Reporting Increases for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NECNNA156MNFRBNY              Current Number of Employees; Percent Reporting No Change for New York                                                    P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NECNSA156MSFRBNY              Current Number of Employees; Percent Reporting No Change for New York                                                    P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NEFDINA066MNFRBNY             Future Number of Employees; Diffusion Index for New York                                                                   NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NEFDISA066MSFRBNY             Future Number of Employees; Diffusion Index for New York                                                                   SA   15-Dec-2022 01-Dec-2022             Monthly            
+NEFDNA156MNFRBNY              Future Number of Employees; Percent Expecting Decreases for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NEFDSA156MSFRBNY              Future Number of Employees; Percent Expecting Decreases for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NEFINA156MNFRBNY              Future Number of Employees; Percent Expecting Increases for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NEFISA156MSFRBNY              Future Number of Employees; Percent Expecting Increases for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NEFNNA156MNFRBNY              Future Number of Employees; Percent Expecting No Change for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NEFNSA156MSFRBNY              Future Number of Employees; Percent Expecting No Change for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOCDINA066MNFRBNY             Current New Orders; Diffusion Index for New York                                                                           NSA  15-Dec-2022 01-Dec-2022 15-Dec-2022 Monthly            
+NOCDISA066MSFRBNY             Current New Orders; Diffusion Index for New York                                                                           SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOCDNA156MNFRBNY              Current New Orders; Percent Reporting Decreases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOCDSA156MSFRBNY              Current New Orders; Percent Reporting Decreases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOCINA156MNFRBNY              Current New Orders; Percent Reporting Increases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOCISA156MSFRBNY              Current New Orders; Percent Reporting Increases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOCNNA156MNFRBNY              Current New Orders; Percent Reporting No Change for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOCNSA156MSFRBNY              Current New Orders; Percent Reporting No Change for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOFDINA066MNFRBNY             Future New Orders; Diffusion Index for New York                                                                            NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOFDISA066MSFRBNY             Future New Orders; Diffusion Index for New York                                                                            SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOFDNA156MNFRBNY              Future New Orders; Percent Expecting Decreases for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOFDSA156MSFRBNY              Future New Orders; Percent Expecting Decreases for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOFINA156MNFRBNY              Future New Orders; Percent Expecting Increases for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOFISA156MSFRBNY              Future New Orders; Percent Expecting Increases for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+NOFNNA156MNFRBNY              Future New Orders; Percent Expecting No Change for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+NOFNSA156MSFRBNY              Future New Orders; Percent Expecting No Change for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPCDINA066MNEMFRBNY           Current Prices Paid; Diffusion Index for New York                                                                          NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPCDISA066MSFRBNY             Current Prices Paid; Diffusion Index for New York                                                                          SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPCDNA156MNEMFRBNY            Current Prices Paid; Percent Reporting Decreases for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPCDSA156MSFRBNY              Current Prices Paid; Percent Reporting Decreases for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPCINA156MNEMFRBNY            Current Prices Paid; Percent Reporting Increases for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPCISA156MSFRBNY              Current Prices Paid; Percent Reporting Increases for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPCNNA156MNEMFRBNY            Current Prices Paid; Percent Reporting No Change for New York                                                            P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPCNSA156MSFRBNY              Current Prices Paid; Percent Reporting No Change for New York                                                            P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPFDINA066MNEMFRBNY           Future Prices Paid; Diffusion Index for New York                                                                           NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPFDISA066MSFRBNY             Future Prices Paid; Diffusion Index for New York                                                                           SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPFDNA156MNEMFRBNY            Future Prices Paid; Percent Expecting Decreases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPFDSA156MSFRBNY              Future Prices Paid; Percent Expecting Decreases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPFINA156MNEMFRBNY            Future Prices Paid; Percent Expecting Increases for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPFISA156MSFRBNY              Future Prices Paid; Percent Expecting Increases for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PPFNNA156MNEMFRBNY            Future Prices Paid; Percent Expecting No Change for New York                                                             P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PPFNSA156MSFRBNY              Future Prices Paid; Percent Expecting No Change for New York                                                             P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRCDINA066MNEMFRBNY           Current Prices Received; Diffusion Index for New York                                                                      NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRCDISA066MSFRBNY             Current Prices Received; Diffusion Index for New York                                                                      SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRCDNA156MNEMFRBNY            Current Prices Received; Percent Reporting Decreases for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRCDSA156MSFRBNY              Current Prices Received; Percent Reporting Decreases for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRCINA156MNEMFRBNY            Current Prices Received; Percent Reporting Increases for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRCISA156MSFRBNY              Current Prices Received; Percent Reporting Increases for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRCNNA156MNEMFRBNY            Current Prices Received; Percent Reporting No Change for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRCNSA156MSFRBNY              Current Prices Received; Percent Reporting No Change for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRFDINA066MNEMFRBNY           Future Prices Received; Diffusion Index for New York                                                                       NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRFDISA066MSFRBNY             Future Prices Received; Diffusion Index for New York                                                                       SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRFDNA156MNEMFRBNY            Future Prices Received; Percent Expecting Decreases for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRFDSA156MSFRBNY              Future Prices Received; Percent Expecting Decreases for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRFINA156MNEMFRBNY            Future Prices Received; Percent Expecting Increases for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRFISA156MSFRBNY              Future Prices Received; Percent Expecting Increases for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            
+PRFNNA156MNEMFRBNY            Future Prices Received; Percent Expecting No Change for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+PRFNSA156MSFRBNY              Future Prices Received; Percent Expecting No Change for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHCDINA066MNFRBNY             Current Shipments; Diffusion Index for New York                                                                            NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHCDISA066MSFRBNY             Current Shipments; Diffusion Index for New York                                                                            SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHCDNA156MNFRBNY              Current Shipments; Percent Reporting Decreases for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHCDSA156MSFRBNY              Current Shipments; Percent Reporting Decreases for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHCINA156MNFRBNY              Current Shipments; Percent Reporting Increases for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHCISA156MSFRBNY              Current Shipments; Percent Reporting Increases for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHCNNA156MNFRBNY              Current Shipments; Percent Reporting No Change for New York                                                              P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHCNSA156MSFRBNY              Current Shipments; Percent Reporting No Change for New York                                                              P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHFDINA066MNFRBNY             Future Shipments; Diffusion Index for New York                                                                             NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHFDISA066MSFRBNY             Future Shipments; Diffusion Index for New York                                                                             SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHFDNA156MNFRBNY              Future Shipments; Percent Expecting Decreases for New York                                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHFDSA156MSFRBNY              Future Shipments; Percent Expecting Decreases for New York                                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHFINA156MNFRBNY              Future Shipments; Percent Expecting Increases for New York                                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHFISA156MSFRBNY              Future Shipments; Percent Expecting Increases for New York                                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+SHFNNA156MNFRBNY              Future Shipments; Percent Expecting No Change for New York                                                               P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+SHFNSA156MSFRBNY              Future Shipments; Percent Expecting No Change for New York                                                               P SA   15-Dec-2022 01-Dec-2022             Monthly            
+TSFDINA066MNFRBNY             Future Technology Spending; Diffusion Index for New York                                                                   NSA  15-Dec-2022 01-Dec-2022             Monthly            
+TSFDISA066MSFRBNY             Future Technology Spending; Diffusion Index for New York                                                                   SA   15-Dec-2022 01-Dec-2022             Monthly            
+TSFDNA156MNFRBNY              Future Technology Spending; Percent Expecting Decreases for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+TSFDSA156MSFRBNY              Future Technology Spending; Percent Expecting Decreases for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+TSFINA156MNFRBNY              Future Technology Spending; Percent Expecting Increases for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+TSFISA156MSFRBNY              Future Technology Spending; Percent Expecting Increases for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+TSFNNA156MNFRBNY              Future Technology Spending; Percent Expecting No Change for New York                                                     P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+TSFNSA156MSFRBNY              Future Technology Spending; Percent Expecting No Change for New York                                                     P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOCDINA066MNFRBNY             Current Unfilled Orders; Diffusion Index for New York                                                                      NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOCDISA066MSFRBNY             Current Unfilled Orders; Diffusion Index for New York                                                                      SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOCDNA156MNFRBNY              Current Unfilled Orders; Percent Reporting Decreases for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOCDSA156MSFRBNY              Current Unfilled Orders; Percent Reporting Decreases for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOCINA156MNFRBNY              Current Unfilled Orders; Percent Reporting Increases for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOCISA156MSFRBNY              Current Unfilled Orders; Percent Reporting Increases for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOCNNA156MNFRBNY              Current Unfilled Orders; Percent Reporting No Change for New York                                                        P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOCNSA156MSFRBNY              Current Unfilled Orders; Percent Reporting No Change for New York                                                        P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOFDINA066MNFRBNY             Future Unfilled Orders; Diffusion Index for New York                                                                       NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOFDISA066MSFRBNY             Future Unfilled Orders; Diffusion Index for New York                                                                       SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOFDNA156MNFRBNY              Future Unfilled Orders; Percent Expecting Decreases for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOFDSA156MSFRBNY              Future Unfilled Orders; Percent Expecting Decreases for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOFINA156MNFRBNY              Future Unfilled Orders; Percent Expecting Increases for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOFISA156MSFRBNY              Future Unfilled Orders; Percent Expecting Increases for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            
+UOFNNA156MNFRBNY              Future Unfilled Orders; Percent Expecting No Change for New York                                                         P NSA  15-Dec-2022 01-Dec-2022             Monthly            
+UOFNSA156MSFRBNY              Future Unfilled Orders; Percent Expecting No Change for New York                                                         P SA   15-Dec-2022 01-Dec-2022             Monthly            

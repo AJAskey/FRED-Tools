@@ -1,3 +1,3 @@
-Id : 355  Minimum Wage Rates
-FEDMINFRMWG                   Federal Minimum Hourly Wage for Farm Workers for the United States                                                       NSA  30-Nov-2022  Monthly        
-FEDMINNFRWG                   Federal Minimum Hourly Wage for Nonfarm Workers for the United States                                                    NSA  30-Nov-2022  Monthly        
+Release  Id : 355	Minimum Wage Rates
+FEDMINFRMWG                   Federal Minimum Hourly Wage for Farm Workers for the United States                                                         NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+FEDMINNFRWG                   Federal Minimum Hourly Wage for Nonfarm Workers for the United States                                                      NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            

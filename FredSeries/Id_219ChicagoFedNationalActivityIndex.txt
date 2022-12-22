@@ -1,8 +1,8 @@
-Id : 219  Chicago Fed National Activity Index
-CANDH                         Chicago Fed National Activity Index: Personal Consumption and Housing                                                    NSA  21-Nov-2022  Monthly        
-CFNAI                         Chicago Fed National Activity Index                                                                                      NSA  21-Nov-2022  Monthly        
-CFNAIDIFF                     Chicago Fed National Activity Index: Diffusion Index                                                                     NSA  21-Nov-2022  Monthly        
-CFNAIMA3                      Chicago Fed National Activity Index: Three Month Moving Average                                                          NSA  21-Nov-2022  Monthly        
-EUANDH                        Chicago Fed National Activity Index: Employment, Unemployment and Hours                                                  NSA  21-Nov-2022  Monthly        
-PANDI                         Chicago Fed National Activity Index: Production and Income                                                               NSA  21-Nov-2022  Monthly        
-SOANDI                        Chicago Fed National Activity Index: Sales, Orders and Inventories                                                       NSA  21-Nov-2022  Monthly        
+Release  Id : 219	Chicago Fed National Activity Index
+CANDH                         Chicago Fed National Activity Index: Personal Consumption and Housing                                                      NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+CFNAI                         Chicago Fed National Activity Index                                                                                        NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+CFNAIDIFF                     Chicago Fed National Activity Index: Diffusion Index                                                                       NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+CFNAIMA3                      Chicago Fed National Activity Index: Three Month Moving Average                                                            NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+EUANDH                        Chicago Fed National Activity Index: Employment, Unemployment and Hours                                                    NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+PANDI                         Chicago Fed National Activity Index: Production and Income                                                                 NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            
+SOANDI                        Chicago Fed National Activity Index: Sales, Orders and Inventories                                                         NSA  21-Nov-2022 01-Oct-2022 15-Dec-2022 Monthly            

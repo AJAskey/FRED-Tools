@@ -1,5 +1,5 @@
-Id : 168  Swiss Foreign Exchange Intervention
-CHINTDCHFDM                   Swiss Intervention: Swiss National Bank Purchases of DEM against CHF (Millions of DEM)                                   NSA  30-Jun-2009  Daily, 7-Day   
-CHINTDCHFUSD                  Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD)                                   NSA  30-Jun-2009  Daily, 7-Day   
-CHINTDUSDDM                   Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD)                                   NSA  30-Jun-2009  Daily, 7-Day   
-CHINTDUSDJPY                  Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD)                                   NSA  30-Jun-2009  Daily, 7-Day   
+Release  Id : 168	Swiss Foreign Exchange Intervention
+CHINTDCHFDM                   Swiss Intervention: Swiss National Bank Purchases of DEM against CHF (Millions of DEM)                                   M NSA  30-Jun-2009 31-Dec-1998             Daily, 7-Day       
+CHINTDCHFUSD                  Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD)                                   M NSA  30-Jun-2009 05-Apr-2001             Daily, 7-Day       
+CHINTDUSDDM                   Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD)                                   M NSA  30-Jun-2009 31-Dec-1998             Daily, 7-Day       
+CHINTDUSDJPY                  Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD)                                   M NSA  30-Jun-2009 05-Apr-2001             Daily, 7-Day       

@@ -1,28 +1,28 @@
-Id : 62  Monetary Services Index (MSI)
-ALLMON                        M2 Plus Institutional Type Money Market Mutual Funds                                                                     SA   17-Jan-2014  Monthly        
-M1ADJ                         M1 Adjusted for Retail Sweeps                                                                                            SA   17-Jan-2014  Monthly        
-MSIALLA                       Monetary Services Index: ALL Assets (alternative)                                                                        SA   17-Jan-2014  Monthly        
-MSIALLP                       Monetary Services Index: ALL Assets (preferred)                                                                          SA   17-Jan-2014  Monthly        
-MSIM1A                        Monetary Services Index: M1 (alternative)                                                                                SA   17-Jan-2014  Monthly        
-MSIM1P                        Monetary Services Index: M1 (preferred)                                                                                  SA   17-Jan-2014  Monthly        
-MSIM2                         Monetary Services Index: M2 (preferred)                                                                                  SA   17-Jan-2014  Monthly        
-MSIM2A                        Monetary Services Index: M2 (alternative)                                                                                SA   17-Jan-2014  Monthly        
-MSIM2DS                       Monetary Services Index: M2 (DISCONTINUED)                                                                               SA   20-Sep-2004  Monthly        
-MSIM2MA                       Monetary Services Index: M2M (alternative)                                                                               SA   17-Jan-2014  Monthly        
-MSIM2MP                       Monetary Services Index: M2M (preferred)                                                                                 SA   17-Jan-2014  Monthly        
-MSIM3A                        Monetary Services Index: M3 (alternative) (DISCONTINUED)                                                                 SA   20-Jun-2013  Monthly        
-MSIM3P                        Monetary Services Index: M3 (preferred) (DISCONTINUED)                                                                   SA   17-May-2013  Monthly        
-MSIMZMA                       Monetary Services Index: MZM (alternative)                                                                               SA   17-Jan-2014  Monthly        
-MSIMZMP                       Monetary Services Index: MZM (preferred)                                                                                 SA   17-Jan-2014  Monthly        
-OCALLA                        Real User Cost Index of MSI-ALL Assets (alternative)                                                                     NSA  17-Jan-2014  Monthly        
-OCALLP                        Real User Cost Index of MSI-ALL Assets (preferred)                                                                       NSA  17-Jan-2014  Monthly        
-OCM1A                         Real User Cost Index of MSI-M1 (alternative)                                                                             NSA  17-Jan-2014  Monthly        
-OCM1P                         Real User Cost Index of MSI-M1 (preferred)                                                                               NSA  17-Jan-2014  Monthly        
-OCM2A                         Real User Cost Index of MSI-M2 (alternative)                                                                             NSA  17-Jan-2014  Monthly        
-OCM2MA                        Real User Cost Index of MSI-M2M (alternative)                                                                            NSA  17-Jan-2014  Monthly        
-OCM2MP                        Real User Cost Index of MSI-M2M (preferred)                                                                              NSA  17-Jan-2014  Monthly        
-OCM2P                         Real User Cost Index of MSI-M2 (preferred)                                                                               NSA  17-Jan-2014  Monthly        
-OCM3A                         Real User Cost Index of MSI-M3 (alternative) (DISCONTINUED)                                                              NSA  20-Jun-2013  Monthly        
-OCM3P                         Real User Cost Index of MSI-M3 (preferred) (DISCONTINUED)                                                                NSA  18-Sep-2012  Monthly        
-OCMZMA                        Real User Cost Index of MSI-MZM (alternative)                                                                            NSA  17-Jan-2014  Monthly        
-OCMZMP                        Real User Cost Index of MSI-MZM (preferred)                                                                              NSA  17-Jan-2014  Monthly        
+Release  Id : 62	Monetary Services Index (MSI)
+ALLMON                        M2 Plus Institutional Type Money Market Mutual Funds                                                                     B SA   17-Jan-2014 01-Dec-2013             Monthly            
+M1ADJ                         M1 Adjusted for Retail Sweeps                                                                                            B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIALLA                       Monetary Services Index: ALL Assets (alternative)                                                                        B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIALLP                       Monetary Services Index: ALL Assets (preferred)                                                                          B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM1A                        Monetary Services Index: M1 (alternative)                                                                                B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM1P                        Monetary Services Index: M1 (preferred)                                                                                  B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM2                         Monetary Services Index: M2 (preferred)                                                                                  B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM2A                        Monetary Services Index: M2 (alternative)                                                                                B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM2DS                       Monetary Services Index: M2 (DISCONTINUED)                                                                               B SA   20-Sep-2004 01-Apr-2004             Monthly            
+MSIM2MA                       Monetary Services Index: M2M (alternative)                                                                               B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM2MP                       Monetary Services Index: M2M (preferred)                                                                                 B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIM3A                        Monetary Services Index: M3 (alternative) (DISCONTINUED)                                                                 B SA   20-Jun-2013 01-Feb-2006             Monthly            
+MSIM3P                        Monetary Services Index: M3 (preferred) (DISCONTINUED)                                                                   B SA   17-May-2013 01-Feb-2006             Monthly            
+MSIMZMA                       Monetary Services Index: MZM (alternative)                                                                               B SA   17-Jan-2014 01-Dec-2013             Monthly            
+MSIMZMP                       Monetary Services Index: MZM (preferred)                                                                                 B SA   17-Jan-2014 01-Dec-2013             Monthly            
+OCALLA                        Real User Cost Index of MSI-ALL Assets (alternative)                                                                     P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCALLP                        Real User Cost Index of MSI-ALL Assets (preferred)                                                                       P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM1A                         Real User Cost Index of MSI-M1 (alternative)                                                                             P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM1P                         Real User Cost Index of MSI-M1 (preferred)                                                                               P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM2A                         Real User Cost Index of MSI-M2 (alternative)                                                                             P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM2MA                        Real User Cost Index of MSI-M2M (alternative)                                                                            P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM2MP                        Real User Cost Index of MSI-M2M (preferred)                                                                              P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM2P                         Real User Cost Index of MSI-M2 (preferred)                                                                               P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCM3A                         Real User Cost Index of MSI-M3 (alternative) (DISCONTINUED)                                                              P NSA  20-Jun-2013 01-Feb-2006             Monthly            
+OCM3P                         Real User Cost Index of MSI-M3 (preferred) (DISCONTINUED)                                                                P NSA  18-Sep-2012 01-Feb-2006             Monthly            
+OCMZMA                        Real User Cost Index of MSI-MZM (alternative)                                                                            P NSA  17-Jan-2014 01-Dec-2013             Monthly            
+OCMZMP                        Real User Cost Index of MSI-MZM (preferred)                                                                              P NSA  17-Jan-2014 01-Dec-2013             Monthly            

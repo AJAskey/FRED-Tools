@@ -1,87 +1,87 @@
-Id : 9  Advance Monthly Sales for Retail and Food Services
-MARTSMPCSM44000USN            Advance Retail Sales: Retail Trade                                                                                       NSA  16-Nov-2022  Monthly        
-MARTSMPCSM44000USS            Advance Retail Sales: Retail Trade                                                                                       SA   16-Nov-2022  Monthly        
-MARTSMPCSM441USN              Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    NSA  16-Nov-2022  Monthly        
-MARTSMPCSM441USS              Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    SA   16-Nov-2022  Monthly        
-MARTSMPCSM441XUSN             Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               NSA  16-Nov-2022  Monthly        
-MARTSMPCSM441XUSS             Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               SA   16-Nov-2022  Monthly        
-MARTSMPCSM442USN              Advance Retail Sales: Furniture and Home Furnishings Stores                                                              NSA  16-Nov-2022  Monthly        
-MARTSMPCSM442USS              Advance Retail Sales: Furniture and Home Furnishings Stores                                                              SA   16-Nov-2022  Monthly        
-MARTSMPCSM443USN              Advance Retail Sales: Electronics and Appliance Stores                                                                   NSA  16-Nov-2022  Monthly        
-MARTSMPCSM443USS              Advance Retail Sales: Electronics and Appliance Stores                                                                   SA   16-Nov-2022  Monthly        
-MARTSMPCSM444USN              Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          NSA  16-Nov-2022  Monthly        
-MARTSMPCSM444USS              Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          SA   16-Nov-2022  Monthly        
-MARTSMPCSM4451USN             Advance Retail Sales: Grocery Stores                                                                                     NSA  16-Nov-2022  Monthly        
-MARTSMPCSM4451USS             Advance Retail Sales: Grocery Stores                                                                                     SA   16-Nov-2022  Monthly        
-MARTSMPCSM445USN              Advance Retail Sales: Food and Beverage Stores                                                                           NSA  16-Nov-2022  Monthly        
-MARTSMPCSM445USS              Advance Retail Sales: Food and Beverage Stores                                                                           SA   16-Nov-2022  Monthly        
-MARTSMPCSM446USN              Advance Retail Sales: Health and Personal Care Stores                                                                    NSA  16-Nov-2022  Monthly        
-MARTSMPCSM446USS              Advance Retail Sales: Health and Personal Care Stores                                                                    SA   16-Nov-2022  Monthly        
-MARTSMPCSM447USN              Advance Retail Sales: Gasoline Stations                                                                                  NSA  16-Nov-2022  Monthly        
-MARTSMPCSM447USS              Advance Retail Sales: Gasoline Stations                                                                                  SA   16-Nov-2022  Monthly        
-MARTSMPCSM448USN              Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             NSA  16-Nov-2022  Monthly        
-MARTSMPCSM448USS              Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             SA   16-Nov-2022  Monthly        
-MARTSMPCSM44W72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    NSA  16-Nov-2022  Monthly        
-MARTSMPCSM44W72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    SA   16-Nov-2022  Monthly        
-MARTSMPCSM44X72USN            Advance Retail Sales: Retail Trade and Food Services                                                                     NSA  16-Nov-2022  Monthly        
-MARTSMPCSM44X72USS            Advance Retail Sales: Retail Trade and Food Services                                                                     SA   16-Nov-2022  Monthly        
-MARTSMPCSM44Y72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          NSA  16-Nov-2022  Monthly        
-MARTSMPCSM44Y72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          SA   16-Nov-2022  Monthly        
-MARTSMPCSM44Z72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        NSA  16-Nov-2022  Monthly        
-MARTSMPCSM44Z72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        SA   16-Nov-2022  Monthly        
-MARTSMPCSM451USN              Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         NSA  16-Nov-2022  Monthly        
-MARTSMPCSM451USS              Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         SA   16-Nov-2022  Monthly        
-MARTSMPCSM4521EUSN            Advance Retail Sales: Department Stores                                                                                  NSA  16-Nov-2022  Monthly        
-MARTSMPCSM4521EUSS            Advance Retail Sales: Department Stores                                                                                  SA   16-Nov-2022  Monthly        
-MARTSMPCSM452USN              Advance Retail Sales: General Merchandise Stores                                                                         NSA  16-Nov-2022  Monthly        
-MARTSMPCSM452USS              Advance Retail Sales: General Merchandise Stores                                                                         SA   16-Nov-2022  Monthly        
-MARTSMPCSM453USN              Advance Retail Sales: Miscellaneous Store Retailers                                                                      NSA  16-Nov-2022  Monthly        
-MARTSMPCSM453USS              Advance Retail Sales: Miscellaneous Store Retailers                                                                      SA   16-Nov-2022  Monthly        
-MARTSMPCSM454USN              Advance Retail Sales: Nonstore Retailers                                                                                 NSA  16-Nov-2022  Monthly        
-MARTSMPCSM454USS              Advance Retail Sales: Nonstore Retailers                                                                                 SA   16-Nov-2022  Monthly        
-MARTSMPCSM722USN              Advance Retail Sales: Food Services and Drinking Places                                                                  NSA  16-Nov-2022  Monthly        
-MARTSMPCSM722USS              Advance Retail Sales: Food Services and Drinking Places                                                                  SA   16-Nov-2022  Monthly        
-MARTSSM44W72USN               Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    NSA  16-Nov-2022  Monthly        
-MARTSSM44W72USS               Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    SA   16-Nov-2022  Monthly        
-MARTSSM44Z72USN               Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        NSA  16-Nov-2022  Monthly        
-MARTSSM44Z72USS               Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        SA   16-Nov-2022  Monthly        
-RETAIL                        Retail Sales (DISCONTINUED)                                                                                              SA   30-Sep-2005  Monthly        
-RETAILNS                      Retail Sales (DISCONTINUED)                                                                                              NSA  30-Sep-2005  Monthly        
-RSAFS                         Advance Retail Sales: Retail Trade and Food Services                                                                     SA   16-Nov-2022  Monthly        
-RSAFSNA                       Advance Retail Sales: Retail Trade and Food Services                                                                     NSA  16-Nov-2022  Monthly        
-RSAOMV                        Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               SA   16-Nov-2022  Monthly        
-RSAOMVN                       Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               NSA  16-Nov-2022  Monthly        
-RSBMGESD                      Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          SA   16-Nov-2022  Monthly        
-RSBMGESDN                     Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          NSA  16-Nov-2022  Monthly        
-RSCCAS                        Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             SA   16-Nov-2022  Monthly        
-RSCCASN                       Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             NSA  16-Nov-2022  Monthly        
-RSDBS                         Advance Retail Sales: Food and Beverage Stores                                                                           SA   16-Nov-2022  Monthly        
-RSDBSN                        Advance Retail Sales: Food and Beverage Stores                                                                           NSA  16-Nov-2022  Monthly        
-RSDSELD                       Advance Retail Sales: Department Stores                                                                                  SA   16-Nov-2022  Monthly        
-RSDSELDN                      Advance Retail Sales: Department Stores                                                                                  NSA  16-Nov-2022  Monthly        
-RSEAS                         Advance Retail Sales: Electronics and Appliance Stores                                                                   SA   16-Nov-2022  Monthly        
-RSEASN                        Advance Retail Sales: Electronics and Appliance Stores                                                                   NSA  16-Nov-2022  Monthly        
-RSFHFS                        Advance Retail Sales: Furniture and Home Furnishings Stores                                                              SA   16-Nov-2022  Monthly        
-RSFHFSN                       Advance Retail Sales: Furniture and Home Furnishings Stores                                                              NSA  16-Nov-2022  Monthly        
-RSFSDP                        Advance Retail Sales: Food Services and Drinking Places                                                                  SA   16-Nov-2022  Monthly        
-RSFSDPN                       Advance Retail Sales: Food Services and Drinking Places                                                                  NSA  16-Nov-2022  Monthly        
-RSFSXMV                       Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          SA   16-Nov-2022  Monthly        
-RSFSXMVN                      Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          NSA  16-Nov-2022  Monthly        
-RSGASS                        Advance Retail Sales: Gasoline Stations                                                                                  SA   16-Nov-2022  Monthly        
-RSGASSN                       Advance Retail Sales: Gasoline Stations                                                                                  NSA  16-Nov-2022  Monthly        
-RSGCS                         Advance Retail Sales: Grocery Stores                                                                                     SA   16-Nov-2022  Monthly        
-RSGCSN                        Advance Retail Sales: Grocery Stores                                                                                     NSA  16-Nov-2022  Monthly        
-RSGMS                         Advance Retail Sales: General Merchandise Stores                                                                         SA   16-Nov-2022  Monthly        
-RSGMSN                        Advance Retail Sales: General Merchandise Stores                                                                         NSA  16-Nov-2022  Monthly        
-RSHPCS                        Advance Retail Sales: Health and Personal Care Stores                                                                    SA   16-Nov-2022  Monthly        
-RSHPCSN                       Advance Retail Sales: Health and Personal Care Stores                                                                    NSA  16-Nov-2022  Monthly        
-RSMSR                         Advance Retail Sales: Miscellaneous Store Retailers                                                                      SA   16-Nov-2022  Monthly        
-RSMSRN                        Advance Retail Sales: Miscellaneous Store Retailers                                                                      NSA  16-Nov-2022  Monthly        
-RSMVPD                        Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    SA   16-Nov-2022  Monthly        
-RSMVPDN                       Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    NSA  16-Nov-2022  Monthly        
-RSNSR                         Advance Retail Sales: Nonstore Retailers                                                                                 SA   16-Nov-2022  Monthly        
-RSNSRN                        Advance Retail Sales: Nonstore Retailers                                                                                 NSA  16-Nov-2022  Monthly        
-RSSGHBMS                      Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         SA   16-Nov-2022  Monthly        
-RSSGHBMSN                     Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         NSA  16-Nov-2022  Monthly        
-RSXFS                         Advance Retail Sales: Retail Trade                                                                                       SA   16-Nov-2022  Monthly        
-RSXFSN                        Advance Retail Sales: Retail Trade                                                                                       NSA  16-Nov-2022  Monthly        
+Release  Id : 9	Advance Monthly Sales for Retail and Food Services
+MARTSMPCSM44000USN            Advance Retail Sales: Retail Trade                                                                                       P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM44000USS            Advance Retail Sales: Retail Trade                                                                                       P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM441USN              Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM441USS              Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM441XUSN             Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM441XUSS             Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM442USN              Advance Retail Sales: Furniture and Home Furnishings Stores                                                              P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM442USS              Advance Retail Sales: Furniture and Home Furnishings Stores                                                              P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM443USN              Advance Retail Sales: Electronics and Appliance Stores                                                                   P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM443USS              Advance Retail Sales: Electronics and Appliance Stores                                                                   P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM444USN              Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM444USS              Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM4451USN             Advance Retail Sales: Grocery Stores                                                                                     P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM4451USS             Advance Retail Sales: Grocery Stores                                                                                     P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM445USN              Advance Retail Sales: Food and Beverage Stores                                                                           P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM445USS              Advance Retail Sales: Food and Beverage Stores                                                                           P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM446USN              Advance Retail Sales: Health and Personal Care Stores                                                                    P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM446USS              Advance Retail Sales: Health and Personal Care Stores                                                                    P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM447USN              Advance Retail Sales: Gasoline Stations                                                                                  P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM447USS              Advance Retail Sales: Gasoline Stations                                                                                  P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM448USN              Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM448USS              Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM44W72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM44W72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM44X72USN            Advance Retail Sales: Retail Trade and Food Services                                                                     P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM44X72USS            Advance Retail Sales: Retail Trade and Food Services                                                                     P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM44Y72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM44Y72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM44Z72USN            Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM44Z72USS            Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM451USN              Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM451USS              Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM4521EUSN            Advance Retail Sales: Department Stores                                                                                  P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM4521EUSS            Advance Retail Sales: Department Stores                                                                                  P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM452USN              Advance Retail Sales: General Merchandise Stores                                                                         P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM452USS              Advance Retail Sales: General Merchandise Stores                                                                         P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM453USN              Advance Retail Sales: Miscellaneous Store Retailers                                                                      P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM453USS              Advance Retail Sales: Miscellaneous Store Retailers                                                                      P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM454USN              Advance Retail Sales: Nonstore Retailers                                                                                 P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM454USS              Advance Retail Sales: Nonstore Retailers                                                                                 P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSMPCSM722USN              Advance Retail Sales: Food Services and Drinking Places                                                                  P NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSMPCSM722USS              Advance Retail Sales: Food Services and Drinking Places                                                                  P SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSSM44W72USN               Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSSM44W72USS               Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers and Gasoline Stations    M SA   15-Dec-2022 01-Nov-2022             Monthly            
+MARTSSM44Z72USN               Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+MARTSSM44Z72USS               Advance Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations                                        M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RETAIL                        Retail Sales (DISCONTINUED)                                                                                              M SA   30-Sep-2005 01-Apr-2001             Monthly            
+RETAILNS                      Retail Sales (DISCONTINUED)                                                                                              M NSA  30-Sep-2005 01-Apr-2001             Monthly            
+RSAFS                         Advance Retail Sales: Retail Trade and Food Services                                                                     M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSAFSNA                       Advance Retail Sales: Retail Trade and Food Services                                                                     M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSAOMV                        Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSAOMVN                       Advance Retail Sales: Auto and Other Motor Vehicle Dealers                                                               M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSBMGESD                      Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSBMGESDN                     Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers                                          M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSCCAS                        Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSCCASN                       Advance Retail Sales: Clothing and Clothing Accessory Stores                                                             M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSDBS                         Advance Retail Sales: Food and Beverage Stores                                                                           M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSDBSN                        Advance Retail Sales: Food and Beverage Stores                                                                           M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSDSELD                       Advance Retail Sales: Department Stores                                                                                  M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSDSELDN                      Advance Retail Sales: Department Stores                                                                                  M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSEAS                         Advance Retail Sales: Electronics and Appliance Stores                                                                   M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSEASN                        Advance Retail Sales: Electronics and Appliance Stores                                                                   M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSFHFS                        Advance Retail Sales: Furniture and Home Furnishings Stores                                                              M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSFHFSN                       Advance Retail Sales: Furniture and Home Furnishings Stores                                                              M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSFSDP                        Advance Retail Sales: Food Services and Drinking Places                                                                  M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSFSDPN                       Advance Retail Sales: Food Services and Drinking Places                                                                  M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSFSXMV                       Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSFSXMVN                      Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers                          M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSGASS                        Advance Retail Sales: Gasoline Stations                                                                                  M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSGASSN                       Advance Retail Sales: Gasoline Stations                                                                                  M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSGCS                         Advance Retail Sales: Grocery Stores                                                                                     M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSGCSN                        Advance Retail Sales: Grocery Stores                                                                                     M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSGMS                         Advance Retail Sales: General Merchandise Stores                                                                         M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSGMSN                        Advance Retail Sales: General Merchandise Stores                                                                         M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSHPCS                        Advance Retail Sales: Health and Personal Care Stores                                                                    M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSHPCSN                       Advance Retail Sales: Health and Personal Care Stores                                                                    M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSMSR                         Advance Retail Sales: Miscellaneous Store Retailers                                                                      M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSMSRN                        Advance Retail Sales: Miscellaneous Store Retailers                                                                      M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSMVPD                        Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSMVPDN                       Advance Retail Sales: Motor Vehicle and Parts Dealers                                                                    M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSNSR                         Advance Retail Sales: Nonstore Retailers                                                                                 M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSNSRN                        Advance Retail Sales: Nonstore Retailers                                                                                 M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSSGHBMS                      Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSSGHBMSN                     Advance Retail Sales: Sporting Goods, Hobby, Musical Instrument, and Book Stores                                         M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            
+RSXFS                         Advance Retail Sales: Retail Trade                                                                                       M SA   15-Dec-2022 01-Nov-2022             Monthly            
+RSXFSN                        Advance Retail Sales: Retail Trade                                                                                       M NSA  15-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            

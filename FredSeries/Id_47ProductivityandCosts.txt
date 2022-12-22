@@ -1,283 +1,283 @@
-Id : 47  Productivity and Costs
-COMPMS                        Manufacturing Sector: Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-COMPNFB                       Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-COMPRMS                       Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-COMPRNFB                      Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-HCOMPBS                       Business Sector: Hourly Compensation for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-HOABS                         Business Sector: Hours Worked for All Employed Persons                                                                   SA   07-Dec-2022  Quarterly      
-HOAMS                         Manufacturing Sector: Hours Worked for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-HOANBS                        Nonfarm Business Sector: Hours Worked for All Employed Persons                                                           SA   07-Dec-2022  Quarterly      
-IPDBS                         Business Sector: Implicit Price Deflator for All Employed Persons                                                        SA   07-Dec-2022  Quarterly      
-IPDNBS                        Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                SA   07-Dec-2022  Quarterly      
-OPHMFG                        Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                      SA   07-Dec-2022  Quarterly      
-OPHNFB                        Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-OPHPBS                        Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-OUTBS                         Business Sector: Output for All Employed Persons                                                                         SA   07-Dec-2022  Quarterly      
-OUTMS                         Manufacturing Sector: Output for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-OUTNFB                        Nonfarm Business Sector: Output for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS30006011                   Manufacturing Sector: Employment for All Employed Persons                                                                SA   07-Dec-2022  Quarterly      
-PRS30006012                   Manufacturing Sector: Employment for All Employed Persons                                                                SA   07-Dec-2022  Quarterly      
-PRS30006013                   Manufacturing Sector: Employment for All Employed Persons                                                                SA   07-Dec-2022  Quarterly      
-PRS30006021                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                               SA   03-Nov-2022  Quarterly      
-PRS30006022                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS30006023                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS30006031                   Manufacturing Sector: Hours Worked for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS30006032                   Manufacturing Sector: Hours Worked for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS30006041                   Manufacturing Sector: Output for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-PRS30006042                   Manufacturing Sector: Output for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-PRS30006051                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                     SA   07-Dec-2022  Annual         
-PRS30006052                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                     SA   07-Dec-2022  Annual         
-PRS30006053                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                     SA   07-Dec-2022  Annual         
-PRS30006061                   Manufacturing Sector: Compensation for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS30006062                   Manufacturing Sector: Compensation for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS30006063                   Manufacturing Sector: Compensation for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS30006081                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Annual         
-PRS30006082                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Annual         
-PRS30006083                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Annual         
-PRS30006091                   Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                      SA   07-Dec-2022  Quarterly      
-PRS30006092                   Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                      SA   07-Dec-2022  Quarterly      
-PRS30006101                   Manufacturing Sector: Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS30006102                   Manufacturing Sector: Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS30006111                   Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-PRS30006112                   Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-PRS30006131                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                    SA   07-Dec-2022  Annual         
-PRS30006132                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                    SA   07-Dec-2022  Annual         
-PRS30006133                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                    SA   07-Dec-2022  Annual         
-PRS30006141                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                   SA   07-Dec-2022  Annual         
-PRS30006142                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                   SA   07-Dec-2022  Annual         
-PRS30006143                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                   SA   07-Dec-2022  Annual         
-PRS30006151                   Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS30006152                   Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS30006161                   Manufacturing Sector: Output per Job for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS30006162                   Manufacturing Sector: Output per Job for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS30006163                   Manufacturing Sector: Output per Job for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS30006171                   Manufacturing Sector: Labor Share for All Employed Persons                                                               SA   07-Dec-2022  Annual         
-PRS30006172                   Manufacturing Sector: Labor Share for All Employed Persons                                                               SA   07-Dec-2022  Annual         
-PRS30006173                   Manufacturing Sector: Labor Share for All Employed Persons                                                               SA   07-Dec-2022  Annual         
-PRS31006011                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
-PRS31006012                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
-PRS31006013                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
-PRS31006021                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS31006022                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS31006023                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS31006031                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006032                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006033                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006041                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                     SA   07-Dec-2022  Quarterly      
-PRS31006042                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                     SA   07-Dec-2022  Quarterly      
-PRS31006043                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                     SA   07-Dec-2022  Quarterly      
-PRS31006051                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                      SA   07-Dec-2022  Annual         
-PRS31006052                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                      SA   07-Dec-2022  Annual         
-PRS31006053                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                      SA   07-Dec-2022  Annual         
-PRS31006061                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006062                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006063                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS31006081                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                          SA   07-Dec-2022  Annual         
-PRS31006082                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                          SA   07-Dec-2022  Annual         
-PRS31006083                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                          SA   07-Dec-2022  Annual         
-PRS31006091                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                       SA   07-Dec-2022  Quarterly      
-PRS31006092                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                       SA   07-Dec-2022  Quarterly      
-PRS31006093                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                       SA   07-Dec-2022  Quarterly      
-PRS31006101                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS31006102                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS31006103                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS31006111                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-PRS31006112                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-PRS31006113                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-PRS31006131                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                     SA   07-Dec-2022  Annual         
-PRS31006132                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                     SA   07-Dec-2022  Annual         
-PRS31006133                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                     SA   07-Dec-2022  Annual         
-PRS31006141                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                    SA   07-Dec-2022  Annual         
-PRS31006142                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                    SA   07-Dec-2022  Annual         
-PRS31006143                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                    SA   07-Dec-2022  Annual         
-PRS31006151                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-PRS31006152                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-PRS31006153                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-PRS31006161                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                             SA   07-Dec-2022  Quarterly      
-PRS31006162                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                             SA   07-Dec-2022  Quarterly      
-PRS31006163                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                             SA   07-Dec-2022  Quarterly      
-PRS31006171                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                SA   07-Dec-2022  Annual         
-PRS31006172                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                SA   07-Dec-2022  Annual         
-PRS31006173                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                SA   07-Dec-2022  Annual         
-PRS32006011                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                              SA   03-Nov-2022  Quarterly      
-PRS32006012                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                              SA   07-Dec-2022  Quarterly      
-PRS32006013                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                              SA   07-Dec-2022  Quarterly      
-PRS32006021                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                             SA   03-Nov-2022  Quarterly      
-PRS32006022                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                             SA   07-Dec-2022  Quarterly      
-PRS32006023                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                             SA   07-Dec-2022  Quarterly      
-PRS32006031                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                            SA   03-Nov-2022  Quarterly      
-PRS32006032                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS32006033                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS32006041                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS32006042                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS32006043                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS32006051                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                   SA   07-Dec-2022  Annual         
-PRS32006052                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                   SA   07-Dec-2022  Annual         
-PRS32006053                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                   SA   07-Dec-2022  Annual         
-PRS32006061                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS32006062                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS32006063                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS32006081                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                       SA   07-Dec-2022  Annual         
-PRS32006082                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                       SA   07-Dec-2022  Annual         
-PRS32006083                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                       SA   07-Dec-2022  Annual         
-PRS32006091                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                    SA   07-Dec-2022  Quarterly      
-PRS32006092                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                    SA   07-Dec-2022  Quarterly      
-PRS32006093                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                    SA   07-Dec-2022  Quarterly      
-PRS32006101                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                     SA   07-Dec-2022  Quarterly      
-PRS32006102                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                     SA   07-Dec-2022  Quarterly      
-PRS32006103                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                     SA   07-Dec-2022  Quarterly      
-PRS32006111                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS32006112                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS32006113                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                        SA   07-Dec-2022  Quarterly      
-PRS32006131                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                  SA   07-Dec-2022  Annual         
-PRS32006132                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                  SA   07-Dec-2022  Annual         
-PRS32006133                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                  SA   07-Dec-2022  Annual         
-PRS32006141                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                 SA   07-Dec-2022  Annual         
-PRS32006142                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                 SA   07-Dec-2022  Annual         
-PRS32006143                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                 SA   07-Dec-2022  Annual         
-PRS32006151                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS32006152                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS32006153                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                SA   07-Dec-2022  Quarterly      
-PRS32006161                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                          SA   07-Dec-2022  Quarterly      
-PRS32006162                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                          SA   07-Dec-2022  Quarterly      
-PRS32006163                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                          SA   07-Dec-2022  Quarterly      
-PRS32006171                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                             SA   07-Dec-2022  Annual         
-PRS32006172                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                             SA   07-Dec-2022  Annual         
-PRS32006173                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                             SA   07-Dec-2022  Annual         
-PRS84006011                   Business Sector: Employment for All Employed Persons                                                                     SA   03-Nov-2022  Quarterly      
-PRS84006012                   Business Sector: Employment for All Employed Persons                                                                     SA   03-Nov-2022  Quarterly      
-PRS84006013                   Business Sector: Employment for All Employed Persons                                                                     SA   07-Dec-2022  Quarterly      
-PRS84006021                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-PRS84006022                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-PRS84006023                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-PRS84006031                   Business Sector: Hours Worked for All Employed Persons                                                                   SA   03-Nov-2022  Quarterly      
-PRS84006032                   Business Sector: Hours Worked for All Employed Persons                                                                   SA   07-Dec-2022  Quarterly      
-PRS84006041                   Business Sector: Output for All Employed Persons                                                                         SA   07-Dec-2022  Quarterly      
-PRS84006042                   Business Sector: Output for All Employed Persons                                                                         SA   07-Dec-2022  Quarterly      
-PRS84006051                   Business Sector: Current Dollar Output for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-PRS84006052                   Business Sector: Current Dollar Output for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-PRS84006053                   Business Sector: Current Dollar Output for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-PRS84006061                   Business Sector: Compensation for All Employed Persons                                                                   SA   07-Dec-2022  Quarterly      
-PRS84006062                   Business Sector: Compensation for All Employed Persons                                                                   SA   07-Dec-2022  Quarterly      
-PRS84006063                   Business Sector: Compensation for All Employed Persons                                                                   SA   07-Dec-2022  Quarterly      
-PRS84006081                   Business Sector: Nonlabor Payments for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS84006082                   Business Sector: Nonlabor Payments for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS84006083                   Business Sector: Nonlabor Payments for All Employed Persons                                                              SA   07-Dec-2022  Quarterly      
-PRS84006091                   Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-PRS84006092                   Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                           SA   07-Dec-2022  Quarterly      
-PRS84006101                   Business Sector: Hourly Compensation for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS84006102                   Business Sector: Hourly Compensation for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS84006111                   Business Sector: Unit Labor Costs for All Employed Persons                                                               SA   07-Dec-2022  Quarterly      
-PRS84006112                   Business Sector: Unit Labor Costs for All Employed Persons                                                               SA   07-Dec-2022  Quarterly      
-PRS84006131                   Business Sector: Unit Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-PRS84006132                   Business Sector: Unit Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-PRS84006141                   Business Sector: Implicit Price Deflator for All Employed Persons                                                        SA   03-Nov-2022  Quarterly      
-PRS84006142                   Business Sector: Implicit Price Deflator for All Employed Persons                                                        SA   07-Dec-2022  Quarterly      
-PRS84006151                   Business Sector: Real Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS84006152                   Business Sector: Real Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS84006161                   Business Sector: Output per Job for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS84006162                   Business Sector: Output per Job for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS84006163                   Business Sector: Output per Job for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS84006171                   Business Sector: Labor Share for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-PRS84006172                   Business Sector: Labor Share for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-PRS84006173                   Business Sector: Labor Share for All Employed Persons                                                                    SA   07-Dec-2022  Quarterly      
-PRS85006011                   Nonfarm Business Sector: Employment for All Employed Persons                                                             SA   03-Nov-2022  Quarterly      
-PRS85006012                   Nonfarm Business Sector: Employment for All Employed Persons                                                             SA   07-Dec-2022  Quarterly      
-PRS85006013                   Nonfarm Business Sector: Employment for All Employed Persons                                                             SA   07-Dec-2022  Quarterly      
-PRS85006021                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS85006022                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS85006023                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                            SA   07-Dec-2022  Quarterly      
-PRS85006031                   Nonfarm Business Sector: Hours Worked for All Employed Persons                                                           SA   03-Nov-2022  Quarterly      
-PRS85006032                   Nonfarm Business Sector: Hours Worked for All Employed Persons                                                           SA   07-Dec-2022  Quarterly      
-PRS85006041                   Nonfarm Business Sector: Output for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS85006042                   Nonfarm Business Sector: Output for All Employed Persons                                                                 SA   07-Dec-2022  Quarterly      
-PRS85006051                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS85006052                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS85006053                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                  SA   07-Dec-2022  Quarterly      
-PRS85006061                   Nonfarm Business Sector: Compensation for All Employed Persons                                                           SA   07-Dec-2022  Quarterly      
-PRS85006062                   Nonfarm Business Sector: Compensation for All Employed Persons                                                           SA   07-Dec-2022  Quarterly      
-PRS85006063                   Nonfarm Business Sector: Compensation for All Employed Persons                                                           SA   07-Dec-2022  Quarterly      
-PRS85006081                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                      SA   07-Dec-2022  Quarterly      
-PRS85006082                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                      SA   07-Dec-2022  Quarterly      
-PRS85006083                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                      SA   07-Dec-2022  Quarterly      
-PRS85006091                   Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-PRS85006092                   Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                   SA   07-Dec-2022  Quarterly      
-PRS85006101                   Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-PRS85006102                   Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                    SA   07-Dec-2022  Quarterly      
-PRS85006111                   Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS85006112                   Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-PRS85006131                   Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
-PRS85006132                   Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
-PRS85006141                   Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                SA   07-Dec-2022  Quarterly      
-PRS85006142                   Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                SA   07-Dec-2022  Quarterly      
-PRS85006151                   Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS85006152                   Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                               SA   07-Dec-2022  Quarterly      
-PRS85006161                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-PRS85006162                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-PRS85006163                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-PRS85006171                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS85006172                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS85006173                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                            SA   07-Dec-2022  Quarterly      
-PRS88003011                   Nonfinancial Corporations Sector: Employment for Employees                                                               SA   07-Dec-2022  Quarterly      
-PRS88003012                   Nonfinancial Corporations Sector: Employment for Employees                                                               SA   07-Dec-2022  Quarterly      
-PRS88003013                   Nonfinancial Corporations Sector: Employment for Employees                                                               SA   07-Dec-2022  Quarterly      
-PRS88003021                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                              SA   07-Dec-2022  Quarterly      
-PRS88003022                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                              SA   07-Dec-2022  Quarterly      
-PRS88003023                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                              SA   07-Dec-2022  Quarterly      
-PRS88003031                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003032                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003033                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003041                   Nonfinancial Corporations Sector: Output for Employees                                                                   SA   07-Dec-2022  Quarterly      
-PRS88003042                   Nonfinancial Corporations Sector: Output for Employees                                                                   SA   07-Dec-2022  Quarterly      
-PRS88003043                   Nonfinancial Corporations Sector: Output for Employees                                                                   SA   07-Dec-2022  Quarterly      
-PRS88003051                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                    SA   07-Dec-2022  Quarterly      
-PRS88003052                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                    SA   07-Dec-2022  Quarterly      
-PRS88003053                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                    SA   07-Dec-2022  Quarterly      
-PRS88003061                   Nonfinancial Corporations Sector: Compensation for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003062                   Nonfinancial Corporations Sector: Compensation for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003063                   Nonfinancial Corporations Sector: Compensation for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003081                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                        SA   07-Dec-2022  Quarterly      
-PRS88003082                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                        SA   07-Dec-2022  Quarterly      
-PRS88003083                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                        SA   07-Dec-2022  Quarterly      
-PRS88003091                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                     SA   07-Dec-2022  Quarterly      
-PRS88003092                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                     SA   07-Dec-2022  Quarterly      
-PRS88003093                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                     SA   07-Dec-2022  Quarterly      
-PRS88003101                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003102                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003103                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003111                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-PRS88003112                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-PRS88003113                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-PRS88003121                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003122                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003123                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                      SA   07-Dec-2022  Quarterly      
-PRS88003131                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                   SA   07-Dec-2022  Quarterly      
-PRS88003132                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                   SA   07-Dec-2022  Quarterly      
-PRS88003133                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                   SA   07-Dec-2022  Quarterly      
-PRS88003141                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                  SA   07-Dec-2022  Quarterly      
-PRS88003142                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                  SA   07-Dec-2022  Quarterly      
-PRS88003143                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                  SA   07-Dec-2022  Quarterly      
-PRS88003151                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                 SA   07-Dec-2022  Quarterly      
-PRS88003152                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                 SA   07-Dec-2022  Quarterly      
-PRS88003153                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                 SA   07-Dec-2022  Quarterly      
-PRS88003161                   Nonfinancial Corporations Sector: Output per Job for Employees                                                           SA   07-Dec-2022  Quarterly      
-PRS88003162                   Nonfinancial Corporations Sector: Output per Job for Employees                                                           SA   07-Dec-2022  Quarterly      
-PRS88003163                   Nonfinancial Corporations Sector: Output per Job for Employees                                                           SA   07-Dec-2022  Quarterly      
-PRS88003171                   Nonfinancial Corporations Sector: Labor Share for Employees                                                              SA   07-Dec-2022  Quarterly      
-PRS88003172                   Nonfinancial Corporations Sector: Labor Share for Employees                                                              SA   07-Dec-2022  Quarterly      
-PRS88003173                   Nonfinancial Corporations Sector: Labor Share for Employees                                                              SA   07-Dec-2022  Quarterly      
-PRS88003181                   Nonfinancial Corporations Sector: Profits for Employees                                                                  SA   07-Dec-2022  Quarterly      
-PRS88003182                   Nonfinancial Corporations Sector: Profits for Employees                                                                  SA   07-Dec-2022  Quarterly      
-PRS88003183                   Nonfinancial Corporations Sector: Profits for Employees                                                                  SA   07-Dec-2022  Quarterly      
-PRS88003191                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003192                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003193                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                             SA   07-Dec-2022  Quarterly      
-PRS88003201                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-PRS88003202                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-PRS88003203                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                         SA   07-Dec-2022  Quarterly      
-RCPHBS                        Business Sector: Real Hourly Compensation for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-ULCBS                         Business Sector: Unit Labor Costs for All Employed Persons                                                               SA   07-Dec-2022  Quarterly      
-ULCMFG                        Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                          SA   07-Dec-2022  Quarterly      
-ULCNFB                        Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                       SA   07-Dec-2022  Quarterly      
-UNLPBS                        Business Sector: Unit Nonlabor Payments for All Employed Persons                                                         SA   07-Dec-2022  Quarterly      
-UNLPNBS                       Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                 SA   07-Dec-2022  Quarterly      
+Release  Id : 47	Productivity and Costs
+COMPMS                        Manufacturing Sector: Hourly Compensation for All Employed Persons                                                         SA   07-Dec-2022 01-Jul-2022             Quarterly          
+COMPNFB                       Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                      SA   07-Dec-2022 01-Jul-2022             Quarterly          
+COMPRMS                       Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                    SA   07-Dec-2022 01-Jul-2022             Quarterly          
+COMPRNFB                      Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+HCOMPBS                       Business Sector: Hourly Compensation for All Employed Persons                                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+HOABS                         Business Sector: Hours Worked for All Employed Persons                                                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+HOAMS                         Manufacturing Sector: Hours Worked for All Employed Persons                                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+HOANBS                        Nonfarm Business Sector: Hours Worked for All Employed Persons                                                             SA   07-Dec-2022 01-Jul-2022             Quarterly          
+IPDBS                         Business Sector: Implicit Price Deflator for All Employed Persons                                                          SA   07-Dec-2022 01-Jul-2022             Quarterly          
+IPDNBS                        Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                  SA   07-Dec-2022 01-Jul-2022             Quarterly          
+OPHMFG                        Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                        SA   07-Dec-2022 01-Jul-2022             Quarterly          
+OPHNFB                        Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+OPHPBS                        Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                             SA   07-Dec-2022 01-Jul-2022             Quarterly          
+OUTBS                         Business Sector: Output for All Employed Persons                                                                           SA   07-Dec-2022 01-Jul-2022             Quarterly          
+OUTMS                         Manufacturing Sector: Output for All Employed Persons                                                                      SA   07-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly          
+OUTNFB                        Nonfarm Business Sector: Output for All Employed Persons                                                                   SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006011                   Manufacturing Sector: Employment for All Employed Persons                                                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006012                   Manufacturing Sector: Employment for All Employed Persons                                                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006013                   Manufacturing Sector: Employment for All Employed Persons                                                                  SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006021                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                               P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS30006022                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006023                   Manufacturing Sector: Average Weekly Hours Worked for All Employed Persons                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006031                   Manufacturing Sector: Hours Worked for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006032                   Manufacturing Sector: Hours Worked for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006041                   Manufacturing Sector: Output for All Employed Persons                                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006042                   Manufacturing Sector: Output for All Employed Persons                                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006051                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                     P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006052                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                     P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006053                   Manufacturing Sector: Current Dollar Output for All Employed Persons                                                       SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006061                   Manufacturing Sector: Compensation for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006062                   Manufacturing Sector: Compensation for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006063                   Manufacturing Sector: Compensation for All Employed Persons                                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006081                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                         P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006082                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                         P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006083                   Manufacturing Sector: Nonlabor Payments for All Employed Persons                                                           SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006091                   Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006092                   Manufacturing Sector: Labor Productivity (Output per Hour) for All Employed Persons                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006101                   Manufacturing Sector: Hourly Compensation for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006102                   Manufacturing Sector: Hourly Compensation for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006111                   Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006112                   Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006131                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                    P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006132                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                    P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006133                   Manufacturing Sector: Unit Nonlabor Payments for All Employed Persons                                                      SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006141                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                   P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006142                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                   P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006143                   Manufacturing Sector: Implicit Price Deflator for All Employed Persons                                                     SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006151                   Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006152                   Manufacturing Sector: Real Hourly Compensation for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006161                   Manufacturing Sector: Output per Job for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006162                   Manufacturing Sector: Output per Job for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006163                   Manufacturing Sector: Output per Job for All Employed Persons                                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS30006171                   Manufacturing Sector: Labor Share for All Employed Persons                                                               P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006172                   Manufacturing Sector: Labor Share for All Employed Persons                                                               P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS30006173                   Manufacturing Sector: Labor Share for All Employed Persons                                                                 SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006011                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006012                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006013                   Manufacturing, Durable Goods Sector: Employment for All Employed Persons                                                   SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006021                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006022                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006023                   Manufacturing, Durable Goods Sector: Average Weekly Hours Worked for All Employed Persons                                  SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006031                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006032                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006033                   Manufacturing, Durable Goods Sector: Hours Worked for All Employed Persons                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006041                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006042                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006043                   Manufacturing, Durable Goods Sector: Output for All Employed Persons                                                       SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006051                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                      P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006052                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                      P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006053                   Manufacturing, Durable Goods Sector: Current Dollar Output for All Employed Persons                                        SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006061                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006062                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006063                   Manufacturing, Durable Goods Sector: Compensation for All Employed Persons                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006081                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                          P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006082                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                          P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006083                   Manufacturing, Durable Goods Sector: Nonlabor Payments for All Employed Persons                                            SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006091                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006092                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006093                   Manufacturing, Durable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                         SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006101                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006102                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006103                   Manufacturing, Durable Goods Sector: Hourly Compensation for All Employed Persons                                          SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006111                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006112                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006113                   Manufacturing, Durable Goods Sector: Unit Labor Costs for All Employed Persons                                             SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006131                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                     P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006132                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                     P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006133                   Manufacturing, Durable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                       SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006141                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                    P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006142                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                    P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006143                   Manufacturing, Durable Goods Sector: Implicit Price Deflator for All Employed Persons                                      SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006151                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006152                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006153                   Manufacturing, Durable Goods Sector: Real Hourly Compensation for All Employed Persons                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006161                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006162                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006163                   Manufacturing, Durable Goods Sector: Output per Job for All Employed Persons                                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS31006171                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006172                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS31006173                   Manufacturing, Durable Goods Sector: Labor Share for All Employed Persons                                                  SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006011                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                              P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS32006012                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006013                   Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006021                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                             P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS32006022                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006023                   Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006031                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                            P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS32006032                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006033                   Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006041                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006042                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006043                   Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                                    SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006051                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                   P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006052                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                   P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006053                   Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                                     SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006061                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006062                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006063                   Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006081                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                       P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006082                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                       P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006083                   Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                                         SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006091                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006092                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006093                   Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons                      SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006101                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006102                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006103                   Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                                       SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006111                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006112                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006113                   Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                          SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006131                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                  P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006132                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                  P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006133                   Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                                    SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006141                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                 P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006142                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                 P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006143                   Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                                   SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006151                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006152                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006153                   Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                                  SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006161                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006162                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006163                   Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                            SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS32006171                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                             P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006172                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                             P SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS32006173                   Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                               SA   07-Dec-2022 01-Jan-2020             Annual             
+PRS84006011                   Business Sector: Employment for All Employed Persons                                                                     P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS84006012                   Business Sector: Employment for All Employed Persons                                                                     P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS84006013                   Business Sector: Employment for All Employed Persons                                                                       SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006021                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006022                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006023                   Business Sector: Average Weekly Hours Worked for All Employed Persons                                                      SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006031                   Business Sector: Hours Worked for All Employed Persons                                                                   P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS84006032                   Business Sector: Hours Worked for All Employed Persons                                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006041                   Business Sector: Output for All Employed Persons                                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006042                   Business Sector: Output for All Employed Persons                                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006051                   Business Sector: Current Dollar Output for All Employed Persons                                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006052                   Business Sector: Current Dollar Output for All Employed Persons                                                          P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006053                   Business Sector: Current Dollar Output for All Employed Persons                                                            SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006061                   Business Sector: Compensation for All Employed Persons                                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006062                   Business Sector: Compensation for All Employed Persons                                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006063                   Business Sector: Compensation for All Employed Persons                                                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006081                   Business Sector: Nonlabor Payments for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006082                   Business Sector: Nonlabor Payments for All Employed Persons                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006083                   Business Sector: Nonlabor Payments for All Employed Persons                                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006091                   Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006092                   Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006101                   Business Sector: Hourly Compensation for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006102                   Business Sector: Hourly Compensation for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006111                   Business Sector: Unit Labor Costs for All Employed Persons                                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006112                   Business Sector: Unit Labor Costs for All Employed Persons                                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006131                   Business Sector: Unit Nonlabor Payments for All Employed Persons                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006132                   Business Sector: Unit Nonlabor Payments for All Employed Persons                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006141                   Business Sector: Implicit Price Deflator for All Employed Persons                                                        P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS84006142                   Business Sector: Implicit Price Deflator for All Employed Persons                                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006151                   Business Sector: Real Hourly Compensation for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006152                   Business Sector: Real Hourly Compensation for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006161                   Business Sector: Output per Job for All Employed Persons                                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006162                   Business Sector: Output per Job for All Employed Persons                                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006163                   Business Sector: Output per Job for All Employed Persons                                                                   SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006171                   Business Sector: Labor Share for All Employed Persons                                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006172                   Business Sector: Labor Share for All Employed Persons                                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS84006173                   Business Sector: Labor Share for All Employed Persons                                                                      SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006011                   Nonfarm Business Sector: Employment for All Employed Persons                                                             P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS85006012                   Nonfarm Business Sector: Employment for All Employed Persons                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006013                   Nonfarm Business Sector: Employment for All Employed Persons                                                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006021                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006022                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006023                   Nonfarm Business Sector: Average Weekly Hours Worked for All Employed Persons                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006031                   Nonfarm Business Sector: Hours Worked for All Employed Persons                                                           P SA   03-Nov-2022 01-Jul-2022             Quarterly          
+PRS85006032                   Nonfarm Business Sector: Hours Worked for All Employed Persons                                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006041                   Nonfarm Business Sector: Output for All Employed Persons                                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006042                   Nonfarm Business Sector: Output for All Employed Persons                                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006051                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006052                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006053                   Nonfarm Business Sector: Current Dollar Output for All Employed Persons                                                    SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006061                   Nonfarm Business Sector: Compensation for All Employed Persons                                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006062                   Nonfarm Business Sector: Compensation for All Employed Persons                                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006063                   Nonfarm Business Sector: Compensation for All Employed Persons                                                             SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006081                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006082                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006083                   Nonfarm Business Sector: Nonlabor Payments for All Employed Persons                                                        SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006091                   Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006092                   Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006101                   Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006102                   Nonfarm Business Sector: Hourly Compensation for All Employed Persons                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006111                   Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006112                   Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                       P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006131                   Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006132                   Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006141                   Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006142                   Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                                                P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006151                   Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006152                   Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006161                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006162                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006163                   Nonfarm Business Sector: Output per Job for All Employed Persons                                                           SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006171                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006172                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                            P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS85006173                   Nonfarm Business Sector: Labor Share for All Employed Persons                                                              SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003011                   Nonfinancial Corporations Sector: Employment for Employees                                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003012                   Nonfinancial Corporations Sector: Employment for Employees                                                               P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003013                   Nonfinancial Corporations Sector: Employment for Employees                                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003021                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003022                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003023                   Nonfinancial Corporations Sector: Average Weekly Hours Worked for Employees                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003031                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003032                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003033                   Nonfinancial Corporations Sector: Hours Worked for Employees                                                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003041                   Nonfinancial Corporations Sector: Output for Employees                                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003042                   Nonfinancial Corporations Sector: Output for Employees                                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003043                   Nonfinancial Corporations Sector: Output for Employees                                                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003051                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003052                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                    P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003053                   Nonfinancial Corporations Sector: Current Dollar Output for Employees                                                      SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003061                   Nonfinancial Corporations Sector: Compensation for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003062                   Nonfinancial Corporations Sector: Compensation for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003063                   Nonfinancial Corporations Sector: Compensation for Employees                                                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003081                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003082                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                        P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003083                   Nonfinancial Corporations Sector: Nonlabor Payments for Employees                                                          SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003091                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003092                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                     P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003093                   Nonfinancial Corporations Sector: Labor Productivity (Output per Hour) for Employees                                       SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003101                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003102                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003103                   Nonfinancial Corporations Sector: Hourly Compensation for Employees                                                        SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003111                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003112                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003113                   Nonfinancial Corporations Sector: Unit Labor Costs for Employees                                                           SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003121                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003122                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                      P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003123                   Nonfinancial Corporations Sector: Unit Nonlabor Costs for Employees                                                        SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003131                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003132                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                   P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003133                   Nonfinancial Corporations Sector: Unit Nonlabor Payments for Employees                                                     SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003141                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003142                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003143                   Nonfinancial Corporations Sector: Implicit Price Deflator for Employees                                                    SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003151                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003152                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                 P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003153                   Nonfinancial Corporations Sector: Real Hourly Compensation for Employees                                                   SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003161                   Nonfinancial Corporations Sector: Output per Job for Employees                                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003162                   Nonfinancial Corporations Sector: Output per Job for Employees                                                           P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003163                   Nonfinancial Corporations Sector: Output per Job for Employees                                                             SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003171                   Nonfinancial Corporations Sector: Labor Share for Employees                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003172                   Nonfinancial Corporations Sector: Labor Share for Employees                                                              P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003173                   Nonfinancial Corporations Sector: Labor Share for Employees                                                                SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003181                   Nonfinancial Corporations Sector: Profits for Employees                                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003182                   Nonfinancial Corporations Sector: Profits for Employees                                                                  P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003183                   Nonfinancial Corporations Sector: Profits for Employees                                                                    SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003191                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003192                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                             P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003193                   Nonfinancial Corporations Sector: Unit Profits for Employees                                                               SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003201                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003202                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                         P SA   07-Dec-2022 01-Jul-2022             Quarterly          
+PRS88003203                   Nonfinancial Corporations Sector: Total Unit Costs for Employees                                                           SA   07-Dec-2022 01-Jul-2022             Quarterly          
+RCPHBS                        Business Sector: Real Hourly Compensation for All Employed Persons                                                         SA   07-Dec-2022 01-Jul-2022             Quarterly          
+ULCBS                         Business Sector: Unit Labor Costs for All Employed Persons                                                                 SA   07-Dec-2022 01-Jul-2022             Quarterly          
+ULCMFG                        Manufacturing Sector: Unit Labor Costs for All Employed Persons                                                            SA   07-Dec-2022 01-Jul-2022             Quarterly          
+ULCNFB                        Nonfarm Business Sector: Unit Labor Costs for All Employed Persons                                                         SA   07-Dec-2022 01-Jul-2022             Quarterly          
+UNLPBS                        Business Sector: Unit Nonlabor Payments for All Employed Persons                                                           SA   07-Dec-2022 01-Jul-2022             Quarterly          
+UNLPNBS                       Nonfarm Business Sector: Unit Nonlabor Payments for All Employed Persons                                                   SA   07-Dec-2022 01-Jul-2022             Quarterly          

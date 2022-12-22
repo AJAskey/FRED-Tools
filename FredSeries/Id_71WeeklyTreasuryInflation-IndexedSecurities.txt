@@ -1,42 +1,42 @@
-Id : 71  Weekly Treasury Inflation-Indexed Securities
-WTP10J07                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                             NSA  08-Jan-2007  Weekly, Ending Friday
-WTP10J08                      10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                             NSA  14-Jan-2008  Weekly, Ending Friday
-WTP10J09                      10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                             NSA  12-Jan-2009  Weekly, Ending Friday
-WTP10J10                      10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                             NSA  01-Feb-2010  Weekly, Ending Friday
-WTP10J11                      10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                             NSA  18-Jan-2011  Weekly, Ending Friday
-WTP10J12                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                             NSA  17-Jan-2012  Weekly, Ending Friday
-WTP10J14                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                 NSA  21-Jan-2014  Weekly, Ending Friday
-WTP10J15                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                             NSA  26-Jan-2015  Weekly, Ending Friday
-WTP10J16                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                 NSA  19-Jan-2016  Weekly, Ending Friday
-WTP10J17                      10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                             NSA  17-Jan-2017  Weekly, Ending Friday
-WTP10J18                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                             NSA  16-Jan-2018  Weekly, Ending Friday
-WTP10J19                      10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                             NSA  14-Jan-2019  Weekly, Ending Friday
-WTP10J20                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                             NSA  20-Jan-2020  Weekly, Ending Friday
-WTP10J21                      10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP10L12                      10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                 NSA  16-Jul-2012  Weekly, Ending Friday
-WTP10L13                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                             NSA  15-Jul-2013  Weekly, Ending Friday
-WTP10L14                      10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                 NSA  14-Jul-2014  Weekly, Ending Friday
-WTP10L15                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                             NSA  19-Jan-2016  Weekly, Ending Friday
-WTP10L16                      10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                             NSA  18-Jul-2016  Weekly, Ending Friday
-WTP10L17                      10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                             NSA  17-Jul-2017  Weekly, Ending Friday
-WTP10L18                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                             NSA  16-Jul-2018  Weekly, Ending Friday
-WTP10L19                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                             NSA  15-Jul-2019  Weekly, Ending Friday
-WTP10L20                      10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                             NSA  13-Jul-2020  Weekly, Ending Friday
-WTP20J25                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP20J26                      20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026 (DISCONTINUED)                                                 NSA  10-Aug-2020  Weekly, Ending Friday
-WTP20J27                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP20J28                      20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP20J29                      20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP30A28                      30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP30A29                      30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP30F40                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP30F41                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041 (DISCONTINUED)                                             NSA  10-Aug-2020  Weekly, Ending Friday
-WTP3HA32                      30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032 (DISCONTINUED)                                         NSA  10-Aug-2020  Weekly, Ending Friday
-WTP5A10                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                     NSA  14-Apr-2010  Weekly, Ending Friday
-WTP5A11                       5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                              NSA  25-Apr-2011  Weekly, Ending Friday
-WTP5A12                       5-Year 2% Treasury Inflation-Indexed Note, Due 4/15/2012 (DISCONTINUED)                                                  NSA  16-Apr-2012  Weekly, Ending Friday
-WTP5A13                       5-Year 5/8% Treasury Inflation-Indexed Note, Due 4/15/2013 (DISCONTINUED)                                                NSA  15-Apr-2013  Weekly, Ending Friday
-WTP5A14                       5-Year 1-1/4% Treasury Inflation-Indexed Note, Due 4/15/2014 (DISCONTINUED)                                              NSA  14-Apr-2014  Weekly, Ending Friday
-WTP5A15                       5-Year 0-1/2% Treasury Inflation-Indexed Note, Due 4/15/2015 (DISCONTINUED)                                              NSA  20-Apr-2015  Weekly, Ending Friday
-WTP5A16                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2016 (DISCONTINUED)                                              NSA  18-Apr-2016  Weekly, Ending Friday
-WTP5L02                       5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                     NSA  27-Jul-2006  Weekly, Ending Friday
+Release  Id : 71	Weekly Treasury Inflation-Indexed Securities
+WTP10J07                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)                                             P NSA  08-Jan-2007 05-Jan-2007             Weekly, Ending Fri 
+WTP10J08                      10-Year 3-5/8% Treasury Inflation-Indexed Note, Due 1/15/2008 (DISCONTINUED)                                             P NSA  14-Jan-2008 11-Jan-2008             Weekly, Ending Fri 
+WTP10J09                      10-Year 3-7/8% Treasury Inflation-Indexed Note, Due 1/15/2009 (DISCONTINUED)                                             P NSA  12-Jan-2009 09-Jan-2009             Weekly, Ending Fri 
+WTP10J10                      10-Year 4-1/4% Treasury Inflation-Indexed Note, Due 1/15/2010 (DISCONTINUED)                                             P NSA  01-Feb-2010 15-Jan-2010             Weekly, Ending Fri 
+WTP10J11                      10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)                                             P NSA  18-Jan-2011 14-Jan-2011             Weekly, Ending Fri 
+WTP10J12                      10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2012 (DISCONTINUED)                                             P NSA  17-Jan-2012 13-Jan-2012             Weekly, Ending Fri 
+WTP10J14                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2014 (DISCONTINUED)                                                 P NSA  21-Jan-2014 17-Jan-2014             Weekly, Ending Fri 
+WTP10J15                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2015 (DISCONTINUED)                                             P NSA  26-Jan-2015 16-Jan-2015             Weekly, Ending Fri 
+WTP10J16                      10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)                                                 P NSA  19-Jan-2016 15-Jan-2016             Weekly, Ending Fri 
+WTP10J17                      10-Year 2-3/8% Treasury Inflation-Indexed Note, Due 1/15/2017 (DISCONTINUED)                                             P NSA  17-Jan-2017 13-Jan-2017             Weekly, Ending Fri 
+WTP10J18                      10-Year 1-5/8% Treasury Inflation-Indexed Note, Due 1/15/2018 (DISCONTINUED)                                             P NSA  16-Jan-2018 12-Jan-2018             Weekly, Ending Fri 
+WTP10J19                      10-Year 2-1/8% Treasury Inflation-Indexed Note, Due 1/15/2019 (DISCONTINUED)                                             P NSA  14-Jan-2019 11-Jan-2019             Weekly, Ending Fri 
+WTP10J20                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 1/15/2020 (DISCONTINUED)                                             P NSA  20-Jan-2020 17-Jan-2020             Weekly, Ending Fri 
+WTP10J21                      10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP10L12                      10-Year 3% Treasury Inflation-Indexed Note, Due 7/15/2012 (DISCONTINUED)                                                 P NSA  16-Jul-2012 13-Jul-2012             Weekly, Ending Fri 
+WTP10L13                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2013 (DISCONTINUED)                                             P NSA  15-Jul-2013 12-Jul-2013             Weekly, Ending Fri 
+WTP10L14                      10-Year 2% Treasury Inflation-Indexed Note, Due 7/15/2014 (DISCONTINUED)                                                 P NSA  14-Jul-2014 11-Jul-2014             Weekly, Ending Fri 
+WTP10L15                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2015 (DISCONTINUED)                                             P NSA  19-Jan-2016 17-Jul-2015             Weekly, Ending Fri 
+WTP10L16                      10-Year 2-1/2% Treasury Inflation-Indexed Note, Due 7/15/2016 (DISCONTINUED)                                             P NSA  18-Jul-2016 15-Jul-2016             Weekly, Ending Fri 
+WTP10L17                      10-Year 2-5/8% Treasury Inflation-Indexed Note, Due 7/15/2017 (DISCONTINUED)                                             P NSA  17-Jul-2017 14-Jul-2017             Weekly, Ending Fri 
+WTP10L18                      10-Year 1-3/8% Treasury Inflation-Indexed Note, Due 7/15/2018 (DISCONTINUED)                                             P NSA  16-Jul-2018 13-Jul-2018             Weekly, Ending Fri 
+WTP10L19                      10-Year 1-7/8% Treasury Inflation-Indexed Note, Due 7/15/2019 (DISCONTINUED)                                             P NSA  15-Jul-2019 12-Jul-2019             Weekly, Ending Fri 
+WTP10L20                      10-Year 1-1/4% Treasury Inflation-Indexed Note, Due 7/15/2020 (DISCONTINUED)                                             P NSA  13-Jul-2020 10-Jul-2020             Weekly, Ending Fri 
+WTP20J25                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP20J26                      20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026 (DISCONTINUED)                                                 P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP20J27                      20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP20J28                      20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP20J29                      20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP30A28                      30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP30A29                      30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP30F40                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP30F41                      30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041 (DISCONTINUED)                                             P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP3HA32                      30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032 (DISCONTINUED)                                         P NSA  10-Aug-2020 07-Aug-2020             Weekly, Ending Fri 
+WTP5A10                       5-Year Treasury Inflation-Indexed Note, Due 4/15/2010 (DISCONTINUED)                                                     P NSA  14-Apr-2010 09-Apr-2010             Weekly, Ending Fri 
+WTP5A11                       5-Year 2-3/8% Treasury Inflation-Indexed Note, Due 4/15/2011 (DISCONTINUED)                                              P NSA  25-Apr-2011 15-Apr-2011             Weekly, Ending Fri 
+WTP5A12                       5-Year 2% Treasury Inflation-Indexed Note, Due 4/15/2012 (DISCONTINUED)                                                  P NSA  16-Apr-2012 13-Apr-2012             Weekly, Ending Fri 
+WTP5A13                       5-Year 5/8% Treasury Inflation-Indexed Note, Due 4/15/2013 (DISCONTINUED)                                                P NSA  15-Apr-2013 12-Apr-2013             Weekly, Ending Fri 
+WTP5A14                       5-Year 1-1/4% Treasury Inflation-Indexed Note, Due 4/15/2014 (DISCONTINUED)                                              P NSA  14-Apr-2014 11-Apr-2014             Weekly, Ending Fri 
+WTP5A15                       5-Year 0-1/2% Treasury Inflation-Indexed Note, Due 4/15/2015 (DISCONTINUED)                                              P NSA  20-Apr-2015 17-Apr-2015             Weekly, Ending Fri 
+WTP5A16                       5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2016 (DISCONTINUED)                                              P NSA  18-Apr-2016 15-Apr-2016             Weekly, Ending Fri 
+WTP5L02                       5-Year Treasury Inflation-Indexed Note, Due 7/15/2002 (DISCONTINUED)                                                     P NSA  27-Jul-2006 15-Feb-2002             Weekly, Ending Fri 

@@ -1,2 +1,2 @@
-Id : 400  St. Louis Fed Economic News Index
-STLENI                        St. Louis Fed Economic News Index: Real GDP Nowcast                                                                      SAAR 09-Dec-2022  Quarterly      
+Release  Id : 400	St. Louis Fed Economic News Index
+STLENI                        St. Louis Fed Economic News Index: Real GDP Nowcast                                                                      P SAAR 09-Dec-2022 01-Oct-2022 15-Dec-2022 Quarterly          

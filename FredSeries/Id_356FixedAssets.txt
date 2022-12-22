@@ -1,162 +1,162 @@
-Id : 356  Fixed Assets
-I3GDEFN1EA000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Aircraft                                    NSA  30-Nov-2022  Annual         
-I3GDEFN1EB000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Ships                                       NSA  30-Nov-2022  Annual         
-I3GDEFN1EE000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Electronics                                 NSA  30-Nov-2022  Annual         
-I3GDEFN1EM000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Missiles                                    NSA  30-Nov-2022  Annual         
-I3GDEFN1ENS00                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products: Software               NSA  30-Nov-2022  Annual         
-I3GDEFN1EO000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Other equipment                             NSA  30-Nov-2022  Annual         
-I3GDEFN1EQ000                 Investment in Government Fixed Assets: Federal: National defense: Equipment                                              NSA  30-Nov-2022  Annual         
-I3GDEFN1ES000                 Investment in Government Fixed Assets: Federal: National defense                                                         NSA  30-Nov-2022  Annual         
-I3GDEFN1EV000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Vehicles                                    NSA  30-Nov-2022  Annual         
-I3GDEFN1IP000                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products                         NSA  30-Nov-2022  Annual         
-I3GDEFN1RD000                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products: Research and developm  NSA  30-Nov-2022  Annual         
-I3GDEFN1SB000                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings                                  NSA  30-Nov-2022  Annual         
-I3GDEFN1SB100                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Residential                     NSA  30-Nov-2022  Annual         
-I3GDEFN1SB200                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Industrial                      NSA  30-Nov-2022  Annual         
-I3GDEFN1SM000                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Military facilities             NSA  30-Nov-2022  Annual         
-I3GDEFN1ST000                 Investment in Government Fixed Assets: Federal: National defense: Structures                                             NSA  30-Nov-2022  Annual         
-I3GDEFN1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal: National defense     NSA  30-Nov-2022  Annual         
-I3GFEDR1ES000                 Investment in Government Fixed Assets: Federal                                                                           NSA  30-Nov-2022  Annual         
-I3GFEDR1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal                       NSA  30-Nov-2022  Annual         
-I3GNDEF1ENS00                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products: Software                     NSA  30-Nov-2022  Annual         
-I3GNDEF1EQ000                 Investment in Government Fixed Assets: Federal: Nondefense: Equipment                                                    NSA  30-Nov-2022  Annual         
-I3GNDEF1ES000                 Investment in Government Fixed Assets: Federal: Nondefense                                                               NSA  30-Nov-2022  Annual         
-I3GNDEF1IP000                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products                               NSA  30-Nov-2022  Annual         
-I3GNDEF1RD000                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products: Research and development     NSA  30-Nov-2022  Annual         
-I3GNDEF1SB000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings (DISCONTINUED)                         NSA  06-Jul-2015  Annual         
-I3GNDEF1SB200                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Industrial (DISCONTINUED)             NSA  06-Jul-2015  Annual         
-I3GNDEF1SB300                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Industrial: Educational (DISCONTINUE  NSA  06-Jul-2015  Annual         
-I3GNDEF1SB400                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Hospital (DISCONTINUED)               NSA  06-Jul-2015  Annual         
-I3GNDEF1SB500                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Other (DISCONTINUED)                  NSA  06-Jul-2015  Annual         
-I3GNDEF1SC000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Conservation and development (DISCONTINUED)      NSA  06-Jul-2015  Annual         
-I3GNDEF1SD000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Office                                           NSA  30-Nov-2022  Annual         
-I3GNDEF1SE000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Commercial                                       NSA  30-Nov-2022  Annual         
-I3GNDEF1SF000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Health care                                      NSA  30-Nov-2022  Annual         
-I3GNDEF1SG000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Educational                                      NSA  30-Nov-2022  Annual         
-I3GNDEF1SH000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Highways and streets (DISCONTINUED)              NSA  06-Jul-2015  Annual         
-I3GNDEF1SI000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Public safety                                    NSA  30-Nov-2022  Annual         
-I3GNDEF1SK000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Amusement and recreation                         NSA  30-Nov-2022  Annual         
-I3GNDEF1SN000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Transportation                                   NSA  30-Nov-2022  Annual         
-I3GNDEF1SO000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Other structures (DISCONTINUED)                  NSA  06-Jul-2015  Annual         
-I3GNDEF1SP000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Power                                            NSA  30-Nov-2022  Annual         
-I3GNDEF1SQ000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Highways and streets                             NSA  30-Nov-2022  Annual         
-I3GNDEF1ST000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures                                                   NSA  30-Nov-2022  Annual         
-I3GNDEF1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal: Nondefense           NSA  30-Nov-2022  Annual         
-I3GNDEF1SV000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Conservation and development                     NSA  30-Nov-2022  Annual         
-I3GNDEF1SX000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Other structures                                 NSA  30-Nov-2022  Annual         
-I3GSTLC1ENS00                 Investment in Government Fixed Assets: State and local: Intellectual property products: Software                         NSA  30-Nov-2022  Annual         
-I3GSTLC1EQ000                 Investment in Government Fixed Assets: State and local: Equipment                                                        NSA  30-Nov-2022  Annual         
-I3GSTLC1ES000                 Investment in Government Fixed Assets: State and local                                                                   NSA  30-Nov-2022  Annual         
-I3GSTLC1IP000                 Investment in Government Fixed Assets: State and local: Intellectual property products                                   NSA  30-Nov-2022  Annual         
-I3GSTLC1RD000                 Investment in Government Fixed Assets: State and local: Intellectual property products: Research and development         NSA  30-Nov-2022  Annual         
-I3GSTLC1SA000                 Investment in Government Fixed Assets: State and local: Structures: Residential                                          NSA  30-Nov-2022  Annual         
-I3GSTLC1SB000                 Investment in Government Fixed Assets: State and local: Structures: Buildings (DISCONTINUED)                             NSA  06-Jul-2015  Annual         
-I3GSTLC1SB100                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Residential (DISCONTINUED)                NSA  06-Jul-2015  Annual         
-I3GSTLC1SB300                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Educational (DISCONTINUED)                NSA  06-Jul-2015  Annual         
-I3GSTLC1SB400                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Hospital (DISCONTINUED)                   NSA  06-Jul-2015  Annual         
-I3GSTLC1SB500                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Other (DISCONTINUED)                      NSA  06-Jul-2015  Annual         
-I3GSTLC1SC000                 Investment in Government Fixed Assets: State and local: Structures: Conservation and development (DISCONTINUED)          NSA  06-Jul-2015  Annual         
-I3GSTLC1SD000                 Investment in Government Fixed Assets: State and local: Structures: Office                                               NSA  30-Nov-2022  Annual         
-I3GSTLC1SE000                 Investment in Government Fixed Assets: State and local: Structures: Commercial                                           NSA  30-Nov-2022  Annual         
-I3GSTLC1SF000                 Investment in Government Fixed Assets: State and local: Structures: Health care                                          NSA  30-Nov-2022  Annual         
-I3GSTLC1SG000                 Investment in Government Fixed Assets: State and local: Structures: Educational                                          NSA  30-Nov-2022  Annual         
-I3GSTLC1SH000                 Investment in Government Fixed Assets: State and local: Structures: Highways and streets (DISCONTINUED)                  NSA  06-Jul-2015  Annual         
-I3GSTLC1SI000                 Investment in Government Fixed Assets: State and local: Structures: Public safety                                        NSA  30-Nov-2022  Annual         
-I3GSTLC1SK000                 Investment in Government Fixed Assets: State and local: Structures: Amusement and recreation                             NSA  30-Nov-2022  Annual         
-I3GSTLC1SN000                 Investment in Government Fixed Assets: State and local: Structures: Transportation                                       NSA  30-Nov-2022  Annual         
-I3GSTLC1SO000                 Investment in Government Fixed Assets: State and local: Structures: Other structures (DISCONTINUED)                      NSA  06-Jul-2015  Annual         
-I3GSTLC1SP000                 Investment in Government Fixed Assets: State and local: Structures: Power                                                NSA  30-Nov-2022  Annual         
-I3GSTLC1SQ000                 Investment in Government Fixed Assets: State and local: Structures: Highways and streets                                 NSA  30-Nov-2022  Annual         
-I3GSTLC1SR000                 Investment in Government Fixed Assets: State and local: Structures: Sewer systems                                        NSA  30-Nov-2022  Annual         
-I3GSTLC1SS000                 Investment in Government Fixed Assets: State and local: Structures: Sewer systems structures (DISCONTINUED)              NSA  06-Jul-2015  Annual         
-I3GSTLC1ST000                 Investment in Government Fixed Assets: State and local: Structures                                                       NSA  30-Nov-2022  Annual         
-I3GSTLC1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: State and local               NSA  30-Nov-2022  Annual         
-I3GSTLC1SU000                 Investment in Government Fixed Assets: State and local: Structures: Water systems                                        NSA  30-Nov-2022  Annual         
-I3GSTLC1SV000                 Investment in Government Fixed Assets: State and local: Structures: Conservation and development                         NSA  30-Nov-2022  Annual         
-I3GSTLC1SW000                 Investment in Government Fixed Assets: State and local: Structures: Water supply facilities (DISCONTINUED)               NSA  06-Jul-2015  Annual         
-I3GSTLC1SX000                 Investment in Government Fixed Assets: State and local: Structures: Other structures                                     NSA  30-Nov-2022  Annual         
-I3GTOTL1ENS00                 Investment in Government Fixed Assets: Structures: Intellectual property products: Software                              NSA  30-Nov-2022  Annual         
-I3GTOTL1EQ000                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Equipment                                 NSA  30-Nov-2022  Annual         
-I3GTOTL1ES000                 Investment in Government Fixed Assets                                                                                    NSA  30-Nov-2022  Annual         
-I3GTOTL1ESNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets                                            NSA  30-Nov-2022  Annual         
-I3GTOTL1IP000                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Intellectual property products            NSA  30-Nov-2022  Annual         
-I3GTOTL1RD000                 Investment in Government Fixed Assets: Structures: Intellectual property products: Research and development              NSA  30-Nov-2022  Annual         
-I3GTOTL1SA000                 Investment in Government Fixed Assets: Structures: Residential                                                           NSA  30-Nov-2022  Annual         
-I3GTOTL1SB000                 Investment in Government Fixed Assets: Structures: Buildings (DISCONTINUED)                                              NSA  06-Jul-2015  Annual         
-I3GTOTL1SB100                 Investment in Government Fixed Assets: Structures: Buildings: Residential (DISCONTINUED)                                 NSA  06-Jul-2015  Annual         
-I3GTOTL1SB200                 Investment in Government Fixed Assets: Structures: Buildings: Industrial (DISCONTINUED)                                  NSA  06-Jul-2015  Annual         
-I3GTOTL1SB300                 Investment in Government Fixed Assets: Structures: Buildings: Educational (DISCONTINUED)                                 NSA  06-Jul-2015  Annual         
-I3GTOTL1SB400                 Investment in Government Fixed Assets: Structures: Buildings: Hospital (DISCONTINUED)                                    NSA  06-Jul-2015  Annual         
-I3GTOTL1SB500                 Investment in Government Fixed Assets: Structures: Buildings: Other (DISCONTINUED)                                       NSA  06-Jul-2015  Annual         
-I3GTOTL1SC000                 Investment in Government Fixed Assets: Structures: Conservation and development (DISCONTINUED)                           NSA  06-Jul-2015  Annual         
-I3GTOTL1SD000                 Investment in Government Fixed Assets: Structures: Office                                                                NSA  30-Nov-2022  Annual         
-I3GTOTL1SE000                 Investment in Government Fixed Assets: Structures: Commercial                                                            NSA  30-Nov-2022  Annual         
-I3GTOTL1SF000                 Investment in Government Fixed Assets: Structures: Health care                                                           NSA  30-Nov-2022  Annual         
-I3GTOTL1SG000                 Investment in Government Fixed Assets: Structures: Educational                                                           NSA  30-Nov-2022  Annual         
-I3GTOTL1SH000                 Investment in Government Fixed Assets: Structures: Highways and streets (DISCONTINUED)                                   NSA  06-Jul-2015  Annual         
-I3GTOTL1SI000                 Investment in Government Fixed Assets: Structures: Public safety                                                         NSA  30-Nov-2022  Annual         
-I3GTOTL1SJ000                 Investment in Government Fixed Assets: Structures: Industrial                                                            NSA  30-Nov-2022  Annual         
-I3GTOTL1SK000                 Investment in Government Fixed Assets: Structures: Amusement and recreation                                              NSA  30-Nov-2022  Annual         
-I3GTOTL1SM000                 Investment in Government Fixed Assets: Structures: Military facilities                                                   NSA  30-Nov-2022  Annual         
-I3GTOTL1SN000                 Investment in Government Fixed Assets: Structures: Transportation                                                        NSA  30-Nov-2022  Annual         
-I3GTOTL1SO000                 Investment in Government Fixed Assets: Structures: Other structures (DISCONTINUED)                                       NSA  06-Jul-2015  Annual         
-I3GTOTL1SP000                 Investment in Government Fixed Assets: Structures: Power                                                                 NSA  30-Nov-2022  Annual         
-I3GTOTL1SQ000                 Investment in Government Fixed Assets: Structures: Highways and streets                                                  NSA  30-Nov-2022  Annual         
-I3GTOTL1SS000                 Investment in Government Fixed Assets: Structures: Sewer systems structures (DISCONTINUED)                               NSA  06-Jul-2015  Annual         
-I3GTOTL1ST000                 Investment in Government Fixed Assets: Structures                                                                        NSA  30-Nov-2022  Annual         
-I3GTOTL1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures                                NSA  30-Nov-2022  Annual         
-I3GTOTL1SV000                 Investment in Government Fixed Assets: Structures: Conservation and development                                          NSA  30-Nov-2022  Annual         
-I3GTOTL1SW000                 Investment in Government Fixed Assets: Structures: Water supply facilities (DISCONTINUED)                                NSA  06-Jul-2015  Annual         
-I3GTOTL1SX000                 Investment in Government Fixed Assets: Structures: Other structures                                                      NSA  30-Nov-2022  Annual         
-I3GTOTLEEQ000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Equipment                                     NSA  30-Nov-2022  Annual         
-I3GTOTLEES000                 Investment in Government Fixed Assets: Government enterprise fixed assets                                                NSA  30-Nov-2022  Annual         
-I3GTOTLEIP000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Intellectual property products                NSA  30-Nov-2022  Annual         
-I3GTOTLEST000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Structures                                    NSA  30-Nov-2022  Annual         
-I3GTOTLGEQ000                 Investment in Government Fixed Assets: General government fixed assets: Equipment                                        NSA  30-Nov-2022  Annual         
-I3GTOTLGES000                 Investment in Government Fixed Assets: General government fixed assets                                                   NSA  30-Nov-2022  Annual         
-I3GTOTLGIP000                 Investment in Government Fixed Assets: General government fixed assets: Intellectual property products                   NSA  30-Nov-2022  Annual         
-I3GTOTLGST000                 Investment in Government Fixed Assets: General government fixed assets: Structures                                       NSA  30-Nov-2022  Annual         
-K1CTOTL1CD000                 Current-Cost Net Stock of Consumer Durable Goods                                                                         NSA  30-Nov-2022  Annual, End of Year
-K1GFEDR1ES000                 Current-Cost Net Stock of Fixed Assets: Government: Federal                                                              NSA  30-Nov-2022  Annual, End of Year
-K1GSTLC1ES000                 Current-Cost Net Stock of Fixed Assets: Government: State and local                                                      NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1EQ000                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Equipment                                            NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Government                                                                       NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1ESNR0                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential                                                       NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1IP000                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Intellectual property products                       NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1SA000                 Current-Cost Net Stock of Fixed Assets: Government: Residential                                                          NSA  30-Nov-2022  Annual, End of Year
-K1GTOTL1STNR0                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Structures                                           NSA  30-Nov-2022  Annual, End of Year
-K1NTOTL1EQ000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Equipment                                               NSA  30-Nov-2022  Annual, End of Year
-K1NTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential                                                          NSA  30-Nov-2022  Annual, End of Year
-K1NTOTL1IP000                 Current-Cost Net Stock of Fixed Assets: Private: Intellectual property products                                          NSA  30-Nov-2022  Annual, End of Year
-K1NTOTL1ST000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Structures                                              NSA  30-Nov-2022  Annual, End of Year
-K1PTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Private                                                                          NSA  30-Nov-2022  Annual, End of Year
-K1R53101ES000                 Current-Cost Net Stock of Fixed Assets: Residential                                                                      NSA  30-Nov-2022  Annual, End of Year
-K1TTOTL1ES000                 Current-Cost Net Stock of Fixed Assets                                                                                   NSA  30-Nov-2022  Annual, End of Year
-K1WTOTL1ES000                 Current-Cost Net Stock of Fixed Assets and Consumer Durable Goods                                                        NSA  30-Nov-2022  Annual, End of Year
-K1X53101ES000                 Current-Cost Net Stock of Private and government fixed assets: Residential                                               NSA  30-Nov-2022  Annual, End of Year
-K1YTOTL1EQ000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Equipment                                 NSA  30-Nov-2022  Annual, End of Year
-K1YTOTL1ES000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential                                            NSA  30-Nov-2022  Annual, End of Year
-K1YTOTL1IP000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Intellectual property products            NSA  30-Nov-2022  Annual, End of Year
-K1YTOTL1ST000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Structures                                NSA  30-Nov-2022  Annual, End of Year
-M1CTOTL1CD000                 Current-Cost Depreciation of Consumer Durable Goods                                                                      NSA  30-Nov-2022  Annual         
-M1GFEDR1ES000                 Current-Cost Depreciation of Fixed Assets: Government: Federal                                                           NSA  30-Nov-2022  Annual         
-M1GSTLC1ES000                 Current-Cost Depreciation of Fixed Assets: Government: State and local                                                   NSA  30-Nov-2022  Annual         
-M1GTOTL1EQ000                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Equipment                                         NSA  30-Nov-2022  Annual         
-M1GTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Government                                                                    NSA  30-Nov-2022  Annual         
-M1GTOTL1ESNR0                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential                                                    NSA  30-Nov-2022  Annual         
-M1GTOTL1IP000                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Intellectual property products                    NSA  30-Nov-2022  Annual         
-M1GTOTL1SA000                 Current-Cost Depreciation of Fixed Assets: Government: Residential                                                       NSA  30-Nov-2022  Annual         
-M1GTOTL1STNR0                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Structures                                        NSA  30-Nov-2022  Annual         
-M1NTOTL1EQ000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential: Equipment                                            NSA  30-Nov-2022  Annual         
-M1NTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential                                                       NSA  30-Nov-2022  Annual         
-M1NTOTL1IP000                 Current-Cost Depreciation of Fixed Assets: Private: Intellectual property products                                       NSA  30-Nov-2022  Annual         
-M1NTOTL1ST000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential: Structures                                           NSA  30-Nov-2022  Annual         
-M1PTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Private                                                                       NSA  30-Nov-2022  Annual         
-M1R53101ES000                 Current-Cost Depreciation of Fixed Assets: Residential                                                                   NSA  30-Nov-2022  Annual         
-M1TTOTL1ES000                 Current-Cost Depreciation of Fixed Assets                                                                                NSA  30-Nov-2022  Annual         
-M1WTOTL1ES000                 Current-Cost Depreciation of Fixed Assets and Consumer Durable Goods                                                     NSA  30-Nov-2022  Annual         
-M1X53101ES000                 Current-Cost Depreciation of Private and government fixed assets: Residential                                            NSA  30-Nov-2022  Annual         
-M1YTOTL1EQ000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Equipment                              NSA  30-Nov-2022  Annual         
-M1YTOTL1ES000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential                                         NSA  30-Nov-2022  Annual         
-M1YTOTL1IP000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Intellectual property products         NSA  30-Nov-2022  Annual         
-M1YTOTL1ST000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Structures                             NSA  30-Nov-2022  Annual         
+Release  Id : 356	Fixed Assets
+I3GDEFN1EA000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Aircraft                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EB000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Ships                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EE000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Electronics                                 B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EM000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Missiles                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1ENS00                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products: Software               B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EO000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Other equipment                             B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EQ000                 Investment in Government Fixed Assets: Federal: National defense: Equipment                                              B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1ES000                 Investment in Government Fixed Assets: Federal: National defense                                                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1EV000                 Investment in Government Fixed Assets: Federal: National defense: Equipment: Vehicles                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1IP000                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1RD000                 Investment in Government Fixed Assets: Federal: National defense: Intellectual property products: Research and developm  B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1SB000                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings                                  B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1SB100                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Residential                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1SB200                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Industrial                      B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1SM000                 Investment in Government Fixed Assets: Federal: National defense: Structures: Buildings: Military facilities             B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1ST000                 Investment in Government Fixed Assets: Federal: National defense: Structures                                             B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GDEFN1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal: National defense     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GFEDR1ES000                 Investment in Government Fixed Assets: Federal                                                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GFEDR1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1ENS00                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products: Software                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1EQ000                 Investment in Government Fixed Assets: Federal: Nondefense: Equipment                                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1ES000                 Investment in Government Fixed Assets: Federal: Nondefense                                                               B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1IP000                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products                               B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1RD000                 Investment in Government Fixed Assets: Federal: Nondefense: Intellectual property products: Research and development     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SB000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings (DISCONTINUED)                         B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SB200                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Industrial (DISCONTINUED)             B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SB300                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Industrial: Educational (DISCONTINUE  B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SB400                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Hospital (DISCONTINUED)               B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SB500                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Buildings: Other (DISCONTINUED)                  B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SC000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Conservation and development (DISCONTINUED)      B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SD000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Office                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SE000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Commercial                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SF000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Health care                                      B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SG000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Educational                                      B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SH000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Highways and streets (DISCONTINUED)              B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SI000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Public safety                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SK000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Amusement and recreation                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SN000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Transportation                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SO000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Other structures (DISCONTINUED)                  B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GNDEF1SP000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Power                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SQ000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Highways and streets                             B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1ST000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: Federal: Nondefense           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SV000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Conservation and development                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GNDEF1SX000                 Investment in Government Fixed Assets: Federal: Nondefense: Structures: Other structures                                 B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1ENS00                 Investment in Government Fixed Assets: State and local: Intellectual property products: Software                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1EQ000                 Investment in Government Fixed Assets: State and local: Equipment                                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1ES000                 Investment in Government Fixed Assets: State and local                                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1IP000                 Investment in Government Fixed Assets: State and local: Intellectual property products                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1RD000                 Investment in Government Fixed Assets: State and local: Intellectual property products: Research and development         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SA000                 Investment in Government Fixed Assets: State and local: Structures: Residential                                          B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SB000                 Investment in Government Fixed Assets: State and local: Structures: Buildings (DISCONTINUED)                             B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SB100                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Residential (DISCONTINUED)                B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SB300                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Educational (DISCONTINUED)                B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SB400                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Hospital (DISCONTINUED)                   B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SB500                 Investment in Government Fixed Assets: State and local: Structures: Buildings: Other (DISCONTINUED)                      B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SC000                 Investment in Government Fixed Assets: State and local: Structures: Conservation and development (DISCONTINUED)          B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SD000                 Investment in Government Fixed Assets: State and local: Structures: Office                                               B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SE000                 Investment in Government Fixed Assets: State and local: Structures: Commercial                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SF000                 Investment in Government Fixed Assets: State and local: Structures: Health care                                          B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SG000                 Investment in Government Fixed Assets: State and local: Structures: Educational                                          B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SH000                 Investment in Government Fixed Assets: State and local: Structures: Highways and streets (DISCONTINUED)                  B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SI000                 Investment in Government Fixed Assets: State and local: Structures: Public safety                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SK000                 Investment in Government Fixed Assets: State and local: Structures: Amusement and recreation                             B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SN000                 Investment in Government Fixed Assets: State and local: Structures: Transportation                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SO000                 Investment in Government Fixed Assets: State and local: Structures: Other structures (DISCONTINUED)                      B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SP000                 Investment in Government Fixed Assets: State and local: Structures: Power                                                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SQ000                 Investment in Government Fixed Assets: State and local: Structures: Highways and streets                                 B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SR000                 Investment in Government Fixed Assets: State and local: Structures: Sewer systems                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SS000                 Investment in Government Fixed Assets: State and local: Structures: Sewer systems structures (DISCONTINUED)              B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1ST000                 Investment in Government Fixed Assets: State and local: Structures                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures: State and local               B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SU000                 Investment in Government Fixed Assets: State and local: Structures: Water systems                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SV000                 Investment in Government Fixed Assets: State and local: Structures: Conservation and development                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GSTLC1SW000                 Investment in Government Fixed Assets: State and local: Structures: Water supply facilities (DISCONTINUED)               B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GSTLC1SX000                 Investment in Government Fixed Assets: State and local: Structures: Other structures                                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1ENS00                 Investment in Government Fixed Assets: Structures: Intellectual property products: Software                              B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1EQ000                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Equipment                                 B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1ES000                 Investment in Government Fixed Assets                                                                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1ESNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1IP000                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Intellectual property products            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1RD000                 Investment in Government Fixed Assets: Structures: Intellectual property products: Research and development              B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SA000                 Investment in Government Fixed Assets: Structures: Residential                                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SB000                 Investment in Government Fixed Assets: Structures: Buildings (DISCONTINUED)                                              B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SB100                 Investment in Government Fixed Assets: Structures: Buildings: Residential (DISCONTINUED)                                 B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SB200                 Investment in Government Fixed Assets: Structures: Buildings: Industrial (DISCONTINUED)                                  B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SB300                 Investment in Government Fixed Assets: Structures: Buildings: Educational (DISCONTINUED)                                 B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SB400                 Investment in Government Fixed Assets: Structures: Buildings: Hospital (DISCONTINUED)                                    B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SB500                 Investment in Government Fixed Assets: Structures: Buildings: Other (DISCONTINUED)                                       B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SC000                 Investment in Government Fixed Assets: Structures: Conservation and development (DISCONTINUED)                           B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SD000                 Investment in Government Fixed Assets: Structures: Office                                                                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SE000                 Investment in Government Fixed Assets: Structures: Commercial                                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SF000                 Investment in Government Fixed Assets: Structures: Health care                                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SG000                 Investment in Government Fixed Assets: Structures: Educational                                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SH000                 Investment in Government Fixed Assets: Structures: Highways and streets (DISCONTINUED)                                   B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SI000                 Investment in Government Fixed Assets: Structures: Public safety                                                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SJ000                 Investment in Government Fixed Assets: Structures: Industrial                                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SK000                 Investment in Government Fixed Assets: Structures: Amusement and recreation                                              B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SM000                 Investment in Government Fixed Assets: Structures: Military facilities                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SN000                 Investment in Government Fixed Assets: Structures: Transportation                                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SO000                 Investment in Government Fixed Assets: Structures: Other structures (DISCONTINUED)                                       B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SP000                 Investment in Government Fixed Assets: Structures: Power                                                                 B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SQ000                 Investment in Government Fixed Assets: Structures: Highways and streets                                                  B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SS000                 Investment in Government Fixed Assets: Structures: Sewer systems structures (DISCONTINUED)                               B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1ST000                 Investment in Government Fixed Assets: Structures                                                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1STNR0                 Investment in Government Fixed Assets: Government nonresidential fixed assets: Structures                                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SV000                 Investment in Government Fixed Assets: Structures: Conservation and development                                          B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTL1SW000                 Investment in Government Fixed Assets: Structures: Water supply facilities (DISCONTINUED)                                B NSA  06-Jul-2015 01-Jan-1996             Annual             
+I3GTOTL1SX000                 Investment in Government Fixed Assets: Structures: Other structures                                                      B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLEEQ000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Equipment                                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLEES000                 Investment in Government Fixed Assets: Government enterprise fixed assets                                                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLEIP000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Intellectual property products                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLEST000                 Investment in Government Fixed Assets: Government enterprise fixed assets: Structures                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLGEQ000                 Investment in Government Fixed Assets: General government fixed assets: Equipment                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLGES000                 Investment in Government Fixed Assets: General government fixed assets                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLGIP000                 Investment in Government Fixed Assets: General government fixed assets: Intellectual property products                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+I3GTOTLGST000                 Investment in Government Fixed Assets: General government fixed assets: Structures                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+K1CTOTL1CD000                 Current-Cost Net Stock of Consumer Durable Goods                                                                         B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GFEDR1ES000                 Current-Cost Net Stock of Fixed Assets: Government: Federal                                                              B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GSTLC1ES000                 Current-Cost Net Stock of Fixed Assets: Government: State and local                                                      B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1EQ000                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Equipment                                            B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Government                                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1ESNR0                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1IP000                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Intellectual property products                       B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1SA000                 Current-Cost Net Stock of Fixed Assets: Government: Residential                                                          B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1GTOTL1STNR0                 Current-Cost Net Stock of Fixed Assets: Government: Nonresidential: Structures                                           B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1NTOTL1EQ000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Equipment                                               B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1NTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential                                                          B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1NTOTL1IP000                 Current-Cost Net Stock of Fixed Assets: Private: Intellectual property products                                          B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1NTOTL1ST000                 Current-Cost Net Stock of Fixed Assets: Private: Nonresidential: Structures                                              B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1PTOTL1ES000                 Current-Cost Net Stock of Fixed Assets: Private                                                                          B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1R53101ES000                 Current-Cost Net Stock of Fixed Assets: Residential                                                                      B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1TTOTL1ES000                 Current-Cost Net Stock of Fixed Assets                                                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1WTOTL1ES000                 Current-Cost Net Stock of Fixed Assets and Consumer Durable Goods                                                        B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1X53101ES000                 Current-Cost Net Stock of Private and government fixed assets: Residential                                               B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1YTOTL1EQ000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Equipment                                 B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1YTOTL1ES000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential                                            B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1YTOTL1IP000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Intellectual property products            B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+K1YTOTL1ST000                 Current-Cost Net Stock of Private and government fixed assets: Nonresidential: Structures                                B NSA  30-Nov-2022 01-Jan-2021             Annual, End of Year
+M1CTOTL1CD000                 Current-Cost Depreciation of Consumer Durable Goods                                                                      B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GFEDR1ES000                 Current-Cost Depreciation of Fixed Assets: Government: Federal                                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GSTLC1ES000                 Current-Cost Depreciation of Fixed Assets: Government: State and local                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1EQ000                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Equipment                                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Government                                                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1ESNR0                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential                                                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1IP000                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Intellectual property products                    B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1SA000                 Current-Cost Depreciation of Fixed Assets: Government: Residential                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1GTOTL1STNR0                 Current-Cost Depreciation of Fixed Assets: Government: Nonresidential: Structures                                        B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1NTOTL1EQ000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential: Equipment                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1NTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1NTOTL1IP000                 Current-Cost Depreciation of Fixed Assets: Private: Intellectual property products                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1NTOTL1ST000                 Current-Cost Depreciation of Fixed Assets: Private: Nonresidential: Structures                                           B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1PTOTL1ES000                 Current-Cost Depreciation of Fixed Assets: Private                                                                       B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1R53101ES000                 Current-Cost Depreciation of Fixed Assets: Residential                                                                   B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1TTOTL1ES000                 Current-Cost Depreciation of Fixed Assets                                                                                B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1WTOTL1ES000                 Current-Cost Depreciation of Fixed Assets and Consumer Durable Goods                                                     B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1X53101ES000                 Current-Cost Depreciation of Private and government fixed assets: Residential                                            B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1YTOTL1EQ000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Equipment                              B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1YTOTL1ES000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential                                         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1YTOTL1IP000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Intellectual property products         B NSA  30-Nov-2022 01-Jan-2021             Annual             
+M1YTOTL1ST000                 Current-Cost Depreciation of Private and government fixed assets: Nonresidential: Structures                             B NSA  30-Nov-2022 01-Jan-2021             Annual             

@@ -1,3 +1,3 @@
-Id : 166  German Foreign Exchange Intervention
-DEINTDEMS                     German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED)                                NSA  30-Jul-2008  Daily, 7-Day   
-DEINTDUSDDM                   German Intervention: Bundesbank Purchases on the Dollar/D-Mark (Millions of DEM) (DISCONTINUED)                          NSA  03-Mar-2008  Daily, 7-Day   
+Release  Id : 166	German Foreign Exchange Intervention
+DEINTDEMS                     German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED)                                M NSA  30-Jul-2008 29-Dec-1995             Daily, 7-Day       
+DEINTDUSDDM                   German Intervention: Bundesbank Purchases on the Dollar/D-Mark (Millions of DEM) (DISCONTINUED)                          M NSA  03-Mar-2008 29-Dec-1995             Daily, 7-Day       

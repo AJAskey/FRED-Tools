@@ -1,3 +1,3 @@
-Id : 82  Economic Report of the President
-FYGFD                         Gross Federal Debt                                                                                                       NSA  18-Apr-2022  Annual, Fiscal Year
-FYGFDPUB                      Gross Federal Debt Held by the Public                                                                                    NSA  18-Apr-2022  Annual, Fiscal Year
+Release  Id : 82	Economic Report of the President
+FYGFD                         Gross Federal Debt                                                                                                       B NSA  18-Apr-2022 30-Sep-2021             Annual, Fiscal Year
+FYGFDPUB                      Gross Federal Debt Held by the Public                                                                                    B NSA  18-Apr-2022 30-Sep-2021             Annual, Fiscal Year

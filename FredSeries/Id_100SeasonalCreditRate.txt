@@ -1,2 +1,2 @@
-Id : 100  Seasonal Credit Rate
-FLEXSC                        Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis                                                NSA  01-Dec-2022  Biweekly, Beg. of Period
+Release  Id : 100	Seasonal Credit Rate
+FLEXSC                        Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis                                                P NSA  15-Dec-2022 15-Dec-2022 15-Dec-2022 Biweekly, Beg. of  

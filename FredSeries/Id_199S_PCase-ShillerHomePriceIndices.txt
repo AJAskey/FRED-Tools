@@ -1,182 +1,182 @@
-Id : 199  S&P/Case-Shiller Home Price Indices
-ATXRHTNSA                     Home Price Index (High Tier) for Atlanta, Georgia                                                                        NSA  29-Nov-2022  Monthly        
-ATXRHTSA                      Home Price Index (High Tier) for Atlanta, Georgia                                                                        SA   29-Nov-2022  Monthly        
-ATXRLTNSA                     Home Price Index (Low Tier) for Atlanta, Georgia                                                                         NSA  29-Nov-2022  Monthly        
-ATXRLTSA                      Home Price Index (Low Tier) for Atlanta, Georgia                                                                         SA   29-Nov-2022  Monthly        
-ATXRMTNSA                     Home Price Index (Middle Tier) for Atlanta, Georgia                                                                      NSA  29-Nov-2022  Monthly        
-ATXRMTSA                      Home Price Index (Middle Tier) for Atlanta, Georgia                                                                      SA   29-Nov-2022  Monthly        
-ATXRNSA                       S&P/Case-Shiller GA-Atlanta Home Price Index                                                                             NSA  29-Nov-2022  Monthly        
-ATXRPSNSA                     Home Price Sales Pair Counts for Atlanta, Georgia                                                                        NSA  29-Nov-2022  Monthly        
-ATXRSA                        S&P/Case-Shiller GA-Atlanta Home Price Index                                                                             SA   29-Nov-2022  Monthly        
-BOXRCNSA                      Condo Price Index for Boston, Massachusetts                                                                              NSA  29-Nov-2022  Monthly        
-BOXRCPSNSA                    Condo Price Sales Pair Counts for Boston, Massachusetts                                                                  NSA  29-Nov-2022  Monthly        
-BOXRCSA                       Condo Price Index for Boston, Massachusetts                                                                              SA   29-Nov-2022  Monthly        
-BOXRHTNSA                     Home Price Index (High Tier) for Boston, Massachusetts                                                                   NSA  29-Nov-2022  Monthly        
-BOXRHTSA                      Home Price Index (High Tier) for Boston, Massachusetts                                                                   SA   29-Nov-2022  Monthly        
-BOXRLTNSA                     Home Price Index (Low Tier) for Boston, Massachusetts                                                                    NSA  29-Nov-2022  Monthly        
-BOXRLTSA                      Home Price Index (Low Tier) for Boston, Massachusetts                                                                    SA   29-Nov-2022  Monthly        
-BOXRMTNSA                     Home Price Index (Middle Tier) for Boston, Massachusetts                                                                 NSA  29-Nov-2022  Monthly        
-BOXRMTSA                      Home Price Index (Middle Tier) for Boston, Massachusetts                                                                 SA   29-Nov-2022  Monthly        
-BOXRNSA                       S&P/Case-Shiller MA-Boston Home Price Index                                                                              NSA  29-Nov-2022  Monthly        
-BOXRPSNSA                     Home Price Sales Pair Counts for Boston, Massachusetts                                                                   NSA  29-Nov-2022  Monthly        
-BOXRSA                        S&P/Case-Shiller MA-Boston Home Price Index                                                                              SA   29-Nov-2022  Monthly        
-CEXRNSA                       S&P/Case-Shiller OH-Cleveland Home Price Index                                                                           NSA  29-Nov-2022  Monthly        
-CEXRPSNSA                     Home Price Sales Pair Counts for Cleveland, Ohio                                                                         NSA  29-Nov-2022  Monthly        
-CEXRSA                        S&P/Case-Shiller OH-Cleveland Home Price Index                                                                           SA   29-Nov-2022  Monthly        
-CHXRCNSA                      Condo Price Index for Chicago, Illinois                                                                                  NSA  29-Nov-2022  Monthly        
-CHXRCPSNSA                    Condo Price Sales Pair Counts for Chicago, Illinois                                                                      NSA  29-Nov-2022  Monthly        
-CHXRCSA                       Condo Price Index for Chicago, Illinois                                                                                  SA   29-Nov-2022  Monthly        
-CHXRHTNSA                     Home Price Index (High Tier) for Chicago, Illinois                                                                       NSA  29-Nov-2022  Monthly        
-CHXRHTSA                      Home Price Index (High Tier) for Chicago, Illinois                                                                       SA   29-Nov-2022  Monthly        
-CHXRLTNSA                     Home Price Index (Low Tier) for Chicago, Illinois                                                                        NSA  29-Nov-2022  Monthly        
-CHXRLTSA                      Home Price Index (Low Tier) for Chicago, Illinois                                                                        SA   29-Nov-2022  Monthly        
-CHXRMTNSA                     Home Price Index (Middle Tier) for Chicago, Illinois                                                                     NSA  29-Nov-2022  Monthly        
-CHXRMTSA                      Home Price Index (Middle Tier) for Chicago, Illinois                                                                     SA   29-Nov-2022  Monthly        
-CHXRNSA                       S&P/Case-Shiller IL-Chicago Home Price Index                                                                             NSA  29-Nov-2022  Monthly        
-CHXRPSNSA                     Home Price Sales Pair Counts for Chicago, Illinois                                                                       NSA  29-Nov-2022  Monthly        
-CHXRSA                        S&P/Case-Shiller IL-Chicago Home Price Index                                                                             SA   29-Nov-2022  Monthly        
-CRXRNSA                       S&P/Case-Shiller NC-Charlotte Home Price Index                                                                           NSA  29-Nov-2022  Monthly        
-CRXRPSNSA                     Home Price Sales Pair Counts for Charlotte, North Carolina                                                               NSA  29-Nov-2022  Monthly        
-CRXRSA                        S&P/Case-Shiller NC-Charlotte Home Price Index                                                                           SA   29-Nov-2022  Monthly        
-CSUSHPINSA                    S&P/Case-Shiller U.S. National Home Price Index                                                                          NSA  29-Nov-2022  Monthly        
-CSUSHPISA                     S&P/Case-Shiller U.S. National Home Price Index                                                                          SA   29-Nov-2022  Monthly        
-DAXRNSA                       S&P/Case-Shiller TX-Dallas Home Price Index                                                                              NSA  29-Nov-2022  Monthly        
-DAXRPSNSA                     Home Price Sales Pair Counts for Dallas, Texas                                                                           NSA  29-Nov-2022  Monthly        
-DAXRSA                        S&P/Case-Shiller TX-Dallas Home Price Index                                                                              SA   29-Nov-2022  Monthly        
-DEXRNSA                       S&P/Case-Shiller MI-Detroit Home Price Index                                                                             NSA  29-Nov-2022  Monthly        
-DEXRPSNSA                     Home Price Sales Pair Counts for Detroit, Michigan                                                                       NSA  29-Nov-2022  Monthly        
-DEXRSA                        S&P/Case-Shiller MI-Detroit Home Price Index                                                                             SA   29-Nov-2022  Monthly        
-DNXRHTNSA                     Home Price Index (High Tier) for Denver, Colorado                                                                        NSA  29-Nov-2022  Monthly        
-DNXRHTSA                      Home Price Index (High Tier) for Denver, Colorado                                                                        SA   29-Nov-2022  Monthly        
-DNXRLTNSA                     Home Price Index (Low Tier) for Denver, Colorado                                                                         NSA  29-Nov-2022  Monthly        
-DNXRLTSA                      Home Price Index (Low Tier) for Denver, Colorado                                                                         SA   29-Nov-2022  Monthly        
-DNXRMTNSA                     Home Price Index (Middle Tier) for Denver, Colorado                                                                      NSA  29-Nov-2022  Monthly        
-DNXRMTSA                      Home Price Index (Middle Tier) for Denver, Colorado                                                                      SA   29-Nov-2022  Monthly        
-DNXRNSA                       S&P/Case-Shiller CO-Denver Home Price Index                                                                              NSA  29-Nov-2022  Monthly        
-DNXRPSNSA                     Home Price Sales Pair Counts for Denver, Colorado                                                                        NSA  29-Nov-2022  Monthly        
-DNXRSA                        S&P/Case-Shiller CO-Denver Home Price Index                                                                              SA   29-Nov-2022  Monthly        
-LVXRHTNSA                     Home Price Index (High Tier) for Las Vegas, Nevada                                                                       NSA  29-Nov-2022  Monthly        
-LVXRHTSA                      Home Price Index (High Tier) for Las Vegas, Nevada                                                                       SA   29-Nov-2022  Monthly        
-LVXRLTNSA                     Home Price Index (Low Tier) for Las Vegas, Nevada                                                                        NSA  29-Nov-2022  Monthly        
-LVXRLTSA                      Home Price Index (Low Tier) for Las Vegas, Nevada                                                                        SA   29-Nov-2022  Monthly        
-LVXRMTNSA                     Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                     NSA  29-Nov-2022  Monthly        
-LVXRMTSA                      Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                     SA   29-Nov-2022  Monthly        
-LVXRNSA                       S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                           NSA  29-Nov-2022  Monthly        
-LVXRPSNSA                     Home Price Sales Pair Counts for Las Vegas, Nevada                                                                       NSA  29-Nov-2022  Monthly        
-LVXRSA                        S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                           SA   29-Nov-2022  Monthly        
-LXXRCNSA                      Condo Price Index for Los Angeles, California                                                                            NSA  29-Nov-2022  Monthly        
-LXXRCPSNSA                    Condo Price Sales Pair Counts for Los Angeles, California                                                                NSA  29-Nov-2022  Monthly        
-LXXRCSA                       Condo Price Index for Los Angeles, California                                                                            SA   29-Nov-2022  Monthly        
-LXXRHTNSA                     Home Price Index (High Tier) for Los Angeles, California                                                                 NSA  29-Nov-2022  Monthly        
-LXXRHTSA                      Home Price Index (High Tier) for Los Angeles, California                                                                 SA   29-Nov-2022  Monthly        
-LXXRLTNSA                     Home Price Index (Low Tier) for Los Angeles, California                                                                  NSA  29-Nov-2022  Monthly        
-LXXRLTSA                      Home Price Index (Low Tier) for Los Angeles, California                                                                  SA   29-Nov-2022  Monthly        
-LXXRMTNSA                     Home Price Index (Middle Tier) for Los Angeles, California                                                               NSA  29-Nov-2022  Monthly        
-LXXRMTSA                      Home Price Index (Middle Tier) for Los Angeles, California                                                               SA   29-Nov-2022  Monthly        
-LXXRNSA                       S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                         NSA  29-Nov-2022  Monthly        
-LXXRPSNSA                     Home Price Sales Pair Counts for Los Angeles, California                                                                 NSA  29-Nov-2022  Monthly        
-LXXRSA                        S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                         SA   29-Nov-2022  Monthly        
-MIXRHTNSA                     Home Price Index (High Tier) for Miami, Florida                                                                          NSA  29-Nov-2022  Monthly        
-MIXRHTSA                      Home Price Index (High Tier) for Miami, Florida                                                                          SA   29-Nov-2022  Monthly        
-MIXRLTNSA                     Home Price Index (Low Tier) for Miami, Florida                                                                           NSA  29-Nov-2022  Monthly        
-MIXRLTSA                      Home Price Index (Low Tier) for Miami, Florida                                                                           SA   29-Nov-2022  Monthly        
-MIXRMTNSA                     Home Price Index (Middle Tier) for Miami, Florida                                                                        NSA  29-Nov-2022  Monthly        
-MIXRMTSA                      Home Price Index (Middle Tier) for Miami, Florida                                                                        SA   29-Nov-2022  Monthly        
-MIXRNSA                       S&P/Case-Shiller FL-Miami Home Price Index                                                                               NSA  29-Nov-2022  Monthly        
-MIXRPSNSA                     Home Price Sales Pair Counts for Miami, Florida                                                                          NSA  29-Nov-2022  Monthly        
-MIXRSA                        S&P/Case-Shiller FL-Miami Home Price Index                                                                               SA   29-Nov-2022  Monthly        
-MNXRHTNSA                     Home Price Index (High Tier) for Minneapolis, Minnesota                                                                  NSA  29-Nov-2022  Monthly        
-MNXRHTSA                      Home Price Index (High Tier) for Minneapolis, Minnesota                                                                  SA   29-Nov-2022  Monthly        
-MNXRLTNSA                     Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                   NSA  29-Nov-2022  Monthly        
-MNXRLTSA                      Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                   SA   29-Nov-2022  Monthly        
-MNXRMTNSA                     Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                NSA  29-Nov-2022  Monthly        
-MNXRMTSA                      Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                SA   29-Nov-2022  Monthly        
-MNXRNSA                       S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                         NSA  29-Nov-2022  Monthly        
-MNXRPSNSA                     Home Price Sales Pair Counts for Minneapolis, Minnesota                                                                  NSA  29-Nov-2022  Monthly        
-MNXRSA                        S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                         SA   29-Nov-2022  Monthly        
-NYXRCNSA                      Condo Price Index for New York, New York                                                                                 NSA  29-Nov-2022  Monthly        
-NYXRCPSNSA                    Condo Price Sales Pair Counts for New York, New York                                                                     NSA  29-Nov-2022  Monthly        
-NYXRCSA                       Condo Price Index for New York, New York                                                                                 SA   29-Nov-2022  Monthly        
-NYXRHTNSA                     Home Price Index (High Tier) for New York, New York                                                                      NSA  29-Nov-2022  Monthly        
-NYXRHTSA                      Home Price Index (High Tier) for New York, New York                                                                      SA   29-Nov-2022  Monthly        
-NYXRLTNSA                     Home Price Index (Low Tier) for New York, New York                                                                       NSA  29-Nov-2022  Monthly        
-NYXRLTSA                      Home Price Index (Low Tier) for New York, New York                                                                       SA   29-Nov-2022  Monthly        
-NYXRMTNSA                     Home Price Index (Middle Tier) for New York, New York                                                                    NSA  29-Nov-2022  Monthly        
-NYXRMTSA                      Home Price Index (Middle Tier) for New York, New York                                                                    SA   29-Nov-2022  Monthly        
-NYXRNSA                       S&P/Case-Shiller NY-New York Home Price Index                                                                            NSA  29-Nov-2022  Monthly        
-NYXRPSNSA                     Home Price Sales Pair Counts for New York, New York                                                                      NSA  29-Nov-2022  Monthly        
-NYXRSA                        S&P/Case-Shiller NY-New York Home Price Index                                                                            SA   29-Nov-2022  Monthly        
-PHXRHTNSA                     Home Price Index (High Tier) for Phoenix, Arizona                                                                        NSA  29-Nov-2022  Monthly        
-PHXRHTSA                      Home Price Index (High Tier) for Phoenix, Arizona                                                                        SA   29-Nov-2022  Monthly        
-PHXRLTNSA                     Home Price Index (Low Tier) for Phoenix, Arizona                                                                         NSA  29-Nov-2022  Monthly        
-PHXRLTSA                      Home Price Index (Low Tier) for Phoenix, Arizona                                                                         SA   29-Nov-2022  Monthly        
-PHXRMTNSA                     Home Price Index (Middle Tier) for Phoenix, Arizona                                                                      NSA  29-Nov-2022  Monthly        
-PHXRMTSA                      Home Price Index (Middle Tier) for Phoenix, Arizona                                                                      SA   29-Nov-2022  Monthly        
-PHXRNSA                       S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                             NSA  29-Nov-2022  Monthly        
-PHXRPSNSA                     Home Price Sales Pair Counts for Phoenix, Arizona                                                                        NSA  29-Nov-2022  Monthly        
-PHXRSA                        S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                             SA   29-Nov-2022  Monthly        
-POXRHTNSA                     Home Price Index (High Tier) for Portland, Oregon                                                                        NSA  29-Nov-2022  Monthly        
-POXRHTSA                      Home Price Index (High Tier) for Portland, Oregon                                                                        SA   29-Nov-2022  Monthly        
-POXRLTNSA                     Home Price Index (Low Tier) for Portland, Oregon                                                                         NSA  29-Nov-2022  Monthly        
-POXRLTSA                      Home Price Index (Low Tier) for Portland, Oregon                                                                         SA   29-Nov-2022  Monthly        
-POXRMTNSA                     Home Price Index (Middle Tier) for Portland, Oregon                                                                      NSA  29-Nov-2022  Monthly        
-POXRMTSA                      Home Price Index (Middle Tier) for Portland, Oregon                                                                      SA   29-Nov-2022  Monthly        
-POXRNSA                       S&P/Case-Shiller OR-Portland Home Price Index                                                                            NSA  29-Nov-2022  Monthly        
-POXRPSNSA                     Home Price Sales Pair Counts for Portland, Oregon                                                                        NSA  29-Nov-2022  Monthly        
-POXRSA                        S&P/Case-Shiller OR-Portland Home Price Index                                                                            SA   29-Nov-2022  Monthly        
-SDXRHTNSA                     Home Price Index (High Tier) for San Diego, California                                                                   NSA  29-Nov-2022  Monthly        
-SDXRHTSA                      Home Price Index (High Tier) for San Diego, California                                                                   SA   29-Nov-2022  Monthly        
-SDXRLTNSA                     Home Price Index (Low Tier) for San Diego, California                                                                    NSA  29-Nov-2022  Monthly        
-SDXRLTSA                      Home Price Index (Low Tier) for San Diego, California                                                                    SA   29-Nov-2022  Monthly        
-SDXRMTNSA                     Home Price Index (Middle Tier) for San Diego, California                                                                 NSA  29-Nov-2022  Monthly        
-SDXRMTSA                      Home Price Index (Middle Tier) for San Diego, California                                                                 SA   29-Nov-2022  Monthly        
-SDXRNSA                       S&P/Case-Shiller CA-San Diego Home Price Index                                                                           NSA  29-Nov-2022  Monthly        
-SDXRPSNSA                     Home Price Sales Pair Counts for San Diego, California                                                                   NSA  29-Nov-2022  Monthly        
-SDXRSA                        S&P/Case-Shiller CA-San Diego Home Price Index                                                                           SA   29-Nov-2022  Monthly        
-SEXRHTNSA                     Home Price Index (High Tier) for Seattle, Washington                                                                     NSA  29-Nov-2022  Monthly        
-SEXRHTSA                      Home Price Index (High Tier) for Seattle, Washington                                                                     SA   29-Nov-2022  Monthly        
-SEXRLTNSA                     Home Price Index (Low Tier) for Seattle, Washington                                                                      NSA  29-Nov-2022  Monthly        
-SEXRLTSA                      Home Price Index (Low Tier) for Seattle, Washington                                                                      SA   29-Nov-2022  Monthly        
-SEXRMTNSA                     Home Price Index (Middle Tier) for Seattle, Washington                                                                   NSA  29-Nov-2022  Monthly        
-SEXRMTSA                      Home Price Index (Middle Tier) for Seattle, Washington                                                                   SA   29-Nov-2022  Monthly        
-SEXRNSA                       S&P/Case-Shiller WA-Seattle Home Price Index                                                                             NSA  29-Nov-2022  Monthly        
-SEXRPSNSA                     Home Price Sales Pair Counts for Seattle, Washington                                                                     NSA  29-Nov-2022  Monthly        
-SEXRSA                        S&P/Case-Shiller WA-Seattle Home Price Index                                                                             SA   29-Nov-2022  Monthly        
-SFXRCNSA                      Condo Price Index for San Francisco, California                                                                          NSA  29-Nov-2022  Monthly        
-SFXRCPSNSA                    Condo Price Sales Pair Counts for San Francisco, California                                                              NSA  29-Nov-2022  Monthly        
-SFXRCSA                       Condo Price Index for San Francisco, California                                                                          SA   29-Nov-2022  Monthly        
-SFXRHTNSA                     Home Price Index (High Tier) for San Francisco, California                                                               NSA  29-Nov-2022  Monthly        
-SFXRHTSA                      Home Price Index (High Tier) for San Francisco, California                                                               SA   29-Nov-2022  Monthly        
-SFXRLTNSA                     Home Price Index (Low Tier) for San Francisco, California                                                                NSA  29-Nov-2022  Monthly        
-SFXRLTSA                      Home Price Index (Low Tier) for San Francisco, California                                                                SA   29-Nov-2022  Monthly        
-SFXRMTNSA                     Home Price Index (Middle Tier) for San Francisco, California                                                             NSA  29-Nov-2022  Monthly        
-SFXRMTSA                      Home Price Index (Middle Tier) for San Francisco, California                                                             SA   29-Nov-2022  Monthly        
-SFXRNSA                       S&P/Case-Shiller CA-San Francisco Home Price Index                                                                       NSA  29-Nov-2022  Monthly        
-SFXRPSNSA                     Home Price Sales Pair Counts for San Francisco, California                                                               NSA  29-Nov-2022  Monthly        
-SFXRSA                        S&P/Case-Shiller CA-San Francisco Home Price Index                                                                       SA   29-Nov-2022  Monthly        
-SPCS10RNSA                    S&P/Case-Shiller 10-City Composite Home Price Index                                                                      NSA  29-Nov-2022  Monthly        
-SPCS10RPSNSA                  S&P/Case-Shiller 10-City Home Price Sales Pair Counts                                                                    NSA  29-Nov-2022  Monthly        
-SPCS10RSA                     S&P/Case-Shiller 10-City Composite Home Price Index                                                                      SA   29-Nov-2022  Monthly        
-SPCS20RNSA                    S&P/Case-Shiller 20-City Composite Home Price Index                                                                      NSA  29-Nov-2022  Monthly        
-SPCS20RPSNSA                  S&P/Case-Shiller 20-City Home Price Sales Pair Counts                                                                    NSA  29-Nov-2022  Monthly        
-SPCS20RSA                     S&P/Case-Shiller 20-City Composite Home Price Index                                                                      SA   29-Nov-2022  Monthly        
-TPXRHTNSA                     Home Price Index (High Tier) for Tampa, Florida                                                                          NSA  29-Nov-2022  Monthly        
-TPXRHTSA                      Home Price Index (High Tier) for Tampa, Florida                                                                          SA   29-Nov-2022  Monthly        
-TPXRLTNSA                     Home Price Index (Low Tier) for Tampa, Florida                                                                           NSA  29-Nov-2022  Monthly        
-TPXRLTSA                      Home Price Index (Low Tier) for Tampa, Florida                                                                           SA   29-Nov-2022  Monthly        
-TPXRMTNSA                     Home Price Index (Middle Tier) for Tampa, Florida                                                                        NSA  29-Nov-2022  Monthly        
-TPXRMTSA                      Home Price Index (Middle Tier) for Tampa, Florida                                                                        SA   29-Nov-2022  Monthly        
-TPXRNSA                       S&P/Case-Shiller FL-Tampa Home Price Index                                                                               NSA  29-Nov-2022  Monthly        
-TPXRPSNSA                     Home Price Sales Pair Counts for Tampa, Florida                                                                          NSA  29-Nov-2022  Monthly        
-TPXRSA                        S&P/Case-Shiller FL-Tampa Home Price Index                                                                               SA   29-Nov-2022  Monthly        
-USCSCOMHPINSA                 S&P/Case-Shiller U.S. National Home Price Index (DISCONTINUED)                                                           NSA  27-May-2014  Quarterly      
-USCSCOMHPISA                  S&P/Case-Shiller U.S. National Home Price Index (DISCONTINUED)                                                           SA   27-May-2014  Quarterly      
-WDXRHTNSA                     Home Price Index (High Tier) for Washington D.C.                                                                         NSA  29-Nov-2022  Monthly        
-WDXRHTSA                      Home Price Index (High Tier) for Washington D.C.                                                                         SA   29-Nov-2022  Monthly        
-WDXRLTNSA                     Home Price Index (Low Tier) for Washington D.C.                                                                          NSA  29-Nov-2022  Monthly        
-WDXRLTSA                      Home Price Index (Low Tier) for Washington D.C.                                                                          SA   29-Nov-2022  Monthly        
-WDXRMTNSA                     Home Price Index (Middle Tier) for Washington D.C.                                                                       NSA  29-Nov-2022  Monthly        
-WDXRMTSA                      Home Price Index (Middle Tier) for Washington D.C.                                                                       SA   29-Nov-2022  Monthly        
-WDXRNSA                       S&P/Case-Shiller DC-Washington Home Price Index                                                                          NSA  29-Nov-2022  Monthly        
-WDXRPSNSA                     Home Price Sales Pair Counts for Washington D.C.                                                                         NSA  29-Nov-2022  Monthly        
-WDXRSA                        S&P/Case-Shiller DC-Washington Home Price Index                                                                          SA   29-Nov-2022  Monthly        
+Release  Id : 199	S&P/Case-Shiller Home Price Indices
+ATXRHTNSA                     Home Price Index (High Tier) for Atlanta, Georgia                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+ATXRHTSA                      Home Price Index (High Tier) for Atlanta, Georgia                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+ATXRLTNSA                     Home Price Index (Low Tier) for Atlanta, Georgia                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+ATXRLTSA                      Home Price Index (Low Tier) for Atlanta, Georgia                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+ATXRMTNSA                     Home Price Index (Middle Tier) for Atlanta, Georgia                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+ATXRMTSA                      Home Price Index (Middle Tier) for Atlanta, Georgia                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+ATXRNSA                       S&P/Case-Shiller GA-Atlanta Home Price Index                                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+ATXRPSNSA                     Home Price Sales Pair Counts for Atlanta, Georgia                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+ATXRSA                        S&P/Case-Shiller GA-Atlanta Home Price Index                                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+BOXRCNSA                      Condo Price Index for Boston, Massachusetts                                                                                NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRCPSNSA                    Condo Price Sales Pair Counts for Boston, Massachusetts                                                                    NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRCSA                       Condo Price Index for Boston, Massachusetts                                                                                SA   29-Nov-2022 01-Sep-2022             Monthly            
+BOXRHTNSA                     Home Price Index (High Tier) for Boston, Massachusetts                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRHTSA                      Home Price Index (High Tier) for Boston, Massachusetts                                                                     SA   29-Nov-2022 01-Sep-2022             Monthly            
+BOXRLTNSA                     Home Price Index (Low Tier) for Boston, Massachusetts                                                                      NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRLTSA                      Home Price Index (Low Tier) for Boston, Massachusetts                                                                      SA   29-Nov-2022 01-Sep-2022             Monthly            
+BOXRMTNSA                     Home Price Index (Middle Tier) for Boston, Massachusetts                                                                   NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRMTSA                      Home Price Index (Middle Tier) for Boston, Massachusetts                                                                   SA   29-Nov-2022 01-Sep-2022             Monthly            
+BOXRNSA                       S&P/Case-Shiller MA-Boston Home Price Index                                                                                NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRPSNSA                     Home Price Sales Pair Counts for Boston, Massachusetts                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+BOXRSA                        S&P/Case-Shiller MA-Boston Home Price Index                                                                                SA   29-Nov-2022 01-Sep-2022             Monthly            
+CEXRNSA                       S&P/Case-Shiller OH-Cleveland Home Price Index                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CEXRPSNSA                     Home Price Sales Pair Counts for Cleveland, Ohio                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CEXRSA                        S&P/Case-Shiller OH-Cleveland Home Price Index                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+CHXRCNSA                      Condo Price Index for Chicago, Illinois                                                                                    NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRCPSNSA                    Condo Price Sales Pair Counts for Chicago, Illinois                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRCSA                       Condo Price Index for Chicago, Illinois                                                                                    SA   29-Nov-2022 01-Sep-2022             Monthly            
+CHXRHTNSA                     Home Price Index (High Tier) for Chicago, Illinois                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRHTSA                      Home Price Index (High Tier) for Chicago, Illinois                                                                         SA   29-Nov-2022 01-Sep-2022             Monthly            
+CHXRLTNSA                     Home Price Index (Low Tier) for Chicago, Illinois                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRLTSA                      Home Price Index (Low Tier) for Chicago, Illinois                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+CHXRMTNSA                     Home Price Index (Middle Tier) for Chicago, Illinois                                                                       NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRMTSA                      Home Price Index (Middle Tier) for Chicago, Illinois                                                                       SA   29-Nov-2022 01-Sep-2022             Monthly            
+CHXRNSA                       S&P/Case-Shiller IL-Chicago Home Price Index                                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRPSNSA                     Home Price Sales Pair Counts for Chicago, Illinois                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CHXRSA                        S&P/Case-Shiller IL-Chicago Home Price Index                                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+CRXRNSA                       S&P/Case-Shiller NC-Charlotte Home Price Index                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CRXRPSNSA                     Home Price Sales Pair Counts for Charlotte, North Carolina                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CRXRSA                        S&P/Case-Shiller NC-Charlotte Home Price Index                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+CSUSHPINSA                    S&P/Case-Shiller U.S. National Home Price Index                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+CSUSHPISA                     S&P/Case-Shiller U.S. National Home Price Index                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            
+DAXRNSA                       S&P/Case-Shiller TX-Dallas Home Price Index                                                                                NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DAXRPSNSA                     Home Price Sales Pair Counts for Dallas, Texas                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DAXRSA                        S&P/Case-Shiller TX-Dallas Home Price Index                                                                                SA   29-Nov-2022 01-Sep-2022             Monthly            
+DEXRNSA                       S&P/Case-Shiller MI-Detroit Home Price Index                                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DEXRPSNSA                     Home Price Sales Pair Counts for Detroit, Michigan                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DEXRSA                        S&P/Case-Shiller MI-Detroit Home Price Index                                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+DNXRHTNSA                     Home Price Index (High Tier) for Denver, Colorado                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DNXRHTSA                      Home Price Index (High Tier) for Denver, Colorado                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+DNXRLTNSA                     Home Price Index (Low Tier) for Denver, Colorado                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DNXRLTSA                      Home Price Index (Low Tier) for Denver, Colorado                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+DNXRMTNSA                     Home Price Index (Middle Tier) for Denver, Colorado                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DNXRMTSA                      Home Price Index (Middle Tier) for Denver, Colorado                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+DNXRNSA                       S&P/Case-Shiller CO-Denver Home Price Index                                                                                NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DNXRPSNSA                     Home Price Sales Pair Counts for Denver, Colorado                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+DNXRSA                        S&P/Case-Shiller CO-Denver Home Price Index                                                                                SA   29-Nov-2022 01-Sep-2022             Monthly            
+LVXRHTNSA                     Home Price Index (High Tier) for Las Vegas, Nevada                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LVXRHTSA                      Home Price Index (High Tier) for Las Vegas, Nevada                                                                         SA   29-Nov-2022 01-Sep-2022             Monthly            
+LVXRLTNSA                     Home Price Index (Low Tier) for Las Vegas, Nevada                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LVXRLTSA                      Home Price Index (Low Tier) for Las Vegas, Nevada                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+LVXRMTNSA                     Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                       NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LVXRMTSA                      Home Price Index (Middle Tier) for Las Vegas, Nevada                                                                       SA   29-Nov-2022 01-Sep-2022             Monthly            
+LVXRNSA                       S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LVXRPSNSA                     Home Price Sales Pair Counts for Las Vegas, Nevada                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LVXRSA                        S&P/Case-Shiller NV-Las Vegas Home Price Index                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+LXXRCNSA                      Condo Price Index for Los Angeles, California                                                                              NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRCPSNSA                    Condo Price Sales Pair Counts for Los Angeles, California                                                                  NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRCSA                       Condo Price Index for Los Angeles, California                                                                              SA   29-Nov-2022 01-Sep-2022             Monthly            
+LXXRHTNSA                     Home Price Index (High Tier) for Los Angeles, California                                                                   NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRHTSA                      Home Price Index (High Tier) for Los Angeles, California                                                                   SA   29-Nov-2022 01-Sep-2022             Monthly            
+LXXRLTNSA                     Home Price Index (Low Tier) for Los Angeles, California                                                                    NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRLTSA                      Home Price Index (Low Tier) for Los Angeles, California                                                                    SA   29-Nov-2022 01-Sep-2022             Monthly            
+LXXRMTNSA                     Home Price Index (Middle Tier) for Los Angeles, California                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRMTSA                      Home Price Index (Middle Tier) for Los Angeles, California                                                                 SA   29-Nov-2022 01-Sep-2022             Monthly            
+LXXRNSA                       S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRPSNSA                     Home Price Sales Pair Counts for Los Angeles, California                                                                   NSA  29-Nov-2022 01-Sep-2022             Monthly            
+LXXRSA                        S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+MIXRHTNSA                     Home Price Index (High Tier) for Miami, Florida                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MIXRHTSA                      Home Price Index (High Tier) for Miami, Florida                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            
+MIXRLTNSA                     Home Price Index (Low Tier) for Miami, Florida                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MIXRLTSA                      Home Price Index (Low Tier) for Miami, Florida                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+MIXRMTNSA                     Home Price Index (Middle Tier) for Miami, Florida                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MIXRMTSA                      Home Price Index (Middle Tier) for Miami, Florida                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+MIXRNSA                       S&P/Case-Shiller FL-Miami Home Price Index                                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MIXRPSNSA                     Home Price Sales Pair Counts for Miami, Florida                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MIXRSA                        S&P/Case-Shiller FL-Miami Home Price Index                                                                                 SA   29-Nov-2022 01-Sep-2022             Monthly            
+MNXRHTNSA                     Home Price Index (High Tier) for Minneapolis, Minnesota                                                                    NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MNXRHTSA                      Home Price Index (High Tier) for Minneapolis, Minnesota                                                                    SA   29-Nov-2022 01-Sep-2022             Monthly            
+MNXRLTNSA                     Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MNXRLTSA                      Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                     SA   29-Nov-2022 01-Sep-2022             Monthly            
+MNXRMTNSA                     Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                  NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MNXRMTSA                      Home Price Index (Middle Tier) for Minneapolis, Minnesota                                                                  SA   29-Nov-2022 01-Sep-2022             Monthly            
+MNXRNSA                       S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MNXRPSNSA                     Home Price Sales Pair Counts for Minneapolis, Minnesota                                                                    NSA  29-Nov-2022 01-Sep-2022             Monthly            
+MNXRSA                        S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+NYXRCNSA                      Condo Price Index for New York, New York                                                                                   NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRCPSNSA                    Condo Price Sales Pair Counts for New York, New York                                                                       NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRCSA                       Condo Price Index for New York, New York                                                                                   SA   29-Nov-2022 01-Sep-2022             Monthly            
+NYXRHTNSA                     Home Price Index (High Tier) for New York, New York                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRHTSA                      Home Price Index (High Tier) for New York, New York                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+NYXRLTNSA                     Home Price Index (Low Tier) for New York, New York                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRLTSA                      Home Price Index (Low Tier) for New York, New York                                                                         SA   29-Nov-2022 01-Sep-2022             Monthly            
+NYXRMTNSA                     Home Price Index (Middle Tier) for New York, New York                                                                      NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRMTSA                      Home Price Index (Middle Tier) for New York, New York                                                                      SA   29-Nov-2022 01-Sep-2022             Monthly            
+NYXRNSA                       S&P/Case-Shiller NY-New York Home Price Index                                                                              NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRPSNSA                     Home Price Sales Pair Counts for New York, New York                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+NYXRSA                        S&P/Case-Shiller NY-New York Home Price Index                                                                              SA   29-Nov-2022 01-Sep-2022             Monthly            
+PHXRHTNSA                     Home Price Index (High Tier) for Phoenix, Arizona                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+PHXRHTSA                      Home Price Index (High Tier) for Phoenix, Arizona                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+PHXRLTNSA                     Home Price Index (Low Tier) for Phoenix, Arizona                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+PHXRLTSA                      Home Price Index (Low Tier) for Phoenix, Arizona                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+PHXRMTNSA                     Home Price Index (Middle Tier) for Phoenix, Arizona                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+PHXRMTSA                      Home Price Index (Middle Tier) for Phoenix, Arizona                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+PHXRNSA                       S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+PHXRPSNSA                     Home Price Sales Pair Counts for Phoenix, Arizona                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+PHXRSA                        S&P/Case-Shiller AZ-Phoenix Home Price Index                                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+POXRHTNSA                     Home Price Index (High Tier) for Portland, Oregon                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+POXRHTSA                      Home Price Index (High Tier) for Portland, Oregon                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+POXRLTNSA                     Home Price Index (Low Tier) for Portland, Oregon                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+POXRLTSA                      Home Price Index (Low Tier) for Portland, Oregon                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+POXRMTNSA                     Home Price Index (Middle Tier) for Portland, Oregon                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+POXRMTSA                      Home Price Index (Middle Tier) for Portland, Oregon                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+POXRNSA                       S&P/Case-Shiller OR-Portland Home Price Index                                                                              NSA  29-Nov-2022 01-Sep-2022             Monthly            
+POXRPSNSA                     Home Price Sales Pair Counts for Portland, Oregon                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+POXRSA                        S&P/Case-Shiller OR-Portland Home Price Index                                                                              SA   29-Nov-2022 01-Sep-2022             Monthly            
+SDXRHTNSA                     Home Price Index (High Tier) for San Diego, California                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SDXRHTSA                      Home Price Index (High Tier) for San Diego, California                                                                     SA   29-Nov-2022 01-Sep-2022             Monthly            
+SDXRLTNSA                     Home Price Index (Low Tier) for San Diego, California                                                                      NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SDXRLTSA                      Home Price Index (Low Tier) for San Diego, California                                                                      SA   29-Nov-2022 01-Sep-2022             Monthly            
+SDXRMTNSA                     Home Price Index (Middle Tier) for San Diego, California                                                                   NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SDXRMTSA                      Home Price Index (Middle Tier) for San Diego, California                                                                   SA   29-Nov-2022 01-Sep-2022             Monthly            
+SDXRNSA                       S&P/Case-Shiller CA-San Diego Home Price Index                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SDXRPSNSA                     Home Price Sales Pair Counts for San Diego, California                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SDXRSA                        S&P/Case-Shiller CA-San Diego Home Price Index                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+SEXRHTNSA                     Home Price Index (High Tier) for Seattle, Washington                                                                       NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SEXRHTSA                      Home Price Index (High Tier) for Seattle, Washington                                                                       SA   29-Nov-2022 01-Sep-2022             Monthly            
+SEXRLTNSA                     Home Price Index (Low Tier) for Seattle, Washington                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SEXRLTSA                      Home Price Index (Low Tier) for Seattle, Washington                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+SEXRMTNSA                     Home Price Index (Middle Tier) for Seattle, Washington                                                                     NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SEXRMTSA                      Home Price Index (Middle Tier) for Seattle, Washington                                                                     SA   29-Nov-2022 01-Sep-2022             Monthly            
+SEXRNSA                       S&P/Case-Shiller WA-Seattle Home Price Index                                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SEXRPSNSA                     Home Price Sales Pair Counts for Seattle, Washington                                                                       NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SEXRSA                        S&P/Case-Shiller WA-Seattle Home Price Index                                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+SFXRCNSA                      Condo Price Index for San Francisco, California                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRCPSNSA                    Condo Price Sales Pair Counts for San Francisco, California                                                                NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRCSA                       Condo Price Index for San Francisco, California                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            
+SFXRHTNSA                     Home Price Index (High Tier) for San Francisco, California                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRHTSA                      Home Price Index (High Tier) for San Francisco, California                                                                 SA   29-Nov-2022 01-Sep-2022             Monthly            
+SFXRLTNSA                     Home Price Index (Low Tier) for San Francisco, California                                                                  NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRLTSA                      Home Price Index (Low Tier) for San Francisco, California                                                                  SA   29-Nov-2022 01-Sep-2022             Monthly            
+SFXRMTNSA                     Home Price Index (Middle Tier) for San Francisco, California                                                               NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRMTSA                      Home Price Index (Middle Tier) for San Francisco, California                                                               SA   29-Nov-2022 01-Sep-2022             Monthly            
+SFXRNSA                       S&P/Case-Shiller CA-San Francisco Home Price Index                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRPSNSA                     Home Price Sales Pair Counts for San Francisco, California                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SFXRSA                        S&P/Case-Shiller CA-San Francisco Home Price Index                                                                         SA   29-Nov-2022 01-Sep-2022             Monthly            
+SPCS10RNSA                    S&P/Case-Shiller 10-City Composite Home Price Index                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SPCS10RPSNSA                  S&P/Case-Shiller 10-City Home Price Sales Pair Counts                                                                      NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SPCS10RSA                     S&P/Case-Shiller 10-City Composite Home Price Index                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+SPCS20RNSA                    S&P/Case-Shiller 20-City Composite Home Price Index                                                                        NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SPCS20RPSNSA                  S&P/Case-Shiller 20-City Home Price Sales Pair Counts                                                                      NSA  29-Nov-2022 01-Sep-2022             Monthly            
+SPCS20RSA                     S&P/Case-Shiller 20-City Composite Home Price Index                                                                        SA   29-Nov-2022 01-Sep-2022             Monthly            
+TPXRHTNSA                     Home Price Index (High Tier) for Tampa, Florida                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+TPXRHTSA                      Home Price Index (High Tier) for Tampa, Florida                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            
+TPXRLTNSA                     Home Price Index (Low Tier) for Tampa, Florida                                                                             NSA  29-Nov-2022 01-Sep-2022             Monthly            
+TPXRLTSA                      Home Price Index (Low Tier) for Tampa, Florida                                                                             SA   29-Nov-2022 01-Sep-2022             Monthly            
+TPXRMTNSA                     Home Price Index (Middle Tier) for Tampa, Florida                                                                          NSA  29-Nov-2022 01-Sep-2022             Monthly            
+TPXRMTSA                      Home Price Index (Middle Tier) for Tampa, Florida                                                                          SA   29-Nov-2022 01-Sep-2022             Monthly            
+TPXRNSA                       S&P/Case-Shiller FL-Tampa Home Price Index                                                                                 NSA  29-Nov-2022 01-Sep-2022             Monthly            
+TPXRPSNSA                     Home Price Sales Pair Counts for Tampa, Florida                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+TPXRSA                        S&P/Case-Shiller FL-Tampa Home Price Index                                                                                 SA   29-Nov-2022 01-Sep-2022             Monthly            
+USCSCOMHPINSA                 S&P/Case-Shiller U.S. National Home Price Index (DISCONTINUED)                                                             NSA  27-May-2014 01-Jan-2014             Quarterly          
+USCSCOMHPISA                  S&P/Case-Shiller U.S. National Home Price Index (DISCONTINUED)                                                             SA   27-May-2014 01-Jan-2014             Quarterly          
+WDXRHTNSA                     Home Price Index (High Tier) for Washington D.C.                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+WDXRHTSA                      Home Price Index (High Tier) for Washington D.C.                                                                           SA   29-Nov-2022 01-Sep-2022             Monthly            
+WDXRLTNSA                     Home Price Index (Low Tier) for Washington D.C.                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+WDXRLTSA                      Home Price Index (Low Tier) for Washington D.C.                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            
+WDXRMTNSA                     Home Price Index (Middle Tier) for Washington D.C.                                                                         NSA  29-Nov-2022 01-Sep-2022             Monthly            
+WDXRMTSA                      Home Price Index (Middle Tier) for Washington D.C.                                                                         SA   29-Nov-2022 01-Sep-2022             Monthly            
+WDXRNSA                       S&P/Case-Shiller DC-Washington Home Price Index                                                                            NSA  29-Nov-2022 01-Sep-2022             Monthly            
+WDXRPSNSA                     Home Price Sales Pair Counts for Washington D.C.                                                                           NSA  29-Nov-2022 01-Sep-2022             Monthly            
+WDXRSA                        S&P/Case-Shiller DC-Washington Home Price Index                                                                            SA   29-Nov-2022 01-Sep-2022             Monthly            

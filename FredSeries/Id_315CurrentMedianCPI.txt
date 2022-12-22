@@ -1,9 +1,9 @@
-Id : 315  Current Median CPI
-MEDCPIM094SFRBCLE             Median Consumer Price Index                                                                                              SA   10-Nov-2022  Monthly        
-MEDCPIM157SFRBCLE             Median Consumer Price Index                                                                                              SA   10-Nov-2022  Monthly        
-MEDCPIM158SFRBCLE             Median Consumer Price Index                                                                                              SA   10-Nov-2022  Monthly        
-MEDCPIM159SFRBCLE             Median Consumer Price Index                                                                                              SA   10-Nov-2022  Monthly        
-TRMMEANCPIM094SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    SA   10-Nov-2022  Monthly        
-TRMMEANCPIM157SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    SA   10-Nov-2022  Monthly        
-TRMMEANCPIM158SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    SA   10-Nov-2022  Monthly        
-TRMMEANCPIM159SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    SA   10-Nov-2022  Monthly        
+Release  Id : 315	Current Median CPI
+MEDCPIM094SFRBCLE             Median Consumer Price Index                                                                                                SA   14-Dec-2022 01-Nov-2022             Monthly            
+MEDCPIM157SFRBCLE             Median Consumer Price Index                                                                                              P SA   14-Dec-2022 01-Nov-2022             Monthly            
+MEDCPIM158SFRBCLE             Median Consumer Price Index                                                                                              P SA   14-Dec-2022 01-Nov-2022             Monthly            
+MEDCPIM159SFRBCLE             Median Consumer Price Index                                                                                              P SA   14-Dec-2022 01-Nov-2022             Monthly            
+TRMMEANCPIM094SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                      SA   14-Dec-2022 01-Nov-2022             Monthly            
+TRMMEANCPIM157SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    P SA   14-Dec-2022 01-Nov-2022             Monthly            
+TRMMEANCPIM158SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    P SA   14-Dec-2022 01-Nov-2022             Monthly            
+TRMMEANCPIM159SFRBCLE         16% Trimmed-Mean Consumer Price Index                                                                                    P SA   14-Dec-2022 01-Nov-2022             Monthly            

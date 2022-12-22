@@ -1,335 +1,335 @@
-Id : 267  National Accounts - GDP (Eurostat)
-CLVMEURNSAB1GQAT              Real Gross Domestic Product (Euro/ECU series) for Austria                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQBE              Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQBG              Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                               NSA  15-Nov-2022  Quarterly      
-CLVMEURNSAB1GQCH              Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQCY              Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 NSA  15-Nov-2022  Quarterly      
-CLVMEURNSAB1GQCZ              Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                         NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQDE              Real Gross Domestic Product (Euro/ECU series) for Germany                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQDK              Real Gross Domestic Product (Euro/ECU series) for Denmark                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEA              Real Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA1  NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEA12            Real Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                               NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEA18            Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                               NSA  30-Jan-2018  Quarterly      
-CLVMEURNSAB1GQEA19            Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                               NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEE              Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEL              Real Gross Domestic Product (Euro/ECU series) for Greece                                                                 NSA  19-Oct-2022  Quarterly      
-CLVMEURNSAB1GQES              Real Gross Domestic Product (Euro/ECU series) for Spain                                                                  NSA  15-Nov-2022  Quarterly      
-CLVMEURNSAB1GQEU15            Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                          NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEU272020        Real Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQEU28            Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                          NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQFI              Real Gross Domestic Product (Euro/ECU series) for Finland                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQFR              Real Gross Domestic Product (Euro/ECU series) for France                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQHR              Real Gross Domestic Product (Euro/ECU series) for Croatia                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQHU              Real Gross Domestic Product (Euro/ECU series) for Hungary                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQIE              Real Gross Domestic Product (Euro/ECU series) for Ireland                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQIS              Real Gross Domestic Product (Euro/ECU series) for Iceland                                                                NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQIT              Real Gross Domestic Product (Euro/ECU series) for Italy                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQLT              Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                              NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQLU              Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                             NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQLV              Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQMK              Real Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                              NSA  07-Sep-2022  Quarterly      
-CLVMEURNSAB1GQMT              Real Gross Domestic Product (Euro/ECU series) for Malta                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQNL              Real Gross Domestic Product (Euro/ECU series) for Netherlands                                                            NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQNO              Real Gross Domestic Product (Euro/ECU series) for Norway                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQPL              Real Gross Domestic Product (Euro/ECU series) for Poland                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQPT              Real Gross Domestic Product (Euro/ECU series) for Portugal                                                               NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQRO              Real Gross Domestic Product (Euro/ECU series) for Romania                                                                NSA  19-Oct-2022  Quarterly      
-CLVMEURNSAB1GQRS              Real Gross Domestic Product (Euro/ECU series) for Serbia                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQSE              Real Gross Domestic Product (Euro/ECU series) for Sweden                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQSI              Real Gross Domestic Product (Euro/ECU series) for Slovenia                                                               NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQSK              Real Gross Domestic Product (Euro/ECU series) for Slovakia                                                               NSA  07-Dec-2022  Quarterly      
-CLVMEURNSAB1GQUK              Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         NSA  17-Feb-2021  Quarterly      
-CLVMEURSAB1GQCH               Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            SA   07-Dec-2022  Quarterly      
-CLVMEURSAB1GQCY               Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 SA   31-Oct-2017  Quarterly      
-CLVMEURSAB1GQIE               Real Gross Domestic Product (Euro/ECU series) for Ireland                                                                SA   08-Apr-2016  Quarterly      
-CLVMEURSAB1GQIS               Real Gross Domestic Product (Euro/ECU series) for Iceland                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSAB1GQSK               Real Gross Domestic Product (Euro/ECU series) for Slovakia                                                               SA   08-Dec-2020  Quarterly      
-CLVMEURSAB1GQUK               Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         SA   08-Apr-2016  Quarterly      
-CLVMEURSCAB1GQAT              Real Gross Domestic Product (Euro/ECU series) for Austria                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQBE              Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQBG              Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                               SA   15-Nov-2022  Quarterly      
-CLVMEURSCAB1GQCH              Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQCY              Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQCZ              Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                         SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQDE              Real Gross Domestic Product (Euro/ECU series) for Germany                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQDK              Real Gross Domestic Product (Euro/ECU series) for Denmark                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEA              Real Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA1  SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEA12            Real Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                               SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEA18            Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                               SA   30-Jan-2018  Quarterly      
-CLVMEURSCAB1GQEA19            Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                               SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEE              Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEL              Real Gross Domestic Product (Euro/ECU series) for Greece                                                                 SA   19-Oct-2022  Quarterly      
-CLVMEURSCAB1GQES              Real Gross Domestic Product (Euro/ECU series) for Spain                                                                  SA   15-Nov-2022  Quarterly      
-CLVMEURSCAB1GQEU15            Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                          SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEU272020        Real Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQEU28            Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                          SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQFI              Real Gross Domestic Product (Euro/ECU series) for Finland                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQFR              Real Gross Domestic Product (Euro/ECU series) for France                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQHR              Real Gross Domestic Product (Euro/ECU series) for Croatia                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQHU              Real Gross Domestic Product (Euro/ECU series) for Hungary                                                                SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQIT              Real Gross Domestic Product (Euro/ECU series) for Italy                                                                  SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQLT              Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                              SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQLU              Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                             SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQLV              Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQMT              Real Gross Domestic Product (Euro/ECU series) for Malta                                                                  SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQNL              Real Gross Domestic Product (Euro/ECU series) for Netherlands                                                            SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQNO              Real Gross Domestic Product (Euro/ECU series) for Norway                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQPL              Real Gross Domestic Product (Euro/ECU series) for Poland                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQPT              Real Gross Domestic Product (Euro/ECU series) for Portugal                                                               SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQRO              Real Gross Domestic Product (Euro/ECU series) for Romania                                                                SA   15-Nov-2022  Quarterly      
-CLVMEURSCAB1GQRS              Real Gross Domestic Product (Euro/ECU series) for Serbia                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQSE              Real Gross Domestic Product (Euro/ECU series) for Sweden                                                                 SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQSI              Real Gross Domestic Product (Euro/ECU series) for Slovenia                                                               SA   07-Dec-2022  Quarterly      
-CLVMEURSCAB1GQUK              Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         SA   17-Feb-2021  Quarterly      
-CLVMNACNSAB1GQAL              Real Gross Domestic Product for Albania                                                                                  NSA  19-Oct-2022  Quarterly      
-CLVMNACNSAB1GQAT              Real Gross Domestic Product for Austria                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQBE              Real Gross Domestic Product for Belgium                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQBG              Real Gross Domestic Product for Bulgaria                                                                                 NSA  15-Nov-2022  Quarterly      
-CLVMNACNSAB1GQCH              Real Gross Domestic Product for Switzerland                                                                              NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQCY              Real Gross Domestic Product for Cyprus                                                                                   NSA  15-Nov-2022  Quarterly      
-CLVMNACNSAB1GQCZ              Real Gross Domestic Product for Czech Republic                                                                           NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQDE              Real Gross Domestic Product for Germany                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQDK              Real Gross Domestic Product for Denmark                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEA              Real Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014,  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEA12            Real Gross Domestic Product for Euro area (12 countries)                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEA18            Real Gross Domestic Product for Euro area (18 countries)                                                                 NSA  30-Jan-2018  Quarterly      
-CLVMNACNSAB1GQEA19            Real Gross Domestic Product for Euro area (19 countries)                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEE              Real Gross Domestic Product for Estonia                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEL              Real Gross Domestic Product for Greece                                                                                   NSA  19-Oct-2022  Quarterly      
-CLVMNACNSAB1GQES              Real Gross Domestic Product for Spain                                                                                    NSA  15-Nov-2022  Quarterly      
-CLVMNACNSAB1GQEU15            Real Gross Domestic Product for European Union (15 countries)                                                            NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEU272020        Real Gross Domestic Product for European Union (27 countries from 2020)                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQEU28            Real Gross Domestic Product for European Union (28 countries)                                                            NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQFI              Real Gross Domestic Product for Finland                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQFR              Real Gross Domestic Product for France                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQHR              Real Gross Domestic Product for Croatia                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQHU              Real Gross Domestic Product for Hungary                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQIE              Real Gross Domestic Product for Ireland                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQIS              Real Gross Domestic Product for Iceland                                                                                  NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQIT              Real Gross Domestic Product for Italy                                                                                    NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQLT              Real Gross Domestic Product for Lithuania                                                                                NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQLU              Real Gross Domestic Product for Luxembourg                                                                               NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQLV              Real Gross Domestic Product for Latvia                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQMK              Real Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                NSA  07-Sep-2022  Quarterly      
-CLVMNACNSAB1GQMT              Real Gross Domestic Product for Malta                                                                                    NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQNL              Real Gross Domestic Product for Netherlands                                                                              NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQNO              Real Gross Domestic Product for Norway                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQPL              Real Gross Domestic Product for Poland                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQPT              Real Gross Domestic Product for Portugal                                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQRO              Real Gross Domestic Product for Romania                                                                                  NSA  19-Oct-2022  Quarterly      
-CLVMNACNSAB1GQRS              Real Gross Domestic Product for Serbia                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQSE              Real Gross Domestic Product for Sweden                                                                                   NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQSI              Real Gross Domestic Product for Slovenia                                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQSK              Real Gross Domestic Product for Slovakia                                                                                 NSA  07-Dec-2022  Quarterly      
-CLVMNACNSAB1GQUK              Real Gross Domestic Product for United Kingdom                                                                           NSA  17-Feb-2021  Quarterly      
-CLVMNACSAB1GQAL               Real Gross Domestic Product for Albania                                                                                  SA   19-Oct-2022  Quarterly      
-CLVMNACSAB1GQCH               Real Gross Domestic Product for Switzerland                                                                              SA   07-Dec-2022  Quarterly      
-CLVMNACSAB1GQCY               Real Gross Domestic Product for Cyprus                                                                                   SA   31-Oct-2017  Quarterly      
-CLVMNACSAB1GQIE               Real Gross Domestic Product for Ireland                                                                                  SA   08-Apr-2016  Quarterly      
-CLVMNACSAB1GQIS               Real Gross Domestic Product for Iceland                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSAB1GQSK               Real Gross Domestic Product for Slovakia                                                                                 SA   08-Dec-2020  Quarterly      
-CLVMNACSAB1GQUK               Real Gross Domestic Product for United Kingdom                                                                           SA   08-Apr-2016  Quarterly      
-CLVMNACSCAB1GQAT              Real Gross Domestic Product for Austria                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQBE              Real Gross Domestic Product for Belgium                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQBG              Real Gross Domestic Product for Bulgaria                                                                                 SA   15-Nov-2022  Quarterly      
-CLVMNACSCAB1GQCH              Real Gross Domestic Product for Switzerland                                                                              SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQCY              Real Gross Domestic Product for Cyprus                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQCZ              Real Gross Domestic Product for Czech Republic                                                                           SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQDE              Real Gross Domestic Product for Germany                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQDK              Real Gross Domestic Product for Denmark                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEA              Real Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014,  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEA12            Real Gross Domestic Product for Euro area (12 countries)                                                                 SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEA18            Real Gross Domestic Product for Euro area (18 countries)                                                                 SA   30-Jan-2018  Quarterly      
-CLVMNACSCAB1GQEA19            Real Gross Domestic Product for Euro area (19 countries)                                                                 SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEE              Real Gross Domestic Product for Estonia                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEL              Real Gross Domestic Product for Greece                                                                                   SA   19-Oct-2022  Quarterly      
-CLVMNACSCAB1GQES              Real Gross Domestic Product for Spain                                                                                    SA   15-Nov-2022  Quarterly      
-CLVMNACSCAB1GQEU15            Real Gross Domestic Product for European Union (15 countries)                                                            SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEU272020        Real Gross Domestic Product for European Union (27 countries from 2020)                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQEU28            Real Gross Domestic Product for European Union (28 countries)                                                            SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQFI              Real Gross Domestic Product for Finland                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQFR              Real Gross Domestic Product for France                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQHR              Real Gross Domestic Product for Croatia                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQHU              Real Gross Domestic Product for Hungary                                                                                  SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQIT              Real Gross Domestic Product for Italy                                                                                    SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQLT              Real Gross Domestic Product for Lithuania                                                                                SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQLU              Real Gross Domestic Product for Luxembourg                                                                               SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQLV              Real Gross Domestic Product for Latvia                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQMT              Real Gross Domestic Product for Malta                                                                                    SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQNL              Real Gross Domestic Product for Netherlands                                                                              SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQNO              Real Gross Domestic Product for Norway                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQPL              Real Gross Domestic Product for Poland                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQPT              Real Gross Domestic Product for Portugal                                                                                 SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQRO              Real Gross Domestic Product for Romania                                                                                  SA   15-Nov-2022  Quarterly      
-CLVMNACSCAB1GQRS              Real Gross Domestic Product for Serbia                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQSE              Real Gross Domestic Product for Sweden                                                                                   SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQSI              Real Gross Domestic Product for Slovenia                                                                                 SA   07-Dec-2022  Quarterly      
-CLVMNACSCAB1GQUK              Real Gross Domestic Product for United Kingdom                                                                           SA   17-Feb-2021  Quarterly      
-CPMEURNSAB1GQAT               Gross Domestic Product (Euro/ECU series) for Austria                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQBE               Gross Domestic Product (Euro/ECU series) for Belgium                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQBG               Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                    NSA  15-Nov-2022  Quarterly      
-CPMEURNSAB1GQCH               Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQCY               Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQCZ               Gross Domestic Product (Euro/ECU series) for Czech Republic                                                              NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQDE               Gross Domestic Product (Euro/ECU series) for Germany                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQDK               Gross Domestic Product (Euro/ECU series) for Denmark                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEA               Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-201  NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEA12             Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                                    NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEA18             Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                    NSA  30-Jan-2018  Quarterly      
-CPMEURNSAB1GQEA19             Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                                    NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEE               Gross Domestic Product (Euro/ECU series) for Estonia                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEL               Gross Domestic Product (Euro/ECU series) for Greece                                                                      NSA  19-Oct-2022  Quarterly      
-CPMEURNSAB1GQES               Gross Domestic Product (Euro/ECU series) for Spain                                                                       NSA  15-Nov-2022  Quarterly      
-CPMEURNSAB1GQEU15             Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                               NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEU272020         Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQEU28             Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                               NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQFI               Gross Domestic Product (Euro/ECU series) for Finland                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQFR               Gross Domestic Product (Euro/ECU series) for France                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQHR               Gross Domestic Product (Euro/ECU series) for Croatia                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQHU               Gross Domestic Product (Euro/ECU series) for Hungary                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQIE               Gross Domestic Product (Euro/ECU series) for Ireland                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQIS               Gross Domestic Product (Euro/ECU series) for Iceland                                                                     NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQIT               Gross Domestic Product (Euro/ECU series) for Italy                                                                       NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQLT               Gross Domestic Product (Euro/ECU series) for Lithuania                                                                   NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQLU               Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                  NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQLV               Gross Domestic Product (Euro/ECU series) for Latvia                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQME               Gross Domestic Product (Euro/ECU series) for Montenegro                                                                  NSA  19-Oct-2022  Quarterly      
-CPMEURNSAB1GQMK               Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                                   NSA  07-Sep-2022  Quarterly      
-CPMEURNSAB1GQMT               Gross Domestic Product (Euro/ECU series) for Malta                                                                       NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQNL               Gross Domestic Product (Euro/ECU series) for Netherlands                                                                 NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQNO               Gross Domestic Product (Euro/ECU series) for Norway                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQPL               Gross Domestic Product (Euro/ECU series) for Poland                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQPT               Gross Domestic Product (Euro/ECU series) for Portugal                                                                    NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQRO               Gross Domestic Product (Euro/ECU series) for Romania                                                                     NSA  19-Oct-2022  Quarterly      
-CPMEURNSAB1GQRS               Gross Domestic Product (Euro/ECU series) for Serbia                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQSE               Gross Domestic Product (Euro/ECU series) for Sweden                                                                      NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQSI               Gross Domestic Product (Euro/ECU series) for Slovenia                                                                    NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQSK               Gross Domestic Product (Euro/ECU series) for Slovakia                                                                    NSA  07-Dec-2022  Quarterly      
-CPMEURNSAB1GQUK               Gross Domestic Product (Euro/ECU series) for United Kingdom                                                              NSA  17-Feb-2021  Quarterly      
-CPMEURNSAB1GQXK               Gross Domestic Product (Euro/ECU series) for Kosovo                                                                      NSA  19-Oct-2022  Quarterly      
-CPMEURSAB1GQCH                Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 SA   07-Dec-2022  Quarterly      
-CPMEURSAB1GQCY                Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      SA   31-Oct-2017  Quarterly      
-CPMEURSAB1GQIE                Gross Domestic Product (Euro/ECU series) for Ireland                                                                     SA   08-Apr-2016  Quarterly      
-CPMEURSAB1GQIS                Gross Domestic Product (Euro/ECU series) for Iceland                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSAB1GQSK                Gross Domestic Product (Euro/ECU series) for Slovakia                                                                    SA   08-Dec-2020  Quarterly      
-CPMEURSCAB1GQAT               Gross Domestic Product (Euro/ECU series) for Austria                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQBE               Gross Domestic Product (Euro/ECU series) for Belgium                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQBG               Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                    SA   15-Nov-2022  Quarterly      
-CPMEURSCAB1GQCH               Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQCY               Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQCZ               Gross Domestic Product (Euro/ECU series) for Czech Republic                                                              SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQDE               Gross Domestic Product (Euro/ECU series) for Germany                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQDK               Gross Domestic Product (Euro/ECU series) for Denmark                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEA               Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-201  SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEA12             Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                                    SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEA18             Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                    SA   30-Jan-2018  Quarterly      
-CPMEURSCAB1GQEE               Gross Domestic Product (Euro/ECU series) for Estonia                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEL               Gross Domestic Product (Euro/ECU series) for Greece                                                                      SA   19-Oct-2022  Quarterly      
-CPMEURSCAB1GQES               Gross Domestic Product (Euro/ECU series) for Spain                                                                       SA   15-Nov-2022  Quarterly      
-CPMEURSCAB1GQEU15             Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                               SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEU272020         Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQEU28             Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                               SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQFI               Gross Domestic Product (Euro/ECU series) for Finland                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQFR               Gross Domestic Product (Euro/ECU series) for France                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQHR               Gross Domestic Product (Euro/ECU series) for Croatia                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQHU               Gross Domestic Product (Euro/ECU series) for Hungary                                                                     SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQIT               Gross Domestic Product (Euro/ECU series) for Italy                                                                       SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQLT               Gross Domestic Product (Euro/ECU series) for Lithuania                                                                   SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQLU               Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                  SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQLV               Gross Domestic Product (Euro/ECU series) for Latvia                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQMT               Gross Domestic Product (Euro/ECU series) for Malta                                                                       SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQNL               Gross Domestic Product (Euro/ECU series) for Netherlands                                                                 SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQNO               Gross Domestic Product (Euro/ECU series) for Norway                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQPL               Gross Domestic Product (Euro/ECU series) for Poland                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQPT               Gross Domestic Product (Euro/ECU series) for Portugal                                                                    SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQRO               Gross Domestic Product (Euro/ECU series) for Romania                                                                     SA   19-Oct-2022  Quarterly      
-CPMEURSCAB1GQSE               Gross Domestic Product (Euro/ECU series) for Sweden                                                                      SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQSI               Gross Domestic Product (Euro/ECU series) for Slovenia                                                                    SA   07-Dec-2022  Quarterly      
-CPMEURSCAB1GQUK               Gross Domestic Product (Euro/ECU series) for United Kingdom                                                              SA   17-Feb-2021  Quarterly      
-CPMNACNSAB1GQAL               Gross Domestic Product for Albania                                                                                       NSA  19-Oct-2022  Quarterly      
-CPMNACNSAB1GQAT               Gross Domestic Product for Austria                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQBE               Gross Domestic Product for Belgium                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQBG               Gross Domestic Product for Bulgaria                                                                                      NSA  15-Nov-2022  Quarterly      
-CPMNACNSAB1GQCH               Gross Domestic Product for Switzerland                                                                                   NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQCY               Gross Domestic Product for Cyprus                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQCZ               Gross Domestic Product for Czech Republic                                                                                NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQDE               Gross Domestic Product for Germany                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQDK               Gross Domestic Product for Denmark                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEA               Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19) NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEA12             Gross Domestic Product for Euro area (12 countries)                                                                      NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEA18             Gross Domestic Product for Euro area (18 countries)                                                                      NSA  30-Jan-2018  Quarterly      
-CPMNACNSAB1GQEA19             Gross Domestic Product for Euro area (19 countries)                                                                      NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEE               Gross Domestic Product for Estonia                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEL               Gross Domestic Product for Greece                                                                                        NSA  19-Oct-2022  Quarterly      
-CPMNACNSAB1GQES               Gross Domestic Product for Spain                                                                                         NSA  15-Nov-2022  Quarterly      
-CPMNACNSAB1GQEU15             Gross Domestic Product for European Union (15 countries)                                                                 NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEU272020         Gross Domestic Product for European Union (27 countries from 2020)                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQEU28             Gross Domestic Product for European Union (28 countries)                                                                 NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQFI               Gross Domestic Product for Finland                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQFR               Gross Domestic Product for France                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQHR               Gross Domestic Product for Croatia                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQHU               Gross Domestic Product for Hungary                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQIE               Gross Domestic Product for Ireland                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQIS               Gross Domestic Product for Iceland                                                                                       NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQIT               Gross Domestic Product for Italy                                                                                         NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQLT               Gross Domestic Product for Lithuania                                                                                     NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQLU               Gross Domestic Product for Luxembourg                                                                                    NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQLV               Gross Domestic Product for Latvia                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQME               Gross Domestic Product for Montenegro                                                                                    NSA  19-Oct-2022  Quarterly      
-CPMNACNSAB1GQMK               Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                     NSA  07-Sep-2022  Quarterly      
-CPMNACNSAB1GQMT               Gross Domestic Product for Malta                                                                                         NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQNL               Gross Domestic Product for Netherlands                                                                                   NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQNO               Gross Domestic Product for Norway                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQPL               Gross Domestic Product for Poland                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQPT               Gross Domestic Product for Portugal                                                                                      NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQRO               Gross Domestic Product for Romania                                                                                       NSA  19-Oct-2022  Quarterly      
-CPMNACNSAB1GQRS               Gross Domestic Product for Serbia                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQSE               Gross Domestic Product for Sweden                                                                                        NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQSI               Gross Domestic Product for Slovenia                                                                                      NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQSK               Gross Domestic Product for Slovakia                                                                                      NSA  07-Dec-2022  Quarterly      
-CPMNACNSAB1GQUK               Gross Domestic Product for United Kingdom                                                                                NSA  17-Feb-2021  Quarterly      
-CPMNACNSAB1GQXK               Gross Domestic Product for Kosovo                                                                                        NSA  19-Oct-2022  Quarterly      
-CPMNACSAB1GQAL                Gross Domestic Product for Albania                                                                                       SA   19-Oct-2022  Quarterly      
-CPMNACSAB1GQCH                Gross Domestic Product for Switzerland                                                                                   SA   07-Dec-2022  Quarterly      
-CPMNACSAB1GQCY                Gross Domestic Product for Cyprus                                                                                        SA   31-Oct-2017  Quarterly      
-CPMNACSAB1GQIE                Gross Domestic Product for Ireland                                                                                       SA   08-Apr-2016  Quarterly      
-CPMNACSAB1GQIS                Gross Domestic Product for Iceland                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSAB1GQSK                Gross Domestic Product for Slovakia                                                                                      SA   08-Dec-2020  Quarterly      
-CPMNACSCAB1GQAL               Gross Domestic Product for Albania                                                                                       SA   08-Apr-2016  Quarterly      
-CPMNACSCAB1GQAT               Gross Domestic Product for Austria                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQBE               Gross Domestic Product for Belgium                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQBG               Gross Domestic Product for Bulgaria                                                                                      SA   15-Nov-2022  Quarterly      
-CPMNACSCAB1GQCH               Gross Domestic Product for Switzerland                                                                                   SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQCY               Gross Domestic Product for Cyprus                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQCZ               Gross Domestic Product for Czech Republic                                                                                SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQDE               Gross Domestic Product for Germany                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQDK               Gross Domestic Product for Denmark                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEA               Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19) SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEA12             Gross Domestic Product for Euro area (12 countries)                                                                      SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEA18             Gross Domestic Product for Euro area (18 countries)                                                                      SA   30-Jan-2018  Quarterly      
-CPMNACSCAB1GQEA19             Gross Domestic Product for Euro area (19 countries)                                                                      SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEE               Gross Domestic Product for Estonia                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEL               Gross Domestic Product for Greece                                                                                        SA   19-Oct-2022  Quarterly      
-CPMNACSCAB1GQES               Gross Domestic Product for Spain                                                                                         SA   15-Nov-2022  Quarterly      
-CPMNACSCAB1GQEU15             Gross Domestic Product for European Union (15 countries)                                                                 SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEU272020         Gross Domestic Product for European Union (27 countries from 2020)                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQEU28             Gross Domestic Product for European Union (28 countries)                                                                 SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQFI               Gross Domestic Product for Finland                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQFR               Gross Domestic Product for France                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQHR               Gross Domestic Product for Croatia                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQHU               Gross Domestic Product for Hungary                                                                                       SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQIT               Gross Domestic Product for Italy                                                                                         SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQLT               Gross Domestic Product for Lithuania                                                                                     SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQLU               Gross Domestic Product for Luxembourg                                                                                    SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQLV               Gross Domestic Product for Latvia                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQMT               Gross Domestic Product for Malta                                                                                         SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQNL               Gross Domestic Product for Netherlands                                                                                   SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQNO               Gross Domestic Product for Norway                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQPL               Gross Domestic Product for Poland                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQPT               Gross Domestic Product for Portugal                                                                                      SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQRO               Gross Domestic Product for Romania                                                                                       SA   19-Oct-2022  Quarterly      
-CPMNACSCAB1GQSE               Gross Domestic Product for Sweden                                                                                        SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQSI               Gross Domestic Product for Slovenia                                                                                      SA   07-Dec-2022  Quarterly      
-CPMNACSCAB1GQUK               Gross Domestic Product for United Kingdom                                                                                SA   17-Feb-2021  Quarterly      
-EUNGDP                        Gross Domestic Product for Euro Area (17 Countries) (DISCONTINUED)                                                       SA   10-Sep-2014  Quarterly      
-EUNNGDP                       Gross Domestic Product (Euro/ECU series) for Euro Area (19 Countries)                                                    SA   07-Dec-2022  Quarterly      
+Release  Id : 267	National Accounts - GDP (Eurostat)
+CLVMEURNSAB1GQAT              Real Gross Domestic Product (Euro/ECU series) for Austria                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQBE              Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQBG              Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                               M NSA  15-Nov-2022 01-Apr-2022             Quarterly          
+CLVMEURNSAB1GQCH              Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQCY              Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQCZ              Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                         M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQDE              Real Gross Domestic Product (Euro/ECU series) for Germany                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQDK              Real Gross Domestic Product (Euro/ECU series) for Denmark                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEA              Real Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA1  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEA12            Real Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEA18            Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                               M NSA  30-Jan-2018 01-Jul-2017             Quarterly          
+CLVMEURNSAB1GQEA19            Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEE              Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEL              Real Gross Domestic Product (Euro/ECU series) for Greece                                                                 M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMEURNSAB1GQES              Real Gross Domestic Product (Euro/ECU series) for Spain                                                                  M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEU15            Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                          M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMEURNSAB1GQEU272020        Real Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQEU28            Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                          M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMEURNSAB1GQFI              Real Gross Domestic Product (Euro/ECU series) for Finland                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQFR              Real Gross Domestic Product (Euro/ECU series) for France                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQHR              Real Gross Domestic Product (Euro/ECU series) for Croatia                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQHU              Real Gross Domestic Product (Euro/ECU series) for Hungary                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQIE              Real Gross Domestic Product (Euro/ECU series) for Ireland                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQIS              Real Gross Domestic Product (Euro/ECU series) for Iceland                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQIT              Real Gross Domestic Product (Euro/ECU series) for Italy                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQLT              Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                              M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQLU              Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                             M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQLV              Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQMK              Real Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                              M NSA  07-Sep-2022 01-Apr-2022             Quarterly          
+CLVMEURNSAB1GQMT              Real Gross Domestic Product (Euro/ECU series) for Malta                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQNL              Real Gross Domestic Product (Euro/ECU series) for Netherlands                                                            M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQNO              Real Gross Domestic Product (Euro/ECU series) for Norway                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQPL              Real Gross Domestic Product (Euro/ECU series) for Poland                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQPT              Real Gross Domestic Product (Euro/ECU series) for Portugal                                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQRO              Real Gross Domestic Product (Euro/ECU series) for Romania                                                                M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMEURNSAB1GQRS              Real Gross Domestic Product (Euro/ECU series) for Serbia                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQSE              Real Gross Domestic Product (Euro/ECU series) for Sweden                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQSI              Real Gross Domestic Product (Euro/ECU series) for Slovenia                                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQSK              Real Gross Domestic Product (Euro/ECU series) for Slovakia                                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURNSAB1GQUK              Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         M NSA  17-Feb-2021 01-Jul-2020             Quarterly          
+CLVMEURSAB1GQCH               Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSAB1GQCY               Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 M SA   31-Oct-2017 01-Apr-2017             Quarterly          
+CLVMEURSAB1GQIE               Real Gross Domestic Product (Euro/ECU series) for Ireland                                                                M SA   08-Apr-2016 01-Oct-2015             Quarterly          
+CLVMEURSAB1GQIS               Real Gross Domestic Product (Euro/ECU series) for Iceland                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSAB1GQSK               Real Gross Domestic Product (Euro/ECU series) for Slovakia                                                               M SA   08-Dec-2020 01-Jul-2020             Quarterly          
+CLVMEURSAB1GQUK               Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         M SA   08-Apr-2016 01-Oct-2014             Quarterly          
+CLVMEURSCAB1GQAT              Real Gross Domestic Product (Euro/ECU series) for Austria                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQBE              Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQBG              Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                               M SA   15-Nov-2022 01-Apr-2022             Quarterly          
+CLVMEURSCAB1GQCH              Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                            M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQCY              Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQCZ              Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                         M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQDE              Real Gross Domestic Product (Euro/ECU series) for Germany                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQDK              Real Gross Domestic Product (Euro/ECU series) for Denmark                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEA              Real Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA1  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEA12            Real Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                               M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEA18            Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                               M SA   30-Jan-2018 01-Jul-2017             Quarterly          
+CLVMEURSCAB1GQEA19            Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                               M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEE              Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEL              Real Gross Domestic Product (Euro/ECU series) for Greece                                                                 M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMEURSCAB1GQES              Real Gross Domestic Product (Euro/ECU series) for Spain                                                                  M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEU15            Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                          M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMEURSCAB1GQEU272020        Real Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQEU28            Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                          M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMEURSCAB1GQFI              Real Gross Domestic Product (Euro/ECU series) for Finland                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQFR              Real Gross Domestic Product (Euro/ECU series) for France                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQHR              Real Gross Domestic Product (Euro/ECU series) for Croatia                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQHU              Real Gross Domestic Product (Euro/ECU series) for Hungary                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQIT              Real Gross Domestic Product (Euro/ECU series) for Italy                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQLT              Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                              M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQLU              Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                             M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQLV              Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQMT              Real Gross Domestic Product (Euro/ECU series) for Malta                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQNL              Real Gross Domestic Product (Euro/ECU series) for Netherlands                                                            M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQNO              Real Gross Domestic Product (Euro/ECU series) for Norway                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQPL              Real Gross Domestic Product (Euro/ECU series) for Poland                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQPT              Real Gross Domestic Product (Euro/ECU series) for Portugal                                                               M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQRO              Real Gross Domestic Product (Euro/ECU series) for Romania                                                                M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQRS              Real Gross Domestic Product (Euro/ECU series) for Serbia                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQSE              Real Gross Domestic Product (Euro/ECU series) for Sweden                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQSI              Real Gross Domestic Product (Euro/ECU series) for Slovenia                                                               M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMEURSCAB1GQUK              Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                         M SA   17-Feb-2021 01-Jul-2020             Quarterly          
+CLVMNACNSAB1GQAL              Real Gross Domestic Product for Albania                                                                                  M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMNACNSAB1GQAT              Real Gross Domestic Product for Austria                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQBE              Real Gross Domestic Product for Belgium                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQBG              Real Gross Domestic Product for Bulgaria                                                                                 M NSA  15-Nov-2022 01-Apr-2022             Quarterly          
+CLVMNACNSAB1GQCH              Real Gross Domestic Product for Switzerland                                                                              M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQCY              Real Gross Domestic Product for Cyprus                                                                                   M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQCZ              Real Gross Domestic Product for Czech Republic                                                                           M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQDE              Real Gross Domestic Product for Germany                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQDK              Real Gross Domestic Product for Denmark                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEA              Real Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014,  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEA12            Real Gross Domestic Product for Euro area (12 countries)                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEA18            Real Gross Domestic Product for Euro area (18 countries)                                                                 M NSA  30-Jan-2018 01-Jul-2017             Quarterly          
+CLVMNACNSAB1GQEA19            Real Gross Domestic Product for Euro area (19 countries)                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEE              Real Gross Domestic Product for Estonia                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEL              Real Gross Domestic Product for Greece                                                                                   M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMNACNSAB1GQES              Real Gross Domestic Product for Spain                                                                                    M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEU15            Real Gross Domestic Product for European Union (15 countries)                                                            M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMNACNSAB1GQEU272020        Real Gross Domestic Product for European Union (27 countries from 2020)                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQEU28            Real Gross Domestic Product for European Union (28 countries)                                                            M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMNACNSAB1GQFI              Real Gross Domestic Product for Finland                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQFR              Real Gross Domestic Product for France                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQHR              Real Gross Domestic Product for Croatia                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQHU              Real Gross Domestic Product for Hungary                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQIE              Real Gross Domestic Product for Ireland                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQIS              Real Gross Domestic Product for Iceland                                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQIT              Real Gross Domestic Product for Italy                                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQLT              Real Gross Domestic Product for Lithuania                                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQLU              Real Gross Domestic Product for Luxembourg                                                                               M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQLV              Real Gross Domestic Product for Latvia                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQMK              Real Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                M NSA  07-Sep-2022 01-Apr-2022             Quarterly          
+CLVMNACNSAB1GQMT              Real Gross Domestic Product for Malta                                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQNL              Real Gross Domestic Product for Netherlands                                                                              M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQNO              Real Gross Domestic Product for Norway                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQPL              Real Gross Domestic Product for Poland                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQPT              Real Gross Domestic Product for Portugal                                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQRO              Real Gross Domestic Product for Romania                                                                                  M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMNACNSAB1GQRS              Real Gross Domestic Product for Serbia                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQSE              Real Gross Domestic Product for Sweden                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQSI              Real Gross Domestic Product for Slovenia                                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQSK              Real Gross Domestic Product for Slovakia                                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACNSAB1GQUK              Real Gross Domestic Product for United Kingdom                                                                           M NSA  17-Feb-2021 01-Jul-2020             Quarterly          
+CLVMNACSAB1GQAL               Real Gross Domestic Product for Albania                                                                                  M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMNACSAB1GQCH               Real Gross Domestic Product for Switzerland                                                                              M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSAB1GQCY               Real Gross Domestic Product for Cyprus                                                                                   M SA   31-Oct-2017 01-Apr-2017             Quarterly          
+CLVMNACSAB1GQIE               Real Gross Domestic Product for Ireland                                                                                  M SA   08-Apr-2016 01-Oct-2015             Quarterly          
+CLVMNACSAB1GQIS               Real Gross Domestic Product for Iceland                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSAB1GQSK               Real Gross Domestic Product for Slovakia                                                                                 M SA   08-Dec-2020 01-Jul-2020             Quarterly          
+CLVMNACSAB1GQUK               Real Gross Domestic Product for United Kingdom                                                                           M SA   08-Apr-2016 01-Oct-2014             Quarterly          
+CLVMNACSCAB1GQAT              Real Gross Domestic Product for Austria                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQBE              Real Gross Domestic Product for Belgium                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQBG              Real Gross Domestic Product for Bulgaria                                                                                 M SA   15-Nov-2022 01-Apr-2022             Quarterly          
+CLVMNACSCAB1GQCH              Real Gross Domestic Product for Switzerland                                                                              M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQCY              Real Gross Domestic Product for Cyprus                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQCZ              Real Gross Domestic Product for Czech Republic                                                                           M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQDE              Real Gross Domestic Product for Germany                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQDK              Real Gross Domestic Product for Denmark                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEA              Real Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014,  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEA12            Real Gross Domestic Product for Euro area (12 countries)                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEA18            Real Gross Domestic Product for Euro area (18 countries)                                                                 M SA   30-Jan-2018 01-Jul-2017             Quarterly          
+CLVMNACSCAB1GQEA19            Real Gross Domestic Product for Euro area (19 countries)                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEE              Real Gross Domestic Product for Estonia                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEL              Real Gross Domestic Product for Greece                                                                                   M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CLVMNACSCAB1GQES              Real Gross Domestic Product for Spain                                                                                    M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEU15            Real Gross Domestic Product for European Union (15 countries)                                                            M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMNACSCAB1GQEU272020        Real Gross Domestic Product for European Union (27 countries from 2020)                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQEU28            Real Gross Domestic Product for European Union (28 countries)                                                            M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CLVMNACSCAB1GQFI              Real Gross Domestic Product for Finland                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQFR              Real Gross Domestic Product for France                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQHR              Real Gross Domestic Product for Croatia                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQHU              Real Gross Domestic Product for Hungary                                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQIT              Real Gross Domestic Product for Italy                                                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQLT              Real Gross Domestic Product for Lithuania                                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQLU              Real Gross Domestic Product for Luxembourg                                                                               M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQLV              Real Gross Domestic Product for Latvia                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQMT              Real Gross Domestic Product for Malta                                                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQNL              Real Gross Domestic Product for Netherlands                                                                              M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQNO              Real Gross Domestic Product for Norway                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQPL              Real Gross Domestic Product for Poland                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQPT              Real Gross Domestic Product for Portugal                                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQRO              Real Gross Domestic Product for Romania                                                                                  M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQRS              Real Gross Domestic Product for Serbia                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQSE              Real Gross Domestic Product for Sweden                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQSI              Real Gross Domestic Product for Slovenia                                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CLVMNACSCAB1GQUK              Real Gross Domestic Product for United Kingdom                                                                           M SA   17-Feb-2021 01-Jul-2020             Quarterly          
+CPMEURNSAB1GQAT               Gross Domestic Product (Euro/ECU series) for Austria                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQBE               Gross Domestic Product (Euro/ECU series) for Belgium                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQBG               Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                    M NSA  15-Nov-2022 01-Apr-2022             Quarterly          
+CPMEURNSAB1GQCH               Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQCY               Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQCZ               Gross Domestic Product (Euro/ECU series) for Czech Republic                                                              M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQDE               Gross Domestic Product (Euro/ECU series) for Germany                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQDK               Gross Domestic Product (Euro/ECU series) for Denmark                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEA               Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-201  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEA12             Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEA18             Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                    M NSA  30-Jan-2018 01-Jul-2017             Quarterly          
+CPMEURNSAB1GQEA19             Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEE               Gross Domestic Product (Euro/ECU series) for Estonia                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEL               Gross Domestic Product (Euro/ECU series) for Greece                                                                      M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURNSAB1GQES               Gross Domestic Product (Euro/ECU series) for Spain                                                                       M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEU15             Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                               M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CPMEURNSAB1GQEU272020         Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQEU28             Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                               M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CPMEURNSAB1GQFI               Gross Domestic Product (Euro/ECU series) for Finland                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQFR               Gross Domestic Product (Euro/ECU series) for France                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQHR               Gross Domestic Product (Euro/ECU series) for Croatia                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQHU               Gross Domestic Product (Euro/ECU series) for Hungary                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQIE               Gross Domestic Product (Euro/ECU series) for Ireland                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQIS               Gross Domestic Product (Euro/ECU series) for Iceland                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQIT               Gross Domestic Product (Euro/ECU series) for Italy                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQLT               Gross Domestic Product (Euro/ECU series) for Lithuania                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQLU               Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                  M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQLV               Gross Domestic Product (Euro/ECU series) for Latvia                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQME               Gross Domestic Product (Euro/ECU series) for Montenegro                                                                  M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURNSAB1GQMK               Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                                   M NSA  07-Sep-2022 01-Apr-2022             Quarterly          
+CPMEURNSAB1GQMT               Gross Domestic Product (Euro/ECU series) for Malta                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQNL               Gross Domestic Product (Euro/ECU series) for Netherlands                                                                 M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQNO               Gross Domestic Product (Euro/ECU series) for Norway                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQPL               Gross Domestic Product (Euro/ECU series) for Poland                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQPT               Gross Domestic Product (Euro/ECU series) for Portugal                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQRO               Gross Domestic Product (Euro/ECU series) for Romania                                                                     M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURNSAB1GQRS               Gross Domestic Product (Euro/ECU series) for Serbia                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQSE               Gross Domestic Product (Euro/ECU series) for Sweden                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQSI               Gross Domestic Product (Euro/ECU series) for Slovenia                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQSK               Gross Domestic Product (Euro/ECU series) for Slovakia                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURNSAB1GQUK               Gross Domestic Product (Euro/ECU series) for United Kingdom                                                              M NSA  17-Feb-2021 01-Jul-2020             Quarterly          
+CPMEURNSAB1GQXK               Gross Domestic Product (Euro/ECU series) for Kosovo                                                                      M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURSAB1GQCH                Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSAB1GQCY                Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      M SA   31-Oct-2017 01-Apr-2017             Quarterly          
+CPMEURSAB1GQIE                Gross Domestic Product (Euro/ECU series) for Ireland                                                                     M SA   08-Apr-2016 01-Oct-2015             Quarterly          
+CPMEURSAB1GQIS                Gross Domestic Product (Euro/ECU series) for Iceland                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSAB1GQSK                Gross Domestic Product (Euro/ECU series) for Slovakia                                                                    M SA   08-Dec-2020 01-Jul-2020             Quarterly          
+CPMEURSCAB1GQAT               Gross Domestic Product (Euro/ECU series) for Austria                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQBE               Gross Domestic Product (Euro/ECU series) for Belgium                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQBG               Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                    M SA   15-Nov-2022 01-Apr-2022             Quarterly          
+CPMEURSCAB1GQCH               Gross Domestic Product (Euro/ECU series) for Switzerland                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQCY               Gross Domestic Product (Euro/ECU series) for Cyprus                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQCZ               Gross Domestic Product (Euro/ECU series) for Czech Republic                                                              M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQDE               Gross Domestic Product (Euro/ECU series) for Germany                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQDK               Gross Domestic Product (Euro/ECU series) for Denmark                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEA               Gross Domestic Product (Euro/ECU series) for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-201  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEA12             Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEA18             Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                    M SA   30-Jan-2018 01-Jul-2017             Quarterly          
+CPMEURSCAB1GQEE               Gross Domestic Product (Euro/ECU series) for Estonia                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEL               Gross Domestic Product (Euro/ECU series) for Greece                                                                      M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURSCAB1GQES               Gross Domestic Product (Euro/ECU series) for Spain                                                                       M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEU15             Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                               M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CPMEURSCAB1GQEU272020         Gross Domestic Product (Euro/ECU series) for European Union (27 countries from 2020)                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQEU28             Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                               M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CPMEURSCAB1GQFI               Gross Domestic Product (Euro/ECU series) for Finland                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQFR               Gross Domestic Product (Euro/ECU series) for France                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQHR               Gross Domestic Product (Euro/ECU series) for Croatia                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQHU               Gross Domestic Product (Euro/ECU series) for Hungary                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQIT               Gross Domestic Product (Euro/ECU series) for Italy                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQLT               Gross Domestic Product (Euro/ECU series) for Lithuania                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQLU               Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                  M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQLV               Gross Domestic Product (Euro/ECU series) for Latvia                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQMT               Gross Domestic Product (Euro/ECU series) for Malta                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQNL               Gross Domestic Product (Euro/ECU series) for Netherlands                                                                 M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQNO               Gross Domestic Product (Euro/ECU series) for Norway                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQPL               Gross Domestic Product (Euro/ECU series) for Poland                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQPT               Gross Domestic Product (Euro/ECU series) for Portugal                                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQRO               Gross Domestic Product (Euro/ECU series) for Romania                                                                     M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CPMEURSCAB1GQSE               Gross Domestic Product (Euro/ECU series) for Sweden                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQSI               Gross Domestic Product (Euro/ECU series) for Slovenia                                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMEURSCAB1GQUK               Gross Domestic Product (Euro/ECU series) for United Kingdom                                                              M SA   17-Feb-2021 01-Jul-2020             Quarterly          
+CPMNACNSAB1GQAL               Gross Domestic Product for Albania                                                                                       M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQAT               Gross Domestic Product for Austria                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQBE               Gross Domestic Product for Belgium                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQBG               Gross Domestic Product for Bulgaria                                                                                      M NSA  15-Nov-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQCH               Gross Domestic Product for Switzerland                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQCY               Gross Domestic Product for Cyprus                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQCZ               Gross Domestic Product for Czech Republic                                                                                M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQDE               Gross Domestic Product for Germany                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQDK               Gross Domestic Product for Denmark                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEA               Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19) M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEA12             Gross Domestic Product for Euro area (12 countries)                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEA18             Gross Domestic Product for Euro area (18 countries)                                                                      M NSA  30-Jan-2018 01-Jul-2017             Quarterly          
+CPMNACNSAB1GQEA19             Gross Domestic Product for Euro area (19 countries)                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEE               Gross Domestic Product for Estonia                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEL               Gross Domestic Product for Greece                                                                                        M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQES               Gross Domestic Product for Spain                                                                                         M NSA  15-Nov-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEU15             Gross Domestic Product for European Union (15 countries)                                                                 M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CPMNACNSAB1GQEU272020         Gross Domestic Product for European Union (27 countries from 2020)                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQEU28             Gross Domestic Product for European Union (28 countries)                                                                 M NSA  07-Dec-2022 01-Oct-2019             Quarterly          
+CPMNACNSAB1GQFI               Gross Domestic Product for Finland                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQFR               Gross Domestic Product for France                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQHR               Gross Domestic Product for Croatia                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQHU               Gross Domestic Product for Hungary                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQIE               Gross Domestic Product for Ireland                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQIS               Gross Domestic Product for Iceland                                                                                       M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQIT               Gross Domestic Product for Italy                                                                                         M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQLT               Gross Domestic Product for Lithuania                                                                                     M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQLU               Gross Domestic Product for Luxembourg                                                                                    M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQLV               Gross Domestic Product for Latvia                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQME               Gross Domestic Product for Montenegro                                                                                    M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQMK               Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                     M NSA  07-Sep-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQMT               Gross Domestic Product for Malta                                                                                         M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQNL               Gross Domestic Product for Netherlands                                                                                   M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQNO               Gross Domestic Product for Norway                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQPL               Gross Domestic Product for Poland                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQPT               Gross Domestic Product for Portugal                                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQRO               Gross Domestic Product for Romania                                                                                       M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACNSAB1GQRS               Gross Domestic Product for Serbia                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQSE               Gross Domestic Product for Sweden                                                                                        M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQSI               Gross Domestic Product for Slovenia                                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQSK               Gross Domestic Product for Slovakia                                                                                      M NSA  07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACNSAB1GQUK               Gross Domestic Product for United Kingdom                                                                                M NSA  17-Feb-2021 01-Jul-2020             Quarterly          
+CPMNACNSAB1GQXK               Gross Domestic Product for Kosovo                                                                                        M NSA  19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACSAB1GQAL                Gross Domestic Product for Albania                                                                                       M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACSAB1GQCH                Gross Domestic Product for Switzerland                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSAB1GQCY                Gross Domestic Product for Cyprus                                                                                        M SA   31-Oct-2017 01-Apr-2017             Quarterly          
+CPMNACSAB1GQIE                Gross Domestic Product for Ireland                                                                                       M SA   08-Apr-2016 01-Oct-2015             Quarterly          
+CPMNACSAB1GQIS                Gross Domestic Product for Iceland                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSAB1GQSK                Gross Domestic Product for Slovakia                                                                                      M SA   08-Dec-2020 01-Jul-2020             Quarterly          
+CPMNACSCAB1GQAL               Gross Domestic Product for Albania                                                                                       M SA   08-Apr-2016 01-Jan-2015             Quarterly          
+CPMNACSCAB1GQAT               Gross Domestic Product for Austria                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQBE               Gross Domestic Product for Belgium                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQBG               Gross Domestic Product for Bulgaria                                                                                      M SA   15-Nov-2022 01-Apr-2022             Quarterly          
+CPMNACSCAB1GQCH               Gross Domestic Product for Switzerland                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQCY               Gross Domestic Product for Cyprus                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQCZ               Gross Domestic Product for Czech Republic                                                                                M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQDE               Gross Domestic Product for Germany                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQDK               Gross Domestic Product for Denmark                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEA               Gross Domestic Product for Euro area (EA11-2000, EA12-2006, EA13-2007, EA15-2008, EA16-2010, EA17-2013, EA18-2014, EA19) M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEA12             Gross Domestic Product for Euro area (12 countries)                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEA18             Gross Domestic Product for Euro area (18 countries)                                                                      M SA   30-Jan-2018 01-Jul-2017             Quarterly          
+CPMNACSCAB1GQEA19             Gross Domestic Product for Euro area (19 countries)                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEE               Gross Domestic Product for Estonia                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEL               Gross Domestic Product for Greece                                                                                        M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACSCAB1GQES               Gross Domestic Product for Spain                                                                                         M SA   15-Nov-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEU15             Gross Domestic Product for European Union (15 countries)                                                                 M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CPMNACSCAB1GQEU272020         Gross Domestic Product for European Union (27 countries from 2020)                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQEU28             Gross Domestic Product for European Union (28 countries)                                                                 M SA   07-Dec-2022 01-Oct-2019             Quarterly          
+CPMNACSCAB1GQFI               Gross Domestic Product for Finland                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQFR               Gross Domestic Product for France                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQHR               Gross Domestic Product for Croatia                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQHU               Gross Domestic Product for Hungary                                                                                       M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQIT               Gross Domestic Product for Italy                                                                                         M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQLT               Gross Domestic Product for Lithuania                                                                                     M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQLU               Gross Domestic Product for Luxembourg                                                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQLV               Gross Domestic Product for Latvia                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQMT               Gross Domestic Product for Malta                                                                                         M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQNL               Gross Domestic Product for Netherlands                                                                                   M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQNO               Gross Domestic Product for Norway                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQPL               Gross Domestic Product for Poland                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQPT               Gross Domestic Product for Portugal                                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQRO               Gross Domestic Product for Romania                                                                                       M SA   19-Oct-2022 01-Apr-2022             Quarterly          
+CPMNACSCAB1GQSE               Gross Domestic Product for Sweden                                                                                        M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQSI               Gross Domestic Product for Slovenia                                                                                      M SA   07-Dec-2022 01-Jul-2022             Quarterly          
+CPMNACSCAB1GQUK               Gross Domestic Product for United Kingdom                                                                                M SA   17-Feb-2021 01-Jul-2020             Quarterly          
+EUNGDP                        Gross Domestic Product for Euro Area (17 Countries) (DISCONTINUED)                                                       M SA   10-Sep-2014 01-Apr-2014             Quarterly          
+EUNNGDP                       Gross Domestic Product (Euro/ECU series) for Euro Area (19 Countries)                                                    M SA   07-Dec-2022 01-Jul-2022             Quarterly          

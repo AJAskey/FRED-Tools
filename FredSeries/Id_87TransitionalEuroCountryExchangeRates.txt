@@ -1,12 +1,12 @@
-Id : 87  Transitional Euro Country Exchange Rates
-EXAUUS                        Austria / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                      NSA  08-Mar-2006  Monthly        
-EXBEUS                        Belgium / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                      NSA  08-Mar-2006  Monthly        
-EXFNUS                        Finland / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                      NSA  08-Mar-2006  Monthly        
-EXFRUS                        France / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                       NSA  08-Mar-2006  Monthly        
-EXGEUS                        Germany / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                      NSA  08-Mar-2006  Monthly        
-EXGRUS                        Greece / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                       NSA  08-Mar-2006  Monthly        
-EXITUS                        Italy / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006  Monthly        
-EXNEUS                        Netherlands / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                  NSA  08-Mar-2006  Monthly        
-EXPOUS                        Portugal / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                     NSA  08-Mar-2006  Monthly        
-EXSPUS                        Spain / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006  Monthly        
-EXUSIR                        U.S. / Ireland Foreign Exchange Rate (DISCONTINUED)                                                                      NSA  08-Mar-2006  Monthly        
+Release  Id : 87	Transitional Euro Country Exchange Rates
+EXAUUS                        Austria / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXBEUS                        Belgium / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXFNUS                        Finland / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXFRUS                        France / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                         NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXGEUS                        Germany / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXGRUS                        Greece / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                         NSA  08-Mar-2006 01-Dec-2000             Monthly            
+EXITUS                        Italy / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                          NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXNEUS                        Netherlands / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                    NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXPOUS                        Portugal / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                       NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXSPUS                        Spain / U.S. Foreign Exchange Rate (DISCONTINUED)                                                                          NSA  08-Mar-2006 01-Dec-2001             Monthly            
+EXUSIR                        U.S. / Ireland Foreign Exchange Rate (DISCONTINUED)                                                                        NSA  08-Mar-2006 01-Dec-2001             Monthly            

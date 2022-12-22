@@ -1,3 +1,3 @@
-Id : 103  Discount Rate Meeting Minutes
-DISCNTD8                      Federal Reserve Bank of St. Louis Basic Discount Rate (DISCONTINUED)                                                     NSA  09-Sep-2003  Not Applicable 
-PCREDIT8                      Primary Credit Rate - Historical Dates of Changes and Rates for Federal Reserve District 8: St. Louis                    NSA  03-Nov-2022  Not Applicable 
+Release  Id : 103	Discount Rate Meeting Minutes
+DISCNTD8                      Federal Reserve Bank of St. Louis Basic Discount Rate (DISCONTINUED)                                                     P NSA  09-Sep-2003 07-Nov-2002             Not Applicable     
+PCREDIT8                      Primary Credit Rate - Historical Dates of Changes and Rates for Federal Reserve District 8: St. Louis                    P NSA  15-Dec-2022 15-Dec-2022             Not Applicable     

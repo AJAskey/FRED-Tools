@@ -1,4 +1,4 @@
-Id : 193  Money Velocity
-M1V                           Velocity of M1 Money Stock                                                                                               SA   30-Nov-2022  Quarterly      
-M2V                           Velocity of M2 Money Stock                                                                                               SA   30-Nov-2022  Quarterly      
-MZMV                          Velocity of MZM Money Stock (DISCONTINUED)                                                                               SA   26-May-2022  Quarterly      
+Release  Id : 193	Money Velocity
+M1V                           Velocity of M1 Money Stock                                                                                               R SA   22-Dec-2022 01-Jul-2022 20-Dec-2022 Quarterly          
+M2V                           Velocity of M2 Money Stock                                                                                               R SA   22-Dec-2022 01-Jul-2022 20-Dec-2022 Quarterly          
+MZMV                          Velocity of MZM Money Stock (DISCONTINUED)                                                                               R SA   26-May-2022 01-Oct-2020             Quarterly          

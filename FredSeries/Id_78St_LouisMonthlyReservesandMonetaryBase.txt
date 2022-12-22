@@ -1,13 +1,13 @@
-Id : 78  St. Louis Monthly Reserves and Monetary Base
-ADJRESNS                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               NSA  20-Dec-2019  Monthly        
-ADJRESSL                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               SA   20-Dec-2019  Monthly        
-AMBNS                         St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          NSA  13-Dec-2019  Monthly        
-AMBSL                         St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          SA   13-Dec-2019  Monthly        
-DADJRESN                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               NSA  14-Jul-2003  Monthly        
-DADJRESS                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               SA   14-Jul-2003  Monthly        
-DISAMBNS                      St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          NSA  14-Jul-2003  Monthly        
-DISAMBSL                      St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          SA   14-Jul-2003  Monthly        
-DISRAM                        Reserve Adjustment Magnitude (DISCONTINUED)                                                                              NSA  14-Jul-2003  Monthly        
-DSBASEN                       St. Louis Source Base (DISCONTINUED)                                                                                     NSA  14-Jul-2003  Monthly        
-RAM                           Reserve Adjustment Magnitude (RAM) (DISCONTINUED)                                                                        NSA  20-Dec-2019  Monthly        
-SBASENS                       St. Louis Source Base (DISCONTINUED)                                                                                     NSA  13-Dec-2019  Monthly        
+Release  Id : 78	St. Louis Monthly Reserves and Monetary Base
+ADJRESNS                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               B NSA  20-Dec-2019 01-Nov-2019             Monthly            
+ADJRESSL                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               B SA   20-Dec-2019 01-Nov-2019             Monthly            
+AMBNS                         St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          B NSA  13-Dec-2019 01-Nov-2019             Monthly            
+AMBSL                         St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          B SA   13-Dec-2019 01-Nov-2019             Monthly            
+DADJRESN                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               B NSA  14-Jul-2003 01-Jun-2003             Monthly            
+DADJRESS                      St. Louis Adjusted Reserves (DISCONTINUED)                                                                               B SA   14-Jul-2003 01-Jun-2003             Monthly            
+DISAMBNS                      St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          B NSA  14-Jul-2003 01-Jun-2003             Monthly            
+DISAMBSL                      St. Louis Adjusted Monetary Base (DISCONTINUED)                                                                          B SA   14-Jul-2003 01-Jun-2003             Monthly            
+DISRAM                        Reserve Adjustment Magnitude (DISCONTINUED)                                                                              B NSA  14-Jul-2003 01-Jun-2003             Monthly            
+DSBASEN                       St. Louis Source Base (DISCONTINUED)                                                                                     B NSA  14-Jul-2003 01-Jun-2003             Monthly            
+RAM                           Reserve Adjustment Magnitude (RAM) (DISCONTINUED)                                                                        B NSA  20-Dec-2019 01-Dec-2019             Monthly            
+SBASENS                       St. Louis Source Base (DISCONTINUED)                                                                                     B NSA  13-Dec-2019 01-Nov-2019             Monthly            

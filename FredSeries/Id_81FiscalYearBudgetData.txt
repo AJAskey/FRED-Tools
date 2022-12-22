@@ -1,6 +1,6 @@
-Id : 81  Fiscal Year Budget Data
-FYFR                          Federal Receipts                                                                                                         NSA  21-Oct-2022  Annual, Fiscal Year
-FYFSD                         Federal Surplus or Deficit [-]                                                                                           NSA  21-Oct-2022  Annual, Fiscal Year
-FYGDP                         Gross Domestic Product                                                                                                   NSA  01-Apr-2022  Annual, Fiscal Year
-FYOINT                        Federal Outlays: Interest                                                                                                NSA  21-Oct-2022  Annual, Fiscal Year
-FYONET                        Federal Net Outlays                                                                                                      NSA  21-Oct-2022  Annual, Fiscal Year
+Release  Id : 81	Fiscal Year Budget Data
+FYFR                          Federal Receipts                                                                                                         M NSA  21-Oct-2022 30-Sep-2022             Annual, Fiscal Year
+FYFSD                         Federal Surplus or Deficit [-]                                                                                           M NSA  21-Oct-2022 30-Sep-2022             Annual, Fiscal Year
+FYGDP                         Gross Domestic Product                                                                                                   B NSA  01-Apr-2022 30-Sep-2021             Annual, Fiscal Year
+FYOINT                        Federal Outlays: Interest                                                                                                M NSA  21-Oct-2022 30-Sep-2022             Annual, Fiscal Year
+FYONET                        Federal Net Outlays                                                                                                      M NSA  21-Oct-2022 30-Sep-2022             Annual, Fiscal Year

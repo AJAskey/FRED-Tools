@@ -1,130 +1,130 @@
-Id : 194  ADP National Employment Report
-ADPMCDENCNERNSA               Nonfarm Private Employment in the East North Central Census Division                                                     NSA  30-Nov-2022  Monthly        
-ADPMCDENCNERSA                Nonfarm Private Employment in the East North Central Census Division                                                     SA   30-Nov-2022  Monthly        
-ADPMCDESCNERNSA               Nonfarm Private Employment in the East South Central Census Division                                                     NSA  30-Nov-2022  Monthly        
-ADPMCDESCNERSA                Nonfarm Private Employment in the East South Central Census Division                                                     SA   30-Nov-2022  Monthly        
-ADPMCDMANERNSA                Nonfarm Private Employment in the Middle Atlantic Census Division                                                        NSA  30-Nov-2022  Monthly        
-ADPMCDMANERSA                 Nonfarm Private Employment in the Middle Atlantic Census Division                                                        SA   30-Nov-2022  Monthly        
-ADPMCDMTNERNSA                Nonfarm Private Employment in the Mountain Census Division                                                               NSA  30-Nov-2022  Monthly        
-ADPMCDMTNERSA                 Nonfarm Private Employment in the Mountain Census Division                                                               SA   30-Nov-2022  Monthly        
-ADPMCDNENERNSA                Nonfarm Private Employment in the New England Census Division                                                            NSA  30-Nov-2022  Monthly        
-ADPMCDNENERSA                 Nonfarm Private Employment in the New England Census Division                                                            SA   30-Nov-2022  Monthly        
-ADPMCDPCNERNSA                Nonfarm Private Employment in the Pacific Census Division                                                                NSA  30-Nov-2022  Monthly        
-ADPMCDPCNERSA                 Nonfarm Private Employment in the Pacific Census Division                                                                SA   30-Nov-2022  Monthly        
-ADPMCDSANERNSA                Nonfarm Private Employment in the South Atlantic Census Division                                                         NSA  30-Nov-2022  Monthly        
-ADPMCDSANERSA                 Nonfarm Private Employment in the South Atlantic Census Division                                                         SA   30-Nov-2022  Monthly        
-ADPMCDWNCNERNSA               Nonfarm Private Employment in the West North Central Census Division                                                     NSA  30-Nov-2022  Monthly        
-ADPMCDWNCNERSA                Nonfarm Private Employment in the West North Central Census Division                                                     SA   30-Nov-2022  Monthly        
-ADPMCDWSCNERNSA               Nonfarm Private Employment in the West South Central Census Division                                                     NSA  30-Nov-2022  Monthly        
-ADPMCDWSCNERSA                Nonfarm Private Employment in the West South Central Census Division                                                     SA   30-Nov-2022  Monthly        
-ADPMES1T19ENERNSA             Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                NSA  30-Nov-2022  Monthly        
-ADPMES1T19ENERSA              Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                SA   30-Nov-2022  Monthly        
-ADPMES20T49ENERNSA            Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                               NSA  30-Nov-2022  Monthly        
-ADPMES20T49ENERSA             Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                               SA   30-Nov-2022  Monthly        
-ADPMES250T499ENERNSA          Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                            NSA  30-Nov-2022  Monthly        
-ADPMES250T499ENERSA           Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                            SA   30-Nov-2022  Monthly        
-ADPMES500PENERNSA             Nonfarm Private Employment in Large Establishments with 500+ Employees                                                   NSA  30-Nov-2022  Monthly        
-ADPMES500PENERSA              Nonfarm Private Employment in Large Establishments with 500+ Employees                                                   SA   30-Nov-2022  Monthly        
-ADPMES50T249ENERNSA           Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                             NSA  30-Nov-2022  Monthly        
-ADPMES50T249ENERSA            Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                             SA   30-Nov-2022  Monthly        
-ADPMINDCONNERNSA              Nonfarm Private Payroll Employment for Construction                                                                      NSA  30-Nov-2022  Monthly        
-ADPMINDCONNERSA               Nonfarm Private Payroll Employment for Construction                                                                      SA   30-Nov-2022  Monthly        
-ADPMINDEDHLTNERNSA            Nonfarm Private Payroll Employment for Education and Health Services                                                     NSA  30-Nov-2022  Monthly        
-ADPMINDEDHLTNERSA             Nonfarm Private Payroll Employment for Education and Health Services                                                     SA   30-Nov-2022  Monthly        
-ADPMINDFINNERNSA              Nonfarm Private Payroll Employment for Financial Activities                                                              NSA  30-Nov-2022  Monthly        
-ADPMINDFINNERSA               Nonfarm Private Payroll Employment for Financial Activities                                                              SA   30-Nov-2022  Monthly        
-ADPMINDINFONERNSA             Nonfarm Private Payroll Employment for Information                                                                       NSA  30-Nov-2022  Monthly        
-ADPMINDINFONERSA              Nonfarm Private Payroll Employment for Information                                                                       SA   30-Nov-2022  Monthly        
-ADPMINDLSHPNERNSA             Nonfarm Private Payroll Employment for Leisure and Hospitality                                                           NSA  30-Nov-2022  Monthly        
-ADPMINDLSHPNERSA              Nonfarm Private Payroll Employment for Leisure and Hospitality                                                           SA   30-Nov-2022  Monthly        
-ADPMINDMANNERNSA              Nonfarm Private Payroll Employment for Manufacturing                                                                     NSA  30-Nov-2022  Monthly        
-ADPMINDMANNERSA               Nonfarm Private Payroll Employment for Manufacturing                                                                     SA   30-Nov-2022  Monthly        
-ADPMINDNRMINNERNSA            Nonfarm Private Payroll Employment for Natural Resources and Mining                                                      NSA  30-Nov-2022  Monthly        
-ADPMINDNRMINNERSA             Nonfarm Private Payroll Employment for Natural Resources and Mining                                                      SA   30-Nov-2022  Monthly        
-ADPMINDOTHSRVNERNSA           Nonfarm Private Payroll Employment for Other Services                                                                    NSA  30-Nov-2022  Monthly        
-ADPMINDOTHSRVNERSA            Nonfarm Private Payroll Employment for Other Services                                                                    SA   30-Nov-2022  Monthly        
-ADPMINDPROBUSNERNSA           Nonfarm Private Payroll Employment for Professional and Business Services                                                NSA  30-Nov-2022  Monthly        
-ADPMINDPROBUSNERSA            Nonfarm Private Payroll Employment for Professional and Business Services                                                SA   30-Nov-2022  Monthly        
-ADPMINDTTUNERNSA              Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                              NSA  30-Nov-2022  Monthly        
-ADPMINDTTUNERSA               Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                              SA   30-Nov-2022  Monthly        
-ADPMNUSNERNSA                 Total Nonfarm Private Payroll Employment                                                                                 NSA  30-Nov-2022  Monthly        
-ADPMNUSNERSA                  Total Nonfarm Private Payroll Employment                                                                                 SA   30-Nov-2022  Monthly        
-ADPWCDENCNERNSA               Nonfarm Private Employment in the East North Central Census Division                                                     NSA  30-Nov-2022  Weekly         
-ADPWCDENCNERSA                Nonfarm Private Employment in the East North Central Census Division                                                     SA   30-Nov-2022  Weekly         
-ADPWCDESCNERNSA               Nonfarm Private Employment in the East South Central Census Division                                                     NSA  30-Nov-2022  Weekly         
-ADPWCDESCNERSA                Nonfarm Private Employment in the East South Central Census Division                                                     SA   30-Nov-2022  Weekly         
-ADPWCDMANERNSA                Nonfarm Private Employment in the Middle Atlantic Census Division                                                        NSA  30-Nov-2022  Weekly         
-ADPWCDMANERSA                 Nonfarm Private Employment in the Middle Atlantic Census Division                                                        SA   30-Nov-2022  Weekly         
-ADPWCDMTNERNSA                Nonfarm Private Employment in the Mountain Census Division                                                               NSA  30-Nov-2022  Weekly         
-ADPWCDMTNERSA                 Nonfarm Private Employment in the Mountain Census Division                                                               SA   30-Nov-2022  Weekly         
-ADPWCDNENERNSA                Nonfarm Private Employment in the New England Census Division                                                            NSA  30-Nov-2022  Weekly         
-ADPWCDNENERSA                 Nonfarm Private Employment in the New England Census Division                                                            SA   30-Nov-2022  Weekly         
-ADPWCDPCNERNSA                Nonfarm Private Employment in the Pacific Census Division                                                                NSA  30-Nov-2022  Weekly         
-ADPWCDPCNERSA                 Nonfarm Private Employment in the Pacific Census Division                                                                SA   30-Nov-2022  Weekly         
-ADPWCDSANERNSA                Nonfarm Private Employment in the South Atlantic Census Division                                                         NSA  30-Nov-2022  Weekly         
-ADPWCDSANERSA                 Nonfarm Private Employment in the South Atlantic Census Division                                                         SA   30-Nov-2022  Weekly         
-ADPWCDWNCNERNSA               Nonfarm Private Employment in the West North Central Census Division                                                     NSA  30-Nov-2022  Weekly         
-ADPWCDWNCNERSA                Nonfarm Private Employment in the West North Central Census Division                                                     SA   30-Nov-2022  Weekly         
-ADPWCDWSCNERNSA               Nonfarm Private Employment in the West South Central Census Division                                                     NSA  30-Nov-2022  Weekly         
-ADPWCDWSCNERSA                Nonfarm Private Employment in the West South Central Census Division                                                     SA   30-Nov-2022  Weekly         
-ADPWES1T19ENERNSA             Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                NSA  30-Nov-2022  Weekly         
-ADPWES1T19ENERSA              Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                SA   30-Nov-2022  Weekly         
-ADPWES20T49ENERNSA            Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                               NSA  30-Nov-2022  Weekly         
-ADPWES20T49ENERSA             Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                               SA   30-Nov-2022  Weekly         
-ADPWES250T499ENERNSA          Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                            NSA  30-Nov-2022  Weekly         
-ADPWES250T499ENERSA           Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                            SA   30-Nov-2022  Weekly         
-ADPWES500PENERNSA             Nonfarm Private Employment in Large Establishments with 500+ Employees                                                   NSA  30-Nov-2022  Weekly         
-ADPWES500PENERSA              Nonfarm Private Employment in Large Establishments with 500+ Employees                                                   SA   30-Nov-2022  Weekly         
-ADPWES50T249ENERNSA           Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                             NSA  30-Nov-2022  Weekly         
-ADPWES50T249ENERSA            Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                             SA   30-Nov-2022  Weekly         
-ADPWINDCONNERNSA              Nonfarm Private Payroll Employment for Construction                                                                      NSA  30-Nov-2022  Weekly         
-ADPWINDCONNERSA               Nonfarm Private Payroll Employment for Construction                                                                      SA   30-Nov-2022  Weekly         
-ADPWINDEDHLTNERNSA            Nonfarm Private Payroll Employment for Education and Health Services                                                     NSA  30-Nov-2022  Weekly         
-ADPWINDEDHLTNERSA             Nonfarm Private Payroll Employment for Education and Health Services                                                     SA   30-Nov-2022  Weekly         
-ADPWINDFINNERNSA              Nonfarm Private Payroll Employment for Financial Activities                                                              NSA  30-Nov-2022  Weekly         
-ADPWINDFINNERSA               Nonfarm Private Payroll Employment for Financial Activities                                                              SA   30-Nov-2022  Weekly         
-ADPWINDINFONERNSA             Nonfarm Private Payroll Employment for Information                                                                       NSA  30-Nov-2022  Weekly         
-ADPWINDINFONERSA              Nonfarm Private Payroll Employment for Information                                                                       SA   30-Nov-2022  Weekly         
-ADPWINDLSHPNERNSA             Nonfarm Private Payroll Employment for Leisure and Hospitality                                                           NSA  30-Nov-2022  Weekly         
-ADPWINDLSHPNERSA              Nonfarm Private Payroll Employment for Leisure and Hospitality                                                           SA   30-Nov-2022  Weekly         
-ADPWINDMANNERNSA              Nonfarm Private Payroll Employment for Manufacturing                                                                     NSA  30-Nov-2022  Weekly         
-ADPWINDMANNERSA               Nonfarm Private Payroll Employment for Manufacturing                                                                     SA   30-Nov-2022  Weekly         
-ADPWINDNRMINNERNSA            Nonfarm Private Payroll Employment for Natural Resources and Mining                                                      NSA  30-Nov-2022  Weekly         
-ADPWINDNRMINNERSA             Nonfarm Private Payroll Employment for Natural Resources and Mining                                                      SA   30-Nov-2022  Weekly         
-ADPWINDOTHSRVNERNSA           Nonfarm Private Payroll Employment for Other Services                                                                    NSA  30-Nov-2022  Weekly         
-ADPWINDOTHSRVNERSA            Nonfarm Private Payroll Employment for Other Services                                                                    SA   30-Nov-2022  Weekly         
-ADPWINDPROBUSNERNSA           Nonfarm Private Payroll Employment for Professional and Business Services                                                NSA  30-Nov-2022  Weekly         
-ADPWINDPROBUSNERSA            Nonfarm Private Payroll Employment for Professional and Business Services                                                SA   30-Nov-2022  Weekly         
-ADPWINDTTUNERNSA              Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                              NSA  30-Nov-2022  Weekly         
-ADPWINDTTUNERSA               Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                              SA   30-Nov-2022  Weekly         
-ADPWNUSNERNSA                 Total Nonfarm Private Payroll Employment                                                                                 NSA  30-Nov-2022  Weekly         
-ADPWNUSNERSA                  Total Nonfarm Private Payroll Employment                                                                                 SA   30-Nov-2022  Weekly         
-NPPBUS                        Nonfarm Private Professional and Business Payroll Employment (DISCONTINUED)                                              SA   02-Jun-2022  Monthly        
-NPPCON                        Nonfarm Private Construction Payroll Employment (DISCONTINUED)                                                           SA   02-Jun-2022  Monthly        
-NPPFIN                        Nonfarm Private Financial Activities Payroll Employment (DISCONTINUED)                                                   SA   02-Jun-2022  Monthly        
-NPPGPL                        Nonfarm Private Goods - Producing Large Payroll Employment (> 499) (DISCONTINUED)                                        SA   02-Jun-2022  Monthly        
-NPPGPL1                       Nonfarm Private Goods - Producing Large Payroll Employment (500 - 999) (DISCONTINUED)                                    SA   02-Jun-2022  Monthly        
-NPPGPL2                       Nonfarm Private Goods - Producing Large Payroll Employment (1000+) (DISCONTINUED)                                        SA   02-Jun-2022  Monthly        
-NPPGPM                        Nonfarm Private Goods - Producing Medium Payroll Employment (50 - 499) (DISCONTINUED)                                    SA   02-Jun-2022  Monthly        
-NPPGPS                        Nonfarm Private Goods - Producing Small Payroll Employment (1 - 49) (DISCONTINUED)                                       SA   02-Jun-2022  Monthly        
-NPPGPS1                       Nonfarm Private Goods - Producing Small Payroll Employment (1 - 19) (DISCONTINUED)                                       SA   02-Jun-2022  Monthly        
-NPPGPS2                       Nonfarm Private Goods - Producing Small Payroll Employment (20 - 49) (DISCONTINUED)                                      SA   02-Jun-2022  Monthly        
-NPPGPT                        Nonfarm Private Goods - Producing Payroll Employment (DISCONTINUED)                                                      SA   02-Jun-2022  Monthly        
-NPPMNF                        Nonfarm Private Manufacturing Payroll Employment (DISCONTINUED)                                                          SA   02-Jun-2022  Monthly        
-NPPSPL                        Nonfarm Private Service - Providing Large Payroll Employment (> 499) (DISCONTINUED)                                      SA   02-Jun-2022  Monthly        
-NPPSPL1                       Nonfarm Private Service - Providing Large Payroll Employment (500 - 999) (DISCONTINUED)                                  SA   02-Jun-2022  Monthly        
-NPPSPL2                       Nonfarm Private Service - Providing Large Payroll Employment (1000+) (DISCONTINUED)                                      SA   02-Jun-2022  Monthly        
-NPPSPM                        Nonfarm Private Service - Providing Medium Payroll Employment (50 - 499) (DISCONTINUED)                                  SA   02-Jun-2022  Monthly        
-NPPSPS                        Nonfarm Private Service - Providing Small Payroll Employment (1 - 49) (DISCONTINUED)                                     SA   02-Jun-2022  Monthly        
-NPPSPS1                       Nonfarm Private Service - Providing Small Payroll Employment (1 - 19) (DISCONTINUED)                                     SA   02-Jun-2022  Monthly        
-NPPSPS2                       Nonfarm Private Service - Providing Small Payroll Employment (20 - 49) (DISCONTINUED)                                    SA   02-Jun-2022  Monthly        
-NPPSPT                        Nonfarm Private Service - Providing Payroll Employment (DISCONTINUED)                                                    SA   02-Jun-2022  Monthly        
-NPPTL                         Nonfarm Private Large Payroll Employment (> 499) (DISCONTINUED)                                                          SA   02-Jun-2022  Monthly        
-NPPTL1                        Nonfarm Private Large Payroll Employment (500 - 999) (DISCONTINUED)                                                      SA   02-Jun-2022  Monthly        
-NPPTL2                        Nonfarm Private Large Payroll Employment (1000+) (DISCONTINUED)                                                          SA   02-Jun-2022  Monthly        
-NPPTM                         Nonfarm Private Medium Payroll Employment (50 - 499) (DISCONTINUED)                                                      SA   02-Jun-2022  Monthly        
-NPPTS                         Nonfarm Private Small Payroll Employment (1 - 49) (DISCONTINUED)                                                         SA   02-Jun-2022  Monthly        
-NPPTS1                        Nonfarm Private Small Payroll Employment (1 - 19) (DISCONTINUED)                                                         SA   02-Jun-2022  Monthly        
-NPPTS2                        Nonfarm Private Small Payroll Employment (20 - 49) (DISCONTINUED)                                                        SA   02-Jun-2022  Monthly        
-NPPTTL                        Total Nonfarm Private Payroll Employment (DISCONTINUED)                                                                  SA   02-Jun-2022  Monthly        
-NPPTTU                        Nonfarm Private Trade, Transportation, and Utilities Payroll Employment (DISCONTINUED)"                                  SA   02-Jun-2022  Monthly        
+Release  Id : 194	ADP National Employment Report
+ADPMCDENCNERNSA               Nonfarm Private Employment in the East North Central Census Division                                                       NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDENCNERSA                Nonfarm Private Employment in the East North Central Census Division                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDESCNERNSA               Nonfarm Private Employment in the East South Central Census Division                                                       NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDESCNERSA                Nonfarm Private Employment in the East South Central Census Division                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDMANERNSA                Nonfarm Private Employment in the Middle Atlantic Census Division                                                          NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDMANERSA                 Nonfarm Private Employment in the Middle Atlantic Census Division                                                          SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDMTNERNSA                Nonfarm Private Employment in the Mountain Census Division                                                                 NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDMTNERSA                 Nonfarm Private Employment in the Mountain Census Division                                                                 SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDNENERNSA                Nonfarm Private Employment in the New England Census Division                                                              NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDNENERSA                 Nonfarm Private Employment in the New England Census Division                                                              SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDPCNERNSA                Nonfarm Private Employment in the Pacific Census Division                                                                  NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDPCNERSA                 Nonfarm Private Employment in the Pacific Census Division                                                                  SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDSANERNSA                Nonfarm Private Employment in the South Atlantic Census Division                                                           NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDSANERSA                 Nonfarm Private Employment in the South Atlantic Census Division                                                           SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDWNCNERNSA               Nonfarm Private Employment in the West North Central Census Division                                                       NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDWNCNERSA                Nonfarm Private Employment in the West North Central Census Division                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDWSCNERNSA               Nonfarm Private Employment in the West South Central Census Division                                                       NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMCDWSCNERSA                Nonfarm Private Employment in the West South Central Census Division                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES1T19ENERNSA             Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                  NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES1T19ENERSA              Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                  SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES20T49ENERNSA            Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                                 NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES20T49ENERSA             Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                                 SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES250T499ENERNSA          Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                              NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES250T499ENERSA           Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                              SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES500PENERNSA             Nonfarm Private Employment in Large Establishments with 500+ Employees                                                     NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES500PENERSA              Nonfarm Private Employment in Large Establishments with 500+ Employees                                                     SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES50T249ENERNSA           Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                               NSA  30-Nov-2022 01-Nov-2022             Monthly            
+ADPMES50T249ENERSA            Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                               SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDCONNERNSA              Nonfarm Private Payroll Employment for Construction                                                                        NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDCONNERSA               Nonfarm Private Payroll Employment for Construction                                                                        SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDEDHLTNERNSA            Nonfarm Private Payroll Employment for Education and Health Services                                                       NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDEDHLTNERSA             Nonfarm Private Payroll Employment for Education and Health Services                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDFINNERNSA              Nonfarm Private Payroll Employment for Financial Activities                                                                NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDFINNERSA               Nonfarm Private Payroll Employment for Financial Activities                                                                SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDINFONERNSA             Nonfarm Private Payroll Employment for Information                                                                         NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDINFONERSA              Nonfarm Private Payroll Employment for Information                                                                         SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDLSHPNERNSA             Nonfarm Private Payroll Employment for Leisure and Hospitality                                                             NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDLSHPNERSA              Nonfarm Private Payroll Employment for Leisure and Hospitality                                                             SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDMANNERNSA              Nonfarm Private Payroll Employment for Manufacturing                                                                       NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDMANNERSA               Nonfarm Private Payroll Employment for Manufacturing                                                                       SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDNRMINNERNSA            Nonfarm Private Payroll Employment for Natural Resources and Mining                                                        NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDNRMINNERSA             Nonfarm Private Payroll Employment for Natural Resources and Mining                                                        SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDOTHSRVNERNSA           Nonfarm Private Payroll Employment for Other Services                                                                      NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDOTHSRVNERSA            Nonfarm Private Payroll Employment for Other Services                                                                      SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDPROBUSNERNSA           Nonfarm Private Payroll Employment for Professional and Business Services                                                  NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDPROBUSNERSA            Nonfarm Private Payroll Employment for Professional and Business Services                                                  SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMINDTTUNERNSA              Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                                NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMINDTTUNERSA               Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                                SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPMNUSNERNSA                 Total Nonfarm Private Payroll Employment                                                                                   NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ADPMNUSNERSA                  Total Nonfarm Private Payroll Employment                                                                                   SA   30-Nov-2022 01-Nov-2022             Monthly            
+ADPWCDENCNERNSA               Nonfarm Private Employment in the East North Central Census Division                                                       NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDENCNERSA                Nonfarm Private Employment in the East North Central Census Division                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDESCNERNSA               Nonfarm Private Employment in the East South Central Census Division                                                       NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDESCNERSA                Nonfarm Private Employment in the East South Central Census Division                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDMANERNSA                Nonfarm Private Employment in the Middle Atlantic Census Division                                                          NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDMANERSA                 Nonfarm Private Employment in the Middle Atlantic Census Division                                                          SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDMTNERNSA                Nonfarm Private Employment in the Mountain Census Division                                                                 NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDMTNERSA                 Nonfarm Private Employment in the Mountain Census Division                                                                 SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDNENERNSA                Nonfarm Private Employment in the New England Census Division                                                              NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDNENERSA                 Nonfarm Private Employment in the New England Census Division                                                              SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDPCNERNSA                Nonfarm Private Employment in the Pacific Census Division                                                                  NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDPCNERSA                 Nonfarm Private Employment in the Pacific Census Division                                                                  SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDSANERNSA                Nonfarm Private Employment in the South Atlantic Census Division                                                           NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDSANERSA                 Nonfarm Private Employment in the South Atlantic Census Division                                                           SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDWNCNERNSA               Nonfarm Private Employment in the West North Central Census Division                                                       NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDWNCNERSA                Nonfarm Private Employment in the West North Central Census Division                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDWSCNERNSA               Nonfarm Private Employment in the West South Central Census Division                                                       NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWCDWSCNERSA                Nonfarm Private Employment in the West South Central Census Division                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES1T19ENERNSA             Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                  NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES1T19ENERSA              Nonfarm Private Employment in Small Establishments with 1 to 19 Employees                                                  SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES20T49ENERNSA            Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                                 NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES20T49ENERSA             Nonfarm Private Employment in Small Establishments with 20 to 49 Employees                                                 SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES250T499ENERNSA          Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                              NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES250T499ENERSA           Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees                                              SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES500PENERNSA             Nonfarm Private Employment in Large Establishments with 500+ Employees                                                     NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES500PENERSA              Nonfarm Private Employment in Large Establishments with 500+ Employees                                                     SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES50T249ENERNSA           Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                               NSA  30-Nov-2022 01-Oct-2022             Weekly             
+ADPWES50T249ENERSA            Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees                                               SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDCONNERNSA              Nonfarm Private Payroll Employment for Construction                                                                        NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDCONNERSA               Nonfarm Private Payroll Employment for Construction                                                                        SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDEDHLTNERNSA            Nonfarm Private Payroll Employment for Education and Health Services                                                       NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDEDHLTNERSA             Nonfarm Private Payroll Employment for Education and Health Services                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDFINNERNSA              Nonfarm Private Payroll Employment for Financial Activities                                                                NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDFINNERSA               Nonfarm Private Payroll Employment for Financial Activities                                                                SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDINFONERNSA             Nonfarm Private Payroll Employment for Information                                                                         NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDINFONERSA              Nonfarm Private Payroll Employment for Information                                                                         SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDLSHPNERNSA             Nonfarm Private Payroll Employment for Leisure and Hospitality                                                             NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDLSHPNERSA              Nonfarm Private Payroll Employment for Leisure and Hospitality                                                             SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDMANNERNSA              Nonfarm Private Payroll Employment for Manufacturing                                                                       NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDMANNERSA               Nonfarm Private Payroll Employment for Manufacturing                                                                       SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDNRMINNERNSA            Nonfarm Private Payroll Employment for Natural Resources and Mining                                                        NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDNRMINNERSA             Nonfarm Private Payroll Employment for Natural Resources and Mining                                                        SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDOTHSRVNERNSA           Nonfarm Private Payroll Employment for Other Services                                                                      NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDOTHSRVNERSA            Nonfarm Private Payroll Employment for Other Services                                                                      SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDPROBUSNERNSA           Nonfarm Private Payroll Employment for Professional and Business Services                                                  NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDPROBUSNERSA            Nonfarm Private Payroll Employment for Professional and Business Services                                                  SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWINDTTUNERNSA              Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                                NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWINDTTUNERSA               Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities                                                SA   30-Nov-2022 01-Oct-2022             Weekly             
+ADPWNUSNERNSA                 Total Nonfarm Private Payroll Employment                                                                                   NSA  30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+ADPWNUSNERSA                  Total Nonfarm Private Payroll Employment                                                                                   SA   30-Nov-2022 01-Oct-2022 15-Dec-2022 Weekly             
+NPPBUS                        Nonfarm Private Professional and Business Payroll Employment (DISCONTINUED)                                              T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPCON                        Nonfarm Private Construction Payroll Employment (DISCONTINUED)                                                           T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPFIN                        Nonfarm Private Financial Activities Payroll Employment (DISCONTINUED)                                                   T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPL                        Nonfarm Private Goods - Producing Large Payroll Employment (> 499) (DISCONTINUED)                                        T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPL1                       Nonfarm Private Goods - Producing Large Payroll Employment (500 - 999) (DISCONTINUED)                                    T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPL2                       Nonfarm Private Goods - Producing Large Payroll Employment (1000+) (DISCONTINUED)                                        T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPM                        Nonfarm Private Goods - Producing Medium Payroll Employment (50 - 499) (DISCONTINUED)                                    T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPS                        Nonfarm Private Goods - Producing Small Payroll Employment (1 - 49) (DISCONTINUED)                                       T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPS1                       Nonfarm Private Goods - Producing Small Payroll Employment (1 - 19) (DISCONTINUED)                                       T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPS2                       Nonfarm Private Goods - Producing Small Payroll Employment (20 - 49) (DISCONTINUED)                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPGPT                        Nonfarm Private Goods - Producing Payroll Employment (DISCONTINUED)                                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPMNF                        Nonfarm Private Manufacturing Payroll Employment (DISCONTINUED)                                                          T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPL                        Nonfarm Private Service - Providing Large Payroll Employment (> 499) (DISCONTINUED)                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPL1                       Nonfarm Private Service - Providing Large Payroll Employment (500 - 999) (DISCONTINUED)                                  T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPL2                       Nonfarm Private Service - Providing Large Payroll Employment (1000+) (DISCONTINUED)                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPM                        Nonfarm Private Service - Providing Medium Payroll Employment (50 - 499) (DISCONTINUED)                                  T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPS                        Nonfarm Private Service - Providing Small Payroll Employment (1 - 49) (DISCONTINUED)                                     T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPS1                       Nonfarm Private Service - Providing Small Payroll Employment (1 - 19) (DISCONTINUED)                                     T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPS2                       Nonfarm Private Service - Providing Small Payroll Employment (20 - 49) (DISCONTINUED)                                    T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPSPT                        Nonfarm Private Service - Providing Payroll Employment (DISCONTINUED)                                                    T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTL                         Nonfarm Private Large Payroll Employment (> 499) (DISCONTINUED)                                                          T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTL1                        Nonfarm Private Large Payroll Employment (500 - 999) (DISCONTINUED)                                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTL2                        Nonfarm Private Large Payroll Employment (1000+) (DISCONTINUED)                                                          T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTM                         Nonfarm Private Medium Payroll Employment (50 - 499) (DISCONTINUED)                                                      T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTS                         Nonfarm Private Small Payroll Employment (1 - 49) (DISCONTINUED)                                                         T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTS1                        Nonfarm Private Small Payroll Employment (1 - 19) (DISCONTINUED)                                                         T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTS2                        Nonfarm Private Small Payroll Employment (20 - 49) (DISCONTINUED)                                                        T SA   02-Jun-2022 01-May-2022             Monthly            
+NPPTTL                        Total Nonfarm Private Payroll Employment (DISCONTINUED)                                                                  T SA   02-Jun-2022 01-May-2022 15-Dec-2022 Monthly            
+NPPTTU                        Nonfarm Private Trade, Transportation, and Utilities Payroll Employment (DISCONTINUED)"                                  T SA   02-Jun-2022 01-May-2022             Monthly            

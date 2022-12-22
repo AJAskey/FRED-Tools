@@ -1,5 +1,5 @@
-Id : 179  Quarterly Retail E-Commerce Sales
-ECOMNSA                       E-Commerce Retail Sales                                                                                                  NSA  18-Nov-2022  Quarterly      
-ECOMPCTNSA                    E-Commerce Retail Sales as a Percent of Total Sales                                                                      NSA  18-Nov-2022  Quarterly      
-ECOMPCTSA                     E-Commerce Retail Sales as a Percent of Total Sales                                                                      SA   18-Nov-2022  Quarterly      
-ECOMSA                        E-Commerce Retail Sales                                                                                                  SA   18-Nov-2022  Quarterly      
+Release  Id : 179	Quarterly Retail E-Commerce Sales
+ECOMNSA                       E-Commerce Retail Sales                                                                                                  M NSA  18-Nov-2022 01-Jul-2022 15-Dec-2022 Quarterly          
+ECOMPCTNSA                    E-Commerce Retail Sales as a Percent of Total Sales                                                                      P NSA  18-Nov-2022 01-Jul-2022 15-Dec-2022 Quarterly          
+ECOMPCTSA                     E-Commerce Retail Sales as a Percent of Total Sales                                                                      P SA   18-Nov-2022 01-Jul-2022             Quarterly          
+ECOMSA                        E-Commerce Retail Sales                                                                                                  M SA   18-Nov-2022 01-Jul-2022             Quarterly          

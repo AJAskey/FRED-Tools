@@ -1,6 +1,6 @@
-Id : 61  Money Zero Maturity (MZM)
-MZM                           MZM Money Stock (DISCONTINUED)                                                                                           SA   26-Oct-2022  Weekly, Ending Monday
-MZMNS                         MZM Money Stock (DISCONTINUED)                                                                                           NSA  22-Nov-2022  Monthly        
-MZMOWN                        MZM Own Rate (DISCONTINUED)                                                                                              NSA  12-Jul-2019  Monthly        
-MZMSL                         MZM Money Stock (DISCONTINUED)                                                                                           SA   22-Nov-2022  Monthly        
-WMZMNS                        MZM Money Stock (DISCONTINUED)                                                                                           NSA  22-Nov-2022  Weekly, Ending Monday
+Release  Id : 61	Money Zero Maturity (MZM)
+MZM                           MZM Money Stock (DISCONTINUED)                                                                                           B SA   26-Oct-2022 01-Feb-2021             Weekly, Ending Mon 
+MZMNS                         MZM Money Stock (DISCONTINUED)                                                                                           B NSA  22-Nov-2022 01-Jan-2021             Monthly            
+MZMOWN                        MZM Own Rate (DISCONTINUED)                                                                                              P NSA  12-Jul-2019 01-Jun-2019             Monthly            
+MZMSL                         MZM Money Stock (DISCONTINUED)                                                                                           B SA   22-Nov-2022 01-Jan-2021             Monthly            
+WMZMNS                        MZM Money Stock (DISCONTINUED)                                                                                           B NSA  22-Nov-2022 01-Feb-2021             Weekly, Ending Mon 

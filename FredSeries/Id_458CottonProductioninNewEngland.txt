@@ -1,27 +1,27 @@
-Id : 458  Cotton Production in New England
-CPNEAMOSKEAGI                 Cotton Production by Amoskeag I Mill                                                                                     NSA  01-Nov-2019  Annual         
-CPNEAMOSKEAGII                Cotton Production by Amoskeag II Mill                                                                                    NSA  01-Nov-2019  Annual         
-CPNEAMOSKEAGIII               Cotton Production by Amoskeag III Mill                                                                                   NSA  01-Nov-2019  Annual         
-CPNEBOSTON                    Cotton Production by Boston Mill                                                                                         NSA  01-Nov-2019  Annual         
-CPNEDWIGHTI                   Cotton Production by Dwight I Mill                                                                                       NSA  01-Nov-2019  Annual         
-CPNEDWIGHTII                  Cotton Production by Dwight II Mill                                                                                      NSA  01-Nov-2019  Annual         
-CPNEDWIGHTIII                 Cotton Production by Dwight III Mill                                                                                     NSA  01-Nov-2019  Annual         
-CPNEHAMILTON                  Cotton Production by Hamilton Mill                                                                                       NSA  01-Nov-2019  Annual         
-CPNEJACKSON                   Cotton Production by Jackson Mill                                                                                        NSA  01-Nov-2019  Annual         
-CPNELACONIA                   Cotton Production by Laconia Mill                                                                                        NSA  01-Nov-2019  Annual         
-CPNELANCASTER                 Cotton Production by Lancaster Mill                                                                                      NSA  01-Nov-2019  Annual         
-CPNELAWRENCE                  Cotton Production by Lawrence Mill                                                                                       NSA  01-Nov-2019  Annual         
-CPNELYMANI                    Cotton Production by Lyman I Mill                                                                                        NSA  01-Nov-2019  Annual         
-CPNELYMANII                   Cotton Production by Lyman II Mill                                                                                       NSA  01-Nov-2019  Annual         
-CPNEMERRIMACK                 Cotton Production by Merrimack Mill                                                                                      NSA  01-Nov-2019  Annual         
-CPNEMETACOMET                 Cotton Production by Metacomet Mill                                                                                      NSA  01-Nov-2019  Annual         
-CPNENASHUA                    Cotton Production by Nashua Mill                                                                                         NSA  01-Nov-2019  Annual         
-CPNENAUMKEAG                  Cotton Production by Naumkeag Mill                                                                                       NSA  01-Nov-2019  Annual         
-CPNEPEPPERILL                 Cotton Production by Pepperill Mill                                                                                      NSA  01-Nov-2019  Annual         
-CPNERAMPO                     Cotton Production by Rampo Mill                                                                                          NSA  01-Nov-2019  Annual         
-CPNESLATER                    Cotton Production by Slater Mill                                                                                         NSA  01-Nov-2019  Annual         
-CPNESLATERTIFFANY             Cotton Production by Slater & Tiffany Mill                                                                               NSA  01-Nov-2019  Annual         
-CPNESUFFOLK                   Cotton Production by Suffolk Mill                                                                                        NSA  01-Nov-2019  Annual         
-CPNESUTTON                    Cotton Production by Sutton Mill                                                                                         NSA  01-Nov-2019  Annual         
-CPNETOTAL                     Total Cotton Production by Mills in New England                                                                          NSA  01-Nov-2019  Annual         
-CPNETREMONT                   Cotton Production by Tremont Mill                                                                                        NSA  01-Nov-2019  Annual         
+Release  Id : 458	Cotton Production in New England
+CPNEAMOSKEAGI                 Cotton Production by Amoskeag I Mill                                                                                     T NSA  01-Nov-2019 01-Jan-1847             Annual             
+CPNEAMOSKEAGII                Cotton Production by Amoskeag II Mill                                                                                    T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEAMOSKEAGIII               Cotton Production by Amoskeag III Mill                                                                                   T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEBOSTON                    Cotton Production by Boston Mill                                                                                         T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEDWIGHTI                   Cotton Production by Dwight I Mill                                                                                       T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEDWIGHTII                  Cotton Production by Dwight II Mill                                                                                      T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEDWIGHTIII                 Cotton Production by Dwight III Mill                                                                                     T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEHAMILTON                  Cotton Production by Hamilton Mill                                                                                       T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEJACKSON                   Cotton Production by Jackson Mill                                                                                        T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNELACONIA                   Cotton Production by Laconia Mill                                                                                        T NSA  01-Nov-2019 01-Jan-1855             Annual             
+CPNELANCASTER                 Cotton Production by Lancaster Mill                                                                                      T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNELAWRENCE                  Cotton Production by Lawrence Mill                                                                                       T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNELYMANI                    Cotton Production by Lyman I Mill                                                                                        T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNELYMANII                   Cotton Production by Lyman II Mill                                                                                       T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEMERRIMACK                 Cotton Production by Merrimack Mill                                                                                      T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEMETACOMET                 Cotton Production by Metacomet Mill                                                                                      T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNENASHUA                    Cotton Production by Nashua Mill                                                                                         T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNENAUMKEAG                  Cotton Production by Naumkeag Mill                                                                                       T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNEPEPPERILL                 Cotton Production by Pepperill Mill                                                                                      T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNERAMPO                     Cotton Production by Rampo Mill                                                                                          T NSA  01-Nov-2019 01-Jan-1833             Annual             
+CPNESLATER                    Cotton Production by Slater Mill                                                                                         T NSA  01-Nov-2019 01-Jan-1839             Annual             
+CPNESLATERTIFFANY             Cotton Production by Slater & Tiffany Mill                                                                               T NSA  01-Nov-2019 01-Jan-1837             Annual             
+CPNESUFFOLK                   Cotton Production by Suffolk Mill                                                                                        T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNESUTTON                    Cotton Production by Sutton Mill                                                                                         T NSA  01-Nov-2019 01-Jan-1859             Annual             
+CPNETOTAL                     Total Cotton Production by Mills in New England                                                                          T NSA  01-Nov-2019 01-Jan-1860             Annual             
+CPNETREMONT                   Cotton Production by Tremont Mill                                                                                        T NSA  01-Nov-2019 01-Jan-1860             Annual             

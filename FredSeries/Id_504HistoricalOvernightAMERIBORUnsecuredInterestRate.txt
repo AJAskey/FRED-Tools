@@ -1,12 +1,12 @@
-Id : 504  Historical Overnight AMERIBOR Unsecured Interest Rate
-AMBOR1M                       1-Month AMERIBOR Term Structure of Interest Rates                                                                        NSA  09-Dec-2022  Daily          
-AMBOR1W                       1-Week AMERIBOR Term Structure of Interest Rates                                                                         NSA  09-Dec-2022  Daily          
-AMBOR1Y                       1-Year AMERIBOR Term Structure of Interest Rates                                                                         NSA  09-Dec-2022  Daily          
-AMBOR2Y                       2-Year AMERIBOR Term Structure of Interest Rates                                                                         NSA  09-Dec-2022  Daily          
-AMBOR30                       30-Day Moving Average AMERIBOR Benchmark Interest Rate                                                                   NSA  09-Dec-2022  Daily, 7-Day   
-AMBOR30T                      AMERIBOR Term-30 Derived Interest Rate Index                                                                             NSA  09-Dec-2022  Daily          
-AMBOR3M                       3-Month AMERIBOR Term Structure of Interest Rates                                                                        NSA  09-Dec-2022  Daily          
-AMBOR6M                       6-Month AMERIBOR Term Structure of Interest Rates                                                                        NSA  09-Dec-2022  Daily          
-AMBOR90                       90-Day Moving Average AMERIBOR Benchmark Interest Rate                                                                   NSA  09-Dec-2022  Daily, 7-Day   
-AMBOR90T                      AMERIBOR Term-90 Derived Interest Rate Index                                                                             NSA  09-Dec-2022  Daily          
-AMERIBOR                      Overnight Unsecured AMERIBOR Benchmark Interest Rate                                                                     NSA  09-Dec-2022  Daily, 7-Day   
+Release  Id : 504	Historical Overnight AMERIBOR Unsecured Interest Rate
+AMBOR1M                       1-Month AMERIBOR Term Structure of Interest Rates                                                                        P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR1W                       1-Week AMERIBOR Term Structure of Interest Rates                                                                         P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR1Y                       1-Year AMERIBOR Term Structure of Interest Rates                                                                         P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR2Y                       2-Year AMERIBOR Term Structure of Interest Rates                                                                         P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR30                       30-Day Moving Average AMERIBOR Benchmark Interest Rate                                                                   P NSA  22-Dec-2022 21-Dec-2022             Daily, 7-Day       
+AMBOR30T                      AMERIBOR Term-30 Derived Interest Rate Index                                                                             P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR3M                       3-Month AMERIBOR Term Structure of Interest Rates                                                                        P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR6M                       6-Month AMERIBOR Term Structure of Interest Rates                                                                        P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMBOR90                       90-Day Moving Average AMERIBOR Benchmark Interest Rate                                                                   P NSA  22-Dec-2022 21-Dec-2022             Daily, 7-Day       
+AMBOR90T                      AMERIBOR Term-90 Derived Interest Rate Index                                                                             P NSA  22-Dec-2022 21-Dec-2022             Daily              
+AMERIBOR                      Overnight Unsecured AMERIBOR Benchmark Interest Rate                                                                     P NSA  22-Dec-2022 21-Dec-2022             Daily, 7-Day       

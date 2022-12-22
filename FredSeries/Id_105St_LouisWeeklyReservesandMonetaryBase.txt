@@ -1,2 +1,2 @@
-Id : 105  St. Louis Weekly Reserves and Monetary Base
-WSBASE                        St. Louis Source Base (DISCONTINUED)                                                                                     NSA  19-Dec-2019  Weekly, Ending Wednesday
+Release  Id : 105	St. Louis Weekly Reserves and Monetary Base
+WSBASE                        St. Louis Source Base (DISCONTINUED)                                                                                     B NSA  19-Dec-2019 18-Dec-2019             Weekly, Ending Wed 

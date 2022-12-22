@@ -1,2 +1,2 @@
-Id : 499  EONIA: Euro Interbank Offered Rate
-EONIARATE                     EONIA: Euro Interbank Offered Rate (DISCONTINUED)                                                                        NSA  31-Dec-2021  Daily          
+Release  Id : 499	EONIA: Euro Interbank Offered Rate
+EONIARATE                     EONIA: Euro Interbank Offered Rate (DISCONTINUED)                                                                        P NSA  31-Dec-2021 29-Dec-2021             Daily              

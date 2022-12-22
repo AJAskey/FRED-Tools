@@ -1,5 +1,5 @@
-Id : 483  SOFR Averages and Index Data
-SOFR180DAYAVG                 180-Day Average SOFR                                                                                                     NSA  09-Dec-2022  Daily          
-SOFR30DAYAVG                  30-Day Average SOFR                                                                                                      NSA  09-Dec-2022  Daily          
-SOFR90DAYAVG                  90-Day Average SOFR                                                                                                      NSA  09-Dec-2022  Daily          
-SOFRINDEX                     SOFR Index                                                                                                               NSA  09-Dec-2022  Daily          
+Release  Id : 483	SOFR Averages and Index Data
+SOFR180DAYAVG                 180-Day Average SOFR                                                                                                     P NSA  22-Dec-2022 22-Dec-2022 20-Dec-2022 Daily              
+SOFR30DAYAVG                  30-Day Average SOFR                                                                                                      P NSA  22-Dec-2022 22-Dec-2022 20-Dec-2022 Daily              
+SOFR90DAYAVG                  90-Day Average SOFR                                                                                                      P NSA  22-Dec-2022 22-Dec-2022 20-Dec-2022 Daily              
+SOFRINDEX                     SOFR Index                                                                                                                 NSA  22-Dec-2022 22-Dec-2022 20-Dec-2022 Daily              

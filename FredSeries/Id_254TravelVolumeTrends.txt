@@ -1,5 +1,5 @@
-Id : 254  Travel Volume Trends
-M12MTVUSM227NFWA              Moving 12-Month Total Vehicle Miles Traveled                                                                             NSA  29-Nov-2022  Monthly        
-M12MTVUSM227SFWA              Moving 12-Month Total Vehicle Miles Traveled                                                                             SA   29-Nov-2022  Monthly        
-TRFVOLUSM227NFWA              Vehicle Miles Traveled                                                                                                   NSA  29-Nov-2022  Monthly        
-TRFVOLUSM227SFWA              Vehicle Miles Traveled                                                                                                   SA   29-Nov-2022  Monthly        
+Release  Id : 254	Travel Volume Trends
+M12MTVUSM227NFWA              Moving 12-Month Total Vehicle Miles Traveled                                                                             M NSA  21-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+M12MTVUSM227SFWA              Moving 12-Month Total Vehicle Miles Traveled                                                                             M SA   21-Dec-2022 01-Oct-2022             Monthly            
+TRFVOLUSM227NFWA              Vehicle Miles Traveled                                                                                                   M NSA  21-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+TRFVOLUSM227SFWA              Vehicle Miles Traveled                                                                                                   M SA   21-Dec-2022 01-Oct-2022             Monthly            

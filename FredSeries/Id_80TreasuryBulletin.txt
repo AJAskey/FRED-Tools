@@ -1,13 +1,13 @@
-Id : 80  Treasury Bulletin
-FDHBAT                        Federal Debt Held by Agencies and Trust (DISCONTINUED)                                                                   SA   16-Jan-2004  Quarterly, End of Period
-FDHBATN                       Federal Debt Held by Agencies and Trusts                                                                                 NSA  02-Dec-2022  Quarterly, End of Period
-FDHBFI                        Federal Debt Held by Foreign Investors (DISCONTINUED)                                                                    SA   16-Jan-2004  Quarterly, End of Period
-FDHBFIN                       Federal Debt Held by Foreign and International Investors                                                                 NSA  02-Dec-2022  Quarterly, End of Period
-FDHBFRB                       Federal Debt Held by Federal Reserve Banks (DISCONTINUED)                                                                SA   16-Jan-2004  Quarterly, End of Period
-FDHBFRBN                      Federal Debt Held by Federal Reserve Banks                                                                               NSA  02-Dec-2022  Quarterly, End of Period
-FDHBPI                        Federal Debt Held by Private Investors (DISCONTINUED)                                                                    SA   16-Jan-2004  Quarterly, End of Period
-FDHBPIN                       Federal Debt Held by Private Investors                                                                                   NSA  02-Dec-2022  Quarterly, End of Period
-FYGFDPUN                      Federal Debt Held by the Public                                                                                          NSA  02-Dec-2022  Quarterly, End of Period
-GFDEBT                        Federal Government Debt: Gross (DISCONTINUED)                                                                            SA   16-Jan-2004  Quarterly, End of Period
-GFDEBTN                       Federal Debt: Total Public Debt                                                                                          NSA  02-Dec-2022  Quarterly, End of Period
-NFDEBT                        Federal Government Debt: Net (DISCONTINUED)                                                                              SA   16-Jan-2004  Quarterly, End of Period
+Release  Id : 80	Treasury Bulletin
+FDHBAT                        Federal Debt Held by Agencies and Trust (DISCONTINUED)                                                                   B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  
+FDHBATN                       Federal Debt Held by Agencies and Trusts                                                                                 M NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+FDHBFI                        Federal Debt Held by Foreign Investors (DISCONTINUED)                                                                    B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  
+FDHBFIN                       Federal Debt Held by Foreign and International Investors                                                                 B NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+FDHBFRB                       Federal Debt Held by Federal Reserve Banks (DISCONTINUED)                                                                B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  
+FDHBFRBN                      Federal Debt Held by Federal Reserve Banks                                                                               B NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+FDHBPI                        Federal Debt Held by Private Investors (DISCONTINUED)                                                                    B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  
+FDHBPIN                       Federal Debt Held by Private Investors                                                                                   B NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+FYGFDPUN                      Federal Debt Held by the Public                                                                                          M NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+GFDEBT                        Federal Government Debt: Gross (DISCONTINUED)                                                                            B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  
+GFDEBTN                       Federal Debt: Total Public Debt                                                                                          M NSA  02-Dec-2022 01-Jul-2022 15-Dec-2022 Quarterly, End of  
+NFDEBT                        Federal Government Debt: Net (DISCONTINUED)                                                                              B SA   16-Jan-2004 01-Oct-1998             Quarterly, End of  

@@ -1,4 +1,4 @@
-Id : 383  Market Value of U.S. Government Debt
-MVGFD027MNFRBDAL              Market Value of Gross Federal Debt                                                                                       NSA  05-Dec-2022  Monthly        
-MVMTD027MNFRBDAL              Market Value of Marketable Treasury Debt                                                                                 NSA  05-Dec-2022  Monthly        
-MVPHGFD027MNFRBDAL            Market Value of Privately Held Gross Federal Debt                                                                        NSA  05-Dec-2022  Monthly        
+Release  Id : 383	Market Value of U.S. Government Debt
+MVGFD027MNFRBDAL              Market Value of Gross Federal Debt                                                                                       B NSA  05-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+MVMTD027MNFRBDAL              Market Value of Marketable Treasury Debt                                                                                 B NSA  05-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            
+MVPHGFD027MNFRBDAL            Market Value of Privately Held Gross Federal Debt                                                                        B NSA  05-Dec-2022 01-Oct-2022 15-Dec-2022 Monthly            

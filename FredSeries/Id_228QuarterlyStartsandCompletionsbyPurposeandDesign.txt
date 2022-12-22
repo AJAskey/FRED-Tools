@@ -1,181 +1,181 @@
-Id : 228  Quarterly Starts and Completions by Purpose and Design
-COMP1FMWQ                     New Privately Owned Housing Completions Total One-Family Units in the Midwest Census Region                              SA   17-Nov-2022  Quarterly      
-COMP1FNEQ                     New Privately Owned Housing Completions Total One-Family Units in the Northeast Census Region                            SA   17-Nov-2022  Quarterly      
-COMP1FQ                       New Privately Owned Housing Completions in the United States, Total One-Family Units                                     SA   17-Nov-2022  Quarterly      
-COMP1FSQ                      New Privately Owned Housing Completions Total One-Family Units in the South Census Region                                SA   17-Nov-2022  Quarterly      
-COMP1FWQ                      New Privately Owned Housing Completions Total One-Family Units in the West Census Region                                 SA   17-Nov-2022  Quarterly      
-COMP2UMMWQ                    New Privately Owned Housing Completions Total Two or More Units in the Midwest Census Region                             SA   17-Nov-2022  Quarterly      
-COMP2UMNEQ                    New Privately Owned Housing Completions Total Two or More Units in the Northeast Census Region                           SA   17-Nov-2022  Quarterly      
-COMP2UMQ                      New Privately Owned Housing Completions in the United States, Total Two or More Units                                    SA   17-Nov-2022  Quarterly      
-COMP2UMSQ                     New Privately Owned Housing Completions Total Two or More Units in the South Census Region                               SA   17-Nov-2022  Quarterly      
-COMP2UMWQ                     New Privately Owned Housing Completions Total Two or More Units in the West Census Region                                SA   17-Nov-2022  Quarterly      
-COMPCB1FMWQ                   New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the Midwest Ce  SA   17-Nov-2022  Quarterly      
-COMPCB1FNEQ                   New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the Northeast   SA   17-Nov-2022  Quarterly      
-COMPCB1FQ                     New Privately Owned Housing Completions in the United States by Purpose of Construction, Contractor-Built One-Family Un  SA   17-Nov-2022  Quarterly      
-COMPCB1FSQ                    New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the South Cens  SA   17-Nov-2022  Quarterly      
-COMPCB1FWQ                    New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the West Censu  SA   17-Nov-2022  Quarterly      
-COMPCB24UMMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the Midwest Census Region        SA   17-Nov-2022  Quarterly      
-COMPCB24UMNEQ                 New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the Northeast Census Region      SA   17-Nov-2022  Quarterly      
-COMPCB24UMQ                   New Privately Owned Housing Completions in the United States by Number of Units in Building, 2 to 4 Units                SA   17-Nov-2022  Quarterly      
-COMPCB24UMSQ                  New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the South Census Region          SA   17-Nov-2022  Quarterly      
-COMPCB24UMWQ                  New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the West Census Region           SA   17-Nov-2022  Quarterly      
-COMPDTA1FMWQ                  New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the Midwest Census Region           SA   17-Nov-2022  Quarterly      
-COMPDTA1FNEQ                  New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the Northeast Census Region         SA   17-Nov-2022  Quarterly      
-COMPDTA1FQ                    New Privately Owned Housing Completions in the United States by Design Type, Attached One-Family Units                   SA   17-Nov-2022  Quarterly      
-COMPDTA1FSQ                   New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the South Census Region             SA   17-Nov-2022  Quarterly      
-COMPDTA1FWQ                   New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the West Census Region              SA   17-Nov-2022  Quarterly      
-COMPDTA20UMMWQ                New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the Midwest Census Region    SA   17-Nov-2022  Quarterly      
-COMPDTA20UMNEQ                New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the Northeast Census Region  SA   17-Nov-2022  Quarterly      
-COMPDTA20UMQ                  New Privately Owned Housing Completions in the United States by Number of Units in Building, 20 or More Units            SA   17-Nov-2022  Quarterly      
-COMPDTA20UMSQ                 New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the South Census Region      SA   17-Nov-2022  Quarterly      
-COMPDTA20UMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the West Census Region       SA   17-Nov-2022  Quarterly      
-COMPDTD1019UMMWQ              New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the Midwest Census Region      SA   17-Nov-2022  Quarterly      
-COMPDTD1019UMNEQ              New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the Northeast Census Region    SA   17-Nov-2022  Quarterly      
-COMPDTD1019UMQ                New Privately Owned Housing Completions in the United States by Number of Units in Building, 10 to 19 Units              SA   17-Nov-2022  Quarterly      
-COMPDTD1019UMSQ               New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the South Census Region        SA   17-Nov-2022  Quarterly      
-COMPDTD1019UMWQ               New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the West Census Region         SA   17-Nov-2022  Quarterly      
-COMPDTD1FMWQ                  New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the Midwest Census Region           SA   17-Nov-2022  Quarterly      
-COMPDTD1FNEQ                  New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the Northeast Census Region         SA   17-Nov-2022  Quarterly      
-COMPDTD1FQ                    New Privately Owned Housing Completions in the United States by Design Type, Detached One-Family Units                   SA   17-Nov-2022  Quarterly      
-COMPDTD1FSQ                   New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the South Census Region             SA   17-Nov-2022  Quarterly      
-COMPDTD1FWQ                   New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the West Census Region              SA   17-Nov-2022  Quarterly      
-COMPOB1FMWQ                   New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the Midwest Census   SA   17-Nov-2022  Quarterly      
-COMPOB1FNEQ                   New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the Northeast Censu  SA   17-Nov-2022  Quarterly      
-COMPOB1FQ                     New Privately Owned Housing Completions in the United States by Purpose of Construction, Owner-Built One-Family Units    SA   17-Nov-2022  Quarterly      
-COMPOB1FSQ                    New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the South Census Re  SA   17-Nov-2022  Quarterly      
-COMPOB1FWQ                    New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the West Census Reg  SA   17-Nov-2022  Quarterly      
-COMPOB59UMMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the Midwest Census Region        SA   17-Nov-2022  Quarterly      
-COMPOB59UMNEQ                 New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the Northeast Census Region      SA   17-Nov-2022  Quarterly      
-COMPOB59UMQ                   New Privately Owned Housing Completions in the United States by Number of Units in Building, 5 to 9 Units                SA   17-Nov-2022  Quarterly      
-COMPOB59UMSQ                  New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the South Census Region          SA   17-Nov-2022  Quarterly      
-COMPOB59UMWQ                  New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the West Census Region           SA   17-Nov-2022  Quarterly      
-COMPPFR2UMMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the Midwest Cen  SA   17-Nov-2022  Quarterly      
-COMPPFR2UMNEQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the Northeast C  SA   17-Nov-2022  Quarterly      
-COMPPFR2UMQ                   New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Rent Two or More Uni  SA   17-Nov-2022  Quarterly      
-COMPPFR2UMSQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the South Censu  SA   17-Nov-2022  Quarterly      
-COMPPFR2UMWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the West Census  SA   17-Nov-2022  Quarterly      
-COMPPFS1FMWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the M  SA   17-Nov-2022  Quarterly      
-COMPPFS1FNEQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the N  SA   17-Nov-2022  Quarterly      
-COMPPFS1FQ                    New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Fee Simple One-  SA   17-Nov-2022  Quarterly      
-COMPPFS1FSQ                   New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the S  SA   17-Nov-2022  Quarterly      
-COMPPFS1FWQ                   New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the W  SA   17-Nov-2022  Quarterly      
-COMPPFST1FMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the Midwes  SA   17-Nov-2022  Quarterly      
-COMPPFST1FNEQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the Northe  SA   17-Nov-2022  Quarterly      
-COMPPFST1FQ                   New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Total One-Famil  SA   17-Nov-2022  Quarterly      
-COMPPFST1FSQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the South   SA   17-Nov-2022  Quarterly      
-COMPPFST1FWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the West C  SA   17-Nov-2022  Quarterly      
-COMPPFST2UMMWQ                New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the Midwe  SA   17-Nov-2022  Quarterly      
-COMPPFST2UMNEQ                New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the North  SA   17-Nov-2022  Quarterly      
-COMPPFST2UMQ                  New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Two or More Uni  SA   17-Nov-2022  Quarterly      
-COMPPFST2UMSQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the South  SA   17-Nov-2022  Quarterly      
-COMPPFST2UMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the West   SA   17-Nov-2022  Quarterly      
-COMPSFLAA1FMWQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the Midwest Census Re  SA   17-Nov-2022  Quarterly      
-COMPSFLAA1FNEQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the Northeast Census   SA   17-Nov-2022  Quarterly      
-COMPSFLAA1FQ                  New Privately Owned Housing Completions in the United States, Average Square Feet of Floor Area for One-Family Units     SA   17-Nov-2022  Quarterly      
-COMPSFLAA1FSQ                 New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the South Census Regi  SA   17-Nov-2022  Quarterly      
-COMPSFLAA1FWQ                 New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the West Census Region SA   17-Nov-2022  Quarterly      
-COMPSFLAA2UMMWQ               New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the Midwest Census R  SA   17-Nov-2022  Quarterly      
-COMPSFLAA2UMNEQ               New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the Northeast Census  SA   17-Nov-2022  Quarterly      
-COMPSFLAA2UMQ                 New Privately Owned Housing Completions in the United States, Average Square Feet Per Unit for Two or More Units         SA   17-Nov-2022  Quarterly      
-COMPSFLAA2UMSQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the South Census Reg  SA   17-Nov-2022  Quarterly      
-COMPSFLAA2UMWQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the West Census Regi  SA   17-Nov-2022  Quarterly      
-COMPSFLAM1FMWQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the Midwest Census Reg  SA   17-Nov-2022  Quarterly      
-COMPSFLAM1FNEQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the Northeast Census R  SA   17-Nov-2022  Quarterly      
-COMPSFLAM1FQ                  New Privately Owned Housing Completions in the United States, Median Square Feet of Floor Area for One-Family Units      SA   17-Nov-2022  Quarterly      
-COMPSFLAM1FSQ                 New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the South Census Region SA   17-Nov-2022  Quarterly      
-COMPSFLAM1FWQ                 New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the West Census Region  SA   17-Nov-2022  Quarterly      
-COMPSFLAM2UMMWQ               New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the Midwest Census Re  SA   17-Nov-2022  Quarterly      
-COMPSFLAM2UMNEQ               New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the Northeast Census   SA   17-Nov-2022  Quarterly      
-COMPSFLAM2UMQ                 New Privately Owned Housing Completions in the United States, Median Square Feet Per Unit for Two or More Units          SA   17-Nov-2022  Quarterly      
-COMPSFLAM2UMSQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the South Census Regi  SA   17-Nov-2022  Quarterly      
-COMPSFLAM2UMWQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the West Census Region SA   17-Nov-2022  Quarterly      
-HOUST1FMWQ                    New Privately Owned Housing Starts Total One-Family Units in the Midwest Census Region                                   SA   17-Nov-2022  Quarterly      
-HOUST1FNEQ                    New Privately Owned Housing Starts Total One-Family Units in the Northeast Census Region                                 SA   17-Nov-2022  Quarterly      
-HOUST1FQ                      New Privately Owned Housing Starts in the United States, Total One-Family Units                                          SA   17-Nov-2022  Quarterly      
-HOUST1FSQ                     New Privately Owned Housing Starts Total One-Family Units in the South Census Region                                     SA   17-Nov-2022  Quarterly      
-HOUST1FWQ                     New Privately Owned Housing Starts Total One-Family Units in the West Census Region                                      SA   17-Nov-2022  Quarterly      
-HOUST2UMMWQ                   New Privately Owned Housing Starts Total Two or More Units in the Midwest Census Region                                  SA   17-Nov-2022  Quarterly      
-HOUST2UMNEQ                   New Privately Owned Housing Starts Total Two or More Units in the Northeast Census Region                                SA   17-Nov-2022  Quarterly      
-HOUST2UMQ                     New Privately Owned Housing Starts in the United States, Total Two or More Units                                         SA   17-Nov-2022  Quarterly      
-HOUST2UMSQ                    New Privately Owned Housing Starts Total Two or More Units in the South Census Region                                    SA   17-Nov-2022  Quarterly      
-HOUST2UMWQ                    New Privately Owned Housing Starts Total Two or More Units in the West Census Region                                     SA   17-Nov-2022  Quarterly      
-HOUSTCB1FMWQ                  New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the Midwest Census   SA   17-Nov-2022  Quarterly      
-HOUSTCB1FNEQ                  New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the Northeast Censu  SA   17-Nov-2022  Quarterly      
-HOUSTCB1FQ                    New Privately Owned Housing Starts in the United States by Purpose of Construction, Contractor-Built One-Family Units    SA   17-Nov-2022  Quarterly      
-HOUSTCB1FSQ                   New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the South Census Re  SA   17-Nov-2022  Quarterly      
-HOUSTCB1FWQ                   New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the West Census Reg  SA   17-Nov-2022  Quarterly      
-HOUSTCB24UMMWQ                New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the Midwest Census Region             SA   17-Nov-2022  Quarterly      
-HOUSTCB24UMNEQ                New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the Northeast Census Region           SA   17-Nov-2022  Quarterly      
-HOUSTCB24UMQ                  New Privately Owned Housing Starts in the United States by Number of Units in Building, 2 to 4 Units                     SA   17-Nov-2022  Quarterly      
-HOUSTCB24UMSQ                 New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the South Census Region               SA   17-Nov-2022  Quarterly      
-HOUSTCB24UMWQ                 New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the West Census Region                SA   17-Nov-2022  Quarterly      
-HOUSTDTA1FMWQ                 New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the Midwest Census Region                SA   17-Nov-2022  Quarterly      
-HOUSTDTA1FNEQ                 New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the Northeast Census Region              SA   17-Nov-2022  Quarterly      
-HOUSTDTA1FQ                   New Privately Owned Housing Starts in the United States by Design Type, Attached One-Family Units                        SA   17-Nov-2022  Quarterly      
-HOUSTDTA1FSQ                  New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the South Census Region                  SA   17-Nov-2022  Quarterly      
-HOUSTDTA1FWQ                  New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the West Census Region                   SA   17-Nov-2022  Quarterly      
-HOUSTDTA20UMMWQ               New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the Midwest Census Region         SA   17-Nov-2022  Quarterly      
-HOUSTDTA20UMNEQ               New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the Northeast Census Region       SA   17-Nov-2022  Quarterly      
-HOUSTDTA20UMQ                 New Privately Owned Housing Starts in the United States by Number of Units in Building, 20 or More Units                 SA   17-Nov-2022  Quarterly      
-HOUSTDTA20UMSQ                New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the South Census Region           SA   17-Nov-2022  Quarterly      
-HOUSTDTA20UMWQ                New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the West Census Region            SA   17-Nov-2022  Quarterly      
-HOUSTDTD1019UMMWQ             New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the Midwest Census Region           SA   17-Nov-2022  Quarterly      
-HOUSTDTD1019UMNEQ             New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the Northeast Census Region         SA   17-Nov-2022  Quarterly      
-HOUSTDTD1019UMQ               New Privately Owned Housing Starts in the United States by Number of Units in Building, 10 to 19 Units                   SA   17-Nov-2022  Quarterly      
-HOUSTDTD1019UMSQ              New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the South Census Region             SA   17-Nov-2022  Quarterly      
-HOUSTDTD1019UMWQ              New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the West Census Region              SA   17-Nov-2022  Quarterly      
-HOUSTDTD1FMWQ                 New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the Midwest Census Region                SA   17-Nov-2022  Quarterly      
-HOUSTDTD1FNEQ                 New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the Northeast Census Region              SA   17-Nov-2022  Quarterly      
-HOUSTDTD1FQ                   New Privately Owned Housing Starts in the United States by Design Type, Detached One-Family Units                        SA   17-Nov-2022  Quarterly      
-HOUSTDTD1FSQ                  New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the South Census Region                  SA   17-Nov-2022  Quarterly      
-HOUSTDTD1FWQ                  New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the West Census Region                   SA   17-Nov-2022  Quarterly      
-HOUSTOB1FMWQ                  New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the Midwest Census Region SA   17-Nov-2022  Quarterly      
-HOUSTOB1FNEQ                  New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the Northeast Census Reg  SA   17-Nov-2022  Quarterly      
-HOUSTOB1FQ                    New Privately Owned Housing Starts in the United States by Purpose of Construction, Owner-Built One-Family Units         SA   17-Nov-2022  Quarterly      
-HOUSTOB1FSQ                   New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the South Census Region   SA   17-Nov-2022  Quarterly      
-HOUSTOB1FWQ                   New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the West Census Region    SA   17-Nov-2022  Quarterly      
-HOUSTOB59UMMWQ                New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the Midwest Census Region             SA   17-Nov-2022  Quarterly      
-HOUSTOB59UMNEQ                New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the Northeast Census Region           SA   17-Nov-2022  Quarterly      
-HOUSTOB59UMQ                  New Privately Owned Housing Starts in the United States by Number of Units in Building, 5 to 9 Units                     SA   17-Nov-2022  Quarterly      
-HOUSTOB59UMSQ                 New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the South Census Region               SA   17-Nov-2022  Quarterly      
-HOUSTOB59UMWQ                 New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the West Census Region                SA   17-Nov-2022  Quarterly      
-HOUSTPFR2UMMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the Midwest Census R  SA   17-Nov-2022  Quarterly      
-HOUSTPFR2UMNEQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the Northeast Census  SA   17-Nov-2022  Quarterly      
-HOUSTPFR2UMQ                  New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Rent Two or More Units     SA   17-Nov-2022  Quarterly      
-HOUSTPFR2UMSQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the South Census Reg  SA   17-Nov-2022  Quarterly      
-HOUSTPFR2UMWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the West Census Regi  SA   17-Nov-2022  Quarterly      
-HOUSTPFS1FMWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the Midwes  SA   17-Nov-2022  Quarterly      
-HOUSTPFS1FNEQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the Northe  SA   17-Nov-2022  Quarterly      
-HOUSTPFS1FQ                   New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Fee Simple One-Famil  SA   17-Nov-2022  Quarterly      
-HOUSTPFS1FSQ                  New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the South   SA   17-Nov-2022  Quarterly      
-HOUSTPFS1FWQ                  New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the West C  SA   17-Nov-2022  Quarterly      
-HOUSTPFST1FMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the Midwest Cen  SA   17-Nov-2022  Quarterly      
-HOUSTPFST1FNEQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the Northeast C  SA   17-Nov-2022  Quarterly      
-HOUSTPFST1FQ                  New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Total One-Family Uni  SA   17-Nov-2022  Quarterly      
-HOUSTPFST1FSQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the South Censu  SA   17-Nov-2022  Quarterly      
-HOUSTPFST1FWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the West Census  SA   17-Nov-2022  Quarterly      
-HOUSTPFST2UMMWQ               New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the Midwest Ce  SA   17-Nov-2022  Quarterly      
-HOUSTPFST2UMNEQ               New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the Northeast   SA   17-Nov-2022  Quarterly      
-HOUSTPFST2UMQ                 New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Two or More Units     SA   17-Nov-2022  Quarterly      
-HOUSTPFST2UMSQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the South Cens  SA   17-Nov-2022  Quarterly      
-HOUSTPFST2UMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the West Censu  SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA1FMWQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the Midwest Census Region   SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA1FNEQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the Northeast Census Region SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA1FQ                 New Privately Owned Housing Starts in the United States, Average Square Feet of Floor Area for One-Family Units          SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA1FSQ                New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the South Census Region     SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA1FWQ                New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the West Census Region      SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA2UMMWQ              New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the Midwest Census Region  SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA2UMNEQ              New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the Northeast Census Regi  SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA2UMQ                New Privately Owned Housing Starts in the United States, Average Square Feet Per Unit for Two or More Units              SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA2UMSQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the South Census Region    SA   17-Nov-2022  Quarterly      
-HOUSTSFLAA2UMWQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the West Census Region     SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM1FMWQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the Midwest Census Region    SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM1FNEQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the Northeast Census Region  SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM1FQ                 New Privately Owned Housing Starts in the United States, Median Square Feet of Floor Area for One-Family Units           SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM1FSQ                New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the South Census Region      SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM1FWQ                New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the West Census Region       SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM2UMMWQ              New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the Midwest Census Region   SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM2UMNEQ              New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the Northeast Census Region SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM2UMQ                New Privately Owned Housing Starts in the United States, Median Square Feet Per Unit for Two or More Units               SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM2UMSQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the South Census Region     SA   17-Nov-2022  Quarterly      
-HOUSTSFLAM2UMWQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the West Census Region      SA   17-Nov-2022  Quarterly      
+Release  Id : 228	Quarterly Starts and Completions by Purpose and Design
+COMP1FMWQ                     New Privately Owned Housing Completions Total One-Family Units in the Midwest Census Region                              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP1FNEQ                     New Privately Owned Housing Completions Total One-Family Units in the Northeast Census Region                            T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP1FQ                       New Privately Owned Housing Completions in the United States, Total One-Family Units                                     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP1FSQ                      New Privately Owned Housing Completions Total One-Family Units in the South Census Region                                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP1FWQ                      New Privately Owned Housing Completions Total One-Family Units in the West Census Region                                 T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP2UMMWQ                    New Privately Owned Housing Completions Total Two or More Units in the Midwest Census Region                             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP2UMNEQ                    New Privately Owned Housing Completions Total Two or More Units in the Northeast Census Region                           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP2UMQ                      New Privately Owned Housing Completions in the United States, Total Two or More Units                                    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP2UMSQ                     New Privately Owned Housing Completions Total Two or More Units in the South Census Region                               T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMP2UMWQ                     New Privately Owned Housing Completions Total Two or More Units in the West Census Region                                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB1FMWQ                   New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the Midwest Ce  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB1FNEQ                   New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the Northeast   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB1FQ                     New Privately Owned Housing Completions in the United States by Purpose of Construction, Contractor-Built One-Family Un  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB1FSQ                    New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the South Cens  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB1FWQ                    New Privately Owned Housing Completions by Purpose of Construction, Contractor-Built One-Family Units in the West Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB24UMMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the Midwest Census Region        T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB24UMNEQ                 New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the Northeast Census Region      T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB24UMQ                   New Privately Owned Housing Completions in the United States by Number of Units in Building, 2 to 4 Units                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB24UMSQ                  New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the South Census Region          T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPCB24UMWQ                  New Privately Owned Housing Completions by Number of Units in Building, 2 to 4 Units in the West Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA1FMWQ                  New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the Midwest Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA1FNEQ                  New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the Northeast Census Region         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA1FQ                    New Privately Owned Housing Completions in the United States by Design Type, Attached One-Family Units                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA1FSQ                   New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the South Census Region             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA1FWQ                   New Privately Owned Housing Completions by Design Type, Attached One-Family Units in the West Census Region              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA20UMMWQ                New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the Midwest Census Region    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA20UMNEQ                New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the Northeast Census Region  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA20UMQ                  New Privately Owned Housing Completions in the United States by Number of Units in Building, 20 or More Units            T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA20UMSQ                 New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the South Census Region      T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTA20UMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 20 or more Units in the West Census Region       T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1019UMMWQ              New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the Midwest Census Region      T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1019UMNEQ              New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the Northeast Census Region    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1019UMQ                New Privately Owned Housing Completions in the United States by Number of Units in Building, 10 to 19 Units              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1019UMSQ               New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the South Census Region        T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1019UMWQ               New Privately Owned Housing Completions by Number of Units in Building, 10 to 19 Units in the West Census Region         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1FMWQ                  New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the Midwest Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1FNEQ                  New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the Northeast Census Region         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1FQ                    New Privately Owned Housing Completions in the United States by Design Type, Detached One-Family Units                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1FSQ                   New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the South Census Region             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPDTD1FWQ                   New Privately Owned Housing Completions by Design Type, Detached One-Family Units in the West Census Region              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB1FMWQ                   New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the Midwest Census   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB1FNEQ                   New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the Northeast Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB1FQ                     New Privately Owned Housing Completions in the United States by Purpose of Construction, Owner-Built One-Family Units    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB1FSQ                    New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the South Census Re  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB1FWQ                    New Privately Owned Housing Completions by Purpose of Construction, Owner-Built One-Family Units in the West Census Reg  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB59UMMWQ                 New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the Midwest Census Region        T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB59UMNEQ                 New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the Northeast Census Region      T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB59UMQ                   New Privately Owned Housing Completions in the United States by Number of Units in Building, 5 to 9 Units                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB59UMSQ                  New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the South Census Region          T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPOB59UMWQ                  New Privately Owned Housing Completions by Number of Units in Building, 5 to 9 Units in the West Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFR2UMMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the Midwest Cen  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFR2UMNEQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the Northeast C  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFR2UMQ                   New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Rent Two or More Uni  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFR2UMSQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the South Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFR2UMWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Rent Two or More Units in the West Census  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFS1FMWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the M  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFS1FNEQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the N  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFS1FQ                    New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Fee Simple One-  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFS1FSQ                   New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the S  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFS1FWQ                   New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the W  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST1FMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the Midwes  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST1FNEQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the Northe  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST1FQ                   New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Total One-Famil  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST1FSQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the South   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST1FWQ                  New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total One-Family Units in the West C  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST2UMMWQ                New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the Midwe  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST2UMNEQ                New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the North  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST2UMQ                  New Privately Owned Housing Completions in the United States by Purpose of Construction, Built for Sale Two or More Uni  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST2UMSQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the South  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPPFST2UMWQ                 New Privately Owned Housing Completions by Purpose of Construction, Built for Sale Total Two or More Units in the West   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA1FMWQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the Midwest Census Re    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA1FNEQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the Northeast Census     SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA1FQ                  New Privately Owned Housing Completions in the United States, Average Square Feet of Floor Area for One-Family Units       SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA1FSQ                 New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the South Census Regi    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA1FWQ                 New Privately Owned Housing Completions Average Square Feet of Floor Area for One-Family Units in the West Census Region   SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA2UMMWQ               New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the Midwest Census R    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA2UMNEQ               New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the Northeast Census    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA2UMQ                 New Privately Owned Housing Completions in the United States, Average Square Feet Per Unit for Two or More Units           SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA2UMSQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the South Census Reg    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAA2UMWQ                New Privately Owned Housing Completions Average Square Feet of Floor Area for Two or More Units in the West Census Regi    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM1FMWQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the Midwest Census Reg    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM1FNEQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the Northeast Census R    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM1FQ                  New Privately Owned Housing Completions in the United States, Median Square Feet of Floor Area for One-Family Units        SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM1FSQ                 New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the South Census Region   SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM1FWQ                 New Privately Owned Housing Completions Median Square Feet of Floor Area for One-Family Units in the West Census Region    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM2UMMWQ               New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the Midwest Census Re    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM2UMNEQ               New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the Northeast Census     SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM2UMQ                 New Privately Owned Housing Completions in the United States, Median Square Feet Per Unit for Two or More Units            SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM2UMSQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the South Census Regi    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+COMPSFLAM2UMWQ                New Privately Owned Housing Completions Median Square Feet of Floor Area for Two or More Units in the West Census Region   SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST1FMWQ                    New Privately Owned Housing Starts Total One-Family Units in the Midwest Census Region                                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST1FNEQ                    New Privately Owned Housing Starts Total One-Family Units in the Northeast Census Region                                 T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST1FQ                      New Privately Owned Housing Starts in the United States, Total One-Family Units                                          T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST1FSQ                     New Privately Owned Housing Starts Total One-Family Units in the South Census Region                                     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST1FWQ                     New Privately Owned Housing Starts Total One-Family Units in the West Census Region                                      T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST2UMMWQ                   New Privately Owned Housing Starts Total Two or More Units in the Midwest Census Region                                  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST2UMNEQ                   New Privately Owned Housing Starts Total Two or More Units in the Northeast Census Region                                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST2UMQ                     New Privately Owned Housing Starts in the United States, Total Two or More Units                                         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST2UMSQ                    New Privately Owned Housing Starts Total Two or More Units in the South Census Region                                    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUST2UMWQ                    New Privately Owned Housing Starts Total Two or More Units in the West Census Region                                     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB1FMWQ                  New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the Midwest Census   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB1FNEQ                  New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the Northeast Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB1FQ                    New Privately Owned Housing Starts in the United States by Purpose of Construction, Contractor-Built One-Family Units    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB1FSQ                   New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the South Census Re  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB1FWQ                   New Privately Owned Housing Starts by Purpose of Construction, Contractor-Built One-Family Units in the West Census Reg  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB24UMMWQ                New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the Midwest Census Region             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB24UMNEQ                New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the Northeast Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB24UMQ                  New Privately Owned Housing Starts in the United States by Number of Units in Building, 2 to 4 Units                     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB24UMSQ                 New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the South Census Region               T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTCB24UMWQ                 New Privately Owned Housing Starts by Number of Units in Building, 2 to 4 Units in the West Census Region                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA1FMWQ                 New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the Midwest Census Region                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA1FNEQ                 New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the Northeast Census Region              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA1FQ                   New Privately Owned Housing Starts in the United States by Design Type, Attached One-Family Units                        T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA1FSQ                  New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the South Census Region                  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA1FWQ                  New Privately Owned Housing Starts by Design Type, Attached One-Family Units in the West Census Region                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA20UMMWQ               New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the Midwest Census Region         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA20UMNEQ               New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the Northeast Census Region       T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA20UMQ                 New Privately Owned Housing Starts in the United States by Number of Units in Building, 20 or More Units                 T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA20UMSQ                New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the South Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTA20UMWQ                New Privately Owned Housing Starts by Number of Units in Building, 20 or more Units in the West Census Region            T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1019UMMWQ             New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the Midwest Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1019UMNEQ             New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the Northeast Census Region         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1019UMQ               New Privately Owned Housing Starts in the United States by Number of Units in Building, 10 to 19 Units                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1019UMSQ              New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the South Census Region             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1019UMWQ              New Privately Owned Housing Starts by Number of Units in Building, 10 to 19 Units in the West Census Region              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1FMWQ                 New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the Midwest Census Region                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1FNEQ                 New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the Northeast Census Region              T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1FQ                   New Privately Owned Housing Starts in the United States by Design Type, Detached One-Family Units                        T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1FSQ                  New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the South Census Region                  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTDTD1FWQ                  New Privately Owned Housing Starts by Design Type, Detached One-Family Units in the West Census Region                   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB1FMWQ                  New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the Midwest Census Region T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB1FNEQ                  New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the Northeast Census Reg  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB1FQ                    New Privately Owned Housing Starts in the United States by Purpose of Construction, Owner-Built One-Family Units         T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB1FSQ                   New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the South Census Region   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB1FWQ                   New Privately Owned Housing Starts by Purpose of Construction, Owner-Built One-Family Units in the West Census Region    T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB59UMMWQ                New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the Midwest Census Region             T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB59UMNEQ                New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the Northeast Census Region           T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB59UMQ                  New Privately Owned Housing Starts in the United States by Number of Units in Building, 5 to 9 Units                     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB59UMSQ                 New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the South Census Region               T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTOB59UMWQ                 New Privately Owned Housing Starts by Number of Units in Building, 5 to 9 Units in the West Census Region                T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFR2UMMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the Midwest Census R  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFR2UMNEQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the Northeast Census  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFR2UMQ                  New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Rent Two or More Units     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFR2UMSQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the South Census Reg  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFR2UMWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Rent Two or More Units in the West Census Regi  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFS1FMWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the Midwes  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFS1FNEQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the Northe  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFS1FQ                   New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Fee Simple One-Famil  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFS1FSQ                  New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the South   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFS1FWQ                  New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Fee Simple One-Family Units in the West C  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST1FMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the Midwest Cen  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST1FNEQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the Northeast C  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST1FQ                  New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Total One-Family Uni  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST1FSQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the South Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST1FWQ                 New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total One-Family Units in the West Census  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST2UMMWQ               New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the Midwest Ce  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST2UMNEQ               New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the Northeast   T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST2UMQ                 New Privately Owned Housing Starts in the United States by Purpose of Construction, Built for Sale Two or More Units     T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST2UMSQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the South Cens  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTPFST2UMWQ                New Privately Owned Housing Starts by Purpose of Construction, Built for Sale Total Two or More Units in the West Censu  T SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA1FMWQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the Midwest Census Region     SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA1FNEQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the Northeast Census Region   SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA1FQ                 New Privately Owned Housing Starts in the United States, Average Square Feet of Floor Area for One-Family Units            SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA1FSQ                New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the South Census Region       SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA1FWQ                New Privately Owned Housing Starts Average Square Feet of Floor Area for One-Family Units in the West Census Region        SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA2UMMWQ              New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the Midwest Census Region    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA2UMNEQ              New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the Northeast Census Regi    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA2UMQ                New Privately Owned Housing Starts in the United States, Average Square Feet Per Unit for Two or More Units                SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA2UMSQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the South Census Region      SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAA2UMWQ               New Privately Owned Housing Starts Average Square Feet of Floor Area for Two or More Units in the West Census Region       SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM1FMWQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the Midwest Census Region      SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM1FNEQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the Northeast Census Region    SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM1FQ                 New Privately Owned Housing Starts in the United States, Median Square Feet of Floor Area for One-Family Units             SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM1FSQ                New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the South Census Region        SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM1FWQ                New Privately Owned Housing Starts Median Square Feet of Floor Area for One-Family Units in the West Census Region         SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM2UMMWQ              New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the Midwest Census Region     SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM2UMNEQ              New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the Northeast Census Region   SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM2UMQ                New Privately Owned Housing Starts in the United States, Median Square Feet Per Unit for Two or More Units                 SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM2UMSQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the South Census Region       SA   17-Nov-2022 01-Jul-2022             Quarterly          
+HOUSTSFLAM2UMWQ               New Privately Owned Housing Starts Median Square Feet of Floor Area for Two or More Units in the West Census Region        SA   17-Nov-2022 01-Jul-2022             Quarterly          

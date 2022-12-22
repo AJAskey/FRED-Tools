@@ -1,32 +1,32 @@
-Id : 15  G.5 Foreign Exchange Rates
-EXBZUS                        Brazilian Reals to U.S. Dollar Spot Exchange Rate                                                                        NSA  05-Dec-2022  Monthly        
-EXCAUS                        Canadian Dollars to U.S. Dollar Spot Exchange Rate                                                                       NSA  05-Dec-2022  Monthly        
-EXCHUS                        Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate                                                                  NSA  05-Dec-2022  Monthly        
-EXDNUS                        Danish Kroner to U.S. Dollar Spot Exchange Rate                                                                          NSA  05-Dec-2022  Monthly        
-EXHKUS                        Hong Kong Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  05-Dec-2022  Monthly        
-EXINUS                        Indian Rupees to U.S. Dollar Spot Exchange Rate                                                                          NSA  05-Dec-2022  Monthly        
-EXJPUS                        Japanese Yen to U.S. Dollar Spot Exchange Rate                                                                           NSA  05-Dec-2022  Monthly        
-EXKOUS                        South Korean Won to U.S. Dollar Spot Exchange Rate                                                                       NSA  05-Dec-2022  Monthly        
-EXMAUS                        Malaysian Ringgit to U.S. Dollar Spot Exchange Rate                                                                      NSA  05-Dec-2022  Monthly        
-EXMXUS                        Mexican Pesos to U.S. Dollar Spot Exchange Rate                                                                          NSA  05-Dec-2022  Monthly        
-EXNOUS                        Norwegian Kroner to U.S. Dollar Spot Exchange Rate                                                                       NSA  05-Dec-2022  Monthly        
-EXSDUS                        Swedish Kronor to U.S. Dollar Spot Exchange Rate                                                                         NSA  05-Dec-2022  Monthly        
-EXSFUS                        South African Rand to U.S. Dollar Spot Exchange Rate                                                                     NSA  05-Dec-2022  Monthly        
-EXSIUS                        Singapore Dollars to U.S. Dollar Spot Exchange Rate                                                                      NSA  05-Dec-2022  Monthly        
-EXSLUS                        Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate                                                                      NSA  05-Dec-2022  Monthly        
-EXSZUS                        Swiss Francs to U.S. Dollar Spot Exchange Rate                                                                           NSA  05-Dec-2022  Monthly        
-EXTAUS                        Taiwan Dollars to U.S. Dollar Spot Exchange Rate                                                                         NSA  05-Dec-2022  Monthly        
-EXTHUS                        Thai Baht to U.S. Dollar Spot Exchange Rate                                                                              NSA  05-Dec-2022  Monthly        
-EXUSAL                        U.S. Dollars to Australian Dollar Spot Exchange Rate                                                                     NSA  05-Dec-2022  Monthly        
-EXUSEC                        Foreign Exchange Rate: Euro Community (DISCONTINUED)                                                                     NSA  08-Mar-2006  Monthly        
-EXUSEU                        U.S. Dollars to Euro Spot Exchange Rate                                                                                  NSA  05-Dec-2022  Monthly        
-EXUSNZ                        U.S. Dollars to New Zealand Dollar Spot Exchange Rate                                                                    NSA  05-Dec-2022  Monthly        
-EXUSUK                        U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate                                                                   NSA  05-Dec-2022  Monthly        
-EXVZUS                        Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate                                                                   NSA  05-Dec-2022  Monthly        
-TWEXAFEGSMTH                  Nominal Advanced Foreign Economies U.S. Dollar Index                                                                     NSA  05-Dec-2022  Monthly        
-TWEXBGSMTH                    Nominal Broad U.S. Dollar Index                                                                                          NSA  05-Dec-2022  Monthly        
-TWEXBMTH                      Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                              NSA  06-Jan-2020  Monthly        
-TWEXEMEGSMTH                  Nominal Emerging Market Economies U.S. Dollar Index                                                                      NSA  05-Dec-2022  Monthly        
-TWEXMMTH                      Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                   NSA  06-Jan-2020  Monthly        
-TWEXMTHY                      Trade-Weighted Exchange Value of U.S. Dollar vs G-10 Countries (DISCONTINUED)                                            NSA  01-Dec-1998  Monthly        
-TWEXOMTH                      Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)                                   NSA  06-Jan-2020  Monthly        
+Release  Id : 15	G.5 Foreign Exchange Rates
+EXBZUS                        Brazilian Reals to U.S. Dollar Spot Exchange Rate                                                                          NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXCAUS                        Canadian Dollars to U.S. Dollar Spot Exchange Rate                                                                         NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXCHUS                        Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate                                                                    NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXDNUS                        Danish Kroner to U.S. Dollar Spot Exchange Rate                                                                            NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXHKUS                        Hong Kong Dollars to U.S. Dollar Spot Exchange Rate                                                                        NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXINUS                        Indian Rupees to U.S. Dollar Spot Exchange Rate                                                                            NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXJPUS                        Japanese Yen to U.S. Dollar Spot Exchange Rate                                                                             NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXKOUS                        South Korean Won to U.S. Dollar Spot Exchange Rate                                                                         NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXMAUS                        Malaysian Ringgit to U.S. Dollar Spot Exchange Rate                                                                        NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXMXUS                        Mexican Pesos to U.S. Dollar Spot Exchange Rate                                                                            NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXNOUS                        Norwegian Kroner to U.S. Dollar Spot Exchange Rate                                                                         NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXSDUS                        Swedish Kronor to U.S. Dollar Spot Exchange Rate                                                                           NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXSFUS                        South African Rand to U.S. Dollar Spot Exchange Rate                                                                       NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXSIUS                        Singapore Dollars to U.S. Dollar Spot Exchange Rate                                                                        NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXSLUS                        Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate                                                                        NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXSZUS                        Swiss Francs to U.S. Dollar Spot Exchange Rate                                                                             NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXTAUS                        Taiwan Dollars to U.S. Dollar Spot Exchange Rate                                                                           NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXTHUS                        Thai Baht to U.S. Dollar Spot Exchange Rate                                                                                NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXUSAL                        U.S. Dollars to Australian Dollar Spot Exchange Rate                                                                       NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXUSEC                        Foreign Exchange Rate: Euro Community (DISCONTINUED)                                                                       NSA  08-Mar-2006 01-Dec-1998             Monthly            
+EXUSEU                        U.S. Dollars to Euro Spot Exchange Rate                                                                                    NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXUSNZ                        U.S. Dollars to New Zealand Dollar Spot Exchange Rate                                                                      NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXUSUK                        U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate                                                                     NSA  05-Dec-2022 01-Nov-2022             Monthly            
+EXVZUS                        Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate                                                                     NSA  05-Dec-2022 01-Nov-2022             Monthly            
+TWEXAFEGSMTH                  Nominal Advanced Foreign Economies U.S. Dollar Index                                                                       NSA  05-Dec-2022 01-Nov-2022             Monthly            
+TWEXBGSMTH                    Nominal Broad U.S. Dollar Index                                                                                            NSA  05-Dec-2022 01-Nov-2022             Monthly            
+TWEXBMTH                      Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                                NSA  06-Jan-2020 01-Dec-2019             Monthly            
+TWEXEMEGSMTH                  Nominal Emerging Market Economies U.S. Dollar Index                                                                        NSA  05-Dec-2022 01-Nov-2022             Monthly            
+TWEXMMTH                      Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED)                                                     NSA  06-Jan-2020 01-Dec-2019             Monthly            
+TWEXMTHY                      Trade-Weighted Exchange Value of U.S. Dollar vs G-10 Countries (DISCONTINUED)                                              NSA  01-Dec-1998 01-Dec-1998             Monthly            
+TWEXOMTH                      Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED)                                     NSA  06-Jan-2020 01-Dec-2019             Monthly            

@@ -50,7 +50,7 @@
     </target>
     <target name="FredUpdate">
         <java classname="net.ajaskey.market.tools.fred.executables.FredUpdateLocal" failonerror="true" fork="yes">
-            <arg line="--mode UPDATE"/>
+        	<arg line="--mode UPDATE --fredlib &quot;D:/data2/MA/CSV Data/FRED-Download&quot; --input ./input/filteredSeriesSummary.txt"/>
             <classpath refid="FRED-Tools.classpath"/>
         </java>
     </target>	

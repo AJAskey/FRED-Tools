@@ -1,5 +1,5 @@
-Id : 320  Tech Pulse
-SFTPAGRM158SFRBSF             San Francisco Tech Pulse (DISCONTINUED)                                                                                  SA   13-Apr-2020  Monthly        
-SFTPGR12M159SFRBSF            San Francisco Tech Pulse (DISCONTINUED)                                                                                  SA   13-Apr-2020  Monthly        
-SFTPGRM157SFRBSF              San Francisco Tech Pulse (DISCONTINUED)                                                                                  SA   13-Apr-2020  Monthly        
-SFTPINDM114SFRBSF             San Francisco Tech Pulse (DISCONTINUED)                                                                                  SA   13-Apr-2020  Monthly        
+Release  Id : 320	Tech Pulse
+SFTPAGRM158SFRBSF             San Francisco Tech Pulse (DISCONTINUED)                                                                                  P SA   13-Apr-2020 01-Mar-2020             Monthly            
+SFTPGR12M159SFRBSF            San Francisco Tech Pulse (DISCONTINUED)                                                                                  P SA   13-Apr-2020 01-Mar-2020             Monthly            
+SFTPGRM157SFRBSF              San Francisco Tech Pulse (DISCONTINUED)                                                                                  P SA   13-Apr-2020 01-Mar-2020             Monthly            
+SFTPINDM114SFRBSF             San Francisco Tech Pulse (DISCONTINUED)                                                                                    SA   13-Apr-2020 01-Mar-2020             Monthly            

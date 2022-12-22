@@ -1,10 +1,10 @@
-Id : 295  Sticky Wages and Sectoral Labor Comovement
-CONSDEF                       Consumption Deflator                                                                                                     SA   06-Dec-2022  Quarterly      
-EDEF                          Equipment Deflator                                                                                                       SA   06-Dec-2022  Quarterly      
-ESDEF                         Equipment and Software Deflator (DISCONTINUED)                                                                           SA   04-Jun-2018  Quarterly      
-INVDEF                        Investment Deflator                                                                                                      SA   06-Dec-2022  Quarterly      
-NINV                          Nominal Investment                                                                                                       SA   06-Dec-2022  Quarterly      
-PERIC                         Relative Price of Equipment                                                                                              SA   06-Dec-2022  Quarterly      
-PERICD                        Relative Price of Equipment and Software (DISCONTINUED)                                                                  SA   04-Jun-2018  Quarterly      
-PIRIC                         Relative Price of Investment Goods                                                                                       SA   06-Dec-2022  Quarterly      
-RINV                          Real Investment                                                                                                          SA   06-Dec-2022  Quarterly      
+Release  Id : 295	Sticky Wages and Sectoral Labor Comovement
+CONSDEF                       Consumption Deflator                                                                                                       SA   06-Dec-2022 01-Oct-2021             Quarterly          
+EDEF                          Equipment Deflator                                                                                                         SA   06-Dec-2022 01-Oct-2021             Quarterly          
+ESDEF                         Equipment and Software Deflator (DISCONTINUED)                                                                             SA   04-Jun-2018 01-Oct-2011             Quarterly          
+INVDEF                        Investment Deflator                                                                                                        SA   06-Dec-2022 01-Oct-2021             Quarterly          
+NINV                          Nominal Investment                                                                                                       B SA   06-Dec-2022 01-Oct-2021             Quarterly          
+PERIC                         Relative Price of Equipment                                                                                                SA   06-Dec-2022 01-Oct-2021             Quarterly          
+PERICD                        Relative Price of Equipment and Software (DISCONTINUED)                                                                    SA   04-Jun-2018 01-Oct-2011             Quarterly          
+PIRIC                         Relative Price of Investment Goods                                                                                         SA   06-Dec-2022 01-Oct-2021             Quarterly          
+RINV                          Real Investment                                                                                                          B SA   06-Dec-2022 01-Oct-2021             Quarterly          

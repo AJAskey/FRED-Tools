@@ -1,5 +1,5 @@
-Id : 89  Household Debt Service and Financial Obligations Ratios
-CDSP                          Consumer Debt Service Payments as a Percent of Disposable Personal Income                                                SA   23-Sep-2022  Quarterly      
-FODSP                         Household Financial Obligations as a Percent of Disposable Personal Income                                               SA   23-Sep-2022  Quarterly      
-MDSP                          Mortgage Debt Service Payments as a Percent of Disposable Personal Income                                                SA   23-Sep-2022  Quarterly      
-TDSP                          Household Debt Service Payments as a Percent of Disposable Personal Income                                               SA   23-Sep-2022  Quarterly      
+Release  Id : 89	Household Debt Service and Financial Obligations Ratios
+CDSP                          Consumer Debt Service Payments as a Percent of Disposable Personal Income                                                P SA   23-Sep-2022 01-Apr-2022             Quarterly          
+FODSP                         Household Financial Obligations as a Percent of Disposable Personal Income                                               P SA   23-Sep-2022 01-Apr-2022             Quarterly          
+MDSP                          Mortgage Debt Service Payments as a Percent of Disposable Personal Income                                                P SA   23-Sep-2022 01-Apr-2022             Quarterly          
+TDSP                          Household Debt Service Payments as a Percent of Disposable Personal Income                                               P SA   23-Sep-2022 01-Apr-2022             Quarterly          

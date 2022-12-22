@@ -1,41 +1,41 @@
-Id : 354  An Arbitrage-Free Three-Factor Term Structure Model and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates
-THREEFF1                      Fitted Instantaneous Forward Rate 1 Year Hence                                                                           NSA  06-Dec-2022  Daily          
-THREEFF10                     Fitted Instantaneous Forward Rate 10 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFF2                      Fitted Instantaneous Forward Rate 2 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF3                      Fitted Instantaneous Forward Rate 3 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF4                      Fitted Instantaneous Forward Rate 4 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF5                      Fitted Instantaneous Forward Rate 5 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF6                      Fitted Instantaneous Forward Rate 6 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF7                      Fitted Instantaneous Forward Rate 7 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF8                      Fitted Instantaneous Forward Rate 8 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFF9                      Fitted Instantaneous Forward Rate 9 Years Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFFTP1                    Instantaneous Forward Term Premium 1 Year Hence                                                                          NSA  06-Dec-2022  Daily          
-THREEFFTP10                   Instantaneous Forward Term Premium 10 Years Hence                                                                        NSA  06-Dec-2022  Daily          
-THREEFFTP2                    Instantaneous Forward Term Premium 2 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP3                    Instantaneous Forward Term Premium 3 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP4                    Instantaneous Forward Term Premium 4 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP5                    Instantaneous Forward Term Premium 5 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP6                    Instantaneous Forward Term Premium 6 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP7                    Instantaneous Forward Term Premium 7 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP8                    Instantaneous Forward Term Premium 8 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFFTP9                    Instantaneous Forward Term Premium 9 Years Hence                                                                         NSA  06-Dec-2022  Daily          
-THREEFY1                      Fitted Yield on a 1 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY10                     Fitted Yield on a 10 Year Zero Coupon Bond                                                                               NSA  06-Dec-2022  Daily          
-THREEFY2                      Fitted Yield on a 2 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY3                      Fitted Yield on a 3 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY4                      Fitted Yield on a 4 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY5                      Fitted Yield on a 5 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY6                      Fitted Yield on a 6 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY7                      Fitted Yield on a 7 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY8                      Fitted Yield on a 8 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFY9                      Fitted Yield on a 9 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP1                    Term Premium on a 1 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP10                   Term Premium on a 10 Year Zero Coupon Bond                                                                               NSA  06-Dec-2022  Daily          
-THREEFYTP2                    Term Premium on a 2 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP3                    Term Premium on a 3 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP4                    Term Premium on a 4 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP5                    Term Premium on a 5 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP6                    Term Premium on a 6 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP7                    Term Premium on a 7 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP8                    Term Premium on a 8 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
-THREEFYTP9                    Term Premium on a 9 Year Zero Coupon Bond                                                                                NSA  06-Dec-2022  Daily          
+Release  Id : 354	An Arbitrage-Free Three-Factor Term Structure Model and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates
+THREEFF1                      Fitted Instantaneous Forward Rate 1 Year Hence                                                                           P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF10                     Fitted Instantaneous Forward Rate 10 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF2                      Fitted Instantaneous Forward Rate 2 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF3                      Fitted Instantaneous Forward Rate 3 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF4                      Fitted Instantaneous Forward Rate 4 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF5                      Fitted Instantaneous Forward Rate 5 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF6                      Fitted Instantaneous Forward Rate 6 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF7                      Fitted Instantaneous Forward Rate 7 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF8                      Fitted Instantaneous Forward Rate 8 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFF9                      Fitted Instantaneous Forward Rate 9 Years Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP1                    Instantaneous Forward Term Premium 1 Year Hence                                                                          P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP10                   Instantaneous Forward Term Premium 10 Years Hence                                                                        P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP2                    Instantaneous Forward Term Premium 2 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP3                    Instantaneous Forward Term Premium 3 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP4                    Instantaneous Forward Term Premium 4 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP5                    Instantaneous Forward Term Premium 5 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP6                    Instantaneous Forward Term Premium 6 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP7                    Instantaneous Forward Term Premium 7 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP8                    Instantaneous Forward Term Premium 8 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFFTP9                    Instantaneous Forward Term Premium 9 Years Hence                                                                         P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY1                      Fitted Yield on a 1 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY10                     Fitted Yield on a 10 Year Zero Coupon Bond                                                                               P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY2                      Fitted Yield on a 2 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY3                      Fitted Yield on a 3 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY4                      Fitted Yield on a 4 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY5                      Fitted Yield on a 5 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY6                      Fitted Yield on a 6 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY7                      Fitted Yield on a 7 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY8                      Fitted Yield on a 8 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFY9                      Fitted Yield on a 9 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP1                    Term Premium on a 1 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP10                   Term Premium on a 10 Year Zero Coupon Bond                                                                               P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP2                    Term Premium on a 2 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP3                    Term Premium on a 3 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP4                    Term Premium on a 4 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP5                    Term Premium on a 5 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP6                    Term Premium on a 6 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP7                    Term Premium on a 7 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP8                    Term Premium on a 8 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              
+THREEFYTP9                    Term Premium on a 9 Year Zero Coupon Bond                                                                                P NSA  20-Dec-2022 16-Dec-2022             Daily              

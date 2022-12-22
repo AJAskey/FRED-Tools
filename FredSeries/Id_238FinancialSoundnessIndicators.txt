@@ -1,44 +1,44 @@
-Id : 238  Financial Soundness Indicators
-COMREPAUQ159N                 Commercial Real Estate Prices for Australia                                                                              NSA  01-Jul-2022  Quarterly      
-COMREPBRQ159N                 Commercial Real Estate Prices for Brazil                                                                                 NSA  01-Feb-2022  Quarterly      
-COMREPGBQ159N                 Commercial Real Estate Prices for United Kingdom                                                                         NSA  01-Mar-2017  Quarterly      
-COMREPUSQ159N                 Commercial Real Estate Prices for United States                                                                          NSA  01-Dec-2022  Quarterly      
-CRELTLZAM163N                 Commercial Real Estate Loans to Total Loans for South Africa                                                             NSA  01-Nov-2022  Monthly        
-HDTGPDAUQ163N                 Household Debt to GDP for Australia                                                                                      NSA  01-Jul-2022  Quarterly      
-HDTGPDCAQ163N                 Household Debt to GDP for Canada                                                                                         NSA  01-Nov-2022  Quarterly      
-HDTGPDDEA163N                 Household Debt to GDP for Germany                                                                                        NSA  01-Nov-2022  Annual         
-HDTGPDDEQ163N                 Household Debt to GDP for Germany                                                                                        NSA  01-Nov-2022  Quarterly      
-HDTGPDESA163N                 Household Debt to GDP for Spain                                                                                          NSA  01-Dec-2022  Annual         
-HDTGPDFRA163N                 Household Debt to GDP for France                                                                                         NSA  03-Oct-2022  Annual         
-HDTGPDGBQ163N                 Household Debt to GDP for United Kingdom                                                                                 NSA  03-Oct-2022  Quarterly      
-HDTGPDITA163N                 Household Debt to GDP for Italy                                                                                          NSA  01-Jul-2022  Annual         
-HDTGPDITQ163N                 Household Debt to GDP for Italy                                                                                          NSA  01-Jul-2022  Quarterly      
-HDTGPDKRA163N                 Household Debt to GDP for Republic of Korea                                                                              NSA  01-Mar-2022  Annual         
-HDTGPDKRQ163N                 Household Debt to GDP for Republic of Korea                                                                              NSA  01-Mar-2022  Quarterly      
-HDTGPDPLQ163N                 Household Debt to GDP for Poland                                                                                         NSA  01-Aug-2022  Quarterly      
-HDTGPDUSQ163N                 Household Debt to GDP for United States                                                                                  NSA  01-Dec-2022  Quarterly      
-HDTGPDZAQ163N                 Household Debt to GDP for South Africa                                                                                   NSA  01-Nov-2022  Quarterly      
-LATSTLMXM163N                 Liquid Assets to Short Term Liabilities for Mexico                                                                       NSA  01-Mar-2022  Monthly        
-LATSTLZAM163N                 Liquid Assets to Short Term Liabilities for South Africa                                                                 NSA  01-Nov-2022  Monthly        
-LQASRTMXM163N                 Liquid Assets to Total Assets (Liquid Asset Ratio) for Mexico                                                            NSA  01-Mar-2022  Monthly        
-LQASRTZAM163N                 Liquid Assets to Total Assets (Liquid Asset Ratio) for South Africa                                                      NSA  01-Nov-2022  Monthly        
-RCTRWAMXM163N                 Bank Regulatory Capital to Risk-Weighted Assets for Mexico                                                               NSA  01-Mar-2022  Monthly        
-RCTRWAZAM163N                 Bank Regulatory Capital to Risk-Weighted Assets for South Africa                                                         NSA  01-Nov-2022  Monthly        
-RETASTMXM163N                 Return on Assets for Mexico                                                                                              NSA  01-Mar-2022  Monthly        
-RETASTZAM163N                 Return on Assets for South Africa                                                                                        NSA  01-Nov-2022  Monthly        
-RETEQTMXM163N                 Return on Equity for Mexico                                                                                              NSA  01-Mar-2022  Monthly        
-RETEQTZAM163N                 Return on Equity for South Africa                                                                                        NSA  01-Nov-2022  Monthly        
-RT1CRAMXM163N                 Regulatory Tier 1 Capital to Risk-Weighted Assets for Mexico                                                             NSA  01-Mar-2022  Monthly        
-RT1CRAZAM163N                 Regulatory Tier 1 Capital to Risk-Weighted Assets for South Africa                                                       NSA  01-Nov-2022  Monthly        
-TOTDTEAUQ163N                 Total Debt to Equity for Australia                                                                                       NSA  01-Jul-2022  Quarterly      
-TOTDTECAQ163N                 Total Debt to Equity for Canada                                                                                          NSA  01-Nov-2022  Quarterly      
-TOTDTEDEA163N                 Total Debt to Equity for Germany                                                                                         NSA  01-Nov-2022  Annual         
-TOTDTEDEQ163N                 Total Debt to Equity for Germany                                                                                         NSA  01-Nov-2022  Quarterly      
-TOTDTEESA163N                 Total Debt to Equity for Spain                                                                                           NSA  01-Dec-2022  Annual         
-TOTDTEFRA163N                 Total Debt to Equity for France                                                                                          NSA  03-Oct-2022  Annual         
-TOTDTEGBQ163N                 Total Debt to Equity for United Kingdom                                                                                  NSA  03-Oct-2022  Quarterly      
-TOTDTEITA163N                 Total Debt to Equity for Italy                                                                                           NSA  01-Jul-2022  Annual         
-TOTDTEITQ163N                 Total Debt to Equity for Italy                                                                                           NSA  01-Jul-2022  Quarterly      
-TOTDTEKRA163N                 Total Debt to Equity for Republic of Korea                                                                               NSA  01-Mar-2022  Annual         
-TOTDTEPLQ163N                 Total Debt to Equity for Poland                                                                                          NSA  01-Aug-2022  Quarterly      
-TOTDTEUSQ163N                 Total Debt to Equity for United States                                                                                   NSA  01-Dec-2022  Quarterly      
+Release  Id : 238	Financial Soundness Indicators
+COMREPAUQ159N                 Commercial Real Estate Prices for Australia                                                                              P NSA  01-Jul-2022 01-Oct-2021             Quarterly          
+COMREPBRQ159N                 Commercial Real Estate Prices for Brazil                                                                                 P NSA  01-Feb-2022 01-Jul-2021             Quarterly          
+COMREPGBQ159N                 Commercial Real Estate Prices for United Kingdom                                                                         P NSA  01-Mar-2017 01-Apr-2014             Quarterly          
+COMREPUSQ159N                 Commercial Real Estate Prices for United States                                                                          P NSA  01-Dec-2022 01-Apr-2022             Quarterly          
+CRELTLZAM163N                 Commercial Real Estate Loans to Total Loans for South Africa                                                             R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+HDTGPDAUQ163N                 Household Debt to GDP for Australia                                                                                      R NSA  01-Jul-2022 01-Jan-2022             Quarterly          
+HDTGPDCAQ163N                 Household Debt to GDP for Canada                                                                                         R NSA  01-Nov-2022 01-Apr-2022             Quarterly          
+HDTGPDDEA163N                 Household Debt to GDP for Germany                                                                                        R NSA  01-Nov-2022 01-Jan-2021             Annual             
+HDTGPDDEQ163N                 Household Debt to GDP for Germany                                                                                        R NSA  01-Nov-2022 01-Jan-2022             Quarterly          
+HDTGPDESA163N                 Household Debt to GDP for Spain                                                                                          R NSA  01-Dec-2022 01-Jan-2021             Annual             
+HDTGPDFRA163N                 Household Debt to GDP for France                                                                                         R NSA  03-Oct-2022 01-Jan-2021             Annual             
+HDTGPDGBQ163N                 Household Debt to GDP for United Kingdom                                                                                 R NSA  03-Oct-2022 01-Jan-2022             Quarterly          
+HDTGPDITA163N                 Household Debt to GDP for Italy                                                                                          R NSA  01-Jul-2022 01-Jan-2021             Annual             
+HDTGPDITQ163N                 Household Debt to GDP for Italy                                                                                          R NSA  01-Jul-2022 01-Oct-2021             Quarterly          
+HDTGPDKRA163N                 Household Debt to GDP for Republic of Korea                                                                              R NSA  01-Mar-2022 01-Jan-2020             Annual             
+HDTGPDKRQ163N                 Household Debt to GDP for Republic of Korea                                                                              R NSA  01-Mar-2022 01-Apr-2021             Quarterly          
+HDTGPDPLQ163N                 Household Debt to GDP for Poland                                                                                         R NSA  01-Aug-2022 01-Jan-2022             Quarterly          
+HDTGPDUSQ163N                 Household Debt to GDP for United States                                                                                  R NSA  01-Dec-2022 01-Apr-2022             Quarterly          
+HDTGPDZAQ163N                 Household Debt to GDP for South Africa                                                                                   R NSA  01-Nov-2022 01-Apr-2022             Quarterly          
+LATSTLMXM163N                 Liquid Assets to Short Term Liabilities for Mexico                                                                       R NSA  01-Mar-2022 01-May-2021             Monthly            
+LATSTLZAM163N                 Liquid Assets to Short Term Liabilities for South Africa                                                                 R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+LQASRTMXM163N                 Liquid Assets to Total Assets (Liquid Asset Ratio) for Mexico                                                            R NSA  01-Mar-2022 01-May-2021             Monthly            
+LQASRTZAM163N                 Liquid Assets to Total Assets (Liquid Asset Ratio) for South Africa                                                      R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+RCTRWAMXM163N                 Bank Regulatory Capital to Risk-Weighted Assets for Mexico                                                               R NSA  01-Mar-2022 01-May-2021             Monthly            
+RCTRWAZAM163N                 Bank Regulatory Capital to Risk-Weighted Assets for South Africa                                                         R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+RETASTMXM163N                 Return on Assets for Mexico                                                                                              R NSA  01-Mar-2022 01-May-2021             Monthly            
+RETASTZAM163N                 Return on Assets for South Africa                                                                                        R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+RETEQTMXM163N                 Return on Equity for Mexico                                                                                              R NSA  01-Mar-2022 01-May-2021             Monthly            
+RETEQTZAM163N                 Return on Equity for South Africa                                                                                        R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+RT1CRAMXM163N                 Regulatory Tier 1 Capital to Risk-Weighted Assets for Mexico                                                             R NSA  01-Mar-2022 01-May-2021             Monthly            
+RT1CRAZAM163N                 Regulatory Tier 1 Capital to Risk-Weighted Assets for South Africa                                                       R NSA  01-Nov-2022 01-Jul-2022             Monthly            
+TOTDTEAUQ163N                 Total Debt to Equity for Australia                                                                                       R NSA  01-Jul-2022 01-Jan-2022             Quarterly          
+TOTDTECAQ163N                 Total Debt to Equity for Canada                                                                                          R NSA  01-Nov-2022 01-Apr-2022             Quarterly          
+TOTDTEDEA163N                 Total Debt to Equity for Germany                                                                                         R NSA  01-Nov-2022 01-Jan-2021             Annual             
+TOTDTEDEQ163N                 Total Debt to Equity for Germany                                                                                         R NSA  01-Nov-2022 01-Jan-2022             Quarterly          
+TOTDTEESA163N                 Total Debt to Equity for Spain                                                                                           R NSA  01-Dec-2022 01-Jan-2021             Annual             
+TOTDTEFRA163N                 Total Debt to Equity for France                                                                                          R NSA  03-Oct-2022 01-Jan-2021             Annual             
+TOTDTEGBQ163N                 Total Debt to Equity for United Kingdom                                                                                  R NSA  03-Oct-2022 01-Jan-2022             Quarterly          
+TOTDTEITA163N                 Total Debt to Equity for Italy                                                                                           R NSA  01-Jul-2022 01-Jan-2021             Annual             
+TOTDTEITQ163N                 Total Debt to Equity for Italy                                                                                           R NSA  01-Jul-2022 01-Oct-2021             Quarterly          
+TOTDTEKRA163N                 Total Debt to Equity for Republic of Korea                                                                               R NSA  01-Mar-2022 01-Jan-2020             Annual             
+TOTDTEPLQ163N                 Total Debt to Equity for Poland                                                                                          R NSA  01-Aug-2022 01-Jan-2022             Quarterly          
+TOTDTEUSQ163N                 Total Debt to Equity for United States                                                                                   R NSA  01-Dec-2022 01-Apr-2022             Quarterly          

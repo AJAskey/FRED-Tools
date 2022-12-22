@@ -1,2 +1,2 @@
-Id : 198  Kansas City Financial Stress Index
-KCFSI                         Kansas City Financial Stress Index                                                                                       NSA  09-Dec-2022  Monthly        
+Release  Id : 198	Kansas City Financial Stress Index
+KCFSI                         Kansas City Financial Stress Index                                                                                         NSA  09-Dec-2022 01-Nov-2022 15-Dec-2022 Monthly            

@@ -1,13 +1,13 @@
-Id : 459  Survey of Business Uncertainty
-ATLSBUBEI                     Business Expectations Index (DISCONTINUED)                                                                               NSA  29-Jul-2020  Monthly        
-ATLSBUBUI                     Business Uncertainty Index (DISCONTINUED)                                                                                NSA  29-Jul-2020  Monthly        
-ATLSBUEGEI                    Business Expectations: Employment Growth Index (DISCONTINUED)                                                            NSA  29-Jul-2020  Monthly        
-ATLSBUEGEP                    Business Expectations: Employment Growth                                                                                 NSA  30-Nov-2022  Monthly        
-ATLSBUEGUI                    Business Uncertainty: Employment Growth Index (DISCONTINUED)                                                             NSA  29-Jul-2020  Monthly        
-ATLSBUEGUP                    Business Uncertainty: Employment Growth                                                                                  NSA  30-Nov-2022  Monthly        
-ATLSBUIREI                    Business Expectations: Capital Investment Rate Index (DISCONTINUED)                                                      NSA  29-Jul-2020  Monthly        
-ATLSBUIRUI                    Business Uncertainty: Capital Investment Rate Index (DISCONTINUED)                                                       NSA  29-Jul-2020  Monthly        
-ATLSBUSGEI                    Business Expectations: Sales Growth Index (DISCONTINUED)                                                                 NSA  29-Jul-2020  Monthly        
-ATLSBUSGUI                    Business Uncertainty: Sales Growth Index (DISCONTINUED)                                                                  NSA  29-Jul-2020  Monthly        
-ATLSBUSRGEP                   Business Expectations: Sales Revenue Growth                                                                              NSA  30-Nov-2022  Monthly        
-ATLSBUSRGUP                   Business Uncertainty: Sales Revenue Growth                                                                               NSA  30-Nov-2022  Monthly        
+Release  Id : 459	Survey of Business Uncertainty
+ATLSBUBEI                     Business Expectations Index (DISCONTINUED)                                                                                 NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUBUI                     Business Uncertainty Index (DISCONTINUED)                                                                                  NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUEGEI                    Business Expectations: Employment Growth Index (DISCONTINUED)                                                              NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUEGEP                    Business Expectations: Employment Growth                                                                                 P NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ATLSBUEGUI                    Business Uncertainty: Employment Growth Index (DISCONTINUED)                                                               NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUEGUP                    Business Uncertainty: Employment Growth                                                                                  P NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ATLSBUIREI                    Business Expectations: Capital Investment Rate Index (DISCONTINUED)                                                        NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUIRUI                    Business Uncertainty: Capital Investment Rate Index (DISCONTINUED)                                                         NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUSGEI                    Business Expectations: Sales Growth Index (DISCONTINUED)                                                                   NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUSGUI                    Business Uncertainty: Sales Growth Index (DISCONTINUED)                                                                    NSA  29-Jul-2020 01-Jul-2020             Monthly            
+ATLSBUSRGEP                   Business Expectations: Sales Revenue Growth                                                                              P NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
+ATLSBUSRGUP                   Business Uncertainty: Sales Revenue Growth                                                                               P NSA  30-Nov-2022 01-Nov-2022 15-Dec-2022 Monthly            
