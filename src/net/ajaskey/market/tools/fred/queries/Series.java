@@ -304,8 +304,8 @@ public class Series {
   private String                  title;
   private String                  frequency;
   private String                  units;
-  private String                  firstObservation;
-  private String                  lastObservation;
+  private DateTime                firstObservation;
+  private DateTime                lastObservation;
   private DateTime                lastUpdate;
   private String                  seasonalAdjustment;
   private String                  seasonalAdjustmentShort;
@@ -332,7 +332,7 @@ public class Series {
     this.valid = false;
   }
 
-  public String getFirstObservation() {
+  public DateTime getFirstObservation() {
     return this.firstObservation;
   }
 
@@ -344,7 +344,7 @@ public class Series {
     return this.id;
   }
 
-  public String getLastObservation() {
+  public DateTime getLastObservation() {
     return this.lastObservation;
   }
 
@@ -419,7 +419,7 @@ public class Series {
    * @param dateTimeStr
    */
   void setFirstObservation(String dateTimeStr) {
-    this.firstObservation = dateTimeStr;
+    this.firstObservation = new DateTime(dateTimeStr, "yyyy-MM-dd");
   }
 
   void setFrequency(String frequency) {
@@ -435,7 +435,7 @@ public class Series {
    * @param dateTimeStr
    */
   void setLastObservation(String dateTimeStr) {
-    this.lastObservation = dateTimeStr;
+    this.lastObservation = new DateTime(dateTimeStr, "yyyy-MM-dd");
   }
 
   void setLastUpdate(DateTime dt) {

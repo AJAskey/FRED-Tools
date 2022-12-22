@@ -44,7 +44,7 @@ public class ParseFredSeriesData {
 
   private static List<String> usefulList = new ArrayList<>();
 
-  private static String fredlib = "FredLib";
+  private static String fredlib = "D:/data2/MA/CSV Data/FRED-Download";
 
   /**
    * Main processing procedure.
@@ -62,7 +62,7 @@ public class ParseFredSeriesData {
 
     final List<LocalFormat> lfList = new ArrayList<>();
 
-    try (PrintWriter pwAll = new PrintWriter("out/filteredSeriesSummary.txt")) {
+    try (PrintWriter pwAll = new PrintWriter("input/filteredSeriesSummary.txt")) {
 
       int processed = 0;
 

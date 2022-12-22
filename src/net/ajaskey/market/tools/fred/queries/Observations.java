@@ -32,6 +32,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
+import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataValue;
@@ -114,6 +115,8 @@ public class Observations {
             }
           }
         }
+        obs.firstDataDate = new DateTime(obs.dvList.get(0).getDate());
+        obs.lastDataDate = new DateTime(obs.dvList.get(obs.dvList.size() - 1).getDate());
         obs.valid = true;
       }
     }
@@ -125,8 +128,7 @@ public class Observations {
     return obs;
   }
 
-  private final String id;
-
+  private final String          id;
   private String                realtimeStart;
   private String                realtimeEnd;
   private String                observationStart;
@@ -139,6 +141,8 @@ public class Observations {
   private int                   count;
   private int                   offset;
   private int                   limit;
+  private DateTime              firstDataDate;
+  private DateTime              lastDataDate;
   private boolean               valid;
   private final List<DataValue> dvList;
 
@@ -228,12 +232,20 @@ public class Observations {
 //    ret += "Observation Start : " + this.observationStart + Utils.NL;
 //    ret += "Observation End   : " + this.observationEnd + Utils.NL;
     ret += "Count             : " + this.count + Utils.NL;
-    ret += String.format("First/Last Date   : %s  %s", this.dvList.get(0).getDate(), this.dvList.get(this.dvList.size() - 1).getDate());
+    ret += String.format("First/Last Date   : %s  %s", this.firstDataDate, this.lastDataDate);
 //    for (DateValue dv : this.dvList) {
 //      ret += " Date / Value     : " + dv.getDate() + " / " + dv.getValue() + Utils.NL;
 //    }
 
     return ret;
+  }
+
+  public DateTime getLastDataDate() {
+    return lastDataDate;
+  }
+
+  public DateTime getFirstDataDate() {
+    return firstDataDate;
   }
 
 }

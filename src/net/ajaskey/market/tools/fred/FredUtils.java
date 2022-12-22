@@ -172,7 +172,13 @@ public class FredUtils {
     return ret;
   }
 
-  public static void writeToLibNew(Observations obs, LocalFormat lf, String dir) {
+  /**
+   * 
+   * @param obs
+   * @param lf
+   * @param dir
+   */
+  public static void writeToLib(Observations obs, LocalFormat lf, String dir) {
 
     double scaler = 1.0;
     if (lf.getUnits().equals("B")) {
@@ -196,9 +202,11 @@ public class FredUtils {
     // Remove existing file so new file will show date of creation. Must be a
     // Windows feature to keep original file date when it is overwritten with new.
     if (file.exists()) {
+      Debug.LOGGER.info("Deleting existing file : " + file.getAbsolutePath());
       file.delete();
     }
     if (fileshort.exists()) {
+      Debug.LOGGER.info("Deleting existing file : " + fileshort.getAbsolutePath());
       fileshort.delete();
     }
 

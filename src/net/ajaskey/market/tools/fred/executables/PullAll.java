@@ -82,7 +82,7 @@ public class PullAll {
    */
   public static void processAll(String serieslib, String fredlib, int retries, int delay) throws FileNotFoundException {
 
-    PullAll.allSeriesPw = new PrintWriter("out/allSeriesSummary.txt");
+    PullAll.allSeriesPw = new PrintWriter("input/MasterSeriesSummary.txt");
 
     final List<Release> relList = Release.queryReleases();
 

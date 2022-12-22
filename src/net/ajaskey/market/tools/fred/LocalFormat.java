@@ -2,6 +2,7 @@ package net.ajaskey.market.tools.fred;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 import net.ajaskey.common.DateTime;
@@ -11,6 +12,45 @@ import net.ajaskey.market.tools.fred.queries.Series;
 
 public class LocalFormat {
 
+  public class LfSorter implements Comparator<LocalFormat> {
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see java.util.Comparator#compare(java.lang.Object, java.lang.Object)
+     */
+    @Override
+    public int compare(final LocalFormat lf1, final LocalFormat lf2) {
+
+      if (lf1 == null || lf2 == null || lf1.getLocalFileDate() == null || lf2.getLocalFileDate() == null) {
+        return 0;
+      }
+
+      try {
+        int ret = 0;
+        if (lf1.getLocalFileDate().isGreaterThan(lf2.getLocalFileDate())) {
+          ret = -1;
+        }
+        else if (lf1.getLocalFileDate().isLessThan(lf2.getLocalFileDate())) {
+          ret = 1;
+        }
+        return ret;
+      }
+      catch (final Exception e) {
+        return 0;
+      }
+    }
+  }
+
+  private final static LocalFormat tmpLfClass = new LocalFormat();
+  public final static LfSorter     sorter     = tmpLfClass.new LfSorter();
+
+  /**
+   *
+   * @param id
+   * @param list
+   * @return
+   */
   public static LocalFormat findInList(String id, List<LocalFormat> list) {
 
     for (final LocalFormat lf : list) {
@@ -20,6 +60,38 @@ public class LocalFormat {
     }
 
     return null;
+  }
+
+  /**
+   * 
+   * @param filename
+   * @param fredlib
+   * @param isInFredLib
+   * @return
+   */
+  public static List<LocalFormat> readMasterList(String filename, String fredlib, boolean isInFredLib) {
+
+    final List<LocalFormat> lfList = new ArrayList<>();
+
+    final List<String> lfData = TextUtils.readTextFile(filename, false);
+
+    for (final String s : lfData) {
+      final LocalFormat lf = LocalFormat.build(s.trim(), fredlib);
+      boolean doAdd = false;
+      if (lf.isValid()) {
+        if (isInFredLib && lf.localFileDate != null) {
+          doAdd = true;
+        }
+        else if (!isInFredLib) {
+          doAdd = true;
+        }
+        if (doAdd) {
+          lfList.add(lf);
+        }
+      }
+    }
+
+    return lfList;
   }
 
   /**
@@ -107,12 +179,26 @@ public class LocalFormat {
     return lfList;
   }
 
+  /**
+   * 
+   * @param data
+   * @param fredlib
+   * @return
+   */
+  private static LocalFormat build(String data, String fredlib) {
+    final LocalFormat lf = new LocalFormat();
+    lf.fredlib = fredlib;
+    lf.parseline(data);
+    return lf;
+  }
+
   private String   id;
   private String   title;
   private String   seasonality;
   private String   frequency;
   private String   units;
   private DateTime lastUpdate;
+  private DateTime lastObservation;
   private String   releaseId;
   private String   releaseName;
   private File     localFile;
@@ -141,6 +227,7 @@ public class LocalFormat {
     this.frequency = series.getFrequency();
     this.units = series.getUnits();
     this.lastUpdate = new DateTime(series.getLastUpdate());
+    this.lastObservation = new DateTime(series.getLastObservation());
     this.releaseId = release_id;
     this.releaseName = release_name;
     this.fredlib = fredlib;
@@ -181,15 +268,17 @@ public class LocalFormat {
       t = t.substring(0, 119);
     }
 
-    String f = this.getFrequency().trim();
-    if (f.length() > 19) {
-      f = f.substring(0, 18);
+    String freq = this.getFrequency().trim();
+    if (freq.length() > 19) {
+      freq = freq.substring(0, 18);
     }
 
     String lfd = " ";
     if (this.localFileDate != null) {
       lfd = this.localFileDate.format("dd-MMM-yyyy");
     }
+
+    String lo = this.lastObservation.format("dd-MMM-yyyy");
 
     String scaler = " ";
     final String unt = this.units.trim().toLowerCase();
@@ -212,10 +301,19 @@ public class LocalFormat {
       scaler = "R";
     }
 
-    final String sum = String.format("%-30s%-120s %1s %-4s %-11s %-11s %-19s", this.getId(), t, scaler, this.getSeasonality(), this.getLastUpdate(),
-        lfd, f);
+    final String sum = String.format("%-30s%-120s %1s %-4s %-11s %-11s %-11s %-19s", this.getId(), t, scaler, this.getSeasonality(),
+        this.getLastUpdate(), lo, lfd, freq);
 
     return sum;
+  }
+
+  public String formatlineRel() {
+
+    String s = formatline();
+    String ret = String.format("%s  %-3s %-10s", s, this.releaseId, this.releaseName);
+
+    return ret;
+
   }
 
   public String getFilename() {
@@ -286,13 +384,21 @@ public class LocalFormat {
         this.units = stmp.trim();
         stmp = line.substring(153, 157);
         this.seasonality = stmp.trim();
+
         stmp = line.substring(158, 169);
         this.lastUpdate = new DateTime(stmp, "dd-MMM-yyyy");
-        stmp = line.substring(182, 200);
+
+        stmp = line.substring(170, 181);
+        this.lastObservation = new DateTime(stmp, "dd-MMM-yyyy");
+
+        stmp = line.substring(182, 193);
+        this.localFileDate = new DateTime(stmp, "dd-MMM-yyyy");
+
+        stmp = line.substring(194, 213);
         this.frequency = stmp.trim();
 
-        if (len > 201) {
-          stmp = line.substring(202);
+        if (len > 214) {
+          stmp = line.substring(214);
           this.releaseId = stmp.substring(0, 3).trim();
           this.releaseName = stmp.substring(4).trim();
         }
@@ -345,6 +451,11 @@ public class LocalFormat {
     }
     ret += "Valid        : " + this.valid;
     return ret;
+  }
+
+  public void setLocalFileDate(DateTime dt) {
+    this.localFileDate = dt;
+
   }
 
 }
