@@ -56,6 +56,10 @@ public class PullAll {
 
     ApiKey.set();
 
+    Utils.makeDir("FredSeries");
+    Utils.makeDir("FredLib");
+    Utils.makeDir("input");
+
     try {
       // Check the debug log to see if retries and/or delays needs to be modified. I
       // have found that 7 and 15 works well but it is a tradeoff between processing

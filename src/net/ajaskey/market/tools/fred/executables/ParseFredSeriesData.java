@@ -40,11 +40,11 @@ import net.ajaskey.market.tools.fred.queries.Series;
  */
 public class ParseFredSeriesData {
 
-  private static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
+  private final static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
 
   private static List<String> usefulList = new ArrayList<>();
 
-  private static String fredlib = "D:/data2/MA/CSV Data/FRED-Download";
+  private final static String fredlib = "D:/data2/MA/CSV Data/FRED-Download";
 
   /**
    * Main processing procedure.
@@ -241,12 +241,27 @@ public class ParseFredSeriesData {
       return false;
     }
 
+    // Filter Id : 95 Manufacturer's Shipments, Inventories, and Orders.
+    if (lfdata.getReleaseName().contains("Manufacturer's Shipments, Inventories, and Orders")) {
+
+      if (!lfdata.getTitle().contains("with Unfilled Orders")) {
+        if (lfdata.getSeasonality().equals("NSA")) {
+          if (lfdata.getTitle().startsWith("Manufacturers' Total Inventories")) {
+            return true;
+          }
+          else if (lfdata.getTitle().startsWith("Manufacturers' New Orders")) {
+            return true;
+          }
+        }
+      }
+      return false;
+
+    }
+
     // Filter Id : 51 International Trade in Goods and Services. Desired are in
     // useful list.
-
     // Filter Id : 52 Z.1 Financial Accounts of the United States. Desired are in
     // useful list.
-
     // Filter Id : 53 Gross Domestic Product. Desired are in useful list.
     // Filter Id : 86 Commercial Paper. Desired are in useful list.
     if (lfdata.getReleaseName().contains("International Trade in Goods and Services")
@@ -289,17 +304,8 @@ public class ParseFredSeriesData {
     }
 
     // Filter Id : 374 Texas Manufacturing Outlook Survey.
-    if (lfdata.getReleaseName().contains("Texas Manufacturing Outlook Survey")) {
-      if (lfdata.getTitle().contains("Diffusion Index")) {
-        if (lfdata.getSeasonality().equals("NSA")) {
-          return true;
-        }
-      }
-      return false;
-    }
-
     // Filter Id : 377 Texas Retail Outlook Survey.
-    if (lfdata.getReleaseName().contains("Texas Retail Outlook Survey")) {
+    if (lfdata.getReleaseName().contains("Texas Manufacturing Outlook Survey") || lfdata.getReleaseName().contains("Texas Retail Outlook Survey")) {
       if (lfdata.getTitle().contains("Diffusion Index")) {
         if (lfdata.getSeasonality().equals("NSA")) {
           return true;

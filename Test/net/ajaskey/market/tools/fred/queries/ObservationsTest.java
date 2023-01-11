@@ -11,7 +11,7 @@ class ObservationsTest {
 
     ApiKey.set();
 
-    final Observations obs = Observations.queryObservation("GDP", 3, 10);
+    final Observations obs = Observations.queryObservation("TREAST", 3, 10);
 
     System.out.println(obs);
   }

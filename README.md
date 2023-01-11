@@ -13,7 +13,7 @@
  
 ## Status
  
- 14Dec2022 - Software is not stable in this repository. It is good for viewing and test out on your local system. Expect issues for a while.
+ 20Dec2022 - Software is not stable in this repository. It is good for viewing and test out on your local system. Expect issues for a while.
  I am working on it. 
  
  New work flow in progress to reduce time on the FRED server.
@@ -41,7 +41,7 @@
 
  These are usable now but still need testing (which is ongoing).
  
- **FredInitLibary** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredInitLibrary). This program will download date/value pairs for codes from input file. The program has an input file and output file(s). I use my tools to create an input file of Series Ids I want.
+ **FredUpdateLocal** - Runnable from Eclipse IDE or from ANT build.xml file (target=FredUpdateLocal). This program will download date/value pairs for codes from input file. The program has an input file and output file(s). I use my tools to create an input file of Series Ids I want.
  
  Note that I am re-writing this to be more efficient with the query classes I have written.
  

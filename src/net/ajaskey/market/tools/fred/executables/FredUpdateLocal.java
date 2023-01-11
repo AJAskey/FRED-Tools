@@ -45,7 +45,7 @@ import net.ajaskey.market.tools.fred.queries.Observations;
 public class FredUpdateLocal {
 
   public enum FredMode {
-    FULL, UPDATE;
+    FULL, UPDATE, OVERRIDE;
   }
 
   private static FredMode mode = FredMode.UPDATE;
@@ -106,8 +106,10 @@ public class FredUpdateLocal {
     String dbg = String.format("Mode=%s    fredlib=%s    inputIds=%s", FredUpdateLocal.mode, FredUpdateLocal.fredlib, FredUpdateLocal.inputIds);
     Debug.LOGGER.info(dbg);
 
-    final List<LocalFormat> lfList = LocalFormat.readSeriesList(FredUpdateLocal.inputIds, "FredLib");
-    final List<LocalFormat> overridesList = LocalFormat.readSeriesList("input/overrides.txt", "FredLib");
+    final List<LocalFormat> lfList = LocalFormat.readSeriesList(FredUpdateLocal.inputIds, FredUpdateLocal.fredlib);
+    Collections.sort(lfList, LocalFormat.sorter);
+
+    final List<LocalFormat> overridesList = LocalFormat.readRawList("input/overrides.txt", lfList);
 
     String ids = "Processing Ids :" + Utils.NL;
     for (final LocalFormat lf : overridesList) {
@@ -119,7 +121,16 @@ public class FredUpdateLocal {
     Debug.LOGGER.info(ids);
 
     for (final LocalFormat lf : overridesList) {
+      System.out.println(lf.getId());
       FredUpdateLocal.process(lf, FredUpdateLocal.fredlib, 5, 8);
+    }
+
+    /**
+     * Only process OVERRIDEs
+     */
+    if (FredUpdateLocal.mode == FredMode.OVERRIDE) {
+      Debug.LOGGER.info(String.format("%n%n------%nProcessing completed. Downloaded = %d", downloadKnt));
+      return;
     }
 
     dbg = "";
@@ -201,21 +212,28 @@ public class FredUpdateLocal {
 
     boolean success = false;
 
-    Debug.LOGGER.info(String.format("%n---%nChecking %s", lf.getId()));
+    Debug.LOGGER.info(Utils.NL + Utils.NL);
+    Debug.LOGGER.info(String.format("Checking dates%n%s", lf));
     boolean doProcess = false;
 
     if (lf.getLocalFileDate() == null) {
       doProcess = true;
       Debug.LOGGER.info(String.format("doProcess - no local file"));
     }
+    else if (lf.getLastUpdate().isGreaterThan(lf.getLocalFileDate())) {
+      doProcess = true;
+      Debug.LOGGER.info(String.format("doProcess - newer LastUpdate vs local file"));
+    }
     else if (lf.getFrequency().toLowerCase().contains("daily")) {
       doProcess = true;
       Debug.LOGGER.info(String.format("doProcess - daily"));
     }
     else {
-      doProcess = updateSeries(lf);
+      Debug.LOGGER.info(String.format("calling checkDates"));
+      doProcess = checkDates(lf);
     }
 
+    Debug.LOGGER.info(String.format("Updating data : %s", doProcess));
     if (doProcess) {
       success = FredUpdateLocal.process(lf, fredlib, retries, delay);
     }
@@ -223,12 +241,38 @@ public class FredUpdateLocal {
     return success;
   }
 
-  private static boolean updateSeries(LocalFormat lf) {
+  /**
+   * 
+   * @param lf
+   * @return
+   */
+  private static boolean checkDates(LocalFormat lf) {
     boolean doProcess = false;
-    if (lf.getLocalFileDate().isLessThan(lf.getLastUpdate())) {
-      doProcess = true;
-      Debug.LOGGER.info(String.format("doProcess - local file out of date"));
+
+    DateTime nextUpdate = new DateTime(lf.getLastUpdate());
+    DateTime today = new DateTime();
+
+    if (lf.getFrequency().toLowerCase().contains("biweek")) {
+      nextUpdate.add(DateTime.DATE, 14);
     }
+    else if (lf.getFrequency().toLowerCase().contains("week")) {
+      nextUpdate.add(DateTime.DATE, 7);
+    }
+    else if (lf.getFrequency().toLowerCase().contains("month")) {
+      nextUpdate.add(DateTime.MONTH, 1);
+    }
+    else {
+      nextUpdate = null;
+    }
+
+    if (nextUpdate != null) {
+      Debug.LOGGER.info(String.format("nextUpdate=%s  today=%s", nextUpdate, today));
+      if (today.isGreaterThanOrEqual(nextUpdate)) {
+        doProcess = true;
+        Debug.LOGGER.info(String.format("%s doProcess true.", lf.getId()));
+      }
+    }
+
     return doProcess;
   }
 
@@ -290,6 +334,9 @@ public class FredUpdateLocal {
       FredUpdateLocal.mode = FredMode.UPDATE;
       if (m.toUpperCase().equals("FULL")) {
         FredUpdateLocal.mode = FredMode.FULL;
+      }
+      else if (m.toUpperCase().equals("OVERRIDE")) {
+        FredUpdateLocal.mode = FredMode.OVERRIDE;
       }
     }
     catch (final Exception e) {

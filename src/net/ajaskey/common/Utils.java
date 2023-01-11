@@ -117,6 +117,18 @@ public class Utils {
    * Returns files from a directory tree from the request top directory
    *
    * @param top Directory
+   * @param ext Single extension to search
+   * @return List of File
+   */
+  public static List<File> getDir(final String top, final String ext) {
+    String ext1[] = { "csv" };
+    return getDir(top, ext1);
+  }
+
+  /**
+   * Returns files from a directory tree from the request top directory
+   *
+   * @param top Directory
    * @param ext Array of String extensions to return, other extensions are ignored
    * @return List of File
    */
@@ -128,7 +140,6 @@ public class Utils {
       return retFiles;
     }
     return null;
-
   }
 
   /**

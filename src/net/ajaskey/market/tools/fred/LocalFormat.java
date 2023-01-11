@@ -22,16 +22,16 @@ public class LocalFormat {
     @Override
     public int compare(final LocalFormat lf1, final LocalFormat lf2) {
 
-      if (lf1 == null || lf2 == null || lf1.getLocalFileDate() == null || lf2.getLocalFileDate() == null) {
+      if (lf1 == null || lf2 == null) {
         return 0;
       }
 
       try {
         int ret = 0;
-        if (lf1.getLocalFileDate().isGreaterThan(lf2.getLocalFileDate())) {
+        if (lf1.getLastUpdate().isGreaterThan(lf2.getLastUpdate())) {
           ret = -1;
         }
-        else if (lf1.getLocalFileDate().isLessThan(lf2.getLocalFileDate())) {
+        else if (lf1.getLastUpdate().isLessThan(lf2.getLastUpdate())) {
           ret = 1;
         }
         return ret;
@@ -139,8 +139,8 @@ public class LocalFormat {
 
     final List<LocalFormat> lfList = new ArrayList<>();
 
-    final String[] ext = { "txt" };
-    final List<File> files = Utils.getDirTree(seriesLib, ext);
+//    final String[] ext = { "txt" };
+    final List<File> files = Utils.getDir(seriesLib, "txt");
 
     for (final File f : files) {
       final String relId = f.getName().replaceAll(seriesLib, "").replaceAll(".txt", "");
@@ -154,6 +154,42 @@ public class LocalFormat {
     return lfList;
   }
 
+  /**
+   * 
+   * @param filename
+   * @param fredlib
+   * @param bigList
+   * @return
+   */
+  public static List<LocalFormat> readRawList(String filename, final List<LocalFormat> bigList) {
+
+    final List<LocalFormat> lfList = new ArrayList<>();
+    final List<String> data = TextUtils.readTextFile(filename, false);
+
+    for (String s : data) {
+      if (s.length() > 0) {
+        String fld[] = s.split("\\s+");
+        try {
+          LocalFormat lf = findInList(fld[0].trim(), bigList);
+          if (lf.isValid()) {
+            lfList.add(lf);
+          }
+        }
+        catch (Exception e) {
+          e.printStackTrace();
+        }
+      }
+    }
+
+    return lfList;
+  }
+
+  /**
+   * 
+   * @param filename
+   * @param fredlib
+   * @return
+   */
   public static List<LocalFormat> readSeriesList(String filename, String fredlib) {
 
     final List<LocalFormat> lfList = new ArrayList<>();

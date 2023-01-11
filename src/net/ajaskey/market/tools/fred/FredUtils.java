@@ -219,6 +219,7 @@ public class FredUtils {
         pw.printf("%s,%.2f%n", sDate, d);
         pwShort.printf("%s,%.2f%n", sDate, d);
       }
+      Debug.LOGGER.info("Wrote 2 new data files.");
     }
     catch (final FileNotFoundException e) {
       ffn = "Error";

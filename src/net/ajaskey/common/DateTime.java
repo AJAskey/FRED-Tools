@@ -24,6 +24,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
+import java.util.concurrent.TimeUnit;
 
 public class DateTime implements Serializable {
 
@@ -233,6 +234,14 @@ public class DateTime implements Serializable {
     }
   }
 
+  public double daysBetween(DateTime dt) {
+    double ret = 0.0;
+
+    long diff = TimeUnit.DAYS.convert(dt.getMs(), TimeUnit.MILLISECONDS);
+
+    return ret;
+  }
+
   /**
    *
    * @param value
@@ -403,9 +412,8 @@ public class DateTime implements Serializable {
     long dd = 0L;
     try {
       if (!dt2.isNull()) {
-        final long s1 = dt2.getTime().getTime();
-        final long s2 = this.getTime().getTime();
-        dd = (s2 - s1) / 86400000;
+        final long s1 = this.getDeltaMilliSeconds(dt2);
+        dd = TimeUnit.DAYS.convert(s1, TimeUnit.MILLISECONDS);
       }
     }
     catch (final Exception e) {
