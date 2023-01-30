@@ -38,6 +38,7 @@ import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.FredUtils;
 import net.ajaskey.market.tools.fred.LocalFormat;
 import net.ajaskey.market.tools.fred.queries.Observations;
+import net.ajaskey.market.tools.fred.queries.Series;
 
 /**
  * Class used to maintain data in a local FRED library.
@@ -107,7 +108,7 @@ public class FredUpdateLocal {
     Debug.LOGGER.info(dbg);
 
     final List<LocalFormat> lfList = LocalFormat.readSeriesList(FredUpdateLocal.inputIds, FredUpdateLocal.fredlib);
-    Collections.sort(lfList, LocalFormat.sorter);
+    Collections.sort(lfList, LocalFormat.sorterAbc);
 
     final List<LocalFormat> overridesList = LocalFormat.readRawList("input/overrides.txt", lfList);
 
@@ -122,6 +123,7 @@ public class FredUpdateLocal {
 
     for (final LocalFormat lf : overridesList) {
       System.out.println(lf.getId());
+      Debug.LOGGER.info(String.format("%n%n------%n"));
       FredUpdateLocal.process(lf, FredUpdateLocal.fredlib, 5, 8);
     }
 
@@ -144,9 +146,10 @@ public class FredUpdateLocal {
         success = FredUpdateLocal.update(lf, FredUpdateLocal.fredlib, 5, 8);
       }
       if (success) {
-        lf.setLocalFileDate(new DateTime());
+        lf.setLocalFileLastObs();
         dbg += lf.getId() + Utils.NL;
-        System.out.println(lf.getId());
+        String s = String.format("%-25s %s", lf.getId(), lf.getFrequency());
+        System.out.println(s);
       }
     }
 
@@ -213,16 +216,17 @@ public class FredUpdateLocal {
     boolean success = false;
 
     Debug.LOGGER.info(Utils.NL + Utils.NL);
-    Debug.LOGGER.info(String.format("Checking dates%n%s", lf));
+    Debug.LOGGER.info(String.format("LF :%n%s", lf));
     boolean doProcess = false;
 
-    if (lf.getLocalFileDate() == null) {
+    if (lf.getLocalFileLastObs() == null) {
       doProcess = true;
       Debug.LOGGER.info(String.format("doProcess - no local file"));
     }
-    else if (lf.getLastUpdate().isGreaterThan(lf.getLocalFileDate())) {
+    else if (lf.getLocalFileLastObs().isLessThan(lf.getLastObservation())) {
       doProcess = true;
-      Debug.LOGGER.info(String.format("doProcess - newer LastUpdate vs local file"));
+      Debug.LOGGER.info(String.format("doProcess - Last Local File Observation: %s less than Last Observation: %s", lf.getLocalFileLastObs(),
+          lf.getLastObservation()));
     }
     else if (lf.getFrequency().toLowerCase().contains("daily")) {
       doProcess = true;
@@ -249,7 +253,7 @@ public class FredUpdateLocal {
   private static boolean checkDates(LocalFormat lf) {
     boolean doProcess = false;
 
-    DateTime nextUpdate = new DateTime(lf.getLastUpdate());
+    DateTime nextUpdate = new DateTime(lf.getLocalFile().lastModified());
     DateTime today = new DateTime();
 
     if (lf.getFrequency().toLowerCase().contains("biweek")) {
@@ -261,6 +265,47 @@ public class FredUpdateLocal {
     else if (lf.getFrequency().toLowerCase().contains("month")) {
       nextUpdate.add(DateTime.MONTH, 1);
     }
+    else if (lf.getFrequency().toLowerCase().contains("quarter")) {
+      nextUpdate.add(DateTime.MONTH, 3);
+    }
+    else {
+      nextUpdate = null;
+    }
+
+    if (nextUpdate != null) {
+
+      boolean dateCheck = today.isGreaterThan(nextUpdate);
+      Debug.LOGGER.info(String.format("today=%s greater than nextUpdate=%s == %s", today, nextUpdate, dateCheck));
+
+      doProcess = dateCheck;
+    }
+
+    return doProcess;
+  }
+
+  /**
+   * 
+   * @param lf
+   * @return
+   */
+  private static boolean checkDates2(LocalFormat lf) {
+    boolean doProcess = false;
+
+    DateTime nextUpdate = new DateTime(lf.getLastUpdate());
+    DateTime today = new DateTime();
+
+    if (lf.getFrequency().toLowerCase().contains("biweek")) {
+      nextUpdate.add(DateTime.DATE, 14);
+    }
+    else if (lf.getFrequency().toLowerCase().contains("week")) {
+      nextUpdate.add(DateTime.DATE, 7);
+    }
+    else if (lf.getFrequency().toLowerCase().contains("month")) {
+      nextUpdate.add(DateTime.DATE, 30);
+    }
+    else if (lf.getFrequency().toLowerCase().contains("quarter")) {
+      nextUpdate.add(DateTime.DATE, 90);
+    }
     else {
       nextUpdate = null;
     }
@@ -269,11 +314,52 @@ public class FredUpdateLocal {
       Debug.LOGGER.info(String.format("nextUpdate=%s  today=%s", nextUpdate, today));
       if (today.isGreaterThanOrEqual(nextUpdate)) {
         doProcess = true;
-        Debug.LOGGER.info(String.format("%s doProcess true.", lf.getId()));
+        Debug.LOGGER.info(String.format("%s doProcess check1 is true.", lf.getId()));
+      }
+    }
+
+    if (doProcess) {
+      doProcess = queryFred(lf);
+      if (doProcess) {
+        Debug.LOGGER.info(String.format("%s doProcess check2 is true.", lf.getId()));
       }
     }
 
     return doProcess;
+  }
+
+  /**
+   * 
+   * @param lf
+   * @return
+   */
+  private static boolean queryFred(LocalFormat lf) {
+
+    boolean ret = false;
+
+    if (lf.getLocalFile() != null) {
+
+      Debug.LOGGER.info(String.format("LF -->%n%s", lf));
+
+      DateTime lo = FredUtils.getLastObservation(lf.getLocalFile());
+
+      Series series = Series.query(lf.getId(), 8, 8);
+
+      if (series != null) {
+
+        Debug.LOGGER.info(String.format("series -->%n%s", series));
+
+        if (series.getLastUpdate().isGreaterThan(lo)) {
+          Debug.LOGGER.info(String.format("Ret is TRUE"));
+          ret = true;
+        }
+      }
+      else {
+        Debug.LOGGER.info(String.format("Warning ... Series is NULL"));
+      }
+    }
+
+    return ret;
   }
 
   /**

@@ -121,7 +121,7 @@ public class Utils {
    * @return List of File
    */
   public static List<File> getDir(final String top, final String ext) {
-    String ext1[] = { "csv" };
+    String ext1[] = { ext };
     return getDir(top, ext1);
   }
 

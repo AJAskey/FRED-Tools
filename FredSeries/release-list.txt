@@ -132,6 +132,7 @@ Id_89HouseholdDebtServiceandFinancialObligationsRatios.txt
 Id_91SurveysofConsumers.txt
 Id_92SelectedRealRetailSalesSeries.txt
 Id_93SupplementalEstimates,MotorVehicles.txt
+Id_95Manufacturer'sShipments,Inventories,andOrders(M3)Survey.txt
 Id_94SurveyofSecondaryMarketPricesandYields,andInterestRatesforHomeLoans.txt
 Id_97NewResidentialSales.txt
 Id_99BudgetandEconomicOutlook.txt

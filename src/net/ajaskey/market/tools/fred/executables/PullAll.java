@@ -41,7 +41,8 @@ import net.ajaskey.market.tools.fred.queries.Series;
  */
 public class PullAll {
 
-  static PrintWriter allSeriesPw = null;
+  static PrintWriter    allSeriesPw = null;
+  private static String fredlib     = "D:/data2/MA/CSV Data/FRED-Download";
 
   /**
    *
@@ -57,14 +58,14 @@ public class PullAll {
     ApiKey.set();
 
     Utils.makeDir("FredSeries");
-    Utils.makeDir("FredLib");
+    Utils.makeDir(fredlib);
     Utils.makeDir("input");
 
     try {
       // Check the debug log to see if retries and/or delays needs to be modified. I
       // have found that 7 and 15 works well but it is a tradeoff between processing
       // time and internal retry loops.
-      PullAll.processAll("FredSeries", "FredLib", 6, 7);
+      PullAll.processAll("FredSeries", fredlib, 6, 7);
     }
     catch (final FileNotFoundException e) {
       e.printStackTrace();

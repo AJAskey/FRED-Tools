@@ -20,10 +20,15 @@ package net.ajaskey.market.tools.fred.executables;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import net.ajaskey.common.DateTime;
+import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
+import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.LocalFormat;
 import net.ajaskey.market.tools.fred.queries.Series;
 
@@ -39,6 +44,8 @@ import net.ajaskey.market.tools.fred.queries.Series;
  *
  */
 public class ParseFredSeriesData {
+
+  private static Set<String> uniqSeries = new HashSet<>();
 
   private final static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
 
@@ -56,69 +63,114 @@ public class ParseFredSeriesData {
    */
   public static void main(String[] args) {
 
+    Debug.init("debug/ParseFredSeriesData.dbg", java.util.logging.Level.INFO);
+
+    ApiKey.set();
+
     final List<String> relList = ParseFredSeriesData.getReleasesToProcess("FredSeries/release-list.txt");
 
     ParseFredSeriesData.setUsefulList();
 
     final List<LocalFormat> lfList = new ArrayList<>();
 
-    try (PrintWriter pwAll = new PrintWriter("input/filteredSeriesSummary.txt")) {
+    int processed = 0;
 
-      int processed = 0;
+    /**
+     * Process each Release from list. The list can be any Releases you want to
+     * process. The Release class main() will dump all releases found from FRED as a
+     * starting point.
+     */
+    for (final String fname : relList) {
+
+      System.out.printf("release : %s%n", fname);
+
+      final String fileToProcess = "FredSeries/" + fname;
+      final List<String> data = TextUtils.readTextFile(fileToProcess, false);
+
+      final String header = data.get(0).trim();
 
       /**
-       * Process each Release from list. The list can be any Releases you want to
-       * process. The Release class main() will dump all releases found from FRED as a
-       * starting point.
+       * Files to be read into Optuma as a list of charts.
        */
-      for (final String fname : relList) {
+      try (PrintWriter pw = new PrintWriter("optuma/" + fname + ".csv")) {
 
-        System.out.printf("release : %s", fname);
+        for (int i = 1; i < data.size(); i++) {
 
-        final String fileToProcess = "FredSeries/" + fname;
-        final List<String> data = TextUtils.readTextFile(fileToProcess, false);
+          final LocalFormat lf = new LocalFormat(header, ParseFredSeriesData.fredlib);
 
-        final String header = data.get(0).trim();
-        final LocalFormat lf = new LocalFormat(header, ParseFredSeriesData.fredlib);
+          final String s = data.get(i);
 
-        /**
-         * Files to be read into Optuma as a list of charts.
-         */
-        try (PrintWriter pw = new PrintWriter("optuma/" + lf.getFilename() + ".csv")) {
+          Debug.LOGGER.info(String.format("%n%n-----%ndata : %s", s));
 
-          for (int i = 1; i < data.size(); i++) {
+          lf.parseline(s);
 
-            final String s = data.get(i);
+          Debug.LOGGER.info(String.format("lf : %n%s", lf));
 
-            lf.parseline(s);
-            if (lf.isValid()) {
-              if (ParseFredSeriesData.isUseful(lf)) {
-                pw.printf("%s,%s,%s,%s%n", lf.getId(), lf.getSeasonality(), lf.getFrequency(), lf.getTitle());
-                String str = lf.formatline();
-                str += String.format(" %-3s %-10s", lf.getReleaseId(), lf.getReleaseName());
-                pwAll.println(str);
-                lfList.add(lf);
-                processed++;
+          if (lf.isValid()) {
+
+            if (ParseFredSeriesData.isUseful(lf)) {
+
+              boolean isNewSeries = uniqSeries.add(lf.getId());
+
+              Debug.LOGGER.info(String.format("isNewSeries : %s", isNewSeries));
+
+              String ss = String.format("%-25s %s", lf.getId(), lf.getFrequency());
+              System.out.println(ss);
+
+              if (isNewSeries) {
+                if (!lf.getFrequency().toLowerCase().contains("daily")) {
+
+                  Series ser = Series.query(lf.getId(), 8, 8);
+                  if (ser.isValid()) {
+
+                    Debug.LOGGER.info(String.format("ser : %n%s", ser));
+
+                    lf.update(ser.getLastUpdate(), ser.getLastObservation());
+
+                    Debug.LOGGER.info(String.format("lf add : %s", lf.getId()));
+
+                    lfList.add(lf);
+                  }
+                }
               }
+              else {
+                Debug.LOGGER.info(String.format("lf.id : %s NOT a new series", lf.getId()));
+              }
+
+              pw.printf("%s,%s,%s,%s%n", lf.getId(), lf.getSeasonality(), lf.getFrequency(), lf.getTitle());
+
+              processed++;
+            }
+            else {
+              Debug.LOGGER.info(String.format("lf.id : %s NOT useful", lf.getId()));
             }
           }
+          else {
+            Debug.LOGGER.info(String.format("lf.id : %s NOT valid", lf.getId()));
+          }
         }
-        System.out.printf("   %d%n", processed);
-        processed = 0;
+      }
+      catch (Exception e) {
+        e.printStackTrace();
+      }
+
+      System.out.printf("   %d%n", processed);
+      processed = 0;
+    }
+
+    Collections.sort(lfList, LocalFormat.sorter);
+    try (PrintWriter pw = new PrintWriter("input/filteredSeriesSummary.txt")) {
+      for (final LocalFormat lf : lfList) {
+        String str = lf.formatline();
+        str += String.format(" %-3s %-10s", lf.getReleaseId(), lf.getReleaseName());
+        pw.println(str);
+        Debug.LOGGER.info(String.format("Adding to filteredSeriesSummmary : %s", lf.getId()));
       }
     }
-    catch (final Exception e) {
+    catch (Exception e) {
       e.printStackTrace();
     }
 
-    try (PrintWriter pw = new PrintWriter("debug/ParseFredSeriesData.dbg")) {
-      for (final LocalFormat lf : lfList) {
-        pw.println(lf);
-      }
-    }
-    catch (final Exception e) {
-      e.printStackTrace();
-    }
     System.out.println(lfList.size());
   }
 

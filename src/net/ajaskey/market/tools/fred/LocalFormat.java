@@ -28,10 +28,10 @@ public class LocalFormat {
 
       try {
         int ret = 0;
-        if (lf1.getLastUpdate().isGreaterThan(lf2.getLastUpdate())) {
+        if (lf1.getLastObservation().isGreaterThan(lf2.getLastObservation())) {
           ret = -1;
         }
-        else if (lf1.getLastUpdate().isLessThan(lf2.getLastUpdate())) {
+        else if (lf1.getLastObservation().isLessThan(lf2.getLastObservation())) {
           ret = 1;
         }
         return ret;
@@ -42,8 +42,34 @@ public class LocalFormat {
     }
   }
 
-  private final static LocalFormat tmpLfClass = new LocalFormat();
-  public final static LfSorter     sorter     = tmpLfClass.new LfSorter();
+  public class LfAbcSorter implements Comparator<LocalFormat> {
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see java.util.Comparator#compare(java.lang.Object, java.lang.Object)
+     */
+    @Override
+    public int compare(final LocalFormat lf1, final LocalFormat lf2) {
+
+      if (lf1 == null || lf2 == null) {
+        return 0;
+      }
+
+      try {
+        int ret = lf1.getId().compareTo(lf2.getId());
+        return ret;
+      }
+      catch (final Exception e) {
+        return 0;
+      }
+    }
+  }
+
+  private final static LocalFormat tmpLfClass   = new LocalFormat();
+  public final static LfSorter     sorter       = tmpLfClass.new LfSorter();
+  public final static LfAbcSorter  sorterAbc    = tmpLfClass.new LfAbcSorter();
+  private final static String      lfDateFormat = "dd-MMM-yyyy";
 
   /**
    *
@@ -79,7 +105,7 @@ public class LocalFormat {
       final LocalFormat lf = LocalFormat.build(s.trim(), fredlib);
       boolean doAdd = false;
       if (lf.isValid()) {
-        if (isInFredLib && lf.localFileDate != null) {
+        if (isInFredLib && lf.localFileLastObs != null) {
           doAdd = true;
         }
         else if (!isInFredLib) {
@@ -116,10 +142,10 @@ public class LocalFormat {
           if (lf.localFile != null) {
             // Update local file date to actual
             if (lf.localFile.exists()) {
-              lf.localFileDate = new DateTime(lf.localFile.lastModified());
+              lf.setLocalFileLastObs();
             }
             else {
-              lf.localFileDate = null;
+              lf.localFileLastObs = null;
             }
           }
           lfList.add(lf);
@@ -171,8 +197,10 @@ public class LocalFormat {
         String fld[] = s.split("\\s+");
         try {
           LocalFormat lf = findInList(fld[0].trim(), bigList);
-          if (lf.isValid()) {
-            lfList.add(lf);
+          if (lf != null) {
+            if (lf.isValid()) {
+              lfList.add(lf);
+            }
           }
         }
         catch (Exception e) {
@@ -203,10 +231,10 @@ public class LocalFormat {
         // Update local file date to actual
         if (lf.localFile != null) {
           if (lf.localFile.exists()) {
-            lf.localFileDate = new DateTime(lf.localFile.lastModified());
+            lf.setLocalFileLastObs();
           }
           else {
-            lf.localFileDate = null;
+            lf.localFileLastObs = null;
           }
         }
         lfList.add(lf);
@@ -238,7 +266,7 @@ public class LocalFormat {
   private String   releaseId;
   private String   releaseName;
   private File     localFile;
-  private DateTime localFileDate;
+  private DateTime localFileLastObs;
   private String   filename;
   private String   fredlib;
   private boolean  valid;
@@ -270,7 +298,7 @@ public class LocalFormat {
     final String tmp = String.format("%s/%s.csv", this.fredlib, this.id);
     this.localFile = new File(tmp);
     if (this.localFile.exists()) {
-      this.localFileDate = new DateTime(this.localFile.lastModified());
+      this.setLocalFileLastObs();
     }
   }
 
@@ -290,6 +318,11 @@ public class LocalFormat {
     this.releaseName = name.trim();
     this.fredlib = fredlib;
     this.filename = String.format("Id%s %s", this.releaseId, this.releaseName);
+    final String tmp = String.format("%s/%s.csv", this.fredlib, this.id);
+    this.localFile = new File(tmp);
+    if (this.localFile.exists()) {
+      this.setLocalFileLastObs();
+    }
   }
 
   /**
@@ -309,12 +342,12 @@ public class LocalFormat {
       freq = freq.substring(0, 18);
     }
 
-    String lfd = " ";
-    if (this.localFileDate != null) {
-      lfd = this.localFileDate.format("dd-MMM-yyyy");
+    String lflo = " ";
+    if (this.localFileLastObs != null) {
+      lflo = this.localFileLastObs.format(lfDateFormat);
     }
 
-    String lo = this.lastObservation.format("dd-MMM-yyyy");
+    String lo = this.lastObservation.format(lfDateFormat);
 
     String scaler = " ";
     final String unt = this.units.trim().toLowerCase();
@@ -338,7 +371,7 @@ public class LocalFormat {
     }
 
     final String sum = String.format("%-30s%-120s %1s %-4s %-11s %-11s %-11s %-19s", this.getId(), t, scaler, this.getSeasonality(),
-        this.getLastUpdate(), lo, lfd, freq);
+        this.getLastUpdate(), lo, lflo, freq);
 
     return sum;
   }
@@ -372,8 +405,12 @@ public class LocalFormat {
     return this.localFile;
   }
 
-  public DateTime getLocalFileDate() {
-    return this.localFileDate;
+  public DateTime getLocalFileLastObs() {
+    return this.localFileLastObs;
+  }
+
+  public DateTime getLastObservation() {
+    return this.lastObservation;
   }
 
   public String getReleaseId() {
@@ -422,13 +459,13 @@ public class LocalFormat {
         this.seasonality = stmp.trim();
 
         stmp = line.substring(158, 169);
-        this.lastUpdate = new DateTime(stmp, "dd-MMM-yyyy");
+        this.lastUpdate = new DateTime(stmp, lfDateFormat);
 
         stmp = line.substring(170, 181);
-        this.lastObservation = new DateTime(stmp, "dd-MMM-yyyy");
+        this.lastObservation = new DateTime(stmp, lfDateFormat);
 
         stmp = line.substring(182, 193);
-        this.localFileDate = new DateTime(stmp, "dd-MMM-yyyy");
+        this.localFileLastObs = new DateTime(stmp, lfDateFormat);
 
         stmp = line.substring(194, 213);
         this.frequency = stmp.trim();
@@ -442,11 +479,11 @@ public class LocalFormat {
         this.localFile = new File(String.format("%s/%s.csv", this.fredlib, this.id));
 
         if (this.localFile.exists()) {
-          this.localFileDate = new DateTime(this.localFile.lastModified());
+          this.setLocalFileLastObs();
         }
         else {
           this.localFile = null;
-          this.localFileDate = null;
+          this.localFileLastObs = null;
         }
 
         this.valid = true;
@@ -467,30 +504,38 @@ public class LocalFormat {
 
     final String tmp = String.format("%s/%s.csv", this.fredlib, this.id);
     this.localFile = new File(tmp);
-    if (this.localFile.exists()) {
-      this.localFileDate = new DateTime(this.localFile.lastModified());
-    }
-
+    this.setLocalFileLastObs();
   }
 
   @Override
   public String toString() {
-    String ret = "Id           : " + this.id + Utils.NL;
-    ret += "Title        : " + this.title + Utils.NL;
-    ret += "Seasonality  : " + this.seasonality + Utils.NL;
-    ret += "Frequency    : " + this.frequency + Utils.NL;
-    ret += "Units        : " + this.units + Utils.NL;
-    ret += "LastUpdate   : " + this.lastUpdate + Utils.NL;
-    ret += "Release      : " + this.releaseId + Utils.TAB + this.releaseName + Utils.NL;
-    if (this.localFileDate != null) {
-      ret += "Local File   : " + this.localFile + Utils.TAB + this.localFileDate + Utils.NL;
+    String ret = "Id              : " + this.id + Utils.NL;
+    ret += "Title           : " + this.title + Utils.NL;
+    ret += "Seasonality     : " + this.seasonality + Utils.NL;
+    ret += "Frequency       : " + this.frequency + Utils.NL;
+    ret += "Units           : " + this.units + Utils.NL;
+    ret += "LastUpdate      : " + this.lastUpdate + Utils.NL;
+    ret += "LastObservation : " + this.lastObservation + Utils.NL;
+    ret += "Release         : " + this.releaseId + Utils.TAB + this.releaseName + Utils.NL;
+    if (this.localFileLastObs != null) {
+      ret += "Local File      : " + this.localFile + Utils.TAB + this.localFileLastObs.format("dd-MMM-yyyy") + Utils.NL;
     }
-    ret += "Valid        : " + this.valid;
+    ret += "Valid           : " + this.valid;
     return ret;
   }
 
-  public void setLocalFileDate(DateTime dt) {
-    this.localFileDate = dt;
+  public void setLocalFileLastObs() {
+    if (this.localFile.exists()) {
+      this.localFileLastObs = FredUtils.getLastObservation(this.localFile);
+    }
+    else {
+      this.localFileLastObs = null;
+    }
+  }
+
+  public void update(DateTime lupdate, DateTime lobs) {
+    this.lastUpdate = new DateTime(lupdate);
+    this.lastObservation = new DateTime(lobs);
 
   }
 

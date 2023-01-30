@@ -43,6 +43,7 @@ import net.ajaskey.common.Utils;
 import net.ajaskey.market.tools.fred.ApiKey;
 import net.ajaskey.market.tools.fred.DataSeries;
 import net.ajaskey.market.tools.fred.DataSeries.ResponseType;
+import net.ajaskey.market.tools.fred.FredUtils;
 
 public class Series {
 
@@ -254,18 +255,39 @@ public class Series {
             final Series ser = new Series();
             ser.setUrl(url);
 
+//        *    "id": "BOMTVLM133S",
+//            "realtime_start": "2017-08-01",
+//            "realtime_end": "2017-08-01",
+//        *    "title": "U.S. Imports of Services - Travel",
+//        *    "observation_start": "1992-01-01",
+//        *    "observation_end": "2017-05-01",
+//        *    "frequency": "Monthly",
+//        -    "frequency_short": "M",
+//        *    "units": "Million of Dollars",
+//        -    "units_short": "Mil. of $",
+//        *    "seasonal_adjustment": "Seasonally Adjusted",
+//        *    "seasonal_adjustment_short": "SA",
+//        *    "last_updated": "2017-07-06 09:34:00-05",
+//        -    "popularity": 0,
+//        -    "group_popularity": 0
+
             ser.setId(eElement.getAttribute("id").trim());
             ser.setTitle(eElement.getAttribute("title").trim());
-            ser.setFrequency(eElement.getAttribute("frequency").trim());
+
+            String freq = eElement.getAttribute("frequency").trim();
+            ser.setFrequency(freq.replaceAll("Beginning of Month", "BOM").replaceAll("End of Month", "EOM").replaceAll("End of Quarter", "EOQ")
+                .replaceAll("End of Period", "EOP").replaceAll("Beginning of Period", "BOP").trim());
+
             ser.setUnits(eElement.getAttribute("units").trim());
             ser.setType(ResponseType.LIN);
             ser.setSeasonalAdjustment(eElement.getAttribute("seasonal_adjustment").trim());
             ser.setSeasonalAdjustmentShort(eElement.getAttribute("seasonal_adjustment_short").trim());
+
             ser.setLastUpdate(eElement.getAttribute("last_updated").trim());
             ser.setFirstObservation(eElement.getAttribute("observation_start").trim());
             ser.setLastObservation(eElement.getAttribute("observation_end").trim());
 
-            ser.notes = eElement.getAttribute("notes").trim();
+            ser.notes = "";
 
             final boolean newSer = Series.uniqSeries.add(ser.id);
             if (newSer) {
@@ -391,8 +413,8 @@ public class Series {
   @Override
   public String toString() {
 
-    String ret = Utils.NL;
-    ret += "Id                : " + this.id + Utils.NL;
+    String ret = "";
+    ret += "Id                 : " + this.id + Utils.NL;
     ret += " Title             : " + this.title + Utils.NL;
     ret += " Frequency         : " + this.frequency + Utils.NL;
     ret += " Units             : " + this.units + Utils.NL;
@@ -419,7 +441,7 @@ public class Series {
    * @param dateTimeStr
    */
   void setFirstObservation(String dateTimeStr) {
-    this.firstObservation = new DateTime(dateTimeStr, "yyyy-MM-dd");
+    this.firstObservation = new DateTime(dateTimeStr, FredUtils.optumaDateFormat);
   }
 
   void setFrequency(String frequency) {
@@ -435,7 +457,7 @@ public class Series {
    * @param dateTimeStr
    */
   void setLastObservation(String dateTimeStr) {
-    this.lastObservation = new DateTime(dateTimeStr, "yyyy-MM-dd");
+    this.lastObservation = new DateTime(dateTimeStr, FredUtils.optumaDateFormat);
   }
 
   void setLastUpdate(DateTime dt) {

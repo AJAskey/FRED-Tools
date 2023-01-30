@@ -4,12 +4,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import net.ajaskey.common.DateTime;
 import net.ajaskey.common.Debug;
 import net.ajaskey.common.TextUtils;
 import net.ajaskey.common.Utils;
@@ -28,6 +30,8 @@ public class FredUtils {
   final public static double BILLION  = 1E9;
   final public static double MILLION  = 1E6;
   final public static double THOUSAND = 1E3;
+
+  final static public String optumaDateFormat = "yyyy-MM-dd";
 
   public static String getDataSeriesInfoFile() {
     return FredUtils.dataSeriesInfoFile;
@@ -55,6 +59,33 @@ public class FredUtils {
     return codes;
   }
 
+  /**
+   *
+   * @param f
+   * @return
+   */
+  public static DateTime getLastObservation(File f) {
+
+    DateTime dt = new DateTime(2000, DateTime.JANUARY, 1);
+    try {
+      final List<String> data = TextUtils.readTextFile(f, false);
+      final String s = data.get(data.size() - 1);
+      final String ss[] = s.split(",");
+      dt = new DateTime(ss[0].trim(), FredUtils.optumaDateFormat);
+    }
+    catch (final Exception e) {
+      StringWriter sw = new StringWriter();
+      PrintWriter pw = new PrintWriter(sw);
+      e.printStackTrace(pw);
+      Debug.LOGGER.info(String.format("Warning : Exception Thrown%n%s", pw.toString()));
+    }
+    return dt;
+  }
+
+  /**
+   * 
+   * @return Current FRED Library directory
+   */
   public static String getLibrary() {
     return FredUtils.library;
   }
@@ -173,7 +204,7 @@ public class FredUtils {
   }
 
   /**
-   * 
+   *
    * @param obs
    * @param lf
    * @param dir
@@ -214,7 +245,7 @@ public class FredUtils {
       pw.println("Date," + obs.getId());
       pwShort.println("Date," + obs.getId());
       for (final DataValue dv : obs.getDvList()) {
-        final String sDate = dv.getDate().format("yyyy-MM-dd");
+        final String sDate = dv.getDate().format(FredUtils.optumaDateFormat);
         final double d = dv.getValue() * scaler;
         pw.printf("%s,%.2f%n", sDate, d);
         pwShort.printf("%s,%.2f%n", sDate, d);
