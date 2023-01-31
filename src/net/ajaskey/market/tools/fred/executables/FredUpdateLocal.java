@@ -166,6 +166,8 @@ public class FredUpdateLocal {
     }
 
     Debug.LOGGER.info(String.format("%n%n------%nProcessing completed. Downloaded = %d", downloadKnt));
+
+    System.out.println("Done.");
   }
 
   /**
@@ -218,6 +220,9 @@ public class FredUpdateLocal {
     Debug.LOGGER.info(Utils.NL + Utils.NL);
     Debug.LOGGER.info(String.format("LF :%n%s", lf));
     boolean doProcess = false;
+
+//    String s = String.format("%-25s %s", lf.getId(), lf.getFrequency());
+//    System.out.println(s);
 
     if (lf.getLocalFileLastObs() == null) {
       doProcess = true;

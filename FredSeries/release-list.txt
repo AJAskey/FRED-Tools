@@ -5,6 +5,7 @@ Id_102WallStreetJournal.txt
 Id_103DiscountRateMeetingMinutes.txt
 Id_104FederalReserveBulletin.txt
 Id_105St_LouisWeeklyReservesandMonetaryBase.txt
+Id_11EmploymentCostIndex.txt
 Id_13G_17IndustrialProductionandCapacityUtilization.txt
 Id_131G_13SelectedInterestRates.txt
 Id_14G_19ConsumerCredit.txt

@@ -45,6 +45,8 @@ import net.ajaskey.market.tools.fred.queries.Series;
  */
 public class ParseFredSeriesData {
 
+  private final static boolean QUERY = false;
+
   private static Set<String> uniqSeries = new HashSet<>();
 
   private final static DateTime usefulDate = new DateTime(2022, DateTime.SEPTEMBER, 1);
@@ -118,19 +120,27 @@ public class ParseFredSeriesData {
               System.out.println(ss);
 
               if (isNewSeries) {
+
                 if (!lf.getFrequency().toLowerCase().contains("daily")) {
 
-                  Series ser = Series.query(lf.getId(), 8, 8);
-                  if (ser.isValid()) {
+                  if (QUERY) {
 
-                    Debug.LOGGER.info(String.format("ser : %n%s", ser));
+                    Series ser = Series.query(lf.getId(), 8, 8);
+                    if (ser.isValid()) {
 
-                    lf.update(ser.getLastUpdate(), ser.getLastObservation());
+                      Debug.LOGGER.info(String.format("ser : %n%s", ser));
 
-                    Debug.LOGGER.info(String.format("lf add : %s", lf.getId()));
-
-                    lfList.add(lf);
+                      lf.update(ser.getLastUpdate(), ser.getLastObservation());
+                    }
                   }
+                  Debug.LOGGER.info(String.format("lf add : %s", lf.getId()));
+
+                  lfList.add(lf);
+                }
+                else {
+                  Debug.LOGGER.info(String.format("lf add : %s", lf.getId()));
+
+                  lfList.add(lf);
                 }
               }
               else {
@@ -273,6 +283,11 @@ public class ParseFredSeriesData {
         return true;
       }
 
+      return false;
+    }
+
+    // Filter Id : 11 Employment Cost Index Desired are in useful list.
+    if (lfdata.getReleaseName().contains("Employment Cost Index")) {
       return false;
     }
 
